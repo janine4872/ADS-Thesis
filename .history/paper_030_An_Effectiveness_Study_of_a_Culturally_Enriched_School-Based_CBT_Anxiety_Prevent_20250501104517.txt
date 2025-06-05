@@ -1,0 +1,421 @@
+Storage Preferences
+
+IEEE Transactions on Visualization and Computer Graphics
+
+For over three decades, airlines and military aviation have utilized simulators for large proportions of pilot training, as well as ongoing regulatory performance assessments [1],[2],[3]. Within these professions, it has been demonstrated that skills gained in high fidelity simulators can successfully be transferred to real aircraft [4],[5],[6],[7]. While expensive high-fidelity simulation plays an important role for pilot skill acquisition, it is also necessary to focus on how cognitive and collaborative skills can be developed in simulators with varying degrees of fidelity [8]. Although it has been argued that lower-fidelity simulation can provide competence development [9], simple desktop simulators do not generate the level of realism and immersion required for comprehensive professional pilot training [10]. Accordingly, pilot training for airlines and military aviation appears to be limited to full flight simulators.
+
+However, due to technological advances, adaptable, high-fidelity, fully immersive virtual simulators are increasingly being utilized at a fraction of the cost compared to their fixed-based counterparts [11],[12],[13],[14],[15],[16],[17],[18]. Since these flight simulators are still at the nascent stage of prototyping and design, there has been very little research on their effectiveness and the transfer of skills from a virtual to a real environment in aviation. However, several non-aviation studies demonstrate the usefulness of immersive technologies in learning. For example, virtual environments (VEs) have been shown to promote neuroplasticity [19], enhance student's environmental and contextual awareness [20] and promote collaboration [21].
+
+Immersive technologies are any technologies that are used to create a virtual world. Extended reality (XR) is an umbrella term for all the immersive technologies, and includes augmented reality (AR), virtual reality (VR), mixed reality (MR) and areas interpolated along the virtuality continuum [22]. Thus the ‘X' in XR represents a variable for any current or future spatial computing technologies that combine real and virtual environments (see Fig. 1). Some high-fidelity flight simulators may comprise of hybrid display environments which could reasonably be considered to constitute part of the XR Continuum if they include any immersive technologies. To investigate the possible utility of XR, this paper provides a systematic quantitative literature review of XR flight simulators that include any immersive technology. Through the PRISMA methodology, the paper aims to establish a benchmark for aviation research to better direct future research.
+
+Fig. 1. The XR Continuum. Adapted from Milgram and Kishino (1994).
+
+The PRISMA methodology was utilized to ensure that a systematic and explicit method was applied to identify, select, and critically appraise relevant research. The results from two separate searches conducted in October 2020 andJanuary 2021 were amalgamated. The first search captured the use of XR technologies in flight simulators from both academic and grey literature, while the second search examined non-aviation immersive learning literature published in academic sources. To encompass all possible variations and compositions of real and virtual environments (i.e., the XR Continuum) both searches included virtual objects and virtual environments.
+
+An initial exploratory analysis was conducted to define search terms from database keywords and terms. The databases that were searched to capture aviation peer-reviewed industry and academic publications, using the search terms “aviation” or “flight simulator” or “flight simulation” and “extended reality” or “virtual reality” or “mixed reality” or “augmented reality” over the last 20 years were:
+
+The databases that were searched to capture non-aviation peer-reviewed industry and academic publications, using the search terms “learning” or “teaching” and “extended reality” or “virtual reality” or “mixed reality” or “augmented reality” over the last 5 years (restricted to control volume and to include only recent research, with references examined to ensure that important studies were not excluded) were:
+
+The first search produced 2824 records and the second search produced 779, creating a combined dataset of 3603 records (Fig. 2). After removal of duplicate results, 2117 records remained. These records were screened for relevance to the topic of interest, namely their relatedness to aviation or immersive technology teaching, resulting in 1275 records. During the fourth stage, peer-reviewed industry papers, academic and article publications were selected, resulting in 351 records. These records were examined and those that contained irrelevant or peripheral references to XR flight simulation or immersive technology teaching were removed, resulting in 102 records.
+
+Fig. 2. A PRISMA flow diagram for the selection of papers.
+
+At this stage, the 102 records revealed a wide diversity of nomenclature and acronyms. For example, the term ‘virtual reality’ was often used interchangeably with ‘augmented reality’ and ‘mixed reality’, and a Virtual Reality Flight Simulator (VRFS) is the same as Immersive Virtual Simulation (IVS). There were also several variations of Flight Simulation Training Devices (FSTD), including Virtual Reality Procedure Trainer (VRPT) and Fixed-Based Simulator (FBS). The official abbreviations used by the aviation regulators or those adopted as industry standards will be used throughput this paper.
+
+In the final stage, the 102 records were screened for peer-reviewed/academic papers, as well as valid and reliable informative articles that provide a valuable insight to the state of the aviation industry. This yielded 39 records.
+
+Immediate observations are that no other SQLRs were identified on the use of XR in flight simulators and the limited amount of academic research in this area, with only a few authors emerging who are focused on this topic (Aslandere, Dreyer and Oberhauser). Most of the research on VRFS was preliminary (e.g., [23]) or prototype (e.g., [24]), or in the early phase of the design process (e.g., [25]).
+
+The majority of papers focused on the hardware performance issues such as latency, Field of View (FoV), Field of Regard (FoR) and resolution (e.g., [25]), evaluated hardware simulation fidelity (e.g., [24]) or user interaction with the VE (e.g., [26]), and with the exception of Oberhauser et al. [24],[54] who utilised X-Plane, there is no reference to the flight simulation software employed. While there has been significant research on the use and fidelity of traditional, non-virtual flight simulators (e.g., [8]) and the transfer of new skills from those simulators to the real world (e.g., [4]), only four papers compared the usability and objective metrics of a VRFS to a conventional flight simulator [10],[24],[27],[54].
+
+Although there is a known relationship between simulator sickness and virtual reality (e.g., [28]), only one paper researches sickness in a VRFS [54]. Several papers demonstrated the cognitive learning benefits, long term retention, improved collaboration and spatial understanding of immersive technologies (e.g., [29]) but also its limitations (e.g., [19]). As a way of further exploring each article in detail, a summary of the study background along with the primary outcomes extracted is presented in Table 1.
+
+The 39 records were categorised and summarised by their source and study background, shown in Table 2. The source [column 1] indicates whether the paper originates from an academic source (i.e., a peer-reviewed paper), or a full-text magazine article or press release from a commercial airline, the military or other news source. This literature review revealed 31 academic papers, and four relevant articles from each of the commercial and military sectors.
+
+Within the virtuality continuum, the majority of papers studied VR [column 2], with two studies on the application of Augmented Reality (AR) in traditional, non-virtual simulators (ID = 9 and ID = 36), two studies that utilised Cave Automatic Virtual Environment (CAVE. Also Computer Automatic Virtual Environment) (ID = 11 and ID = 18) and one study of a MR cockpit display system which could equally be categorised as VR (ID = 37). Two papers were not part of the virtuality continuum although they employed some aspect of a VE (ID = 23 and ID = 39).
+
+The majority of papers evaluated an XR simulator [column 3] or provided a discussion on an XR concept without an experiment [column 4]. VRFS evaluation was conducted by subjective data collection (e.g., questionnaire or feedback), objective data collection (e.g., head, hand, finger or eye tracking, gaze, behavior, physiological data), or performance parameters (e.g., task completion times and error rate). The instruments employed include the Situation Awareness Rating Technique (SART), NASA-Task Load Index (NASA-TLX) [30] and the ATTENDO method used for assessing the distribution of visual attention [47]. Only five papers conducted an experiment that compared a VRFS to a traditional simulator using objective data collection [column 5]. Presence was discussed in four papers [column 6] and five papers measured the influence of previous gaming experience or previous real-world flying (i.e., pilots) [column 7]. Finally, 10 papers examined learning in a VE [column 8].
+
+From the 39 records, a table of the benefits imposed by virtual objects and environments was compiled (Table 3). This data identifies 19 benefits and is sequenced by the number of records the benefit is referred to. The benefits can be loosely grouped into three categories – reduced costs, flexibility, and immersion – which will now be discussed.
+
+The most reported benefit is the reduced cost of a VRFS over a traditional simulator [Benefit ID 1]. Typically, the majority of the components of a high-specification, commercially available VRFS will be around US$4,000 (2022). To build a VE from scratch, Yavrucuk et al. (2009) constructed a bespoke helicopter simulator with a Head Mounted Display (HMD) and data gloves with US$18,000 [31]. Clearly there is a distinct cost advantage of VRFS since a FAA approved level 6 or 7 simulator (high fidelity, aircraft specific and specific aerodynamic modelling) without motion will cost anywhere between US$1-4 million. Bauer et al. (2008) suggest that a VRFS used for pilot procedure training occupies a niche between Computer-Based Training (CBT) and a traditional flight simulator [32]. A VRFS can therefore be used to prepare students for a full flight simulator. Since traditional flight simulator usage is time consuming (typically one instructor with two students) and therefore expensive to operate on top of the initial purchase cost, the preparatory work would save time and money [Benefit ID 5]. It is also far easier to share and record a user's virtual experience with other students [Benefit ID 15] compared to a traditional simulator, again reducing the time required in a conventional simulator.
+
+Airlines have created virtual co-pilot avatars that streamline training and lower costs by eliminating the need for a second person on the flight deck [Benefit ID 9]. Boeing's version has a co-pilot avatar customisable in different genders, cultures, and languages [13]. When using VR goggles, trainees can see the virtual pilot and have an immersive training experience where they can converse and inquire with the virtual co-pilot as they would with a real co-pilot. Airbus planned to introduce a VR flight trainer in the second half of 2020 which will be an integral part of their type rating curriculum [12]. Based on an Airbus A320 cockpit, pilots will be immersed in a simulated virtual cockpit where they can practice procedures as a crew sharing the same physical room, or remotely together online. Similarly, KLM Cityhopper is seeking EASA certification for VR pilot training on its Embraer 175 and 190 aircraft [14]. Supplementing their augmented courses for cabin crew and maintenance personnel, the VR course will dovetail the type-rating course and provide insight into the regional jets’ characteristics through a virtual cockpit, a 360° point-of-view video from the jump seat, and a virtual walkround [18].
+
+In the military, Bowman et al. discuss the higher flexibility and reduced cost of utilising VR for pilot training compared to real-world exercises [33]. The United States Navy has been incrementally updating their high-fidelity simulators to reduce the costs of live training [17]. Using a high-speed network to connect geographically separate VE's, the simulators have the ability to execute complex missions, prepare for integrated combat and manage the growing size of the modern battle space [Benefit ID 4].
+
+The second most reported benefit with a VRFS is its flexibility [Benefit ID 2]. Full-scale, traditional flight simulators are dependent on aircraft type due to software and hardware constraints, whereas a VE can easily be reconfigured to represent a range of different aircraft. Dörr et al. state that a virtual cockpit “can be easily reconfigured by simply switching the cockpit model database and the attached flight mechanics” ([34], p. 11-1). The use of a ‘seating buck’ [Benefit ID 7] will also allow cockpit configurations to be easily reconfigured, which has the additional benefit that the entire system can be mounted on a motion base to increase the level of immersion [34]. Assuming that a seat buck isn't utilised, a VRFS occupies less space than a traditional simulator [Benefit ID 11] and is far more transportable. The United States Navy recognises the potential to both improve training fidelity and reduce the high lifecycle costs of traditional simulators while the technology deploys a much smaller footprint than current, dome-based flight simulators [35]. VR training will also allow pilots to make more effective use of their training time, and also make training more accessible since it is on-demand and site-independent [Benefit ID 19].
+
+In the Oberhauser et al. experiments that evaluated the human factors aspects of a VRFS [25], parts of the VR cockpit or even the complete environment could be changed quickly, a task that can take considerably longer in a fixed simulator. This flexibility allows the ergonomic and cognitive aspects of the Human Machine Interface (HMI) of two different systems to be compared on the same day with the same subjects and their respective psychological and physiological conditions. Oberhauser et al. also report that in some cases it is easier to integrate human factors methods into a VRFS than in a hardware simulator [25]. As discussed by Comerford et al. , VEs offer the possibility to include AR objects anywhere in the cockpit which can be used to hide or replace cockpit elements, thus providing further flexibility for human factors research [36].
+
+There are numerous benefits of using the 3-dimensional graphics provided by VEs over traditional flat screen simulators. A VE will create spatial awareness – that is, a subject knows where they are in space in relation to objects or other people [Benefit ID 3]. Bowman et al. discuss the intuitive benefit of spatial understanding by stating that the human brain is highly optimized for reconstructing 3-dimesional scenes using depth cues such as stereopsis, motion parallax, perspective and occlusion from the 2-dimensional projections each eye perceives [33]. There are other potential benefits of pilots being immersed in a VE such as increased peripheral awareness or increased useful information bandwidth. By experiment, Bowman et al. found positive effects of immersion on spatial understanding since a virtual object or scene can be brought inside the physical workspace so that the user can walk around it and see it from every angle, similar to a physical mockup [33].
+
+It has been demonstrated that VEs aid cognition through improved attention and neuroplasticity promotion [Benefit ID 6]. Practical examples of spatial learning include Rolls-Royce and Qatar Airways who utilise VR to train engineers on jet engines [37], and Pratt & Whitney who are undertaking similar prototyping on engine training [38]. Dörr et al. also developed a lecture that allows a jet engine to be dismantled down to the key elements such as fan, turbine, stators, turbine shaft, and combustion chamber, allowing students to observe the animated engine and position themselves in arbitrary positions [34]. In these situations, it has been demonstrated that VEs encourage creative learning through enjoyment [Benefit ID 10]. In collaborative activities, such as cockpit Crew Resource Management (CRM), it has been shown that MR significantly reduces deictic gestures and promotes more disambiguous verbal references with a decreased subjective workload [Benefit ID 18].
+
+Immersion is often reported by subjects as ‘realism’. In the Yavrucuk et al. VR helicopter simulator, “users reported a much more realistic feel of simulation compared to [traditional] simulators, where the visual environment is projected on large flat screens” ([31], p. 13). According to Bowman et al. , VR training provides a level of realism not possible in the classroom [33]. AR allows students to take responsibility for their own learning and facilitates autonomous work in education [39], and XR is easily adaptable to provide a contextualised learning environment [Benefit ID 13]. As reported in the Middle East and North Africa Business Report, United States Navy pilot trainees will be placed in a “3-dimensional VE [with] teaching tasks in settings virtually identical to real-life, shipboard scenarios” ([40], 2017, p. 1). Another unique aspect of VEs over traditional simulators is the ability to introduce artificial intelligence (AI) [Benefit ID 17]. The United States Air Force has been investigating whether VR, combined with advanced biometrics and AI can create a faster, more effective way to train pilots [41]. While the emerging technologies are used to decrease the time and cost of training without sacrificing depth of learning, the biometrics and AI are applied to tailor the level of difficulty in different scenarios and teach pilots more effectively. For example, by monitoring a student's heart rate, breathing rate, pulse, and stress levels, the AI could detect if someone is growing too comfortable and automatically create a challenge. As previously discussed, the flexibility of VR can be used to promote dynamic and adaptable scenarios giving rise to feelings of danger and anxiety [Benefit ID 16].
+
+AR provides the ability to superimpose virtual objects in the real world. This concept has many benefits [Benefit IDs 8 and 14], as demonstrated by Tran et al. who used a HMD to provide visual guidance to a pilot during abnormal procedures [42]. During single pilot operation, the test scenarios included an engine fire in cruise flight, and they found that by using AR the decision-making process could be faster and more efficient. Dreyer et al. utilised improved Head(s) Up Display (HUD) symbology compared to legacy HUD symbology in a VRFS and demonstrated that it reduces heads-down time and increases situational awareness during a heads-up guided landing approach [43]. Comerford et al. discussed the ability of AR to provide stereo (3-dimensional) displays in a real-world cockpit [36]. For example, a map display could be rendered in 3-dimensions, as opposed to a top down 2-dimesional view with the third dimension (elevation) represented by alphanumerics. During an aircraft systems lesson, Dörr et al. provided trainees with a complete 3-dimesional aircraft model within a virtual cockpit [34]. The trainees could activate systems within the virtual cockpit and observe the resultant operation on the model aircraft. For example, observation of the actuators during the operation of lowering or raising the landing gear.
+
+Some VR HMDs have in-built head and hand movement tracking (“inside-out”), while other setups may use two or more base stations (“Lighthouses”) for tracking (“outside-in”) [Benefit ID 12]. In a traditional simulator, to track head and hand movements, additional hardware needs to be installed. It is also far easier to install eye tracking in a VRFS than a conventional simulator [34]. Hand, head, and eye tacking is essential when undertaking human factors and HMI studies in a VE.
+
+From the 39 records, a table of the limitations imposed by virtual objects and environments has been compiled (Table 4). The table contains 11 limitations and is sequenced by the number of records the limitation is referred to in the reviewed records. The mitigation is either the solution(s) proposed in the cited records or the interpretation of the authors of the present paper.
+
+The most reported issue with VEs is a degradation of performance due to limitations of the hardware, in particular the HMDs [Limitation IDs 1 and 5]. In the Oberhauser et al. experiment where pilots flew visual circuits in VRFS, they were forced to use HMDs with limited FoV to ensure sufficient resolution to read flight displays [10]. At the time, HMDs with a larger FoV did not offer the necessary resolution. The limited FoV reduced peripheral stimuli which led to limited situational awareness, resulting in a significant degradation of the objective metrics in the VRFS compared to the conventional hardware simulator. The consequence of this was that pilots undershot the final turn which led to an unstable final approach track. Current HMDs offer three to four times improved resolution over models from six years ago (2022 versus 2016). For example, one of the latest HMDs available – the HP Reverb G2 released in December 2020 – offers a combined (i.e., both eyes) 4320 x 2160 pixels compared to the 2160 x 1200 pixels for the HTC Vive released in April 2016. Newer HMDs also provide an increased FoV (114° compared to 110° for the same models respectively). Hardware limitations also contribute to a lack of presence, immersion, and involvement [Limitation ID 6]. By increasing computer performance, the latency can be reduced, providing the user with a much more realistic VE.
+
+Aslandere et al. demonstrated the limited usability of virtual controls (i.e., virtual switches, buttons, sliders, and touch screens) [Limitation ID 2] and reported that participants hit target buttons more than once due to the uncertainty of connecting with the virtual control [44]. In these scenarios, a participant's finger would pass through the virtual button due to lack of tactile feedback resulting in participants being unaware that they were touching the virtual button. A United States Navy project for the F/A-18 - a supersonic, multirole combat jet - is examining whether the fidelity of the cues provided in a VE are sufficient to support the training tasks and whether VR technology can represent a trainee's hand with enough accuracy to allow reliable manipulation of virtual, multi-function displays [35]. In experiments conducted by Oberhauser et al. , they reported that pilot's movements are much slower, and the task completion takes longer if fully virtual, non-haptic buttons are used [25]. Solutions to this are to provide haptic feedback, or to provide physical buttons although this would decrease the flexibility of the VRFS.
+
+The increased physical workload and restricted freedom of movement due to the VR equipment [Limitation IDs 3 and 6] can partially be overcome by utilising wireless HMDs and hand controllers. Wireless devices are becoming the norm, and the typical HMD weight of around 500g is slowly reducing as newer models are introduced. For example, the HP Reverb Professional Edition HMD, introduced in late 2019, weighs 433g [45] compared to the 477g of the HTC Vive [46] which was introduced in 2016. For comfort and improved performance, users also need to be instructed on how to correctly fit the HMDs and adjust the interpupillary distance (if fitted). Newer models also have improved fabric face cushions and improved head straps. The use of intrusive or heavy HMDs can be removed altogether if CAVEs or Binocular Omni-Orientation Monitors (BOOM) are utilised [34].
+
+Virtual Reality Sickness (VRS), or simulator sickness, is a widely researched issue of VEs. This SQLR revealed only one paper that specifically tested for simulator sickness in a VRFS [54], although four additional papers did highlight it as an issue [Limitation ID 4]. Suggested solutions include limiting the exposure duration and providing longer recovery time between successive exposures, requesting subjects to focus on a stationary element within the VE, and applying galvanic and auditory stimulation.
+
+Two papers [Limitation ID 7] raised the issue as to whether users would embrace VR as an alternative to traditional simulator or CBT training. In an experiment which subjected 105 experienced Lufthansa pilots to VR, Bauer et al. reported that the majority accepted VR as a future training medium, with greater interest from the younger generation of pilots [32]. It is inevitable that users, from aviation students through to experienced pilots, may be skeptical of new technology, and it is essential that the VE is aligned with this to provide sufficient instruction and training.
+
+The reduced cost of VRFS over a traditional simulator were discussed as the most cited benefit of a VRFS over a traditional simulator in the previous section. Bowman et al. , however, discuss the expense of VRFS [Limitation ID 9] which has two dominate costs, namely the high-specification computer and the headset with associated head- and finger-tracking systems [33]. However, the comparison Bowman et al. make is to traditional non-immersive gaming computers or classroom-based CBT, rather than a traditional flight training simulator.
+
+The use of AR in a real-world cockpit could be useful if implemented correctly [Limitation IDs 10 and 11]. AR can be created with or without the use of a HMD. Without a HMD, the user is required to constantly hold a device (such as a smartphone or a tablet) and capture the image of the physical world onto which the digital augmentation is overlaid, which results in an experience similar to using a HUD (although a HUD is not part of the virtuality continuum). For a more immersive experience, using a HMD allows AR to be aware of its surroundings and track or recognize the real world to enable digital content to interact with the real world. Comerford et al. suggested that when using AR in a real-world cockpit, the virtual images should not overlay critical information, the effort of managing the images should not increase user workload, and the participant should be able to remove images quickly to focus on the real world (i.e., the instruments, or the view out of the cockpit window) [36].
+
+This paper has shown that the military and commercial airlines are at the forefront of utilising VEs for pilot training. The United States and United Kingdom military have integrated VRFS into their fast jet and helicopter training regimes to save time, reduce costs, improve accessibility, and provide integration of remotely networked VEs. Many major airlines have, or are in the process of, rolling out VRFS for specific parts of aircrew training with advanced features such as customisable co-pilot avatars, and are in the process of obtaining regulatory type rating certification. Academic papers have demonstrated that VEs can strengthen cognitive ability, improve attention, and promote neuroplasticity, although physical practice in a VE (i.e., brain / muscle communication) plays only an instrumental role in cognitive enhancement and other potential paths (i.e., brain / brain communication) are necessary. Academic research on the use of VEs for pilot training is lagging behind the military and commercial sectors and although promising, has only been able to provide minimal evidence of the effectiveness of learning in a VRFS and the transfer of skills from the VE to the real world due to hardware constraints.
+
+Overall, the academic research examined in this paper reports positive conclusions on the implementation of XR in flight simulators. The negative reviews predominantly originate from a non-realistic user experience of a VE where participants report a lack of immersion, involvement and/or presence. This is because VEs require a high level of sensory fidelity - visual, auditory, and tactile cues similar to those experienced in the real world. They require the user's experience in the virtual world to match, as closely as possible, the simulated real-world experience. This lack of immersion, or presence in a VRFS, is predominantly attributed to hardware limitations such as low HMD resolution, limited Degrees of Freedom (DoF) and Field of View (FoV), as well as high latency. A user's sense of presence will be enhanced if the latest VR equipment running on sufficiently powerful computers is coupled with multisensory congruent cues. The purpose of a professional VRFS is to produce training transfer such that a pilot will take the correct actions when faced with situations in the real world. This goal involves the correct mapping between the sensory stimuli and the appropriate response. It makes sense, then, that training will only be as effective as the realism of the training system's sensory stimuli. Therefore, more research needs to be undertaken to determine how VEs can be made to mirror a traditional simulator or real-world experience. There is also a lack of collaboration or multi-crew research in VEs; this may be due to limitations of the current technology.
+
+Although the current level of design and technology inhibit VEs from fully replacing traditional simulators, the literature suggests that VR can successfully occupy an area between traditional classroom-based training and a conventional flight simulator, although more research is required. A VRFS can be used to augment traditional teaching methods and can provide preparatory training for a full flight simulator but cannot fully replace it. For example, a VE can be utilised to provide cockpit familiarization, procedure training (i.e., a VRPT) and abnormal event training. Not only has such an arrangement been demonstrated to reduce the time required to familiarize the trainee with a full flight simulator (e.g., [32]), but all the other benefits such as cost reduction, versatility, improved spatial understanding and accessibility are gained from the VE. It has also been shown that the introduction of AR into a conventional flight simulator can assist with a pilot's decision-making process and improve situational awareness.
+
+This paper presented a systematic quantitative literature review on the use of extended reality in flight simulators and the application of immersive technologies for learning in non-aviation disciplines. It established a research benchmark and found that the technology has been successfully introduced in many industries, although more design and implementation work is required, coupled with appropriate academic research to prove its effectiveness.
+
+Sign up for our newsletter.
+
+EMAIL ADDRESS
+
+IEEE COMPUTER SOCIETY
+
+DIGITAL LIBRARY
+
+COMPUTING RESOURCES
+
+COMMUNITY RESOURCES
+
+BUSINESS SOLUTIONS
+
+POLICIES
+
+©IEEE — All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+Using Extended Reality in Flight Simulators: A Literature Review
+
+1   Introduction
+
+2   Method
+
+3   Results
+
+4   Discussion
+
+5   Conclusion
+
+Footnotes
+
+References
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+Help
+
+About Us
+
+Career Center
+
+Cart
+
+Create Account
+
+Sign In
+
+MY SUBSCRIPTIONS
+
+BROWSE CONTENT
+
+RESOURCES
+
+IEEE TVCG
+
+Current Issue
+
+Past Issues
+
+Issue 2023.09
+
+Early Access
+
+About
+
+Write for Us
+
+Peer Review
+
+GET ACCESS
+
+Previous
+
+Next
+
+Table of Contents
+
+Past Issues
+
+References
+
+Related Articles
+
+Home
+
+Journals
+
+IEEE Transactions on Visualization and Computer Graphics
+
+2023.09
+
+Australian Engineering Database (via Informit)
+
+IEEE/IET Electronic Library (IEL)
+
+ProQuest
+
+Scopus
+
+U.S. Army Research Institute for the Behavioral and Social Sciences (ARI)
+
+Web of Science
+
+ProQuest
+
+Scopus
+
+Web of Science
+
+*Paper ID = 23. Strictly speaking, not employing VR, but using traditional simulators networked to a virtual space.
+
+**Paper ID = 39. Not strictly a VR application, although the visual simulation system is part of a VR display.
+
+[1]J. Bergström, N. Dahlström, E. Henriqson, and S.W.A. Dekker, “Team coordination in escalating situations: An empirical study using mid-fidelity simulation,” J. Contingencies Crisis Manage., vol. 18, no. 4, pp. 220–230, 2010, doi: 10.1111/j.1468-5973.2010.00618.x.
+
+[2]N. D. Macchiarella, T. Brady, and B. S. Lyon, “An application of high fidelity FTDs for ab initio pilot training: The way ahead,” Collegiate Aviation Rev., vol. 26, no. 1, 2008, Art. no. 67, doi: 10.22488/okstate.18.100367.
+
+[3]T. J. Mavin and P. S. Murray, “The development of airline pilot skills through simulated practice,” in Learning Through Practice: Models, Traditions, Orientations, and Approaches. S. Billett Ed., Dordrecht, The Netherlands: Springer, 2010, pp. 268–286.
+
+[4]T. R. Carretta and R. D. Dunlap, Transfer of Training Effectiveness in Flight Simulation: 1986 to 1997. Mesa, AZ, USA: Air Force Research Laboratory, 1998, doi: 10.21236/ada362818.
+
+[5]N. D. Macchiarella, P. K. Arban, and S. M. Doherty, “Transfer of training from flight training devices to flight for ab-initio pilots,” Int. J. Appl. Aviation Stud., vol. 6, no. 2, pp. 299–314, 2006.
+
+[6]R. O. Rogers, A. Boquet, C. Howell, and C. DeJohn, “A two-group experiment to measure simulator-based upset recovery training transfer” Int. J. Appl. Aviation Stud., vol. 10, no. 1, pp. 153–168, 2010.
+
+[7]H. L. Taylor, G. Lintern, C. L. Hulin, D. A. Talleur, EmanuelJr, T. W., and S. I. Phillips, “Transfer of training effectiveness of a personal computer aviation training device,” Int. J. Aviation Psychol., vol. 9, no. 4, pp. 319–335, 1999, doi: 10.1207/s15327108ijap0904_1.
+
+[8]N. Dahlström, “Pilot training in our time – use of flight training devices and simulators,” Aviation, vol. 12, no. 1, pp. 22–27, 2008.
+
+[9]N. Dahlström, S. Dekker, R. van Winsen, and J. Nyce, “Fidelity and validity of simulator training,” Theor. Issues Ergonom. Sci., vol. 10, no. 4, pp. 305–314, 2009, doi: 10.1080/14639220802368864.
+
+[10]M. Oberhauser, D. Dreyer, R. Braunstingl, and I. Koglbauer, “Pilots’ flight performance in a virtual reality flight simulator,” in Proc. 32nd Conf. Eur. Assoc. Aviation Psychol., 2017, pp. 322–335.
+
+[11]Air France, “Virtual reality: The business experiencem,” 2019, Accessed: Dec., 2020. [Online]. Available: https://www.airfrance.ru/RU/en/common/page_flottante/hp/af-realite-virtuelle.htm
+
+[12]Airbus, “Airbus brings cockpit to you with new virtual reality flight trainer,” 2019. Accessed: May, 2022. [Online]. Available: https://aircraft.airbus.com/en/airbus-brings-cockpit-to-you-with-new-virtual-reality-flight-trainer
+
+[13]Boeing, “Flying virtually solo,” 2017. Accessed: Dec.2020. [Online]. Available: http://www.boeing.com/features/2017/07/virtual-copilot-07-17.page
+
+[14]FlightGlobal, “KLM cityhopper seeks EASA backing for virtual-reality pilot training,” 2020, Accessed: Dec., 2020. [Online]. Available: https://www.flightglobal.com/air-transport/klm-cityhopper-seeks-easa-backing-for-virtual-reality-pilot-training/140855.article
+
+[15]C. Hoyle, “RAF typhoon training is virtual reality,” Flight Int., vol. 196, no. 5700, pp. 15–15, 2019.
+
+[16]Lufthansa FlyingLab, “Discover innovative products or services and find out more about the lufthansa flyinglab,” 2019, Accessed: Dec.2020, [Online]. Available: https://www.flyinglab.aero/en/home
+
+[17]J. Newman, “Virtual becoming reality: The next training evolution: The way the U.S. navy trains its pilots and aircrew is changing,” Nav. Aviation News, vol. 98, no. 1, 2016, Art. no. 16.
+
+[18]Rustourismnews, “KLM introducing virtual reality training for pilots,” 2020. Accessed: Dec., 2020. [Online]. Available: https://www.rustourismnews.com/2020/10/29/klm-introducing-virtual-reality-training-for-pilots/
+
+[19]P. P. Foster, “Role of physical and mental training in brain network configuration,” Front. Aging Neurosci., vol. 23, 2015, Art. no. 7, doi: 10.3389/fnagi.2015.00117.
+
+[20]M. Schaper, M. Santos, L. Malinverni, J. Zerbini Berro, and N. Pares, “Learning about the past through situatedness, embodied exploration and digital augmentation of cultural heritage sites,” Int. J. Hum.-Comput. Stud., vol. 114, 2018, pp. 36–50, doi: 10.1016/j.ijhcs.2018.01.003.
+
+[21]J. Müller, R. Radle, and H. Reiterer, “Virtual objects as spatial cues in collaborative mixed reality environments: How they shape communication behavior and user task load,” in Proc. CHI Conf. Hum. Factors Comput. Syst., 2016, pp. 1245–1249.
+
+[22]P. Milgram, and F. Kishino, “A taxonomy of mixed reality visual displays,” IEICE Trans. Inf. Syst., vol. E77-D12, no. 12, pp. 1321–1329, 1994.
+
+[23]S. G. Fussell and D. Truong, “Preliminary results of a study investigating aviation student's intentions to use virtual reality for flight training,” Int. J. Aviation Aeronaut. Aerosp., vol. 7, no. 3, 2020, Art. no. 2.
+
+[24]M. Oberhauser, and D. Dreyer, A Virtual Reality flight Simulator For Human Factors Engineering, London, U.K: Springer, 2017, doi: 10.1007/s10111-017-0421-7.
+
+[25]M. Oberhauser, D. Dreyer, S. Mamessier, T. Convard, D. Bandow, and A. Hillebrand, “Bridging the gap between desktop research and full flight simulators for human factors research,” in Engineering Psychology and Cognitive Ergonomics, D. Harris Eds., Cham, Switzerland: Springer, doi: 10.1007/978-3-319-20373-7_44.
+
+[26]T. I. Aslandere, D. Dreyer, F. Pantkratz, and R. Schubotz, “A generic virtual reality flight simulator,” in Virtuelle Und Erweiterte Realität, 11. Workshop der GI-Fachgruppe VR/AR. G. Zachmann, R. Weller, and A. Hinkenjann Eds., Aachen, Germany: Shaker, 2014, pp. 1–13.
+
+[27]M. Oberhauser, D. Dreyer, R. Braunstingl, and I. Koglbauer, “Pilots’ interaction with hardware controls in a virtual reality flight simulator,” in Proc. 32nd Conf. Eur. Assoc. Aviation Psychol., 2017, pp. 565–575.
+
+[28]X. Hunt and L. E. Potter, “High computer gaming experience may cause higher virtual reality sickness,” in Proc. 30th Australian Conf. Comput.-Hum. Interaction, 2018, pp. 598–601.
+
+[29]D. Bhattacharjee, A. Paul, J. H. Kim, and P. Karthigaikumar, “An immersive learning model using evolutionary learning,” Comput. Elect. Eng., vol. 65, pp. 236–249, 2018, doi: 10.1016/j.compeleceng.2017.08.023.
+
+[30]S. G. Hart and L. E. Staveland, “Development of NASA-TLX (Task load index): Results of empirical and theoretical research,” Adv. Psychol., vol. 52, pp. 139–183, 1988, doi: 10.1016/s0166-4115(08)62386-9.
+
+[31]I. Yavrucuk, E. Kubali, O. Tarimci, and D. Yilmaz, “A low cost flight simulator using virtual reality tools,” in Proc. AIAA Model. Simul. Technol. Conf., 2009, pp. 1–9, doi: 10.2514/6.2009-5832.
+
+[32]M. Bauer and U. Klingauf, “Virtual-reality as a future training medium for civilian flight procedure training,” in Proc. AIAA Model. Simul. Technol. Conf. Exhibit, 2008, pp. 1–7, doi: 10.2514/6.2008-7030.
+
+[33]D. A. Bowman and R. P. McMahan, “Virtual reality: How much immersion is enough?,” Computer, vol. 40, no. 7, pp. 36–43, 2007, doi: 10.1109/MC.2007.257.
+
+[34]K. Dörr, J. Schiefele, and W. Kubbat, Virtual Cockpit Simulation For Pilot Training, Neuilly-sur-Seine, France: Research and Technology Organization, 2001.
+
+[35]J. Newman, “The future of flight training is virtual,” Nav. Aviation News, vol. 100, no. 1, pp. 22–23, 2018.
+
+[36]D. Comerford and W. W. Johnson, “Potential capabilities in a future, augmented cockpit,” Ergonom. Des.: Quart. Hum. Factors Appl., vol. 15, no. 1, pp. 8–13, 2007, doi: 10.1177/106480460701500105.
+
+[37]Rolls Royce, “Rolls-royce and Qatar airways use virtual reality to train engineers,” 2019, Accessed: Dec., 2020. [Online]. Available: https://www.rolls-royce.com/media/press-releases/2019/15-04-2019a-rr-and-Qatar-airways-use-virtual-reality-to-train-engineers.aspx
+
+[38]Pratt & Whitney, “Pratt & whitney investing in virtual reality training tools,” J. Civil Aviation Training, May2017. Accessed: Dec., 2020. [Online]. Available: https://www.civilaviation.training/maintenance/pratt-whitney-investing-virtual-reality-training-tools
+
+[39]J. Martín-Gutiérrez, P. Fabiani, W. Benesova, M. D. Meneses, and C. E. Mora, “Augmented reality to promote collaborative and autonomous learning in higher education,” Comput. Hum. Behav., vol. 51, pp. 752–761, 2015, doi: 10.1016/j.chb.2014.11.093.
+
+[40]MENA, “United States: Cubic to address virtual and augmented reality in naval aviation training at WEST 2017,” MENA Report (Middle East and North Africa Business Report). Al Bawaba, Jordan. Accessed: May, 2022. [Online]. Available: https://thearea.org/ar-news/cubic-address-vr-ar-naval-aviation-training-west-2017/
+
+[41]S. Losey, “The air force is revolutionizing the way airmen learn to be aviators,” 2018, Accessed: Dec., 2020. [Online]. Available: https://www.airforcetimes.com/news/your-air-force/2018/09/30/the-air-force-is-revolutionizing-the-way-airmen-learn-to-be-aviators
+
+[42]T. H. Tran, F. Behrend, N. Funning, and A. Arango, “Single pilot operations with AR-glasses using microsoft hololens,” in Proc. IEEE/AIAA 37th Digit. Avionics Syst. Conf., 2018, pp. 1–7, doi: 10.1109/DASC.2018.8569261.
+
+[43]D. Dreyer, M. Oberhauser, and D. Bandow, “HUD symbology evaluation in a virtual reality flight simulation,” in Proc. Int. Conf. Hum.-Comput. Interaction Aerosp., 2014, pp. 9–14, doi: 10.1145/2669592.2669652.
+
+[44]T. Aslandere, D. Dreyer, and F. Pankratz, “Virtual hand-button interaction in a generic virtual reality flight simulator,” in Proc. IEEE Aerosp. Conf., 2015, pp. 1–8, doi: 10.1109/AERO.2015.7118876.
+
+[45]HP Development Company, “HP reverb g2,” 2020, Accessed: Dec.2020. [Online]. Available: https://www8.hp.com/us/en/vr/reverb-g2-vr-headset.html
+
+[46]HTC Corporation, “HTC vive,” 2019, Accessed: Dec., 2020. [Online]. Available: https://www.vive.com/au/
+
+[47]A. Hillebrand, “ATTENDO: Method for the assessment of visual attention allocation in two-dimensional spaces,” in Proc. Hum. Factors Ergonom. Soc. Annu. Meeting, 2013, pp. 2047–2051, doi: 10.1177/1541931213571457.
+
+[48]R. E. Bailey, J. J. Trey Arthur III, and S. P. Williams, “Latency requirements for head-worn display S/EVS applications,” in Proc. NASA Center Aerosp. Inf., 2004, pp. 98–109.
+
+[49]L. B. Dehn, L. Kater, M. Piefke, M. Botsch, M. Driessen, and T. Beblo, “Training in a comprehensive everyday-like virtual reality environment compared to computerized cognitive training for patients with depression,” Comput. Hum. Behav., vol. 79, pp. 40–52, 2018, doi: 10.1016/j.chb.2017.10.019.
+
+[50]L. Goutal, “Ergonomics assessment for aircraft cockpit using the virtual mock-up,” in Ergonomic Software Tools in Product and Workplace Design. A Review of Recent Developments in Human Modeling and Other Design Aids. K. Landau ed., Stuttgart, Germany: Verlag Ergon, 2000, pp. 173–183.
+
+[51]D. M. Halsmer , “Development of a virtual reality flight simulator to assist in the design of original aircraft,” in Proc. ASEE Annu. Conf. Expo., 2018.
+
+[52]H. H. S. Ip , “Enhance emotional and social adaptation skills for children with Autism Spectrum Disorder: A virtual reality enabled approach,” Comput. Educ., vol. 117, pp. 1–15, 2018, doi: 10.1016/j.compedu.2017.09.010.
+
+[53]H. Lin, Y. Chang, and W. Li, “Effects of a virtual reality teaching application on engineering design creativity of boys and girls,” Thinking Skills Creativity, vol. 37, 2020, Art. no. 100705, doi: 10.1016/j.tsc.2020.100705.
+
+[54]M. Oberhauser, D. Dreyer, R. Braunstingl, and L. Koglbauer, “What's real about virtual reality flight simulation?,” Aviation Psychol. Appl. Hum. Factors, vol. 8, no. 1, pp. 22–34, 2018.
+
+[55]M. Oberhauser, D. Dreyer, T. Convard, and S. Mamessier, “Rapid integration and evaluation of functional HMI components in a virtual reality aircraft cockpit,” in Proc. Int. Conf. Ergonom. Des., 2016, pp. 17–24, doi: 10.1007/978-3-319-41983-1_2.
+
+[56]J. Parong and R. E. Mayer, “Learning science in immersive virtual reality,” J. Educ. Psychol., vol. 110, no. 6, pp. 785–797, doi: 10.1037/edu0000241.
+
+[57]P. Safadel and D. White, “Effectiveness of computer-generated virtual reality (VR) in learning and teaching environments with spatial frameworks,” Appl. Sci., vol. 10, no. 16, 2020, Art. no. 5438, doi: 10.3390/app10165438.
+
+[58]H. Shin and K. Kim, “Virtual reality for cognitive rehabilitation after brain injury: A systematic review,” J. Phys. Ther. Sci., vol. 27, no. 9, pp. 2999–3002, 2015, doi: 10.1589/jpts.27.2999.
+
+[59]H. Wan, S. Zou, Z. Dong, H. Lin, and H. Bao, “MRStudio: A mixed reality display system for aircraft cockpit,” in Proc. IEEE Int. Symp. Virtual Reality Innov., 2011, doi: 10.1109/ISVRI.2011.5759615.
+
+[60]K. Zhao, S. Xu, Q. Ye, and Y. Li, “Design and realization of flight simulation system based on virtual reality technology,” in Proc. Chin. Control Decis. Conf., 2011, pp. 4361–4364, doi: 10.1109/CCDC.2011.5968994.
+
+[61]F. D. Davis, R. P. Bagozzi, and P. R. Warshaw, “User acceptance of computer technology: A comparison of two theoretical models,” Manage. Sci., vol. 35, no. 8, pp. 982–1003, 1989, doi: 10.1287/mnsc.35.8.982.
+
+[62]EASA, “Certification specifications for aeroplane flight simulation training devices,” 2018, Accessed: Dec.2020. [Online]. Available: www.easa.europa.eu/
+
+[63]FAA, “Part 60 - Flight simulation training device initial and continuing qualification and use,” 2020, Accessed: Dec., 2020. [Online]. Available: https://www.ecfr.gov
+
+[64]J. Jerald, The VR Book: Human-Centered Design For Virtual Reality, 1st ed., New York, NY, USA: Mogan & Claypool, 2015, doi: 10.1145/2792790.
+
+A Neural Approach for Fast Simulation of Flight Mechanics
+Proceedings. 38th Annual Simulation Symposium
+
+Flight Simulators for Under $100000
+IEEE Computer Graphics and Applications
+
+Topic Trends in Issue Tracking System of Extended Reality Frameworks
+2021 28th Asia-Pacific Software Engineering Conference (APSEC)
+
+Generative Research in the Context of Academic Extended Reality Research
+2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+
+Ex-Cit XR: Expert-elicitation of XR Techniques for Disengaging from IVEs
+2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+
+An Improved Framework to Assess the Evaluation of Extended Reality Healthcare Simulators using Machine Learning
+2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+
+Towards Universal Interaction for Extended Reality
+2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+
+Simulating Virtual Environment and Experience for Training, Exergaming, and Edutainment in eXtended Reality (XR): A Survey
+2023 International Conference on Computer Applications Technology (CCAT)
+
+Flying in XR: Bridging Desktop Applications in eXtended Reality through Deep Learning
+2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+
+Designing Virtual Pedagogical Agents and Mentors for Extended Reality
+2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+
+About Us
+
+Board of Governors
+
+Newsletters
+
+Press Room
+
+IEEE Support Center
+
+Contact Us
+
+Magazines
+
+Journals
+
+Conference Proceedings
+
+Video Library
+
+Jobs Board
+
+Courses & Certifications
+
+Webinars
+
+Podcasts
+
+Tech News
+
+Membership
+
+Conference Organizers
+
+Authors
+
+Chapters
+
+Communities
+
+Corporate Partnerships
+
+Conference Sponsorships & Exhibits
+
+Advertising
+
+Recruiting
+
+Digital Library Institution Subscriptions
+
+Privacy
+
+Accessibility Statement
+
+IEEE Nondiscrimination Policy
+
+XML Sitemap

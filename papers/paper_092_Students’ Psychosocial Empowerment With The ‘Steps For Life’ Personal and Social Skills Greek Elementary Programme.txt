@@ -1,0 +1,868 @@
+Abstract
+Significant research has been conducted on skills’ enhancement school programs, since their importance has been well established. The presented study evaluates “Steps for life”, a Greek, universal, annual, teacher-taught programme, designed to improve personal and social skills
+in young elementary students by the use of questions, diffusion in formal and hidden curriculum, and parental involvement. The experimental
+study was conducted in Greece during 2013-2014. The sample consisted of 2439 students, with 1516 forming the experimental group and
+923 the control group. The study questionnaire included demographics, Personal and Social Skills Scale-Elementary, and the BASE scale. It
+investigated students’ self-esteem, concentration of attention, participation/cooperation, emotions’ identification and expression, emotions’
+management, ability to control verbal and physical aggressiveness, ability to control victimization, empathy, friendship skills, problem-solving,
+ability to take responsibility, and use of spoken and written language. The experimental group exhibited significant improvement in all investigated skills post-intervention, while the control group did not improve concentration of attention, emotions’ management, and their ability
+to control verbal and physical aggressiveness and victimization. The analysis also revealed that intervention students had significantly higher
+improvement than the controls in all dimensions. Appropriately designed mental health promotion programs can improve several children’s
+social-emotional skills and abilities.
+Keywords: Personal & Social Skills, Social-Emotional Skills, Mental Health Promotion, Programme Evaluation, Elementary Curriculum.
+Introduction
+It has almost been forty years since Gilbert Botvin (1979)
+created the first life skills school programme and paved the
+way for social and emotional evidence-based skill’s education. Since then, the differences between the closely linked
+and often overlapping approaches of prevention and mental
+health education and promotion have been clarified, with the
+distinction between them laying in their targeted outcome
+(WHO, 2002): Prevention, having to do with the causes of
+disease (Herrman, Saxena, Moodie & World Health Organization, 2005) aims to help in the avoidance of problems or
+the reduction of symptoms related to mental health (WHO,
+2002), and mental health promotion, having to do with the
+determinants of mental health (Herrman, Saxena, Moodie &
+World Health Organization, 2005), is a process of empowering individuals in increasing control over their mental health
+and the factors that determine it (WHO, 2004a).
+Also, since then, several mental health-related school programmes have been well-recognized, either categorized as
+Life Skills (LS), Skills for Life (SFL), Personal and Social Skills,
+and Social and Emotional Skills (SES), or labeled as Prevention, or Social Emotional Learning (SEL) programmes. Whatever their title and specific goals, or even their theoretical
+basis, one cannot help but admit that this kind of education
+has produced impressive outcomes during the past decades
+concerning the improvement of students’ social, emotional,
+and coping skills, as pointed out by international organizations (UNESCO, 2004; WHO, 2003) and shown by various
+meta-analyses (Durlak, Weissberg, Dymnicki, Taylor & Schellinger, 2011; Diekstra & Gravesteijn, 2008; Payton et al., 2008;
+Wilson, Gottfredson & Najaka, 2001; Durlak & Wells, 1997).
+Such programmes have been found to a) improve self-esteem (O’Mara, Marsh, Craven & Debus, 2006; Haney & Durlac, 1998), b) prevent depression (Merry, McDowell, Hetrick,
+Bir & Muller, 2004; Forness, Serna, Kavale & Nielsen, 1998)
+and other mental health problems (Greenberg, Domitrovich, & Bumbarger, 2001), c) prevent drug use (Faggiano et
+al. 2005; Tobler et al., 2000) and alcohol and tobacco use
+(Botvin, Griffin, Paul, & Macaulay, 2003), d) enhance emotion management and self-control (Gansle, 2005; Barrett,
+2004; Kusché & Greenberg, 1994), e) help children resolve
+interpersonal conflicts (Geller, 1999; Grossman et al., 1997;
+Kusché & Greenberg, 1994; Shure & Spivack, 1982) and maintain healthy relationships (Beelmann & Lösel, 2006; Englander-Golden, Jackson, Crane, Schwarzkopf & Lyle, 1989) and e)
+reduce violent behavior (Hahn et al., 2007; Wilson & Lipsey,
+2007; Wilson, Lipsey & Derzon, 2003; Catalano, Berglund,
+Ryan, Lonczak, & Hawkins, 2004).
+However, despite all the attention and the plethora of such
+programmes, WHO (2010) acknowledged the fact that “the
+vast majority of studies have been done in high-income
+countries, with the evidence base dominated by studies in
+the United States.” (p. 30), and urged researchers to con-
+© 2018 Published by T& K Academic. This is an open access article under the CC BY- NC- ND license. (https://creativecommons.org/licenses/by/4.0/)
+536
+June 2018, Volume 10, Issue 5, 535-549
+duct studies in “different settings, particularly in low-and
+middle-income countries” (p.30). Greece does consist a
+different setting, especially due to its economic situation;
+though it is not officially defined as a low or even a middle
+income country, its economy has declined substantially
+since the beginning of an economic crisis which became
+apparent in 2009, leading to unemployment, poverty,
+and major cut-downs in health and education sectors’ financing. In this country, research concerning prevention
+and social-emotional education in elementary school is
+extremely limited; there are but a very few effectiveness
+evaluation studies, to our knowledge: a) a study of a conflict control programme with structured activities named
+“You and I become WE” which was found to improve social
+skills in fifth and sixth graders (Chiementi & Triliva, 1994)
+and is no longer available for teachers to implement, b)
+a presentation of four briefly described studies on intervention programmes which were designed by the Center
+for Research and Practice of School Psychology of the National and Kapodistrian University of Athens and found
+to promote resilience, well-being, academic achievement
+and positive climate in the school setting (Hatzichristou &
+Lianos, 2016), c) a study of a programme found to tackle
+racism in students of second to fifth grade (Triliva, Anagnostopoulou, & Vleioras, 2014), d) a study of a programme
+integrating life skills in a sports context which was found
+to enhance life skills in fifth and sixth graders (Papacharisis, Goudas, Danish, & Theodorakis, 2005), and e) an
+evaluation study of a pilot and rather concise curriculum
+named “School and Social Life” which was created under
+the auspices of the Greek Paedagogical Institute (renamed
+to Greek Educational Policy Institute), -was officially implemented nationally in specific schools only during the
+school-years of 2011-12 until 2015-16, and was found to
+improve students’ emotional intelligence and academic
+performance (Babalis, Tsoli, Artikis, Mylonakou-Keke, &
+Xanthakou, 2013).
+The presented study examines the effectiveness of the
+elementary version of “Steps for life” –a Greek, universal, teacher-taught mental health promotion school programme for first and second grade students – which was
+designed having taken into account: a) the above mentioned WHO prompts, b) the fact that the Greek Official
+Curriculum declares all students’ social and emotional
+development as one of its main goals (Ministry of Education and Religious Affairs 2003a; Ministry of Education
+and Religious Affairs, 2003b) but does not provide tools
+to help the teachers achieve it, c) that Greek Paedagogical
+University Departments (4 years of undergraduate studies
+in order to get a degree as a teacher) do not include social-emotional education as a subject and therefore teachers do not know how to teach it, and d) that no evaluated
+structured curricula exist for social-emotional skills’ enhancement in elementary students of the first and second
+grades. We designed and conducted the presented experimental study, in order to identify a school-based approach
+which would improve Greek students’ personal and social
+skills. We hypothesized that the students who would attend the “Steps for life” programme for one school-year,
+would have greater improvement compared to the ones
+who would attend the existing formal Greek curriculum
+concerning the taught, targeted and investigated skills: i)
+concentration of attention, ii) participation/cooperation in
+class, iii) emotions’ identification and expression, iv) emotions’ management, v) ability to control verbal and physical aggressiveness, vi) ability to control victimization, vii)
+empathy, viii) friendship skills, ix) problem-solving ability,
+x) ability to take responsibility, and xii) use of spoken and
+written language,
+The “Steps for Life” Curriculum
+Aim and theoretical basis of the programme
+The “Steps for Life” Elementary- aims to enhance first
+and second grade students’ self-esteem, empathy, and
+personal and social skills, with an emphasis on emotion
+management and problem-solving. The programme does
+not intend to teach the children ‘what to do’ or ‘how to
+behave’, since it refrains from didacticism. Instead, by the
+almost sole use of questions during teaching, it guides the
+students in learning how to think for themselves, in order
+to reach their own conclusions and find their own solutions to their everyday problems.
+“Steps for Life” Elementary-curriculum was created having taken into consideration the teaching and learning
+conditions in Greek Schools, the official Greek Elementary
+School Curriculum, and the knowledge offered by various
+SES and SEL programmes, approved by WHO and SAMHSA
+(e.g. Barrett, 2004; Committee for Children, 2002; Shure,
+2000; Botvin, 1998; Kusché & Greenberg, 1994; TACADE/
+Lions, 1990; Borba, 1989), but cannot be described as culturally specific. The programme was designed in order
+to be implemented within “The Flexible Zone”, which, according to the Greek educational system, is a weekly two
+hour period, during which Greek teachers can voluntarily
+choose to teach “Health Education”, “Environmental Education”, or “Cultural Education” (Ministry of Education
+and Religious Affairs 2003a; Ministry of Education and
+Religious Affairs, 2003b). “Steps for Life” is currently being
+implemented in several elementary classes throughout
+the country within the context of Health Education, after
+having been approved by the Greek Ministry of Education
+(Φ.14/816/171442/Γ1/12-11-2013 and Φ.14/820/ 211037/
+Δ1/24-12-2014).
+Concerning its theoretical background, it combines several important elements and strategies from different
+approaches: As a mental health education programme,
+which includes a) role-modelling of the taught skills during the “hidden curriculum” (conveyance of norms which
+occurrs outside formal lessons) on the part of the teacher,
+and b) the student’s attempt by role-playing, it draws from
+Bandura’s Social Learning Theory (Bandura, 1997). The
+importance of adults’ role-modelling in issues that concern health and mental health education has been well
+documented (e.g. Hills, King, & Armstrong, 2007; Brown
+& Ogden, 2004; Meichenbaum, 1977; Mize & Ladd, 1990),
+since children have been found to prefer to imitate a behavior they see executed, rather than obey verbal suggestions. Role-playing has also been long found to be quiet
+effective in change of behavior and in empathy enhancement (e.g. Gerdes, Segal, Jackson & Mullins, 2011; Culbertson, 1957; Staub, 1971; Clore, & Jeffery, 1972). “Through
+engaging in roleplay, one may obtain insight into himself,
+may be able to learn to control his feelings or to develop
+new life skills”, as Corsini states in “Role Playing in Psychotherapy” (p. 6, 2017).
+As a programme almost solely taught by the use of questions, encouraging children to think and express their
+opinions and guiding them to problem-solve by estimating
+consequences, it also draws from the cognitive approach
+of Arend, Gove and Sroufe (1979) and from Shure and Spivack’s work (1982), which was found to produce positive
+results in the enhancement of children’s problem-solving
+ability (Shure & Spivack, 2008). More analytically this particular approach prompts children to problem solve by
+helping them to adopt a certain way of thinking through a
+problem: a) problem recognition (What is the problem exactly? How/when/where,/why did it occur? Are things the
+Students Psychosocial / Kourmousi, Markogiannakis, Tzavara, Kounenou, Mandrikas, Christopoulou & Koutras
+537
+way they look?), b) solution finding (How many solutions
+can be thought of?), c) estimation of consequences (What
+might happen in case of each solution?), d) choice of best
+solution (So which would be the best idea?), e) solution’s
+execution planning (How can the idea be implemented?).
+As a programme which seeks to alter student’s ways of
+thinking and acting by changing teachers’ and parents’
+approaches, it borrows from the Eco-Behavioral Systems
+Model (Weissberg, Caplan, Sivo, 1989). In anly case, mental
+health promotion school programmes have been found to
+be more effective when involving elements of parents’ and
+teachers’ relevant training (WHO, 2005).
+As a programme which encourages students to explore
+their emotions - and motives and learn through the process of pleasant discovery, it incorporates elements from
+the Psychoanalytic Theory (Cho, 2009; Britzman, 1998).
+Other researchers have found those elements to be effective in the evaluation of similar programs (e.g. Kusché,
+2002).
+Finally, but as importantly, as a programme which requires the unconditional acceptance of the students by
+their teachers, and the use of active listening in order to
+encourage children to find their own solutions to their
+problems, it also draws from Carl Rogers’ person-centered
+humanistic approach (1998). Evidence has shown that
+educators’ empathy positively contributes to students’
+learning and performance (Roorda, Koomen, Spilt, & Oort,
+2011) and that the use of active listening is quite important
+in effective teacher-parents’ communication (Lasky, 2000)
+– which is essential in skills development programmes
+–, as well as in teachers’ own communicative skills McNaughton, Hamlin, McCarthy, Head-Reeves, & Schreiner,
+2008).The programme also builds on a structured model
+for emotional education, initially introduced by the “Steps
+for Life” K-curriculum, which is a programme designed for
+younger children aged 4-6 years, and which also teaches
+personal and social skills with emphasis to main emotions’
+management (Kourmousi, Salagianni, Merakou, Tzavara, &
+Koutras, 2017; Kourmousi, 2012). Specifically, a nine step
+question-based procedure included in the “Steps for Life”
+Elementary-curriculum described below ensures even difficult and complicated emotions’ teaching in a safe way.
+The procedure could be characterized as mainly cognitive,
+since it is question-based, with a psychoanalytic perspective at the point where it encourages children to explore
+their experienced emotions
+Table 1. “Steps for Life” Elementary-curriculum 9 steps procedure for safe emotions’ teaching in elementary students
+Indicative Questions
+1. Naming the emotion
+How do you think the child
+in this picture feels? What
+is the name of the emotion?
+2. External recognition
+How can you tell what he/
+she feels? How are the
+eyes, the eyebrows, the
+arms, the body posture,
+the color of the face, etc.?
+3. Internal recognition
+Do you remember a time
+when you also felt … (emotion’s name)? What did it
+feel like inside your body?
+(e.g. changes in heart rate,
+in breathing, etc.)
+4. Stages of emotion
+How do we say it when we
+feel just a little bit of that
+emotion? How about when
+it grows? How about when
+it is really strong?
+5. Causes of emotion
+What things usually make
+you feel … (emotion’s
+name)?
+6. Causes of emotion in
+other people
+What things do you think
+that would make a mom
+feel … (emotion’s name)?
+How about a teacher? How
+about a kindergartner?
+How about a policeman?
+How about a young refugee? etc.
+7.Usual ways of reacting /
+expressing the emotion
+What do you usually do
+when you feel … (emotion’s name)? (Teacher
+writes down all the given
+answers without criticism).
+8.Estimation of the consequences of the reported
+behaviors
+(After having noted all the
+given answers teacher
+guides the students to estimate the consequences
+of each one) What would
+possibly happen if you
+choose to do the first thing
+that you mentioned? (He/
+she then notes the most
+agreed upon answer next
+to the reported idea and
+goes on) Would that make
+the emotion of … get any
+better?
+9.Chosing the best ideas
+(After having repeated the
+same procedure for each
+given way of reacting to
+the emotion) So, which behaviors do you think would
+be good ideas in order to
+express and handle our
+emotion? Should we write
+them down separately on
+a poster paper and/or put
+it on the classroom wall in
+order to be reminded in
+case we need to?
+Curriculum description
+The “Steps for Life” elementary curriculum consists of: a)
+the Teacher’s Manual containing the theoretical basis of
+the programme and specific instructions for its implementation, b) the structured and analytical Lesson Guide which
+also ensures an easy implementation, c) two hand-puppets – a boy and a girl students – used to introduce most
+of the lessons and demonstrate the taught skills, d) 76
+pictures which serve for the introduction of the subject in
+most lessons, and e) the Letters to the Family which inform
+parents of the taught skills and provide them with simple
+guidelines and indicative ways of dialoguing, thus supporting the continuation of the child’s learning at home.
+The “Steps for Life” annual universal elementary curriculum consists of 27 two-hour weekly lessons, taught in a
+circle class arrangement, and divided into four modules:
+a) rule-setting and establishment of a good classroom
+climate, b) instruction of basic concepts, c) empathy and
+emotions’ identification and management and d) prob-
+538
+June 2018, Volume 10, Issue 5, 535-549
+lem-solving and target-setting. Each lesson includes: i)
+the new concept, ii) the lesson goals, iii) the teaching instructions, iv) the needed materials, v) the introduction
+of the concept by puppet scenarios or by pictures vi) the
+discussion which contains all the questions which need to
+be asked, vii) the role-playing scenarios, viii) coursework
+activities, ix) suggested ways to transfer knowledge in the
+formal curriculum, x) suggested ways for the dissemination of the taught skills in the hidden curriculum (e.g. during free-activity time, break-time, and lunch time), and xi)
+the letter to the family, which describes the newly taught
+skills and includes suggestions and instructions for the
+consolidation of learning.
+Method
+Research Design and Sampling Procedure
+The evaluation study took place in the school-year of 2013-
+14 in six Primary Education Districts of Attica – namely the
+prefecture in which Greece’s capital, Athens, is located –,
+under the supervision of the University of Ioannina with
+the cooperation and support of the six District School
+Counselors in charge. The participating Primary Education
+Districts consisted of urban, rural, and even industrial areas, thus representing all area types. Furthermore, they
+also consisted of high, middle and low income areas, further strengthening the repreresentativeness of the sample.
+The research design was experimental. Since the intervention aimed to evaluate the effectiveness of a universal
+programme whole classes and not students had to be randomly assigned in the experimental and control groups.
+Thus, regarding the sampling procedure, each School
+Counselor provided a list of willing to participate in the
+intervention first and second grade teachers from his/her
+district and conducted a draw between them in order to
+assign their students randomly in the experimental and
+control groups. A larger number of experimental group
+teachers was chosen, trying to ensure a large number even
+in case of possible dropouts. Control group teachers were
+promised that they would receive gratis both the curriculum package and the training during the next school year,
+while the experimental group teachers would be granted
+the material and the training during the year of the study.
+The draw identified seventy first and second grade teachers who became the experimental group’s teachers. Forty-three colleagues of theirs became the control group’s
+teachers, since 7 of the 50 ones who had initially been randomly assigned to that group dropped out during the pre
+and post intervention questionnaire completion, due to
+the time consuming procedure of completing one lengthy
+questionnaire for each of their students, as they reported
+Sample Size and Participant characteristics
+The sample consisted of 2 439 first and second grade students, 1 516 of which belonged to the intervention group
+and 923 to the control group. Sample characteristics of
+both study groups are presented in table 2.
+Table 2. Sample characteristics of the control and intervention group at baseline
+Control group
+(N=923)
+Intervention group
+(N=1516)
+N (%) N (%) p+
+Gender
+ Boys 471 (51.0) 766 (50.6) 0.823
+ Girls 452 (49.0) 749 (49.4)
+Nationality
+ Greek 771 (88.7) 1327 (90.2) 0.253
+ Other 98 (11.3) 144 (9.8)
+Age
+ 6-7 y.o. 396 (43.7) 690 (46.6) 0.163
+ 7-8 or more y.o. 511 (56.3) 791 (53.4)
+Father's educational level
+ Primary to middle school 66 (10.8) 142 (14.0) 0.166
+ High school 188 (30.8) 302 (29.9)
+ 2-year college/ University/ Post-graduate studies 357 (58.4) 567 (56.1)
+Mother's educational level
+ Primary to middle school 54 (8.7) 82 (8.0) 0.972
+ High school 174 (27.9) 294 (28.7)
+ 2-year college/ University/ Post-graduate studies 395 (63.4) 649 (63.3)
+Parents living together
+ No 86 (10.4) 156 (11.7) 0.362
+ Yes 740 (89.6) 1179 (88.3)
+Number of siblings
+ None 97 (11.9) 162 (12.8) 0.173
+ One 423 (51.7) 691 (54.7)
+ Two or more 298 (36.4) 410 (32.5)
+Students Psychosocial / Kourmousi, Markogiannakis, Tzavara, Kounenou, Mandrikas, Christopoulou & Koutras
+539
+The proportion of boys was 51% in the control group and
+50.6% in the intervention one (p= 0.823). Both groups
+consisted mostly of Greek students (88.7% in the control
+group and 90.2% in the intervention group). Children’s age
+was similar in both groups, with the proportion of second
+graders being slightly larger than the one of the first graders. The majority of the children in both groups attended
+the classic-hour (8.30 a.m.-1.30 p.m.) course, as opposed
+to the full time one which operates from 7.30 a.m. to 4.00
+p.m. Father’s and mother’s educational level as well as the
+number of siblings were similar in both groups, as was the
+living situation, since most children lived with both of their
+parents (89.6% for the controls and 88.3% for the intervention group). Additionally, the proportion of those attending an integration class or receiving parallel support
+(thus students with special education needs), as well as
+the proportion of ones re-attending the same grade, were
+similar among the two groups. Also similar was the mean
+number of students in class. No intervention and control
+classes were in the same school.
+Facilitators’ Training
+The experimental group’s teachers became the facilitators of the curriculum. This practice is common regarding
+school-based prevention programmes, as reported in meta-analyses (e.g. Durlak et al., 2011; Diekstra & Gravesteijn,
+2008). In order to be trained, the intervention teachers
+attended: a) an initial presentation of the programme,
+during which the curriculum’s guidelines and components
+were analytically presented to them, b) three whole-day
+bi-monthly experiential workshops, during which they
+were trained mostly in modeling and transferring the programme’s skills in the hidden curriculum and c) monthly
+three-hour afternoon meetings with the coordinators,
+which provided them support throughout the implementation of the programme but also helped the researchers
+get feedback concerning implementation fidelity. The control group teachers did not receive any training.
+Implementation and Implementation Fidelity
+The experimental students attended the curriculum’s
+structured two-hour lessons once a week, facilitated by
+their teachers. They also attended activities realized during dissemination in both the formal and hidden curriculum, throughout the week. At the same time, during the
+lessons that required so, their families received the programme’s letters which contained guidelines concerning
+the continuation of learning of the taught skills.
+Concerning the intervention’s implementation fidelity, it
+should be stressed that the “Steps for Life” curriculum has
+the following characteristics which reinforce it:
+1. Detailed implementation instructions are emphasized in the curriculum’s Teacher’s Manual.
+2. Explicit guidelines included in the Lesson Guide
+describe the implementation of each lesson. Moreover, all the questions which the teacher has to ask
+his/her students, together with the indicative ways
+of dialoguing and the appropriate encouragement
+expressions for use during the course and during
+the hidden curriculum, are provided in the curriculum, fully formulated.
+3. Every lesson of the “Steps for Life” curriculum
+is based on the knowledge acquired by the previous one; therefore it is practically impossible to
+implement lessons or activities randomly, without
+following the curriculum’s proposed sequence.
+Apart from the programme’s characteristics, the following measures – similar to ones used in relevant studies
+(Brackett et al., 2012; Mishara & Ystgaard, 2006; Flannery
+et al., 2003) – were taken in order to ensure implementation fidelity:
+1. Clear and detailed implementation instructions were analytically discussed during the programme’s initial presentation.
+2. Experimental group’s teachers had to complete
+an implementation and evaluation form after the
+completion of each lesson-teaching. The form,
+apart from questions concerning the students’
+concentration and interest, also asked the teachers to note the exact activities proposed by the
+Lesson Guide that they had realized and to describe any possible differences between the lesson as presented in the curriculum and the way it
+was carried out.
+3. The six District School Counselors, who supervised the conduct of the study, visited their intervention schools on a weekly basis during the whole
+school-year, in order to inspect the implementation procedure, ensuring that the programme was
+taught as designed.
+Table 2. (Cont.) Sample characteristics of the control and intervention group at baseline
+Control group
+(N=923)
+Intervention group
+(N=1516)
+N (%) N (%) p+
+Attendance of full-time instead of classic course
+ No 625 (68.5) 1054 (69.9) 0.442
+ Yes 288 (31.5) 453 (30.1)
+Attendance of an Integration Class/ Having Parallel Support
+ No 870 (96.3) 1455 (96.4) 0.923
+ Yes 33 (3.7) 54 (3.6)
+Re-attendance of the same grade
+ No 889 (98.3) 1478 (98.0) 0.562
+ Yes 15 (1.7) 30 (2.0)
+Number of students in class, mean (SD) 21.4 (3.4) 21.6 (3.3) 0.237++
++Pearson’s x2 test; ++Student’s t-test;
+540
+June 2018, Volume 10, Issue 5, 535-549
+Measures
+The measure used to assess the intervention effectiveness
+was a questionnaire comprising a) questions which included demographics (sex, age, nationality, etc.), family information (e.g. if the child lived with both his parents in the
+same house, number of siblings, etc.) and school factors
+(e.g. if the student attended special education structures
+like an integration class or like having parallel support, etc.)
+b) the Personal and Social Skills Scale for Elementary Students Aged 7-9 (Kourmousi et al., 2017) which is designed
+to measure elementary students’ personal and social skills
+in the school environment, and c) the Behavioral Academic Self-Esteem Scale (BASE) (Coopersmith & Gilberts, 1982)
+which assesses students’ self-esteem as exhibited by their
+behaviors in the school environment.
+The Personal and Social Skills Scale for Elementary Students Aged 7-9 (Kourmousi et al., 2017) comprises 95
+items which fall into eleven subscales, namely i) concentration of attention, ii) participation/cooperation in class,
+iii) emotions’ identification and expression, iv) emotions’
+management, v) ability to control verbal and physical aggressiveness, vi) ability to control victimization, vii) empathy, viii) friendship skills, ix) problem-solving ability, x) ability to take responsibility, and xii) use of spoken and written
+language. It assesses the corresponding skills by examining the frequency of students’ behaviors, as observed
+and rated by their teachers, with the use of a 7-point Likert-type scale, with answers ranging from 1=never or almost never, to 7= always or almost always. The scale was
+found to be a reliable and valid instrument for measuring
+Greek elementary students’ personal and social skills, with
+acceptable Cronbach’s alpha for all its subscales ranging
+from 0.82 to 0.92 (Kourmousi et al., 2017).
+The BASE Scale (Coopersmith & Gilberts, 1982) is also
+teacher-rated. It assesses students’ self-esteem on the
+basis of the frequency of their behaviors, using a 5 point
+Likert scale ranging from 1=always to 5=never. It includes
+16 items, which fall in five factors: student initiative, social
+attention, success/failure, social attraction, and self-confidence. The scale has been translated and adapted in
+Greek by Kakouros & Maniadaki (2002).
+Ethical considerations
+The study questionnaire was anonymous. Permission to
+administer it to the teachers was granted by the Greek Institute of Educational Policy (Ref. Φ15/806/174250/Γ1/18-
+11-2013). Written consensus from each participating student’s parents was collected prior to the completion of the
+corresponding questionnaire.
+The study questionnaire was administered to both groups’
+teachers for completion before the intervention, with instructions to be completed within a week. The study
+questionnaire was also administered to all educators one
+month after the intervention completion, with the same as
+the above mentioned instructions.
+Results
+Statistics and Data Analysis
+Quantitative variables were expressed as mean values
+(SD), while qualitative variables were expressed as absolute and relative frequencies. For the comparison of proportions chi-square and Fisher’s exact tests were used.
+Continuous variables were tested for normality using
+the Kolmogorov-Smirnov criterion. Student’s t-tests were
+computed for the comparison of mean values. Repeated
+measurements analysis of variance (ANOVA) was conducted to evaluate the changes observed in the questionnaire
+dimensions between the two study groups before and after the intervention. In order to control for effect of demographic data and school related characteristics a series of
+multiple linear regression analyses were conducted with
+dependent the change in each questionnaire dimension
+and independent variable the type of group (intervention
+vs. control), after adjusting for gender, nationality, age,
+father’s and mother’s educational level, living with both
+parents, number of siblings, attendance of an integration class or having parallel support, re-attendance of the
+same grade, school-hours (classic or all-day course), and
+number of students. Adjusted regression coefficients (β)
+with standard errors (SE) were computed from the results
+of the linear regression analyses. Diagnostics for regression models were performed to check if the conditions
+for regression had been met with the residuals of each
+model being normally distributed and their variance being
+constant. Pearson correlation coefficients were used to
+explore the association between changes in dimensions
+of the questionnaire. All reported p values are two-tailed.
+Statistical significance was set at p< .05 and analyses were
+conducted using SPSS for Windows (Version 19.0. Armonk,
+NY: IBM Corp.).
+Changes in Questionnaire Dimensions
+Changes in questionnaire dimensions after the intervention completion for the two study groups are presented
+in table 3. At baseline, the control and intervention groups
+had similar scores on all dimensions. After the intervention, the experimental group students had significantly
+higher scores in all dimensions. The control group significantly improved most dimensions but did not perform
+Table 3. Changes in questionnaire dimensions after the intervention completion for the two study groups
+Pre Post Change
+Group Mean (SD) Mean (SD) Mean (SD) P++ P‡
+Ability to control Verbal and Physical Aggressiveness Control 5.88 (0.99) 5.90 (1.02) 0.02 (0.66) 0.353 <0.001
+Intervention 5.80 (1.08) 6.03 (1.01) 0.24 (0.75) <0.001
+P+ 0.074 0.001
+Problem-Solving Ability Control 4.90 (1.20) 4.97 (1.31) 0.07 (0.85) 0.041 <0.001
+Intervention 4.86 (1.22) 5.31 (1.28) 0.55 (0.95) <0.001
+P+ 0.430 <0.001
+Concentration of Attention Control 5.14 (1.42) 5.14 (1.50) 0.00 (1.02) 0.756 <0.001
+Intervention 5.05 (1.49) 5.40 (1.49) 0.35 (1.13) <0.001
+P+ 0.141 <0.001
+Students Psychosocial / Kourmousi, Markogiannakis, Tzavara, Kounenou, Mandrikas, Christopoulou & Koutras
+541
+Table 3. (Cont.) Changes in questionnaire dimensions after the intervention completion for the two study groups
+Pre Post Change
+Group Mean (SD) Mean (SD) Mean (SD) P++ P‡
+Participation/Cooperation Control 5.26 (1.04) 5.35 (1.06) 0.09 (0.72) 0.001 <0.001
+Intervention 5.21 (1.06) 5.68 (1.05) 0.47 (0.81) <0.001
+P+ 0.228 0.001
+Empathy Control 5.09 (1.09) 5.26 (1.13) 0.18 (0.91) <0.001 <0.001
+Intervention 5.07 (1.11) 5.70 (1.11) 0.63 (0.97) <0.001
+P+ 0.686 <0.001
+Emotions' Management Control 4.83 (1.17) 4.86 (1.22) 0.03 (0.86) 0.331 <0.001
+Intervention 4.76 (1.22) 5.17 (1.25) 0.41 (0.98) <0.001
+P+ 0.133 <0.001
+Friendship skills Control 5.27 (0.90) 5.37 (0.92) 0.11 (0.69) <0.001 <0.001
+Intervention 5.21 (0.91) 5.57 (0.95) 0.36 (0.76) <0.001
+P+ 0.138 <0.001
+Ability to control Victimization Control 6.22 (0.93) 6.29 (0.87) 0.02 (0.66) 0.381 <0.001
+Intervention 6.15 (0.93) 6.36 (0.84) 0.21 (0.77) <0.001
+P+ 0.072 0.050
+Emotions' Identification and
+Expression Control 4.40 (1.18) 4.57 (1.26) 0.16 (1.07) <0.001 <0.001
+Intervention 4.34 (1.11) 5.01 (1.20) 0.67 (1.16) <0.001
+P+ 0.186 <0.001
+Use of Spoken and Written
+Language Control 4.78 (1.21) 4.93 (1.24) 0.16 (0.77) <0.001 <0.001
+Intervention 4.74 (1.16) 5.26 (1.22) 0.52 (0.85) <0.001
+P+ 0.937 <0.001
+Ability to take Responsibility Control 4.91 (1.11) 4.99 (1.17) 0.08 (0.89) 0.009 <0.001
+Intervention 4.85 (1.08) 5.32 (1.15) 0.46 (0.95) <0.001
+P+ 0.206 <0.001
+Self-esteem (BASE scale) Control 3.63 (0.63) 3.72 (0.66) 0.08 (0.43) <0.001 <0.001
+Intervention 3.62 (0.64) 3.93 (0.69) 0.31 (0.52) <0.001
+P+ 0.424 <0.001
++p-value for group effect; ++p-value for time effect; ‡Repeated measurements ANOVA. Effects reported include differences between the groups
+in the degree of change over the follow-up period
+Table 4. Results of multiple linear regressions models for differences between the two study groups with dependent variables
+the change in questionnaire dimensions and self-esteem adjusted for demographic variables.
+Change: β+ SE++ P
+Ability to control Verbal and Physical Aggressiveness 0.22 0.04 0.001
+Problem-Solving Ability 0.38 0.05 <0.001
+Concentration of Attention 0.42 0.06 <0.001
+Participation/Cooperation 0.36 0.05 <0.001
+Empathy 0.40 0.05 <0.001
+Emotions' Management 0.36 0.06 <0.001
+Friendship skills 0.22 0.04 <0.001
+Ability to control Victimization 0.26 0.04 <0.001
+Emotions' Identification and Expression 0.44 0.07 <0.001
+Use of Spoken and Written Language 0.21 0.05 <0.001
+Ability to take Responsibility 0.33 0.05 <0.001
+Self-esteem (BASE scale) 0.17 0.03 <0.001
++ regression coefficient for the intervention versus the control group adjusted for gender, nationality, age, father’s and mother’s educational
+level, living with both parents, number of siblings, attendance of an integration class or receiving parallel support, re-attendance of the same
+grade, school hours (classic or all day) and number of class students; ++standard error
+542
+June 2018, Volume 10, Issue 5, 535-549
+better in Ability to control Verbal and Physical Aggressiveness, Concentration of Attention, Emotions’ Management,
+and Ability to control Victimization. Moreover, there were
+significant differences in the degree of change of all dimensions between the two groups, with the intervention
+group students showing significantly greater improvement compared to the control group children.
+Differences in the changes of the questionnaire dimensions between the two study groups after adjusting for
+gender, nationality, age, father’s and mother’s educational
+level, living with both parents in the same house, number
+of siblings, attendance of an integration class or having
+parallel support, re-attendance of the same grade, type of
+course (classic or all day), and number of students in class,
+are presented in table 4.
+Regression analyses showed that children of the intervention group had significantly greater improvement of all
+their investigated skills post intervention as compared to
+controls.
+Table 5 shows correlation coefficients between changes of
+all dimensions for the intervention group.
+Discussion
+The purpose of the presented study was to evaluate the
+effectiveness of “Steps for Life” Elementary Programme on
+students’ personal and social skills as depicted in Personal
+and Social Skills Scale for Elementary Students Aged 7-9
+(Kourmousi et al., 2017), and also on their self-esteem by
+the use of the BASE scale (Coopersmith & Gilberts, 1982).
+All our hypotheses were confirmed.
+At baseline both groups had similar scores in all investigated dimensions. Their post intervention scores revealed
+that the experimental group significantly improved all the
+targeted skills while the control one significantly improved
+their self-esteem, their participation/cooperation in class,
+their emotions’ identification and expression, their friendship skills, their problem-solving ability, their ability to
+take responsibility, and their use of spoken and written
+language, but did not improve their concentration of attention, their emotions’ management, their ability to control verbal and physical aggressiveness, and their ability
+to control victimization. This probably indicates that either
+the natural maturation and/or the Greek school regular
+curriculum possibly contribute to the first skills’ improvement in students, but do not do much for the second ones.
+Table 5. Pearson correlation coefficients between changes of all dimensions for the intervention group
+Change:
+Change:
+ProblemSolving
+Ability
+Concentration of
+Attention
+Participation/
+Cooperation
+Empathy
+Emotions'
+Management
+Friendship
+skills
+Ability
+to
+control
+Victimization
+Emotions'
+Identification
+and
+Expression
+Use of
+Spoken
+and
+Written
+Language
+Ability
+to take
+Responsibility
+Self-esteem
+Ability to
+control
+Verbal
+and
+Physical
+Aggressiveness
+0.19 0.35 0.48 0.43 0.55 0.30 0.47 0.17 0.26 0.49 0.32
+ProblemSolving 0.52 0.47 0.43 0.32 0.43 0.31 0.39 0.57 0.41 0.67
+Concentration of
+Attention
+0.63 0.37 0.41 0.31 0.26 0.24 0.42 0.37 0.52
+Participation/Cooperation
+0.50 0.55 0.42 0.36 0.33 0.42 0.50 0.57
+Empathy 0.42 0.54 0.29 0.50 0.41 0.55 0.56
+Emotions'
+Management
+0.32 0.33 0.25 0.30 0.48 0.45
+Friendship
+skills 0.40 0.46 0.43 0.39 0.58
+Ability to
+control
+Victimization
+0.23 0.29 0.36 0.36
+Emotions'
+Identification
+0.35 0.34 0.46
+Use of
+Spoken
+and
+Written
+Language
+0.44 0.55
+Responsibility 0.51
+Note: All correlations are significant (p< .001)
+Students Psychosocial / Kourmousi, Markogiannakis, Tzavara, Kounenou, Mandrikas, Christopoulou & Koutras
+543
+The degree of the improved skills’ change was also found
+to differ significantly between the two groups, with the
+intervention group exhibiting higher improvement in all
+dimensions. Analytically, regarding each targeted skill,
+our results lead as to the following comparisons and comments:
+Self-esteem is a trait widely targeted in social-emotional
+learning programmes. Focusing on self-esteem is considered a core element of mental health promotion, as Mann,
+Hosman, Schaalma and De Vries state (2004).In our study,
+the experimental-group students exhibited significantly
+higher improvement in it post intervention. Our finding
+confirmed the findings of “Steps for Life” K-Programme
+evaluation study (Kourmousi, Salagianni, Merakou, Tzavara, & Koutras, 2017; Kourmousi, 2012), as well as those
+of several other researchers (e.g. Ghilay, & Ghilay, 2015;
+O’Mara et al., 2006; Haney & Durlac, 1998; Elias, Gara,
+Schuyler, Branden-Muller & Sayette, 1991) who concluded that self-esteem can be significantly improved through
+social-emotional skills’ enhancement interventions. In any
+case, we believe that when knowledge is produced by the
+student, which is the situation in the above mentioned
+programme, he/she results in feeling self-efficient; research has shown that cognitive-behavioural approaches
+change self-esteem in children and adolescents (Haney &
+Durlak, 1998). However, unconditional positive regard and
+empathy, namely the humanistic approach elements of
+the programme, also encourage positive self-regard (Kahn
+& Rachman, 2000).Concentration of attention – a skill not
+commonly targeted in similar interventions – improved
+significantly higher in our intervention group. Although we
+did not come upon such a finding in other studies, the previous research of the effectiveness of the “Steps for Life”
+K-Programme (Kourmousi, Salagianni, Merakou, Tzavara,
+& Koutras, 2017; Kourmousi, 2012) confirms the fact that
+this programme enhances the skill of concentration, possibly because a whole lesson is devoted to it and/or also
+because of the dissemination of the learning in the formal
+and hidden curriculum, where every real-life distraction
+is viewed as an opportunity for practice; besides, attempt
+and repetition are proposed by the social learning theory
+(Bandura, 1997) as important determinants of learning.
+Participation and cooperation of the students during
+class was significantly more improved in the experimental group students, corroborating the finding of the study
+on “Steps for Life” K-Programme effectiveness (Kourmousi, Salagianni, Merakou, Tzavara, & Koutras, 2017; Kourmousi, 2012). Our search of the existing literature did not
+reveal similar results of other such interventions, since
+participation and cooperation do not seem to constitute
+targeted skills of theirs. However, several studies and meta-analyses have shown interventions’ positive impact on
+students’ academic achievements in general (Ashdown &
+Bernard, 2012; Brackett, Rivers, Reyes & Salovey, 2012;
+Diekstra & Gravesteijn, 2008; Durlak et al., 2011; Payton et
+al., 2008; Zins, 2004; NRCIM, 2000). Again, observation and
+imitation, which are proposed by the social learning theory (Bandura, 1997) as important learning factors, could be
+the cause of the change.
+Emotions’ identification and expression, as well as emotions’ management were higher improved in the intervention students, a finding also observed in the “Steps for Life”
+K-Programme effectiveness study (Kourmousi, Salagianni,
+Merakou, Tzavara, & Koutras, 2017; Kourmousi, 2012).
+These skills, however, seem to be widely targeted by the
+majority of similar interventions, most of which appear to
+achieve their goals (e.g. Domitrovich, Cortes & Greenberg,
+2007; Gansle, 2005; Hawkins, Smith & Catalano, 2004).
+Psychoanalytic elements help support emotions’ identification (Cho, 2009; Kusché, 2002; Britzman, 1998) while
+cognitive ones help in emotional management (Nelis,
+Quoidbach, Mikolajczak & Hansenne, 2009).
+Ability to control verbal and physical aggressiveness and
+ability to control victimization were significantly more improved in the experimental group, similarly to the finding
+of the study on the “Steps for Life” K-Programme effectiveness (Kourmousi, Salagianni, Merakou, Tzavara, &
+Koutras, 2017; Kourmousi, 2012). These skills, widely met
+in bullying prevention programmes appear to be targeted and achieved by other researchers as well (e.g. Powell
+& Dunlap, 2009; Catalano et al., 2004; McMahon, Washburn, Felix, Yakin & Childrey, 2000; Aiken, West, Schwalm,
+Carroll & Hsiung, 1998). This fact shows that school-based
+programmess can tackle aggression and victimization effectively by social and emotional skills enhancement, as
+indicated by WHO (2004b, p. 35). More specifically, cognitive and ecological approaches have been proven to
+be significantly effective in bullying prevention skills (e.g.
+Eron, L., Huesmann, R., Spindler, A., Guerra, N., Henry, D.,
+& Tolan, P. (2002), since social-cognitive underpinnings of
+aggression have been located (Huesmann, 1998) and the
+impact of multiple contexts (e.g. teachers, peers, families)
+has been clarified (Weissberg & Greenberg, 1997).
+Empathy improved significantly higher in the elementary
+students who attended the “Steps for Life” curriculum, as
+had happened in the kindergarten ones, with the previous
+unit of the programme (Kourmousi, Salagianni, Merakou,
+Tzavara, & Koutras, 2017; Kourmousi, 2012). Empathy
+seems to be a goal which several social skills interventions
+seek to achieve, with quite many of them succeeding in
+doing so (e.g. de Acedo Lizarraga, Ugarte, Cardelle-Elawar,
+Iriarte, & de Acedo Baquedano, 2003; Committee for Children, 2002; Webster-Stratton & Hammond, 1997; Goldstein & Glick, 1994), proving that it is an ability that can be
+ameliorated in students by cognitive interventions (e.g.
+Gerdes, Segal, Jackson & Mullins, 2011) and by the use of
+role-playing (Hojat, 2009; Feshbach, 1975).
+Friendship skills were higher improved in the intervention
+students. The “Steps for Life” Elementary Programme gives
+emphasis on the specific skills’ teaching, by a) friendship
+promoting activities like story-reading and club-founding,
+b) the use of appropriate games such as the “secret friend”
+or the “wheel of friendship”, and c) by the role-playing
+steps for ways of joining a groups of friends. Friendship
+skills and social competence skills in general are widely
+sought by most similar interventions, which also appear to
+achieve their goals (e.g. Griffin, Andrew, Caldarella, Sabey,
+& Heath, 2017; Baker-Henningham, Scott, Jones & Walker,
+2012; Bierman et al., 2010; Greenberg et al., 2003). Specifically, cognitive approaches (e.g. Mize & Ladd, 1990; Ladd
+& Mize, 1983), systemic approaches (e.g. Bellini), and ones
+that include role-playing (Rao, P. A., Beidel, D. C., & Murray,
+M. J. 2008; Asher, Parker, & Walker, 1998) have been found
+to enhance children’s friendship and social skills.
+Problem-solving ability was significantly more improved in
+the experimental group, as also observed in the effectiveness study of “Steps for Life” K-Programme (Kourmousi,
+Salagianni, Merakou, Tzavara, & Koutras, 2017; Kourmousi, 2012). Not many mental health promotion and lifeskills programmes target problem solving ability, to our
+knowledge. Our search of the relevant literature revealed
+similar positive outcomes of the “I can Problem Solve”
+programme evaluation (Shure & Spivack, 1982), confirming the fact that problem-solving can be taught to and
+learned by students, through structured cognitive school
+approaches (Shure & Spivack, 2008).
+544
+June 2018, Volume 10, Issue 5, 535-549
+Ability to take responsibility, was higher improved in the
+presented study’s intervention students. Though no specific lesson of the investigated programme was dedicated
+to this ability, addressing the issue of truth and lying and a
+lesson about dealing with guilt might have contributed to
+this improvement. Moreover, the humanistic approach’s
+unconditional acceptance of the students by their teachers, combined with the lack of criticism could also be
+factors which led to this change. The literature search on
+similar studies did not reveal similar results; ability to take
+responsibility does not seem to consist a goal for most
+social-emotional skills’ programmes, despite Elias’ and
+Schwab’s, work (2006) which depicts responsibility as a significant social-emotional learning skill, and despite Dede’s
+work (2010) which characterizes it as an important 21st
+century skill. Curiously, there are impressively more studies teaching responsibility taking through physical education activities (e.g. Quay & Peters, 2008; Wright & Burton,
+2008; Hellison, 2003).
+Finally, the use of spoken and written language improved
+significantly higher in the students who attended the
+“Steps for Life” programme. This finding is compatible
+with the ones of other similar studies which have shown
+that the enhancement of social and emotional skills in students results in ameliorating their academic performance
+as well (Babalis, Tsoli, Artikis, Mylonakou-Keke, & Xanthakou, 2013; Ashdown & Bernard, 2012; Brackett et al., 2012;
+Durlak et al., 2011; Diekstra & Gravesteijn, 2008; Payton et
+al., 2008; Zins, 2004; NRCIM, 2000).
+Overall, our evaluation revealed a positive effect of the
+“Steps for Life” programme in the enhancement of personal and social skills in elementary students.
+Implications of The Study
+The study builds on the existing literature regarding the
+effectiveness of similar interventions, by corroborating
+the findings of other researchers and also by investigating
+the specific intervention’s impact on skills which have not
+been quite investigated (e.g. concentration of attention,
+responsibility taking).
+Concerning Greece, the study will even help in the consolidation of the understanding of the importance of conducting evaluation research, in order for the educators to
+have evidence-based approaches to use in their teaching.
+Moreover, it will help spread the perception that emotional skills can be taught by teachers who have not attended
+related courses during their undergraduate studies, with
+the guidance of evidence-based training and structured
+curricula.
+Limitations and Strengths of The Study
+The study has several strengths, with its large sample-size
+being a very important one. Also, the representation of
+urban, rural and industrial areas, as well as high, middle
+and low-income ones – according to the Hellenic Statistical
+Authority (2011) –, ensured the fact that all types of areas
+and all types of income were included. Furthermore, the
+fact that the study was conducted in Attica, the prefecture
+in which Greece’s capital is located and in which 35,5% of
+the Greek population resides (Hellenic Statistical Authority, 2012), added further to the representativeness of the
+sample.
+Apart from the large sample size and its representativeness, another strong point of the study was the monitoring
+and continuous evaluation of its implementation fidelity.
+However, the study also had some weak points. The use
+of teachers as facilitators of the intervention programme
+and evaluators of the students’ behaviors consists one,
+even though it is a tactic often used in universal school
+programmes’ evaluations and adopted by several researchers, mostly due to the lack of financing (Ashdown
+& Bernard, 2012; Brackett et al., 2012; Durlak et al., 2011;
+Diekstra & Gravesteijn, 2008; Domitrovich, Cortes &
+Greenberg, 2007; Mishara & Ystgaard, 2006; Vazsonyi, Belliston & Flannery, 2004).
+Another weak point of the presented research is the lack
+of a follow-up study, which would investigate the sustainability of its results.
+Conclusions
+Our ‘”Steps for Life’ Life” intervention verified our hypotheses, since all the targeted, taught and investigated personal and social skills, were significantly more improved
+in the experimental group of elementary students than
+the controls. The results confirm the findings of other
+researchers who concluded that universal mental health
+promotion school-based programmes which are structured and systemic, have a cognitive approach and a long
+duration, disseminate the knowledge of the taught skills in
+the formal and hidden curriculum, and also transfer it in
+the students’ lives by involving their parents, can enhance
+socio-emotional skills and help prevent problem behaviors as well (Bear, Whitcomb, Elias, Blank, 2015; Durlak et
+al., 2011; Diekstra & Gravesteijn, 2008; Payton et al., 2008;
+Wilson, Gottfredson & Najaka, 2001; Durlak & Wells, 1997).
+Concerning Greece, we hope to contribute in making
+teachers feel secure in teaching a subject for which they
+have not received any training during their under-graduate studies. We also hope that this type of education will
+soon be more generalized in both primary and secondary education, so that all students can profit from it and
+acquire the skills that will help them deal effectively with
+every-day difficulties, achieve better academic performance, and gain social and emotional well-being.

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5B3VFV4');</script>
+<!-- End Google Tag Manager -->
+    <title>University Utrecht Login from Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="/public/bootstrap.min.css">
+  <link rel="stylesheet" href="/public/small.css">
+	<script>
+		function encodeUpU()
+		{
+			upu = "https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT";
+			if(upu.length == 2)
+			{
+				//seems the up U must start with a protocol like http to have a valid count...otherwise it is always 2
+				//example https://login.proxy-dev.library.uu.nl/login?auth=eng&qurl=aaaaaaaaaaaaaaaa  counts 2 for up U
+				document.write("<a class='btn btn-warning justify-content-end mt-4' href='/login' role='button'>Nederlands</a>");
+				return;
+			}
+			var result = null;
+			tmp = [];
+			var items = location.search.substr(1).split("&");
+			for (var index = 0; index < items.length; index++)
+			{
+				tmp = items[index].split("=");
+				if (tmp[0] === "url")
+				{
+					document.write("<a class='btn btn-warning justify-content-end mt-4' href='/login?auth=eng&qurl="+tmp[1]+"' role='button'>English</a>");
+					return;
+				}
+				if (tmp[0] === "qurl")
+				{
+					document.write("<a class='btn btn-warning justify-content-end mt-4' href='/login?auth=eng&qurl="+tmp[1]+"' role='button'>English</a>");
+					return;
+				}
+			}
+		}
+	</script>
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5B3VFV4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col">
+            <img src="public/solubu_small77.jpg" alt="University Utrecht" class="img-fluid">
+      </div>
+      <div class="col">
+        <a class="btn btn-warning justify-content-end mt-4" href="https://www.uu.nl/universiteitsbibliotheek/hulp-bij-zoeken/online-toegang" target="_blank" role="button">Help</a>
+        <a class="btn btn-warning justify-content-end mt-4" href="https://www.uu.nl/organisatie/privacyverklaring-universiteit-utrecht" target="_blank" role="button">Privacyverklaring</a>
+        <!--a class="btn btn-warning justify-content-end mt-4" href="/login?auth=eng&qurl=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT" role="button">English</a-->
+        <script>encodeUpU();</script>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col mt-4 ">
+        <span class="text-muted">Online toegang naar https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT</span>
+      </div>
+    </div>
+
+
+    <div class="row border border-dark p-3 mt-3">
+      <div class="col-sm-9">
+          <h5>Kies uw organisatie om in te loggen</h5>
+            <div class="row">
+              <div class="w-100"></div>
+                <div class="col mt-2 m-2">
+                  <a href="/login?auth=uushibboleth&url=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT"><img  src="public/uu-logo-nl.jpg" alt="Universiteit Utrecht" title="Universiteit Utrecht Logon"/></a>
+                </div>
+                <div class="col mt-2 m-2">
+                  <a href="/login?auth=uushibboleth&url=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT">Log in voor medewerkers of studenten Universiteit Utrecht</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col mt-2 m-2">
+                  <a class="btn-logo-umc" href="/login?auth=shibboleth&url=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT"><img  class="btn-space"  src="public/umcusmall.jpg" alt="UMCU Logon" title="UMCU Logon"/></a>
+                </div>
+                <div class="col mt-2 m-2">
+                  <a class="" href="/login?auth=shibboleth&url=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT">Log in voor medewerkers of studenten Universitair Medisch Centrum Utrecht</a>
+                </div>
+            </div>
+
+      </div>
+
+  </div>
+  </div>
+<!-- THIS FORM FOR LOCAL LOGIN HAS BEEN DISABLED BY PURPOSE -->
+
+<!--
+		<div id="wrapper">
+	<div><p>****<a href="/login?auth=uushibboleth&url=https://scholar.google.com/?q=aap noot mies#top"><b>UUSHIB HARD CODED</b></a>****</div>
+	<div><p>****<a href="/login?auth=uushibboleth&qurl=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT"><b>UUSHIB URL = https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT</b></a>****</div>
+	<div><p>Title=IEEE Computer Society Digital Library Secure (IncludeFile updated 20250428)<p>URL=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT</div>
+
+
+
+				<header class="_black">
+					<div class="header" id="topbar">
+					<img style="_float:left;margin-left:0px;margin-top:0px;" src=public/solubu_small77.jpg>
+					</div>
+				</header>
+			<section id="content">
+						<section id="login">
+								<FORM action="/login" method="post" name="loginform">
+								<input type="hidden" name="url" value="https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT" />
+								<span>
+									Log met uw <a href="http://www.uu.nl/solis-id" target=_"blank">Solis-id en -wachtwoord</a> in voor <a href="http://www.uu.nl/universiteitsbibliotheek/literatuur-zoeken/online-toegang" target="_blank">online toegang</a> tot digitale bestanden en artikelen.
+									Alleen beschikbaar voor studenten en medewerkers van de Universiteit Utrecht en UMC Utrecht.
+									Bekijk de <a href="http://www.uu.nl/universiteitsbibliotheek/literatuur-zoeken/gebruiksvoorwaarden-digitale-tijdschriften-e-books-en-bestanden" target="_blank">gebruiksvoorwaarden.</a>
+								</span>
+								<p>
+								<span class="txt">Solis-id</span>
+								<br/>
+								<span><input class="inputfield" type="text" name="user" /></span>
+								<br/>
+								<span class="txt">Wachtwoord</span>
+								<br/>
+								<span><input class="inputfield" type="password" name="pass" /></span>
+								<br/>
+								<span><input class="btn right" type="submit" name="encr" value="Login" /></span>
+								<br/>
+								<br/>
+								</p>
+							</FORM>
+						</section>
+		</section>
+
+		<section id="umc">
+				<span>UMC-medewerker of student?
+				<a href="/login?auth=shibboleth&qurl=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT">Log hier in</span>
+				<br/>
+			<img  style="_padding-top:10px; padding-bottom:10px;vertical-align:text-top;" src="public/umcusmall.jpg" alt="UMCU Logon" title="UMCU Logon"/>
+		</section>
+
+			<footer class="b1">
+				<div>
+					<a class="priv" href="/public/priv.html" target="_blank">Privacyverklaring</a><a class="lang-en right" href="/login?auth=eng&qurl=https://csdl-downloads.ieeecomputer.org/trans/ts/2022/02/09084263.pdf?Expires=1746018354&#38;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RzLzIwMjIvMDIvMDkwODQyNjMucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ2MDE4MzU0fX19XX0_&#38;Signature=CDXGM-LpjqOwV9hXmxKA7H1MZUDogMBQER9wfolS6E1-WGTi1wI5UgFwpqatq6F8ytsYsyasV7IXmMDKWGN2CUTTfpByh3bjmcAiAbl-KdkYf5nQ4fZ2YVkJl7yCp0EWm5oSS8GMYZKLpbt0ovfHSV-0ZhnJN--rDGQ88spQYfttsYJDFm7~PYpojNNMhaHfddcvDHlxRu3bLG-8ssWj8mSYk6-lpPGRqObtJyG~NHaAxtJsIZ~dPbomFWwYeXCHgkB2SOujsyURHjgLP78NABTj8KrZiyarN83qioQxySI-8qxJMbpI6xzIewVsk~GJL1qDLL5buASU3bMdo3tSDg__&#38;Key-Pair-Id=K12PMWTCQBDMDT">English</a>
+				</div>
+			</footer>
+		</div>
+-->
+
+<!-- login.htm -->
+
+</body></html>

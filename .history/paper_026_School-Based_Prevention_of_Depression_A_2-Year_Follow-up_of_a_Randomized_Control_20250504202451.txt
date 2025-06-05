@@ -1,0 +1,152 @@
+Abstract
+Purpose
+To investigate the effectiveness of a universal intervention designed to reduce depressive symptoms experienced by adolescents at high school. The results from annual assessments during the 3-year intervention and a 2-year follow-up are reported.
+Methods
+Twenty-five pairs of secondary schools matched on socio-economic status were randomly assigned to either an intervention or a comparison group (n = 5,633 year 8 students, mean age = 13.1 years, SD = .5). The intervention used a comprehensive classroom curriculum program, enhancements to school climate, improvements in care pathways, and community forums. A range of measures completed by students and teachers was used to assess changes in depressive symptoms, risk and protective factors relevant to depression, and the quality of the school environment.
+Results
+Changes in the levels of depressive symptoms and in the levels of risk and protective factors experienced by students in the two groups did not differ significantly over the 5 years of the study. Statistically significant differences in the ratings of school climate across this time were found only for teacher-rated assessments.
+Conclusions
+There was little evidence that a multicomponent universal intervention delivered over a 3-year period reduced levels of depressive symptoms among participating students. Implementing universal interventions to improve student mental health is difficult in school settings that commonly have a crowded agenda of educational and health-related programs. Successful implementation will require programs which are perceived by teachers and students as relevant to educational and learning goals, and which can be effectively delivered in conjunction with other school programs.
+Previous article in issue
+Next article in issue
+Keywords
+AdolescentsDepressionUniversal interventionSchools
+Depressive disorders are experienced by 3%–5% of the adolescent population at any point in time [1], [2]. To date, there have been few empirical studies investigating the effectiveness of universal interventions aimed at reducing levels of depression among adolescents attending secondary school. Even fewer studies have followed up participants over significant periods after interventions have been completed [3], [4]. Some studies have found small, but significant reductions in depressive symptoms following school-based preventive interventions in the short term [5], [6], [7]. However, there is little evidence to suggest that these benefits are maintained over time with the majority of randomized controlled trials not finding significant differences in longer-term outcomes between intervention and comparison groups [5], [8], [9], [10], [11], [12], [13], [14].
+The present study investigated whether there were any longer term benefits from a multicomponent, school-based approach to the prevention of depression among adolescents. The intervention was developed using experience obtained in two earlier school-based interventions [8], [13], [14], [15]. It was based on a conceptual model of adolescent depression which emphasized the dynamic interaction between risk and protective factors (e.g., social skills and coping skills), adverse or stressful life experiences, and depressive symptoms [16], [17], [18], [19], [20].
+In a previous publication we reported that the intervention neither improved risk or protective factors, nor reduced levels of depression during the 3 years while the intervention was being delivered [18]. However, fidelity checks revealed that the intervention components involving whole-school change took most schools at least 2 years to develop and implement. This reflected the substantial time schools required to change policies and practice in areas such as behavior management, decision-making processes, and interagency partnerships. As such, it was anticipated that changes in school organization and social climate would largely come into effect and influence student outcomes after the third year of the intervention.
+The present report extends our previous work [18] by examining the longer-term effect of the intervention using annual assessments completed during the 2-year post-intervention follow-up period. The aim was to determine whether the intervention had a beneficial effect on the outcome trajectories of adolescents in the intervention group over a 5-year period. The key hypotheses were that, in comparison with adolescents who did not receive the intervention, adolescents who received the 3-year intervention program would report significantly improved risk and protective factors and reduced levels of depressive symptoms. It was also hypothesized that schools in the intervention group would show significantly greater improvement in their supportive school climate than in comparison schools, based on both student and teacher ratings of school climate.
+Methods
+Participants
+Participating adolescents were enrolled in year 8 in 50 secondary schools (25 “intervention schools” and 25 “comparison schools”) and completed a baseline assessment in Term 2, 2003, before the commencement of the intervention (Figure 1). The baseline response rate was 63.5%, with a slightly higher response rate in intervention schools (69%) than in comparison schools (58%). At the baseline assessment, participants (n = 5,633) had an average age of 13.1 (SD = .5) years and 47% were male. A total of 83% of participants had at least one parent in full time employment, whereas 70% of participants' parents lived together.
+
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Figure 1. Flow chart of adolescent participants through study.
+
+The intervention took place in 2003, 2004, and 2005. Assessments in 2004 (year 9) and 2005 (year 10) took place in Term 4, after the annual curriculum for the intervention was completed. The post-intervention assessments in years 11 and 12 were undertaken in Term 3 to avoid clashing with end-of-year exams. Of the baseline assessment responders, 5,079 (90%) completed the assessment in 2004, 4,499 (80%) completed the assessment in 2005, 3,329 (59%) in 2006, and 3,006 (53%) in 2007.
+For the current publication, data were utilized from the 1,785 adolescents who remained enrolled in intervention schools for the 3 years of the intervention and completed at least one post-intervention assessment. The outcome trajectories of these adolescents were compared with those of 1,727 adolescents who attended comparison schools and also completed at least one post-intervention assessment. Use of these groups of adolescents made it possible to compare linear outcome trajectories over a 5-year period for adolescents who received the full 3-year intervention with those of a comparable group of adolescents who did not.
+Ratings of school climate were also obtained from 2,876 teachers in 2003, 3,183 in 2004, 3,423 in 2005, 2,905 in 2006, and 3,012 in 2007. Ratings from teachers were unavailable for two comparison group schools in 2006 and 2007. In one school, adolescents had moved to a new senior campus and teachers at the campus declined to participate in the study. In the other school, teachers indicated that they were too busy to continue their participation in the study. A significant difference in teacher-rated school climate scores at the baseline assessment was found between the schools that did not complete the final two assessments (M = 61.83, SD = 7.09) and the schools for which all assessments were completed (M = 63.92, SD = 7.65; t [2,874] = 3.20, p = .001). This suggests that teachers judged the school climate in these two schools to be somewhat poorer than the other schools in the study.
+Informed consent was obtained from all participants and their parents before the baseline assessment. Ethics approval was obtained from the Department of Education and Children's Services South Australia; Department of Education, Employment and Training Victoria; and Queensland Government Department of Education and the Arts.
+Measures
+For brevity, only a brief description of each measure is provided in the following paragraphs. Full details about the psychometric properties and pilot testing of the measures are available [18], [21].
+Depressive symptoms
+The 20-item Center for Epidemiological Studies Depression Scale (CES-D) was used to assess depressive symptomatology [22]. Summed scores can range from 0 to 60, with higher scores indicating more depressive symptoms. A recommended cutoff score of ≥16 can be used to identify adolescents with mild or greater levels of depression [23].
+Optimistic thinking style
+A 12-item scale was developed to assess adolescents' thinking style [21]. The structure of the scale was designed to reflect a cognitive triad relating to positive thoughts about the self, the world, and the future. Summed scores on the scale ranged from 0 to 36, with higher scores indicating a more optimistic thinking style.
+Interpersonal competence
+Interpersonal Competence was assessed using a modified version of the Adolescent Interpersonal Competence Questionnaire [21], [24]. The scale included 15 items assessing five domains of social competence: Initiating Relationships, Providing Emotional Support, Asserting Influence, Self-Disclosure, and Conflict Resolution. A total scale score was utilized for analyses in the present study, with scores ranging from 0 to 45. Higher scores indicate better interpersonal competence.
+Coping actions
+A 20-item Coping Actions Scale was used to assess coping strategies [21]. A 12-item subscale assessed positive coping strategies, such as dealing with problems in a constructive, direct, positive manner. Summed scores on the subscale can range from 0 to 48, with higher scores indicating a more positive coping style. An 8-item subscale assessed negative coping strategies, such as a tendency to react to or deal with problems in an avoidant or unconstructive manner. Summed scores can range from 0 to 32, with higher scores indicating a more negative coping style.
+Perceived social support
+The extent of supportive relationships perceived by the adolescents was assessed using the Multidimensional Scale of Perceived Support [25]. The scale consists of three subscales, comprising four items each: Family Relationships, Friends Relationships, and Significant Other Relationships. Each subscale is rated on a 7-point scale and summed scores can range from 4 to 28, with higher scores indicating a greater level of social support.
+School climate
+Adolescents' perceptions of school climate were assessed using a 20-item scale that assessed the extent to which adolescents perceived teacher relationships to be supportive, their sense of school belonging, and their level of participation in school activities [21]. Scores on the scale ranged from 20 to 81, with higher scores indicating a more positive experience of school climate. Teachers' perceptions of school climate were assessed using an 18-item scale, which evaluated teachers' perceptions of school environment in terms of safety and discipline, quality of relationships, and degree of participation by the school community [21]. Scores on the measure ranged from 18 to 90, with higher scores indicating a more positive school climate.
+Procedure
+Full details of the school recruitment strategy, statistical power calculations, and the randomization process are available [18]. In brief, eligible schools were recruited through an “expression of interest” process. In each state, the two schools which were most similar in terms of socio-economic status and total enrolment size were matched to create a “school pair.”. In this way, a total of 25 pairs were identified (Figure 1). Schools in each pair were randomly allocated to the intervention or comparison group by a research assistant who was blind to the groups to which schools were being allocated. Data collected from the Gatehouse Project [26] were used to inform the required sample size for the project [18].
+Intervention
+Full details of the intervention can be found in Sawyer et al [18] and on the “beyondblue” website [27]. In brief, the intervention comprised four components: (i) Curriculum Intervention - aimed to improve problem solving and social skills, resilient thinking style, and coping strategies through 10 classroom sessions, each lasting 40–45 minutes, during a single school term in each of the 3 years of the intervention, (ii) Building Supportive Environments - to improve the quality of social interactions among all members of the school community, in both formal and informal settings, (iii) Building Pathways for Care and Education - to facilitate adolescents' access to support and professional services at school and in the wider community by enhancing partnerships between families, school staff, education support/welfare personnel, and community-based health professionals, and (iv) Community Forums - to provide young people, their families, and school personnel with information to assist them to identify problems, to seek help for themselves, and to help peers.
+The fidelity of the intervention was monitored through project facilitator reports and evaluations completed by teachers and adolescents [18], [27].
+Statistical analysis
+Multilevel modeling using MLwiN software Version 2.10 [28] was used to analyze the repeated measures in the study, taking into account the clustering of assessments within adolescents and clustering of adolescents within schools. Similarly, analysis of results describing teachers' perceptions of school climate took into account the clustering of teachers within schools.
+The analyses used a series of 3-level models, with a separate model estimated for each outcome variable. Level 1 of each model investigated within-adolescent change on the outcome variables over time, level 2 examined between-adolescent differences, and level 3 examined the effect of between-school differences on the outcome variables. Initially, each outcome variable was fitted in an unconditional means model. This provided information about the amount of variance accounted for by within-adolescent, between-adolescent, and between-school outcome scores. Subsequently, a conditional model was estimated. This model contained: (i) a group variable (coded 1 for intervention group, and 0 for comparison group) that reported the difference between outcome scores in the two groups, (ii) a time variable (coded 0, 1, 2, 3, 4 for the baseline and four follow-up assessments) which estimated the linear trajectory of the outcome variable scores over time, and (iii) a “group × time” interaction term. A significant coefficient for the interaction term indicates that the trajectory of the outcome score varied between the two groups, suggesting that the intervention had an effect on the outcome over time.
+To adjust for the outcome scores of those who did not complete an annual assessment, noncompletion was coded with a dummy variable at each assessment (coded 1 if the assessment was not completed, and 0 if the assessment was completed). These variables were included in the conditional model. The coefficient for each of the “absent” variables in Table 3 shows the estimated mean difference in scores for those who did not complete the assessment and those who completed the assessment.
+In the statistical models using data from adolescents, the trajectory for each outcome variable was allowed to be random at levels 2 (between-adolescent) and 3 (between-school). Teachers were not tracked longitudinally at an individual level in the study. Therefore, teacher-rated school climate was analyzed at two levels: between-teachers (level 1) and between-school (level 2). The trajectory for teacher-rated school climate was allowed to be random at level 2.
+To detect whether the intervention had an effect on adolescents with higher levels of depressive symptoms, the analyses were repeated for adolescents who reported CES-D scores ≥16 at the baseline assessment. The analyses were also repeated using a dummy coded predictor variable for gender (coded 0 for females, and 1 for males) to determine whether outcomes differed for males and females.
+Results
+The baseline characteristics of participating adolescents and those lost to follow-up are shown in Table 1. It can be seen that there were some differences in the demographic characteristics of the two groups. Furthermore, with the exception of their use of negative coping strategies, participating adolescents were functioning significantly better on all the outcome measures used in the study.
+Table 1. Mean outcome scores (SD) or proportions for adolescents at baseline
+
+Variable	Participants (n = 3,512)	Lost to follow-up (n = 2,121)	Test statistic (df)	p
+Child's age	13.03 (.53)	13.17 (.54)	t = −9.94 (5,616)	< .01
+Gender				
+ Males	44%	52%	χ2 = 28.49 (1)	<.01
+Born in Australia	94%	90%	χ2 = 26.14 (1)	<.01
+Indigenous background	3%	8%	χ2 = 60.05 (1)	<.01
+Spoke English at home	88%	84%	χ2 = 22.66 (1)	<.01
+Parents living together	76%	61%	χ2 = 136.59 (1)	<.01
+Mothers in paid employment	74%	70%	χ2 = 14.54 (1)	<.01
+Fathers in paid employment	93%	87%	χ2 = 39.89 (1)	<.01
+CES-D	13.5 (10.9)	16.0 (11.6)	t = −7.9 (5,504)	<.01
+Optimistic thinking style	24.2 (7.6)	22.5 (8.0)	t = 8.2 (5,522)	<.01
+Interpersonal competence	29.2 (7.4)	28.0 (7.9)	t = 5.7 (5,468)	<.01
+Positive coping	25.7 (9.6)	24.3 (10.1)	t = 4.9 (5,544)	<.01
+Negative coping	12.2 (5.8)	12.5 (6.2)	t = −2.0 (5,574)	.05
+Family social support	23.1 (4.5)	22.1 (4.9)	t = 7.2 (5,609)	<.01
+Friends social support	22.2 (4.6)	21.8 (4.9)	t = 3.5 (5,613)	<.01
+Significant other social support	23.2 (4.3)	22.5 (4.8)	t = 6.3 (5,607)	<.01
+Adolescent school climate	60.1 (9.9)	57.3 (10.1)	t = 10.1 (5,498)	<.01
+As recommended by Dumville et al [29], we compared the baseline characteristics of those adolescents who remained in the study in the intervention and comparison groups. A separate analysis was then undertaken of those lost to follow-up. There were some differences between the groups at baseline but the sizes of the differences were all very small. Specifically, there were slightly fewer Australian-born participants in the intervention group than in the comparison group (Intervention = 93%, Comparison = 95%; χ2 (1) = 5.05, p = .03) and fewer participants who spoke English at home (Intervention = 87%, Comparison = 90%; χ2 (1) = 12.98, p < .01). The mean negative problem-solving score at baseline was also slightly higher in the intervention group than in the comparison group (Intervention M = 12.4, SD = .14, Comparison M = 12.0, SD = .14), t = −2.16 [df = 3,479], p = .03). Among those lost to follow-up, there were no significant differences between the intervention versus comparison groups on any of the baseline demographic or outcome variables included in the study. This reduces the likelihood that differential participant attrition has upset the balance of characteristics achieved by means of randomly allocating participants to each group when the study commenced.
+Differences between intervention and comparison groups over time
+In both groups, on average, scores on the outcome measures were relatively stable across time (Table 2).
+Table 2. Mean scores (SD) of adolescents and teachers
+
+Variable	2003	2004	2005	2006	2007
+CES-D					
+ Intervention	13.8 (11.1)	14.1 (11.4)	14.5 (11.7)	14.2 (11.3)	13.8 (11.2)
+ Comparison	13.2 (10.8)	13.8 (11.3)	14.2 (11.8)	14.2 (11.2)	13.8 (11.0)
+Optimistic thinking style					
+ Intervention	24.1 (7.6)	23.5 (7.9)	23.2 (8.1)	23.1 (8.0)	23.8 (7.9)
+ Comparison	24.4 (7.5)	23.0 (7.7)	22.8 (7.9)	22.8 (7.8)	23.2 (7.6)
+Interpersonal competence					
+ Intervention	29.2 (7.4)	29.4 (7.1)	29.4 (7.3)	29.6 (7.4)	30.1 (7.1)
+ Comparison	29.2 (7.5)	29.2 (7.1)	29.0 (6.8)	29.3 (6.8)	29.6 (6.5)
+Positive coping					
+ Intervention	25.9 (9.5)	24.6 (9.1)	24.6 (9.6)	25.2 (9.2)	26.2 (9.1)
+ Comparison	25.5 (9.7)	24.5 (9.5)	24.5 (9.2)	24.7 (9.0)	25.5 (8.7)
+Negative coping					
+ Intervention	12.4 (5.8)	11.9 (5.6)	11.7 (5.8)	11.9 (5.8)	12.0 (5.9)
+ Comparison	12.0 (5.7)	11.8 (5.6)	11.6 (5.7)	11.9 (5.8)	12.1 (5.5)
+Family social support					
+ Intervention	23.0 (4.5)	21.7 (5.0)	21.3 (5.3)	21.1 (5.6)	21.4 (5.3)
+ Comparison	23.1 (4.4)	22.0 (4.9)	21.5 (5.2)	21.3 (5.3)	21.4 (5.4)
+Friends social support					
+ Intervention	22.1 (4.6)	22.1 (4.8)	22.0 (5.1)	21.7 (5.3)	22.1 (5.0)
+ Comparison	22.3 (4.6)	22.2 (4.7)	22.0 (5.0)	22.1 (4.9)	22.4 (4.9)
+Significant other social support					
+ Intervention	23.3 (4.3)	22.8 (4.8)	22.6 (5.2)	22.4 (5.7)	23.1 (5.2)
+ Comparison	23.2 (4.3)	22.8 (4.7)	22.8 (5.0)	22.9 (5.0)	23.3 (5.2)
+Adolescent-reported school climate					
+ Intervention	60.2 (9.7)	57.2 (9.6)	56.8 (10.1)	58.3 (10.3)	59.9 (9.8)
+ Comparisona	60.2 (10.0)	57.0 (10.1)	56.5 (9.8)	57.8 (9.4)	58.7 (9.2)
+Teacher-reported school climateb					
+ Intervention	63.7 (7.4)	64.7 (7.0)	64.6 (7.0)	65.3 (7.0)	65.7 (7.0)
+ Comparison	64.0 (8.0)	64.1 (7.7)	63.8 (7.8)	63.8 (7.9)	63.7 (7.8)
+a
+Eighty-three adolescents who left comparison schools were not included in this analysis.
+b
+In 2003 teacher n = 2,876; in 2004 n = 3,183; in 2005 n = 3,423; in 2006 n = 2,905; in 2007 n = 3,012.
+CES-D score
+The unconditional means model for CES-D scores showed that 56% of the variance was within-adolescents, 43% of the variance was between-adolescents, and 1% of the variance was between-schools. The linear time trajectory for CES-D scores (coefficient = .20, SE = .10, p < .05) indicated that average scores increased across the assessments (Table 3). However, the group × time coefficient showed that the linear trajectory of CES-D scores over time did not differ significantly between the intervention and comparison groups (coefficient = −.19, SE = .19, p = .32; Table 3).
+Table 3. Estimated coefficients (SD) for the conditional models
+
+Measure	Intercept	Time	Intervention	Absent 2004	Absent 2005	Absent 2006	Absent 2007	Intervention × Time
+CES-D	12.93 (.35)∗	.20 (.10)∗	.26 (.43)	3.89 (.88)∗	1.67 (.59)∗	1.73 (.61)∗	2.82 (.44)∗	−.19 (.19)
+Optimistic thinking style	24.12 (.25)∗	−.25 (.06)∗	.16 (.32)	−1.75 (.63)∗	−1.34 (.42)∗	−.89 (.44)∗	−1.67 (.32)∗	.15 (.12)
+Interpersonal competence	29.26 (.28)∗	.09 (.05)	.30 (.36)	−.53 (.57)	−.69 (.38)	−.60 (.40)	−1.41 (.29)∗	.05 (.11)
+Positive coping strategies	25.44 (.34)∗	−.04 (.07)	.34 (.44)	−.11 (.72)	−1.30 (.49)∗	−1.31 (.51)∗	−2.51 (.37)∗	.03 (.13)
+Negative coping strategies	11.75 (.13)∗	−.02 (.03)	.20 (.17)	.95 (.44)∗	.06 (.29)	.97 (.30)∗	.29 (.21)	−.13 (.07)
+Family social support	23.00 (.16)∗	−.45 (.04)∗	−.14 (.19)	−1.11 (.39)∗	−.58 (.26)∗	−.69 (.27)∗	−1.26 (.19)∗	.01 (.07)
+Friends social support	22.40 (.16)∗	−.06 (.03)	−.12 (.21)	−1.01 (.35)∗	−.11 (.24)	−.19 (.24)	−.94 (.18)∗	−.07 (.07)
+Significant other social support	23.22 (.16)∗	−.08 (.03)∗	−.06 (.20)	−.53 (.36)	−.07 (.24)	−.39 (.24)	−.87 (.18)∗	−.13 (.06)∗
+Adolescent school climate	59.20 (.56)∗	−.32 (.11)∗	.32 (.72)	−1.51 (.85)∗	−1.74 (.54)∗	−1.53 (.56)∗	−3.38 (.41)∗	.20 (.22)
+Teacher school climate	62.93 (.82)∗	.23 (.10)∗	1.08 (1.03)	–	–	–	–	.43 (.20)∗
+Note: Analyses for the main effect results did not include the interaction term. In 2004, 107 adolescents did not complete the assessment, 251 adolescents did not complete the assessment in 2005, 218 adolescents did not complete the assessment in 2006, and 480 adolescents did not complete the assessment in 2007.
+∗
+p < .05.
+Risk and protective factor scores
+The coefficients describing the linear trajectories for scores on the Optimistic Thinking Style Scale (coefficient = −.25, SE = .06, p < .01), perceived level of support from family (coefficient = −.45, SE = .04, p < .01), and significant others (−.08, SE = .03, p < .01) declined significantly over time (Table 3). The only statistically significant (p < .05) group × time interaction was the interaction for the variable assessing support from significant others (coefficient = −.13, SE = .06, p < .05). It can been seen in Table 2 that this reflected the small decline in scores reported by adolescents in the intervention group during the first 4 years of the study. However, by the time of the final assessment there was no statistically significant difference between scores in the two groups (t [2,893] = 1.10, p = .27). No significant group × time interactions were found for any of the other outcome measures.
+School climate
+For adolescent ratings, the coefficient describing the linear trajectory for School Climate scores (coefficient = −.32, SE = .11, p < .01) was statistically significant demonstrating that, on average, adolescents' sense of belonging and participation at school declined over time. However, there was no significant group × time interaction for adolescent-rated school climate scores (coefficient = .20, SE = .22, p = .34).
+For teacher ratings, the coefficient describing the linear trajectory of school climate was statistically significant (coefficient = .23, SE = .10, p < .05). The coefficient describing the group × time interaction was significant (coefficient = .43, SE = .20, p < .01). This indicates that over the 5-year period teacher ratings of school climate increased for both groups, but the rate of increase for those in the intervention group was significantly higher than those in the comparison group.
+Outcomes for adolescents with CES-D scores ≥16, and by gender
+The analyses described earlier were repeated for adolescents who had a CES-D score ≥16 at their baseline assessment, and separately for male and female adolescents. There was no evidence that outcomes in the intervention and comparisons groups differed for adolescents with high baseline CES-D scores, nor did the outcomes differ for male and female adolescents.
+Discussion
+Results from the present analyses show that over a 5-year period, in comparison to adolescents who did not receive the intervention, adolescents who received the 3-year intervention program reported neither significantly improved risk and protective factors nor reduced levels of depressive symptoms. There was no evidence that the intervention enhanced individual protective skills such as optimistic thinking, interpersonal competence, problem solving/coping style, or social support. Although teacher ratings suggested that the intervention was associated with some improvements in the school environment, this finding was not supported by the reports from adolescents.
+There are several possible explanations for the lack of effectiveness of this multicomponent initiative.
+First, it is possible that methodological limitations of the study account for the inability to identify positive effects of the intervention on levels of depressive symptoms. Typical of many studies of this kind, relatively high student attrition rates are a concern. Furthermore, the analysis of results also showed that those who did not complete follow-up assessments or left either comparison or intervention schools during the 3 years of the intervention had higher levels of depression symptoms at their baseline assessment. It is possible that the majority of those who fully participated in the study had relatively low levels of depression symptoms and limited need for the present intervention.
+Second, it is possible that the intervention was not fully delivered as planned. Although teachers, action team members, and facilitators received comprehensive training and professional development for each component of the intervention, and schools received ongoing support from facilitators during the intervention, it is possible that this was insufficient to achieve program fidelity (see [30], [31] for more details about approaches used to assess program fidelity). For example, it is possible that more skill and training is needed to teach cognitive-behavioral techniques effectively at a classroom level. Furthermore, facilitator diaries used to examine fidelity assessed how the classroom curriculum was implemented in terms of quantity of implementation. However, details about the quality of implementation and the specific methods by which each teacher taught the curriculum were limited.
+Third, it is possible that the extent of student engagement with the classroom curriculum was insufficient to achieve improvement in their mental health. As the program was a compulsory part of the school curriculum, students were expected to attend and participate in the same manner as with other lessons. However, it is possible that students did not engage sufficiently to practice and apply targeted skills outside the classroom. This is an important issue because regular practice is a key component of effective skill acquisition in this area.
+Fourth, it is difficult to determine whether the activities used to achieve “whole school climate” changes were sufficiently robust to influence students' experience of participation, supportive relationships, and support from teachers. However, the finding that teachers in the intervention schools rated their schools' climate more positively suggests that this element of the program may have been at least partly successful in this area.
+Fifth, universal interventions delivered through schools have difficulty addressing risk factors for depressive symptoms that arise outside the school environment such as living with a parent with a mental illness, parental conflict, separation, or divorce. Like many school-based interventions, the present intervention was not able to influence these risk factors.
+Finally, it is possible that the benefits of the whole school intervention may be more evident in subsequent cohorts of students entering participating schools rather than the cohort of students who were the focus of the current study [32]. It is suggested that future studies of whole school interventions should explore benefits beyond the initial cohort who are the focus of an intervention.
+Implementing school-based interventions is challenging for both researchers and practitioners. To be successful, such interventions need to have clear goals which are consistent with school priorities, effectively engage both teachers and students, allow sufficient time for implementation of all components, and not adversely affect other educational programs and priorities. Even where these goals have been achieved, results relevant to the prevention of depression have been mixed [3]. Given this, researchers, practitioners, and policy makers need to proceed with caution in this area.

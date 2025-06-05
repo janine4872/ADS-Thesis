@@ -1,0 +1,742 @@
+Abstract
+The purpose of this study was to assess the effectiveness of a yoga-based social-emotional wellness promotion program, Transformative Life Skills (TLS), on indicators of adolescent emotional distress, prosocial behavior, and school functioning. Participants included 159 students attending an inner-city school district who were randomly assigned to treatment or business-as-usual comparison conditions. Results suggested that students who participated in the TLS program demonstrated significant reductions on unexcused absences, detentions, and increases in school engagement. Significant concurrent improvements in primary engagement stress-coping strategies and secondary engagement stress-coping strategies were noted as well. Specifically, significant increases in student emotion regulation, positive thinking, and cognitive restructuring in response to stress were found. No effects were found for measures of somatization, suspensions, academic grades, or general affect. Student report of treatment acceptability indicated that the intervention was generally well-received and strategies were perceived as socially valid by most participants. Implications and directions for future research are discussed.
+
+Abstract
+
+The purpose of this study was to assess the effectiveness of a yoga-based social-emotional wellness promotion program, Transformative Life Skills (TLS), on indicators of adolescent emotional distress, prosocial behavior, and school functioning. Participants included 159 students attending an inner-city school district who were randomly assigned to treatment or business-as-usual comparison conditions. Results suggested that students who participated in the TLS program demonstrated significant reductions on unexcused absences, detentions, and increases in school engagement. Significant concurrent improvements in primary engagement stress-coping strategies and secondary engagement stress-coping strategies were noted as well. Specifically, significant increases in student emotion regulation, positive thinking, and cognitive restructuring in response to stress were found. No effects were found for measures of somatization, suspensions, academic grades, or general affect. Student report of treatment acceptability indicated that the intervention was generally well-received and strategies were perceived as socially valid by most participants. Implications and directions for future research are discussed.
+
+Introduction
+Recent national surveys of mental health in the USA suggest that poorly managed stress exerts a seriously negative physical and psychological effect on our population, which a majority of households reporting stress levels exceeding what is considered healthy (American Psychological Association 2013). Adolescence, a period of development marked by substantial developmental gains in cognitive skills, physical strength, and improved immune function (Dahl 2004), may be a particularly sensitive time during which the effects of chronic stress take hold, manifesting in anxiety disorders which affects an estimated 31.9 % of this population (Merikangas et al. 2010).
+Heightened vulnerability for developing several serious psychological disorders and engaging in anti-social behaviors, depression, anxiety, schizophrenia, and substance use markedly increases in prevalence during adolescence (Andersen 2003; Conger and Petersen 1984; Dahl 2004; Patton and Viner 2007; Spear 2000). Although the specific mechanisms underlying the development of each of these disorders during this timeframe is not entirely understood, exposure to stress during adolescence has been suggested to play an important role in the onset and progression of these disorders (Grant et al. 2003, 2004; Turner and Lloyd 2004). Additionally, research has consistently linked stressful life events during adolescence with the onset of drug use, depression, and the development of other mental health problems (Costello et al. 2003; Patton and Viner 2007).
+Even fairly normative stress is heightened during this period. During the middle school years, an adolescent’s teacher, classroom, and school experiences have important effects that set the stage for future educational and life-course opportunities (Elmen 1991; Kramer 1991; Lipsitz 1981). Children who demonstrate higher levels of social support and school engagement during the transition to middle school tend to fare better than children who lack such resources.
+Several studies have demonstrated that the transition to middle school is significantly more challenging for disadvantaged children due to deteriorating interest in academics (Lepper et al. 1997; Stipek 1997) and increasing levels of emotional distress (McLoyd and Wilson 1990; Ripple and Luthar 2000). Felner et al. (1995) examined the interrelationship between socioeconomic disadvantage, proximal environmental experiences, social-emotional, and academic adjustment within a sample of disadvantaged middle school students. Results of this study provided support for an ecological model of risk in which levels of disadvantage were associated with both social-emotional and academic adjustment, with students from the most disadvantaged backgrounds experiencing the poorest outcomes. However, emotional adaptation was mediated by adolescents’ school experiences and cumulative exposure to stressful events across a wide range of contexts. Thus, the consequences of chronic stress and heightened allostatic load may be particularly pronounced for youth living in disadvantaged neighborhoods where environmental stressors are more pronounced.
+Adolescents’ proficiency in their ability to effectively regulate emotional reactions is increasingly being viewed as essential for psychological well-being, academic success, and positive developmental outcomes (Eisenberg 2010). Emotion regulation has been defined as the capacity to adjust one’s emotional arousal levels so that an optimal intensity of engagement with one’s environment is achieved (Cicchetti et al. 1991). Others have defined it in terms of liability, or vacillation, flexibility, and situational responsiveness of emotion (Thompson 1994). This awareness in turn enables individuals to control impulsive behaviors and negative reactions in order to meet situational demands and achieve personal goals (Gratz and Roemer 2004). The critical role of emotion regulation skills in mediating the relationship between stress and maladaptive developmental outcomes has been found across multiple studies (Granic et al. 2012; Wolchik et al. 2006). As such, prevention-focused interventions designed to help adolescents learn to effectively regulate emotional reactivity are an important component of many social-emotional learning programs (Domitrovich et al. 2012).
+Yoga is increasingly being used in schools across the USA as a way to enhance student emotion regulation and improve academic function through improved attention, concentration, impulse control, motor coordination, and social skills (Ehleringer 2010; Galantino et al. 2008; Harrison et al. 2004; Kenny 2002; Klatt 2009; Peck et al. 2005; Uma et al. 1989). Yoga, classified as a mind-body intervention by the National Center for Complementary and Integrative Health (2011), is often considered a complementary class of therapy particularly effective in alleviating stress-related symptoms (Pascoe and Bauer 2015). A discipline developed in India, yoga incorporates postures (asanas), controlled breathing techniques (pranayama), and meditation intended to bring physiological and psychological benefits to practitioners. Yoga has been embraced in Western settings as a form of exercise and stress reduction with an estimated 36.7 million people in the USA actively practicing some form of yoga (Yoga Journal and Yoga Alliance 2016).
+Yoga has been found to elicit the “relaxation response” and leads to “deep relaxation” of the autonomic nervous system without drowsiness or sleep. Because of the psychophysiological effect of yoga, it has been applied as a therapeutic intervention for the treatment of a number of physiological and psychological disorders (Cramer et al. 2014; Jeter et al. 2015). One possible mechanism through which yoga exerts its effects is thought to occur through vascular and muscular relaxation (Monro et al. 1990). Research examining the effects of yoga on autonomic nervous system functioning has found several benefits including reduced systolic and diastolic blood pressure, decreased resting heart rate, enhanced cardiovagal functioning, and increased heart rate variability suggestive of healthy cardiac functioning (Bharshankar et al. 2003; Büssing et al. 2012; Khattab et al. 2007). Improvements in cardiac parasympthatic system modulation have been found as well, suggesting another possible mechanism by which yoga may effect a reduction in stress responsibility (Khattab et al. 2007).
+Others have suggested that breathing awareness and control exercises during yoga practices can produce a higher level of autonomic control. One randomized trial found that after 1 month of yoga practice, participants were significantly better able to intentionally lower their heart rates as compared to controls (Telles et al. 2004). Finally, the movements associated with asana practice are thought to enhance blood circulation, glandular functioning, and ultimately aid in the balancing of hormonal production (Monro et al. 1990). In fact, several studies have documented significant changes in cortisol following yoga practice (Woolery et al. 2004); Vedamurthachar et al. 2006; West et al. 2004).
+With regards to social-emotional outcomes, Kirkwood et al. (2005) and Pilkington et al. (2005) performed two reviews of studies using yoga interventions to treat psychopathology for anxiety and depression, respectively. In the review focused on depression, five randomized controlled trials (RCTs) were located, with severity of depression ranging from mild to severe. All trials reported positive findings and no adverse effects, with the exception of fatigue and breathlessness in one study. Pilkington et al. (2005) noted that the study lacked many methodological details such as method of randomization, compliance, and attrition rates. These studies indicated that yoga is potentially beneficial to individuals suffering from depression, but the inconsistency in the severity of depression and intervention used restricts the generalizability of these findings. Kirkwood et al. (2005) similarly found that eight RCT studies reviewed reported positive results, but with many methodological shortcomings noted. However, yoga does appear to be an anxiety intervention with “promising” results.
+The research base concerning potential positive effects of yoga specifically on youth is growing. Serwacki and Cook-Cottone (2012) conducted a literature review of 12 single cohort, quasi-experimental, or RCT yoga studies in schools. Results indicated that yoga interventions increased perceived self-concept and emotional balance and decreased anxiety, negative behavior, and body dissatisfaction in typically developing children. For children with atypical development (e.g., intellectual, emotional, or learning disabilities, autism), yoga interventions resulted in reduced levels of stress, improved communication, and increases in attention and concentration. Similarly, Ferreira-Vorkapic et al. (2015) completed a systematic review of RCT yoga-based interventions conducted in schools. Results showed statistically significant differences in anger and fatigue, protective effects for anxiety and negative affect, decreases in stress levels, and increases in self-control. Additionally, high school students participating in a study by Verma et al. (2014) demonstrated significant gains in memory and mental ability. Both literature reviews noted many methodological limitations.
+Looking specifically at emotion regulation outcomes, Daly et al. (2015) found that participation in a yoga program produced significant effects on students’ emotion regulation not present in the control group (e.g., business-as-usual physical education class). A study conducted by Chan et al. (2008) found significant reductions in withdrawn and attention-related behavior problems in low-achieving children following a yoga intervention. Likewise, Mendelson et al. (2010) conducted an RCT of a school-based mindfulness and yoga intervention with elementary age students in a high-poverty, urban setting. After 12 weeks of intervention, results showed significant reductions of involuntary stress responses such as rumination, intrusive thoughts, and emotional arousal. A more recent study conducted by Khalsa et al. (2011) suggested that yoga may provide a protective benefit against normative decreases on several indicators of mental health and well-being.
+Several qualitative studies substantiate the possible benefit of incorporating yoga in schools. Conboy et al. (2013) identified that a semester long yoga program had positive effects on the athletic performance, body awareness, emotion regulation, stress regulation, and academic performance of rural high school students. Additionally, Case-Smith et al. (2010) noted that a school-based yoga program led to increased feelings of calmness, ability to control emotions, and supported positive self-esteem in 24 third grade students. Finally, Wang and Hagins (2016) investigated the effects of a year long school-based yoga program targeting minority middle school and high school students in an urban setting. Results indicated positive benefits in self-regulation, mindfulness, stress reduction, and self-esteem. Students also reported increases in energy levels, physical conditioning, athletic performance, and academic performance (Wang and Hagins 2016).
+The purpose of the current study is to examine the acceptability and effectiveness of Transformative Life Skills (TLS), a yoga and mindful awareness-based program, on adolescent emotional distress and prosocial behavior. We were also interested in exploring possible effects on school-relevant performance variables such as academic grades, suspensions, and absenteeism. Consistent with recent findings on the effects of yoga on youth emotional well-being and behavior, we hypothesized that students exposed to the TLS program would report improvements in indicators of general mental health and well-being and greater levels of school engagement and academic performance. We also anticipated that the treatment group would report significantly higher levels of active primary and secondary coping strategies and lower levels of somatic symptoms as compared to controls.
+
+Introduction
+
+Recent national surveys of mental health in the USA suggest that poorly managed stress exerts a seriously negative physical and psychological effect on our population, which a majority of households reporting stress levels exceeding what is considered healthy (American Psychological Association 2013). Adolescence, a period of development marked by substantial developmental gains in cognitive skills, physical strength, and improved immune function (Dahl 2004), may be a particularly sensitive time during which the effects of chronic stress take hold, manifesting in anxiety disorders which affects an estimated 31.9 % of this population (Merikangas et al. 2010).
+Heightened vulnerability for developing several serious psychological disorders and engaging in anti-social behaviors, depression, anxiety, schizophrenia, and substance use markedly increases in prevalence during adolescence (Andersen 2003; Conger and Petersen 1984; Dahl 2004; Patton and Viner 2007; Spear 2000). Although the specific mechanisms underlying the development of each of these disorders during this timeframe is not entirely understood, exposure to stress during adolescence has been suggested to play an important role in the onset and progression of these disorders (Grant et al. 2003, 2004; Turner and Lloyd 2004). Additionally, research has consistently linked stressful life events during adolescence with the onset of drug use, depression, and the development of other mental health problems (Costello et al. 2003; Patton and Viner 2007).
+Even fairly normative stress is heightened during this period. During the middle school years, an adolescent’s teacher, classroom, and school experiences have important effects that set the stage for future educational and life-course opportunities (Elmen 1991; Kramer 1991; Lipsitz 1981). Children who demonstrate higher levels of social support and school engagement during the transition to middle school tend to fare better than children who lack such resources.
+Several studies have demonstrated that the transition to middle school is significantly more challenging for disadvantaged children due to deteriorating interest in academics (Lepper et al. 1997; Stipek 1997) and increasing levels of emotional distress (McLoyd and Wilson 1990; Ripple and Luthar 2000). Felner et al. (1995) examined the interrelationship between socioeconomic disadvantage, proximal environmental experiences, social-emotional, and academic adjustment within a sample of disadvantaged middle school students. Results of this study provided support for an ecological model of risk in which levels of disadvantage were associated with both social-emotional and academic adjustment, with students from the most disadvantaged backgrounds experiencing the poorest outcomes. However, emotional adaptation was mediated by adolescents’ school experiences and cumulative exposure to stressful events across a wide range of contexts. Thus, the consequences of chronic stress and heightened allostatic load may be particularly pronounced for youth living in disadvantaged neighborhoods where environmental stressors are more pronounced.
+Adolescents’ proficiency in their ability to effectively regulate emotional reactions is increasingly being viewed as essential for psychological well-being, academic success, and positive developmental outcomes (Eisenberg 2010). Emotion regulation has been defined as the capacity to adjust one’s emotional arousal levels so that an optimal intensity of engagement with one’s environment is achieved (Cicchetti et al. 1991). Others have defined it in terms of liability, or vacillation, flexibility, and situational responsiveness of emotion (Thompson 1994). This awareness in turn enables individuals to control impulsive behaviors and negative reactions in order to meet situational demands and achieve personal goals (Gratz and Roemer 2004). The critical role of emotion regulation skills in mediating the relationship between stress and maladaptive developmental outcomes has been found across multiple studies (Granic et al. 2012; Wolchik et al. 2006). As such, prevention-focused interventions designed to help adolescents learn to effectively regulate emotional reactivity are an important component of many social-emotional learning programs (Domitrovich et al. 2012).
+Yoga is increasingly being used in schools across the USA as a way to enhance student emotion regulation and improve academic function through improved attention, concentration, impulse control, motor coordination, and social skills (Ehleringer 2010; Galantino et al. 2008; Harrison et al. 2004; Kenny 2002; Klatt 2009; Peck et al. 2005; Uma et al. 1989). Yoga, classified as a mind-body intervention by the National Center for Complementary and Integrative Health (2011), is often considered a complementary class of therapy particularly effective in alleviating stress-related symptoms (Pascoe and Bauer 2015). A discipline developed in India, yoga incorporates postures (asanas), controlled breathing techniques (pranayama), and meditation intended to bring physiological and psychological benefits to practitioners. Yoga has been embraced in Western settings as a form of exercise and stress reduction with an estimated 36.7 million people in the USA actively practicing some form of yoga (Yoga Journal and Yoga Alliance 2016).
+Yoga has been found to elicit the “relaxation response” and leads to “deep relaxation” of the autonomic nervous system without drowsiness or sleep. Because of the psychophysiological effect of yoga, it has been applied as a therapeutic intervention for the treatment of a number of physiological and psychological disorders (Cramer et al. 2014; Jeter et al. 2015). One possible mechanism through which yoga exerts its effects is thought to occur through vascular and muscular relaxation (Monro et al. 1990). Research examining the effects of yoga on autonomic nervous system functioning has found several benefits including reduced systolic and diastolic blood pressure, decreased resting heart rate, enhanced cardiovagal functioning, and increased heart rate variability suggestive of healthy cardiac functioning (Bharshankar et al. 2003; Büssing et al. 2012; Khattab et al. 2007). Improvements in cardiac parasympthatic system modulation have been found as well, suggesting another possible mechanism by which yoga may effect a reduction in stress responsibility (Khattab et al. 2007).
+Others have suggested that breathing awareness and control exercises during yoga practices can produce a higher level of autonomic control. One randomized trial found that after 1 month of yoga practice, participants were significantly better able to intentionally lower their heart rates as compared to controls (Telles et al. 2004). Finally, the movements associated with asana practice are thought to enhance blood circulation, glandular functioning, and ultimately aid in the balancing of hormonal production (Monro et al. 1990). In fact, several studies have documented significant changes in cortisol following yoga practice (Woolery et al. 2004); Vedamurthachar et al. 2006; West et al. 2004).
+With regards to social-emotional outcomes, Kirkwood et al. (2005) and Pilkington et al. (2005) performed two reviews of studies using yoga interventions to treat psychopathology for anxiety and depression, respectively. In the review focused on depression, five randomized controlled trials (RCTs) were located, with severity of depression ranging from mild to severe. All trials reported positive findings and no adverse effects, with the exception of fatigue and breathlessness in one study. Pilkington et al. (2005) noted that the study lacked many methodological details such as method of randomization, compliance, and attrition rates. These studies indicated that yoga is potentially beneficial to individuals suffering from depression, but the inconsistency in the severity of depression and intervention used restricts the generalizability of these findings. Kirkwood et al. (2005) similarly found that eight RCT studies reviewed reported positive results, but with many methodological shortcomings noted. However, yoga does appear to be an anxiety intervention with “promising” results.
+The research base concerning potential positive effects of yoga specifically on youth is growing. Serwacki and Cook-Cottone (2012) conducted a literature review of 12 single cohort, quasi-experimental, or RCT yoga studies in schools. Results indicated that yoga interventions increased perceived self-concept and emotional balance and decreased anxiety, negative behavior, and body dissatisfaction in typically developing children. For children with atypical development (e.g., intellectual, emotional, or learning disabilities, autism), yoga interventions resulted in reduced levels of stress, improved communication, and increases in attention and concentration. Similarly, Ferreira-Vorkapic et al. (2015) completed a systematic review of RCT yoga-based interventions conducted in schools. Results showed statistically significant differences in anger and fatigue, protective effects for anxiety and negative affect, decreases in stress levels, and increases in self-control. Additionally, high school students participating in a study by Verma et al. (2014) demonstrated significant gains in memory and mental ability. Both literature reviews noted many methodological limitations.
+Looking specifically at emotion regulation outcomes, Daly et al. (2015) found that participation in a yoga program produced significant effects on students’ emotion regulation not present in the control group (e.g., business-as-usual physical education class). A study conducted by Chan et al. (2008) found significant reductions in withdrawn and attention-related behavior problems in low-achieving children following a yoga intervention. Likewise, Mendelson et al. (2010) conducted an RCT of a school-based mindfulness and yoga intervention with elementary age students in a high-poverty, urban setting. After 12 weeks of intervention, results showed significant reductions of involuntary stress responses such as rumination, intrusive thoughts, and emotional arousal. A more recent study conducted by Khalsa et al. (2011) suggested that yoga may provide a protective benefit against normative decreases on several indicators of mental health and well-being.
+Several qualitative studies substantiate the possible benefit of incorporating yoga in schools. Conboy et al. (2013) identified that a semester long yoga program had positive effects on the athletic performance, body awareness, emotion regulation, stress regulation, and academic performance of rural high school students. Additionally, Case-Smith et al. (2010) noted that a school-based yoga program led to increased feelings of calmness, ability to control emotions, and supported positive self-esteem in 24 third grade students. Finally, Wang and Hagins (2016) investigated the effects of a year long school-based yoga program targeting minority middle school and high school students in an urban setting. Results indicated positive benefits in self-regulation, mindfulness, stress reduction, and self-esteem. Students also reported increases in energy levels, physical conditioning, athletic performance, and academic performance (Wang and Hagins 2016).
+The purpose of the current study is to examine the acceptability and effectiveness of Transformative Life Skills (TLS), a yoga and mindful awareness-based program, on adolescent emotional distress and prosocial behavior. We were also interested in exploring possible effects on school-relevant performance variables such as academic grades, suspensions, and absenteeism. Consistent with recent findings on the effects of yoga on youth emotional well-being and behavior, we hypothesized that students exposed to the TLS program would report improvements in indicators of general mental health and well-being and greater levels of school engagement and academic performance. We also anticipated that the treatment group would report significantly higher levels of active primary and secondary coping strategies and lower levels of somatic symptoms as compared to controls.
+
+Method
+Participants
+Participants included students attending a diverse middle school in a high-poverty catchment area within an inner-city urban area of California. The study sample consisted of a convenience sample of 159 sixth (53.3 %) and nineth grade (44.7 %) students. Approximately 46.5 % of the sample was female. With regards to race, 16.8 % of the sample identified as African American, 5.8 % identified as White, 1.3 % identified as Asian, 54.2 % identified as Latino, and 21.9 % identified as having a mixed racial background. Approximately 64.2 % of the sample reported living in a two-parent household, 30.8 % lived in a single-parent home, and the remaining 5 % of students reported living with other relatives (e.g., grandmother, aunt, or siblings). Academically, the mean GPA among participating students was 2.90 (SD = 0.99).
+Procedure
+An RCT design was used to explore the effects of TLS on student outcomes. Students were randomized to receive the TLS intervention or business-as-usual control. Once assigned, TLS lessons were integrated into homeroom classes 3–4 days per week during the first semester of the school year. Each instructional session lasted approximately 30 min and occurred in the regular classroom setting. All instructors had several years of experience serving as a lead yoga instructor, received specialized training and certification in TLS administration from program developers, and had 2 or more years of experience implementing TLS in similar settings. Implementation was monitored through the completion of implementation checklists, 20 % of which were observed by an outside rater. On average, 92 % of intervention components were implemented with fidelity. To further support high-quality implementation, intervention providers also participated in regular supervision meetings with program developers during which anticipatory questions and implementation challenges were discussed.
+TLS Intervention
+TLS is a manualized, universal classroom-based program that provides students with instruction and applied experience in using yoga postures, breathing techniques, and centering meditation in order to reduce stress and promote social-emotional health and physical wellness. The intervention is secular and does not use terminology or practices that would be considered religious or unusual in most US public school contexts. The TLS curriculum provides sequenced scripts to support high-fidelity implementation. Lessons are divided into four units focusing on stress management, body and emotional awareness, self-regulation, and building healthy relationships. Figure 1 provides an overview of the scope and sequence of the TLS curriculum. Each unit includes 12 lessons that can be delivered in 15-, 30-, or 60-min segments. Each lesson is designed to teach specific skills connected to the overarching unit them. Each lesson follows a predictable instructional sequence consistent with best practices in student pedagogy. Prior to beginning each lesson, behavioral expectations are reviewed, and the agenda for the day’s lesson is reviewed. Then, instructors attempt to activate student background related to the topic in question and may engage in brief conversation with the group to stimulate interest.
+Fig. 1
+Transformative Life Skills (TLS) curriculum unit and lesson overview
+Full size image
+Subsequently, students engage in the Action-Breathing-Centering Activities (referred to as the “ABC’s”) which provides studentsʼ experience in engaging in yoga postures, focused breathing, and centering meditation. At the end of each lesson, instructors are asked to complete a fidelity checklist documenting that each lesson component was implemented, rate the overall level of student engagement, and reflect on the quality of lesson implementation. At the end of each unit, instructors are asked to review their implementation data to plan a “re-teaching” lesson during which they repeat coverage of content within the last content unit that was poorly covered or had limited student engagement.
+Measures
+School Engagement Scale
+School engagement was measured using the school bonding scale developed by Cernkovich and Giordano (1992). Youth are asked to rate on a 4-point Likert scale whether they endorse items indicating high levels of school engagement and bonding (e.g., “I feel like I really belong at school,” “I try hard at school”). Observed pretest scale reliabilities in this study were adequate (α = 0.72).
+Student Academic and Behavioral Records
+We examined student records to determine the total number of accumulated unexcused absences, number of detentions assigned, number of suspensions, and quarterly student grades in English and mathematics.
+Attitudes Toward Violence Scale
+The Attitudes toward Violence scale (Bosworth and Espelage 1995) is a eight-item self-report scale which measures the extent to which respondents endorse violence as a positive response method (e.g., “It’s okay to hit someone who hits you first”). Each items is rated on a 4-point scale ranging from 1 = strongly agree to 5 = strongly disagree. Observed pretest scale reliabilities in this study were adequate (α = 0.75).
+Positive and Negative Affect Schedule for Children (PANAS-C)
+The PANAS-C is a 27-item self-report scale that measures positive and negative affect in children and adolescents. Respondents rate each affect descriptor on a 5-point Likert scale. The PANAS-C has been widely used and found to have adequate reliability and validity (Laurent et al. 1999; Hughes and Kendall 2009). Observed pretest scale reliabilities for the positive affect (α = 0.89) and negative affect scales (α = 0.87) were adequate.
+Responses to Stress
+The Responses to Stress Questionnaire (RSQ). The RSQ is a well-validated measure of coping, designed to assess responses to stress in adolescents (Connor-Smith et al. 2000). For the purposes of this study, we examined subscales comprising the primary and secondary engagement factor which assess voluntary positive coping strategies such as problem solving, emotion regulation, emotional expression, positive thinking, cognitive restructuring, and acceptance. Observed pretest scale reliabilities for the primary and secondary engagement factors were 0.74 and 0.75, respectively. Reliabilities of subscales comprising the primary engagement factor (problem solving, emotion regulation, emotional expression) and secondary engagement factor (positive thinking, cognitive restructuring, and acceptance) fell below 0.70 thresholds. For the sake of parsimony, we report these findings below but encourage caution in the interpretation of these results.
+Somatization
+The somatic complaints’ subscale of the Child-Behavior Checklist (CBCL; Achenbach and Edelbrock 1983) was used to assess the severity of youth somatic symptoms. The somatic complaints’ scale asks respondents to rate a series of somatic symptoms (e.g., “I have muscle tension” or “I have nausea or stomach aches”) on a 3-point Likert scale ranging from 1 = always to 3 = never. Observed pretest scale reliability was adequate (α = 0.74). Children’s Intervention Rating Profile. To assess the acceptability of the TLS intervention, treatment group participants completed the Children’s Intervention Rating Profile (CIRP: Witt and Elliot 1985) which assesses the extent to which participants perceive an intervention as fair, of appropriate difficulty, socially acceptable, socially valid, enjoyable, and useful. The CIRP includes seven items that are rated on a 6-point Likert scale (1 = do not agree to 6 = strongly agree) and has been used in several studies examining youth perception of school-based intervention acceptability (Turco and Elliott 1986; Ota and DuPaul 2002). Example items include “Doing yoga is too hard” or “I think yoga will help me do better in school.” Observed reliabilities for the CIRP in this sample were adequate (α = 0.74).
+Data Analyses
+Prior to conducting analyses, data were inspected for normality, outliers, linearity, and homogeneity of regression slopes. No significant departures from assumptions were detected. To establish baseline equivalence, independent t tests were computed to assess statistical differences on pretest measures between program groups. No significant baseline differences were found on any continuous pretest assessment. Examination of baseline differences on demographic indicators revealed no significant differences between treatment and control groups at baseline with regards to grade (χ2 = (2159) = 0.027, p = .88), race (χ2 = (2155) = 5.64, p = .34), gender (χ2 = (2159) = 1.86, p = .4), family configuration (χ2 = (2159) = 1.86, p = 0.40), age (t (158) = −0.13, p = .0.89), or student grade point average (t (158) = −0.25, p = .0.81).
+Since students were randomly assigned to treatment or comparison groups, data were analyzed at this level using analysis of covariance (ANCOVA). Separate ANCOVAs were run for each outcome measure using grade, race, gender, and pre-test scores as covariates. To correct for type I error due to multiple pairwise contrasts, p values were adjusted using a Benjamini-Hochberg (BH) correction (Benjamini and Hochberg 1995). Cohen’s d for all treatment v control contrasts was calculated for each outcome measure with effect sizes of 0.3 or less considered small, 0.3 to 0.5 medium, and greater than 0.80 a large effect (Cohen 1988).
+Attrition and Handling of Missing Data
+Ten students (6 % of total sample, 4 treatment, and 6 control) present at baseline failed to complete the full program due to mid-year school transfers or inability to complete post-assessment questionnaires. No significant differences were found on any demographic or baseline measures predictive of attrition status. All missing data on outcome scales was replaced using multiple imputation with maximum-likelihood expectation maximization imputation routines.
+
+Method
+
+Participants
+Participants included students attending a diverse middle school in a high-poverty catchment area within an inner-city urban area of California. The study sample consisted of a convenience sample of 159 sixth (53.3 %) and nineth grade (44.7 %) students. Approximately 46.5 % of the sample was female. With regards to race, 16.8 % of the sample identified as African American, 5.8 % identified as White, 1.3 % identified as Asian, 54.2 % identified as Latino, and 21.9 % identified as having a mixed racial background. Approximately 64.2 % of the sample reported living in a two-parent household, 30.8 % lived in a single-parent home, and the remaining 5 % of students reported living with other relatives (e.g., grandmother, aunt, or siblings). Academically, the mean GPA among participating students was 2.90 (SD = 0.99).
+Procedure
+An RCT design was used to explore the effects of TLS on student outcomes. Students were randomized to receive the TLS intervention or business-as-usual control. Once assigned, TLS lessons were integrated into homeroom classes 3–4 days per week during the first semester of the school year. Each instructional session lasted approximately 30 min and occurred in the regular classroom setting. All instructors had several years of experience serving as a lead yoga instructor, received specialized training and certification in TLS administration from program developers, and had 2 or more years of experience implementing TLS in similar settings. Implementation was monitored through the completion of implementation checklists, 20 % of which were observed by an outside rater. On average, 92 % of intervention components were implemented with fidelity. To further support high-quality implementation, intervention providers also participated in regular supervision meetings with program developers during which anticipatory questions and implementation challenges were discussed.
+TLS Intervention
+TLS is a manualized, universal classroom-based program that provides students with instruction and applied experience in using yoga postures, breathing techniques, and centering meditation in order to reduce stress and promote social-emotional health and physical wellness. The intervention is secular and does not use terminology or practices that would be considered religious or unusual in most US public school contexts. The TLS curriculum provides sequenced scripts to support high-fidelity implementation. Lessons are divided into four units focusing on stress management, body and emotional awareness, self-regulation, and building healthy relationships. Figure 1 provides an overview of the scope and sequence of the TLS curriculum. Each unit includes 12 lessons that can be delivered in 15-, 30-, or 60-min segments. Each lesson is designed to teach specific skills connected to the overarching unit them. Each lesson follows a predictable instructional sequence consistent with best practices in student pedagogy. Prior to beginning each lesson, behavioral expectations are reviewed, and the agenda for the day’s lesson is reviewed. Then, instructors attempt to activate student background related to the topic in question and may engage in brief conversation with the group to stimulate interest.
+Fig. 1
+Transformative Life Skills (TLS) curriculum unit and lesson overview
+Full size image
+Subsequently, students engage in the Action-Breathing-Centering Activities (referred to as the “ABC’s”) which provides studentsʼ experience in engaging in yoga postures, focused breathing, and centering meditation. At the end of each lesson, instructors are asked to complete a fidelity checklist documenting that each lesson component was implemented, rate the overall level of student engagement, and reflect on the quality of lesson implementation. At the end of each unit, instructors are asked to review their implementation data to plan a “re-teaching” lesson during which they repeat coverage of content within the last content unit that was poorly covered or had limited student engagement.
+Measures
+School Engagement Scale
+School engagement was measured using the school bonding scale developed by Cernkovich and Giordano (1992). Youth are asked to rate on a 4-point Likert scale whether they endorse items indicating high levels of school engagement and bonding (e.g., “I feel like I really belong at school,” “I try hard at school”). Observed pretest scale reliabilities in this study were adequate (α = 0.72).
+Student Academic and Behavioral Records
+We examined student records to determine the total number of accumulated unexcused absences, number of detentions assigned, number of suspensions, and quarterly student grades in English and mathematics.
+Attitudes Toward Violence Scale
+The Attitudes toward Violence scale (Bosworth and Espelage 1995) is a eight-item self-report scale which measures the extent to which respondents endorse violence as a positive response method (e.g., “It’s okay to hit someone who hits you first”). Each items is rated on a 4-point scale ranging from 1 = strongly agree to 5 = strongly disagree. Observed pretest scale reliabilities in this study were adequate (α = 0.75).
+Positive and Negative Affect Schedule for Children (PANAS-C)
+The PANAS-C is a 27-item self-report scale that measures positive and negative affect in children and adolescents. Respondents rate each affect descriptor on a 5-point Likert scale. The PANAS-C has been widely used and found to have adequate reliability and validity (Laurent et al. 1999; Hughes and Kendall 2009). Observed pretest scale reliabilities for the positive affect (α = 0.89) and negative affect scales (α = 0.87) were adequate.
+Responses to Stress
+The Responses to Stress Questionnaire (RSQ). The RSQ is a well-validated measure of coping, designed to assess responses to stress in adolescents (Connor-Smith et al. 2000). For the purposes of this study, we examined subscales comprising the primary and secondary engagement factor which assess voluntary positive coping strategies such as problem solving, emotion regulation, emotional expression, positive thinking, cognitive restructuring, and acceptance. Observed pretest scale reliabilities for the primary and secondary engagement factors were 0.74 and 0.75, respectively. Reliabilities of subscales comprising the primary engagement factor (problem solving, emotion regulation, emotional expression) and secondary engagement factor (positive thinking, cognitive restructuring, and acceptance) fell below 0.70 thresholds. For the sake of parsimony, we report these findings below but encourage caution in the interpretation of these results.
+Somatization
+The somatic complaints’ subscale of the Child-Behavior Checklist (CBCL; Achenbach and Edelbrock 1983) was used to assess the severity of youth somatic symptoms. The somatic complaints’ scale asks respondents to rate a series of somatic symptoms (e.g., “I have muscle tension” or “I have nausea or stomach aches”) on a 3-point Likert scale ranging from 1 = always to 3 = never. Observed pretest scale reliability was adequate (α = 0.74). Children’s Intervention Rating Profile. To assess the acceptability of the TLS intervention, treatment group participants completed the Children’s Intervention Rating Profile (CIRP: Witt and Elliot 1985) which assesses the extent to which participants perceive an intervention as fair, of appropriate difficulty, socially acceptable, socially valid, enjoyable, and useful. The CIRP includes seven items that are rated on a 6-point Likert scale (1 = do not agree to 6 = strongly agree) and has been used in several studies examining youth perception of school-based intervention acceptability (Turco and Elliott 1986; Ota and DuPaul 2002). Example items include “Doing yoga is too hard” or “I think yoga will help me do better in school.” Observed reliabilities for the CIRP in this sample were adequate (α = 0.74).
+Data Analyses
+Prior to conducting analyses, data were inspected for normality, outliers, linearity, and homogeneity of regression slopes. No significant departures from assumptions were detected. To establish baseline equivalence, independent t tests were computed to assess statistical differences on pretest measures between program groups. No significant baseline differences were found on any continuous pretest assessment. Examination of baseline differences on demographic indicators revealed no significant differences between treatment and control groups at baseline with regards to grade (χ2 = (2159) = 0.027, p = .88), race (χ2 = (2155) = 5.64, p = .34), gender (χ2 = (2159) = 1.86, p = .4), family configuration (χ2 = (2159) = 1.86, p = 0.40), age (t (158) = −0.13, p = .0.89), or student grade point average (t (158) = −0.25, p = .0.81).
+Since students were randomly assigned to treatment or comparison groups, data were analyzed at this level using analysis of covariance (ANCOVA). Separate ANCOVAs were run for each outcome measure using grade, race, gender, and pre-test scores as covariates. To correct for type I error due to multiple pairwise contrasts, p values were adjusted using a Benjamini-Hochberg (BH) correction (Benjamini and Hochberg 1995). Cohen’s d for all treatment v control contrasts was calculated for each outcome measure with effect sizes of 0.3 or less considered small, 0.3 to 0.5 medium, and greater than 0.80 a large effect (Cohen 1988).
+Attrition and Handling of Missing Data
+Ten students (6 % of total sample, 4 treatment, and 6 control) present at baseline failed to complete the full program due to mid-year school transfers or inability to complete post-assessment questionnaires. No significant differences were found on any demographic or baseline measures predictive of attrition status. All missing data on outcome scales was replaced using multiple imputation with maximum-likelihood expectation maximization imputation routines.
+
+Fig. 1
+Transformative Life Skills (TLS) curriculum unit and lesson overview
+Full size image
+
+Fig. 1
+
+Transformative Life Skills (TLS) curriculum unit and lesson overview
+
+Transformative Life Skills (TLS) curriculum unit and lesson overview
+
+Results
+Unadjusted means, standard deviations, and significance tests of treatment versus control groups on outcome measures are presented in Tables 1, 2 and 3, respectively.
+Table 1 Participant demographic characteristics
+Full size table
+Table 2 Unadjusted pre- and post-means and standard deviations
+Full size table
+Table 3 Significance tests of treatment vs control differences on outcome measures
+Full size table
+Measures of School Performance, Engagement, and Attitudes Toward Violence
+After adjusting for multiple comparisons, results of ANCOVA analyses revealed no significant differences on measures of student suspensions (F(1, 142) = 0.01, p = .90; d = −0.03), student grades in English (F(1, 142) = 1.67, p = .28; d = −0.19), and student grades in Math (F(1, 142) = 1.58, p = .31; d = 0.25). However, as compared to the business-as-usual control, students in the intervention condition had significantly fewer unexcused absences (F(1, 142) = 9.16, p = .0.01; d = −0.86), fewer detentions (F(1, 142) = 5.52, p = .05; d = −0.33), and higher levels of school engagement (F(1, 142) = 9.76, p = .01; d = 0.45). Although significant prior to multiple contrast adjustments, attitudes toward violence measures were no longer significant once p values were adjusted (F(1, 142) = 4.00, p = .09; d = −0.29).
+Measures of Positive and Negative Affect
+No significant differences between groups were noted on measures of general positive affect (F(1, 142) = 0.64, p = .55; d = −0.03) or general negative affect (F(1, 142) = 0.09, p = .86; d = 0.02).
+Measures of Primary/Secondary Coping and Somatization
+Statistically significant effects were found on measures of primary coping (F(1, 142) = 12.39, p = .02; d = 0.15) and emotion regulation (F(1, 142) = 4.90, p = .05; d = 0.12). No significant group differences were found on measures of student problem solving (F(1, 142) = 3.10, p = .86; d = 0.09) or emotional expression (F(1, 142) = 3.26, p = .12; d = 0.11). Statistically significant effects were also found on measures of secondary coping (F(1, 142) = 9.75, p = .01; d = 0.14), constituent measures of positive thinking (F(1, 142) = 5.75, p = .05; d = 0.13), and cognitive restructuring (F(1, 142) = 11.65, p = .01; d = 0.20). No significant group effect was found on measures of acceptance (F(1, 142) = 2.12, p = .22; d = 0.08) or somatization (F(1, 142) = 0.58, p = .57; d = 0.04).
+Acceptability of the Intervention
+On intervention acceptability scales, students in the intervention group rated their experience of TLS as being of above average acceptability (M = 4.73, SD = 0.77). On average, students agreed that TLS classes were fair for all students (M = 4.03, SD = 1.70), strongly disagreed that class activities were too hard (M = 2.11, SD = 1.52), or participating in TLS would cause problems with their peers (M = 1.71, SD = 1.36). On average, students agreed that they would recommend TLS to other students (M = 5.27, SD = 1.13), personally liked engaging in TLS activities (M = 4.85, SD = 1.66), and agreed that TLS had the potential to help them in school (M = 4.83, SD = 1.31). During free-writing responses, 34.8 % of participants mentioned that they liked the relaxing effects of TLS practice the best, 10.6 % referenced the effects of TLS on sleep, and 13.6 % indicated they enjoyed the physical movement associated with practicing postures.
+
+Results
+
+Unadjusted means, standard deviations, and significance tests of treatment versus control groups on outcome measures are presented in Tables 1, 2 and 3, respectively.
+Table 1 Participant demographic characteristics
+Full size table
+Table 2 Unadjusted pre- and post-means and standard deviations
+Full size table
+Table 3 Significance tests of treatment vs control differences on outcome measures
+Full size table
+Measures of School Performance, Engagement, and Attitudes Toward Violence
+After adjusting for multiple comparisons, results of ANCOVA analyses revealed no significant differences on measures of student suspensions (F(1, 142) = 0.01, p = .90; d = −0.03), student grades in English (F(1, 142) = 1.67, p = .28; d = −0.19), and student grades in Math (F(1, 142) = 1.58, p = .31; d = 0.25). However, as compared to the business-as-usual control, students in the intervention condition had significantly fewer unexcused absences (F(1, 142) = 9.16, p = .0.01; d = −0.86), fewer detentions (F(1, 142) = 5.52, p = .05; d = −0.33), and higher levels of school engagement (F(1, 142) = 9.76, p = .01; d = 0.45). Although significant prior to multiple contrast adjustments, attitudes toward violence measures were no longer significant once p values were adjusted (F(1, 142) = 4.00, p = .09; d = −0.29).
+Measures of Positive and Negative Affect
+No significant differences between groups were noted on measures of general positive affect (F(1, 142) = 0.64, p = .55; d = −0.03) or general negative affect (F(1, 142) = 0.09, p = .86; d = 0.02).
+Measures of Primary/Secondary Coping and Somatization
+Statistically significant effects were found on measures of primary coping (F(1, 142) = 12.39, p = .02; d = 0.15) and emotion regulation (F(1, 142) = 4.90, p = .05; d = 0.12). No significant group differences were found on measures of student problem solving (F(1, 142) = 3.10, p = .86; d = 0.09) or emotional expression (F(1, 142) = 3.26, p = .12; d = 0.11). Statistically significant effects were also found on measures of secondary coping (F(1, 142) = 9.75, p = .01; d = 0.14), constituent measures of positive thinking (F(1, 142) = 5.75, p = .05; d = 0.13), and cognitive restructuring (F(1, 142) = 11.65, p = .01; d = 0.20). No significant group effect was found on measures of acceptance (F(1, 142) = 2.12, p = .22; d = 0.08) or somatization (F(1, 142) = 0.58, p = .57; d = 0.04).
+Acceptability of the Intervention
+On intervention acceptability scales, students in the intervention group rated their experience of TLS as being of above average acceptability (M = 4.73, SD = 0.77). On average, students agreed that TLS classes were fair for all students (M = 4.03, SD = 1.70), strongly disagreed that class activities were too hard (M = 2.11, SD = 1.52), or participating in TLS would cause problems with their peers (M = 1.71, SD = 1.36). On average, students agreed that they would recommend TLS to other students (M = 5.27, SD = 1.13), personally liked engaging in TLS activities (M = 4.85, SD = 1.66), and agreed that TLS had the potential to help them in school (M = 4.83, SD = 1.31). During free-writing responses, 34.8 % of participants mentioned that they liked the relaxing effects of TLS practice the best, 10.6 % referenced the effects of TLS on sleep, and 13.6 % indicated they enjoyed the physical movement associated with practicing postures.
+
+Discussion
+The purpose of this study was to assess the effectiveness of a yoga-based social-emotional wellness and health promotion program, TLS, on indicators of school functioning, emotional distress, and prosocial behavior of adolescents attending an inner-city urban school. Consistent with our initial hypotheses, we found significant and meaningful improvements in school engagement and concurrent reductions in unexcused absences and detentions. It is noteworthy that the effect sizes of these outcomes were in the medium to large range, suggesting that TLS may have strong potential as a universal method to promote positive school behavior and school engagement among middle and high school-aged adolescents in inner-city urban school settings. In addition, acceptability ratings revealed that TLS is generally viewed positively by student participants and is feasible for use with this age group.
+Although the number of suspensions incurred was lower in the treatment group as compared to the control group as expected, group differences were not statistically different. Reasons why this outcome was not significant while other indicators of school functioning substantially improved are not entirely clear. One possibility is that suspensions represent a relatively rare event, and the moderate sample size used in this pilot study (n = 159) was not sufficiently powered to detect these effects. Another possibility is that the most immediate effects of TLS are on indices of student engagement, and stronger dosages or more prolonged duration of exposure are necessary to impact suspension rates.
+A second important finding from this study is demonstration of the positive impact of TLS on indices of student positive stress-coping skills. Although the effects of TLS on positive coping strategies were somewhat smaller in magnitude, significant improvements in youth’s emotion regulation skills, positive thinking, and cognitive restructuring coping strategies are noteworthy and consistent with outcomes from previous youth yoga intervention studies (Berger and Stein 2009; Conboy et al. 2013; Daly et al. 2015; Goldberg 2004; Mendelson et al. 2010; Ramadoss and Bose 2010; Stueck and Gloeckner 2005; Wang and Hagins 2016). Given the well-established connections between positive coping strategies and better psychological adjustment (Garnefski et al. 2003; Steinhausen and Winkler-Metzke 2001), these findings suggest promise for yoga-based programs such as TLS to enhance adolescent emotion regulation over time and serve as a protective factor against the onset and progression of psychopathology across time.
+Contrary to our initial hypotheses, we did not find any significant group differences on measures of general positive and negative affect or somatization. This is consistent with findings from our previous studies of TLS (Frank et al. 2014) and other studies examining the effects of yoga on youth mental health outcomes (Haden et al. 2014; Khalsa et al. 2011; Mendelson et al. 2010). The reasons for this are not entirely clear; however, it is possible that sustained duration or increased dosage may be required to significantly impact more general indices of overall mood and affect.
+Finally, violence continues to be a grave area of concern, especially among youth in inner cities and urban areas of the USA. According to the Centers for Disease Control and Prevention (CDC), youth violence is the third leading cause of death for individuals aged 15–24 (CDC 2015). In 2012, an average of 13 individuals aged 10–24 were victims of homicide each day in the USA (CDC 2015). According to a 2013 nationwide survey of 9–12 grade students, approximately 24.7 % of respondents reported being in a physical altercation during the preceding year (Kann et al. 2014). The present study revealed a small to medium size reduction on youth’s attitudes toward violence. Although this finding was no longer statistically significant after adjusting p values for multiple pairwise comparisons, observed effect size differences between groups suggest that TLS may be a promising strategy for reducing the propensity toward violence among inner-city urban youth.
+
+Discussion
+
+The purpose of this study was to assess the effectiveness of a yoga-based social-emotional wellness and health promotion program, TLS, on indicators of school functioning, emotional distress, and prosocial behavior of adolescents attending an inner-city urban school. Consistent with our initial hypotheses, we found significant and meaningful improvements in school engagement and concurrent reductions in unexcused absences and detentions. It is noteworthy that the effect sizes of these outcomes were in the medium to large range, suggesting that TLS may have strong potential as a universal method to promote positive school behavior and school engagement among middle and high school-aged adolescents in inner-city urban school settings. In addition, acceptability ratings revealed that TLS is generally viewed positively by student participants and is feasible for use with this age group.
+Although the number of suspensions incurred was lower in the treatment group as compared to the control group as expected, group differences were not statistically different. Reasons why this outcome was not significant while other indicators of school functioning substantially improved are not entirely clear. One possibility is that suspensions represent a relatively rare event, and the moderate sample size used in this pilot study (n = 159) was not sufficiently powered to detect these effects. Another possibility is that the most immediate effects of TLS are on indices of student engagement, and stronger dosages or more prolonged duration of exposure are necessary to impact suspension rates.
+A second important finding from this study is demonstration of the positive impact of TLS on indices of student positive stress-coping skills. Although the effects of TLS on positive coping strategies were somewhat smaller in magnitude, significant improvements in youth’s emotion regulation skills, positive thinking, and cognitive restructuring coping strategies are noteworthy and consistent with outcomes from previous youth yoga intervention studies (Berger and Stein 2009; Conboy et al. 2013; Daly et al. 2015; Goldberg 2004; Mendelson et al. 2010; Ramadoss and Bose 2010; Stueck and Gloeckner 2005; Wang and Hagins 2016). Given the well-established connections between positive coping strategies and better psychological adjustment (Garnefski et al. 2003; Steinhausen and Winkler-Metzke 2001), these findings suggest promise for yoga-based programs such as TLS to enhance adolescent emotion regulation over time and serve as a protective factor against the onset and progression of psychopathology across time.
+Contrary to our initial hypotheses, we did not find any significant group differences on measures of general positive and negative affect or somatization. This is consistent with findings from our previous studies of TLS (Frank et al. 2014) and other studies examining the effects of yoga on youth mental health outcomes (Haden et al. 2014; Khalsa et al. 2011; Mendelson et al. 2010). The reasons for this are not entirely clear; however, it is possible that sustained duration or increased dosage may be required to significantly impact more general indices of overall mood and affect.
+Finally, violence continues to be a grave area of concern, especially among youth in inner cities and urban areas of the USA. According to the Centers for Disease Control and Prevention (CDC), youth violence is the third leading cause of death for individuals aged 15–24 (CDC 2015). In 2012, an average of 13 individuals aged 10–24 were victims of homicide each day in the USA (CDC 2015). According to a 2013 nationwide survey of 9–12 grade students, approximately 24.7 % of respondents reported being in a physical altercation during the preceding year (Kann et al. 2014). The present study revealed a small to medium size reduction on youth’s attitudes toward violence. Although this finding was no longer statistically significant after adjusting p values for multiple pairwise comparisons, observed effect size differences between groups suggest that TLS may be a promising strategy for reducing the propensity toward violence among inner-city urban youth.
+
+Limitations
+This study had several strengths, including a randomized design and diverse sample of students. However, in this study, it is not without limitations. Reliance on youth self-report for most measures is a methodological limitation. Although objective data was collected as well (e.g., student grades, suspensions, absenteeism), future research should examine the extent to whether teacher or parent report of student behavior is consistent with youth self-report. Exploring whether the effects of TLS on student affect and behavior extends to non-school environments is an important question for future studies.
+
+Limitations
+
+This study had several strengths, including a randomized design and diverse sample of students. However, in this study, it is not without limitations. Reliance on youth self-report for most measures is a methodological limitation. Although objective data was collected as well (e.g., student grades, suspensions, absenteeism), future research should examine the extent to whether teacher or parent report of student behavior is consistent with youth self-report. Exploring whether the effects of TLS on student affect and behavior extends to non-school environments is an important question for future studies.
+
+References
+Achenbach, T. M., & Edelbrock, C. S. (1983). Manual for the child behavior checklist and revised behavior profile. Burlington: University of Vermont Department of Psychiatry.
+Google Scholar
+  American Psychological Association (2013). Stress in America survey. Available online at: http://www.apa.org/news/press/releases/stress/key-findings.aspx Retrieved January, 13, 2013.
+Andersen, S. L. (2003). Trajectories of brain development: point of vulnerability or window of opportunity. Neuroscience and Biobehavioral Review, 27, 3–18.
+Article
+  Google Scholar
+  Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Royal Statistical Society, 57(1), 289–300.
+Google Scholar
+  Berger, D. L., & Stein, R. E. (2009). Effects of yoga on inner-city children’s well-being: a pilot study. Alternative Therapies in Health and Medicine, 15(5), 36–42.
+PubMed
+  Google Scholar
+  Bharshankar, J. R., Bharshankar, R. N., Deshpande, V. N., Kaore, S. B., & Gosavi, G. B. (2003). Effect of yoga on cardiovascular system in subjects above 40 years. Indian Journal of Physiology and Pharmacology, 47, 202–206.
+PubMed
+  Google Scholar
+  Bosworth, K., & Espelage, D. (1995). Teen conflict survey. Bloomington: Center for Adolescent Studies, Indiana University.
+Google Scholar
+  Büssing, A., Michalsen, A., Khalsa, S. B. S., Telles, S., & Sherman, K. J. (2012). Effects of yoga on mental and physical health: a short summary of reviews. Evidence-Based Complementary and Alternative Medicine, 2012, 1–7.
+Google Scholar
+  Case-Smith, J., Shupe Sines, J., & Klatt, M. (2010). Perceptions of children who participated in a school-based yoga program. Journal of Occupational Therapy, Schools, & Early Intervention, 3, 226–238.
+Article
+  Google Scholar
+  Centers for Disease Control and Prevention (2015). Understanding youth violence: fact sheet 2015. Available online at: http://www.cdc.gov/violenceprevention/pdf/yv-factsheet-a.pdf Retrieved May 18, 2016
+Cernkovich, S. A., & Giordano, P. C. (1992). School bonding, race, and delinquency. Criminology, 30, 261–291.
+Article
+  Google Scholar
+  Chan, A. S., Cheung, M., & Sze, S. L. (2008). Effect of mind/body training on children with behavioral and learning problems: a randomized controlled study. In B. N. DeLuca (Ed.), Mind–body and relaxation research focus (pp. 165–193). Hauppauge: Nova Science.
+Google Scholar
+  Cicchetti, D., Ganiban, J., & Barnett, D. (1991). Contributions from the study of high risk populations to understanding the development of emotion regulation. In J. Garber & K. Dodge (Eds.), The development of emotion regulation and dysregulation (pp. 15–49). New York: Cambridge University Press.
+Chapter
+  Google Scholar
+  Cohen, J. (1988). Statistical power analysis for the behavioral science (2nd ed.). Hillsdale: Lawrence Erlbaum Associates.
+Google Scholar
+  Conboy, L. A., Noggle, J. J., Frey, J. L., Kudesia, R. S., & Khalsa, S. B. S. (2013). Qualitative evaluation of a high school yoga program: feasibility and perceived benefits. Explore: The Journal of Science and Healing, 9, 171–180.
+Article
+  Google Scholar
+  Conger, J., & Petersen, A. (1984). Adolescence and youth: psychological development in a changing world. New York: Harper and Row.
+Google Scholar
+  Connor-Smith, J. K., Compas, B. E., Wadsworth, M. E., Tomsen, A. H., & Saltzman, H. (2000). Responses to stress in adolescence: measurement of coping and involuntary stress responses. Journal of Consulting and Clinical Psychology, 68, 976–992.
+Article
+  PubMed
+  Google Scholar
+  Costello, E. J., Mustillo, S., Erkanli, A., Keeler, G., & Angold, A. (2003). Prevalence and development of psychiatric disorders in childhood and adolescence. Archives of General Psychiatry, 60, 837–844.
+Article
+  PubMed
+  Google Scholar
+  Cramer, H., Lauche, R., & Dobos, G. (2014). Characteristics of randomized controlled trials of yoga: a bibliometric analysis. BMC Complementary and Alternative Medicine, 14(328), 1–20.
+Google Scholar
+  Dahl, R. E. (2004). Adolescent brain development: a period of vulnerabilities and opportunities. Annals of the New York Academy of Sciences, 102, 1–22.
+Article
+  Google Scholar
+  Daly, L. A., Haden, S. C., Hagins, M., Papouchis, N., & Ramirez, P. M. (2015). Yoga and emotion regulation in high school students: a randomized controlled trial. Evidence-based Complementary and Alternative Medicine, 2015, 1–8.
+Article
+  Google Scholar
+  Domitrovich, C. E., Moore, J. E., Thompson, R. A., & and the CASEL Preschool toe Elementary School Social and Emotional Learning Assessment Workgroup. (2012). Interventions that promote social-emotional learning in young children. In R. C. Pianta, W. S. Barnett, L. M. Justice, & S. M. Sheridan (Eds.), Handbook of early childhood education (pp. 393–415). New York: The Guilford Press.
+Google Scholar
+  Ehleringer, J. (2010). Yoga for children on the autism spectrum. International Journal of Yoga Therapy, 20, 131–139.
+Google Scholar
+  Eisenberg, N. (2010). Emotion-related self-regulation and its relation to children’s maladjustment. Annual Review of Clinical Psychology, 6, 495–525.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Elmen, J. (1991). Achievement orientation in early adolescence: development patterns and social correlates. Journal of Early Adolescence, 11, 125–151.
+Article
+  Google Scholar
+  Felner, R. D., Brand, S., DuBois, D. L., Adan, A. M., Mulhall, P. F., & Evans, E. G. (1995). Socioeconomic disadvantage, proximal environmental experiences, and socioemotional and academic adjustment in early adolescence: investigation of a mediated effects model. Child Development, 66, 774–792.
+Article
+  PubMed
+  Google Scholar
+  Ferreira-Vorkapic, C., Feitoza, J. M., Marchioro, M., Simões, J., Kozasa, E., & Telles, S. (2015). Are there benefits from teaching yoga at schools? A Systematic review of randomized control trials of yoga-nased Interventions. Evidence-Based Complementary and Alternative Medicine, 2015, 1–17.
+Article
+  Google Scholar
+  Frank, J. L., Bose, B., & Schrobenhauser-Clonan, A. (2014). Effectiveness of a school-based yoga program on adolescent mental health, stress coping strategies, and attitudes toward violence: findings from a high-risk sample. Journal of Applied School Psychology, 30(1), 29–49.
+Article
+  Google Scholar
+  Galantino, M. L., Galbavy, R., & Quinn, L. (2008). Therapeutic effects of yoga for children: a systematic review of the literature. Pediatric Physical Therapy, 20, 66–80.
+Article
+  PubMed
+  Google Scholar
+  Garnefski, N., Boon, S., & Kraaji, V. (2003). Relationships between cognitive strategies of adolescents and depressive symptomology across different types of life events. Journal of Youth and Adolescence, 32, 401–408.
+Article
+  Google Scholar
+  Goldberg, L. (2004). Creative RelaxationSM: a Yoga-based program for regular and exceptional student education. International Journal of Yoga Therapy, 14, 68–78.
+Google Scholar
+  Granic, I., Meusel, L., Lamm, C., Woltering, S., & Lewis, M. D. (2012). Emotion regulation in children with behavior problems: linking behavioral and brain processes. Development and Psychopathology, 24, 1019–1029.
+Article
+  PubMed
+  Google Scholar
+  Grant, K. E., Compas, B. E., Stuchlmacher, A. F., Thurn, A. E., McMahon, S. D., & Halpert, J. A. (2003). Stressors and child and adolescent psychopathology: moving from markers to mechanisms of risk. Psychological Bulletin, 129, 447–466.
+Article
+  PubMed
+  Google Scholar
+  Grant, K. E., Compas, B. E., Thurm, A. E., McMahon, S. D., & Gipson, P. Y. (2004). Stressors and child and adolescent psychopathology: measurement issues and prospective effects. Journal of Clinical Child and Adolescent Psychiatry, 33, 412–425.
+Article
+  Google Scholar
+  Gratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regulation and dysregulation: development, factor structure, and initial validation of the difficulties in emotion regulation scale. Journal of Psychopathology and Behavioral Assessment, 26, 41–54.
+Article
+  Google Scholar
+  Haden, S. C., Daly, L., & Hagins, M. (2014). A randomised controlled trial comparing the impact of yoga and physical education on the emotional and behavioural functioning of middle school children. Focus on Alternative and Complementary Therapies, 19, 148–155.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Harrison, L. J., Manocha, R., & Rubia, K. (2004). Sahaja yoga meditation as a family treatment programme for children with attention deficit–hyperactivity disorder. Clinical Child Psychology and Psychiatry, 9, 479–497.
+Article
+  Google Scholar
+  Hughes, A. A., & Kendall, P. C. (2009). Psychometric properties of the positive and negative affect scale for children (PANAS-C) in children with anxiety disorders. Child Psychiatry and Human Development, 40, 343–352.
+Article
+  PubMed
+  Google Scholar
+  Jeter, P. E., Slutsky, J., Singh, N., & Khalsa, S. B. S. (2015). Yoga as a therapeutic intervention: a bibliometric analysis of published research studies from 1967 to 2013. The Journal of Alternative and Complementary Medicine, 21, 586–592.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kann, L., Kinchen, S., Shanklin, S. L., Flint, K. H., Kawkins, J., Harris, W. A., … & Whittle, L. (2014). Youth risk behavior surveillance—United States, 2013. MMWR Surveillance Summaries, 63(4), 1–168.
+Kenny, M. (2002). Integrated movement therapy: Yoga-based therapy as a viable and effective intervention for autism spectrum and related disorders. International Journal of Yoga Therapy, 12, 71–79.
+Google Scholar
+  Khalsa, S. B. S., Hickey-Schultz, L., Cohen, D., Steiner, N., & Cope, S. (2011). Evaluation of the mental health benefits of yoga in a secondary school: a preliminary randomized controlled trial. Journal of Behavioral Health Services Research, 39, 80–90.
+Article
+  Google Scholar
+  Khattab, K., Khattab, A. A., Ortak, J., Richard, G., & Bonnemeier, H. (2007). Iyengar yoga increases cardiac parasympathetic nervous modulation among healthy yoga practitioners. Evidence-Based Complementary and Alternative Medicine, 4, 511–517.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kirkwood, G., Rampes, H., Tuffrey, V., Richardson, J., & Pilkington, K. (2005). Yoga for anxiety: a systematic review of the research evidence. British Journal of Sports Medicine, 39(12), 884–891.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Klatt, M. (2009). Integrating yoga, meditation, and occupational therapy for inner-city children. Explore: The Journal of Science and Healing, 5, 152–153.
+Article
+  Google Scholar
+  Kramer, L. (1991). The social construction of ability perceptions. Journal of Early Adolescence, 11, 340–362.
+Article
+  Google Scholar
+  Laurent, J., Catanzaro, S. J., Joiner, T. E., Rudolph, K. D., Potter, K. I., Lambert, S., et al. (1999). A measure of positive and negative affect for children: scale development and preliminary validation. Psychological Assessment, 11, 326–338.
+Article
+  Google Scholar
+  Lepper, M. R., Sethi, S., Dialdin, D., & Drake, M. (1997). Intrinsic and extrinsic motivation: a developmental perspective. In S. S. Luthar, J. A. Burack, D. Cicchetti, & J. R. Weisz (Eds.), Developmental psychopathology: perspectives on adjustment, risk, and disorder (pp. 23–50). New York: Cambridge University Press.
+Google Scholar
+  Lipsitz, J. (1981). Educating the early adolescent. American Education, 17, 13–17.
+Google Scholar
+  McLoyd, V. C., & Wilson, L. (1990). Maternal behavior, social support, and economic conditions as predictors of distress in children. In V. C. McLoyd & C. Flanagan (Eds.), New directions for child development. Vol. 46. Economic stress: effects on family life and child development (Vol. 46, pp. 49–69). San Francisco: Jossey-Bass.
+Google Scholar
+  Mendelson, T., Greenberg, M. T., Dariotis, J. K., Feagans-Gould, L., Rhodes, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38, 985–994.
+Article
+  PubMed
+  Google Scholar
+  Merikangas, K. R., He, J. P., Burstein, M., Swanson, S. A., Avenevoli, S., Cui, L., Benjet, C., Georgiades, K., & Swendsen, J. (2010). Lifetime prevalence of mental disorders in U.S. adolescents: results from the national comorbidity survey replication–adolescent supplement (NCSA). Journal of the American Academic and Child and Adolescent Psychiatry, 49, 980–989.
+Article
+  Google Scholar
+  Monro, R., Nagarathna, R., & Nagendra, H. R. (1990). Yoga for common ailments. New York: Simon & Schuster.
+Google Scholar
+  National Center for Complementary and Alternative Medicine. (2011). Yoga for health: an introduction. Retrieved August 1, 2013, from http://nccam.nih.gov/health/yoga/introduction.htm
+Ota, K., & DuPaul, G. J. (2002). Task engagement and mathematics performance in children with attention-deficit hyperactivity disorder: effects of supplemental computer instruction. School Psychology Quarterly, 17, 242–257.
+Article
+  Google Scholar
+  Pascoe, M. C., & Bauer, I. E. (2015). A systematic review of randomised control trials on the effects of yoga on stress measures and mood. Journal of Psychiatric Research, 68, 270–282.
+Article
+  PubMed
+  Google Scholar
+  Patton, G. C., & Viner, R. (2007). Pubertal transitions in health. The Lancet, 369, 1130–1139.
+Article
+  Google Scholar
+  Peck, H. L., Kehle, T. J., Bray, M. A., & Theodore, L. A. (2005). Yoga as an intervention for children with attention problems. School Psychology Review, 34, 415–424.
+Google Scholar
+  Pilkington, K., Kirkwood, G., Rampes, H., & Richardson, J. (2005). Yoga for depression: the research evidence. Journal of Affective Disorders, 89, 13–24.
+Article
+  PubMed
+  Google Scholar
+  Ramadoss, R., & Bose, B. (2010). Transformative life skills: pilot study of a yoga model for reduced stress and improving self-control in vulnerable youth. International Journal of Yoga Therapy, 20, 73–78.
+Google Scholar
+  Ripple, C. H., & Luthar, S. S. (2000). Academic risk among inner-city adolescents: the role of personal attributes. Journal of School Psychology, 38, 277–298.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Serwacki, M., & Cook-Cottone, C. (2012). Yoga in the schools: a systematic review of the literature. International Journal of Yoga Therapy, 22, 101–110.
+Google Scholar
+  Spear, L. P. (2000). Neurobehavioral changes in adolescence. Current Directions in Psychological Science, 9, 111–114.
+Article
+  Google Scholar
+  Steinhausen, H. C., & Winkler-Metzke, C. (2001). Risk, compensatory, vulnerability and protective factors influencing mental health in adolescence. Journal of Youth and Adolescence, 30, 25–280.
+Article
+  Google Scholar
+  Stipek, D. (1997). Success in school: for a head start in life. In S. S. Luthar, J. A. Burack, D. Cicchetti, & J. R. Weisz (Eds.), Developmental psychopathology: perspectives on adjustment, risk, and disorder (pp. 75–92). New York: Cambridge University Press.
+Google Scholar
+  Stueck, M., & Gloeckner, N. (2005). Yoga for children in the mirror of the science: working spectrum and practice fields of the training of relaxation with elements of yoga for children. Early Child Development and Care, 175, 371–377.
+Article
+  Google Scholar
+  Telles, S., Joshi, M., Dash, M., Raghuraj, P., Naveen, K. V., & Nagendra, H. R. (2004). An evaluation of the ability to voluntarily reduce the heart rate after a month of yoga practice. Integrative Physiological and Behavioral Science, 39, 119–125.
+Article
+  PubMed
+  Google Scholar
+  Thompson, R.A. (1994). Emotion regulation: a theme in search of a definition. In N. A. Fox (Ed.), The development of emotion regulation: biological and behavioral considerations: monographs of the Society for Research in Child Development, 59, (2–3) Serial No. 240), pp. 25–52.
+Turco, T. L., & Elliott, S. N. (1986). Assessment of students’ acceptability of teacher-initiated interventions for classroom misbehaviors. Journal of School Psychology, 24, 307–313.
+Article
+  Google Scholar
+  Turner, R. J., & Lloyd, D. A. (2004). Stress burden and the lifetime incidence of psychiatric disorder in young adults. Archives of General Psychiatry, 61, 481–488.
+Article
+  PubMed
+  Google Scholar
+  Uma, K., Nagendra, H. R., Nagarathna, R., Vaidehi, S., & Seethalakshmi, R. (1989). The integrated approach of yoga: a therapeutic tool for mentally retarded children: a one-year controlled study. Journal of Mental Deficiency Research, 33, 415–421.
+PubMed
+  Google Scholar
+  Vedamurthachar, A., Janakiramaiah, N., Hegde, J. M., Shetty, T. K., Subbakrishna, D. K., Sureshbabu, S. V., & Gangadhar, B. N. (2006). Antidepressant efficacy and hormonal effects of Sudarshana Kriya Yoga (SKY) in alcohol dependent individuals. Journal of Affective Disorders, 94, 249–253.
+Article
+  PubMed
+  Google Scholar
+  Verma, A., Shete, S. U., & Singh Thaku, G. (2014). The effect of yoga practices on cognitive development in rural residential school children in India. Memory, 6, 6–24.
+Google Scholar
+  Wang, D., & Hagins, M. (2016). Perceived benefits of yoga among urban school students: a qualitative analysis. Evidence-Based Complementary and Alternative Medicine, 2016. Retrieved from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739474/pdf/ECAM2016-8725654.pdf
+West, J., Otte, C., Geher, K., Johnson, J., & Mohr, D. C. (2004). Effects of Hatha yoga and African dance on perceived stress, affect, and salivary cortisol. Annals of Behavioral Medicine, 28, 114–118.
+Article
+  PubMed
+  Google Scholar
+  Witt, J. C., & Elliot, S. N. (1985). Acceptability of classroom intervention strategies. In T. R. Kratochwill (Ed.), Advances in school psychology (Vol. IV, pp. 251–288). Hillsdale: Lawrence Erlbaum Associates.
+Google Scholar
+  Wolchik, S. A., Tein, J. Y., Sandler, I. N., & Ayers, T. S. (2006). Stressors, quality of the child-caregiver relationship, and children’s mental health problems after parental death: the mediating role of self-system beliefs. Journal of Abnormal Child Psychology, 34, 221–238.
+Article
+  PubMed
+  Google Scholar
+  Woolery, A., Myers, H., Sternlieb, B., & Zeltzer, L. (2004). A yoga intervention for young adults with elevated symptoms of depression. Alternative Therapy Health and Medicine, 10, 60–63.
+Google Scholar
+  Yoga Journal & Yoga Alliance (2016). 2016 Yoga in America study. Retrieved from http://www.yogajournal.com/yogainamericastudy/
+Download references
+
+References
+
+Achenbach, T. M., & Edelbrock, C. S. (1983). Manual for the child behavior checklist and revised behavior profile. Burlington: University of Vermont Department of Psychiatry.
+Google Scholar
+  American Psychological Association (2013). Stress in America survey. Available online at: http://www.apa.org/news/press/releases/stress/key-findings.aspx Retrieved January, 13, 2013.
+Andersen, S. L. (2003). Trajectories of brain development: point of vulnerability or window of opportunity. Neuroscience and Biobehavioral Review, 27, 3–18.
+Article
+  Google Scholar
+  Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Royal Statistical Society, 57(1), 289–300.
+Google Scholar
+  Berger, D. L., & Stein, R. E. (2009). Effects of yoga on inner-city children’s well-being: a pilot study. Alternative Therapies in Health and Medicine, 15(5), 36–42.
+PubMed
+  Google Scholar
+  Bharshankar, J. R., Bharshankar, R. N., Deshpande, V. N., Kaore, S. B., & Gosavi, G. B. (2003). Effect of yoga on cardiovascular system in subjects above 40 years. Indian Journal of Physiology and Pharmacology, 47, 202–206.
+PubMed
+  Google Scholar
+  Bosworth, K., & Espelage, D. (1995). Teen conflict survey. Bloomington: Center for Adolescent Studies, Indiana University.
+Google Scholar
+  Büssing, A., Michalsen, A., Khalsa, S. B. S., Telles, S., & Sherman, K. J. (2012). Effects of yoga on mental and physical health: a short summary of reviews. Evidence-Based Complementary and Alternative Medicine, 2012, 1–7.
+Google Scholar
+  Case-Smith, J., Shupe Sines, J., & Klatt, M. (2010). Perceptions of children who participated in a school-based yoga program. Journal of Occupational Therapy, Schools, & Early Intervention, 3, 226–238.
+Article
+  Google Scholar
+  Centers for Disease Control and Prevention (2015). Understanding youth violence: fact sheet 2015. Available online at: http://www.cdc.gov/violenceprevention/pdf/yv-factsheet-a.pdf Retrieved May 18, 2016
+Cernkovich, S. A., & Giordano, P. C. (1992). School bonding, race, and delinquency. Criminology, 30, 261–291.
+Article
+  Google Scholar
+  Chan, A. S., Cheung, M., & Sze, S. L. (2008). Effect of mind/body training on children with behavioral and learning problems: a randomized controlled study. In B. N. DeLuca (Ed.), Mind–body and relaxation research focus (pp. 165–193). Hauppauge: Nova Science.
+Google Scholar
+  Cicchetti, D., Ganiban, J., & Barnett, D. (1991). Contributions from the study of high risk populations to understanding the development of emotion regulation. In J. Garber & K. Dodge (Eds.), The development of emotion regulation and dysregulation (pp. 15–49). New York: Cambridge University Press.
+Chapter
+  Google Scholar
+  Cohen, J. (1988). Statistical power analysis for the behavioral science (2nd ed.). Hillsdale: Lawrence Erlbaum Associates.
+Google Scholar
+  Conboy, L. A., Noggle, J. J., Frey, J. L., Kudesia, R. S., & Khalsa, S. B. S. (2013). Qualitative evaluation of a high school yoga program: feasibility and perceived benefits. Explore: The Journal of Science and Healing, 9, 171–180.
+Article
+  Google Scholar
+  Conger, J., & Petersen, A. (1984). Adolescence and youth: psychological development in a changing world. New York: Harper and Row.
+Google Scholar
+  Connor-Smith, J. K., Compas, B. E., Wadsworth, M. E., Tomsen, A. H., & Saltzman, H. (2000). Responses to stress in adolescence: measurement of coping and involuntary stress responses. Journal of Consulting and Clinical Psychology, 68, 976–992.
+Article
+  PubMed
+  Google Scholar
+  Costello, E. J., Mustillo, S., Erkanli, A., Keeler, G., & Angold, A. (2003). Prevalence and development of psychiatric disorders in childhood and adolescence. Archives of General Psychiatry, 60, 837–844.
+Article
+  PubMed
+  Google Scholar
+  Cramer, H., Lauche, R., & Dobos, G. (2014). Characteristics of randomized controlled trials of yoga: a bibliometric analysis. BMC Complementary and Alternative Medicine, 14(328), 1–20.
+Google Scholar
+  Dahl, R. E. (2004). Adolescent brain development: a period of vulnerabilities and opportunities. Annals of the New York Academy of Sciences, 102, 1–22.
+Article
+  Google Scholar
+  Daly, L. A., Haden, S. C., Hagins, M., Papouchis, N., & Ramirez, P. M. (2015). Yoga and emotion regulation in high school students: a randomized controlled trial. Evidence-based Complementary and Alternative Medicine, 2015, 1–8.
+Article
+  Google Scholar
+  Domitrovich, C. E., Moore, J. E., Thompson, R. A., & and the CASEL Preschool toe Elementary School Social and Emotional Learning Assessment Workgroup. (2012). Interventions that promote social-emotional learning in young children. In R. C. Pianta, W. S. Barnett, L. M. Justice, & S. M. Sheridan (Eds.), Handbook of early childhood education (pp. 393–415). New York: The Guilford Press.
+Google Scholar
+  Ehleringer, J. (2010). Yoga for children on the autism spectrum. International Journal of Yoga Therapy, 20, 131–139.
+Google Scholar
+  Eisenberg, N. (2010). Emotion-related self-regulation and its relation to children’s maladjustment. Annual Review of Clinical Psychology, 6, 495–525.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Elmen, J. (1991). Achievement orientation in early adolescence: development patterns and social correlates. Journal of Early Adolescence, 11, 125–151.
+Article
+  Google Scholar
+  Felner, R. D., Brand, S., DuBois, D. L., Adan, A. M., Mulhall, P. F., & Evans, E. G. (1995). Socioeconomic disadvantage, proximal environmental experiences, and socioemotional and academic adjustment in early adolescence: investigation of a mediated effects model. Child Development, 66, 774–792.
+Article
+  PubMed
+  Google Scholar
+  Ferreira-Vorkapic, C., Feitoza, J. M., Marchioro, M., Simões, J., Kozasa, E., & Telles, S. (2015). Are there benefits from teaching yoga at schools? A Systematic review of randomized control trials of yoga-nased Interventions. Evidence-Based Complementary and Alternative Medicine, 2015, 1–17.
+Article
+  Google Scholar
+  Frank, J. L., Bose, B., & Schrobenhauser-Clonan, A. (2014). Effectiveness of a school-based yoga program on adolescent mental health, stress coping strategies, and attitudes toward violence: findings from a high-risk sample. Journal of Applied School Psychology, 30(1), 29–49.
+Article
+  Google Scholar
+  Galantino, M. L., Galbavy, R., & Quinn, L. (2008). Therapeutic effects of yoga for children: a systematic review of the literature. Pediatric Physical Therapy, 20, 66–80.
+Article
+  PubMed
+  Google Scholar
+  Garnefski, N., Boon, S., & Kraaji, V. (2003). Relationships between cognitive strategies of adolescents and depressive symptomology across different types of life events. Journal of Youth and Adolescence, 32, 401–408.
+Article
+  Google Scholar
+  Goldberg, L. (2004). Creative RelaxationSM: a Yoga-based program for regular and exceptional student education. International Journal of Yoga Therapy, 14, 68–78.
+Google Scholar
+  Granic, I., Meusel, L., Lamm, C., Woltering, S., & Lewis, M. D. (2012). Emotion regulation in children with behavior problems: linking behavioral and brain processes. Development and Psychopathology, 24, 1019–1029.
+Article
+  PubMed
+  Google Scholar
+  Grant, K. E., Compas, B. E., Stuchlmacher, A. F., Thurn, A. E., McMahon, S. D., & Halpert, J. A. (2003). Stressors and child and adolescent psychopathology: moving from markers to mechanisms of risk. Psychological Bulletin, 129, 447–466.
+Article
+  PubMed
+  Google Scholar
+  Grant, K. E., Compas, B. E., Thurm, A. E., McMahon, S. D., & Gipson, P. Y. (2004). Stressors and child and adolescent psychopathology: measurement issues and prospective effects. Journal of Clinical Child and Adolescent Psychiatry, 33, 412–425.
+Article
+  Google Scholar
+  Gratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regulation and dysregulation: development, factor structure, and initial validation of the difficulties in emotion regulation scale. Journal of Psychopathology and Behavioral Assessment, 26, 41–54.
+Article
+  Google Scholar
+  Haden, S. C., Daly, L., & Hagins, M. (2014). A randomised controlled trial comparing the impact of yoga and physical education on the emotional and behavioural functioning of middle school children. Focus on Alternative and Complementary Therapies, 19, 148–155.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Harrison, L. J., Manocha, R., & Rubia, K. (2004). Sahaja yoga meditation as a family treatment programme for children with attention deficit–hyperactivity disorder. Clinical Child Psychology and Psychiatry, 9, 479–497.
+Article
+  Google Scholar
+  Hughes, A. A., & Kendall, P. C. (2009). Psychometric properties of the positive and negative affect scale for children (PANAS-C) in children with anxiety disorders. Child Psychiatry and Human Development, 40, 343–352.
+Article
+  PubMed
+  Google Scholar
+  Jeter, P. E., Slutsky, J., Singh, N., & Khalsa, S. B. S. (2015). Yoga as a therapeutic intervention: a bibliometric analysis of published research studies from 1967 to 2013. The Journal of Alternative and Complementary Medicine, 21, 586–592.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kann, L., Kinchen, S., Shanklin, S. L., Flint, K. H., Kawkins, J., Harris, W. A., … & Whittle, L. (2014). Youth risk behavior surveillance—United States, 2013. MMWR Surveillance Summaries, 63(4), 1–168.
+Kenny, M. (2002). Integrated movement therapy: Yoga-based therapy as a viable and effective intervention for autism spectrum and related disorders. International Journal of Yoga Therapy, 12, 71–79.
+Google Scholar
+  Khalsa, S. B. S., Hickey-Schultz, L., Cohen, D., Steiner, N., & Cope, S. (2011). Evaluation of the mental health benefits of yoga in a secondary school: a preliminary randomized controlled trial. Journal of Behavioral Health Services Research, 39, 80–90.
+Article
+  Google Scholar
+  Khattab, K., Khattab, A. A., Ortak, J., Richard, G., & Bonnemeier, H. (2007). Iyengar yoga increases cardiac parasympathetic nervous modulation among healthy yoga practitioners. Evidence-Based Complementary and Alternative Medicine, 4, 511–517.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kirkwood, G., Rampes, H., Tuffrey, V., Richardson, J., & Pilkington, K. (2005). Yoga for anxiety: a systematic review of the research evidence. British Journal of Sports Medicine, 39(12), 884–891.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Klatt, M. (2009). Integrating yoga, meditation, and occupational therapy for inner-city children. Explore: The Journal of Science and Healing, 5, 152–153.
+Article
+  Google Scholar
+  Kramer, L. (1991). The social construction of ability perceptions. Journal of Early Adolescence, 11, 340–362.
+Article
+  Google Scholar
+  Laurent, J., Catanzaro, S. J., Joiner, T. E., Rudolph, K. D., Potter, K. I., Lambert, S., et al. (1999). A measure of positive and negative affect for children: scale development and preliminary validation. Psychological Assessment, 11, 326–338.
+Article
+  Google Scholar
+  Lepper, M. R., Sethi, S., Dialdin, D., & Drake, M. (1997). Intrinsic and extrinsic motivation: a developmental perspective. In S. S. Luthar, J. A. Burack, D. Cicchetti, & J. R. Weisz (Eds.), Developmental psychopathology: perspectives on adjustment, risk, and disorder (pp. 23–50). New York: Cambridge University Press.
+Google Scholar
+  Lipsitz, J. (1981). Educating the early adolescent. American Education, 17, 13–17.
+Google Scholar
+  McLoyd, V. C., & Wilson, L. (1990). Maternal behavior, social support, and economic conditions as predictors of distress in children. In V. C. McLoyd & C. Flanagan (Eds.), New directions for child development. Vol. 46. Economic stress: effects on family life and child development (Vol. 46, pp. 49–69). San Francisco: Jossey-Bass.
+Google Scholar
+  Mendelson, T., Greenberg, M. T., Dariotis, J. K., Feagans-Gould, L., Rhodes, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38, 985–994.
+Article
+  PubMed
+  Google Scholar
+  Merikangas, K. R., He, J. P., Burstein, M., Swanson, S. A., Avenevoli, S., Cui, L., Benjet, C., Georgiades, K., & Swendsen, J. (2010). Lifetime prevalence of mental disorders in U.S. adolescents: results from the national comorbidity survey replication–adolescent supplement (NCSA). Journal of the American Academic and Child and Adolescent Psychiatry, 49, 980–989.
+Article
+  Google Scholar
+  Monro, R., Nagarathna, R., & Nagendra, H. R. (1990). Yoga for common ailments. New York: Simon & Schuster.
+Google Scholar
+  National Center for Complementary and Alternative Medicine. (2011). Yoga for health: an introduction. Retrieved August 1, 2013, from http://nccam.nih.gov/health/yoga/introduction.htm
+Ota, K., & DuPaul, G. J. (2002). Task engagement and mathematics performance in children with attention-deficit hyperactivity disorder: effects of supplemental computer instruction. School Psychology Quarterly, 17, 242–257.
+Article
+  Google Scholar
+  Pascoe, M. C., & Bauer, I. E. (2015). A systematic review of randomised control trials on the effects of yoga on stress measures and mood. Journal of Psychiatric Research, 68, 270–282.
+Article
+  PubMed
+  Google Scholar
+  Patton, G. C., & Viner, R. (2007). Pubertal transitions in health. The Lancet, 369, 1130–1139.
+Article
+  Google Scholar
+  Peck, H. L., Kehle, T. J., Bray, M. A., & Theodore, L. A. (2005). Yoga as an intervention for children with attention problems. School Psychology Review, 34, 415–424.
+Google Scholar
+  Pilkington, K., Kirkwood, G., Rampes, H., & Richardson, J. (2005). Yoga for depression: the research evidence. Journal of Affective Disorders, 89, 13–24.
+Article
+  PubMed
+  Google Scholar
+  Ramadoss, R., & Bose, B. (2010). Transformative life skills: pilot study of a yoga model for reduced stress and improving self-control in vulnerable youth. International Journal of Yoga Therapy, 20, 73–78.
+Google Scholar
+  Ripple, C. H., & Luthar, S. S. (2000). Academic risk among inner-city adolescents: the role of personal attributes. Journal of School Psychology, 38, 277–298.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Serwacki, M., & Cook-Cottone, C. (2012). Yoga in the schools: a systematic review of the literature. International Journal of Yoga Therapy, 22, 101–110.
+Google Scholar
+  Spear, L. P. (2000). Neurobehavioral changes in adolescence. Current Directions in Psychological Science, 9, 111–114.
+Article
+  Google Scholar
+  Steinhausen, H. C., & Winkler-Metzke, C. (2001). Risk, compensatory, vulnerability and protective factors influencing mental health in adolescence. Journal of Youth and Adolescence, 30, 25–280.
+Article
+  Google Scholar
+  Stipek, D. (1997). Success in school: for a head start in life. In S. S. Luthar, J. A. Burack, D. Cicchetti, & J. R. Weisz (Eds.), Developmental psychopathology: perspectives on adjustment, risk, and disorder (pp. 75–92). New York: Cambridge University Press.
+Google Scholar
+  Stueck, M., & Gloeckner, N. (2005). Yoga for children in the mirror of the science: working spectrum and practice fields of the training of relaxation with elements of yoga for children. Early Child Development and Care, 175, 371–377.
+Article
+  Google Scholar
+  Telles, S., Joshi, M., Dash, M., Raghuraj, P., Naveen, K. V., & Nagendra, H. R. (2004). An evaluation of the ability to voluntarily reduce the heart rate after a month of yoga practice. Integrative Physiological and Behavioral Science, 39, 119–125.
+Article
+  PubMed
+  Google Scholar
+  Thompson, R.A. (1994). Emotion regulation: a theme in search of a definition. In N. A. Fox (Ed.), The development of emotion regulation: biological and behavioral considerations: monographs of the Society for Research in Child Development, 59, (2–3) Serial No. 240), pp. 25–52.
+Turco, T. L., & Elliott, S. N. (1986). Assessment of students’ acceptability of teacher-initiated interventions for classroom misbehaviors. Journal of School Psychology, 24, 307–313.
+Article
+  Google Scholar
+  Turner, R. J., & Lloyd, D. A. (2004). Stress burden and the lifetime incidence of psychiatric disorder in young adults. Archives of General Psychiatry, 61, 481–488.
+Article
+  PubMed
+  Google Scholar
+  Uma, K., Nagendra, H. R., Nagarathna, R., Vaidehi, S., & Seethalakshmi, R. (1989). The integrated approach of yoga: a therapeutic tool for mentally retarded children: a one-year controlled study. Journal of Mental Deficiency Research, 33, 415–421.
+PubMed
+  Google Scholar
+  Vedamurthachar, A., Janakiramaiah, N., Hegde, J. M., Shetty, T. K., Subbakrishna, D. K., Sureshbabu, S. V., & Gangadhar, B. N. (2006). Antidepressant efficacy and hormonal effects of Sudarshana Kriya Yoga (SKY) in alcohol dependent individuals. Journal of Affective Disorders, 94, 249–253.
+Article
+  PubMed
+  Google Scholar
+  Verma, A., Shete, S. U., & Singh Thaku, G. (2014). The effect of yoga practices on cognitive development in rural residential school children in India. Memory, 6, 6–24.
+Google Scholar
+  Wang, D., & Hagins, M. (2016). Perceived benefits of yoga among urban school students: a qualitative analysis. Evidence-Based Complementary and Alternative Medicine, 2016. Retrieved from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739474/pdf/ECAM2016-8725654.pdf
+West, J., Otte, C., Geher, K., Johnson, J., & Mohr, D. C. (2004). Effects of Hatha yoga and African dance on perceived stress, affect, and salivary cortisol. Annals of Behavioral Medicine, 28, 114–118.
+Article
+  PubMed
+  Google Scholar
+  Witt, J. C., & Elliot, S. N. (1985). Acceptability of classroom intervention strategies. In T. R. Kratochwill (Ed.), Advances in school psychology (Vol. IV, pp. 251–288). Hillsdale: Lawrence Erlbaum Associates.
+Google Scholar
+  Wolchik, S. A., Tein, J. Y., Sandler, I. N., & Ayers, T. S. (2006). Stressors, quality of the child-caregiver relationship, and children’s mental health problems after parental death: the mediating role of self-system beliefs. Journal of Abnormal Child Psychology, 34, 221–238.
+Article
+  PubMed
+  Google Scholar
+  Woolery, A., Myers, H., Sternlieb, B., & Zeltzer, L. (2004). A yoga intervention for young adults with elevated symptoms of depression. Alternative Therapy Health and Medicine, 10, 60–63.
+Google Scholar
+  Yoga Journal & Yoga Alliance (2016). 2016 Yoga in America study. Retrieved from http://www.yogajournal.com/yogainamericastudy/
+Download references
+
+Author information
+Authors and Affiliations
+Department of Educational Psychology, Counseling, and Special Education, Pennsylvania State University, 308 Cedar Building, University Park, PA, 16808, USA
+Jennifer L. Frank, Kimberly Kohler & Adam Peal
+Niroga Institute, Oakland, CA, USA
+Bidyut Bose
+Corresponding author
+Correspondence to Jennifer L. Frank.
+
+Author information
+
+Authors and Affiliations
+Department of Educational Psychology, Counseling, and Special Education, Pennsylvania State University, 308 Cedar Building, University Park, PA, 16808, USA
+Jennifer L. Frank, Kimberly Kohler & Adam Peal
+Niroga Institute, Oakland, CA, USA
+Bidyut Bose
+Corresponding author
+Correspondence to Jennifer L. Frank.
+
+Ethics declarations
+Ethical Approval
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+Conflict of Interest
+Kimberly Kohler and Adam Peal declare that they have no conflict of interest. Jennifer L. Frank is a co-author of the TLS curriculum but does not receive royalty payments or in-kind benefits related to the sale of the TLS curriculum. Bidyut Bose is a co-author of the TLS curriculum and founder and director of the Niroga Institute which benefits financially from sales of the TLS curriculum.
+
+Ethics declarations
+
+Ethical Approval
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+Conflict of Interest
+Kimberly Kohler and Adam Peal declare that they have no conflict of interest. Jennifer L. Frank is a co-author of the TLS curriculum but does not receive royalty payments or in-kind benefits related to the sale of the TLS curriculum. Bidyut Bose is a co-author of the TLS curriculum and founder and director of the Niroga Institute which benefits financially from sales of the TLS curriculum.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Frank, J.L., Kohler, K., Peal, A. et al. Effectiveness of a School-Based Yoga Program on Adolescent Mental Health and School Performance: Findings from a Randomized Controlled Trial. Mindfulness 8, 544–553 (2017). https://doi.org/10.1007/s12671-016-0628-3
+Download citation
+Published
+25 October 2016
+Issue Date
+June 2017
+DOI
+https://doi.org/10.1007/s12671-016-0628-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Mindfulness
+Yoga
+Randomized controlled trial
+RCT
+Engagement
+Coping
+Stress
+Student
+Emotion regulation
+Positive thinking
+Somatization
+Suspensions
+Academic
+Grades
+Affect
+Asanas
+Breathing
+Pranayama
+Schools
+Education
+Stress
+Adolescent
+
+About this article
+
+Cite this article
+Frank, J.L., Kohler, K., Peal, A. et al. Effectiveness of a School-Based Yoga Program on Adolescent Mental Health and School Performance: Findings from a Randomized Controlled Trial. Mindfulness 8, 544–553 (2017). https://doi.org/10.1007/s12671-016-0628-3
+Download citation
+Published
+25 October 2016
+Issue Date
+June 2017
+DOI
+https://doi.org/10.1007/s12671-016-0628-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Mindfulness
+Yoga
+Randomized controlled trial
+RCT
+Engagement
+Coping
+Stress
+Student
+Emotion regulation
+Positive thinking
+Somatization
+Suspensions
+Academic
+Grades
+Affect
+Asanas
+Breathing
+Pranayama
+Schools
+Education
+Stress
+Adolescent

@@ -1,0 +1,812 @@
+Abstract
+We report the results of a quasi-experimental study evaluating the effectiveness of the Mindfulness Education (ME) program. ME is a theoretically derived, teacher-taught universal preventive intervention that focuses on facilitating the development of social and emotional competence and positive emotions, and has as its cornerstone daily lessons in which students engage in mindful attention training (three times a day). Pre- and early adolescent students in the 4th to 7th grades (N = 246) drawn from six ME program classrooms and six comparison classrooms (wait-list controls) completed pretest and posttest self-report measures assessing optimism, general and school self-concept, and positive and negative affect. Teachers rated pre- and early adolescents on dimensions of classroom social and emotional competence. Results revealed that pre- and early adolescents who participated in the ME program, compared to those who did not, showed significant increases in optimism from pretest to posttest. Similarly, improvements on dimensions of teacher-rated classroom social competent behaviors were found favoring ME program students. Program effects also were found for self-concept, although the ME program demonstrated more positive benefits for preadolescents than for early adolescents. Teacher reports of implementation fidelity and dosage for the mindfulness activities were high and teachers reported that they were easily able to integrate the mindful attention exercises within their classrooms. Theoretical issues linking mindful attention awareness to social and emotional competence and implications for the development of school-based interventions are discussed.
+
+Abstract
+
+We report the results of a quasi-experimental study evaluating the effectiveness of the Mindfulness Education (ME) program. ME is a theoretically derived, teacher-taught universal preventive intervention that focuses on facilitating the development of social and emotional competence and positive emotions, and has as its cornerstone daily lessons in which students engage in mindful attention training (three times a day). Pre- and early adolescent students in the 4th to 7th grades (N = 246) drawn from six ME program classrooms and six comparison classrooms (wait-list controls) completed pretest and posttest self-report measures assessing optimism, general and school self-concept, and positive and negative affect. Teachers rated pre- and early adolescents on dimensions of classroom social and emotional competence. Results revealed that pre- and early adolescents who participated in the ME program, compared to those who did not, showed significant increases in optimism from pretest to posttest. Similarly, improvements on dimensions of teacher-rated classroom social competent behaviors were found favoring ME program students. Program effects also were found for self-concept, although the ME program demonstrated more positive benefits for preadolescents than for early adolescents. Teacher reports of implementation fidelity and dosage for the mindfulness activities were high and teachers reported that they were easily able to integrate the mindful attention exercises within their classrooms. Theoretical issues linking mindful attention awareness to social and emotional competence and implications for the development of school-based interventions are discussed.
+
+Introduction
+Recent years have witnessed a growing portion of school-aged children experiencing a myriad of social, emotional, and behavioral problems that interfere with their interpersonal relationships, school success, and their potential to become competent adults and productive citizens (e.g., Greenberg et al. 2001). Epidemiological reports of prevalence rates of disorder, for instance, indicate that mental health problems are on the rise with approximately one in five children and adolescents experiencing problems severe enough to warrant their need for mental health services (Romano et al. 2001; U.S. Public Health Service 2000). Yet, fewer than 15% of those needing help receive the services they need (National Advisory Mental Health Council 1990), and those that do receive services receive such services via their schools (Rones and Hoagwood 2000). Childhood mental health problems have been identified as a salient concern among researchers, clinicians, and educators alike not only because of continuities in the manifestation of such problems in children (Loeber et al. 1993) and concomitant problems associated with mental health difficulties including peer relationship problems and school dropout (Coie and Dodge 1998; Parke and Slaby 1983), mental health problems (e.g., anxiety, aggression) are often associated with contemporaneous difficulties, such as significant disruption to the social and academic ethos for other children in classrooms and schools as well as the community at large (Farrington 1992). The significant role of mental health problems and associated risks underscore the need to examine the effectiveness of school-based prevention programs whose aim is to promote protective factors and foster resiliency among all children and adolescents (Institute of Medicine 2009).
+Several models have been proposed for understanding the mechanisms that protect or serve as buffers for mental health difficulties and problem behaviors in children and youth; however, the bulk of current theoretical and empirical literature supports a social and emotional competence perspective in which children with positive social and emotional skills demonstrate resiliency when confronted with stressful situations (Greenberg et al. 2003; Masten and Motti-Stefanidi 2009). Research has consistently found a positive correlation between measures of children’s social and emotional skills (e.g., emotional regulation) and measures of later psychological health (Greenberg et al. 2001), highlighting the need for interventions targeting children’s social and emotional skills early before mental health difficulties emerge.
+Prior evidence supports the contention that social and emotional competence in children and adolescents can be fostered and their behavioral problems deterred via classroom and school-based intervention efforts (e.g., Battistich et al. 1997; Conduct Problems Prevention Research Group 1999; Riggs et al. 2006; for a recent meta-analysis, see Durlak et al. in press). Indeed, increasing numbers of educators have begun to recognize the importance of the school-based promotion of children’s social and emotional competence as an integral component of education to foster resiliency and stave off an upward trajectory of aggressive behavior and mental health problems (e.g., Brock et al. 2006; Cappella and Weinstein 2006; Ross et al. 2002; Wilson et al. 2003). According to the Consortium on the School-Based Promotion of Social Competence (1994), “Schools are widely acknowledged as the major setting in which activities should be undertaken to promote students’ competence and prevent the development of unhealthy behaviors. In contrast to other potential sites for intervention, schools provide access to all children on a regular and consistent basis over the majority of their formative years of personality development” (p. 278). Elementary schools in particular “are preferred institutions for primary prevention programs since very few children will manifest serious problem behaviors by the end of elementary school” (Schaps and Battistich 1991, p. 129).
+Despite recent advances in the field, however, many of the extant school-based prevention programs are limited in certain ways (e.g., Bond and Hauf 2004; Durlak and Wells 1997; Weissberg and Greenberg 1998). First, many of the available programs aimed at promoting children’s and adolescents’ social and emotional competence lack scientific theory and research in their content, structure, and implementation. Second, many of the programs focus on only one developmental domain of competence (e.g., conflict resolution) and do not take a comprehensive approach to promoting a range of social and emotional skills. Third, many programs are of very short duration and are not easily integrated and extended into the regular school curriculum. Fourth, many of the existing programs have focused primarily on reducing problem behaviors (e.g., aggression) and have not kept pace with recent advances in the field on the ways in which to cultivate and foster the development of positive human qualities and traits associated with well-being (e.g., optimism). In view of these limitations, in the current study we sought to add to the array of theoretically based evaluations of social and emotional competence promotion programs by examining the effectiveness of a newly developed classroom-based universal preventive intervention—the Mindfulness Education (ME) program—a program that focuses on facilitating the development of students’ emotional and social competence via a series of lessons in which “mindful attention awareness” is taught and practiced, and in which students engage in lessons designed to promote optimism and positive affect. Although the ME program is being widely implemented in schools, there is not yet any empirical evidence of its effectiveness.
+As increased research attention to the promotion of children’s social and emotional competence in schools has come to the fore in the past decade, a paradigm shift in psychology has been unfolding with recent years witnessing a shift from a preoccupation with repairing weaknesses to the enhancement of positive qualities and preventing or heading off problems before they arise (e.g., Diener and Seligman 2002; Lyubomirsky et al. 2005a, b; Seligman and Csikszentimihalyi 2000). Implicit in this trend is the assumption that educational interventions can be designed to foster children’s strengths and resiliency (Huebner et al. 2009). The positive psychology movement, as it has been called, aims to examine the positive features of human development including the study of personal traits such as “subjective well-being, optimism, happiness, and self-determination” (Seligman and Csikszentimihalyi 2000, p. 9). Recent work within this area has been expanding from a sole focus on understanding positive human qualities in adults to include younger populations (Clonan et al. 2004; Huebner and Gilman 2003; Terjesen et al. 2004).
+At present, the research on the ways in which positive emotions can be promoted in children and adolescents is still in a nascent stage. Emerging evidence, however, suggests that self-regulation, such as the ability to control attention and inhibit aggressive responses, plays a critical role in children’s success in school and with their social and emotional competence (Blair and Diamond 2008; Ponitz et al. 2009). Additionally, optimism is a valuable psychological resource that serves as a protective factor for both mental and physical health (e.g., Brodhagen and Wise 2008), and an optimistic attitude towards life and the future has been reported to be an essential component of the resilience mechanism (Kumpfer 1999; Seligman 1990). Dispositional optimism in particular, defined as the generalized expectancy that positive outcomes are attainable, has been shown to correlate with positive coping (Scheier et al. 1986), to predict positive outcomes after adverse events (Carver and Scheier 2002) and peer acceptance in early adolescents (Oberle et al. 2009), and to benefit overall health and well-being (Scheier and Carver 1993).
+In the literature on positive psychology, another dimension that has been identified as beneficial to well-being and which has received increasing attention across numerous academic and clinical disciplines is mindfulness (Kabat-Zinn 2003; Singh et al. 2003; Siegel 2007; Zylowska et al. 2008). Although definitions of mindfulness abound and may vary across settings and disciplines, a common theme across all of the extant definitions is that mindfulness is a way of directing attention. That is, mindfulness is considered to be a state of consciousness that incorporates self-awareness and attention with a core characteristic of being open, receptive, and non-judgmental (e.g., Brown and Ryan 2003; Kabat-Zinn 1990; Segal et al. 2002). Attention and awareness are consistent features of mindfulness. A further conceptualization of mindfulness posited by Brown and Ryan (2003) concerns an enhanced awareness and attention of the present reality or current activity. For example, when an individual is in the shower, that person can be attuned to the moment–to–moment sensory experience of the warm water, while also peripherally aware of the differing scents of shampoos and soaps. In contrast, Brown and Ryan (2003) describe “mindlessness” as the relative absence of mindfulness. Consciousness that is constrained is some way (e.g., rumination on events in the past, anxieties about the future) pulls awareness away from the present experience. Mindfulness can also be compromised by dividing attention with multiple tasks (e.g., talking on the phone while watching television), preoccupation with concerns that limit focus on the present moment and/or by refusing to acknowledge a thought, emotion, motivation, or perceived object. Being mindful requires awareness and focus on current experience versus “automatic pilot,” which involves engaging in behavior that is out of awareness and attention, which is compulsive or automatic (Kabat-Zinn 1990; Segal et al. 2002).
+Despite the theoretical supposition that being mindful is beneficial to a person’s well-being, one question that arises is to whether or not there are empirical data supporting such a claim. Recent research conducted by Brown and Ryan (2003) provides just such evidence. In a series of correlational, quasi-experimental, and laboratory studies conducted with adults, they found that mindfulness, as assessed with their Mindfulness Attention Awareness Scale, was positively associated with several dimensions of well-being (e.g., optimism, positive affect, self-actualization) and negatively related to indices of psychological and emotional disturbance (e.g., negative affect, depression, anxiety, rumination). Additionally, they found that greater mindful attention awareness was not only associated with more self-awareness, mindfulness predicted self-regulation, and positive emotional states.
+On the one hand, the evidence supporting the benefits of mindfulness training interventions in adult populations is relatively strong (for a review, see Greeson 2009), with research showing multiple benefits, including improvements in attention and awareness (e.g., Jha et al. 2007), reductions in health problems and stress-related medical conditions (Grossman et al. 2004), and enhanced positive emotions and well-being (Davidson et al. 2003). Indeed, the past few years has seen a convergence of evidence supporting the effectiveness of programs that utilize mindfulness skill training in reducing stress and promoting health and well-being in adult populations. For instance, research examining programs such as Mindfulness-Based Stress Reduction and Mindfulness-Based Cognitive Therapy has yielded consistent support for the efficacy of these programs in treating a variety of physical and psychological problems (e.g., Baer 2003; Kabat-Zinn 1982; Kabat-Zinn et al. 1992, 1998; Teasdale et al. 2000).
+On the other hand, the research examining the effectiveness of mindfulness-based interventions with children and youth is limited. As noted by Semple et al. (2006), although “early indications are that mindfulness in children is acceptable and feasible,” research in this area “has barely begun” (p. 164). Moreover, the relatively meager research examining mindfulness with school-age children has not focused on the cultivation of positive emotions but rather this research has either focused exclusively on reductions in rumination and symptoms of anxiety and depression (Biegel et al. 2009; Broderick and Metz 2009; Napoli et al. 2005) or has been conducted with clinical or special populations of children and youth (Beauchemin et al. 2008; Semple et al. 2005; Singh et al. 2007; Thompson and Gauntlett-Gilbert 2008; Zylowska et al. 2008). What is not yet known is whether or not an intervention that incorporates mindfulness training leads to improvements in attention and concentration, positive emotions, and social and emotional competence along with concomitant decreases in dysregulated problem behaviors in a community sample of pre- and early adolescents.
+Mindfulness training has been identified as one way in which to foster self-regulatory control during adolescence (Roeser and Peck 2009). Mindfulness attention training can be viewed as a form of mental training leading to skill development in which the willful directing and redirecting of attention/awareness to particular kinds of events (e.g., breathing) is on purpose and with effort. As posited by Broderick and Metz (2009), “This practice offers the opportunity to develop hardiness in the face of uncomfortable feelings that otherwise might provoke a response that could be harmful (such as ‘acting out’ by taking drugs or displaying violent behavior, or ‘acting in’ by becoming more depressed)… Mindfulness training can complement and strengthen other approaches that promote emotion regulation, reduce stress, and develop attention” (p. 37).
+The need for the promotion of children’s social and emotional competence and well-being is particularly evident during the transition from childhood to adolescence (Hertzman and Power 2006). We argue herein that it is during the early adolescent years—particularly the ages between 9 and 12—in which a program that incorporates mindfulness practices may be particularly warranted (note that the ages of 9 and 10 have also been identified as the period of “preadolescence,” and that that ages of 11 and 12 have been identified as “early adolescence”). It is during this developmental period in which children’s personalities, behaviors, and competencies may consolidate into forms that persist into adolescence and on into adulthood (Eccles and Roeser 2009). What we know from the existing research on this age period is that the changes that occur are quite dramatic. It is between the ages of 9 and 12 years, in particular, in which fundamental changes occur across almost every sphere of life—intellectual and cognitive changes, physical changes due to puberty, and social and emotional changes (Eccles 1999). During this time, children both master academic skills such as reading, writing, and arithmetic and become more self aware, reflective, and planful. It is also during these years when individuals become less egocentric and are able to consider the feelings and perspectives of others—they develop a sense of right and wrong and have the capacity to act in accordance with their higher levels of social understanding. This developmental period has been identified as a transitional or a “turning point” where an opportunity is present to promote positive psychological growth (Graber and Brooks-Gunn 1996). Transitions should not only be thought as “risk promoting” or “vulnerability inducing” times in child development—transitions may also be thought as “windows of opportunity”—times in the life cycle in which positive development can be cultivated and fostered through opportunities provided to the individual in his or her environment that “promote” success, and serve as “protective” factors that move that person onward and upward to a pathway filled with competence and success. In the present study, therefore, we focused our research efforts on children ages 9 to 12 because we perceive that pre- and early adolescence is a developmental period with great opportunity to optimize health and promote development.
+Accordingly, the primary purpose of our research was to examine the effectiveness of the ME program on pre- and early adolescents’ functioning in four domains: optimism, self-concept, positive affect, and social–emotional functioning in school. We hypothesized that when compared to pre- and early adolescents in a control condition, ME program students would show positive changes from pretest to posttest in all four domains. Our dual focus on increasing social and emotional competence and reducing problem behaviors was warranted due to empirical evidence indicating that prognosis for children is poorest when they demonstrate a combination of low social and emotional competence alongside aggressive behavior (Conduct Problems Prevention Research Group 1999). We matched program classes with control classes where the average age, gender, and English as a Second Language (ESL) status of the class was equivalent.
+Given the importance of examining implementation fidelity in prevention (Domitrovich and Greenberg 2000; Duncan et al. 2009; Durlak and DuPre 2008), a second purpose of our study was to examine the fidelity and acceptability of the ME program when implemented in a “real world” setting delivered by regular elementary school teachers in regular classrooms. Central to our question was the degree to which the implementation of the ME intervention program’s objectives and procedures were put into everyday practice in the classroom. There were three dimensions of implementation on which we focused: (1) implementation fidelity (the extent to which the program corresponded to the originally intended program), (2) dosage (how many different program components had been conducted), and (3) participants’ responsiveness (the degree to which the program was perceived by the teachers as interesting and influential on student outcomes). Primary research questions for our study were: (a) Can mindfulness-based practices be effectively integrated into a regular elementary school classroom?, (b) Will teachers be receptive to concepts and practices of mindfulness and positive psychology practices and applications?, and (c) Will teachers perceive the curriculum to be beneficial for improving student behavior and well-being?
+
+Introduction
+
+Recent years have witnessed a growing portion of school-aged children experiencing a myriad of social, emotional, and behavioral problems that interfere with their interpersonal relationships, school success, and their potential to become competent adults and productive citizens (e.g., Greenberg et al. 2001). Epidemiological reports of prevalence rates of disorder, for instance, indicate that mental health problems are on the rise with approximately one in five children and adolescents experiencing problems severe enough to warrant their need for mental health services (Romano et al. 2001; U.S. Public Health Service 2000). Yet, fewer than 15% of those needing help receive the services they need (National Advisory Mental Health Council 1990), and those that do receive services receive such services via their schools (Rones and Hoagwood 2000). Childhood mental health problems have been identified as a salient concern among researchers, clinicians, and educators alike not only because of continuities in the manifestation of such problems in children (Loeber et al. 1993) and concomitant problems associated with mental health difficulties including peer relationship problems and school dropout (Coie and Dodge 1998; Parke and Slaby 1983), mental health problems (e.g., anxiety, aggression) are often associated with contemporaneous difficulties, such as significant disruption to the social and academic ethos for other children in classrooms and schools as well as the community at large (Farrington 1992). The significant role of mental health problems and associated risks underscore the need to examine the effectiveness of school-based prevention programs whose aim is to promote protective factors and foster resiliency among all children and adolescents (Institute of Medicine 2009).
+Several models have been proposed for understanding the mechanisms that protect or serve as buffers for mental health difficulties and problem behaviors in children and youth; however, the bulk of current theoretical and empirical literature supports a social and emotional competence perspective in which children with positive social and emotional skills demonstrate resiliency when confronted with stressful situations (Greenberg et al. 2003; Masten and Motti-Stefanidi 2009). Research has consistently found a positive correlation between measures of children’s social and emotional skills (e.g., emotional regulation) and measures of later psychological health (Greenberg et al. 2001), highlighting the need for interventions targeting children’s social and emotional skills early before mental health difficulties emerge.
+Prior evidence supports the contention that social and emotional competence in children and adolescents can be fostered and their behavioral problems deterred via classroom and school-based intervention efforts (e.g., Battistich et al. 1997; Conduct Problems Prevention Research Group 1999; Riggs et al. 2006; for a recent meta-analysis, see Durlak et al. in press). Indeed, increasing numbers of educators have begun to recognize the importance of the school-based promotion of children’s social and emotional competence as an integral component of education to foster resiliency and stave off an upward trajectory of aggressive behavior and mental health problems (e.g., Brock et al. 2006; Cappella and Weinstein 2006; Ross et al. 2002; Wilson et al. 2003). According to the Consortium on the School-Based Promotion of Social Competence (1994), “Schools are widely acknowledged as the major setting in which activities should be undertaken to promote students’ competence and prevent the development of unhealthy behaviors. In contrast to other potential sites for intervention, schools provide access to all children on a regular and consistent basis over the majority of their formative years of personality development” (p. 278). Elementary schools in particular “are preferred institutions for primary prevention programs since very few children will manifest serious problem behaviors by the end of elementary school” (Schaps and Battistich 1991, p. 129).
+Despite recent advances in the field, however, many of the extant school-based prevention programs are limited in certain ways (e.g., Bond and Hauf 2004; Durlak and Wells 1997; Weissberg and Greenberg 1998). First, many of the available programs aimed at promoting children’s and adolescents’ social and emotional competence lack scientific theory and research in their content, structure, and implementation. Second, many of the programs focus on only one developmental domain of competence (e.g., conflict resolution) and do not take a comprehensive approach to promoting a range of social and emotional skills. Third, many programs are of very short duration and are not easily integrated and extended into the regular school curriculum. Fourth, many of the existing programs have focused primarily on reducing problem behaviors (e.g., aggression) and have not kept pace with recent advances in the field on the ways in which to cultivate and foster the development of positive human qualities and traits associated with well-being (e.g., optimism). In view of these limitations, in the current study we sought to add to the array of theoretically based evaluations of social and emotional competence promotion programs by examining the effectiveness of a newly developed classroom-based universal preventive intervention—the Mindfulness Education (ME) program—a program that focuses on facilitating the development of students’ emotional and social competence via a series of lessons in which “mindful attention awareness” is taught and practiced, and in which students engage in lessons designed to promote optimism and positive affect. Although the ME program is being widely implemented in schools, there is not yet any empirical evidence of its effectiveness.
+As increased research attention to the promotion of children’s social and emotional competence in schools has come to the fore in the past decade, a paradigm shift in psychology has been unfolding with recent years witnessing a shift from a preoccupation with repairing weaknesses to the enhancement of positive qualities and preventing or heading off problems before they arise (e.g., Diener and Seligman 2002; Lyubomirsky et al. 2005a, b; Seligman and Csikszentimihalyi 2000). Implicit in this trend is the assumption that educational interventions can be designed to foster children’s strengths and resiliency (Huebner et al. 2009). The positive psychology movement, as it has been called, aims to examine the positive features of human development including the study of personal traits such as “subjective well-being, optimism, happiness, and self-determination” (Seligman and Csikszentimihalyi 2000, p. 9). Recent work within this area has been expanding from a sole focus on understanding positive human qualities in adults to include younger populations (Clonan et al. 2004; Huebner and Gilman 2003; Terjesen et al. 2004).
+At present, the research on the ways in which positive emotions can be promoted in children and adolescents is still in a nascent stage. Emerging evidence, however, suggests that self-regulation, such as the ability to control attention and inhibit aggressive responses, plays a critical role in children’s success in school and with their social and emotional competence (Blair and Diamond 2008; Ponitz et al. 2009). Additionally, optimism is a valuable psychological resource that serves as a protective factor for both mental and physical health (e.g., Brodhagen and Wise 2008), and an optimistic attitude towards life and the future has been reported to be an essential component of the resilience mechanism (Kumpfer 1999; Seligman 1990). Dispositional optimism in particular, defined as the generalized expectancy that positive outcomes are attainable, has been shown to correlate with positive coping (Scheier et al. 1986), to predict positive outcomes after adverse events (Carver and Scheier 2002) and peer acceptance in early adolescents (Oberle et al. 2009), and to benefit overall health and well-being (Scheier and Carver 1993).
+In the literature on positive psychology, another dimension that has been identified as beneficial to well-being and which has received increasing attention across numerous academic and clinical disciplines is mindfulness (Kabat-Zinn 2003; Singh et al. 2003; Siegel 2007; Zylowska et al. 2008). Although definitions of mindfulness abound and may vary across settings and disciplines, a common theme across all of the extant definitions is that mindfulness is a way of directing attention. That is, mindfulness is considered to be a state of consciousness that incorporates self-awareness and attention with a core characteristic of being open, receptive, and non-judgmental (e.g., Brown and Ryan 2003; Kabat-Zinn 1990; Segal et al. 2002). Attention and awareness are consistent features of mindfulness. A further conceptualization of mindfulness posited by Brown and Ryan (2003) concerns an enhanced awareness and attention of the present reality or current activity. For example, when an individual is in the shower, that person can be attuned to the moment–to–moment sensory experience of the warm water, while also peripherally aware of the differing scents of shampoos and soaps. In contrast, Brown and Ryan (2003) describe “mindlessness” as the relative absence of mindfulness. Consciousness that is constrained is some way (e.g., rumination on events in the past, anxieties about the future) pulls awareness away from the present experience. Mindfulness can also be compromised by dividing attention with multiple tasks (e.g., talking on the phone while watching television), preoccupation with concerns that limit focus on the present moment and/or by refusing to acknowledge a thought, emotion, motivation, or perceived object. Being mindful requires awareness and focus on current experience versus “automatic pilot,” which involves engaging in behavior that is out of awareness and attention, which is compulsive or automatic (Kabat-Zinn 1990; Segal et al. 2002).
+Despite the theoretical supposition that being mindful is beneficial to a person’s well-being, one question that arises is to whether or not there are empirical data supporting such a claim. Recent research conducted by Brown and Ryan (2003) provides just such evidence. In a series of correlational, quasi-experimental, and laboratory studies conducted with adults, they found that mindfulness, as assessed with their Mindfulness Attention Awareness Scale, was positively associated with several dimensions of well-being (e.g., optimism, positive affect, self-actualization) and negatively related to indices of psychological and emotional disturbance (e.g., negative affect, depression, anxiety, rumination). Additionally, they found that greater mindful attention awareness was not only associated with more self-awareness, mindfulness predicted self-regulation, and positive emotional states.
+On the one hand, the evidence supporting the benefits of mindfulness training interventions in adult populations is relatively strong (for a review, see Greeson 2009), with research showing multiple benefits, including improvements in attention and awareness (e.g., Jha et al. 2007), reductions in health problems and stress-related medical conditions (Grossman et al. 2004), and enhanced positive emotions and well-being (Davidson et al. 2003). Indeed, the past few years has seen a convergence of evidence supporting the effectiveness of programs that utilize mindfulness skill training in reducing stress and promoting health and well-being in adult populations. For instance, research examining programs such as Mindfulness-Based Stress Reduction and Mindfulness-Based Cognitive Therapy has yielded consistent support for the efficacy of these programs in treating a variety of physical and psychological problems (e.g., Baer 2003; Kabat-Zinn 1982; Kabat-Zinn et al. 1992, 1998; Teasdale et al. 2000).
+On the other hand, the research examining the effectiveness of mindfulness-based interventions with children and youth is limited. As noted by Semple et al. (2006), although “early indications are that mindfulness in children is acceptable and feasible,” research in this area “has barely begun” (p. 164). Moreover, the relatively meager research examining mindfulness with school-age children has not focused on the cultivation of positive emotions but rather this research has either focused exclusively on reductions in rumination and symptoms of anxiety and depression (Biegel et al. 2009; Broderick and Metz 2009; Napoli et al. 2005) or has been conducted with clinical or special populations of children and youth (Beauchemin et al. 2008; Semple et al. 2005; Singh et al. 2007; Thompson and Gauntlett-Gilbert 2008; Zylowska et al. 2008). What is not yet known is whether or not an intervention that incorporates mindfulness training leads to improvements in attention and concentration, positive emotions, and social and emotional competence along with concomitant decreases in dysregulated problem behaviors in a community sample of pre- and early adolescents.
+Mindfulness training has been identified as one way in which to foster self-regulatory control during adolescence (Roeser and Peck 2009). Mindfulness attention training can be viewed as a form of mental training leading to skill development in which the willful directing and redirecting of attention/awareness to particular kinds of events (e.g., breathing) is on purpose and with effort. As posited by Broderick and Metz (2009), “This practice offers the opportunity to develop hardiness in the face of uncomfortable feelings that otherwise might provoke a response that could be harmful (such as ‘acting out’ by taking drugs or displaying violent behavior, or ‘acting in’ by becoming more depressed)… Mindfulness training can complement and strengthen other approaches that promote emotion regulation, reduce stress, and develop attention” (p. 37).
+The need for the promotion of children’s social and emotional competence and well-being is particularly evident during the transition from childhood to adolescence (Hertzman and Power 2006). We argue herein that it is during the early adolescent years—particularly the ages between 9 and 12—in which a program that incorporates mindfulness practices may be particularly warranted (note that the ages of 9 and 10 have also been identified as the period of “preadolescence,” and that that ages of 11 and 12 have been identified as “early adolescence”). It is during this developmental period in which children’s personalities, behaviors, and competencies may consolidate into forms that persist into adolescence and on into adulthood (Eccles and Roeser 2009). What we know from the existing research on this age period is that the changes that occur are quite dramatic. It is between the ages of 9 and 12 years, in particular, in which fundamental changes occur across almost every sphere of life—intellectual and cognitive changes, physical changes due to puberty, and social and emotional changes (Eccles 1999). During this time, children both master academic skills such as reading, writing, and arithmetic and become more self aware, reflective, and planful. It is also during these years when individuals become less egocentric and are able to consider the feelings and perspectives of others—they develop a sense of right and wrong and have the capacity to act in accordance with their higher levels of social understanding. This developmental period has been identified as a transitional or a “turning point” where an opportunity is present to promote positive psychological growth (Graber and Brooks-Gunn 1996). Transitions should not only be thought as “risk promoting” or “vulnerability inducing” times in child development—transitions may also be thought as “windows of opportunity”—times in the life cycle in which positive development can be cultivated and fostered through opportunities provided to the individual in his or her environment that “promote” success, and serve as “protective” factors that move that person onward and upward to a pathway filled with competence and success. In the present study, therefore, we focused our research efforts on children ages 9 to 12 because we perceive that pre- and early adolescence is a developmental period with great opportunity to optimize health and promote development.
+Accordingly, the primary purpose of our research was to examine the effectiveness of the ME program on pre- and early adolescents’ functioning in four domains: optimism, self-concept, positive affect, and social–emotional functioning in school. We hypothesized that when compared to pre- and early adolescents in a control condition, ME program students would show positive changes from pretest to posttest in all four domains. Our dual focus on increasing social and emotional competence and reducing problem behaviors was warranted due to empirical evidence indicating that prognosis for children is poorest when they demonstrate a combination of low social and emotional competence alongside aggressive behavior (Conduct Problems Prevention Research Group 1999). We matched program classes with control classes where the average age, gender, and English as a Second Language (ESL) status of the class was equivalent.
+Given the importance of examining implementation fidelity in prevention (Domitrovich and Greenberg 2000; Duncan et al. 2009; Durlak and DuPre 2008), a second purpose of our study was to examine the fidelity and acceptability of the ME program when implemented in a “real world” setting delivered by regular elementary school teachers in regular classrooms. Central to our question was the degree to which the implementation of the ME intervention program’s objectives and procedures were put into everyday practice in the classroom. There were three dimensions of implementation on which we focused: (1) implementation fidelity (the extent to which the program corresponded to the originally intended program), (2) dosage (how many different program components had been conducted), and (3) participants’ responsiveness (the degree to which the program was perceived by the teachers as interesting and influential on student outcomes). Primary research questions for our study were: (a) Can mindfulness-based practices be effectively integrated into a regular elementary school classroom?, (b) Will teachers be receptive to concepts and practices of mindfulness and positive psychology practices and applications?, and (c) Will teachers perceive the curriculum to be beneficial for improving student behavior and well-being?
+
+Method
+Participants
+Participants were drawn from 4th to 7th grade regular public education classrooms in 12 elementary schools located in a large urban school district in a Western Canadian city. These 12 schools were representative of the district profile. The ME program was initially described to the teachers via a district-wide information session at which they were told about the program and the evaluation. Teachers were told at that time that their participation in the evaluation component of the program was voluntary. Students were recruited from classrooms in which the teachers expressed a willingness to participate.
+After the information session, 12 intermediate (i.e., 4th to 7th grade) teachers expressed their willingness to be involved in the training and participate in the research. Of the 12 teachers, six were selected to receive the ME program training and six teachers were selected to serve as wait-list controls and receive the ME program training in the subsequent school year (note that teachers were selected on a first come, first serve basis—a procedure that aligned with district policy regarding participation in teacher professional development). As noted in a later section, there were no differences between teachers in the ME program and wait-list controls with regard to gender, years of teaching experience, or their ratings of importance for promoting their students’ social and emotional competence. All of the control classrooms were in schools in which no ME program was being implemented in order to control for possible diffusion effects (Craven et al. 2001).
+A total of 246 4th–7th grade students participated in the present study: ME program group, n = 139 (70 boys, 69 girls); control group, n = 107 (57 boys, 50 girls). The mean age of participants was 11.43 years (SD = 1.07) with a range of 9.42 to 13.49 years. Table 1 summarizes the demographic characteristics of the sample by group. With regard to first language learned, 57% of the participants identified English as the first language they learned at home, 23% identified their first language as East Asian (e.g., Chinese, Korean), and the remaining 20% identified their language as other (e.g., Spanish, Russian, Polish). This range of language backgrounds in the sample is reflective of the cultural and ethnic diversity of the Canadian city in which this research took place. Classroom teachers reported that all of their students were competent in English to participate and complete the study measures. Analyses revealed no significant differences between ME program and controls on gender, first language learned, and family composition, with the exception of age. Specifically, analyses revealed that pre- and early adolescents in control classrooms (M = 11.65 years) were slightly older than those in ME program classrooms (M = 11.10 years), t(244) = −4.141, p < .05. We believe that this age advantage for the control group students versus the ME program students would provide a more conservative estimate of program effects.
+Table 1 Distribution of child characteristics by study condition
+Full size table
+Schools in which students were recruited were representative of a diverse range of socioeconomic status and were considered to be a microcosm of the larger society, containing families with service worker, skilled laborers, and professionals. Although we did not directly assess parental income level, the average income for the neighborhoods in which each of the 12 schools was located approximated the median income level for British Columbia, Canada ($52,800 CAD). Participation in the study was voluntary and both parental/guardian consent and student assent were required. After university and school board permission had been provided to conduct the research, parent/guardian permission forms along with a letter from the school principal describing the research were given to students. Prior to providing students with the parent/guardian permission slips, either a trained research assistant or the Principal Investigator of the research project provided a 15-min presentation to each participating class describing the study in age-appropriate language and answering questions. As an incentive for students to return their signed forms (indicating either a “yes” or “no”), they were informed that their class would receive a pizza party. Students were told that their participation was voluntary and that they would be included in the pizza party regardless of parent/guardian consent and participation. Afterwards, consent forms were handed to all of the students in the classroom. Parents/guardians were told that the purpose of the project was to evaluate the effectiveness of a classroom program directed to promoting students’ positive behaviors. The research project was perceived by school district personnel as important because it offered the opportunity to provide information to them on the effectiveness of a classroom-based social and emotional learning program in the district. This resulted in us receiving strong support from school district administrators, school principals, and participating classroom teachers, which in turn resulted in the achievement of a high participation rate. Specifically, of the students recruited for participation, approximately 82% received parental/guardian consent and gave assent themselves.
+Measures
+Demographic Information
+Students were asked to fill out a basic information form indicating their gender, birth date, grade, first language learned, and family composition.
+Optimism
+We assessed pre- and early adolescents’ dispositional optimism with the Optimism subscale from the Resiliency Inventory (RI; Song 2003). The RI was designed to assess six dimensions of resilience: Optimism, Self-efficacy, Relationships with Adults, Relationships with Peers, Interpersonal Sensitivity, and Emotional Control. For the purposes of our study, only the Optimism subscale was used. The nine-item Optimism subscale concerns a person’s positive perspective on the world and the future. An illustrative item is “More good things than bad things will happen to me.” Students were asked to rate each item on a five-point Likert-type scale ranging from 1 = not at all like me to 5 = always like me. Higher scores represent greater optimism. Cronbach’s alpha in this study was .74.
+School and general self-concept
+We employed two eight-item subscales from the Self-Description Questionnaire (Marsh 1988) to measure students’ school self-concept and general self-concept. A sample item from the School Self-concept subscale is “I am good at school subjects,” and a sample item from the General Self-concept subscale is “In general, I like being the way I am.” Responses were made on a five-point scale (1 = never to 5 = always). Evidence for the reliability and validity for this scale has been provided by Marsh (1988, 1990). Cronbach’s alpha coefficients for the current sample were .87 for School Self-concept and .83 for General Self-concept.
+Positive and negative emotions
+To measure students’ positive and negative emotions, we used the 24-item Positive and Negative Affect Schedule (PANAS; Watson et al. 1988). Twenty-four emotion words (12 positive; 12 negative) are rated according to how much the respondent has felt that emotion over the last week. Words are rated on a scale from 1 (Not much) to 4 (Most of the time). An average score was calculated for each of the subscales, yielding one score for Positive Affect and another score for Negative Affect. The PANAS is a reliable and valid instrument (Watson et al. 1988), and in this study, alpha coefficients were .75 and .85 for Positive and Negative affect scores, respectively.
+Teacher reports of social and emotional competence
+To assess school-related social and emotional competence, classroom teachers completed the Teachers' Rating Scale of Social Competence (TRSC; Kam and Greenberg 1998) for each of their participating students both at pretest and posttest. The TRSC is a 31-item scale consisting of four subscales that measure teacher reports of (1) Aggressive Behaviors (e.g., “Fights”), (2) Oppositional Behavior/Dysregulation (e.g., “Easily irritated when he/she has trouble with some task, such as reading math, etc.”), (3) Attention and Concentration (e.g., “Pays attention”), and (4) Social and Emotional Competence (e.g., “Shows empathy and compassion for other's feelings”). Following the procedures outlined by the developers of the TRSC, at pretest, teachers were asked to complete the TRSC for each of their participating students. The specific directions were as follows: “Compared to other (boys/girls) at this grade level, how often does/is [Child’s Name] (i.e. take other’s property)?” Teachers rated each item on a Likert-type six-point scale ranging from 0 = Almost never to 5 = Almost always. At posttest, teachers were asked to rate their participating students on each of the 31 items with respect to how much the child’s behavior had changed since the start of the program, using a seven-point Likert-type scale that ranged from 0 = Much worse to 6 = Much improved. At posttest, higher scores on all factors are indicative of more positive improvements in social and emotional competence and behavior. Alpha coefficients indicated high internal consistency for each subscale: Aggressive Behaviors (α = .80), Oppositional Behavior/Dysregulation (α = .90), Attention and Concentration (α = .95), and Social and Emotional Competence (α = .88).
+Procedure
+Arrangements were made with classroom teachers for university research assistants to administer the questionnaires to students who had obtained parent/guardian consent prior to the commencement of the ME program implementation, and again at the end of the school year once the program had been completed. Students without parent/guardian consent were given independent assignments given to them by their classroom teacher. On the day of questionnaire administration, students were given a student assent form, whereby they were told that their participation was voluntary, and that there would be no consequences if they chose not to participate. Student questionnaires were administered in two sessions (pretest and posttest) of approximately 45 min in length. To guard against biases due to variability in reading proficiencies, a research assistant read each item on the questionnaire aloud, and students marked their responses accordingly. Questionnaires were administered in the same order in all classrooms, with relatively structured, non-threatening measures administered at the beginning and end of each session. Students were encouraged to answer honestly and to ask any questions if they did not understand any of the questions or items on the measures. Students were also informed that their responses would be kept confidential and that only the researchers, not their teachers, parents, principals, or friend, would see their completed questionnaires. Teachers completed the student behavior checklists at pretest and posttest. Throughout the program, ME program teachers completed a daily “Mindful Practices” log whereby they recorded whether or not they had completed specific components of the program, as well as the degree to which each of the 10 program lessons was completed. As well, at posttest, teachers completed a questionnaire asking them to provide feedback on the program.
+The Intervention
+Program summary
+An empirical understanding of the mechanisms and processes that promote well-being and mindful awareness, as well as the theoretical models that guide related social and emotional learning programs, provided a framework for the development of the ME program. More specifically, the ME program is a classroom-based universal preventive intervention designed to foster children's positive emotions, self-regulation, and goal setting. Key components include (1) universal involvement of all children in the classroom, (2) a 10-lesson manualized curriculum with clear lessons that are grounded in theory and research, and (3) an emphasis on taking lesson content and extending the key components (e.g., positive thinking) to other aspects of the curriculum and to other dimensions of children’s lives outside of school.
+The development of curriculum content and activities were guided by the research and theory in the area of mindfulness and its relation to well-being (e.g., Brown and Ryan 2003) and positive psychology (e.g., Clonan et al. 2004; Lyubomirsky et al. 2005a, b). In the ME program, “mindfulness” refers to bringing one’s complete attention to the present experience on a moment-to-moment basis with a non-judgmental stance.
+The four key components of the ME program include:
+1.
+Quieting the mind—listening to a resonating instrument (chime) and focusing on the breath
+2.
+Mindful attention—mindful of sensation, thoughts, and feelings
+3.
+Managing negative emotions and negative thinking
+4.
+Acknowledgment of self and others.
+Mindful practices, consisting of sitting in a comfortable position, attentive listening to a single sound (i.e., a resonating sound instrument, such as a bell or chime), and then using the breath as a focal point for being mindful in the present moment are seen as central to the program with the intention of enhancing children’s self-awareness, focused attention, self-regulation, and stress reduction. In the ME curriculum, these mindful attention training exercises are to be practiced three times per day (3 min for each practice, which are then extended to longer periods for the students) throughout the duration of the program. Additionally, affirmations and visualizations are practiced in conjunction with the mindful practices with the aim to foster optimism and positive affect. The book “Mind Power for Children—The Guide for Parents and Teachers” (Kehoe and Fischer 2002) provided some of the ideas for ME program lessons.
+The topics of the lessons covered over 10 weeks include the following: week 1, Introduction to mindfulness; week 2, Learning about affirmations; week 3, Concentrating on positive emotions and outcomes; week 4, Learning how to eliminate negative thinking; week 5, Acknowledging one another; week 6, Team work—understanding goal setting as a group; week 7, Having a healthy body; week 8, Making friends—interpersonal relationships; week 9, No problems… only opportunities; and week 10, Celebrating successes.
+Program implementation
+ME program teachers underwent an intensive 1-day training session and received bi-weekly consultation from one of the authors of the ME program curriculum (Nancy Fischer). During this training, teachers were provided with a curriculum manual that specifically delineated the theory and research guiding each ME program lesson, along with descriptions of each of the 10 lessons that included detailed scripts and accompanying materials for teaching skills on mindfulness, self-regulation, goal setting, and learned optimism. The 1-day teacher training session included interactive discussions on the implementation of each program lesson, presentation of material through lecture, video, readings, and role plays of curriculum instructional techniques. The session also included experiential learning in which teachers participated in a series of mindfulness attention training exercises. In addition to the specific program lessons, teachers were given information on utilizing technique to generalize skills learned during ME program lessons to other curricular areas and other contexts. The ME program lessons were taught approximately once a week, with each lesson lasting approximately 40–50 min. The daily core mindfulness attention exercises were done three times a day for up to at least 3 min each session. Teachers began to teach the lessons in March and finished in early June. Teachers were encouraged to extend each of the lessons to their regular school curriculum. In order the complete the program by the end of the school year and accommodate posttest data collection, teachers were asked to compete the first nine lessons of the ME curriculum; lesson 10—Celebrating Successes—was optional.
+Measures of implementation
+To assess implementation fidelity and dosage, ME program teachers were given a daily “ME Program” diary in which they were asked to track and record their daily implementation of the core ME exercises (i.e., mindfulness exercises described above). As well, teachers were asked to report the extent to which they implemented the ME program lessons each week along with the number of ways they integrated the ME program concepts into their regular classroom curriculum and/or classroom practices.
+To assess teachers’ perceptions of the ME program’s effectiveness, at the end of the school year ME program teachers were asked to respond on a five-point Likert-type scale (1 = No, not positive to 5 = Yes, very positive) the degree to which they thought the ME program had a positive effect on their students. Finally, ME program teachers were asked to respond to what degree (1 = Not at all, to 5 = Significantly) they believed the ME program would influence the development of social and emotional skills in their students. Teachers were also asked to provide us with their overall assessment of the program via an open-ended question at the end of their survey.
+
+Method
+
+Participants
+Participants were drawn from 4th to 7th grade regular public education classrooms in 12 elementary schools located in a large urban school district in a Western Canadian city. These 12 schools were representative of the district profile. The ME program was initially described to the teachers via a district-wide information session at which they were told about the program and the evaluation. Teachers were told at that time that their participation in the evaluation component of the program was voluntary. Students were recruited from classrooms in which the teachers expressed a willingness to participate.
+After the information session, 12 intermediate (i.e., 4th to 7th grade) teachers expressed their willingness to be involved in the training and participate in the research. Of the 12 teachers, six were selected to receive the ME program training and six teachers were selected to serve as wait-list controls and receive the ME program training in the subsequent school year (note that teachers were selected on a first come, first serve basis—a procedure that aligned with district policy regarding participation in teacher professional development). As noted in a later section, there were no differences between teachers in the ME program and wait-list controls with regard to gender, years of teaching experience, or their ratings of importance for promoting their students’ social and emotional competence. All of the control classrooms were in schools in which no ME program was being implemented in order to control for possible diffusion effects (Craven et al. 2001).
+A total of 246 4th–7th grade students participated in the present study: ME program group, n = 139 (70 boys, 69 girls); control group, n = 107 (57 boys, 50 girls). The mean age of participants was 11.43 years (SD = 1.07) with a range of 9.42 to 13.49 years. Table 1 summarizes the demographic characteristics of the sample by group. With regard to first language learned, 57% of the participants identified English as the first language they learned at home, 23% identified their first language as East Asian (e.g., Chinese, Korean), and the remaining 20% identified their language as other (e.g., Spanish, Russian, Polish). This range of language backgrounds in the sample is reflective of the cultural and ethnic diversity of the Canadian city in which this research took place. Classroom teachers reported that all of their students were competent in English to participate and complete the study measures. Analyses revealed no significant differences between ME program and controls on gender, first language learned, and family composition, with the exception of age. Specifically, analyses revealed that pre- and early adolescents in control classrooms (M = 11.65 years) were slightly older than those in ME program classrooms (M = 11.10 years), t(244) = −4.141, p < .05. We believe that this age advantage for the control group students versus the ME program students would provide a more conservative estimate of program effects.
+Table 1 Distribution of child characteristics by study condition
+Full size table
+Schools in which students were recruited were representative of a diverse range of socioeconomic status and were considered to be a microcosm of the larger society, containing families with service worker, skilled laborers, and professionals. Although we did not directly assess parental income level, the average income for the neighborhoods in which each of the 12 schools was located approximated the median income level for British Columbia, Canada ($52,800 CAD). Participation in the study was voluntary and both parental/guardian consent and student assent were required. After university and school board permission had been provided to conduct the research, parent/guardian permission forms along with a letter from the school principal describing the research were given to students. Prior to providing students with the parent/guardian permission slips, either a trained research assistant or the Principal Investigator of the research project provided a 15-min presentation to each participating class describing the study in age-appropriate language and answering questions. As an incentive for students to return their signed forms (indicating either a “yes” or “no”), they were informed that their class would receive a pizza party. Students were told that their participation was voluntary and that they would be included in the pizza party regardless of parent/guardian consent and participation. Afterwards, consent forms were handed to all of the students in the classroom. Parents/guardians were told that the purpose of the project was to evaluate the effectiveness of a classroom program directed to promoting students’ positive behaviors. The research project was perceived by school district personnel as important because it offered the opportunity to provide information to them on the effectiveness of a classroom-based social and emotional learning program in the district. This resulted in us receiving strong support from school district administrators, school principals, and participating classroom teachers, which in turn resulted in the achievement of a high participation rate. Specifically, of the students recruited for participation, approximately 82% received parental/guardian consent and gave assent themselves.
+Measures
+Demographic Information
+Students were asked to fill out a basic information form indicating their gender, birth date, grade, first language learned, and family composition.
+Optimism
+We assessed pre- and early adolescents’ dispositional optimism with the Optimism subscale from the Resiliency Inventory (RI; Song 2003). The RI was designed to assess six dimensions of resilience: Optimism, Self-efficacy, Relationships with Adults, Relationships with Peers, Interpersonal Sensitivity, and Emotional Control. For the purposes of our study, only the Optimism subscale was used. The nine-item Optimism subscale concerns a person’s positive perspective on the world and the future. An illustrative item is “More good things than bad things will happen to me.” Students were asked to rate each item on a five-point Likert-type scale ranging from 1 = not at all like me to 5 = always like me. Higher scores represent greater optimism. Cronbach’s alpha in this study was .74.
+School and general self-concept
+We employed two eight-item subscales from the Self-Description Questionnaire (Marsh 1988) to measure students’ school self-concept and general self-concept. A sample item from the School Self-concept subscale is “I am good at school subjects,” and a sample item from the General Self-concept subscale is “In general, I like being the way I am.” Responses were made on a five-point scale (1 = never to 5 = always). Evidence for the reliability and validity for this scale has been provided by Marsh (1988, 1990). Cronbach’s alpha coefficients for the current sample were .87 for School Self-concept and .83 for General Self-concept.
+Positive and negative emotions
+To measure students’ positive and negative emotions, we used the 24-item Positive and Negative Affect Schedule (PANAS; Watson et al. 1988). Twenty-four emotion words (12 positive; 12 negative) are rated according to how much the respondent has felt that emotion over the last week. Words are rated on a scale from 1 (Not much) to 4 (Most of the time). An average score was calculated for each of the subscales, yielding one score for Positive Affect and another score for Negative Affect. The PANAS is a reliable and valid instrument (Watson et al. 1988), and in this study, alpha coefficients were .75 and .85 for Positive and Negative affect scores, respectively.
+Teacher reports of social and emotional competence
+To assess school-related social and emotional competence, classroom teachers completed the Teachers' Rating Scale of Social Competence (TRSC; Kam and Greenberg 1998) for each of their participating students both at pretest and posttest. The TRSC is a 31-item scale consisting of four subscales that measure teacher reports of (1) Aggressive Behaviors (e.g., “Fights”), (2) Oppositional Behavior/Dysregulation (e.g., “Easily irritated when he/she has trouble with some task, such as reading math, etc.”), (3) Attention and Concentration (e.g., “Pays attention”), and (4) Social and Emotional Competence (e.g., “Shows empathy and compassion for other's feelings”). Following the procedures outlined by the developers of the TRSC, at pretest, teachers were asked to complete the TRSC for each of their participating students. The specific directions were as follows: “Compared to other (boys/girls) at this grade level, how often does/is [Child’s Name] (i.e. take other’s property)?” Teachers rated each item on a Likert-type six-point scale ranging from 0 = Almost never to 5 = Almost always. At posttest, teachers were asked to rate their participating students on each of the 31 items with respect to how much the child’s behavior had changed since the start of the program, using a seven-point Likert-type scale that ranged from 0 = Much worse to 6 = Much improved. At posttest, higher scores on all factors are indicative of more positive improvements in social and emotional competence and behavior. Alpha coefficients indicated high internal consistency for each subscale: Aggressive Behaviors (α = .80), Oppositional Behavior/Dysregulation (α = .90), Attention and Concentration (α = .95), and Social and Emotional Competence (α = .88).
+Procedure
+Arrangements were made with classroom teachers for university research assistants to administer the questionnaires to students who had obtained parent/guardian consent prior to the commencement of the ME program implementation, and again at the end of the school year once the program had been completed. Students without parent/guardian consent were given independent assignments given to them by their classroom teacher. On the day of questionnaire administration, students were given a student assent form, whereby they were told that their participation was voluntary, and that there would be no consequences if they chose not to participate. Student questionnaires were administered in two sessions (pretest and posttest) of approximately 45 min in length. To guard against biases due to variability in reading proficiencies, a research assistant read each item on the questionnaire aloud, and students marked their responses accordingly. Questionnaires were administered in the same order in all classrooms, with relatively structured, non-threatening measures administered at the beginning and end of each session. Students were encouraged to answer honestly and to ask any questions if they did not understand any of the questions or items on the measures. Students were also informed that their responses would be kept confidential and that only the researchers, not their teachers, parents, principals, or friend, would see their completed questionnaires. Teachers completed the student behavior checklists at pretest and posttest. Throughout the program, ME program teachers completed a daily “Mindful Practices” log whereby they recorded whether or not they had completed specific components of the program, as well as the degree to which each of the 10 program lessons was completed. As well, at posttest, teachers completed a questionnaire asking them to provide feedback on the program.
+The Intervention
+Program summary
+An empirical understanding of the mechanisms and processes that promote well-being and mindful awareness, as well as the theoretical models that guide related social and emotional learning programs, provided a framework for the development of the ME program. More specifically, the ME program is a classroom-based universal preventive intervention designed to foster children's positive emotions, self-regulation, and goal setting. Key components include (1) universal involvement of all children in the classroom, (2) a 10-lesson manualized curriculum with clear lessons that are grounded in theory and research, and (3) an emphasis on taking lesson content and extending the key components (e.g., positive thinking) to other aspects of the curriculum and to other dimensions of children’s lives outside of school.
+The development of curriculum content and activities were guided by the research and theory in the area of mindfulness and its relation to well-being (e.g., Brown and Ryan 2003) and positive psychology (e.g., Clonan et al. 2004; Lyubomirsky et al. 2005a, b). In the ME program, “mindfulness” refers to bringing one’s complete attention to the present experience on a moment-to-moment basis with a non-judgmental stance.
+The four key components of the ME program include:
+1.
+Quieting the mind—listening to a resonating instrument (chime) and focusing on the breath
+2.
+Mindful attention—mindful of sensation, thoughts, and feelings
+3.
+Managing negative emotions and negative thinking
+4.
+Acknowledgment of self and others.
+Mindful practices, consisting of sitting in a comfortable position, attentive listening to a single sound (i.e., a resonating sound instrument, such as a bell or chime), and then using the breath as a focal point for being mindful in the present moment are seen as central to the program with the intention of enhancing children’s self-awareness, focused attention, self-regulation, and stress reduction. In the ME curriculum, these mindful attention training exercises are to be practiced three times per day (3 min for each practice, which are then extended to longer periods for the students) throughout the duration of the program. Additionally, affirmations and visualizations are practiced in conjunction with the mindful practices with the aim to foster optimism and positive affect. The book “Mind Power for Children—The Guide for Parents and Teachers” (Kehoe and Fischer 2002) provided some of the ideas for ME program lessons.
+The topics of the lessons covered over 10 weeks include the following: week 1, Introduction to mindfulness; week 2, Learning about affirmations; week 3, Concentrating on positive emotions and outcomes; week 4, Learning how to eliminate negative thinking; week 5, Acknowledging one another; week 6, Team work—understanding goal setting as a group; week 7, Having a healthy body; week 8, Making friends—interpersonal relationships; week 9, No problems… only opportunities; and week 10, Celebrating successes.
+Program implementation
+ME program teachers underwent an intensive 1-day training session and received bi-weekly consultation from one of the authors of the ME program curriculum (Nancy Fischer). During this training, teachers were provided with a curriculum manual that specifically delineated the theory and research guiding each ME program lesson, along with descriptions of each of the 10 lessons that included detailed scripts and accompanying materials for teaching skills on mindfulness, self-regulation, goal setting, and learned optimism. The 1-day teacher training session included interactive discussions on the implementation of each program lesson, presentation of material through lecture, video, readings, and role plays of curriculum instructional techniques. The session also included experiential learning in which teachers participated in a series of mindfulness attention training exercises. In addition to the specific program lessons, teachers were given information on utilizing technique to generalize skills learned during ME program lessons to other curricular areas and other contexts. The ME program lessons were taught approximately once a week, with each lesson lasting approximately 40–50 min. The daily core mindfulness attention exercises were done three times a day for up to at least 3 min each session. Teachers began to teach the lessons in March and finished in early June. Teachers were encouraged to extend each of the lessons to their regular school curriculum. In order the complete the program by the end of the school year and accommodate posttest data collection, teachers were asked to compete the first nine lessons of the ME curriculum; lesson 10—Celebrating Successes—was optional.
+Measures of implementation
+To assess implementation fidelity and dosage, ME program teachers were given a daily “ME Program” diary in which they were asked to track and record their daily implementation of the core ME exercises (i.e., mindfulness exercises described above). As well, teachers were asked to report the extent to which they implemented the ME program lessons each week along with the number of ways they integrated the ME program concepts into their regular classroom curriculum and/or classroom practices.
+To assess teachers’ perceptions of the ME program’s effectiveness, at the end of the school year ME program teachers were asked to respond on a five-point Likert-type scale (1 = No, not positive to 5 = Yes, very positive) the degree to which they thought the ME program had a positive effect on their students. Finally, ME program teachers were asked to respond to what degree (1 = Not at all, to 5 = Significantly) they believed the ME program would influence the development of social and emotional skills in their students. Teachers were also asked to provide us with their overall assessment of the program via an open-ended question at the end of their survey.
+
+Results
+Results are presented in four sections. In the first section, we delineate our data analytic plan. In the second section, we report our preliminary analyses and delineate our results regarding statistical analyses examining baseline differences between ME program students and controls with regard to our outcome measures. Also in the second section is a description of similarities and differences between our ME program and control teachers. In the third section, we report our findings regarding implementation fidelity and program satisfaction. In our final section, we report results from our analyses examining intervention effects.
+Data Analytic Plan
+A quasi-experimental control group pretest–posttest design was used. Effects of the ME program were examined via a generalized linear model analysis of covariance in which difference or “change” scores served as the dependent variable. Statistically comparable to performing a repeated measures analysis, change scores provide an unbiased estimate of true change regardless of baseline value (Zumbo 1999). Change scores can be used as the dependent variable in an ANOVA, and are seen as an alternative to ANCOVA when the researcher is interested in examining the direction of change from pretest to posttest, as in the present study (Tabachnick and Fidell 2001). We calculated a change score by subtracting the pretest score from the posttest score. In all of these analyses, students’ gender, age, and first language learned (1 = English; 0 = language other than English) were controlled in light of research demonstrating that these may be potential confounds. Because we utilized multiple covariates in our analyses, in accordance with the recommendations of Tabachnick and Fidell (2001), we examined for multicollinearity among our covariates via factor analysis. Analyses revealed that none of the covariates had a squared multiple correlation exceeding .50, and therefore were not considered redundant.
+In order to provide information about the magnitude of program effects beyond statistical significance, we calculated partial eta-squared (η
+2
+p
+) effect sizes. According to Pierce et al. (2004), “partial eta-squared for an experimental factor is defined as the proportion of total variation attributable to the factor, partialling out (excluding) other factors from the total nonerror variation” (p. 918). According to the criteria proposed by Cohen (1988), effect sizes ranging from .059 to .137 are considered moderate, and those greater than .137 are considered large.
+Preliminary Analyses
+Baseline differences between the ME program students and controls
+A series of ANOVAs were performed to check for mean pretest differences between ME program and control pre- and early adolescents on all measures. No differences were found for any of the outcome measures, F values (1, 144) < 1.0, p values > .9.
+Differences between the ME program and wait-list control teachers
+To address the confounding factor of teachers across the two groups, differences in teacher characteristics were explored. In total, 10 females and two males participated—and the gender distribution in each group was comparable (five females, one male in each of the groups). All teachers were Caucasian and had more than 5 years of teaching experience. Taken together, it appears that there were no systematic differences in teacher characteristics to occur across the two groups.
+Implementation Fidelity and Treatment Acceptability
+To inform the interpretation of the data, mean and range scores were computed for all measures of implementation. Together, ME program teachers reported implementing the components of lessons 75% of the time, indicating a moderate to high level of average implementation across the nine lessons. With regard to the implementation of the ME program core exercises—the mindful breathing—teachers reported a high level of implementation across the 9 weeks of the ME program (see Table 2). As can be seen, the range of implementation of core ME program exercises was 73% to 100%, with an average of 87% across the 9 weeks. Additionally, all ME program teachers (100%) reported that they implemented extension activities within their respective classrooms, denoting evidence the ME program was easily embedded into required curricula across subjects.
+Table 2 Average proportion of ME program core mindful exercises completed by week, summarized across classrooms
+Full size table
+Results from analyses examining teachers’ perceptions of the ME program indicated that teachers perceived the program to be both effective and beneficial to their students. Specifically, with respect to the degree to which the teachers believed that the ME program had a positive effect on their students, at the end of program implementation teachers reported an average rating of 4.13 (range 4.00–4.50), using a scale that ranged from 1 = No, not positive to 5 = Yes, very positive. One teacher commented “I noticed considerable growth in my students’ awareness of their place in the world around them and their ability to articulate their feelings and thinking in class discussions.” Another teacher remarked on the difficulty with implementing the program in her classroom, “I could have used more time to review and implement the program. The activities took longer than I anticipated to implement effectively and it was hard to fit everything in when I had so much other work to cover. I am confident the program will be more effective as I revisit it in the Fall, having had time to reflect and plan over the summer.”
+Teachers were also asked to report the degree to which they believed the ME program would influence their students’ social and emotional skills in their classrooms. Utilizing a rating scale from 1 = Not at all to 5 = Significantly, the Mean rating for teachers was 4.60 (range 4.00–5.00). Some of the teachers’ comments included: “Helped the class become more cohesive and I feel the students became more aware of their inner potential,” “Most [students] practiced outside of the classroom on things that were important to them: family relationships, sports, school work,” “My students met with a lot of success and I think they will continue on their own,” and “This self-awareness ultimately builds lasting understanding and empowerment.” Taken together, the implementation results suggest teachers implemented the program with relatively high fidelity and favorably perceived the program’s usefulness for their students.
+Intervention Effects
+Optimism, positive and negative affect, and self-concept
+To examine the effects of the ME program on the students’ optimism, positive and negative affect, and self-concept, we conducted a series of 2 (Group = ME program vs. Control) × 2 (Age Group = preadolescents vs. early adolescents) analyses of covariance, with first language learned (coded as English vs. non-English), age, and gender as covariates, and change scores as the dependent variable. For the purpose of these analyses and following the work of other researchers in the field of adolescence, students in grades 4 and 5 were categorized as “preadolescents” and students in grades 6 and 7 were categorized as “early adolescents.”
+As documented in Table 3, there was a main effect for Group for the variable optimism. Specifically, students who were exposed to the ME program showed significant increases in optimism from pretest to posttest compared to control students, who decreased in optimism from pretest to posttest. With respect to the analyses for positive affect, a positive statistical trend emerged with students in the ME program, in contrast to those in the control condition, showing increases in their reports of positive affect from pretest to posttest. There was no difference in change on Negative affect between the ME program and controls. None of the two-way interactions for optimism, positive affect, and negative affect was significant.
+Table 3 Difference scores by group for optimism, and positive and negative affect (controlling for ESL status, gender, and age)
+Full size table
+Intervention effects for general and school self-concept were examined next. None of the main effects for Group emerged as significant for either general or school self-concept. However, the analysis produced a significant two-way interaction effect for Group × Age Group for general self-concept, F(1, 240) = 3.23, p < .05, η
+2
+p
+= .014. Further analyses indicated that preadolescents exposed to the ME program evidenced significant improvements in general self-concept (M = .010, SD = .27) in contrast to preadolescents in the control condition, who demonstrated significant decreases in self-concept (M = −.019, SD = .24). A different picture emerged for the early adolescents in the study. Specifically, whereas early adolescents who received the ME program decreased in general self-concept from pretest to posttest (M = −.053, SD = .29), early adolescents in the control condition increased in self-concept from pretest to posttest (M = .043, SD = .23). None of the other main effects or interactions was significant.
+Teacher-rated social and emotional competence
+Due to the end-of-year demands of the teachers participating in our study, one ME program teacher and one control teacher were unable to complete their posttest ratings of their students’ behaviors. Analyses indicated no significant differences between the pre- and early adolescents who received pretest ratings only and those who received both pre- and posttest ratings. In accordance with both theory and ME program goals, we hypothesized that pre- and early adolescents in the ME program condition, relative to pre- and early adolescents in the control condition, would demonstrate significant improvements in positive school behaviors and significant decreases in aggressive/maladaptive behaviors. To test this hypothesis, we conducted a 2 (Group = ME Program vs. Control) × 2 (Age group = preadolescents vs. early adolescents) multiple analyses of covariance, with posttest ratings from the four subscales from the TRSC as dependent variables. Only posttest ratings were used for these analyses, rather than amount of change from pretest to posttest, due to the fact that teachers’ ratings at posttest reflected the relative amount of positive improvement the student had made since the pretest rating. Results of this analysis yielded a significant intervention effect, Wilks’ Lambda, F(4, 190) = 17.49, p < .001, η
+2
+p
+= .273. As predicted, the means indicated that at posttest teachers in the intervention classrooms described their students as significantly more attentive, emotionally regulated, and socially and emotionally competent than did teachers in the control classrooms. The significant difference between the ME program and control group was consistent across all four subscales of the TRSC. Specifically, students exposed to the ME program, in contrast to controls, were rated by their teachers as significantly improved in Attention and Concentration and Social Emotional Competence. Significant improvements (decreases) in Aggression and Oppositional/Dysregulated Behavior also emerged among students who received the ME program intervention in contrast to controls. With respect to the magnitude of the effect sizes, according to the criteria of Cohen (1988), the overall effect size of .273 would be considered a “large” effect. Additionally, as reported in Table 4, the effect sizes for the univariate analyses regarding changes in behavioral dysregulation, attention and concentration, and aggression fell into the moderate range, whereas the effect size for improvements in social and emotional competence was large.
+Table 4 Means and standard deviations for teacher-reported improvements in classroom behavior by group at posttest
+Full size table
+
+Results
+
+Results are presented in four sections. In the first section, we delineate our data analytic plan. In the second section, we report our preliminary analyses and delineate our results regarding statistical analyses examining baseline differences between ME program students and controls with regard to our outcome measures. Also in the second section is a description of similarities and differences between our ME program and control teachers. In the third section, we report our findings regarding implementation fidelity and program satisfaction. In our final section, we report results from our analyses examining intervention effects.
+Data Analytic Plan
+A quasi-experimental control group pretest–posttest design was used. Effects of the ME program were examined via a generalized linear model analysis of covariance in which difference or “change” scores served as the dependent variable. Statistically comparable to performing a repeated measures analysis, change scores provide an unbiased estimate of true change regardless of baseline value (Zumbo 1999). Change scores can be used as the dependent variable in an ANOVA, and are seen as an alternative to ANCOVA when the researcher is interested in examining the direction of change from pretest to posttest, as in the present study (Tabachnick and Fidell 2001). We calculated a change score by subtracting the pretest score from the posttest score. In all of these analyses, students’ gender, age, and first language learned (1 = English; 0 = language other than English) were controlled in light of research demonstrating that these may be potential confounds. Because we utilized multiple covariates in our analyses, in accordance with the recommendations of Tabachnick and Fidell (2001), we examined for multicollinearity among our covariates via factor analysis. Analyses revealed that none of the covariates had a squared multiple correlation exceeding .50, and therefore were not considered redundant.
+In order to provide information about the magnitude of program effects beyond statistical significance, we calculated partial eta-squared (η
+2
+p
+) effect sizes. According to Pierce et al. (2004), “partial eta-squared for an experimental factor is defined as the proportion of total variation attributable to the factor, partialling out (excluding) other factors from the total nonerror variation” (p. 918). According to the criteria proposed by Cohen (1988), effect sizes ranging from .059 to .137 are considered moderate, and those greater than .137 are considered large.
+Preliminary Analyses
+Baseline differences between the ME program students and controls
+A series of ANOVAs were performed to check for mean pretest differences between ME program and control pre- and early adolescents on all measures. No differences were found for any of the outcome measures, F values (1, 144) < 1.0, p values > .9.
+Differences between the ME program and wait-list control teachers
+To address the confounding factor of teachers across the two groups, differences in teacher characteristics were explored. In total, 10 females and two males participated—and the gender distribution in each group was comparable (five females, one male in each of the groups). All teachers were Caucasian and had more than 5 years of teaching experience. Taken together, it appears that there were no systematic differences in teacher characteristics to occur across the two groups.
+Implementation Fidelity and Treatment Acceptability
+To inform the interpretation of the data, mean and range scores were computed for all measures of implementation. Together, ME program teachers reported implementing the components of lessons 75% of the time, indicating a moderate to high level of average implementation across the nine lessons. With regard to the implementation of the ME program core exercises—the mindful breathing—teachers reported a high level of implementation across the 9 weeks of the ME program (see Table 2). As can be seen, the range of implementation of core ME program exercises was 73% to 100%, with an average of 87% across the 9 weeks. Additionally, all ME program teachers (100%) reported that they implemented extension activities within their respective classrooms, denoting evidence the ME program was easily embedded into required curricula across subjects.
+Table 2 Average proportion of ME program core mindful exercises completed by week, summarized across classrooms
+Full size table
+Results from analyses examining teachers’ perceptions of the ME program indicated that teachers perceived the program to be both effective and beneficial to their students. Specifically, with respect to the degree to which the teachers believed that the ME program had a positive effect on their students, at the end of program implementation teachers reported an average rating of 4.13 (range 4.00–4.50), using a scale that ranged from 1 = No, not positive to 5 = Yes, very positive. One teacher commented “I noticed considerable growth in my students’ awareness of their place in the world around them and their ability to articulate their feelings and thinking in class discussions.” Another teacher remarked on the difficulty with implementing the program in her classroom, “I could have used more time to review and implement the program. The activities took longer than I anticipated to implement effectively and it was hard to fit everything in when I had so much other work to cover. I am confident the program will be more effective as I revisit it in the Fall, having had time to reflect and plan over the summer.”
+Teachers were also asked to report the degree to which they believed the ME program would influence their students’ social and emotional skills in their classrooms. Utilizing a rating scale from 1 = Not at all to 5 = Significantly, the Mean rating for teachers was 4.60 (range 4.00–5.00). Some of the teachers’ comments included: “Helped the class become more cohesive and I feel the students became more aware of their inner potential,” “Most [students] practiced outside of the classroom on things that were important to them: family relationships, sports, school work,” “My students met with a lot of success and I think they will continue on their own,” and “This self-awareness ultimately builds lasting understanding and empowerment.” Taken together, the implementation results suggest teachers implemented the program with relatively high fidelity and favorably perceived the program’s usefulness for their students.
+Intervention Effects
+Optimism, positive and negative affect, and self-concept
+To examine the effects of the ME program on the students’ optimism, positive and negative affect, and self-concept, we conducted a series of 2 (Group = ME program vs. Control) × 2 (Age Group = preadolescents vs. early adolescents) analyses of covariance, with first language learned (coded as English vs. non-English), age, and gender as covariates, and change scores as the dependent variable. For the purpose of these analyses and following the work of other researchers in the field of adolescence, students in grades 4 and 5 were categorized as “preadolescents” and students in grades 6 and 7 were categorized as “early adolescents.”
+As documented in Table 3, there was a main effect for Group for the variable optimism. Specifically, students who were exposed to the ME program showed significant increases in optimism from pretest to posttest compared to control students, who decreased in optimism from pretest to posttest. With respect to the analyses for positive affect, a positive statistical trend emerged with students in the ME program, in contrast to those in the control condition, showing increases in their reports of positive affect from pretest to posttest. There was no difference in change on Negative affect between the ME program and controls. None of the two-way interactions for optimism, positive affect, and negative affect was significant.
+Table 3 Difference scores by group for optimism, and positive and negative affect (controlling for ESL status, gender, and age)
+Full size table
+Intervention effects for general and school self-concept were examined next. None of the main effects for Group emerged as significant for either general or school self-concept. However, the analysis produced a significant two-way interaction effect for Group × Age Group for general self-concept, F(1, 240) = 3.23, p < .05, η
+2
+p
+= .014. Further analyses indicated that preadolescents exposed to the ME program evidenced significant improvements in general self-concept (M = .010, SD = .27) in contrast to preadolescents in the control condition, who demonstrated significant decreases in self-concept (M = −.019, SD = .24). A different picture emerged for the early adolescents in the study. Specifically, whereas early adolescents who received the ME program decreased in general self-concept from pretest to posttest (M = −.053, SD = .29), early adolescents in the control condition increased in self-concept from pretest to posttest (M = .043, SD = .23). None of the other main effects or interactions was significant.
+Teacher-rated social and emotional competence
+Due to the end-of-year demands of the teachers participating in our study, one ME program teacher and one control teacher were unable to complete their posttest ratings of their students’ behaviors. Analyses indicated no significant differences between the pre- and early adolescents who received pretest ratings only and those who received both pre- and posttest ratings. In accordance with both theory and ME program goals, we hypothesized that pre- and early adolescents in the ME program condition, relative to pre- and early adolescents in the control condition, would demonstrate significant improvements in positive school behaviors and significant decreases in aggressive/maladaptive behaviors. To test this hypothesis, we conducted a 2 (Group = ME Program vs. Control) × 2 (Age group = preadolescents vs. early adolescents) multiple analyses of covariance, with posttest ratings from the four subscales from the TRSC as dependent variables. Only posttest ratings were used for these analyses, rather than amount of change from pretest to posttest, due to the fact that teachers’ ratings at posttest reflected the relative amount of positive improvement the student had made since the pretest rating. Results of this analysis yielded a significant intervention effect, Wilks’ Lambda, F(4, 190) = 17.49, p < .001, η
+2
+p
+= .273. As predicted, the means indicated that at posttest teachers in the intervention classrooms described their students as significantly more attentive, emotionally regulated, and socially and emotionally competent than did teachers in the control classrooms. The significant difference between the ME program and control group was consistent across all four subscales of the TRSC. Specifically, students exposed to the ME program, in contrast to controls, were rated by their teachers as significantly improved in Attention and Concentration and Social Emotional Competence. Significant improvements (decreases) in Aggression and Oppositional/Dysregulated Behavior also emerged among students who received the ME program intervention in contrast to controls. With respect to the magnitude of the effect sizes, according to the criteria of Cohen (1988), the overall effect size of .273 would be considered a “large” effect. Additionally, as reported in Table 4, the effect sizes for the univariate analyses regarding changes in behavioral dysregulation, attention and concentration, and aggression fell into the moderate range, whereas the effect size for improvements in social and emotional competence was large.
+Table 4 Means and standard deviations for teacher-reported improvements in classroom behavior by group at posttest
+Full size table
+
+Discussion
+Overall, the results of this evaluation study of the ME program, a universal preventive intervention designed to foster students’ social and emotional learning, provide some encouraging evidence of a modest positive effect. As hypothesized, students exposed to the ME program, in contrast to controls, evidenced significant improvements in teacher-rated social and emotional competence. Particularly notable were the robust findings for two of the four dimensions of teacher-rated social and emotional competence—Attention and Concentration, and Social Emotional Competence—the two dimensions that we specifically targeted in the intervention. Moreover, we found that teachers implemented the program with relatively high fidelity—especially with regard to the implementation of the ME program core exercises—the three-times-a-day daily practices.
+Results also revealed that pre- and early adolescents who participated in the ME program, compared to pre- and early adolescents who did not, evidenced significant and positive improvements in their positive emotions, namely optimism. A more complex picture emerged, however, when examining students’ general self-concept. Analysis for this construct yielded findings wherein the intervention effects differed for pre- versus early adolescents. Namely, whereas our analyses revealed benefits (improvements) in general self-concept for preadolescents who were exposed to the ME program, no improvements in general self-concept emerged for the early adolescents. It may be that an increased focus on self-awareness (via the mindful attention training exercises) alongside an increased focus on thoughts functioned differently for early adolescents in contrast to the preadolescents in our study. Early adolescence in particular has been described as a time in the life cycle in which there is heightened self-consciousness due to increased competence in cognitive and social cognitive abilities (e.g., Schonert-Reichl 1994) and information processing. Such developmental changes coupled with an intervention that fosters self-awareness may lead to increased attention and reflection on the self, which may then direct the early adolescent to adopt a more critical or “realistic” view of the self (Eccles and Roeser 2009). Clearly, more work is needed in order to disentangle the complexity of this somewhat surprising finding.
+As noted by Domitrovich and Greenberg (2000), there has been very limited attention paid to examining the way in which program implementation influences child outcomes in social and emotional competence promotion programs. Without examining implementation, we are left with little information about what actually happened during the intervention—the quality of program delivery and whether the target audience received the curriculum as intended. As such, in the present study we examined the implementation fidelity of the ME program from the perspective of teachers. Overall we found that teachers implemented the program with relatively high implementation (teachers reported implementing the components of lessons 75% of the time). What is particularly noteworthy is that we found that teachers implemented the mindful attention training exercises three times a day every day for the duration of 9 weeks with relatively high frequency—with an average of 87%. Such a result is important for educators, clinicians, and others who wish to implement similar approaches in school settings. As noted by Durlak and DuPre (2008), “Expecting perfect or near-perfect implementation is unrealistic. Positive results have often been obtained with levels around 60%; few studies have attained levels greater than 80%. No study has documented 100% implementation for all providers” (p. 331). Hence, it appears that the level of implementation of the ME program was in line with implementation levels of other school-based prevention efforts. What is particularly noteworthy comes from the qualitative data that we collected from teachers. Specifically, the ME program teachers told us that they found the “core” mindful attention exercises easy to implement, and that frequently their students reminded them to stop their regular classroom instruction and do their “mindful breathing” lesson each day. Teachers also commented to us that they often saw an immediate change in students’ behaviors—and that students were able to focus and pay attention to their academic lessons more easily. Although our implementation data provided important information about fidelity and teacher buy-in, all of our measures were gathered via self-report (in contrast to observations) and only a few dimensions of fidelity were examined. Clearly, it is critical that future research on the effectiveness of mindful-based attention training with children and adolescents include measures assessing multiple dimensions of implementation, including fidelity, dosage, quality, and participants’ responsiveness.
+The data reported here are encouraging for continued investigation of the effectiveness of the ME program. Nonetheless, despite these promising findings, there are several important limitations of the study that should be raised. One of the limitations of the current study was that analyses were conducted at the individual student level even though the unit of matching was the classroom. Unfortunately, the small number of classrooms did not provide sufficient statistical power to use a multi-level model in the current study. The clustering of students within classrooms resulted in the non-independence of subjects, an assumption inherent in the analyses conducted in this study. It is possible that this could bias the statistical tests used to identify intervention effects.
+A second limitation of this study was the use of teacher behavioral ratings rather than direct observations of student behavior. Although there are problems inherent in teacher ratings, particularly when they are collected from teachers who also deliver the intervention, the fact that the intervention effects were the largest on those dimensions of teacher-rated behaviors specifically targeted on the intervention lends credibility to the findings. A final limitation to the study was the absence of an extended follow-up assessment. Clearly longitudinal research examining the effectiveness of the ME program beyond the year in which the program is implemented is needed to determine whether or not the positive impacts are sustained.
+In a delineation of common characteristics of successful prevention programs for young people, Dryfoos (1990) noted that preventive interventions should be targeted at risk and protective factors rather than at categorical problem behaviors. Given that the ME program aims to promote students’ emotional and social competence through the provision of classroom experiences and practices targeting the development of positive emotions and mindful awareness, we believe that the ME program is just such an approach and hence signifies a move toward the future in resiliency-focused competence promotion efforts. The present research represents an early step in the development of a research base on the effectiveness of the ME program and adds to a growing empirical literature on mindfulness-based practices in schools. As a result of this initial intervention trial, and in combination with feedback from teachers and students obtained from questionnaires and focus groups (Lawlor 2007), the ME program has undergone substantial revisions. We are currently testing the effectiveness of this revised curriculum—renamed the MindUP program
+Footnote
+1—via a randomized clinical trial (Schonert-Reichl et al. 2010). In our view, a randomized trial is the next logical step to advance the research on the effectiveness of mindfulness-based practices with children and youth and improve the science and practice of such programs across contexts. Clearly, future efforts should continue this search for the ways in which students’ positive emotions and adjustment can be cultivated in schools.
+
+Discussion
+
+Overall, the results of this evaluation study of the ME program, a universal preventive intervention designed to foster students’ social and emotional learning, provide some encouraging evidence of a modest positive effect. As hypothesized, students exposed to the ME program, in contrast to controls, evidenced significant improvements in teacher-rated social and emotional competence. Particularly notable were the robust findings for two of the four dimensions of teacher-rated social and emotional competence—Attention and Concentration, and Social Emotional Competence—the two dimensions that we specifically targeted in the intervention. Moreover, we found that teachers implemented the program with relatively high fidelity—especially with regard to the implementation of the ME program core exercises—the three-times-a-day daily practices.
+Results also revealed that pre- and early adolescents who participated in the ME program, compared to pre- and early adolescents who did not, evidenced significant and positive improvements in their positive emotions, namely optimism. A more complex picture emerged, however, when examining students’ general self-concept. Analysis for this construct yielded findings wherein the intervention effects differed for pre- versus early adolescents. Namely, whereas our analyses revealed benefits (improvements) in general self-concept for preadolescents who were exposed to the ME program, no improvements in general self-concept emerged for the early adolescents. It may be that an increased focus on self-awareness (via the mindful attention training exercises) alongside an increased focus on thoughts functioned differently for early adolescents in contrast to the preadolescents in our study. Early adolescence in particular has been described as a time in the life cycle in which there is heightened self-consciousness due to increased competence in cognitive and social cognitive abilities (e.g., Schonert-Reichl 1994) and information processing. Such developmental changes coupled with an intervention that fosters self-awareness may lead to increased attention and reflection on the self, which may then direct the early adolescent to adopt a more critical or “realistic” view of the self (Eccles and Roeser 2009). Clearly, more work is needed in order to disentangle the complexity of this somewhat surprising finding.
+As noted by Domitrovich and Greenberg (2000), there has been very limited attention paid to examining the way in which program implementation influences child outcomes in social and emotional competence promotion programs. Without examining implementation, we are left with little information about what actually happened during the intervention—the quality of program delivery and whether the target audience received the curriculum as intended. As such, in the present study we examined the implementation fidelity of the ME program from the perspective of teachers. Overall we found that teachers implemented the program with relatively high implementation (teachers reported implementing the components of lessons 75% of the time). What is particularly noteworthy is that we found that teachers implemented the mindful attention training exercises three times a day every day for the duration of 9 weeks with relatively high frequency—with an average of 87%. Such a result is important for educators, clinicians, and others who wish to implement similar approaches in school settings. As noted by Durlak and DuPre (2008), “Expecting perfect or near-perfect implementation is unrealistic. Positive results have often been obtained with levels around 60%; few studies have attained levels greater than 80%. No study has documented 100% implementation for all providers” (p. 331). Hence, it appears that the level of implementation of the ME program was in line with implementation levels of other school-based prevention efforts. What is particularly noteworthy comes from the qualitative data that we collected from teachers. Specifically, the ME program teachers told us that they found the “core” mindful attention exercises easy to implement, and that frequently their students reminded them to stop their regular classroom instruction and do their “mindful breathing” lesson each day. Teachers also commented to us that they often saw an immediate change in students’ behaviors—and that students were able to focus and pay attention to their academic lessons more easily. Although our implementation data provided important information about fidelity and teacher buy-in, all of our measures were gathered via self-report (in contrast to observations) and only a few dimensions of fidelity were examined. Clearly, it is critical that future research on the effectiveness of mindful-based attention training with children and adolescents include measures assessing multiple dimensions of implementation, including fidelity, dosage, quality, and participants’ responsiveness.
+The data reported here are encouraging for continued investigation of the effectiveness of the ME program. Nonetheless, despite these promising findings, there are several important limitations of the study that should be raised. One of the limitations of the current study was that analyses were conducted at the individual student level even though the unit of matching was the classroom. Unfortunately, the small number of classrooms did not provide sufficient statistical power to use a multi-level model in the current study. The clustering of students within classrooms resulted in the non-independence of subjects, an assumption inherent in the analyses conducted in this study. It is possible that this could bias the statistical tests used to identify intervention effects.
+A second limitation of this study was the use of teacher behavioral ratings rather than direct observations of student behavior. Although there are problems inherent in teacher ratings, particularly when they are collected from teachers who also deliver the intervention, the fact that the intervention effects were the largest on those dimensions of teacher-rated behaviors specifically targeted on the intervention lends credibility to the findings. A final limitation to the study was the absence of an extended follow-up assessment. Clearly longitudinal research examining the effectiveness of the ME program beyond the year in which the program is implemented is needed to determine whether or not the positive impacts are sustained.
+In a delineation of common characteristics of successful prevention programs for young people, Dryfoos (1990) noted that preventive interventions should be targeted at risk and protective factors rather than at categorical problem behaviors. Given that the ME program aims to promote students’ emotional and social competence through the provision of classroom experiences and practices targeting the development of positive emotions and mindful awareness, we believe that the ME program is just such an approach and hence signifies a move toward the future in resiliency-focused competence promotion efforts. The present research represents an early step in the development of a research base on the effectiveness of the ME program and adds to a growing empirical literature on mindfulness-based practices in schools. As a result of this initial intervention trial, and in combination with feedback from teachers and students obtained from questionnaires and focus groups (Lawlor 2007), the ME program has undergone substantial revisions. We are currently testing the effectiveness of this revised curriculum—renamed the MindUP program
+Footnote
+1—via a randomized clinical trial (Schonert-Reichl et al. 2010). In our view, a randomized trial is the next logical step to advance the research on the effectiveness of mindfulness-based practices with children and youth and improve the science and practice of such programs across contexts. Clearly, future efforts should continue this search for the ways in which students’ positive emotions and adjustment can be cultivated in schools.
+
+Notes
+Further information about the MindUP program can be found at www.thehawnfoundation.org
+
+Notes
+
+Further information about the MindUP program can be found at www.thehawnfoundation.org
+
+References
+Baer, R. A. (2003). Mindfulness-based training as a clinical intervention: a conceptual and empirical review. Clinical Psychology: Science and Practice, 10, 125–143.
+Article
+  Google Scholar
+  Battistich, V., Solomon, D., Watson, M., & Schaps, E. (1997). Caring school communities. Educational Psychologist, 32, 137–151.
+Article
+  Google Scholar
+  Beauchemin, J., Hutchins, T. L., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety, promote social skills, and improve academic performance among adolescents with learning disabilities. Complementary Health Practice Review, 13, 34–45.
+Article
+  Google Scholar
+  Biegel, G. M., Brown, K. W., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77, 855–866.
+Article
+  PubMed
+  Google Scholar
+  Blair, C., & Diamond, A. (2008). Biological processes in prevention and intervention: the promotion of self-regulation as a means of preventing school failure. Development and Psychopathology, 20, 899–911.
+Article
+  PubMed
+  Google Scholar
+  Bond, L. A., & Hauf, A. M. C. (2004). Taking stock and putting stock in primary prevention: characteristics of effective programs. The Journal of Primary Prevention, 24, 199–221.
+Article
+  Google Scholar
+  Brock, L. L., Nishida, T. K., Chiong, C., Grimm, K. J., & Rimm-Kaufman, S. E. (2006). Children’s perceptions of the classroom environment and social and academic performance: a longitudinal analysis of the contribution of the Responsive Classroom approach. Journal of School Psychology, 46, 129–149.
+Article
+  Google Scholar
+  Broderick, P. C., & Metz, S. (2009). Learning to BREATHE: a pilot trial of a mindfulness curriculum for adolescents. Advances in School Mental Health Promotion, 2, 35–46.
+Google Scholar
+  Brodhagen, A., & Wise, D. (2008). Optimism as a mediator between the experience of child abuse, other traumatic events, and distress. Journal of Family Violence, 23, 403–411.
+Article
+  Google Scholar
+  Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: mindfulness and its role in psychological well-being. Journal of Personality and Social Psychology, 84, 822–848.
+Article
+  PubMed
+  Google Scholar
+  Cappella, E., & Weinstein, R. (2006). The prevention of social aggression among girls. Social Development, 15, 434–462.
+Article
+  Google Scholar
+  Carver, C. S., & Scheier, M. F. (2002). Optimism, pessimism, and self-regulation. In E. C. Chang (Ed.), Optimism and pessimism: implications for theory, research, and practice (pp. 31–51). Washington, DC: American Psychological Association.
+Google Scholar
+  Clonan, S. M., Chafouleas, S. M., McDougal, J. L., & Riley-Tillman, T. C. (2004). Positive psychology goes to school: are we there yet? Psychology in the Schools, 4, 101–110.
+Article
+  Google Scholar
+  Cohen, J. (1988). Statistical power analysis (2nd ed.). Hillsdale: Erlbaum.
+Google Scholar
+  Coie, J. D., & Dodge, K. A. (1998). Aggression and antisocial behavior. In W. Damon & N. Eisenberg (Eds.), Handbook of child psychology, volume 3: social, emotional, and personality development (5th ed., pp. 779–862). New York: Wiley.
+Google Scholar
+  Conduct Problems Prevention Research Group. (1999). Initial impact of the fast track prevention trial for conduct problems II: classroom effects. Journal of Consulting and Clinical Psychology, 67, 648–657.
+Article
+  Google Scholar
+  Consortium on the School-Based Promotion of Social Competence. (1994). The school-based promotion of social competence: theory, research, practice, and policy. In R. J. Haggerty, L. R. Sherrod, N. Garmezy, & M. Rutter (Eds.), Stress, risk, and resilience in children and adolescents: processes, mechanisms, and interventions (pp. 268–316). Cambridge: Cambridge University Press.
+Google Scholar
+  Craven, R. G., Marsh, H. W., Debus, R. L., & Jayasinghe, U. (2001). Diffusion effects: control group contamination threats to the validity of teacher-administered interventions. Journal of Education & Psychology, 93, 639–645.
+Article
+  Google Scholar
+  Davidson, R. J., Kabat-Zinn, J., Schumacher, J., Rosenkrantz, M., Muller, D., & Santorelli, S. F. (2003). Alterations in brain and immune function produced by mindfulness meditation. Psychosomatic Medicine, 4, 564–570.
+Article
+  Google Scholar
+  Diener, E., & Seligman, M. E. P. (2002). Very happy people. Psychological Science, 13, 81–84.
+Article
+  PubMed
+  Google Scholar
+  Domitrovich, C. E., & Greenberg, M. T. (2000). The study of implementation: current findings from effective programs that prevent mental disorders in school-age children. Journal of Educational and Psychological Consultation, 11, 193–221.
+Article
+  Google Scholar
+  Dryfoos, J. G. (1990). Adolescents at risk: prevalence and prevention. New York: Oxford University Press.
+Google Scholar
+  Duncan, L. G., Coatsworth, J. D., & Greenberg, M. T. (2009). Pilot study to gauge acceptability of a mindfulness-based, family-focused preventive intervention. The Journal of Primary Prevention, 30, 605–618.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: a review of research on the influence of implementation on program outcomes and the factors affecting implementation. American Journal of Community Psychology, 41, 327–350.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., & Wells, A. M. (1997). Primary prevention mental health programs for children and adolescents: a meta-analytic review. American Journal of Community Psychology, 25, 115–152.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (in press). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development.
+Eccles, J. S. (1999). The development of children ages 6 to 14. The Future of Children, 9, 30–44.
+Article
+  PubMed
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2009). Schools, academic motivation, and stage-environment fit. In R. M. Lerner & L. Steinberg (Eds.), Handbook of adolescent psychology (3rd ed., pp. 404–434). Hoboken: Wiley.
+Google Scholar
+  Farrington, D. P. (1992). Explaining the beginning, progress, and ending of antisocial behavior from birth to adulthood. In J. McCord (Ed.), Facts, frameworks and forecasts: advances in criminological theory (vol. 3) (pp. 253–286). New Brunswick: Transaction.
+Google Scholar
+  Graber, J. A., & Brooks-Gunn, J. (1996). Transitions and turning points: navigating the passage from childhood through adolescence. Developmental Psychology, 32, 768–776.
+Article
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., & Bumbarger, B. (2001). The prevention of mental disorders in school-aged children: current state of the field. Prevention & Treatment, 4, 1–62.
+Google Scholar
+  Greenberg, M. T., Weissberg, R. P., Utne O’Brien, M., Zins, J. E., Fredericks, L., Resnik, H., et al. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic-learning. American Psychologist, 58, 466–474.
+Article
+  PubMed
+  Google Scholar
+  Greeson, J. M. (2009). Mindfulness research update: 2008. Complementary Health Research Practice Review, 14, 10–18.
+Article
+  Google Scholar
+  Grossman, P., Niemann, L., Schmidt, S., & Walach, H. (2004). Mindfulness-based stress reduction and health benefits: a meta-analysis. Journal of Psychosomatic Research, 57, 35–43.
+Article
+  PubMed
+  Google Scholar
+  Hertzman, C., & Power, C. (2006). A life course approach to health and human development. In J. Heymann, C. Hertzman, M. L. Barer, & M. G. Evans (Eds.), Healthier societies: from analysis to action (pp. 83–106). New York: Oxford University Press.
+Chapter
+  Google Scholar
+  Huebner, E. S., & Gilman, R. (2003). Toward a focus on positive psychology in school psychology. School Psychology Quarterly, 18, 99–102.
+Article
+  Google Scholar
+  Huebner, E. S., Gilman, R., & Furlong, M. J. (2009). A conceptual model for research in positive psychology in children and youth. In E. S. Huebner, R. Gilman, & M. J. Furlong (Eds.), Handbook of positive psychology in schools (pp. 3–8). New York: Routledge/Taylor & Francis.
+Google Scholar
+  Institute of Medicine. (2009). Preventing mental, emotional, and behavioral disorders among young people: progress and possibilities. Washington, DC: The National Academies Press.
+Google Scholar
+  Jha, A. P., Krompinger, J., & Baime, M. J. (2007). Mindfulness training modifies subsystems of attention. Cognitive, Affective & Behavioral Neuroscience, 7, 109–119.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: theoretical considerations and preliminary results. General Hospital Psychiatry, 4, 33–47.
+Article
+  PubMed
+  Google Scholar
+  Kabat-Zinn, J. (1990). Full catastrophe living: the program of the stress reduction clinic at the University of Massachusetts Medical Center. New York: Dell.
+Google Scholar
+  Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past, present, and future. Clinical Psychology: Science and Practice, 10, 144–156.
+Article
+  Google Scholar
+  Kabat-Zinn, J., Massion, A. O., Kristeller, J., Peterson, L. G., Fletcher, K., Pbert, L., et al. (1992). Effectiveness of a meditation-based stress reduction program in the treatment of anxiety disorders. The American Journal of Psychiatry, 149, 936–943.
+PubMed
+  Google Scholar
+  Kabat-Zinn, J., Wheeler, E., Light, T., Skillings, A., Scharf, M., Cropley, T. G., et al. (1998). Influence of a mindfulness-based stress reduction intervention on rates of skin clearing in patients with moderate to severe psoriasis undergoing phototherapy (UVB) and photochemotherapy (PUVA). Psychosomatic Medicine, 60, 625–632.
+PubMed
+  Google Scholar
+  Kam, C., & Greenberg, M. T. (1998). Technical measurement report on the teacher social competence rating scale. Unpublished technical report, Prevention Research Center for the Promotion of Human Development, The Pennsylvania State University
+Kehoe, J., & Fischer, N. (2002). Mind power for children: the guide for parents and teachers. Vancouver: Zoetic.
+Google Scholar
+  Kumpfer, K. L. (1999). Factors and processes contributing to resilience: the resilience framework. In M. Glantz & J. Johnson (Eds.), Resilience and development: positive life adaptations (pp. 179–224). New York: Kluwer Academic/Plenum.
+Google Scholar
+  Lawlor, M. S. (2007). Process evaluation of the mindfulness education program. A report commissioned by the Hawn Foundation.
+Loeber, R., Wung, P., Keenan, K., & Giroux, B. (1993). Parameters influencing social problem-solving of aggressive children. In R. J. Pinz (Ed.), Advances in behavioral assessment of children and families: a research annual (vol. 5) (pp. 31–63). London: Kingsley.
+Google Scholar
+  Lyubomirsky, S., King, L., & Diener, E. (2005a). The benefits of positive affect: does happiness lead to success? Psychological Bulletin, 6, 803–855.
+Article
+  Google Scholar
+  Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005b). Pursuing happiness: the architecture of sustainable change. Review of General Psychology, 9, 111–131.
+Article
+  Google Scholar
+  Marsh, H. W. (1988). Self-description questionnaire: a theoretical and empirical basis for the measurement of multiple dimensions of preadolescent self-concept: a test manual and a research monograph. San Antonio: The Psychological Corporation.
+Google Scholar
+  Marsh, H. W. (1990). A multidimensional, hierarchical self-concept: theoretical and empirical justification. Educational Psychology Review, 2, 77–172.
+Article
+  Google Scholar
+  Masten, A. S., & Motti-Stefanidi, F. (2009). Understanding and promoting resilience in children: promotive and protective processes in schools. In T. B. Gutkin & C. R. Reynolds (Eds.), The handbook of school psychology (4th ed., pp. 721–738). New York: Wiley.
+Google Scholar
+  National Advisory Mental Health Council. (1990). National plan for research on child and adolescent mental disorders (DHHS Publication No. 90-1683). Washington, DC: U.S. Department of Health and Human Services.
+Google Scholar
+  Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: The Attention Academy. Journal of Applied School Psychology, 21, 99–125.
+Article
+  Google Scholar
+  Oberle, E., Schonert-Reichl, K. A., & Thomson, K. (2009). Understanding the link between social and emotional well-being and peer relations in early adolescence: gender-specific predictors of peer acceptance. Journal of Youth and Adolescence. doi:10.1007/s10964-009-9486-9
+Parke, R. D., & Slaby, R. G. (1983). The development of aggression. In E. M. Hetherington (Ed.), Handbook of child psychology, vol. 4: personality and socialization processes (4th ed., pp. 547–641). New York: Wiley.
+Google Scholar
+  Pierce, C. A., Block, R. A., & Aguinis, H. (2004). Cautionary note on reporting eta-squared values from multi-factor ANOVA designs. Educational and Psychological Measurement, 64, 916–924.
+Article
+  Google Scholar
+  Ponitz, C. C., McClelland, M. M., Matthews, J. S., & Morrison, F. J. (2009). A structured observation of behavioral self-regulation and its contribution to kindergarten outcomes. Developmental Psychology, 45, 605–619.
+Article
+  PubMed
+  Google Scholar
+  Riggs, N. R., Greenberg, M. T., Kushe, C. A., & Pentz, M. (2006). The mediational role of neurocognition in behavioral outcomes of a social–emotional prevention program in elementary school students: effects of the PATHS curriculum. Prevention Science, 7, 91–102.
+Article
+  PubMed
+  Google Scholar
+  Roeser, R. W., & Peck, S. C. (2009). An education in awareness: self, motivation and self-regulation in contemplative perspective. Educational Psychologist, 44, 119–136.
+Article
+  PubMed
+  Google Scholar
+  Romano, E., Tremblay, R. E., Vitaro, F., Zoccolillo, M., & Pagani, L. (2001). Prevalence of psychiatric diagnosis and the role of perceived impairment: findings from an adolescent community sample. Journal of Child Psychology and Psychiatry, 42, 451–461.
+Article
+  PubMed
+  Google Scholar
+  Rones, M., & Hoagwood, K. (2000). School-based mental health services: a research review. Clinical Child and Family Psychology Review, 3, 223–241.
+Article
+  PubMed
+  Google Scholar
+  Ross, M. R., Powell, S. R., & Elias, M. J. (2002). New roles for school psychologists: addressing the social and emotional learning needs of students. School Psychology Review, 31, 43–52.
+Google Scholar
+  Schaps, E., & Battistich, V. (1991). Promoting health development through school-based prevention: new approaches. In E. N. Goplerud (Ed.), OSAP Prevention Monograph—8: preventing adolescent drug-use: from theory to practice (pp. 127–180). Rockville: Office of Substance Abuse Prevention, U.S. Department of Health and Human Services.
+Google Scholar
+  Scheier, M. F., & Carver, C. S. (1993). On the power of positive thinking: the benefits of being optimistic. Current Directions in Psychological Science, 2, 26–30.
+Article
+  Google Scholar
+  Scheier, M. F., Weintraub, J. K., & Carver, C. S. (1986). Coping with stress: divergent strategies of optimists and pessimists. Journal of Personality and Social Psychology, 51, 1257–1264.
+Article
+  PubMed
+  Google Scholar
+  Schonert-Reichl, K. A. (1994). Gender differences in egocentrism and depressive symptomatology. Journal of Early Adolescence, 14, 49–64.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., Oberle, E., Lawlor, M. S., Abbott, D., Thomson, K., Oberlander, T. F., Diamond, A. (2010). Accelerating cognitive and social emotional development in elementary school classrooms: Benefits of a simple to administer program. Manuscript submitted for publication (copy on file with author).
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-based cognitive therapy for depression: a new approach to preventing relapse. New York: Guildford.
+Google Scholar
+  Semple, R. J., Reid, E. F. G., & Miller, L. (2005). Treating anxiety with mindfulness: an open trial of mindfulness training for anxious children. Journal of Cognitive Psychotherapy, 19, 379–392.
+Article
+  Google Scholar
+  Semple, R. J., Lee, J., & Miller, L. F. (2006). Mindfulness-based cognitive therapy for children. In R. A. Baer (Ed.), Mindfulness-based treatment approaches: clinicians guide to evidence base and applications (pp. 143–166). Oxford: Elsevier.
+Chapter
+  Google Scholar
+  Seligman, M. E. P. (1990). Learned optimism. New York: Pocket Books.
+Google Scholar
+  Seligman, M. E. P., & Csikszentimihalyi, M. (2000). Positive psychology: an introduction. American Psychologist, 55, 5–14.
+Article
+  PubMed
+  Google Scholar
+  Siegel, D. (2007). The mindful brain: reflection and attunement in the cultivation of well-being. New York: Norton.
+Google Scholar
+  Singh, N. N., Wahler, R. G., Adkins, A. D., Myers, R. E., & The Mindfulness Research Group. (2003). Soles of the feet: a mindfulness-based self-control intervention for aggression by an individual with mild mental retardation and mental illness. Research in Developmental Disabilities, 24, 158–169.
+Article
+  PubMed
+  Google Scholar
+  Singh, N., Lancioni, G. E., Joy, S. D. S., Winton, A. S. W., Sabaawi, M., Wahler, R. G., et al. (2007). Adolescents with conduct disorder can be mindful of their aggressive behavior. Journal of Emotional and Behavioral Disorders, 15, 56–63.
+Article
+  Google Scholar
+  Song, M. (2003). Two studies on the Resiliency Inventory (RI): toward the goal of creating a culturally sensitive measure of adolescent resilience. Unpublished doctoral dissertation, Harvard University.
+Tabachnick, B. G., & Fidell, L. S. (2001). Computer-assisted research design and analysis. Boston: Allyn & Bacon.
+Google Scholar
+  Teasdale, J. D., Segal, Z. V., Williams, J. M. G., Ridgeway, V. A., Soulsby, J. M., & Lau, M. A. (2000). Prevention of relapse/recurrence in major depression by mindfulness-based cognitive therapy. Journal of Consulting and Clinical Psychology, 68, 615–625.
+Article
+  PubMed
+  Google Scholar
+  Terjesen, M., Jacofsky, M., Froh, J., & DiGiuseppe, R. (2004). Integrating positive psychology into schools: implications for practice. Psychology in the Schools, 41, 163–172.
+Article
+  Google Scholar
+  Thompson, M., & Gauntlett-Gilbert, J. (2008). Mindfulness with children and adolescents: effective clinical application. Clinical Child Psychology and Psychiatry, 13, 395–407.
+Article
+  PubMed
+  Google Scholar
+  U.S. Public Health Service. (2000). Report of the Surgeon’s General’s Conference on Children’s Mental Health: a national action agenda. Washington, DC: Department of Health and Human Services.
+Google Scholar
+  Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: the PANAS scales. Journal of Personality and Social Psychology, 54, 1063–1070.
+Article
+  PubMed
+  Google Scholar
+  Weissberg, R. P., & Greenberg, M. T. (1998). School and community competence-enhancement and prevention programs. In I. E. Siegel & K. A. Renninger (Eds.), Handbook of child psychology, vol. 5: child psychology in practice (5th ed., pp. 877–954). New York: Wiley.
+Google Scholar
+  Wilson, S. J., Lipsey, M. W., & Derzon, J. H. (2003). The effects of school-based intervention programs on aggressive behavior: a meta-analysis. Journal of Consulting and Clinical Psychology, 71, 136–149.
+Article
+  PubMed
+  Google Scholar
+  Zylowska, L., Ackerman, D. L., Yang, M. H., Futrell, J. L., Horton, N. L., Sigi Hale, T., et al. (2008). Mindfulness meditation training in adults and adolescents with ADHD: a feasibility study. Journal of Attention Disorders, 11, 737–746.
+Article
+  PubMed
+  Google Scholar
+  Zumbo, B. D. (1999). The simple difference score as an inherently poor measure of change: some reality, much mythology. Advances in Social Science Methodology, 5, 269–304.
+Google Scholar
+  Download references
+
+References
+
+Baer, R. A. (2003). Mindfulness-based training as a clinical intervention: a conceptual and empirical review. Clinical Psychology: Science and Practice, 10, 125–143.
+Article
+  Google Scholar
+  Battistich, V., Solomon, D., Watson, M., & Schaps, E. (1997). Caring school communities. Educational Psychologist, 32, 137–151.
+Article
+  Google Scholar
+  Beauchemin, J., Hutchins, T. L., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety, promote social skills, and improve academic performance among adolescents with learning disabilities. Complementary Health Practice Review, 13, 34–45.
+Article
+  Google Scholar
+  Biegel, G. M., Brown, K. W., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77, 855–866.
+Article
+  PubMed
+  Google Scholar
+  Blair, C., & Diamond, A. (2008). Biological processes in prevention and intervention: the promotion of self-regulation as a means of preventing school failure. Development and Psychopathology, 20, 899–911.
+Article
+  PubMed
+  Google Scholar
+  Bond, L. A., & Hauf, A. M. C. (2004). Taking stock and putting stock in primary prevention: characteristics of effective programs. The Journal of Primary Prevention, 24, 199–221.
+Article
+  Google Scholar
+  Brock, L. L., Nishida, T. K., Chiong, C., Grimm, K. J., & Rimm-Kaufman, S. E. (2006). Children’s perceptions of the classroom environment and social and academic performance: a longitudinal analysis of the contribution of the Responsive Classroom approach. Journal of School Psychology, 46, 129–149.
+Article
+  Google Scholar
+  Broderick, P. C., & Metz, S. (2009). Learning to BREATHE: a pilot trial of a mindfulness curriculum for adolescents. Advances in School Mental Health Promotion, 2, 35–46.
+Google Scholar
+  Brodhagen, A., & Wise, D. (2008). Optimism as a mediator between the experience of child abuse, other traumatic events, and distress. Journal of Family Violence, 23, 403–411.
+Article
+  Google Scholar
+  Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: mindfulness and its role in psychological well-being. Journal of Personality and Social Psychology, 84, 822–848.
+Article
+  PubMed
+  Google Scholar
+  Cappella, E., & Weinstein, R. (2006). The prevention of social aggression among girls. Social Development, 15, 434–462.
+Article
+  Google Scholar
+  Carver, C. S., & Scheier, M. F. (2002). Optimism, pessimism, and self-regulation. In E. C. Chang (Ed.), Optimism and pessimism: implications for theory, research, and practice (pp. 31–51). Washington, DC: American Psychological Association.
+Google Scholar
+  Clonan, S. M., Chafouleas, S. M., McDougal, J. L., & Riley-Tillman, T. C. (2004). Positive psychology goes to school: are we there yet? Psychology in the Schools, 4, 101–110.
+Article
+  Google Scholar
+  Cohen, J. (1988). Statistical power analysis (2nd ed.). Hillsdale: Erlbaum.
+Google Scholar
+  Coie, J. D., & Dodge, K. A. (1998). Aggression and antisocial behavior. In W. Damon & N. Eisenberg (Eds.), Handbook of child psychology, volume 3: social, emotional, and personality development (5th ed., pp. 779–862). New York: Wiley.
+Google Scholar
+  Conduct Problems Prevention Research Group. (1999). Initial impact of the fast track prevention trial for conduct problems II: classroom effects. Journal of Consulting and Clinical Psychology, 67, 648–657.
+Article
+  Google Scholar
+  Consortium on the School-Based Promotion of Social Competence. (1994). The school-based promotion of social competence: theory, research, practice, and policy. In R. J. Haggerty, L. R. Sherrod, N. Garmezy, & M. Rutter (Eds.), Stress, risk, and resilience in children and adolescents: processes, mechanisms, and interventions (pp. 268–316). Cambridge: Cambridge University Press.
+Google Scholar
+  Craven, R. G., Marsh, H. W., Debus, R. L., & Jayasinghe, U. (2001). Diffusion effects: control group contamination threats to the validity of teacher-administered interventions. Journal of Education & Psychology, 93, 639–645.
+Article
+  Google Scholar
+  Davidson, R. J., Kabat-Zinn, J., Schumacher, J., Rosenkrantz, M., Muller, D., & Santorelli, S. F. (2003). Alterations in brain and immune function produced by mindfulness meditation. Psychosomatic Medicine, 4, 564–570.
+Article
+  Google Scholar
+  Diener, E., & Seligman, M. E. P. (2002). Very happy people. Psychological Science, 13, 81–84.
+Article
+  PubMed
+  Google Scholar
+  Domitrovich, C. E., & Greenberg, M. T. (2000). The study of implementation: current findings from effective programs that prevent mental disorders in school-age children. Journal of Educational and Psychological Consultation, 11, 193–221.
+Article
+  Google Scholar
+  Dryfoos, J. G. (1990). Adolescents at risk: prevalence and prevention. New York: Oxford University Press.
+Google Scholar
+  Duncan, L. G., Coatsworth, J. D., & Greenberg, M. T. (2009). Pilot study to gauge acceptability of a mindfulness-based, family-focused preventive intervention. The Journal of Primary Prevention, 30, 605–618.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: a review of research on the influence of implementation on program outcomes and the factors affecting implementation. American Journal of Community Psychology, 41, 327–350.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., & Wells, A. M. (1997). Primary prevention mental health programs for children and adolescents: a meta-analytic review. American Journal of Community Psychology, 25, 115–152.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (in press). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development.
+Eccles, J. S. (1999). The development of children ages 6 to 14. The Future of Children, 9, 30–44.
+Article
+  PubMed
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2009). Schools, academic motivation, and stage-environment fit. In R. M. Lerner & L. Steinberg (Eds.), Handbook of adolescent psychology (3rd ed., pp. 404–434). Hoboken: Wiley.
+Google Scholar
+  Farrington, D. P. (1992). Explaining the beginning, progress, and ending of antisocial behavior from birth to adulthood. In J. McCord (Ed.), Facts, frameworks and forecasts: advances in criminological theory (vol. 3) (pp. 253–286). New Brunswick: Transaction.
+Google Scholar
+  Graber, J. A., & Brooks-Gunn, J. (1996). Transitions and turning points: navigating the passage from childhood through adolescence. Developmental Psychology, 32, 768–776.
+Article
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., & Bumbarger, B. (2001). The prevention of mental disorders in school-aged children: current state of the field. Prevention & Treatment, 4, 1–62.
+Google Scholar
+  Greenberg, M. T., Weissberg, R. P., Utne O’Brien, M., Zins, J. E., Fredericks, L., Resnik, H., et al. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic-learning. American Psychologist, 58, 466–474.
+Article
+  PubMed
+  Google Scholar
+  Greeson, J. M. (2009). Mindfulness research update: 2008. Complementary Health Research Practice Review, 14, 10–18.
+Article
+  Google Scholar
+  Grossman, P., Niemann, L., Schmidt, S., & Walach, H. (2004). Mindfulness-based stress reduction and health benefits: a meta-analysis. Journal of Psychosomatic Research, 57, 35–43.
+Article
+  PubMed
+  Google Scholar
+  Hertzman, C., & Power, C. (2006). A life course approach to health and human development. In J. Heymann, C. Hertzman, M. L. Barer, & M. G. Evans (Eds.), Healthier societies: from analysis to action (pp. 83–106). New York: Oxford University Press.
+Chapter
+  Google Scholar
+  Huebner, E. S., & Gilman, R. (2003). Toward a focus on positive psychology in school psychology. School Psychology Quarterly, 18, 99–102.
+Article
+  Google Scholar
+  Huebner, E. S., Gilman, R., & Furlong, M. J. (2009). A conceptual model for research in positive psychology in children and youth. In E. S. Huebner, R. Gilman, & M. J. Furlong (Eds.), Handbook of positive psychology in schools (pp. 3–8). New York: Routledge/Taylor & Francis.
+Google Scholar
+  Institute of Medicine. (2009). Preventing mental, emotional, and behavioral disorders among young people: progress and possibilities. Washington, DC: The National Academies Press.
+Google Scholar
+  Jha, A. P., Krompinger, J., & Baime, M. J. (2007). Mindfulness training modifies subsystems of attention. Cognitive, Affective & Behavioral Neuroscience, 7, 109–119.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: theoretical considerations and preliminary results. General Hospital Psychiatry, 4, 33–47.
+Article
+  PubMed
+  Google Scholar
+  Kabat-Zinn, J. (1990). Full catastrophe living: the program of the stress reduction clinic at the University of Massachusetts Medical Center. New York: Dell.
+Google Scholar
+  Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past, present, and future. Clinical Psychology: Science and Practice, 10, 144–156.
+Article
+  Google Scholar
+  Kabat-Zinn, J., Massion, A. O., Kristeller, J., Peterson, L. G., Fletcher, K., Pbert, L., et al. (1992). Effectiveness of a meditation-based stress reduction program in the treatment of anxiety disorders. The American Journal of Psychiatry, 149, 936–943.
+PubMed
+  Google Scholar
+  Kabat-Zinn, J., Wheeler, E., Light, T., Skillings, A., Scharf, M., Cropley, T. G., et al. (1998). Influence of a mindfulness-based stress reduction intervention on rates of skin clearing in patients with moderate to severe psoriasis undergoing phototherapy (UVB) and photochemotherapy (PUVA). Psychosomatic Medicine, 60, 625–632.
+PubMed
+  Google Scholar
+  Kam, C., & Greenberg, M. T. (1998). Technical measurement report on the teacher social competence rating scale. Unpublished technical report, Prevention Research Center for the Promotion of Human Development, The Pennsylvania State University
+Kehoe, J., & Fischer, N. (2002). Mind power for children: the guide for parents and teachers. Vancouver: Zoetic.
+Google Scholar
+  Kumpfer, K. L. (1999). Factors and processes contributing to resilience: the resilience framework. In M. Glantz & J. Johnson (Eds.), Resilience and development: positive life adaptations (pp. 179–224). New York: Kluwer Academic/Plenum.
+Google Scholar
+  Lawlor, M. S. (2007). Process evaluation of the mindfulness education program. A report commissioned by the Hawn Foundation.
+Loeber, R., Wung, P., Keenan, K., & Giroux, B. (1993). Parameters influencing social problem-solving of aggressive children. In R. J. Pinz (Ed.), Advances in behavioral assessment of children and families: a research annual (vol. 5) (pp. 31–63). London: Kingsley.
+Google Scholar
+  Lyubomirsky, S., King, L., & Diener, E. (2005a). The benefits of positive affect: does happiness lead to success? Psychological Bulletin, 6, 803–855.
+Article
+  Google Scholar
+  Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005b). Pursuing happiness: the architecture of sustainable change. Review of General Psychology, 9, 111–131.
+Article
+  Google Scholar
+  Marsh, H. W. (1988). Self-description questionnaire: a theoretical and empirical basis for the measurement of multiple dimensions of preadolescent self-concept: a test manual and a research monograph. San Antonio: The Psychological Corporation.
+Google Scholar
+  Marsh, H. W. (1990). A multidimensional, hierarchical self-concept: theoretical and empirical justification. Educational Psychology Review, 2, 77–172.
+Article
+  Google Scholar
+  Masten, A. S., & Motti-Stefanidi, F. (2009). Understanding and promoting resilience in children: promotive and protective processes in schools. In T. B. Gutkin & C. R. Reynolds (Eds.), The handbook of school psychology (4th ed., pp. 721–738). New York: Wiley.
+Google Scholar
+  National Advisory Mental Health Council. (1990). National plan for research on child and adolescent mental disorders (DHHS Publication No. 90-1683). Washington, DC: U.S. Department of Health and Human Services.
+Google Scholar
+  Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: The Attention Academy. Journal of Applied School Psychology, 21, 99–125.
+Article
+  Google Scholar
+  Oberle, E., Schonert-Reichl, K. A., & Thomson, K. (2009). Understanding the link between social and emotional well-being and peer relations in early adolescence: gender-specific predictors of peer acceptance. Journal of Youth and Adolescence. doi:10.1007/s10964-009-9486-9
+Parke, R. D., & Slaby, R. G. (1983). The development of aggression. In E. M. Hetherington (Ed.), Handbook of child psychology, vol. 4: personality and socialization processes (4th ed., pp. 547–641). New York: Wiley.
+Google Scholar
+  Pierce, C. A., Block, R. A., & Aguinis, H. (2004). Cautionary note on reporting eta-squared values from multi-factor ANOVA designs. Educational and Psychological Measurement, 64, 916–924.
+Article
+  Google Scholar
+  Ponitz, C. C., McClelland, M. M., Matthews, J. S., & Morrison, F. J. (2009). A structured observation of behavioral self-regulation and its contribution to kindergarten outcomes. Developmental Psychology, 45, 605–619.
+Article
+  PubMed
+  Google Scholar
+  Riggs, N. R., Greenberg, M. T., Kushe, C. A., & Pentz, M. (2006). The mediational role of neurocognition in behavioral outcomes of a social–emotional prevention program in elementary school students: effects of the PATHS curriculum. Prevention Science, 7, 91–102.
+Article
+  PubMed
+  Google Scholar
+  Roeser, R. W., & Peck, S. C. (2009). An education in awareness: self, motivation and self-regulation in contemplative perspective. Educational Psychologist, 44, 119–136.
+Article
+  PubMed
+  Google Scholar
+  Romano, E., Tremblay, R. E., Vitaro, F., Zoccolillo, M., & Pagani, L. (2001). Prevalence of psychiatric diagnosis and the role of perceived impairment: findings from an adolescent community sample. Journal of Child Psychology and Psychiatry, 42, 451–461.
+Article
+  PubMed
+  Google Scholar
+  Rones, M., & Hoagwood, K. (2000). School-based mental health services: a research review. Clinical Child and Family Psychology Review, 3, 223–241.
+Article
+  PubMed
+  Google Scholar
+  Ross, M. R., Powell, S. R., & Elias, M. J. (2002). New roles for school psychologists: addressing the social and emotional learning needs of students. School Psychology Review, 31, 43–52.
+Google Scholar
+  Schaps, E., & Battistich, V. (1991). Promoting health development through school-based prevention: new approaches. In E. N. Goplerud (Ed.), OSAP Prevention Monograph—8: preventing adolescent drug-use: from theory to practice (pp. 127–180). Rockville: Office of Substance Abuse Prevention, U.S. Department of Health and Human Services.
+Google Scholar
+  Scheier, M. F., & Carver, C. S. (1993). On the power of positive thinking: the benefits of being optimistic. Current Directions in Psychological Science, 2, 26–30.
+Article
+  Google Scholar
+  Scheier, M. F., Weintraub, J. K., & Carver, C. S. (1986). Coping with stress: divergent strategies of optimists and pessimists. Journal of Personality and Social Psychology, 51, 1257–1264.
+Article
+  PubMed
+  Google Scholar
+  Schonert-Reichl, K. A. (1994). Gender differences in egocentrism and depressive symptomatology. Journal of Early Adolescence, 14, 49–64.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., Oberle, E., Lawlor, M. S., Abbott, D., Thomson, K., Oberlander, T. F., Diamond, A. (2010). Accelerating cognitive and social emotional development in elementary school classrooms: Benefits of a simple to administer program. Manuscript submitted for publication (copy on file with author).
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-based cognitive therapy for depression: a new approach to preventing relapse. New York: Guildford.
+Google Scholar
+  Semple, R. J., Reid, E. F. G., & Miller, L. (2005). Treating anxiety with mindfulness: an open trial of mindfulness training for anxious children. Journal of Cognitive Psychotherapy, 19, 379–392.
+Article
+  Google Scholar
+  Semple, R. J., Lee, J., & Miller, L. F. (2006). Mindfulness-based cognitive therapy for children. In R. A. Baer (Ed.), Mindfulness-based treatment approaches: clinicians guide to evidence base and applications (pp. 143–166). Oxford: Elsevier.
+Chapter
+  Google Scholar
+  Seligman, M. E. P. (1990). Learned optimism. New York: Pocket Books.
+Google Scholar
+  Seligman, M. E. P., & Csikszentimihalyi, M. (2000). Positive psychology: an introduction. American Psychologist, 55, 5–14.
+Article
+  PubMed
+  Google Scholar
+  Siegel, D. (2007). The mindful brain: reflection and attunement in the cultivation of well-being. New York: Norton.
+Google Scholar
+  Singh, N. N., Wahler, R. G., Adkins, A. D., Myers, R. E., & The Mindfulness Research Group. (2003). Soles of the feet: a mindfulness-based self-control intervention for aggression by an individual with mild mental retardation and mental illness. Research in Developmental Disabilities, 24, 158–169.
+Article
+  PubMed
+  Google Scholar
+  Singh, N., Lancioni, G. E., Joy, S. D. S., Winton, A. S. W., Sabaawi, M., Wahler, R. G., et al. (2007). Adolescents with conduct disorder can be mindful of their aggressive behavior. Journal of Emotional and Behavioral Disorders, 15, 56–63.
+Article
+  Google Scholar
+  Song, M. (2003). Two studies on the Resiliency Inventory (RI): toward the goal of creating a culturally sensitive measure of adolescent resilience. Unpublished doctoral dissertation, Harvard University.
+Tabachnick, B. G., & Fidell, L. S. (2001). Computer-assisted research design and analysis. Boston: Allyn & Bacon.
+Google Scholar
+  Teasdale, J. D., Segal, Z. V., Williams, J. M. G., Ridgeway, V. A., Soulsby, J. M., & Lau, M. A. (2000). Prevention of relapse/recurrence in major depression by mindfulness-based cognitive therapy. Journal of Consulting and Clinical Psychology, 68, 615–625.
+Article
+  PubMed
+  Google Scholar
+  Terjesen, M., Jacofsky, M., Froh, J., & DiGiuseppe, R. (2004). Integrating positive psychology into schools: implications for practice. Psychology in the Schools, 41, 163–172.
+Article
+  Google Scholar
+  Thompson, M., & Gauntlett-Gilbert, J. (2008). Mindfulness with children and adolescents: effective clinical application. Clinical Child Psychology and Psychiatry, 13, 395–407.
+Article
+  PubMed
+  Google Scholar
+  U.S. Public Health Service. (2000). Report of the Surgeon’s General’s Conference on Children’s Mental Health: a national action agenda. Washington, DC: Department of Health and Human Services.
+Google Scholar
+  Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: the PANAS scales. Journal of Personality and Social Psychology, 54, 1063–1070.
+Article
+  PubMed
+  Google Scholar
+  Weissberg, R. P., & Greenberg, M. T. (1998). School and community competence-enhancement and prevention programs. In I. E. Siegel & K. A. Renninger (Eds.), Handbook of child psychology, vol. 5: child psychology in practice (5th ed., pp. 877–954). New York: Wiley.
+Google Scholar
+  Wilson, S. J., Lipsey, M. W., & Derzon, J. H. (2003). The effects of school-based intervention programs on aggressive behavior: a meta-analysis. Journal of Consulting and Clinical Psychology, 71, 136–149.
+Article
+  PubMed
+  Google Scholar
+  Zylowska, L., Ackerman, D. L., Yang, M. H., Futrell, J. L., Horton, N. L., Sigi Hale, T., et al. (2008). Mindfulness meditation training in adults and adolescents with ADHD: a feasibility study. Journal of Attention Disorders, 11, 737–746.
+Article
+  PubMed
+  Google Scholar
+  Zumbo, B. D. (1999). The simple difference score as an inherently poor measure of change: some reality, much mythology. Advances in Social Science Methodology, 5, 269–304.
+Google Scholar
+  Download references
+
+Acknowledgments
+This research was supported by grants from the Hawn Foundation and the Human Early Learning Partnership (HELP) at the University of British Columbia to the first author. Special appreciation is expressed to Lisa Pedrini at the Vancouver School Board, to Nancy Fischer for her involvement in creating the ME program lessons, to Sula Boxall, Angela Jaramillo, and Caro Rolando for their assistance with data collection, and to the students and their teachers who made this study possible.
+
+Acknowledgments
+
+This research was supported by grants from the Hawn Foundation and the Human Early Learning Partnership (HELP) at the University of British Columbia to the first author. Special appreciation is expressed to Lisa Pedrini at the Vancouver School Board, to Nancy Fischer for her involvement in creating the ME program lessons, to Sula Boxall, Angela Jaramillo, and Caro Rolando for their assistance with data collection, and to the students and their teachers who made this study possible.
+
+Author information
+Authors and Affiliations
+Department of Educational and Counseling Psychology, and Special Education, University of British Columbia, 2125 Main Mall, Vancouver, BC, V6T 1Z4, Canada
+Kimberly A. Schonert-Reichl
+University of British Columbia, Vancouver, BC, Canada
+Molly Stewart Lawlor
+Corresponding author
+Correspondence to Kimberly A. Schonert-Reichl.
+
+Author information
+
+Authors and Affiliations
+Department of Educational and Counseling Psychology, and Special Education, University of British Columbia, 2125 Main Mall, Vancouver, BC, V6T 1Z4, Canada
+Kimberly A. Schonert-Reichl
+University of British Columbia, Vancouver, BC, Canada
+Molly Stewart Lawlor
+Corresponding author
+Correspondence to Kimberly A. Schonert-Reichl.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Schonert-Reichl, K.A., Lawlor, M.S. The Effects of a Mindfulness-Based Education Program on Pre- and Early Adolescents’ Well-Being and Social and Emotional Competence. Mindfulness 1, 137–151 (2010). https://doi.org/10.1007/s12671-010-0011-8
+Download citation
+Published
+27 May 2010
+Issue Date
+September 2010
+DOI
+https://doi.org/10.1007/s12671-010-0011-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Mindfulness
+Adolescents
+Prevention
+Optimism
+Social competence
+
+About this article
+
+Cite this article
+Schonert-Reichl, K.A., Lawlor, M.S. The Effects of a Mindfulness-Based Education Program on Pre- and Early Adolescents’ Well-Being and Social and Emotional Competence. Mindfulness 1, 137–151 (2010). https://doi.org/10.1007/s12671-010-0011-8
+Download citation
+Published
+27 May 2010
+Issue Date
+September 2010
+DOI
+https://doi.org/10.1007/s12671-010-0011-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Mindfulness
+Adolescents
+Prevention
+Optimism
+Social competence

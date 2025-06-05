@@ -1,0 +1,12 @@
+Abstract
+Rationale: Despite a recognised need for mental health and life skills promotion for young people in low- and middle-income countries (LMICs), the evidence base for accessible and effective interventions is limited.
+
+Objectives: The objectives of this study were to determine if a school-based, teacher-led, life skills-focused, and manualised intervention was effective in increasing self-efficacy, reducing internalising problems, promoting prosocial behaviour, and developing a sense of connectedness among secondary school students in Uganda.
+
+Method: A cluster controlled, before-and-after study was employed in four schools, with one school acting as a wait-list control. In total, 620 students aged 13-18 completed baseline questionnaires, with 170 of those completing the same measures post-intervention. Interviews were also completed with four teachers and four students who had finished the intervention. Teachers from the intervention schools completed three days of training on the life skills manual and subsequently delivered the programme over a school year. The manual, written by the lead researcher with support from local facilitators, incorporated 24 lessons plans designed to promote mental health and resilience, develop communication skills, and teach life skills for the present and future. Training sessions also provided guidance on pedagogical approaches required to deliver this type of content effectively.
+
+Results: Analysis of Covariance (ANCOVA) demonstrated that the intervention group had a significant increase in general self-efficacy, F(1,167) = 20.10, p < .001, η2 = 0.107, significant reductions in internalising problems (depression/anxiety-like symptoms), F(1,167) = 11.14, p = .001, η2 = 0.063, and an increase in overall 'Connectedness' F(1,167) = 15.00, p < .001, η2 = 0.082, when compared to the control group. Effect sizes for these variables were medium. There was an increase in prosocial attitudes/behaviour that did not reach significance after Bonferroni correction.
+
+Conclusions: Despite limitations, including sample size at post-intervention and lack of randomisation, the study demonstrated that it is possible to deliver an effective, school-based, culturally-appropriate life skills intervention, involving local facilitators in design, delivery, and evaluation.
+
+Keywords: Connectedness; Life skills; Mental health; Self-efficacy; Teachers; Uganda.

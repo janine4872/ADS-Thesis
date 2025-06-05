@@ -1,0 +1,595 @@
+Abstract
+With bullying in schools high on policy makers’ agendas, researchers are looking for
+effective strategies to tackle its disruptive effects. The present study sets out to address
+this issue. First, the prevalence of bullying is examined in Hong Kong High Schools, and
+second, the effectiveness of a Restorative Whole-school Approach (RWsA) in reducing
+bullying is examined in a quasi-experimental design. The RWsA emphasizes the setting
+up of restorative goals, clear instructions, team building, and good relationships among
+students, parents, and teachers. Over the course of 2 years, and across four schools,
+the effectiveness of this program was observed by comparing an intervention group
+with a partial intervention group (which did not receive the full treatment) and a
+control group (which received no treatment whatsoever). The group that received the
+RWsA treatment exhibited a significant reduction of bullying, higher empathic attitudes,
+and higher self-esteem in comparison to the partial intervention and the control group.
+Keywords
+bullying, restorative justice, whole-school approach
+In recent years, Hong Kong schools have experienced increasing difficulties with bullying (“A Form-Two Boy,” 2001; “The Gang Involved,” 1999; Wong, Lok, Lo, & Ma,
+2002), which has led to calls for a systematic investigation of its causes, as well as
+1
+City University of Hong Kong, Kowloon, China
+Corresponding Author:
+Dennis S. W. Wong, Department of Applied Social Studies, City University of Hong Kong,
+Tat Chee Avenue, Kowloon, Hong Kong, China
+Email: dennis.wong@cityu.edu.hk
+Wong et al. 847
+strategies to prevent alarming incidents like the so-called Kit incident (name changed)
+from happening again. In 2003, Kit was a student in a secondary school in Hong Kong,
+and he was bullied on numerous occasions by a group of fellow students. On December 1,
+2003, the bullying situation escalated: Several students surrounded Kit, pushed him to
+the floor, and kicked him in the back, head, and—after turning him around—punched
+him in the face for more than a minute. The attackers only stopped when Kit started
+bleeding. Some students even recorded video clips of the assaults, and uploaded them
+to a website. The incident received substantial media coverage in Hong Kong, and most
+of the attackers were arrested on the following day. Many in Hong Kong regard criminal prosecution as an inappropriate approach to prevent such incidents from happening
+again, yet a substantial number of schools still do not know how to prevent and cope
+with bullying incidents.
+In 2000, shortly before the “Kit” incident, Wong and colleagues (Wong, 2004a;
+Wong et al., 2002; Wong & Lo, 2002) started the first Hong Kong–wide research on
+teachers’ and students’ perceptions of bullying. They collected data from 905 teachers and social workers (Wong & Lo, 2002) and 3,297 students from 29 secondary
+schools (Wong, 2004a). Another survey that collected data from 7,025 students from
+47 primary schools revealed that more than half of the students were involved in
+bullying—either as bystanders, bullies, or victims (Wong et al., 2002). They also identified several risk and protective factors: Children who were generally happy, emotionally stable, satisfied with their school performance, and accepted by classmates
+were less likely to be involved in bullying. In contrast, students who had contact with
+gangs and violent peers were more likely to be involved in types of bullying. In sum,
+risk factors include a prevailing youth culture that fosters school bullying, perceived
+strains at school, negative influences from peers, and poor psychosocial conditions,
+whereas protective factors, which limit the effects of bullying, relate to the perception
+of school harmony and regulatory strategies adopted by the schools (Wong, 2004a,
+2004b; Wong et al., 2002).
+In Hong Kong, research on the role of the family in the emergence of bullying
+behavior is still relatively sparse. One exception is a survey on parents’ perception
+toward school bullying by the Sham Shui Po Family Life Education Working Group
+(1999). In this study, 883 parents from several schools in Hong Kong were interviewed,
+and it was found that 37% of the parents were aware of their children being bullied at
+school. Nevertheless, this study had not explored the contribution of family factors to
+children’s bullying behavior. With regard to children’s responses to bully/victim problems at home, Wong et al. (2002) had asked the school children about whether they
+would contact their parents when bullied. Nearly two thirds of the respondents did not
+inform their parents about being bullied in schools. Furthermore, most of the respondents believed that they could resolve these conflicts by themselves (61%), and some
+expressed that they did not want to bring trouble on their parents (34%). Based on these
+few findings, it becomes apparent that not much effort has been devoted to study ways
+to prevent bullying behavior in school or families.
+848 International Journal of Offender Therapy and Comparative Criminology 55(6)
+The Restorative Whole-School Approach
+At a first glance, expelling bullies from school or calling in the police appears an intuitively appealing response, yet on second thought this does not represent an ultimate
+solution for the problem of bullying. In such an approach, bullies are reprimanded,
+parents are called, and suspensions are issued. However, assigning blame and individual accountability not only proves to be ineffective at resolving the conflicts but it
+exacerbates the deterioration of the relationship between bullies and victims: Often
+victims will hide the truth from authorities because bullies might take revenge (Olweus,
+1993, 1997; O’ Moore, Kirkham, & Smith, 1997; Morrison, 2002). An innovative and
+different strategy in working with school bullying is the Restorative Whole-school
+Approach (RWsA; V. Braithwaite, Ahmed, Morrison, & Reinhart, 2003; Hopkins, 2004;
+Morrison, 2002). The approach does not focus on short-term punishment but on building a long-term positive school environment to prevent bullying (Suckling & Temple,
+2002). The framework embraces intervention strategies and tactics for developing a
+shared ethos among all parties in schools in the concerted effort to develop an antibullying policy that becomes the school’s existing discipline policy, pastoral care policy,
+or code of conduct, building up quality relationships within the classroom, and providing support to students to strengthen their relationship with self and others. It aims at
+involving as many parties as possible to build up a peaceful learning environment for
+children, and at tackling risk factors conducive to bullying (Tattum & Tattum, 1996;
+Thompson, Arora, & Sharp, 2002). Based on the concept of restorative justice, the
+RWsA prioritizes repairing harm done to relationships over and above the need for
+assigning blame and dispensing punishment (Bazemore & Umbreit, 1997; Johnstone,
+2002; Wright, 1996; Zher, 1990).
+Van Ness and Strong (2006) identify three principles through which a restorative
+system can be constructed. First, it is required that victims, offenders, and the community can recover from the behavior or crime. Second, all parties should have the opportunity to be actively involved in the justice process as early and as fully as possible.
+Third, the relative roles and responsibilities of government and community in promoting justice, order, and peace need to be considered. That is, instead of applying rigid
+legal procedures to punish offenders, offenders should be appropriately shamed and
+held accountable for their wrongdoings through an informal, yet human and voluntary,
+process and at the same time making reparation to the victim. Similarly, previous
+research on the whole-school approach indicates that three specific goals have to be
+met (Arora, 1994; Limper, 2000; Olweus, 1993; Rigby, 1996; Roland, 2000; Thompson
+et al., 2002): (a) With support of the management and administration, a positive and
+mutually supportive environment in which students can learn safely and harmoniously
+has to be initiated; (b) an interactive curriculum has to be instituted, in which students
+can develop empathy, assertiveness, coping, and problem-solving strategies that can
+facilitate their anger and conflict resolution; (c) it is vital to encourage a sense of partnership among teachers, students, parents, and professional helpers.
+Wong et al. 849
+Taking restorative ideas and whole-school intervention tactics together, the RWsA
+calls for the involvement of all major parties in the school, notably teachers, bullies,
+victims, bystanders, and parents, to build up restorative circles and goals, a positive
+learning environment, and tackle risk factors that lead to bullying. It aims at breaking
+the vicious circle of bullying by providing a counterculture to bullying. In actual
+practice, Wong (2004a) suggested that as part of the RWsA, it is important to establish
+a set of long-term antibullying policies, procedures, and a curriculum that addresses
+bullying in school. It is also important to actively inform all parties of the existence
+and extent of the problem, and to train teachers, parents, and senior students in handling school bullying. Likewise, students should be provided with training opportunities to enhance their social skills and emotional control, and school counselors or
+social workers should offer specific antibullying programs. After a bullying incident,
+mediation meetings or restorative conferences are an appropriate tool to resolve conflicts between bullies and victims. To monitor the situation, surveys should be conducted, and special attention should be given to children coming from a difficult
+family background (e.g., child abuse). In a nutshell, the RWsA is an intervention
+inspired by the Norwegian bullying prevention program (Olweus, 1993) and Sheffield
+antibullying project in England (P. K. Smith & Sharp, 1994). It integrates ideas from
+whole-school approaches and restorative practices. The RWsA emphasizes victim
+support and empowerment, bully reintegration and social inclusion, school safety, and
+harmony. It advocates the rebuilding of a sense of community through restoring relationships between the three major parties: bullies, victims, and community members,
+such as teachers, parents, and bystanders. It also calls for an attentive school culture
+with intervention circles to build a peaceful community and solve problems through
+an ethos of care, justice, and restoration.
+Present Study
+Hong Kong schools are suffering from an increasing bullying problem; therefore, the
+development of an evidence-based, effective approach to prevent and tackle school
+bullying is of the utmost importance. The present study is aimed at contributing to the
+advancement of school counseling and social work practices as well as the development of RWsA, with the emphasis of impartial, nonjudgmental, and empathically
+positive discipline practices in schools. Overseas research (V. Braithwaite et al., 2003;
+Morrison, 2002) found that in using the restorative whole-school restorative practices
+at schools, students are surrounded by a community of care, and the issue of accountability and responsibility for wrongdoing becomes the focus for discussion and
+restoration. In the present study, we therefore investigated in a 2-year longitudinal (pre–
+post) design to see whether the implementation of an RWsA in a Hong Kong school
+could reduce the frequency of bullying. We adopted such a longitudinal design to compare
+the effectiveness of the RWsA among the intervention group, partial intervention group,
+and control group. We hypothesize that the intervention groups that received the RWsA
+treatment will exhibit a significant reduction of bullying, higher caring behavior and
+empathic attitudes, and higher self-esteem in comparison to the control group.
+850 International Journal of Offender Therapy and Comparative Criminology 55(6)
+Method
+Design of Study
+A range of activities were designed for participating schools by a team of professional social workers under the supervision of the first author. Before implementation
+of the RWsA intervention program, schools were presented with the concept of
+“restorative whole school approach.” On their willingness, they were provided with
+in-depth professional training in school harmony programs such as drafting antibullying policies, workshops and talks for parents, mediation services for resolving
+conflicts, peace education curriculum, students’ competitions relating to building a
+harmony school, and training programs for general office staff and janitors. Because
+of practical constraints (such as school curriculum and extracurricular activities),
+participating schools had the autonomy to implement the program to different
+degrees, which were then evaluated by the research team. Full implementation of the
+RWsA program lasted for 15 months. Eventually, one school was assessed to have
+fully implemented RWsA, two schools had partially implemented RWsA, and one
+school did not implement any of the RWsA activities (see appendix for the indicators
+of degrees of implementation of RWsA).
+Survey regarding the bullying condition and other attributes was administered
+before the implementation of the RWsA program to provide a baseline for pre–post
+comparison and to make sure there was no significant difference in the bullying
+condition among the participating schools. The survey was administered again after
+the intervention to allow for evaluation of the program effectiveness.
+Participants
+The sampling frame was based on the school list provided by the Education and Manpower Bureau of Hong Kong government. To reduce the confounding effect of
+academic achievements on student behavior, only schools of the middle band (i.e.,
+the middle 33% of academic ratings) were subject to the sampling. A total of 1,480
+Secondary 1 (equivalent to Grade 7 in high school) to Secondary 3 (equivalent to
+Grade 9 in high school) students from four different Hong Kong schools participated
+in the survey between September 2004 and August 2006. Sex ratio of respondents in
+all schools was about 1 to 1. The number of respondents studying in Secondary 1 and
+2 was similar, making a total of 70% to 78%, whereas Secondary 3 students accounted
+for a third of all participants. About 85% of the respondents fell in the age group
+between 12 and 14 years.
+Instrument
+The survey questionnaires consisted of three sections. The first section (41 items)
+was an attitude survey asking about students’ self-esteem and their ratings on students’ aggressive or inappropriate assertive behavior, quality of school life (including
+sense of belonging to school), perceptions/attitudes toward teacher, and school
+Wong et al. 851
+harmony. Items in this section were in a 6-point Likert-type scale (1 = definitely
+strongly disagree to 6 = definitely strongly agree). The second section (20 items)
+consisted of a self-report of students’ actual behavior in the past month, including
+bullying (physical, verbal, exclusion, extortion) and caring or helping behaviors. The
+response format allowed choices between four frequency levels, that is, never, once
+or twice, sometimes (three or four times), and frequently (five or more times). All
+measuring scales in these two sections were found to possess acceptable to high internal consistency reliability, with Cronbach’s a ranging from .66 to .94 (see Table 1).
+The final section was to collect demographic information such as gender, age, level
+of study, people living with, and place of residence. The questionnaire was administered in the Chinese language. Informed consent was received and participants were
+assured of their anonymity and confidentiality.
+Self-esteem. Student’s self-esteem was measured with the General Self subscale of
+the Chinese Adolescent Self-Esteem Scales (CASES; The Education and Manpower
+Bureau, 2003a; Cheng & Watkins, 2000). The scale consists of eight items designed
+to assess Chinese adolescent’s sense of self-worthiness (e.g., “I have full confidence
+in myself”). The self-esteem scale has high internal consistency reliability (Cronbach’s a = .85).
+Hurting others. The Inappropriate Assertiveness subscale of the Matson Evaluation
+of Social Skills for Youngsters (Matson et al., 1983, cited in The Education and Manpower Bureau, 2003b) was adopted to measure this domain. The scale is composed
+of six items (e.g., “I hurt other’s feeling on purpose”). The scale has high internal
+consistency reliability (Cronbach’s a = .86).
+Lack of empathy. The Inappropriate Assertiveness subscale of the Matson Evaluation of Social Skills for Youngsters (Matson et al., 1983, cited in The Education and
+Table 1. Descriptive Statistics and Internal Consistency Reliability of Measurement Scales
+Scale Items n M SD Cronbach’s a
+Bullyinga 12 1,125 1.44 0.431 .849
+Hurting othersb 6 1,156 2.19 0.898 .858
+Lack of empathyb 5 1,150 2.77 0.977 .711
+Caring behaviora 8 1,132 2.36 0.588 .776
+Self-esteemb 8 1,139 4.04 0.956 .853
+Level of school harmonyb 7 1,143 4.02 0.850 .729
+Sense of belongingb 5 1,141 3.86 0.913 .660
+Positive perception toward teachersb 10 1,123 4.29 1.007 .940
+a. Four-point scale: 1 = never, 2 = occasionally (once or twice), 3 = sometimes (three or four times), 4 = frequently (five or more times).
+b. Six-point scale: 1 = definitely strongly disagree, 2 = strongly disagree, 3 = disagree, 4 = agree, 5 = strongly
+agree, 6 = definitely strongly agree.
+852 International Journal of Offender Therapy and Comparative Criminology 55(6)
+Manpower Bureau, 2003b) was adopted to measure this domain. The scale is composed
+of five items (e.g., “I make fun of others”). The internal consistency reliability of the
+scale is acceptable (Cronbach’s a = .71).
+Sense of belonging. The Teacher Student Relationship subscale of the Quality of
+School Life scale (William & Battern, 1981, cited in The Education and Manpower
+Bureau, 2003b) was adopted to measure the sense of belongingness to school. The scale
+consists of five items (e.g., “I like to study here”). The internal consistency reliability
+of the scale is acceptable (Cronbach’s a = .66).
+Positive perception toward teachers. Items measuring positive perception toward
+teachers from the Quality of School Life (William & Battern, 1981, cited in The Education and Manpower Bureau, 2003b) were adopted to measure the student’s positive
+perception toward teachers. The scale is composed of 10 items (e.g., “My school has a
+group of dedicated teachers”). The scale has a rather high internal consistency reliability (Cronbach’s a = .94).
+Level of school harmony. The Level of School Harmony scale (Wong, 2004a) was
+constructed to measure students’ harmonious level to school. The scale comprises
+seven items (e.g., “I feel happy while I am studying in this school”). The scale has
+acceptable internal consistency reliability (Cronbach’s a = .73).
+Bullying behavior. Twelve items from the Life in School Checklist (Arora &
+Thompson, 1987; Thompson et al., 2002) were adopted to measure physical, verbal,
+exclusive, and extortion bullying. Respondents were asked to report whether and
+how many times (none, once or twice, three to four times, five or more times) they
+have done such bullying behaviors over the past month in school. Examples of bullying behaviors include “throwing objects to others” (physical bullying), “verbally
+threatening or intimidating others” (verbal bullying), “taking away objects from
+other people” (extortion bullying), and “stopping someone to play with others”
+(exclusion bullying). The bullying scale has a high internal consistency reliability
+(Cronbach’s a = .85).
+Caring behavior. Eight items from the “Life in School Checklist” (Arora & Thompson,
+1987; Thompson et al., 2002) were included to measure respondents’ positive behavior, such as caring or helping others. Respondents were asked to report whether and
+how many times (none, once or twice, three to four times, five or more times) they
+have done these positive behaviors over the past month in school. Internal consistency
+reliability was quite high (Cronbach’s a = .78).
+Results
+Bullying Conditions at Participating Schools
+Baseline statistics were obtained before implementation of the RWsA program. It was
+found that all participating schools did not have significant difference in bullying
+(overall and domain specific) before the RWsA program began; all comparison tests
+Wong et al. 853
+were nonsignificant (p > .05), suggesting that interpretation of postprogram differences between schools should be valid. On a whole, about 36% of students have
+exhibited at least some degree of bullying behaviors before the program, with about
+3.5% of students having bullied others at least three or more times within a month. The
+most common kind of bullying was verbal bullying (56%), followed by exclusion
+(29%), physical bullying (28%), and least frequently, extortion (22%).
+Regarding the postintervention conditions (or nil intervention for the non-RWsA
+school), students at the non-RWsA school were found to have more bullying behavior
+and negative attitudes (e.g., hurting others, lacking empathy) but less positive behaviors/attitude (e.g., caring behavior, positive perspective to teachers, harmony in school,
+sense of belonging). These findings suggest that bullying and other negative attitudes
+were higher at the non-RWsA school, whereas there were less positive behaviors such
+as caring behavior, positive perception toward teachers, and sense of belonging to
+school (see Tables 2 and 3).
+Pretest–Posttest Comparison of Bullying Behavior and Other Attitudes
+To analyze the change after the whole-school intervention program, we have adopted
+a within-subject comparison framework. This approach has eliminated unnecessary
+potential “noise” coming from individual differences or sampling bias from different
+schools. From the 1,480 participating students, 1,176 participants were successfully
+matched for within-subject pretest–posttest comparison. For analysis of bullying
+condition, we have reported both the bullying scale scores and the percentages of students engaging in bullying behavior to indicate the levels of bullying. For other
+variables (e.g., level of school harmony, self-esteem), only scale scores were used
+because of the fact that they were about attitude or opinion ratings rather than actual
+behaviors. Reduction (or increase) of bullying was indicated by the sign of the difference score between pretest and posttest, such that a positive value would indicate a
+drop in bullying whereas a negative value would indicate a rise in bullying. For example, a student reporting a pretest score of 4 (bullying five or more times in past month)
+and a posttest score of 2 (i.e., bullying once or two times in past month) would have a
+difference score of +2, suggesting that he or she had a reduction of bullying. For estimation of treatment effect, effect size (ES) was calculated, where ES = ZD/√n, in
+which ZD was the standardized score of the pairwise difference between pretest and
+posttest (Rosenthal, 1994).
+As shown in Table 2, it was found that bullying dropped significantly in the
+RWsA school (t = 3.41, p < .001, ES = .18) and partial RWsA schools (t = 2.40,
+p < .05, ES = .10). On the contrary, bullying at the non-RWsA school was worsening
+over the period as indicated by the negative t value (t = –.25, p < .01, ES = .19).
+When percentage was concerned, it was found that almost half (49.9%) of students
+who had bullied others at the RWsA school had reduced their bullying behaviors.
+Oppositely, 51% of students at the non-RWsA school had increased their bullying
+854 International Journal of Offender Therapy and Comparative Criminology 55(6)
+behaviors. Similar trends were found in other bullying scales, that is, dropping at the
+RWsA and partial RWsA schools but rising at the non-RWsA school. Most notably, reduction of exclusion bullying at the two intervention groups were highly
+significant (ES = .22 to .24), whereas the increase of bullying at the non-RWsA
+school was most significant in the verbal bullying domain (ES = .22), followed by
+extortion bullying and physical bullying (ES = .18 and .16, respectively). In short,
+Table 2. Pretest–Posttest Differences in Bullying Behaviors by Participating Schools
+Scale Samplea
+Pretest,b
+
+M (SD)
+Posttest,b
+
+M (SD)
+Percentage bullying
+changec
+Paired
+t test
+Effect
+sized Reduction Increase
+Bullying
+(overall)
+RWsA
+Partial
+RWsA
+1.40 (0.39)
+1.45 (0.42)
+1.33 (0.32)
+1.40 (0.38)
+49.9
+46.4
+32
+40.9
+3.41***
+2.40*
+.182
+.102
+NonRWsA
+1.48 (0.49) 1.59 (0.54) 33.9 51.1 –2.55* .187
+Physical
+bullying
+RWsA
+Partial
+RWsA
+1.32 (0.46)
+1.38 (0.52)
+1.22 (0.38)
+1.38 (0.51)
+33.6
+29.8
+20.9
+29.3
+3.05**
+–0.02 (ns)
+.160
+.001
+NonRWsA
+1.47 (0.63) 1.59 (0.71) 26.5 38.3 –2.26* .157
+Verbal
+bullying
+RWsA
+Partial
+RWsA
+1.70 (0.62)
+1.74 (0.64)
+1.65 (0.55)
+1.72 (0.57)
+38.8
+36.8
+34.7
+38.2
+1.53 (ns)
+0.79 (ns)
+.080
+033
+NonRWsA
+1.76 (0.67) 1.94 (0.75) 28.9 47.1 –3.20* .224
+Exclusion
+bullying
+RWsA
+Partial
+RWsA
+1.32 (0.48)
+1.38 (0.52)
+1.19 (0.37)
+1.25 (0.44)
+33.7
+21.3
+16.2
+19.8
+4.48***
+5.33***
+.236
+.221
+NonRWsA
+1.42 (0.59) 1.14 (0.60) 19.3 26.7 0.20 (ns) .014
+Extortion
+bullying
+RWsA
+Partial
+RWsA
+1.28 (0.42)
+1.31 (0.47)
+1.25 (0.37)
+1.28 (0.42)
+38.3
+29.3
+23.3
+26.1
+1.45 (ns)
+1.48 (ns)
+.076
+.062
+NonRWsA
+1.34 (0.51) 1.46 (0.62) 24.1 33.5 –2.55* .179
+Note: RWsA = Restorative Whole-school Approach.
+a. n (RWsA) = 353 to 361; n (Partial RWsA) = 550 to 584; n (Non-RWsA) = 186 to 206.
+b. Scale of measurement: four-point scale, where 1 = never, 2 = once or twice, 3 = sometimes (3 or 4 times),
+4 = frequently (5 times or more).
+c. Percentage change based on number of students committing bullying at different schools.
+d. Effect size index (r) = ZD/√n, where ZD = standardized score of pretest–posttest difference.
+*p < .05. **p < .01. ***p < .001.
+Wong et al. 855
+bullying at the intervention schools was dropping significantly (with ES ranging
+from .16 to .24), but bullying at the nonintervention school was worsening (ES
+ranging from .16 to .22; see Table 2).
+Changes on other variables also displayed a similar pattern (see Table 3). For example,
+self-esteem rose considerably at the RWsA school (t = –.40, p < .001, ES = .21), whereas
+lack of empathy dropped slightly (t = 2.35, p < .05, ES = .12) over the period at the RWsA
+school. No significant difference in other domains was found at the RWsA school (p >
+.05). On the contrary, most indicators of a positive school culture (i.e., harmony school,
+positive perception toward teachers, sense of belonging to school) at the non-RWsA
+school dropped substantially and significantly (p < .01 or .001), but there was no change
+on self-esteem, lacking empathy, or hurting others (all p > .05).
+In short, positive effects were notable at the RWsA school and to some extent
+observed at the partial-RWsA school, both in terms of bullying scale or other scale
+Table 3. Pretest–Posttest Differences on Other Variables by Participating Schools
+Scale Samplea
+Pretest,b
+
+M (SD)
+Posttest,b
+M (SD)
+Paired
+t test
+Effect
+sizec
+Hurting others RWsA 2.13 (0.82) 2.14 (0.82) -.10 (ns) .000
+Partial RWsA 2.17 (0.89) 2.36 (0.85) -5.04*** .205
+Non-RWsA 2.34 (1.03) 2.43 (1.04) -1.09 (ns) .077
+Lack of empathy RWsA 2.67 (0.92) 2.54 (0.96) 2.35* .122
+Partial RWsA 2.76 (0.98) 2.78 (0.90) -.50 (ns) .000
+Non-RWsA 2.94 (1.01) 2.92 (1.11) .233 (ns) .000
+Caring behavior RWsA 2.47 (0.55) 2.45 (0.55) .74 (ns) .045
+Partial RWsA 2.36 (0.58) 2.23 (0.54) 4.78*** .197
+Non-RWsA 2.19 (0.60) 2.33 (0.66) -3.15** .219
+Self-esteem RWsA 3.99 (0.98) 4.19 (0.90) -4.00*** .210
+Partial RWsA 4.07 (0.94) 4.11 (0.86) -1.02 (ns) .045
+Non-RWsA 4.00 (0.94) 4.11 (0.85) -1.50 (ns) .105
+Level of school
+harmony
+RWsA
+Partial RWsA
+4.19 (0.87)
+3.99 (0.82)
+4.27 (0.78)
+3.92 (0.78)
+-1.56 (ns)
+2.00*
+.084
+.084
+Non-RWsA 3.77 (0.81) 3.44 (0.83) 4.99*** .335
+Sense of belonging RWsA 3.92 (0.88) 3.96 (0.84) -.83, ns .045
+Partial RWsA 3.87 (0.94) 3.67 (0.81) 4.81*** .197
+Non-RWsA 3.76 (0.87) 3.37 (0.88) 5.10*** .341
+Positive perception
+toward teachers
+RWsA
+Partial RWsA
+4.39 (0.93)
+4.32 (1.01)
+4.31 (0.93)
+3.98 (0.91)
+1.51 (ns)
+6.98***
+.084
+.288
+Non-RWsA 4.07 (1.08) 3.66 (1.05) 4.23*** .295
+Note: RWsA = Restorative Whole-school Approach.
+a. n (RWsA) = 353 to 361; n (Partial RWsA) = 550 to 584; n (Non-RWsA) = 186 to 206.
+b. Scale of measurement: six-point scale, where 1= definitely strongly disagree to 6 = definitely strongly agree.
+c. Effect size index (r) = ZD/√n, where ZD = Standardized score of pretest–posttest difference.
+*p < .05. **p < .01. ***p < .001.
+856 International Journal of Offender Therapy and Comparative Criminology 55(6)
+scores or actual student number committing bullying behaviors, whereas the opposite
+was true for the non-RWsA school. Although bullying behavior was tackled, it did
+not entail the vicious cycle of bullying but rather enhanced an ethos of positive culture at school and boost up students’ self-esteem at the same time. Interestingly,
+what we found in the partial RWsA sample were rather piecemeal. In the partial
+RWsA settings, bullying behavior was reduced a little (but not as much as the full
+RWsA), but on the other hand both the positive school culture and caring behavior
+were lowered, whereas no change was found in personal self-esteem. This could
+probably be the case that the following important components of the RWsA were
+only partially implemented, perhaps because of the attitudes of the school authority: Educate bystanders to take appropriate responsibility to help potential victim or
+bully to develop empathetic intelligence, and increase on the magnitude of teachers’ knowledge and skills in restorative practice (see appendix). These results indicated that the partial interventions might have some effects in decreasing bullying,
+but its effect was not as strong and comprehensive as the full RWsA. This may suggest that if the participating schools were not implementing the RWsA in a comprehensive and concerted manner, the effects of the intervention program could be
+reduced markedly.
+Discussion
+Knowing that the problem of bullying is a complicated issue characterized by a “cycle
+of revenge,” there is no denying that we should try and break the cycle by concerted
+efforts like the RWsA. Surely, whole-school intervention has multiple components
+that operate simultaneously at different levels in the school community. J. D. Smith,
+Schneider, Smith, and Ananiadou (2004) have examined 14 recent evaluation studies
+on whole-school programs published between 1989 and 2003 around the world. They
+found that majority of the programs evaluated have yielded nonsignificant outcomes
+on measures of self-reported victimization and bullying, and only a small number
+have yielded positive outcomes. Regarding self-reported bullying outcomes, for
+example, 92% of studies were negligible or negative. Considering only the best intervention effects, 67% of studies revealed small effect sizes for victimization outcomes
+and the remaining revealed negligible effects. However, as J. D. Smith and colleagues
+(2004) have observed, “a confounding issue is the effect that sensitization to information about bullying can have on students’ reports of their experiences of bullying.
+Anti-bullying programs obviously increase awareness of the phenomenon, which may
+cause students to more frequently report bullying incidents at school and essentially
+mask a positive effect of the whole-school program” (J. D. Smith et al., 2004, p. 557).
+In sum, they have asserted that programs in which more attention is devoted to interventions that address the broader aspects of school climate, and that systematically
+monitor implementation (e.g., through a dedicated staff member), tended to be more
+effective than programs without monitoring.
+Wong et al. 857
+The present action research project, however, shows a significant reduction of bullying behavior, and an increase in empathic attitudes in the intervention group as compared to the control group. Bearing in mind that a heightened awareness of bullying and
+bullying behavior amongst students might have led to an elevation in levels of reporting
+(O’ Moore & Minton, 2005; P. K. Smith & Sharp, 1994), the finding of a reduction in
+bullying in the current study confirms that the full implementation of RWsA can be
+effective.
+Several factors seemed to be noted from observing the actual implementation of
+restorative whole-school strategies to counter bullying. First, school management, in
+particular, the principal or head teacher, has a cooperative and welcoming attitude to
+adopting the RWsA for dealing with bullying. The school has a clear restorative goal
+and detailed guidelines in dealing with bullying. This is something related to the
+maintenance of the school ethos of building a harmonious school climate. Second,
+collegiality among teachers and staff in school in building a harmonious school
+seemed to be very important. An effective program must involve professional training for teachers. Teachers’ knowledge and skills in using restorative practices for
+resolving the bully–victim problems have to be enhanced before a full implementation of the RWsA. Third, involvement of students seemed to be of prime importance
+too. We witnessed that the intervention school paid great emphasis on raising awareness of negative impacts of school bullying. We noticed that the intervention school
+has taught students to adopt rational ways for resolving conflicts through formal curriculum and educated bystanders to take appropriate responsibility during school
+assemblies. We also found that the intervention school did train senior students as
+peer mediator and provided training to students through restorative education curriculum. Fourth, with a whole-school approach, parents should also be involved. The
+intervention school has heavily involved the parent–teacher association in running
+talks and organizing workshops for parents (see appendix). The above factors perhaps could, to some extent, explain the contrasting results in reducing bullying and
+promoting positive life attitudes between the intervention and control groups. Our
+research data seem to suggest that the intervention group, where there was a high
+level of support from the school management and where programs had been implemented thoroughly and consistently, had maintained a reduction in the level of bullying. Our findings are in line with results of research conducted overseas (Olweus,
+1993; Roland, 2000; Tattum, 1997).
+This study further found that efforts devoted to enlighten teachers in using restorative practices and train up students as peer mediator in the Intervention Group were
+much greater than that in the Partial Intervention Groups (appendix). This indicates
+that any effective intervention strategy should gear toward full involvement of teachers and students themselves and adopt restorative practices in resolving the conflicts.
+By means of restorative practices, teachers and students are taught to adopt restorative problem-solving skills such as holding a restorative conference to help bullies
+858 International Journal of Offender Therapy and Comparative Criminology 55(6)
+understand the harm done to others, accepting responsibility for their own actions, and
+making amends for harm caused. Restorative practices are being increasingly regarded
+as attractive options for dealing with bullying in schools. They focus on maintaining
+and strengthening social bonds to prevent pupils, either bullies or victims, from feeling isolated from or rejected by the school community (V. Braithwaite et al., 2003;
+Morrison, 2002).
+The current study may help to shed light on the question of whether restorative
+practices may be compatible with the Chinese culture in Hong Kong, which appears
+plausible as they emphasize collective values, and the restoration of interpersonal harmony. Based on our direct observation, in running the restorative conference at the
+intervention schools, the child is surrounded by a community of care, the issue of
+accountability and responsibility for wrongdoing becomes the focus for discussion
+and restoration. It really helps the bullies and victims to recover. Our results are in line
+with similar findings (Hopkins, 2004; Morrison, 2007; Wong, 2000, 2004b) that
+restorative practices are effective for resolving bullying because the practices are
+based on values such as respect, openness, empowerment, inclusion, tolerance, integrity, and congruence. The skills that develop from these values include remaining
+impartial and nonjudgmental, respecting the perspective of all involved, actively and
+empathically listening, developing rapport among participants, and empowering participants to come up with solutions. The skills were noted while we were observing the
+restorative practices in the intervention school.
+Another point not to be overlooked is that the successful RWsA programs might
+be related to the degree of buying in and teachers’ devotion in running the RWsA
+programs. Based on the direct observations of the research team, we found that the
+school personnel involved in running the RWsA programs in the Partial Intervention
+Group have not implemented the planned programs wholeheartedly. This research
+finding further sheds light on the concerted effort in implementing the RWsA of the
+present study. It seems that should the school possess a team of more pro-RWsA
+personnel, other parties such as parents and students in the school might be more
+active and motivated in participating in the RWsA programs. If this is the case, more
+attention might be devoted to early interventions that address the broader aspects of
+school involvement such as the “buying-in” strategies. Research literature has
+clearly pointed out that continued success of antibullying programs is highly related
+to the priority given to restorative practices and the whole-school approach by the
+schools and their senior management (Morrison, 2007; P. K. Smith, Sharp, Eslea, &
+Thompson, 2004).
+Although the observational data provide insights into the effectiveness of a
+restorative whole-school approach in high schools, we recognize that there are also
+limitations to the research. First, there were two schools in the partial intervention
+group that had only moderately implemented the RWsA. Findings suggested that
+there were no significant changes in bullying behavior and some other research
+Wong et al. 859
+domains. There comes a question of what had gone wrong. The reasons might be
+related to the following. Without an extensive implementation of the RWsA, we
+could not expect total effectiveness of programs in schools that only partially implemented the approach. The total number of months between pretest and posttest was
+only 15 months. The effectiveness (if any) may not be able to emerge over such a
+short period of time. Second, it is discovered that the baseline of research indicators
+such as bullying behavior, caring behavior, empathy, and sense of belonging were
+not the same among all the participating schools. Thus, another point that we might
+have overlooked was that the results observed in the intervention group could be due
+to its high baseline of school harmony before receiving any program treatments
+(J. D. Smith et al., 2004). Third, as the extent of participation of RWsA was negotiated with and agreed by the schools during the research process, it is not clearly
+defined how the intervention group is different from the partial intervention group.
+In other words, the key difference between the two intervention models should be
+systematically identified in future research.
+Conclusion
+A restorative whole-school approach involving such components as peace education,
+mediation of conflict, and reintegrative shaming of bullies was shown to significantly
+decrease reports of bullying and increase self-esteem for an intervention compared to
+control school. Although grounded in a school-based action research project, this
+study shows researchers as willing to cross epistemological boundaries with a quantitative and quasi-experimental intervention to produce the desired outcome of
+reducing bullying and increasing student self-esteem in high schools. The present
+study has established a research procedure for implementing RWsA interventions and
+evaluating the effectiveness scientifically. Nevertheless, whether the present restorative whole-school model can also produce continued success on antibullying work
+in promoting caring behavior and positive change in attitudes related to school harmony is not entirely clear. As the present study has only covered a fieldwork period
+of 15 months, without further follow up surveys, we are not sure about the long-term
+effect of RWsA on student bullying behavior and other indicators related to school
+harmony. One thing that we can be sure of is that effective strategies for tackling bullying must be long-term enough and shared by all parties in the schools. An effective
+restorative whole-school project must be closely monitored and have the wholehearted support from senior management of the school. It is also interesting to note
+that the success of the present research project relates to the good cooperation of the
+participating schools. Given the results of the present study, there seems to be a need
+to further develop a more systemic restorative whole-school approach, and compare
+the overall effectiveness of the approach on school bullying with a longer period of
+study, in the future.

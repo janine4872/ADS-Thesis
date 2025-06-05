@@ -1,0 +1,342 @@
+ABSTRACT
+Objective: To evaluate the effect of a preventative intervention in Jamaican basic schools on child
+behaviour and parent-teacher contacts.
+Design and Methods: Five basic schools in Kingston, Jamaica, were randomly assigned to an
+intervention (n = 3) or control (n = 2) condition. Intervention involved seven whole-day teacher
+workshops using the Incredible Years Teacher Training Programme supplemented by fourteen lessons
+on social and emotional skills in each class. Within each classroom (n = 27), children were screened
+for behaviour difficulties through teacher report and children with the greatest difficulties were selected
+for evaluation of outcomes (135 children). Teachers’reports of child behaviour using the Strengths and
+Difficulties Questionnaire and of the quality of teacher-parent contacts were collected at the beginning
+and end of the school year. Multilevel regression analyses controlling for school and classroom were
+used to evaluate the effects of intervention on child behaviour.
+Results: Significant benefits of intervention were found for children’s conduct problems (regression
+coefficient (b) = -0.62, 95% confidence interval (CI): -0.01, -1.23), hyperactivity (b = -0.84, 95% CI:
+-1.57, -0.11) and peer problems (b = -1.24, 95% CI: -1.89, -0.59).
+The effect sizes were 0.26 for conduct problems, 0.36 for hyperactivity and 0.71 for peer
+problems. No significant benefits were found for the prosocial and emotional problems subscales. The
+intervention also resulted in increases in the number of positive teacher-parent contacts (p < 0.0001).
+No benefits were found for the number of negative teacher-parent contacts.
+Conclusion: This is a promising approach for reducing children’s externalizing behaviour and peer
+problems and for improving the quality of teachers’ contacts with parents of children with behaviour
+problems.
+Prevención de los Problemas de Comportamiento a Través de una Intervención
+Universal en las Escuelas Preescolares de Jamaica
+Un Estudio Piloto
+H Baker-Henningham1, SP Walker2, C Powell
+2, J Meeks Gardner3
+RESUMEN
+Objetivo: Evaluar el efecto de una intervención preventiva en el comportamiento de los niños y los
+contactos entre padres y maestros en las escuelas preescolares de Jamaica.
+Diseño y Métodos: Cinco escuelas preescolares en Kingston, Jamaica, fueron asignadas de manera
+aleatoria a una intervención (n = 3) o condición de control (n = 2). La intervención comprendió siete
+talleres de maestro el día entero, usando el Programa de Entrenamiento de Maestros “Años
+Increíbles”, complementado por catorce lecciones sobre habilidades sociales y emocionales en cada
+clase. Dentro de cada aula (n = 27), se realizó un pesquisaje de niños en busca de dificultades en la
+conducta a través del informe del maestro, y los niños con las mayores dificultades fueron
+seleccionados para la evaluación de resultados (135 niños). Informes de los maestros sobre la
+conducta de los niños – realizados mediante el Cuestionario de fortalezas y dificultades, y sobre la
+From: 1Department of Educational Studies, The University of the Westa
+Indies, Kingston 7, Jamaica, 2Epidemiology Research Unit, TMRI, and
+3Caribbean Child Development Centre, Open Campus, The University of the
+West Indies.
+Correspondence: Dr H Baker-Henningham, Epidemiology Research Unit,
+TMRI, The University of the West Indies, Kingston 7, Jamaica, West Indies.
+Fax (876) 927-2984, E-mail:helen.henningham@uwimona.edu.jm
+461
+calidad de los contactos entre maestros y padres – fueron recogidos al inicio y al final del año escolar.
+Análisis de regresión multinivel para el control de la escuela y el aula, fueron usados para evaluar los
+efectos de la intervención sobre el comportamiento de los niños.
+Resultados: Se hallaron beneficios significativos para los problemas de la conducta de los niños
+(coeficiente de regresión (b) = -0.62, 95% intervalo de confianza (IC): -0.01, -1.23), hiperactividad
+(b = -0.84, 95% IC: -1.57, -0.11) y problemas con los iguales (b = -1.24, 95% IC: -1.89, -0.59).
+Los tamaños de efecto fueron 0.26 para los problemas de conducta, 0.36 para la hiperactividad
+y 0.71 para los problemas de iguales. No se hallaron beneficios significativos para las subescalas de
+problemas prosociales y emocionales. La intervención también trajo como resultado aumentos en el
+número de contactos positivos entre maestros y padres (p < .0001). No se hallaron beneficios para el
+número de contactos negativos maestros-padres.
+Conclusión: Este trabajo representa un abordaje prometedor a la hora de reducir la conducta
+externalizadora de los niños y los problemas de iguales, así como para mejorar la calidad de los
+contactos entre los maestros y los padres de los niños con problemas de conducta.
+West Indian Med J 2009; 58 (5): 461
+Baker-Henningham et al
+INTRODUCTION
+Children’s behaviour problems emerge early in life and predict a range of negative outcomes in later life including
+conduct disorder, academic under-achievement, school dropout, substance abuse and continuing psychiatric disorders in
+adulthood (1).
+Schools provide a logical setting for implementing
+preventative interventions. Meta-analyses and systematic
+reviews of school-based violence prevention programmes
+report overall positive effects on children’s aggressive and
+disruptive behaviour (2, 3). The benefits of school-based
+programmes starting in early childhood have been sustained
+until the end of primary school (4) and into late adolescence
+(5). Benefits to participants have also been reported in early
+adulthood including fewer drug and alcohol abuse disorders,
+reduced rates of cigarette smoking, less antisocial personality
+disorder (6) and better educational and economic attainment
+and mental and sexual health (7). The majority of schoolbased violence prevention programmes have been conducted
+in the United States of America (USA) and it is important to
+determine if these interventions can be effective when used in
+a different cultural and economic context.
+Jamaica has a high prevalence of violent crime and increasing numbers of aggressive and violent incidents among
+school-aged children. In a survey of 5 to 6 year old Jamaican
+children, the prevalence of externalizing disorders was 12%
+and none had received assistance for their behaviour
+problems (8). The prevalence of behaviour problems is likely to be substantially higher in low-income, inner-city areas
+(9). Over 98% of young Jamaican children are enrolled in
+pre-school institutions and hence interventions implemented
+in these settings provide the potential for almost universal
+coverage. We previously reported that a preventative intervention in basic schools, aimed at reducing conduct problems
+and promoting social and emotional competence, benefitted
+observed teachers’ practices and ratings of classroom
+atmosphere and children’s classroom behaviour (10). In this
+paper, we report the effect of the intervention on the
+behaviour of children at higher risk for developing conduct
+problems and the quality of teacher-parent contacts.
+METHODS
+Study Design and Sample
+Five pre-schools were selected to participate in the study.
+Two schools served a wide catchment area, included children
+from lower and lower middle class families and each class
+had a separate room. The other three schools were situated
+in violence prone inner-city communities, served children
+from predominantly low socio-economic backgrounds and
+the classrooms were divided by chalkboards. Two of these
+schools were small and situated near each other and for the
+purpose of randomization were classified as one school. The
+schools were matched by type and one school from each pair
+was randomly allocated to intervention or control condition.
+Three schools (comprising 15 classrooms) were allocated to
+the intervention and two schools (comprising 12 classrooms)
+were allocated to the control condition.
+Children with high initial levels of conduct problems
+have generally been found to benefit most from school based
+preventative interventions (11, 12) and hence a subsample of
+children identified by their teachers as having behaviour
+problems were evaluated. An interviewer-administered
+screening questionnaire was conducted with each class
+teacher in all study schools four weeks after the start of the
+school year. For each child in their class, teachers were asked
+to indicate whether or not they had behaviour difficulty
+defined as “Child has some difficulty with behaviour (for
+example, fighting, disrupting the class), paying attention (including, often out of seat, not doing their work, not listening
+to teacher) and/or getting along with other children.” This
+definition was based on the ‘Is there a problem?’ question on
+the Strengths and Difficulties questionnaire (13).
+Information was collected for all children attending the
+five schools (n = 594) and 27.8% (165) of the children had a
+462
+teacher-reported behaviour difficulty, with a mean (SD) of
+6.1 (2.4) children in each class. If a teacher identified more
+than six children, they were asked to nominate the six children with the highest levels of problem behaviour. Parental
+consent was not obtained for 13 children (six refusals and
+seven did not return consent forms) and these children were
+replaced by other children from the same class who had been
+identified as having a behaviour problem and for whom
+parental consent was obtained. A total of 135 children were
+included in the evaluation – 69 children from the intervention
+schools and 66 from the control schools. Six children (4.4%)
+were lost to follow-up, two from the intervention group and
+four from the control group. Nearly two-thirds of the children who were evaluated were boys – 66.7% (44) in the
+control group and 63.8% (44) in the intervention group.
+Ethical approval for the study was given by The
+University of the West Indies/University Hospital of the West
+Indies Ethics Committee. Written informed consent was
+obtained from all teachers and all parents of children
+included in the evaluation.
+Measurements
+Child behaviour at school
+Child behaviour was measured by teacher report using the
+Strengths and Difficulties Questionnaire (SDQ) at the beginning and end of the school year. The SDQ consists of 25
+questions, divided into 5 subscales: conduct problems, hyperactivity, emotional problems, peer problems and pro-social
+behaviours (13). Test retest reliabilities (Intraclass correlation coefficients) for 22 children over 2 weeks were between
+0.80 and 0.85 for all subscales.
+Quality of teacher-parent contacts
+At baseline and follow-up, teachers were also asked about
+contacts they had with parents of the selected children during
+the past week. If the teacher reported a contact, they were
+asked to describe it and it was rated as positive (for example,
+praise of the child), neutral (for example, greeting, routines)
+or negative (for example, criticizing the child). The numbers
+of positive and negative contacts were used in the analysis.
+One interviewer administered the SDQ and teacherparent contact questionnaires and interobserver reliabilities
+with the trainer was > 0.95 on 10 consecutive interviews
+prior to the start of the study. The interviewer was unaware
+of the children’s group allocation.
+The Intervention
+The intervention was based on the Incredible Years (IY)
+Teacher Training Programme and aspects of the IY Child
+Training Programme (14) and was delivered on a school wide
+basis. The IY Teacher Training curriculum includes modules
+on partnering with parents, developing positive relationships
+with children, preventing and reducing inappropriate behaviour and teaching social and emotional skills. A collaborative training process is used and teachers are
+encouraged to work together to solve their own and each
+other’s problems relating to child behaviour and classroom
+management. The curriculum was delivered to all teachers in
+the intervention schools over seven full days of training, once
+a month from October to April. In addition, an individual
+consultation session was conducted once a month with each
+teacher in his/her classroom.
+Fourteen lessons were conducted by the first author or
+a research assistant from January to May, in collaboration
+with the class teacher, for all children in the class. During
+these lessons, teachers were exposed to an apprenticeship
+style of learning and gained additional support in implementing the strategies taught during the workshops in their
+own classroom context. The lessons covered the following
+concepts drawn from the IY Dina Dinosaur Classroom Curriculum: 1) learning the school rules, 2) understanding
+emotions, 3) anger management and 4) friendship skills.
+Each lesson lasted approximately 30–40 minutes and
+consisted of a circle time discussion and a follow-up activity.
+Follow-up activities included art activities, bingo and structured play sessions to practice friendship skills. The activities were designed to use materials that were readily
+available in the basic school classrooms (eg modelling clay,
+bottle stoppers) and in addition, each school was provided
+with a small amount of additional resources (eg building
+blocks, manipulatives and puppets). The class teachers were
+asked to review the concepts taught by the research team
+during the week and they were also coached on how to promote children’s use of the skills throughout the school day.
+The control schools were provided with an equivalent
+amount of additional resources at the beginning of the school
+year and the teachers were visited bimonthly by a member of
+the research team. At the end of the study, teachers in the
+control schools received two days of training using the
+Incredible Years teacher training programme.
+Analysis
+Data were entered into SPSS and checked independently and
+imported into MLWin for multivariate analysis. The effect of
+treatment on child SDQ subscale scores was examined on an
+intention to treat basis using multilevel multiple regression
+analyses to take into account the hierarchical structure of the
+study. School was entered as a random variable at level three
+and classroom was entered as a random variable at level two
+to account for the variance among classrooms and schools.
+In the fixed part of the model (Level 1), the dependent variable was the final child SDQ subscale score and the independent variables were baseline score, child gender and treatment group. For the variables representing the number of
+positive and negative teacher-parent contacts, chi-square
+tests were used to compare the intervention and control group
+at baseline and follow-up.
+Preventing Child Behaviour Problems in Jamaican Schools
+463
+RESULTS
+The teachers in the study (n = 27) had been teaching for a
+median of 10 years (range 3 to 31 years) with no difference
+between the intervention and control groups. More than 80%
+of the teachers had completed high school but only three (two
+from the control group and one from the intervention group)
+were trained teachers. The mean (SD) class size was 23.6
+(6.1) and there was no difference between the groups.
+Teachers in the intervention group attended a median of 6.3
+workshops (range 3.5 – 7) and only two teachers attended
+less than six workshops.
+Over 90% (n = 122) of the children evaluated scored in
+the abnormal range on at least one subscale of the SDQ and
+an additional 5% scored in the borderline range on at least
+two subscales. The screening question was therefore successful in identifying children with difficulties.
+The selected children attended a median of twelve of
+the 14 class lessons led by the research team (range 5–14
+lessons). At baseline, there were no significant differences
+between the groups on teacher reported prosocial behaviour,
+hyperactivity, conduct or emotional problems but the intervention group had significantly fewer peer problems (Table
+1). In hierarchical multiple regression analyses, controlling
+DISCUSSION
+In this study, we report that a universal preventative intervention implemented over one school-year in Jamaican community preschools significantly reduced children’s conduct
+problems, hyperactivity and peer problems as reported by
+teachers on the SDQ. Benefits were also found with respect
+to the quality of teachers’ contacts with the parents of
+children with behavioural difficulties, with intervention
+teachers reporting more positive teacher-parent contacts than
+control teachers. The schools were matched by type and
+randomly allocated to intervention or control group and there
+were no differences between the groups in teachers’ experience, qualifications or class size. A significant difference
+was found for teacher reports of child peer problems at baseline with teachers in the control group reporting higher levels
+of difficulties. However, baseline scores were controlled for
+in the analysis. We are therefore reasonably confident that
+the benefits reported were a result of the intervention.
+In a meta-analysis of school-based violence prevention
+programmes, the mean effect sizes on child outcomes were
+between 0.20 and 0.35 (3). The effect sizes in the current
+study were within this range or higher showing that the
+intervention benefits were comparable to those in previous
+studies which were mostly conducted in the USA. The findings that the IY Teacher Training Programme led to improvements in the quality of teacher-parent contacts also concur
+with previous studies from the USA (12).
+Table 1: Child behaviour on the SDQ at baseline and follow-up by study
+group
+Control Intervention p-value
+n = 66 n = 69
+Mean (SD) Mean (SD)
+Prosocial subscale Baseline 5.1 (2.7) 4.9 (2.1) 0.63
+Follow-up 5.7 (2.6) 6.4 (2.1) 0.06
+Conduct problems Baseline 4.9 (2.2) 4.1 (2.6) 0.06
+Follow-up 4.7 (2.4) 3.5 (2.4) 0.007
+Hyperactivity Baseline 6.6 (2.3) 6.6 (2.4) 0.86
+Follow-up 6.6 (2.3) 5.5 (2.4) 0.009
+Peer problems Baseline 2.9 (1.8) 2.3 (1.7) 0.02
+Follow-up 2.9 (1.4) 1.5 (1.4) < 0.0001
+Emotional problems Baseline 2.7 (2.0) 2.5 (2.1) 0.42
+Follow-up 2.6 (2.0) 1.9 (1.9) < .0001
+t-tests used to test group differences in child behaviour
+for child sex and initial score, classroom and school, benefits
+of intervention were found for the conduct problems,
+hyperactivity and peer problems subscales of the SDQ (Table
+2). No significant benefits were found for the prosocial and
+emotional problems subscales.
+There were no significant differences between the
+groups on the number of negative or positive contacts between teachers and parents at baseline (Table 3). At post-test,
+teachers in the intervention group reported significantly more
+positive contacts with parents (p < 0.0001) but there was no
+significant difference between the groups in the number of
+negative contacts with parents (p = 0.28).
+Table 2: Multilevel regression analyses of effects of intervention on child
+behaviour on the SDQ
+B (95% CI) Effect size
+Prosocial 0.78 (-0.07, 1.63)
+† 0.33
+Conduct problems -0.62 (-0.01, -1.23)* 0.26
+Hyperactivity -0.84 (-1.57, -0.11)* 0.36
+Peer problems -1.24 (-1.89, -0.59)*** 0.71
+Emotional problems -0.51 (-1.21, 0.19) 0.25
+†p < .1, *p < .05, **p < .01,***p < .001
+0 = control, 1 = intervention
+Controlling for initial score, child sex, school and classroom
+Table 3: Teacher-parent contacts during the past week at baseline and
+follow-up by study group
+Control Intervention p-value
+n = 66 n = 69
+n (%) n (%)
+Positive contacts
+(one or more) Baseline 4 (6.5) 9 (13.4) .19
+Follow-up 12 (20) 26 (40.6) < .0001
+Negative contacts
+(one or more) Baseline 16 (25.8) 20 (29.9) .61
+Follow-up 11 (18.3) 7 (10.9) .28
+Chi-square tests used to test group differences in teacher-parent contacts
+Baker-Henningham et al
+464
+Few studies have examined the mechanisms through
+which school-based preventative interventions have their
+effects but changes in children’s neurocognitive functioning
+(15) and a reduction in the level of aggressiveness in the
+classroom (16) have been shown to be related to improvements in child behaviour. In preventative interventions involving parent training, improvements in parenting were
+related to improvements in child behaviour (4, 17). Although
+this has not been examined for teacher interventions, it is
+possible that the benefits to child behaviour were mediated in
+part by the improvements in teachers’ practices reported
+previously (10).
+There are several limitations of this study. The study
+was small-scale involving only five schools and the results
+may not be generalizable to other basic schools in Jamaica.
+Teacher ratings of child behaviour were used and it is possible that intervention teachers rated children more favourably. However, evidence from the literature shows that
+teacher-reported behaviour has been shown to be less sensitive to change from preventative interventions than direct observations of child behaviour (18, 19). In addition, we only
+had teacher reports of the quality of teacher-parent contacts.
+The study shows that training basic school teachers in
+classroom management and how to promote children’s social
+and emotional competence is a promising approach for improving child behaviour and the quality of teacher-parent
+contacts. During the screening, teachers identified over a
+quarter of young children with behaviour difficulties suggesting that the intervention also met a recognized need.
+This study was a pilot of the feasibility of implementing the
+Incredible Years interventions in the Jamaican setting. The
+next steps are to evaluate the teacher programme in a larger
+sample of schools and to use direct observations of child
+behaviour. In future studies, it will be important to determine
+the degree of support required by teachers to implement the
+strategies effectively and to plan for the sustainability of the
+programme.

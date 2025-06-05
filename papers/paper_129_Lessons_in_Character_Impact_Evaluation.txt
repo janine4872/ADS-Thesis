@@ -1,0 +1,230 @@
+Executive summary
+Character education has become one of the fastest growing reform movements in K–12
+education today, partially in response to unacceptable levels of student misbehavior and
+inadequate endorsement of good character values (Williams 2000). Between 1993 and 2009,
+36 states passed laws mandating or recommending some aspect of character education in
+schools. Character education programs also have strong support from parents, teachers, and
+school administrators (Character Education Partnership 2010; Glanzer and Milzen 2006). But
+despite the widespread popularity of such programs, relatively few randomized controlled trials
+have examined the impact of these programs on the character traits, behavior, and academic
+outcomes of students (What Works Clearinghouse 2007).2
+This study examines the impact of the Lessons in Character (LIC) program—an English
+language arts–based character education program—on student academic achievement, social
+competence, and problem behaviors and, secondarily, on the school environment. The program
+consists of literature-based supplementary material aligned with California English language arts
+standards and designed to integrate easily into the current English language arts curricula. The
+LIC curriculum is designed to be easy to implement in the classroom and to involve minimal
+teacher training, which distinguishes the program from other character education programs.
+Research questions
+The following confirmatory research questions guide this study:
+1.	 Do students in grades 4 and 5 who attend schools in the LIC intervention group exhibit
+higher scores on measures of academic achievement after two academic years of potential
+LIC exposure than their counterparts who attend schools in the control group?
+2.	 Do students in grades 4 and 5 who attend schools in the LIC intervention group exhibit
+higher scores on measures of social competence after two academic years of potential
+LIC exposure than their counterparts who attend schools in the control group?
+3.	 Do students in grades 4 and 5 who attend schools in the LIC intervention group exhibit
+fewer problem behaviors after two academic years of potential LIC exposure than their
+counterparts who attend schools in the control group?
+To examine part of the action model linking the LIC program to student outcomes, the study also
+examines whether participation in the program is associated with enhancements to two areas of
+the school environment. Specifically, the following two confirmatory research questions
+involving intermediate outcomes are examined:
+4.	 Do teachers and students in the LIC intervention group report greater levels of student
+belongingness after two years of program implementation than their counterparts in the
+control group?
+2
+ A recent exception is the evaluation of seven social and character development programs conducted by the Social
+and Character Development Research Consortium (2010).
+xi
+
+5.	 Do teachers and students in the LIC intervention group report greater levels of school
+expectations consistent with character development after two years of program
+implementation than their counterparts in the control group?
+The confirmatory research questions focus on the impacts of the LIC program after a two-year
+implementation period.
+Exploratory analyses were conducted to examine potential impacts on the same outcome
+measures after one year of program implementation. These analyses were exploratory in the
+sense that they were used to obtain preliminary estimates of program impacts that could not be
+rigorously tested due to statistical power considerations. The first-year results were not used to
+make inferences about the overall effectiveness of the intervention but to provide additional
+descriptive information.
+Study context and design
+Designed as an experimental trial, the study took place from spring 2007 to spring 2010 in
+50 California elementary schools with teachers of grades 2–5. This implementation period
+corresponded with an economic recession in California (and the nation as a whole) and
+substantial school spending reductions and teacher layoffs due to state budget shortfalls in
+California.
+Participation in the study was voluntary. The intervention involved a one-day training course for
+teachers in year 1; teachers who participated in the course were expected to incorporate 19–25
+supplementary lessons into their classroom instruction each year for two academic years. No LIC
+professional development activities or coaching occurred in year 2 of implementation.3
+ Two
+cohorts of elementary schools participated in the intervention. Cohort 1 implementation took
+place in 2007/08 and 2008/09, with teacher professional development and coaching occurring in
+late summer and early fall of year 1 (2007). Cohort 2 schools were recruited in spring 2008, with
+teacher professional development occurring in summer/fall 2008/09 and 2009/10. Teachers in
+control group schools, meanwhile, continued with their regular professional development
+activities and instructional practices. Both cohorts were pooled in the data analyses.
+The study was conducted in 50 public elementary schools in California—34 in the Los Angeles
+and San Diego Metropolitan Statistical Areas, 13 in northern California, and 3 in central
+California. Half of the recruited schools were randomly assigned to an intervention group that
+had the opportunity to implement LIC in their 2nd-5th grade classrooms for two consecutive
+years, and half were assigned to the control group. The primary impact analyses included 4,683
+students who were in grade 4 or 5 in year 2, and the exploratory analyses included 5,674 students
+who were in grade 4 or 5 in year 1. Students in the primary analytic sample were present and
+obtained parent consent to participate by the beginning of year 1 and were in participating
+classrooms when spring year 2 data were collected. Those in the exploratory analytic sample
+obtained parent consent by the beginning of year 1 and were in participating classrooms when
+spring year 1 data were collected. Students who were enrolled in non-participating teachers’
+classrooms–460 students in year 1 and 300 students in year 2–were not included in the analytic
+samples.
+3
+ Teachers who joined the study in year 2 did not receive any training on the use of the curriculum.
+xii
+Thirty schools were in a large city or on the urban fringe of a large city, six in a mid-size city
+(population of 25,000–250,000), and fourteen in a small town or rural area. Each school served
+an average of 354 students. Nine schools had fewer than 150 students, and two had more than
+600 students. Approximately 59 percent of the students were eligible for free or reduced-price
+lunch, 49 percent were classified as Hispanic, 32 percent were classified as non-Hispanic White,
+and 31 percent were classified as English language learner students (California Department of
+Education 2009).
+With an average of 96 grade 4 or 5 students in each school, the sample size is sufficient for
+detecting program impacts on student outcomes of 0.27 standard deviations for primary
+academic outcomes and 0.20 standard deviations for primary social competence and behavioral
+outcomes. Program impacts of this magnitude are equivalent to about two-thirds of a year of
+growth experienced by grade 4 students on norm-referenced standardized tests in reading (Hill et
+al. 2008).
+Key outcomes and measures
+Table 1 lists the study’s key outcome variables—student academic achievement, social
+competence, problem behaviors, and the school environment—and their measures. These
+outcomes were assessed with standardized achievement tests, teacher reports on the Social Skills
+Rating System (Gresham and Elliott 1990), surveys of grade 4 and 5 students, and teacher
+surveys.
+•	 State English language arts assessments. Student achievement data from state-mandated
+standardized assessments of English language arts (the California Standards Tests) were
+collected for the years before and during program implementation. Criterion-referenced
+to state standards, the California Standards Tests in English language arts are
+administered to students in grades 2–11.
+•	 Social Skills Rating System teacher reports. Gresham and Elliott’s (1990) Social Skills
+Rating System was used to assess student social skills, problem behaviors, and academic
+competence.
+•	 Student surveys. A 35-minute survey assessing behaviors, attitudes, and values consistent
+with the goals of character education was administered to all grade 4 and 5 students in the
+fall and spring of year 1 and the spring of year 2. Using items and subscales from
+validated instruments, the survey assessed student altruism (Characterplus 2002),
+aggression (Orpinas and Frankowski 2001), delinquent behavior (Kisker et al. 2004), and
+empathy (Funk et al. 2003), as well as school belonging and expectations (Characterplus
+2002).
+•	 Teacher surveys. All teachers were surveyed in the spring of year 0 before schools were
+randomly assigned to the intervention or control group. Teachers were surveyed again in
+the spring of years 1 and 2. The year 0 survey assessed teacher background and school
+climate—teacher education, professional development experiences in language arts and
+character education, activities related to social and character development that teachers
+implemented in their classrooms, and school and classroom climate (students’ feelings of
+belonging and school expectations). The year 1 and year 2 surveys also contained
+xiii
+questions that asked about other professional development that teachers participated in
+during program implementation and questions that assessed teachers’ communication and
+collaboration.
+Table 1. Impact analysis outcomes
+Outcome Measure
+Academic achievement
+English language arts standardized tests State assessment
+Academic competence Teacher report
+Social competence
+Social Skills Rating System total score Teacher report
+Altruism Student survey
+Empathy Student survey
+Problem behaviors
+Externalization of problems Teacher report
+Aggression Student survey
+Delinquent behavior Student survey
+School and classroom climate
+Students’ feeling of belonging Teacher and student surveys
+School expectations Teacher and student surveys
+Intervention description
+Developed by Dr. B. David Brooks, with support from Young People’s Press, the LIC program
+is delivered by classroom teachers, with implementation support from Dr. Brooks. Through
+multicultural literature (lap books) and audiocassettes, it teaches character and integrates the
+language of character into the English language arts curricula. The LIC program is designed for
+grades K–9 and aligned with California education standards. Teachers in schools randomly
+assigned to the intervention condition participated in a one-day training session, and, in the fall
+semester, received approximately two hours of coaching support for delivering the curricular
+material.
+The curricular material comprises two components, both designed to reinforce good character
+and support language arts learning standards: the core curriculum, Lessons in Character, and the
+supplementary materials, Daily Oral Language with Character and Writing with Character. The
+LIC core curriculum explicitly integrates the language of character into the curriculum with a
+focus on teaching for understanding that emphasizes civility, respect, responsibility,
+trustworthiness, fairness, caring, loyalty, and self-control. It is a literature-based language arts
+program that relies on multicultural literature, enrichment activities, cross-curricular activities,
+read-aloud books, and questioning, all of which are intended to help instill habits of good
+character. The core curriculum consists of 25 20-minute lessons; study teachers are asked to
+implement at least 19 lessons during the academic year. It begins with a decision-making
+model—Stop, Think, Act, Review (STAR)—that is used throughout the year as a classroom
+management tool and reinforcement of the program lessons.
+According to the developer, delivery of the LIC lesson materials does not require extensive
+teacher preparation or training. Each teacher is provided with a teacher management guide that
+xiv
+
+provides concise lesson plans for each of the 25 lessons and examples of discussion questions
+and classroom activities.
+The supplementary materials are optional for teachers. The Daily Oral Language with Character
+materials consist of sentence correction activities followed by short writing assignments that
+emphasize decision-making, goal setting, civic responsibility, and other character education
+components. Designed for daily use, Daily Oral Language with Character augments the regular
+language arts program with lessons that take no longer than five minutes. The Writing with
+Character materials (for grades 3–8) consist of 36 weekly 20-minute writing assignments that
+focus on the mechanics of writing (e.g., grammar, spelling, punctuation) as well as on character
+education.
+Although the LIC program is a comprehensive schoolwide character education program, it is the
+program’s integration into the curriculum that is intended to secure teacher support. Teachers
+become program experts through daily teaching, and this acquired expertise helps build support
+for comprehensive schoolwide character education policies and practices.
+Analysis and results
+To estimate program impacts, outcomes for students and classrooms in intervention group
+schools were compared with those for students and classrooms in control group schools.
+Multilevel regression models were used to estimate the effects of the LIC program and to
+account for data clustering by school and classroom (Goldstein 1987; Raudenbush and Bryk
+2002; Murray 1998). The impact analyses controlled for baseline (pretest) measures of outcome
+variables and other student- and school-level covariates.
+Implementation
+The LIC core curriculum consists of 25 lessons (24 core principal lessons and one STAR lesson),
+of which intervention group teachers were asked to implement 19 during the academic year.
+Teachers implemented an average of 12.40 LIC lessons in year 1 and 9.56 LIC lessons in year 2.
+In year 1, 16 percent of teachers reported that they did not implement any lessons, while 40
+percent implemented 16 or more lessons. Teachers’ reported use of the curricular materials
+declined after year 1: in year 2, 28 percent did not implement any LIC lessons, and 28 percent
+implemented 16 or more lessons. The supplementary curricular materials were used less
+frequently than the LIC core materials: in year 1, two-thirds of teachers used at least some of the
+Daily Oral Language with Character or Writing with Character materials in their classrooms, and
+in year 2, about half of teachers reported using these materials.
+Estimated impacts
+The primary confirmatory impact analyses indicated that grade 4 and 5 students who attended
+schools in the LIC program intervention group did not exhibit higher scores on measures of
+academic achievement and social competence, or lower scores on measures of problem
+behaviors after two academic years of potential LIC exposure than grade 4 and 5 students who
+attended schools in the control group. Moreover, the intermediate impact analyses indicated that
+there were no statistically significant LIC program impacts on the school environment measures
+of school expectations and student feelings of belonging. Exploratory analyses suggested that
+xv
+there were no statistically significant LIC program impacts on grade 4 or 5 student outcomes or
+on measured school environment outcomes after the first year of program implementation.
+Synopsis
+The impact analyses did not find that LIC improved student academic achievement, social
+competence, or problem behaviors on any of the analyzed measures. Nor were statistically
+significant impacts on the school environment measures of expectations and student belonging
+detected. Moreover, analyses of teacher reports of program implementation indicated that 30
+percent of teachers reported that, in year 1, they implemented the number of core lessons
+recommended by the developer and that, in year 2, 23 percent reported having done so. The
+failure to detect program impacts on student and school environment outcomes could be due to
+the weak implementation of the program, an intervention design that simply does not work in
+bringing about changes in student and school environmental outcomes, or methodology
+limitations of the study.
+An important limitation of the study was that retention rates differed between teachers in
+intervention and control schools. Although participation rates in intervention and control schools
+did not differ and there were no statistically significant differences in the baseline characteristics
+of teachers or students in the intervention and control schools, it is possible that there were
+important unobserved differences between intervention and control samples that could have
+resulted in biases in estimated program impacts. 

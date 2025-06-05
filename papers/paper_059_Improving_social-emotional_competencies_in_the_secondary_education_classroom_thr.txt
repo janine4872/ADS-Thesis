@@ -1,0 +1,1819 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+International Journal of Sustainability in Higher Education
+
+ISSN: 1467-6370
+
+Article publication date: 9 July 2021 Permissions
+
+Issue publication date: 16 August 2021
+
+This study aims to explore the role of planned, sudden shifts in lived experiences, in influencing learner capabilities towards improved problem-solving for sustainable development outcomes. The authors responded to employers of engineering and built environment graduates observing limited “real-life” problem-solving skills, beyond using established formulae and methods, in spite of attempts over more than two decades, to train engineers and other built environment disciplines in areas such as whole system design and sustainable design.
+
+A grounded theory approach was used to guide the analysis of data collected through ethnographic methods. The process involved reflecting on authors’ efforts to develop context appreciation within a course called “International Engineering Practice”, using two years of collected data (archived course information, including course profile; completed assessment; lecture and field visit evaluations; and focus groups). The study is built on the authors’ working knowledge of Bloom’s Taxonomy and Threshold Learning Theory, and the well-established role of “context appreciation” in complex problem-solving. After the first iteration of the course, the authors looked for additional theoretical support to help explain findings. The Cynefin framework was subsequently used to augment the authors’ appreciation of “context” – beyond physical context to include relational context, and to evaluate students’ competency development across the four domains of “clear”, “complicated”, “complex” and “chaotic”.
+
+This study helped the authors to understand that there was increased capacity of the students to distinguish between three important contexts for problem-solving, including an increased awareness about the importance of factual and relevant information, increased acknowledgement of the varying roles of professional practitioners in problem-solving depending on the type of problem and increased appreciation of the importance of interdisciplinary teams in tackling complex and complicated problems. There were several opportunities for such courses to be more effective in preparing students for dealing with “chaotic” situations that are prevalent in addressing the United Nations’ 17 sustainable development goals (UNSDGs). Drawing on the course-based learnings, the authors present a “context integration model” for developing problem-solving knowledge and skills.
+
+The research findings are important because context appreciation – including both physical context and relational context – is critical to problem-solving for the UNSDGs, including its 169 targets and 232 indicators. The research findings highlight the opportunity for the Cynefin framework to inform holistic curriculum renewal processes, enhancing an educator’s ability to design, implement and evaluate coursework that develops physical and relational context appreciation.
+
+The study’s findings and context integration model can help educators develop the full range of necessary problem-solving graduate competencies, including for chaotic situations involving high degrees of uncertainty. Looking ahead, acknowledging the significant carbon footprint of global travel, the authors are interested in applying the model to a domestic and/or online format of the same course, to attempt similar learning outcomes.
+
+Connecting Bloom’s taxonomy deep learning and threshold learning theory critical path learning insights with the Cynefin framework context domains, provides a novel model to evaluate competency development for problem-solving towards improved holistic physical and relational “context appreciation” outcomes.
+
+Desha, C., Caldera, S. and Hutchinson, D. (2021), "Exploring the development of context appreciation in coursework that targets problem-solving for sustainable development", International Journal of Sustainability in Higher Education, Vol. 22 No. 5, pp. 1186-1224. https://doi.org/10.1108/IJSHE-01-2020-0024
+
+Emerald Publishing Limited
+
+Copyright © 2021, Emerald Publishing Limited
+
+The United Nations sustainable development goals (UNSDGs) are challenging decision makers to think beyond singular scenarios; conventional methodologies and materials; and models for development (United Nations, 2015). However, there is still a strong tendency for decision makers to adopt a reductionist approach to problem-solving (Lu et al., 2015). This leads to approaches that often do not address the complexity or dynamic nature of the problem, and disconnected solutions that are unlikely to be viable for more than a narrow version of current or future reality.
+
+For example, in mainstream literature, the often-cited world view is that by 2030, the world is projected to have 43 megacities with more than 10 million inhabitants, most of them in developing regions, with a substantial proportion of this urban migration occurring in Asia (United Nations Department of Economics and Social Affairs, 2018). Such statements are then often followed by urgent calls-to-action regarding the priority problem to be solved, namely, to create or redesign cities to accommodate this end state. Connecting this decision on how to act with a single population-distribution scenario has limiting implications. For example, being able to plan for the complexity of global population mobility, where a range of scenarios relating to sea level rise, extreme weather patterns, tectonic movements and pollution, results in a spectrum of potential configurations for where people will live. Reliance on a single population-distribution scenario also limits the exploration of other potential pathways for enabling the “quality of life” for a steady-state global population of around 10–12 billion people and environmental stewardship towards sustainable development outcomes that decouple economic growth from environmental pressures (Smith et al., 2010; Smith and Hargroves, 2005).
+
+In the education sector, higher education provides an important potential pathway for developing critical thinking skills to avoid such oversimplification of problems and potential solutions, building on primary and secondary school exposure to critical thinking. However, this pathway has an embedded challenge wherein curriculum for professional specialisations such as engineering, design, planning and law is highly regulated, with curriculum renewal often governed by external accreditation agencies (Romero et al., 2020). A mitigating circumstance is the increasingly “outcomes-focused” positioning of these accrediting bodies (rather than prescriptive), which enables consideration of different learning and teaching approaches to produce professionals who are cognisant of the complexity of current reality and possible future scenarios, and who can critically think (King, 2008; Byrne et al., 2013; Engineers Australia, 2011; Lozano and Barreiro-Gen, 2019). Furthermore, international agencies are advocating progressive thinking to address competency development towards meeting 21st-century challenges, including, for example, the International Engineering Alliance (2019) and the World Federation of Engineering Organizations (2018).
+
+Addressing this reality, educators are challenged to develop student “competencies” for critical thinking amidst complex realities, where competencies are defined as “a dynamic combination of cognitive and metacognitive skills’ including ‘knowledge and understanding’, ‘skills and abilities’ (interpersonal, intellectual and practical skills), and ‘attitudes’ arising from the individual’s values and beliefs” (Segalàs et al., 2009). Such critical thinking competencies include an awareness of the potential for unconscious bias towards certain assumptions about the problem being addressed and the context in which it is being addressed. Fortunately, literature from the educational and psychology fields provides well-established guidance and support for engaging with current “context” to deal with complexity. According to Kahneman (2011) and Snowden (2017), this involves first accurately distinguishing the problem-solving context, and then contributing to designing and implementing robust evidence-based solutions being mindful of these contexts.
+
+Addressing the need for critical thinking competencies requires urgent and deliberate educational approaches towards expanding student capabilities in non-binary circular thinking and problem-solving. However, such thinking and problem-solving is not the natural tendency or desire, and as such, capacity building requires conscious integration within curriculum. Researchers have long discussed the need to address the context for problem-solving for sustainable solutions, including studies more than a decade ago proposing the necessity of a broad understanding of sustainability that goes beyond environmental and economic impacts to include social and cultural aspects spanning diverse stakeholder groups (Ferrer-Balas et al., 2005; Wiek et al., 2011; Hanning et al., 2012). Early work in sustainability competencies also emphasised the importance of explicit descriptions and mapping in engineering education curriculum for better transparency and comparability (Segalàs et al., 2009; Kevany et al., 2007). However, robust evaluation of the success of such curriculum intentions is still relatively uncommon (Lozano et al., 2019). In the workplace, employers continue to observe limited “real-life” problem-solving skills amongst engineering graduates, beyond using established formulae and methods for stakeholder engagement, design, construction and management of the built environment (Romero et al., 2020).
+
+In 2017, when presented with an opportunity to develop a new “International Engineering Practice” course with the focus on addressing the UNSDGs, the authors took the opportunity to reflect on the lived experiences in the bigger picture context of education for sustainability. In reflecting on previous research into curriculum renewal for sustainable development, whole system design (i.e. asking the right questions) and threshold learning theory (i.e. enabling breakthrough learning moments) had been key content and process provocation for a long-running sustainable business practice course (2011–2016) (Desha and Hargroves, 2012). However, in reviewing the drafted course, it was realised the course learning outcomes were limited in scope to students appreciating the interconnections between knowledge areas to achieve “ah-ha!” learning moments, rather than appreciating the need for case-by-case consideration of context in problem-solving. In short, even with threshold learning theory guiding the course curriculum, it could still result in an advanced-but-limited appreciation of a “one-size-fits-all” solution without addressing context. The curriculum was subsequently refined to include a focus on design in context (i.e. prioritising “where” the problem is situated) as a critical first step consideration in problem-solving.
+
+In 2017–2018, examples from a conceptual framework for knowledge management, known as Cynefin (Snowden, 2000), were explored to help explain the results of the first iteration of the course, and prompted by research team’s industry experiences in using simulations and modelling to address client needs. Cynefin helped the authors to consider an augmented conceptualisation of “context”, beyond the geospatial realm, addressing social and cultural aspects of a problem to be gathered and interpreted with improved sophistication. In 2018, while the second iteration of the course did not differ from the first, the authors did show students the Cynefin four-quadrant diagram at the commencement of the course as part of their first lecture.
+
+In this paper, the authors present the research journey over the first two iterations of the course that included a two-week intensive study trip to Japan (2017, 2018), to evaluate the development of student appreciation of context within their learning outcomes – i.e. for students to self-report improved problem-solving capabilities because of their appreciation of context. The authors asked, “How do students conceptualise context in developing sustainable development competencies?” In exploring this question, the authors asked:
+
+“How do students’ conceptualisations of context in sustainable development influence their professional competency acquisition?”
+
+“What opportunities exist to improve undergraduate appreciation of context in addressing the United Nations sustainable development goals?”
+
+The paper begins with a description of the theoretical contributions to this research enquiry. The course of focus is then described, including a summary of the data collected to date, research methods used and evaluation of results. The paper then discusses key findings of the study and present a “context integration model” to guide curriculum renewal towards embedding a holistic appreciation of context towards improved professional practice that can address the UNSDGs. The authors conclude with an invitation to use the model when designing curriculum to develop problem-solving competencies for the UNSDGs.
+
+Ideas of building on prior knowledge, embedding new knowledge into practice, authentic problem-solving, knowledge sequencing and metacognition are central to constructivist learning theory (Thorndike, 1927; Merrill, 2002; Kolb, 1984; Krathwohl and Anderson, 2009; Mezirow, 1981). The authors propose that the education challenge around “context” appears to be making use of such constructivist insights in university education so that graduates can immediately contribute to solutions that make a difference in the “real world”.
+
+There is a wide range of perspectives across engineering disciplines regarding what sustainability is and why there is an urgent need for engineers to gain relevant competencies (Segalàs et al., 2009; Seatter and Ceulemans, 2017). There have also been substantial efforts in the past to review and improve engineering education by discipline and as a whole (see Appendix 1). More recently, this has been focused on addressing the UNSDGs. Considering the matrix of 17 component goals, with 169 associated targets and 232 indicators, the 2014 UNESCO report reminds that, “The very nature of sustainability as a contested, multi-layered and multifaceted subject provides rich opportunities for critical thinking and transformative learning” (World Federation of Engineering Organizations, 2018).
+
+Examples of competencies associated with the UNSDGs include resource management, digital technology, values, ethics, transdisciplinary and systems-and-complex thinking (Byrne et al., 2013; Mulder Karel, 2015; Segalàs et al., 2010). Educational researchers have begun to explore this at a discipline level (Byrne, 2017) and across disciplines (Gutiérrez Ortiz et al., 2020). During the 2017–2018 discussions, the research team also reflected on a number of context-related challenges involved in addressing any of the UNSDGs, spanning geographic, demographic, political, financial and many other location-specific considerations. Even though there was a desire wanted to create design processes that could handle each of these variables, such a journey seemed infinite and unwieldly. Subsequently, the authors began to explore ways of developing problem-solving capabilities in coursework, where learners could distinguish contexts for themselves, then adjust their problem-solving expectations and use their knowledge and skills acquired from the entirety of their studies accordingly.
+
+In a previous textbook, an approach to sustainability-related competency development was presented that builds on the whole system design methodology (Stasinopoulos et al., 2013), Bloom’s taxonomy (Bloom, 1956) and uses threshold learning theory (Baillie et al., 2006) to shift knowledge, perspectives and practice within key “flagship courses” that then transform a learner’s engagement with the rest of their education and career. In the following subsections, the authors reflect on these underpinning theories and then present a new perspective informed by the synthesis of this understanding with Cynefin theory.
+
+Within engineering education, there are calls to take a holistic and inclusive approach to design (Vemury et al., 2018; Segalàs, 2012; Mulder Karel, 2012; Glavič et al., 2009), and to become aware of our own unconscious biases in designing “solutions” for the diversity of challenges present in the 21st century (Kirman et al., 2019; Mohsen et al., 2019). These calls to action are supported by thinkers from a spectrum of disciplinary interests. The writers of The Necessary Revolution (Senge et al., 2008) and The Fifth Discipline (Senge, 1997) present the critical need for 21st-century professions to know what it means to live and work within a system-based appreciation of available resources, and an age of uncertainty, where past experiences (for example, climate and weather patterns) do not provide a reliable indication of future events and outcomes.
+
+Alongside such efforts, several seminal authors in decision-making warn of the limits of current thinking in a world that is information-rich yet knowledge-poor. In 2009, The Natural Edge Project published Whole System Design in an effort to guide engineering and other built environment professionals to adopt a holistic approach to problem-solving that asks ten key questions about the problem (Stasinopoulos et al., 2013). Around the same time, in The Impact of the Highly Improbable (Taleb and Swan, 2008) and Antifragility (Taleb, 2012), the authors articulated the problems with making decisions in a vacuum of meaningful data on the range of risks and scenarios. More recently, Rosling et al. (2018) described the severe lack of common knowledge regarding population demographics, culture, needs and desires, and the need for humanity to practice “factfulness” accommodating the complexity of modern facts and figures, towards making better decisions for planet and for humanity. Robson (2019) defined the “intelligence trap”, where “well-trained” professionals can make decisions that are sub-optimal, if actual facts and unconscious biases are not addressed.
+
+There is also a wealth of literature addressing the adequate development of complex decision-making capacity detailed in Appendix 2. In summary, this spans the theories of “how we learn” involving sequencing and stages, learner maturity, structural rigour (Bloom, 1956; Krathwohl and Anderson, 2009; Merrill, 2002; Kolb, 1984; Thorndike, 1927; Becker, 2007; Delahaye, 2004; Argyris, 1977; Snowden, 2000), “how we organise and apply what we have learnt” – knowledge (Snowden, 2000; Kahneman, 2011; Klein, 2013; Gagne, 1974) and “how we manage our emotional/human responses to unexpected knowledge gaps and change” (Taleb, 2012; Maslow, 1943; Macdonald et al., 2018; Kotter, 2012; Geels, 2011).
+
+Transforming perspectives has been the focus of researchers globally in the field of engineering education for sustainable development, with reviews of literature documenting numerous efforts to design and implement curriculum that shifts the student mindset (Mesa et al., 2017; Byrne et al., 2013). Seatter and Ceulemans (2017) conclude the need for students to:
+
+[…] develop capacity for recognizing and understanding the complexity of sustainability issues, and for thinking critically about assumptions, biases, beliefs, and attitudes while actively participating in their resolutions […] Today’s students need to be able to recognize the unsustainability of contemporary problem solving, cease searching for the “one right answer,” and think instead in terms of good ideas and best solutions (Seatter and Ceulemans, 2017, p. 63).
+
+Bloom’s taxonomy (Figure 1) is a well-referenced theoretical foundation used by many to consider student progression in learning, with increasing skill through the six levels of knowledge (“Remember”), comprehension (“Understand”), application (“Apply”), analysis (“Analyse”), synthesis (“Evaluate”) and creation (“Create”). These are often depicted as a staircase with “create” being the highest order of learning. In reflecting on the Bloom’s taxonomy for sustainability education, researchers (Pappas et al., 2013) highlight the need for future research into using systems approach in a variety of sustainability contexts, using a cross-disciplinary approach that includes perspectives from other disciplines and using a personalised instructional approach that focuses on aligning individual values and behaviours.
+
+Within the field of problem-based learning, threshold learning theory has also been readily used to grapple with how undergraduate competencies can be addressed “once and for all”, in certain courses within a program (Savin-Baden and Tombs, 2018). In this theory, the notion of “threshold concepts” provides a way of identifying key concepts that are transformative for the learning, which once learned cannot be “unlearned”. For example, Male and Bennett (2015) discuss the benefits of identifying threshold concepts in undergraduate engineering for engineering roles and the value of learning. This follows more than 10 years of discourse emanating from early work by Baillie et al. (2006) exploring potential blocks in student understanding. Considering the number of transformative learning concepts embedded in addressing the UNSDGs, the authors argue that threshold learning theory at the level of key undergraduate engineering flagship course/s might transform appreciation of the UNSDGs, and empower students to practice in ways that are conducive to achieving the UNSDGs.
+
+However, Lozano et al. (2019) note a persistent gap in limited research on connecting how such pedagogical approaches are used with how they may develop sustainability competencies. In short, while this all sounds rational in discussion, does it really work? Appreciating that curricula assessment provides a diagnostic for the extent of development of sustainability knowledge and skills, Lozano et al. (2019) conclude that there is a scarcity of robust evaluation about the extent to which students are being prepared to deliver sustainable solutions. The same authors then consider various tools to assess sustainable development in universities, concluding that teaching (in their European sample of courses) covers many issues of sustainability in a “fairly good” balance, with the exception of social issues that are the least addressed.
+
+These observations and conclusions confirm the research team’s lived experiences in diagnosing the likely benefit of a particular pedagogical approach, and then finding it challenging to gather evidence on how well “complexity” competencies are being developed in students, using these approaches. It also helps to explain the largely qualitative research approach to educational theory (as highlighted by Appendix 2), where learning is largely considered to be subjective. It is difficult to appraise what students are thinking and how they are processing what they are experiencing in the constructed learning environment of a course, particularly relating to social constructs. The authors were motivated by the first course experience in 2017 to find ways of bringing the extent of student learning into consciousness as educators, so that curriculum could be evaluated with regard to how well it develops students’ context appreciation. This work was directly influenced by the third author’s previous work informed by Cynefin Theory, exploring methods for creating online games that reliably immerse users into chaotic environments, as a form of leadership training simulation (Leigh and Hutchinson, 2014).
+
+The Cynefin framework provides a practice-based “sense-making” approach to problem-solving that is used already in other disciplines (Van Beurden et al., 2013), stemming from complexity theory and cognition theory. In contrast to what the authors have already discussed, the use of the term “context” applies to the approach to problem-solving, rather than discrete items such as “geographic location” or “demographics”. Complexity theory, arising from physics and systems engineering (Mason, 2009), argues the importance of relationships between discrete components in a system. It was presented as a counter to what theorists saw as a tendency to reductionism, and offered an ecological view that retained the contextual elements and relationships characteristic of complex adaptive systems (Dekker, 2011). Cognition theory integrates cellular biology, neurophysiology, linguistics and sociology to offer an explanation for learning and behavioural phenomenon (Maturana, 1970).
+
+As shown in Figure 2, Snowden (2000, 2017) proposes that knowledge exists in four related domains relating to complexity and chaos and their relationship to best practice, order and expertise: “clear”, “complicated”, “complex” and “chaotic”. Failure to correctly categorise the domain (or problem-solving environment) is likely to result in dysfunction (or disorder) as shown in the centre of the diagram.
+
+Via Cynefin, Snowden proposes that the availability of data, and the effectiveness of constraints governing choices of action are features of contexts proven to affect reliability of outcomes. Consequently, knowledge may be “ordered” aided by effective constraints, such as standards or laws characteristic of the “clear” domain or available expertise (“complicated”); or “unordered” because the constraints are less visible, less developed or effective; for example, open-ended questions (“complex”) and novel situations such as unprecedented natural disasters (“chaos”).
+
+The ability for well-developed systematic approach/es to reliably and successfully manage the context depends on which domain the problem is sitting within. Identifying the domain requires thinking through the relationship between cause and effect in the data, and any constraints that are influencing this relationship. Further, the role of “experts”, or those who can advise on how to go about problem-solving, is limited to contexts when knowledge is ordered and inherently known. Beyond this, the knowledge must be discovered using probes, or safe-to-fail experiments.
+
+In this way, the four quadrants of the Cynefin framework provide a structured narrative for considering the institutional context likely to be present in any given situation. The quadrants are not representative of importance, rather they provide the user of the framework with the opportunity to question the presence or absence of the domain in the situation. The location of the quadrants is important, wherein the framework narrative moves anti-clockwise bottom right corner of “clear”, up through “complicated”, across to “complex” and down to “chaotic”. The central space of “disorder” is also important as a dynamic space from which to view the quadrants and then to use each context as the situation requires. Furthermore, for a given situation, one or more of the quadrant domains may be present. It is the acknowledgement of this reality which then enables the user to strategically take advantage of tools that can support such contexts. Moreover, the user can avoid the pitfalls of applying tools that are not suited for the situation.
+
+Because successful UNSDG implementation requires solving novel challenges and moving beyond known effective constraints, the authors propose the Cynefin framework as a valuable evaluation tool for considering the extent to which curriculum addresses the full spectrum of problem contexts (i.e. the four quadrants). This then enables evaluation of the extent to which students are exploring methods and resourcing for problem-solving and distinguishing the relevance of potential mechanisms such as “expert advice”, “experimentation” and “crowd-sourcing”. It also enables evaluation of the extent to which risk is addressed in coursework, where students consider what might go wrong, why and how failures could be avoided, addressed and overcome.
+
+By addressing the UNSDGs in this paper – and in the course – rather than “sustainability” more broadly, the authors created an opportunity to explore and discuss the capacity-building gap in developing students’ competencies in managing “chaotic” environments where there are many unknowns. The research context, design, collection and analyses are summarised in the following paragraphs.
+
+The UNSDGs provide a scaffold for professionals and decision makers to make sense of “sustainability”, which is nebulous, multi-faceted and at times challenging to translate into design or decision-making objectives. In this way, the UNSDGs enable a “way out” of a situation full of unknowns into a more logical design specification environment where “what” to focus on becomes clearer. Likewise, with regard to “how” to problem-solve, whole system design eases the conflict for engineers attempting sustainable design, as a translating tool for turning a chaotic design environment into a ten-question checklist. However, for students studying built environment coursework today, the UNSDGs are still relatively full of unknowns, relating to how to achieve the various goals around the planet, and how to engage with other disciplines to do so.
+
+After two iterations of a new course “2007ENG International Engineering Practice” that was targeted at the role of engineering in addressing the UNSDGs, the research team was motivated to explore the potential for the Cynefin framework to help interpret the focus group data on how students were experiencing the course. During course design, the authors felt that the in-country experience in Japan offered both the context-changing qualities necessary for threshold learning and multiple examples of contexts involving engineering relevant to the UNSDG competencies.
+
+There are many significant differences between engineering approaches used in Japan and Australia, spanning high-speed transportation, manufacturing methodologies and the country’s preparedness for impending catastrophic earthquakes and extreme weather events. There are also many social lessons to be learned from being in Japan, relating to cross-cultural knowledge; in arriving at a place where people do not speak the same language, there are immediately a lot of unknowns for the learner. Such experiences of “unfamiliarity”, “foreign-ness” and contrasts to previously learned methods for design and assessment created clear “Cynefin boundary-spanning” opportunities to observe how students engaged in, and evolved their ways of, problem-solving.
+
+This research used the interpretivist view to address the research question; “How do students conceptualise context in developing sustainable development competencies?” This research was positioned with an interpretive paradigm, as this well-established research philosophy enables qualitative researchers to explore by engaging in in-depth conversation with participants to generate rich contextualised insights for the studied phenomena (Walsham, 1995; Mason, 2010; Creswell, 2013).
+
+This type of approach contributes to both practical and theoretical understanding to generate new concepts and theory (Churchill and Bygrave, 1989; Ponelis, 2015). The overall research design is illustrated in Figure 3 outlining the research question, purpose, conceptual framing, methods and strategies for ensuring validity.
+
+The authors used a grounded theory approach supported by ethnographic methods (LeCompte and Schensul, 2010; Reeves et al., 2013) comprising literature review, focus groups, document analysis and participant observations (Green et al., 2012). The main data collection method was the focus group discussions and other methods were used to facilitate triangulation of data. The focus groups enabled the researchers to delve deep into the phenomena including rich experiential insights by the participants. A further literature review (Zikmund et al., 2013) guided theory development.
+
+Ethnography comes from an anthropological exploration of culture and institutions. The research team was interested in how students can be equipped to deal with experiences that they are completely unfamiliar with, to be confident in dealing with “chaotic” situations when their awareness of “reality” does not match what they are faced with. In this study, a contrived situation was used where the author team placed students in an extreme environment of unfamiliarity – both in terms of content knowledge (the UNSDGs), professional (cultural) appreciation (interdisciplinary cohort) and cultural awareness (language barrier). This situation required students to think about how they problem-solve when there are so many unknowns, in the quadrant of “chaotic”.
+
+The participant pool for the study data (i.e. course enrolments) consisted of students from a variety of engineering and built environment courses, including civil engineering, electronic engineering, electronic and energy engineering, software engineering, environmental engineering, industrial design, urban and environmental planning. Students had to have completed first year, which includes Engineering Materials; Engineering Design Practice; Creative Engineering; Engineering Mathematics 2; Engineering Maths; Numerical and Computing Skills; Engineering Science; and Engineering Mechanics (Desha and Caldera, 2019). They also committed to completing three assessments, which comprised a carbon offset report; a reflective video/photo presentation; and a technical report, requiring students to reflect on their learning about context and shifts in perspectives about cities of the future, considering the topics addressed during the lectures, workshops and site visits.
+
+Gender-balanced enrolments were a recruitment goal and the course was actively promoted to all students via internal email, lecture drop-in slides and poster advertisements on both major campuses of the university. The study subsequently used data from two cohorts (2017, 2018), with a total of 19 participants (Table 1).
+
+It is noted that in 2017, one student was a masters student, and in 2018, two students were from non-engineering programs. These students had applied to join the course with a keen interest in exploring international engineering practice and were accepted accordingly. Influences of such variables on study findings are discussed in the results section where applicable.
+
+Focus groups were conducted to explore the students’ experiences of the implemented curriculum, with responses about their lived experiences transcribed verbatim. Participants considered the following question:
+
+How has your appreciation of Engineering Practice and International Engineering Practice shifted as a result of what you’ve experienced in-country?
+
+Within each focus group, this included the following three sub-questions that guided and prompted discussion progression:
+
+Can you share with us about anything that you think has shifted for you, compared with your previous perspective of Japan and Japanese “ways” before this course?
+
+When did you notice this shift – was it a gradual shift or a sudden (e.g. “ah-hah!”) moment for you?
+
+Can you share with us about any new knowledge or skills that you have gained in this course that help you to problem-solve?
+
+Would you consider this new knowledge and/or skill to be something you expected to acquire in this course or at university in general?
+
+All students participated in the 1-h focus group in the classroom of the host university, as two discrete undergraduate cohorts (10 in 2017, comprising four females and six males, and nine in 2018 comprising four females and five males). One focus group was considered appropriate for each cohort, given that the usual male/female biases identified in other studies (Kelley and Bryan, 2018) could be managed. The focus groups were predominantly a self-directed process, involving a supervisor and an observer in each focus group. Participants were encouraged to self-nominate their turn and invited to add additional reflections to build on what others said. To reduce the bias of responses motivated by students wanting to “fit in”, a reflexive approach was used. This involved paraphrasing student responses and eliciting further input or thoughts on the interviewer’s understanding of the response. Feedback to students focused on their willingness to engage, not on the content of responses.
+
+In addition to the focus groups, course information was evaluated as “archival data”. The authors considered what was taught, when it was taught and how it was delivered. This included the course profile (summary of course information provided to students when choosing courses to study), in-country itinerary (tabulated summary), lecture content (PowerPoint slides), field visit collateral (pamphlets and flyers) and assessment-related items (marking rubrics to guide students in their assessment item, and assessment feedback enabled by electronic marking). The items were de-identified for any student information, then shared with the research team via Dropbox, ensuring individual student participants remained anonymous. Anecdotal memories of course design and implementation were shared within the research team in discussing the results, but not relied upon as evidence.
+
+Focus groups were manually transcribed through the NVivo software. An inductive coding exercise was carried out, which consists of a three-step process of in vivo coding, axial coding and selective coding (Glaser, 1992). A thematic analysis was conducted to identify the recurring patterns (Strauss and Corbin, 1996). Validation of the data was achieved through triangulation of methods (i.e. artifact elicitation, document analysis, participant observations) comparing students’ perspectives (Denzin, 2012) and further validation was achieved through reflecting on the results using Bloom’s taxonomy and Cynefin framework. The course information was mapped using Bloom’s taxonomy and the Cynefin framework’s four domains. To allow some comparisons to be made, the data was also qualitatively analysed using a clustering method constructed from the key facets of the Cynefin framework, to visualise students’ understanding of urban planning and design as containing clear, complicated, complex and chaotic components (Maxwell, 2012).
+
+To further ensure rigour of this research method, the following alternative guidelines were included:
+
+establish a clear chain of evidence (Walsham, 1995);
+
+examine alternative explanation, multiple viewpoints and potential biases (Klein and Myers, 1999);
+
+corroborate results and theoretical saturation (Strauss and Corbin, 1996); and
+
+aim at generalisation beyond the area under investigation by use of theory (Klein and Myers, 1999).
+
+With a vast amount of literature already available on Bloom’s taxonomy, further exploration of this approach was not pursued. Instead, the authors examined the focus group transcripts inductively, with a view to understanding how the students conceptualised “engineering-in-context” for the situations they encountered, and which competencies they considered important for addressing sustainable development (i.e. the UNSDGs).
+
+Overall, several students in both cohorts spoke to the importance of being mindful of the “complexity” of the overarching problems; however, the word “context” was not common during the focus group sessions. Students did share about the importance of a “system things” (S17-1) approach and an “ability to deeply understand the interconnections and interrelationship” (S17-3) regarding making informed decisions in micro and macro levels. For example, one student remarked:
+
+The connection between decision-making and implementation has to be there so that you can make good decisions that actually are sustainable and not just in a short-term perspective. And integrating that systems thinking, not just on a project, but on a macro policy and strategy level as well (S18-3).
+
+Students also spoke to two aspects of complexity, including complexity relating to the varying needs for interdisciplinary contributions to problem-solving, and complexity in professional perspective/s (attitude) towards the role of engineering and practice in problem-solving. There were several longer reflections by students connecting “lots of different avenues and opportunities” (S17-10) to problem-solving for the UNSDGs. Several students in each cohort reflected on their shift in appreciation from engineering being an isolated profession, to engineering being able to make contributions to big-picture problems such as energy, water and security.
+
+Within the multi-disciplinary cohort, there were also several times in each cohort where a student from one discipline would say something, to which a student from another discipline would say something else and then they would realise they have different perspectives. As such, the focus group discussions in themselves provided an opportunity for learning about personal and disciplinary differences in approaches to problem-solving. For example:
+
+I can see that engineering doesn’t have to be on the side, be more corporate and what not, understanding that all the work that the academics here, and engineers in different parts of Japan do, it highlights the breadth of opportunities in terms of career and impacts you can have, like working on global energy created, or to bring world peace, or advising government, or doing research, or working with NGOs, or working with the UN (S17-10).
+
+With these overarching observations in mind, in the following sections, focus group key findings are presented through the Cynefin framework’s four context “domains” of clear, complicated, complex and chaotic (Kurtz and Snowden, 2003). Examples are included to illustrate students’ perceptions of engineering-in-context and reported shifts in appreciating the variety of professional engineering competencies required to address sustainable development (Sub-question 1). Examples are also included where students referred to experiences (“ah-hah!” moments) in appreciating the level of complexity in problem-solving for the UNSDGs (Sub-question 2).
+
+More than half of the students in each cohort reflected on career opportunities being linked to the need to develop capacity to “correctly identify” (S18-9) problems, and then create “appropriate” (S18-8) solutions. These reflections were a significant but loosely defined awareness in the “clear” quadrant of the Cynefin framework, as the discussions were always referencing increased awareness of how to find and use “already available information”. Many examples were provided by students during the focus groups to the availability of information (data already being gathered by government and corporations – secondary data), which was just waiting to be put into models to find the answers. For example:
+
+So it took me a while to understand the learning is not learning specific things but guess it was being exposed to the UN SDGs and relation of how to take those things to learn and understand what do those things for (S18-5); learn on current knowledge and see how we could extrapolate into the future. That’s not something we talk about that much in lot of courses (S18-6).
+
+Some students struggled to understand the pedagogical approach and intended learning outcomes but were beginning to think beyond the conventional program deliverables of theories, equations and calculations, with conscious regard for the thinking process. For example:
+
+I guess for me – I am a very black and white thinker. And studying engineering we always learn a theory or a concept or how to calculate something in particular and we would work on that perfecting it. And then learn how to apply that in different situations. Being in Japan, I questioned myself where is the theory, where is the concept, what are we learning? (S18-5).
+
+Students identified the opportunity to draw on others’ expertise, for example:
+
+[…] it’s amazing to see how even though environmental engineering and civil are different from each other we can work together in a team. Australia has more to benefit and learn from Japan (S18-9).
+
+Many students noted the shift in their appreciation of the magnitude and significance of infrastructure resilience demonstrated in Japan. For example:
+
+Japan is an exemplification of the spirit of the UNSDGs through its resource management, disaster preparation and adaptation to the next stage of human society. From an engineering perspective, there are many challenges to overcome, however Japan presents a bright picture of what the future of the world may one day look like (S18-9).
+
+Several students also referred to increased appreciation of learning from how others deal with complicated situations – in this case, how Japanese communities and government deal with natural disaster uncertainties. For example, “I was able to see their psychology and use of human resources. Japanese people related to earthquakes and other natural disasters” (S18-9).
+
+One student commented on Japanese companies aligning their practices with UNSDGs inspiring the students. For example:
+
+I now understand the need to learn of different ways of thinking and deciding in order achieve the planning competencies and have a better way of responding to the sustainable development goals. By understanding how Japan responds in the face of great uncertainty, I can now put this theory into practice and work towards succeeding in my field (S18-9).
+
+Students reflected on their in-course learnings about rapidly changing contexts and the Japanese approach to dealing with chaotic conditions. For example, “This experience opened my mind about seeing how things are done there, how to put things into place” (S18-8).
+
+Students of both cohorts also commented repeatedly on their newfound appreciation of links between disciplines like engineering, agriculture and geo-spatial technologies. For example:
+
+[…] before coming here I kind of had an idea of what software engineers do, but I realize now that I didn’t know exactly how they worked and intertwined with the other fields, like civil, etc and also combined with other industries, such as agriculture. It’s always interesting to see how people who work in your future field, in that business, and really get a feel about what it involves (S17-10).
+
+All 19 students mentioned their shift in appreciating the critical need for interdisciplinary teams collectively working solving problems. They also spoke to feeling inspired to think creatively and apply their knowledge to “real-life” situations. For example:
+
+Japan is so forward in being proactive, with engineering in every discipline. I think as engineers now our responsibility is to be, after this point, not to be the same. personally at least, I’ll be a little more driven because I’ve seen a little bit more of the context (S17-2).
+
+In each cohort, a student also noted that problem-solving from historic experiences is unlikely to meet expectations on suitable solutions (with the first author noting much agreement via nodding in both cohorts) (S18-2, S18-9).
+
+Student responses across both the 2017 and 2018 cohorts expressed their shift in appreciating the breadth of the practitioner role in city planning and engineering. For example:
+
+I think when we went to Hiroshima it made me realize that being an engineer is sort of being like a super power, in the size of the potential reaction and you have to decide what you stand for, what you want to create in this world, who you really are, sort of you are in a position to make whatever you want basically, and that’s just remarkable (S17-7).
+
+Students pointed to improved understanding of phrases such as “problem identification” (S18-6), “problem definition” (S18-3) and “assessing the severity to address the global sustainability” (S17-1). For example:
+
+I realize that engineering isn’t just another job, we actually play an important role in the direction society takes, in doing a job well or doing it badly has ramifications on the future of society (S17-5).
+
+Students commented on their shift in understanding how much of Japan’s story could be learned from, relating to innovation in technology, knowledge and ambition and commitment (S17-6, S18-1, S18-6, S18-7). Most students in both cohorts were able to speak to the opportunity for them to apply best practices and technologies from Japan to other global situations if it could be adapted to local conditions. For example, “I think it’s important globally to look at those examples, learn lessons and build upon that and not make the same mistakes again” (S17-3). This example also resonates well within the Cynefin description of operating in the “liminal phase”, i.e. between complex and complicated. Students occasionally referred to dealing with chaotic situations during disasters such as an earthquake or flood; however, this was generally perceived as a context to be planned for and “managed” with scenario modelling informing procedures and protocols.
+
+While several students in both cohorts mentioned their improved appreciation that some contexts are “chaotic”, there was little discussion about how this could be addressed through being an engineer, or which engineering competencies were useful in addressing chaotic contexts. Several students in each cohort reflected on their newfound appreciation of “unprecedented global challenges”, “requiring engineering graduate to be upskilled with 21st Century problem-solving” (S18-7).
+
+One student described the course as a unique learning experience in dealing with rapidly changing contexts, involving using their existing knowledge in different ways:
+
+We used a lot of brain flip in learning. Lot of us are used to core learning like looking at literature, very likely this is [just] the knowledge base we have where we go (S18-10).
+
+However, this did not extend to connecting this newfound agility with knowledge, in dealing with chaotic circumstances. One student reflected in the case of earthquake disaster response but did not see connection to their own professional development, “It’s inevitable for them, they’ll take measures to limit the damage done” (S18-9).
+
+Some students commented on the potential for conflict emerging from wicked problem-solving, and one student referenced Cynefin which had appeared in an introductory slide set:
+
+Without having the ability to resolve conflicts within any discipline, a simple situation could become a complicated one if it’s not handled appropriately, as demonstrated in the Cynefin framework. Wide scale problem solving abilities within the transport sector requires a multi-discipline approach across public, active and private model (S18-8).
+
+Students also discussed an improved appreciation of the variety of skill sets required to deal with rapidly changing and chaotic situations, including the importance of interdisciplinarity. For example, reflecting on one of the field visits, “[with] their improved mind set they are able to accomplish amazing things, they work together cohesively” (S18-2). However, discussions still focused on students attaining skills that they could reapply, with no mention in either cohort of the value of learning how to first distinguish the context for themselves, and then apply their knowledge and skills accordingly. For example, one student reflected, “I learned how to do something once - I can do this again when needed” (S17-3).
+
+Indeed, student reflections revealed the sense of chaos that they experienced during the course, about not being in control of the total knowledge base required for solving the problems they were faced with, although they did not directly identify this, which raises questions about how students internalise context. Some students reflected on the difficulty of sense-making regarding the “Japanese way” (S18-2) of addressing disasters even with the knowledge that they have access to. For example:
+
+I really thought since the trip (about) the idea of fatalism that I definitely (see) persist(ing) in Japanese culture. They have this intense reference for spirituality, they take such measures in time to create shrines and go back there. If we knew that some things are going to happen why would they still live there? What else are they going to do? We face a lot of large-scale problems here. Why aren’t we taking measures? (S18-2).
+
+We have classified this as a reflection about the Cynefin “chaotic” quadrant, in that the students could not work out why in spite of available knowledge of risk of natural disaster, local communities and decision makers are still making “fatalistic” decisions.
+
+The thematic analysis of focus group transcripts draws attention to the influential role context plays in shaping student perceptions of complexity and the holistic needs for engineering competency. However, it raises questions about optimal approaches for guiding students through such complexity. The authors wondered how the design of the program might have stimulated or dampened student appreciation of complexity, and how these findings aligned with desired expectations. To explore this, the learning materials were also evaluated through both the Bloom’s taxonomy and Cynefin lenses. The goal was to understand the extent to which the course content exposed students to the spectrum of problem-solving contexts. This was considered in what was learned (through lectures and field visits), and what was assessed.
+
+Table 2 presents a novel matrix of the Bloom’s taxonomy levels of learning, threshold learning concepts and the four Cynefin quadrants of consideration, for each of the course learning elements (i.e. lectures and activities). The cells were annotated with a description of the materials where the archival data explicitly discussed the domain (i.e. using language from the domain).
+
+From Table 2, the Bloom’s taxonomy evaluation demonstrates the “deep” achievements in the course, through the many discussions consciously integrated into the curriculum, including on buses, in trains, in front of field trip locations, through gaming and role play. Looking at this summary, it is tempting to conclude that the course is “high-achieving” with regard to learning outcomes.
+
+However, it is also clear from the Cynefin evaluation, that in spite of the teaching team’s best intentions, the lesson and activity planning focused on student exposure to experiencing knowledge in contexts with visible constraints (clear, complicated and, to some extent, complex). The authors had placed less emphasis on learning about the ways people in Japan deal with situations where effective constraints are limited or not available (highly complex or chaotic). The author team’s reflection highlighted that where knowledge was shared regarding the chaotic aspects of the topic area, this was predominantly in oral form.
+
+The course profile did not contain information about the type of learning associated with these activities. Current and future challenges and opportunities faced by Japan were highlighted through in-class lectures on innovation and sustainability and resilience; however, the focus was on where systems could be readily understood (clear), and where systems required deeper learning supported by experts (complicated). This comprised lesson content regarding the technical, social, environmental and economic issues facing the engineering discipline, with consideration of factors impacting decision-making and problem-solving in environments that were mostly referred to as “complicated”.
+
+The course did expose students to similarities and differences in culture through the immersive sessions prior to departure. This course content (PowerPoint slides) did discuss the wide spectrum of Japanese likes and dislikes, and cultural differences by age groups. However, such information only reappeared in the in-country English cultural session with some discussion of the influences on design constraints, opportunities and end-user dynamics.
+
+Students undertaking the course were required to do three pieces of assessment comprising the following:
+
+undertake carbon calculations for international travel and develop a strategy for offsetting these emissions (carbon offset report);
+
+describe the range of engineering design challenges and opportunities evident in mega-cities (video presentation); and
+
+evaluate the potential for Australian undergraduate engineers to develop capacity to address complex challenges in urban development (essay).
+
+For each of these items, the authors examined the course assessment item briefings, marking rubrics and assessor feedback regarding how well aligned these items were with Bloom’s taxonomy, threshold learning concepts and the Cynefin framework. Table 3 summarises the assessment scope and findings, highlighting that chaotic systems were notably absent from the course profile, assessment briefing notes or marking rubrics.
+
+From Table 3, the assessment spans all levels of the Bloom’s taxonomy levels of learning, wherein there are documented paper-trails for showing how students are taught, then practice and are assessed on their progression towards “creating”. The course content also addresses the two desired threshold learning concepts of “whole system design” and “design in context”. However, when considering the course evaluation against the Cynefin framework, the learner benefits are more ambiguous. For example, in this course, there was substantial assessment in relation to the “clear”, and “complicated” quadrants. A total of 80% of the assessment also required consideration of complex problem-solving, and students were guided to address this through the marking rubric.
+
+Reflecting on the partially addressed Cynefin quadrants in comparison to the Bloom’s taxonomy evaluation, it was evident that the course assessments were in effect reinforcing learner experiences of course bias towards “clear” and “complicated” problem-solving. The “chaotic” aspect of the Cynefin framework was absent (as for the lectures and field visits), except for in Assessor feedback. However, even here, the domain of “complicated” was less emphasised (in the briefings or marking rubrics); for example, the assessor suggested to several students that they could have acknowledged the fallibility of earthquake planning in evaluating the effectiveness of the Japanese planning for disaster management. The domain of “chaotic” was only referenced with regard to the video reflection, where the assessor noted several students had used hand-held video-mode to create a sense of movement and chaos.
+
+The course used a range of these strategies to create the conditions for behaviour evaluation in the students. Importantly, the authors note that reflection, review and metacognition are repeated themes in the literature in the context of bringing awareness to changed behaviour. The use of various reflective learning strategies during the course highlights this. This mind-map (Figure 4) tool demonstrated that the brain works by beginning with a central focal point and working outward in a random yet organised fashion. Mind mapping engages and focuses on using visuals along with the traditional verbiage from lectures and tests.
+
+Overall, students reported the value of these reflections towards their improved understanding of the need for multidisciplinary and novel approaches to embedding the UNSDGs in engineering practice. The students stated key benefits of mind mapping, such as “everyone working together and hearing different opinion”, “drawing out knowledge and memories of the trip”, “effective way to facilitate group discussion about complex topics” and as “a helpful tool in comprehending the whole scope of Japan and this trip”:
+
+Processing the information shown from the growing innovation and infrastructure in Japan, I was able to establish a connection between the UNSDGs, EA competencies and the complex innovation and infrastructure in Japan (S18-8, S18-9).
+
+It is clear from the thematic analysis of focus group data that the course learning experience was about students attaining knowledge skills that they could reapply in problem-solving for “clear”, “complicated” and “complex” contexts. From the course mapping results, this could be concluded as a successful outcome of the implemented course curriculum as it was designed to focus on such knowledge and skill development and adopted strategies that spanned the Bloom’s taxonomy of depths of learning.
+
+However, when evaluated using the Cynefin framework, both the curriculum design and learner experience fall short in developing students’ capacity to conceptualise complexity in addressing sustainable development outcomes, missing knowledge and skills for chaotic problem-solving contexts, which are prevalent in real life, and in addressing the UNSDGs. While students do learn how to reference and use factual and relevant information (“clear”), appreciate the role of professional contributions (complicated) and value interdisciplinary teams (complex), there is little in the way of learning about dealing with rapidly changing and uncertain contexts (chaotic). Subsequently, students externalised responsibilities (i.e. outside their engineering professional competencies) in dealing with chaotic contexts using language such as “it’s up to them” and “it’s their responsibility”. Furthermore, at the end of the course, students were left wanting to minimise the likelihood of chaotic situations through more modelling and design, rather than feeling confident in their professional roles and contributions during a chaotic situation.
+
+With this in mind, the following sections discuss curriculum design opportunities for broadening student appreciation of context, referring to the theory and empirical findings. The authors present a new “context integration model” for improving learning outcomes in curriculum design, and then apply this to this course to inform the curriculum renewal planning and as a worked example for others.
+
+This study has helped us to improve the appreciation of the merits of the course design beyond exposure to content and physical context appreciation of location-specific design. Students self-selected to come on the course and had an interest in how to address the UNSDGs. The course then propelled them into an unknown context, from which they needed to navigate to a place of “knowing” how to address the challenges observed. Borrowing from the fictitious “Wizard of Oz” narrative where Dorothy is swept into another world, in this course, students had to transition through a realization that “we’re not in Kansas anymore”, to then find a way back to knowing what to do. Rather than using their learned knowledge and skills, the UNSDGs required learning a new set of “sustainability” and “whole system design” rules, in addition to cultural rules about the country and culture.
+
+The course design allowed us to observe and document what happens when students come up against situations where known and unknown rules come into conflict, and their responses in the subsequent disorder (see for example in the above thematic analysis regarding the student comment on the potential for conflict being so high). The process encouraged us to think more about how to equip students with problem-solving skills to “recover” from the disorder and chaos spaces, and back into complex/complicated/clear domains.
+
+The authors also became more appreciative of the “liminal phase” in Cynefin, between the complex and complicated domains, where students are navigating through an iterative process of problem-solving. This study was multi-layered, exposing students to multiple contexts (field trips) but students’ appreciation of the cultural layer that is all-encompassing (i.e. in this case, the “Japanese way”) was an unexpected learning outcome in context appreciation. As the liminal phase looks different for different cultures (for example, the student quote regarding Japanese fatalism) – the research team became aware that UNSDGs spanning many cultures present additional challenges in translating from complex into known “rules of the game”. Furthermore, what are considered effective constraints in one place may not be considered effective somewhere else.
+
+Reflecting on the course using both threshold learning theory and Cynefin theory, the authors were able to see through this course experience, that the “a-hah!” moment is a simulation of the rapid transition into complex from any of the other quadrants or central “disorder”. The learner has an opportunity in the course, to experience being in an unfamiliar place, and then have the opportunity to do the learning in how to get back to designing for this space.
+
+Reflecting on the effort to create circumstances beyond “clear” – i.e. crossing up to several Cynefin boundaries through complicated, complex and chaotic – it was realised that an international field trip automatically jumped at least a couple of thresholds, through providing a foreign language context that caused students to wonder how they could even find the expert, and how they could communicate with them. Then, the course focus on disaster prevention and planning placed the students in past and future chaotic environments, including times in “disorder”.
+
+Bloom’s taxonomy provides a robust tool to consider the process of curriculum renewal, towards developing student skills in higher order activities. However, it is clear from the course mapping and focus group thematic analysis results, that the Bloom’s taxonomy does not explicitly prompt educators – or learners – to consider the context of the problem that they are solving for, where each problem brings with it its own unique blend of clarity, complexity, complication and chaos. This presents a significant gap in curriculum logic when the authors seek to develop students for the real world – including developing student competencies in addressing the UNSDGs – because while the UNSDGs are global, problem-solving most often occurs locally and regionally, and is heavily dependent on context ranging from straightforward to chaotic and likely changing over time.
+
+Considering the literature review and reflecting on this exploration of one course experience, engineering education tends to psychologically anchor students in the domain of the expert, or “complicated” in Cynefin terms. The authors also know from established theory (Maslow, 1943) that if students experience “new and novel”, without being aware of how to deal with “complex” and “chaotic” contexts, there is potential for loss of identity and sense of professional belonging, leading to confusion, lack of confidence and even shut-down on the further development of self. With this in mind, there is a risk that in developing engineering graduates who can deliver sustainable solutions (Desha and Caldera, 2019), unsupported exposure to the “complicated” domain will result in students (and later professionals) avoiding such contexts and discarding any associated knowledge, further reinforcing the problem of being ill-prepared to contribute to problems that present as chaotic.
+
+In the process of reflecting on the first cohort’s focus group data and course design, the authors searched for learning models that dealt with supporting exploration of varying contexts for problem-solving. Cynefin framework was identified as a lens through which the authors could explore context appreciation to help students navigate first to the type/s of problem/s being faced, and then within this to work out how best to problem-solve and how to locate one’s own knowledge and role within the problem space. It also unlocked another question for the authors regarding the concept of “complexity” itself, and whether students actually have capacity to conceptualise complexity – in unpacking what they see, which needs to be addressed in future iterations of the course, i.e. is there an opportunity in what is being taught, to develop this competency? The following section presents a model that was built to guide educators and researchers in this field.
+
+In the process of running and evaluating the course, the authors have inductively developed a model to help us understand the concept of “context” in terms of underpinning theory. Initially, the research team focused on giving students sudden and “jolting” experiences that would likely create an “ah-hah!” learning moment that could not be unlearned – i.e. how could we create contexts that are sufficiently novel, to stimulate threshold learning. These ambitions were based on the first-author’s experiences in curriculum renewal, her previous investigations into whole system design (Stasinopoulos et al., 2013) and on her appreciation of Bloom’s taxonomy and threshold learning theory. This underpinning knowledge is summarised in Figure 5.
+
+Connecting this lived experience appreciation of the problem challenge with the ethnographic methods (LeCompte and Schensul, 2010), the authors constructed the working model shown in Figure 6. In this figure, the curriculum is shown to be influenced by “mediating domains” of Bloom’s taxonomy and threshold learning theory. As shown, changes in the “dependent domain” are affected by changes in the independent domain/s.
+
+Further to learning about the Cynefin framework and its contributions to understanding “context”, it became evident that this was a key “mediating domain”. As a result, the model was updated to the “context integration model” shown in Figure 7, where the more engineering students understand about complexity, the greater their appreciation for whole of system design requirements for UNSDGs.
+
+In summary, a student’s improved competency in whole system design is informed by how well they appreciate complexity as an essential competency for the UNSDGs. This can be influenced through efforts made in the mediating domains, with respect to improving students’ depth of learning (Bloom’s taxonomy), ensuring critical path learning (threshold learning theory) and learning in context (Cynefin Framework). Context and future opportunity can be mediators for rapid development of complexity understanding in practice. Through appreciating context which includes culture and domain knowledge, students are empowered with the ability to undertake “sense-making” problem-solving. Using this model, the course-mapping and focus group methods used in the course evaluation serve to evaluate the effectiveness of the mediating domains, represented by the upwards arrow in the figure.
+
+Through including consideration of the four Cynefin domains in the course mapping and focus group analytics, several opportunities were realised for the course to be more effective in its aims and objectives. The Cynefin domains helped to understand that the “chaotic” reality is missing in the narrative for students, which would further empower students to appreciate the role of engineering in problem-solving. It also helped the authors to understand the increased capacity of the students to distinguish between three of the domains, including an increased awareness about the importance of factual and relevant information (“clear”), increased acknowledgement of the varying roles of professional practitioners in problem-solving depending on the type of problem (“complicated”) and the importance of interdisciplinary teams in tackling complex and complicated problems (“complex”). The focus group data results confirmed the results of the mapping, where students reflected on challenges in locating themselves and their knowledge in some contexts.
+
+To address the gap for this course, several aspects of the course design for the next iteration (planned for 2021) will be reviewed as follows:
+
+Course profile review, to adjust the emphasis on using secondary data to support decision-making, and to prioritise the initial step of appreciating the context of the problem being addressed. This will help to focus student learning that the data itself is not a direct conduit to the solution – it helps in readily creating an information source to contribute to problem-solving in different ways, depending on the context. It will include updating the learning outcomes to prioritise the development of agility in using knowledge (core course experience) as a critical skill in dealing with complex, complicated and chaotic circumstances.
+
+Lecture and field visit review to embed how engineering knowledge and skills could be useful in addressing chaotic circumstances, and the importance of taking time to consider the information-at-hand and implications of alternative decisions, even if problems or situations appear “urgent” and there is strong pressure to apply methods suited to “complex” or “complicated” contexts. In addition, inspired by the student insights gained during the focus groups used for this study, group discussions will be integrated within the schedule, to encourage discussions between students of different disciplinary backgrounds about their experiences and insights.
+
+Assessment review to embed considerations regarding changing contexts and how problem-solving could change. This includes scoping amendments for Assessment Item 2 (Video) to consider societal and land-use change over time in response to such disruptions, and lessons learned by Japanese governments and communities in agility and resilience through these experiences. It also includes scoping amendments for Assessment Item 3 (Essay) to incorporate reflections on group discussions about the sense of chaos that they experienced during the course, about not being in control of the total knowledge base required for solving the problems they were faced with complex and chaotic situations.
+
+With these amendments, the authors anticipate that the course will require students to experience problem-solving in:
+
+complicated contexts contributing from “this is what I know”;
+
+complex contexts contributing from “I have to work this bit out with someone else, where the relationships may need to be negotiated”; and
+
+chaotic contexts contributing from “I have no precedent to rely on to solve this problem, so I will contribute using an iterative trial and error approach in close collaboration with colleagues”.
+
+This includes thinking less of self – or others – as experts in a problem-solving context, and more about recognising the varying roles of disciplinary knowledge, and the necessity of iterative problem-solving where the best solution may be to start again.
+
+This paper has documented a study where the authors explored opportunities for improving undergraduate learning outcomes relating to context-appropriate problem-solving, when addressing the UNSDGs. In attempting to make sense of course evaluation data, the authors searched for theoretical explanations and sense-making frameworks or models that addressed context. In using the Cynefin framework as a lens to evaluate this course, the authors were able to immediately appreciate a number of course strengths and improvement opportunities. The mapping of teaching intentions across the Cynefin domains highlighted the course’s current emphasis on competency development for dealing with clear, complicated and complex problem contexts, and the need for more experiences and training in dealing with chaotic contexts. These findings were immediately insightful regarding the gaps in curriculum focusing on chaotic environments, across lectures, field visits and assessment.
+
+The authors acknowledge the limitations associated with the small sample size. However, the objective of this study was to delve deeper into to the phenomena of using intensive learning to embed the principles of UNSGDs into engineering education. The rich descriptions provided in this study creates opportunities for further inquiry and contributes to theorisation of sustainable competency development through a novel methodological approach to pedagogy and evaluation that draws on Bloom’s taxonomy (depth of learning), threshold learning theory (critical path learning) and the Cynefin framework (learning in context).
+
+With this newfound appreciation of the benefits of combining these theories into a holistic evaluation of competency development, the authors have inductively developed the “context integration model” to prompt similar evaluation by other educators who can build into the course opportunities for students to first distinguish context before embarking on problem-solving.
+
+The authors intend to evaluate the course itself as a longitudinal study. This includes planned future interviews with current and past cohorts and planned future interactions with other student cohort members. A broader question herein concerns enabling more of the program cohort (not just those enrolled in the course) to develop a factfulness mindset that enables better decision-making. Future scholarship will need to consider how these learnings from an international experience can be translated into a local or virtual experience that is more accessible for more students.
+
+The findings of this paper have implications for entities accrediting undergraduate programs in universities, providing a framework for evaluating the development of students to deal with the full range of problem-solving contexts, and with high levels of interdisciplinarity. As the UNSDGs are causing an evolution in the identity of engineers, so must the way of preparing students to face problem-solving with a “context-first” approach to evaluating current evidence rather than copy-pasting prior solutions to the problem. The findings provide a relevant and useful point of reference for colleagues attempting to move beyond rhetoric and awareness, to develop engineering graduates who can problem-solve towards delivering sustainable solutions.
+
+Bloom’s taxonomy
+
+Cynefin framework
+
+An illustration of the research design
+
+An example of a consolidated mind map from the field trip
+
+Theoretical rationale informing initial coursework design
+
+Working model for context integration
+
+Context integration model for curriculum renewal
+
+Summary of the two participant cohorts, their program details and analysis coding
+
+Matrix of Cynefin framework quadrants of consideration for course content
+
+Source: Course elements were adapted from Desha and Caldera (2019)
+
+Matrix of Cynefin framework quadrants of consideration for course assessment
+
+*Evidence: CP = course profile; AB = assessment briefing note; MR = marking rubric; AF = assessment feedback
+
+Source: Assessment items were adapted from Desha and Caldera (2019)
+
+Comparison of theories and methodologies of selected previous studies (chronological order)
+
+A summary of developments in ontology and the impacts for teaching UNSDGs
+
+Adult learners bring experiences and perspectives to learning. These greatly influence how they process and construct knowledge
+
+Different types of knowledge manifest in different processing skills (e.g. recall, discrimination, understanding concepts, applying rules, solving problems). Experiences and authentic (real life) problems provide efficient mechanisms for exposing adult learners to new concepts, developing deeper skills and metacognitive process and relating new knowledge to old
+
+Denial and resistance are common reactions to new knowledge that acts in conflict with old knowledge. Experiences that include metacognitive processes (e.g. reflective journals) provide opportunities for the learner to construct new meaning and mental models
+
+Relating UNSDGs and implementation approaches to undergraduate students in first-world environments helps to minimise some of the conflicts arising from authenticity (“relevance of this to me”)
+
+In the 1980s education, generally, and especially professional education, became more aligned with business needs to automate. Emergent theorists focussed on management systems to support these aims and were less learner centric
+
+This period delivered significant thinking on the interplay between systems engineering and management – how systems thinking, when applied to human capital, can reduce waste and improve performance, consistency and predictability
+
+Out of this came deeper understanding about problem-solving contexts (Cynefin), automatic responses to problems (based on experience) and working effectively with dissonance and resistance to learning
+
+The relationship between systems (processes and procedures) and behaviour was also under the spotlight
+
+Simultaneous catastrophes in the western world (GFC, 9/11, etc.) saw the concept of failure and how to treat it both in a risk management sense and a learning tool gain popularity in the early 2000s. The relationship between experience and systems was looked at closely. The emergent educational need was to prepare for the unknown and leverage small failures to devise solutions to wicked problems
+
+This development highlights the need to change how we view the dynamics of professionalism, limitations of knowledge and multidisciplinary when solving wicked problems. Students learning about UNSDGs must practice this way of working. Learning needs to include unsolvable or very difficult problems, where the assessment is focussed on the interpersonal skills and creative melding of divergent bodies of knowledge as well as the application of core course content
+
+Table A1
+
+Table A2
+
+Argyris, C. (1977), “Double loop learning in organizations”, Harvard Business Review, Vol. 55 No. 5, pp. 115-125.
+
+Baillie, C., Goodhew, P. and Skryabina, E. (2006), “Threshold concepts in engineering education-exploring potential blocks in student understanding”, International Journal of Engineering Education, Vol. 22 No. 5, p. 955.
+
+Becker, K.L. (2007), Unlearning in the Workplace: A Mixed Methods Study, Queensland University of Technology.
+
+Berthet, V. (2003), “Une responsabilité our l’enseignement supé rieur”, Economie et Humanisme, Vol. 365, pp. 10-12.
+
+Bloom, B.S. (1956), Taxonomy of Educational Objectives. Vol. 1: Cognitive Domain, McKay, New York, NY, pp. 20-24.
+
+Byrne, E.P. (2017), “Educating chemical engineers for contemporary challenges: the value of context, connection and collaboration”, Paper presented at the International Engineering Education Forum, Tianjin University (TJU).
+
+Byrne, E.P., Desha, C.J., Fitzpatrick, J.J. and “Charlie” Hargroves, K. (2013), “Exploring sustainability themes in engineering accreditation and curricula”, International Journal of Sustainability in Higher Education, Vol. 14 No. 4, pp. 384-403.
+
+Churchill, N. and Bygrave, W.D. (1989), “The entrepreneur ship paradigm (I): a philosophical look at its research methodologies”, Entrepreneurship Theory and Practice, Vol. 14 No. 1, pp. 7-26.
+
+Crawley, E.F., Malmqvist, J., Östlund, S. and Brodeur, D.R. (2007), Rethinking Engineering Education: The CDIO Approach, Springer Science/Business Media, LLC, New York, NY.
+
+Creswell, J.W. (2013), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Sage publications.
+
+Dekker, S., Cilliers, P. and Hofmeyr, J.H. (2011), “The complexity of failure: implications of complexity theory for safety investigations”, Safety Science, Vol. 49 No. 6, pp. 939-945.
+
+Delahaye, B.L. (2004), Human Resource Development Adult Learning and Knowledge Management, John Wiley and Sons.
+
+Denzin, N.K. (2012), “Triangulation 2.0”, Journal of Mixed Methods Research, Vol. 6 No. 2, pp. 80-88.
+
+Desha, C. and Caldera, S. (2019), “Foundations and horizons: the critical role of international coursework to engage students in engineering for the 21st century”, WEC2019: World Engineers Convention 2019, Engineers Australia, p. 1261.
+
+Desha, C. and Hargroves, K.C. (2012), “Applying threshold learning theory to teach sustainable business practice in post-graduate engineering education”, in Sagdeo, P. (Ed.), Proceedings of the 119th ASEE Annual Conference and Exposition, American Society for Engineering Education, pp. 1-16.
+
+Engineers Australia (2011), “Stage 1 competency standard for professional engineer”, available at: https://www.engineersaustralia.org.au/sites/default/files/2019-11/Stage1_Competency_Standards.pdf (accessed 13 March 2019).
+
+Ferrer-Balas, D., Mulder, K., Lourdel, N., Gondran, N., Laforest, V. and Brodhag, C. (2005), “Introduction of sustainable development in engineers' curricula”, International Journal of Sustainability in Higher Education, Vol. 6 No. 3, pp. 254-264.
+
+Gagne, R.M. (1974), “Instruction and the conditions of learning”, Psychology of School Learning: Views of the Learner, Vol. 1, pp. 153-175.
+
+Geels, F.W. (2011), “The multi-level perspective on sustainability transitions: responses to seven criticisms”, Environmental Innovation and Societal Transitions, Vol. 1 No. 1, pp. 24-40.
+
+Glaser, B.G. (1992), Basics of Grounded Theory Analysis, Sociology Press.
+
+Glavič, P., Lukman, R. and Lozano, R. (2009), “Engineering education: environmental and chemical engineering or technology curricula – a European perspective”, European Journal of Engineering Education, Vol. 34 No. 1, pp. 47-61.
+
+Green, J.L., Skukauskaite, A. and Baker, W.D. (2012), “Ethnography as epistemology”, Research Methods and Methodologies in Education, Vol. 309.
+
+Gutiérrez Ortiz, F.J., Fitzpatrick, J.J. and Byrne, E.P. (2020), “Development of contemporary engineering graduate attributes through open-ended problems and activities”, European Journal of Engineering Education, Vol. 46 No. 3, pp. 1-16.
+
+Hanning, A. and Priem Abelsson, A. (2010), “The Swedish industry’s needs of competences in sustainable development: a comparative analysis to the engineering education at Chalmers University of Technology”, MSc thesis, Physical Resource Theory, Energy and Environment, Chalmers University of Technology, Gothenburg.
+
+Hanning, A., Abelsson, A.P., Lundqvist, U. and Svanström, M. (2012), “Are we educating engineers for sustainability? Comparison between obtained competences and Swedish industry's needs”, International Journal of Sustainability in Higher Education, Vol. 13 No. 3, pp. 305-320.
+
+International Engineering Alliance (2019), “Working together to advance educational quality and enhance global mobility within the engineering profession”, available at: http://www.ieagreements.org/ (accessed 11 June 2019).
+
+Kahneman, D. (2011), Thinking, Fast and Slow, Macmillan, London.
+
+Kelley, M.S. and Bryan, K.K. (2018), “Gendered perceptions of typical engineers across specialties for engineering majors”, Gender and Education, Vol. 30 No. 1, pp. 22-44.
+
+Kevany, K., Huisingh, D., García, F.J.L., Lourdel, N., Gondran, N., Laforest, V., Debray. and Brodhag, C. (2007), “Sustainable development cognitive map: a new method of evaluating student understanding”, International Journal of Sustainability in Higher Education, Vol. 8 No. 2, pp. 170-182.
+
+King, R. (2008), “Engineers for the future: Addressing the supply and quality of Australian engineering graduates for the 21st century”, Australian Council of Engineering Deans.
+
+Kirman, C., Simon, T. and Hays, S. (2019), “Science peer review for the 21st century: assessing scientific consensus for decision-making while managing conflict of interests, reviewer and process bias”, Regulatory Toxicology and Pharmacology, Vol. 103, pp. 73-85.
+
+Klein, G. (2013), Seeing What Others Don't: The Remarkable Ways we Gain Insights, Public Affairs, London.
+
+Klein, H.K. and Myers, M.D. (1999), “A set of principles for conducting and evaluating interpretive field studies in information systems”, MIS Quarterly, Vol. 23 No. 1, pp. 67-93.
+
+Kolb, D.A. (1984), Experience as the Source of Learning and Development, FT Press, Upper Saddle River, NJ.
+
+Kotter, J.P. (2012), Leading Change, Harvard business press, Boston.
+
+Krathwohl, D.R. and Anderson, L.W. (2009), A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives, Longman.
+
+Kurtz, C.F. and Snowden, D.J. (2003), “The new dynamics of strategy: sense-making in a complex and complicated world”, IBM Systems Journal, Vol. 42 No. 3, pp. 462-483.
+
+LeCompte, M.D. and Schensul, J.J. (2010), Designing and Conducting Ethnographic Research: An Introduction, Vol. 1, Rowman Altamira.
+
+Leigh, E. and Hutchinson, D. (2014), “DIGICON: It's not digital but it is confronting”, Proceedings of the 2014 Conference on Interactive Entertainment, pp. 1-4.
+
+Lozano, R. (2006), “A tool for a graphical assessment of sustainability in universities (GASU)”, Journal of Cleaner Production, Vol. 14 Nos 9/11, pp. 963-972, available at: https://doi.org/10.1016/j.jclepro.2005.11.041
+
+Lozano, R. and Peattie, K. (2011), “Assessing cardiff university’s curricula contribution to sustainable development using the STAUNCH (RTM) system”, Journal of Education for Sustainable Development, Vol. 5 No. 1, pp. 115-128, available at: https://doi.org/10.1177/097340821000500114
+
+Lozano, R. and Barreiro-Gen, M. (2019), “Analysing the factors affecting the incorporation of sustainable development into European higher education institutions' curricula”, Sustainable Development, Vol. 27 No. 5, pp. 965-975.
+
+Lozano, R., Barreiro-Gen, M., Lozano, F.J. and Sammalisto, K. (2019), “Teaching sustainability in European higher education institutions: assessing the connections between competences and pedagogical approaches”, Sustainability, Vol. 11 No. 6, p. 1602.
+
+Lu, Y., Nakicenovic, N., Visbeck, M. and Stevance, A.-S. (2015), “Policy: five priorities for the UN sustainable development goals”, Nature, Vol. 520 No. 7548, pp. 432-433.
+
+Macdonald, I., Burke, C. and Stewart, K. (2018), Systems Leadership: Creating Positive Organisations, Routledge.
+
+Male, S. and Bennett, D. (2015), “Threshold concepts in undergraduate engineering: exploring engineering roles and value of learning”, Australasian Journal of Engineering Education, Vol. 20 No. 1, pp. 59-69.
+
+Maslow, A.H. (1943), “A theory of human motivation”, Psychological Review, Vol. 50 No. 4, p. 370.
+
+Mason, M. (2009), “Making educational development and change sustainable: insights from complexity theory”, International Journal of Educational Development, Vol. 29 No. 2, pp. 117-124.
+
+Mason, M. (2010), “Sample size and saturation in PhD studies using qualitative interviews”, Forum qualitative Sozialforschung/Forum: qualitative social research.
+
+Maturana, H.R. (1970), Biology of Cognition, Biological Computer Laboratory, Department of Electrical Engineering, University of IL, Urbana, pp. 4-9.
+
+Maxwell, J.A. (2012), Qualitative Research Design: An Interactive Approach, Vol. 41, Sage publications, Thousand Oaks, CA.
+
+Merrill, M.D. (2002), “First principles of instruction”, Educational Technology Research and Development, Vol. 50 No. 3, pp. 43-59.
+
+Mesa, J.A., Esparragoza, I.E. and Maury, H.E. (2017), “Sustainability in engineering education: a literature review of case studies and projects”, Paper presented at the 15th LACCEI International Multi-Conference for Engineering, Education Caribbean Conference for Engineering and Technology, LACCEI 2017.
+
+Mezirow, J. (1981), “Transformative dimenssion of adults learning. San Franciso”, Adult Education, Vol. 32 No. 1, pp. 3-24.
+
+Mohsen, J., Ismail, M.Y., Parsaei, H.R. and Karwowski, W. (2019), Global Advances in Engineering Education, CRC Press, Boca Raton, FL.
+
+Mulder Karel, F. (2012), “How to educate engineers for/in sustainable development: ten years of discussion, remaining challenges”, International Journal of Sustainability in Higher Education, Vol. 13 No. 3, pp. 211-218.
+
+Mulder Karel, F. (2015), “Motivating students and lecturers for education in sustainable development”, International Journal of Sustainability in Higher Education, Vol. 16 No. 3, pp. 385-401.
+
+Pappas, E., Pierrakos, O. and Nagel, R. (2013), “Using bloom’s taxonomy to teach sustainability in multiple contexts”, Journal of Cleaner Production, Vol. 48, pp. 54-64.
+
+Ponelis, S.R. (2015), “Using interpretive qualitative case studies for exploratory research in doctoral studies: a case of information systems research in small and medium enterprises”, International Journal of Doctoral Studies, Vol. 10 No. 1, pp. 535-550.
+
+Reeves, S., Peller, J., Goldman, J. and Kitto, S. (2013), “Ethnography in qualitative educational research: AMEE guide no. 80”, Medical Teacher, Vol. 35 No. 8, pp. e1365-e1379.
+
+Robson, D. (2019), The Intelligence Trap: Revolutionise Your Thinking and Make Wiser Decisions, Hodder and Stoughton, London.
+
+Romero, S., Aláez, M., Amo, D. and Fonseca, D. (2020), “Systematic review of how engineering schools around the world are deploying the 2030 agenda”, Sustainability, Vol. 12 No. 12, p. 5035.
+
+Roorda, N. (2001), “AISHE: auditing instrument for sustainable higher education”, Dutch Committee for Sustainable Higher Education.
+
+Rosling, H., Rosling, O. and Ronnlund, A.R. (2018), Original: Factfulness, Hachette UK, London.
+
+Savin-Baden, M. and Tombs, G. (2018), “Threshold concepts and problem-based learning”, Threshold Concepts in Problem-Based Learning, Brill Sense, pp. 1-17.
+
+Seatter, C.S. and Ceulemans, K. (2017), “Teaching sustainability in higher education: pedagogical styles that make a difference”, Canadian Journal of Higher Education, Vol. 47 No. 2, pp. 47-70.
+
+Segalàs, J. (2012), “What do EESD ‘experts’ think sustainability is? Which pedagogy is suitable to learn it? Results from interviews and Cmaps analysis gathered at EESD 2008”, International Journal of Sustainability in Higher Education, Vol. 13 No. 3, pp. 293-304.
+
+Segalàs, J., Ferrer-Balas, D. and Mulder, K.F. (2010), “What do engineering students learn in sustainability courses? The effect of the pedagogical approach”, Journal of Cleaner Production, Vol. 18 No. 3, pp. 275-284.
+
+Segalàs, J., Ferrer-Balas, D., Svanström, M., Lundqvist, U. and Mulder, K.F. (2009), “What has to be learnt for sustainability? A comparison of bachelor engineering education competences at three European universities”, Sustainability Science, Vol. 4 No. 1, p. 17.
+
+Senge, P.M. (1997), “The fifth discipline”, Measuring Business Excellence, Vol. 1 No. 3, pp. 46-51.
+
+Senge, P.M., Smith, B., Kruschwitz, N., Laur, J. and Schley, S. (2008), The Necessary Revolution: How Individuals and Organizations Are Working Together to Create a Sustainable World, Nicholas Brealey, London.
+
+Shriberg, M. (2002), “Institutional assessment tools for sustainability in higher education: strengths, weaknesses, and implications for practice and theory”, International Journal of Sustainability in Higher Education, Vol. 3 No. 3, pp. 254-270, available at: https://doi.org/10.1108/14676370210434714
+
+Smith, M.H. and Hargroves, K. (2005), The Natural Advantage of Nations: Business Opportunities, Innovation and Governance in the 21st Century, Taylor and Francis, London.
+
+Smith, M.H., Hargroves, K. and Desha, C. (2010), Cents and Sustainability: Securing Our Common Future by Decoupling Economic Growth from Environmental Pressures, Earthscan, Washington, DC; London.
+
+Snowden, D. (2000), “Cynefin, a sense of time and place: an ecological approach to sense making and learning in formal and informal communities’ conference proceedings of KMAC at the university of Aston”, available at: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.196.3058&rep=rep1&type=pdf
+
+Snowden, D. (2017), “Liminal cynefin – image release”, available at: https://cognitive-edge.com/blog/liminal-cynefin-image-release/ (accessed 20 April 2020).
+
+Stasinopoulos, P., Smith, M.H., Hargroves, K. and Desha, C. (2013), Whole System Design: An Integrated Approach to Sustainable Engineering, Earthscan.
+
+Strauss, A.L. and Corbin, J.M. (1996), Grounded Theory: Grundlagen Qualitativer Sozialforschung, Beltz: Psychologie-Verlag-Union, Weinheim.
+
+Taleb, N.N. (2012), Antifragile: how to Live in a World we Don't Understand, Vol. 3, Allen Lane, London.
+
+Taleb, N.N. and Swan, B. (2008), The Impact of the Highly Improbable, Penguin Books, New York, NY.
+
+Thorndike, E.L. (1927), “The law of effect”, The American Journal of Psychology, Vol. 39 Nos 1/4, pp. 212-222.
+
+United Nations Department of Economics and Social Affairs (2018), “68% of the world population projected to live in urban areas by 2050, says UN”, Available at: https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html (accessed 13 March 2020).
+
+United Nations (2015), “Transforming out world: the 2030 agenda for sustainable development”, available at: https://sustainabledevelopment.un.org/sdgs (accessed 13 March 2019).
+
+Van Beurden, E.K., Kia, A.M., Zask, A., Dietrich, U. and Rose, L. (2013), “Making sense in a complex landscape: how the cynefin framework from complex adaptive systems theory can inform health promotion practice”, Health Promotion International, Vol. 28 No. 1, pp. 73-83.
+
+Vemury, C.M., Heidrich, O., Thorpe, N. and Crosbie, T. (2018), “A holistic approach to delivering sustainable design education in civil engineering”, International Journal of Sustainability in Higher Education, Vol. 19 No. 1, pp. 197-216.
+
+Walsham, G. (1995), “Interpretive case studies in is research: nature and method”, European Journal of Information Systems, Vol. 4 No. 2, pp. 74-81.
+
+Wiek, A., Withycombe, L. and Redman, C.L. (2011), “Key competencies in sustainability: a reference framework for academic program development”, Sustainability Science, Vol. 6 No. 2, pp. 203-218.
+
+World Federation of Engineering Organizations (2018), “WFEO engineering 2030”, available at: http://www.wfeo.org/wp-content/uploads/un/WFEO-ENgg-Plan_final.pdf
+
+Zikmund, W.G., Babin, B.J., Carr, J.C. and Griffin, M. (2013), Business Research Methods, Cengage Learning, South-Western.
+
+Associate Professor Cheryl Desha is an Associate Professor in the School of Engineering and Built Environment, and Theme Leader “Digital Earth and Resilient Infrastructure” in the Cities Research Institute, Griffith University, Brisbane, Australia. Over the past two decades, she has used her rapid capacity-building expertise to design and deliver “21st-century” engineering curriculum, towards practitioners who can deliver sustainable solutions. She has co-authored more than 120 publications including 7 books, 2 of which have been listed in the top 40 publications by the Cambridge Institute for Sustainability Leadership.
+
+Dr Savindi Caldera is a Research Fellow in the Cities, Research Institute, Griffith University, Brisbane, Australia. An expert in lean and green manufacturing, and rapid capacity building, she has been working with public and private sector colleagues to enable resilient natural and built environments. A recipient of several prestigious early career academic awards, she is also a member of the UK Higher Education Academy, with over 35 peer-reviewed publications in enabling professionals and students to contribute to the United Nations sustainable development goals.
+
+Ms Deanna Hutchinson is an Adjunct Industry Fellow in the Cities Research Institute, Griffith University, Brisbane, Australia. An industry leader in the application of emerging technologies, including eLearning, spatial information and simulations, with right peer-reviewed papers, she is currently completing doctoral studies examining the anthropology of rural entrepreneurial ecosystems through the Centre for Social Impact, Swinburne University of Technology. Her research is co-funded by the Cradle Coast Authority, a regional development organisation representing nine local governments in North West and West Tasmania. She is also an Advisor to the Tasmanian Government in her capacity as a member of the Tasmanian Spatial Information Council.
+
+Exploring the development of context appreciation in coursework that targets problem-solving for sustainable development
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+1. Introduction
+
+2. Theoretical background
+
+3. Description of the study
+
+4. Learning outcomes – results from focus group data and coursework findings
+
+5. Discussion: improving learning outcomes
+
+6. Conclusions
+
+Figures
+
+Table 1.
+
+Table 2.
+
+Table 3.
+
+Table A1.
+
+Table A2.
+
+Appendix 1
+
+Appendix 2
+
+References
+
+Corresponding author
+
+About the authors
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+International Journal of Sustainability in Higher Education
+
+Volume 22 Issue 5
+
+Exploring the development of context appreciation in coursework that targets problem-solving for sustainable development
+
+Abstract
+
+1. Introduction
+
+2. Theoretical background
+
+3. Description of the study
+
+4. Learning outcomes – results from focus group data and coursework findings
+
+5. Discussion: improving learning outcomes
+
+6. Conclusions
+
+United Nations sustainable development goals
+
+Problem-solving
+
+Curriculum renewal
+
+Immersive experience
+
+Threshold learning theory
+
+Bloom’s taxonomy
+
+Cynefin theory
+
+“How do students’ conceptualisations of context in sustainable development influence their professional competency acquisition?”
+
+“What opportunities exist to improve undergraduate appreciation of context in addressing the United Nations sustainable development goals?”
+
+Can you share with us about anything that you think has shifted for you, compared with your previous perspective of Japan and Japanese “ways” before this course?
+
+When did you notice this shift – was it a gradual shift or a sudden (e.g. “ah-hah!”) moment for you?
+
+Can you share with us about any new knowledge or skills that you have gained in this course that help you to problem-solve?
+
+Would you consider this new knowledge and/or skill to be something you expected to acquire in this course or at university in general?
+
+establish a clear chain of evidence (Walsham, 1995);
+
+examine alternative explanation, multiple viewpoints and potential biases (Klein and Myers, 1999);
+
+corroborate results and theoretical saturation (Strauss and Corbin, 1996); and
+
+aim at generalisation beyond the area under investigation by use of theory (Klein and Myers, 1999).
+
+undertake carbon calculations for international travel and develop a strategy for offsetting these emissions (carbon offset report);
+
+describe the range of engineering design challenges and opportunities evident in mega-cities (video presentation); and
+
+evaluate the potential for Australian undergraduate engineers to develop capacity to address complex challenges in urban development (essay).
+
+Course profile review, to adjust the emphasis on using secondary data to support decision-making, and to prioritise the initial step of appreciating the context of the problem being addressed. This will help to focus student learning that the data itself is not a direct conduit to the solution – it helps in readily creating an information source to contribute to problem-solving in different ways, depending on the context. It will include updating the learning outcomes to prioritise the development of agility in using knowledge (core course experience) as a critical skill in dealing with complex, complicated and chaotic circumstances.
+
+Lecture and field visit review to embed how engineering knowledge and skills could be useful in addressing chaotic circumstances, and the importance of taking time to consider the information-at-hand and implications of alternative decisions, even if problems or situations appear “urgent” and there is strong pressure to apply methods suited to “complex” or “complicated” contexts. In addition, inspired by the student insights gained during the focus groups used for this study, group discussions will be integrated within the schedule, to encourage discussions between students of different disciplinary backgrounds about their experiences and insights.
+
+Assessment review to embed considerations regarding changing contexts and how problem-solving could change. This includes scoping amendments for Assessment Item 2 (Video) to consider societal and land-use change over time in response to such disruptions, and lessons learned by Japanese governments and communities in agility and resilience through these experiences. It also includes scoping amendments for Assessment Item 3 (Essay) to incorporate reflections on group discussions about the sense of chaos that they experienced during the course, about not being in control of the total knowledge base required for solving the problems they were faced with complex and chaotic situations.
+
+complicated contexts contributing from “this is what I know”;
+
+complex contexts contributing from “I have to work this bit out with someone else, where the relationships may need to be negotiated”; and
+
+chaotic contexts contributing from “I have no precedent to rely on to solve this problem, so I will contribute using an iterative trial and error approach in close collaboration with colleagues”.
+
+Adult learners bring experiences and perspectives to learning. These greatly influence how they process and construct knowledge
+
+Different types of knowledge manifest in different processing skills (e.g. recall, discrimination, understanding concepts, applying rules, solving problems). Experiences and authentic (real life) problems provide efficient mechanisms for exposing adult learners to new concepts, developing deeper skills and metacognitive process and relating new knowledge to old
+
+Denial and resistance are common reactions to new knowledge that acts in conflict with old knowledge. Experiences that include metacognitive processes (e.g. reflective journals) provide opportunities for the learner to construct new meaning and mental models
+
+Relating UNSDGs and implementation approaches to undergraduate students in first-world environments helps to minimise some of the conflicts arising from authenticity (“relevance of this to me”)
+
+In the 1980s education, generally, and especially professional education, became more aligned with business needs to automate. Emergent theorists focussed on management systems to support these aims and were less learner centric
+
+This period delivered significant thinking on the interplay between systems engineering and management – how systems thinking, when applied to human capital, can reduce waste and improve performance, consistency and predictability
+
+Out of this came deeper understanding about problem-solving contexts (Cynefin), automatic responses to problems (based on experience) and working effectively with dissonance and resistance to learning
+
+The relationship between systems (processes and procedures) and behaviour was also under the spotlight
+
+Simultaneous catastrophes in the western world (GFC, 9/11, etc.) saw the concept of failure and how to treat it both in a risk management sense and a learning tool gain popularity in the early 2000s. The relationship between experience and systems was looked at closely. The emergent educational need was to prepare for the unknown and leverage small failures to devise solutions to wicked problems
+
+This development highlights the need to change how we view the dynamics of professionalism, limitations of knowledge and multidisciplinary when solving wicked problems. Students learning about UNSDGs must practice this way of working. Learning needs to include unsolvable or very difficult problems, where the assessment is focussed on the interpersonal skills and creative melding of divergent bodies of knowledge as well as the application of core course content
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+2017
+
+Bachelor of Engineering
+
+Civil Engineering
+
+Female
+
+1
+
+S17-1
+
+2017
+
+Civil Engineering
+
+Female
+
+1
+
+S17-2
+
+2017
+
+Civil Engineering
+
+Female
+
+1
+
+S17-9
+
+2017
+
+Civil Engineering
+
+Male
+
+1
+
+S17-10
+
+2017
+
+Mechanical Engineering
+
+Male
+
+1
+
+S17-4
+
+2017
+
+Software Engineering
+
+Male
+
+1
+
+S17-5
+
+2017
+
+Electronic Engineering
+
+Male
+
+2
+
+S17-7
+
+2017
+
+Electronic Engineering
+
+Male
+
+2
+
+S17-8
+
+2017
+
+Electronic and Energy Engineering
+
+Male
+
+1
+
+S17-3
+
+2017
+
+Master of Engineering
+
+Environmental Engineering and Pollution Control
+
+Female
+
+2
+
+S17-6
+
+2018
+
+Bachelor of Engineering
+
+Civil Engineering
+
+Female
+
+3
+
+S18-5
+
+2018
+
+Civil Engineering
+
+Male
+
+3
+
+S18-1
+
+2018
+
+Civil Engineering
+
+Male
+
+3
+
+S18-3
+
+2018
+
+Civil Engineering
+
+Male
+
+3
+
+S18-4
+
+2018
+
+Civil/Bachelor of Business (dual degree)
+
+Male
+
+1
+
+S18-7
+
+2018
+
+Mechanical/Bachelor Industrial Design (dual degree)
+
+Female
+
+2
+
+S18-6
+
+2018
+
+Mechanical/Bachelor Industrial Design (dual degree)
+
+Male
+
+2
+
+S18-2
+
+2018
+
+Bachelor of Planning
+
+Urban and Environmental
+
+Female
+
+4
+
+S18-8
+
+2018
+
+Urban and Environmental
+
+Female
+
+4
+
+S18-9
+
+Weeks 1–3
+
+On-campus experience (Brisbane, Gold Coast, Australia)
+
+Weeks 1–3
+
+Japanese Cultural and Language Immersion
+(2 h per week over 3 weeks) (A1, A2, A3)
+
+2
+
+CP
+
+CP, SN
+
+SN
+
+CP, PP, SN, TW
+
+CP, PP, TW
+
+CP, PP, TW
+
+Weeks 4–5
+
+In-country experience (Nagoya and surrounds, Japan)
+
+Day 1
+
+Evening networking function, including welcome speech (A4), (L1)
+
+3, 0.5
+
+SN
+
+SN
+
+TW
+
+SN
+
+SN, TW
+
+SN, TW
+
+Day 2
+
+Toyota manufacturing plant tour (FV1)
+
+6
+
+PF
+
+TW
+
+TW
+
+TW
+
+CP, SN
+
+CP, SN
+
+PF
+
+PF
+
+Day 3
+
+Nagoya local tour (Port and aquarium) (FV2)
+
+6
+
+PF
+
+PF
+
+SN
+
+SN
+
+SN, TW
+
+CP, SN
+
+CP, SN
+
+PF
+
+PF
+
+SN
+
+Day 4
+
+Introduction (L2)
+
+1
+
+PP, SN
+
+PP, SN
+
+TW
+
+PP, SN
+
+PP, SN
+
+PP
+
+PP
+
+PP, SN
+
+Smart and resilient agriculture (L3)
+
+1
+
+PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP
+
+PP
+
+Waste and resource recovery (L4), (A5)
+
+1, 2
+
+PP
+
+PP
+
+PP
+
+PP
+
+PP, TW
+
+TW
+
+CP, PP, SN, PF
+
+CP, PP, SN, PF
+
+PP
+
+PP
+
+English cultural session (A6)
+
+2
+
+PP
+
+PP, TW
+
+TW
+
+SN
+
+PP, SN
+
+SN
+
+Day 5
+
+SCMAGLEV and railway park (FV3)
+
+3
+
+PF
+
+PF
+
+TW
+
+TW
+
+TW
+
+TW
+
+CP, SN
+
+CP, SN, PF
+
+PF
+
+PF
+
+Nagoya Castle (FV4)
+
+3
+
+PF
+
+PF, SN
+
+CP, SN
+
+CP, SN
+
+SN
+
+SN
+
+Day 6
+
+Hamaoka Nuclear Facility (FV5)
+
+8
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN, PF
+
+PP, PF, SN
+
+PP, PF, SN
+
+SN
+
+Day 7
+
+Hiroshima Peace Museum (FV6)
+
+4
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, SN
+
+CP, SN
+
+PP, PF, SN
+
+PP, PF, SN
+
+SN
+
+Miyajima Island Village and Gates (FV7)
+
+6
+
+PF
+
+PF, SN
+
+SN
+
+SN
+
+PF
+
+SN
+
+Day 8
+
+Kyoto temples and built environment (FV)
+
+8
+
+PF
+
+PF, SN
+
+SN
+
+SN
+
+PF, SN
+
+Day 9
+
+Introduction to smart grid systems (L5)
+
+1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP
+
+PP, SN
+
+Transportation in Japan (L6)
+
+1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP
+
+PP, SN
+
+Health GIS in Japan (L7)
+
+1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP, SN
+
+PP, SN
+
+Super conductors: the future of energy (L8)
+
+1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP
+
+PP, SN
+
+SN
+
+Day 10
+
+Coastal cities resilience (L9)
+
+1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+TW
+
+CP, PP, SN
+
+CP, PP, SN
+
+PP, SN
+
+PP, SN
+
+SN
+
+Day 11
+
+Kyobashi Station and Circular Garden (FV9)
+
+4
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+PF, SN
+
+PF, SN
+
+PF
+
+PF
+
+Trade Investment Queensland (FV10), (L9)
+
+2, 1
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+SN, TW
+
+SN, TW
+
+PF, SN
+
+PF, SN
+
+PP, SN
+
+SN
+
+Tokyo Tower (FV11)
+
+2
+
+PF
+
+PF, SN
+
+SN
+
+SN
+
+PF
+
+PF, SN
+
+Day 12
+
+BigSight/Miraikan Science Museum (FV12)
+
+6
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+SN, TW
+
+PF, SN
+
+PF, SN
+
+PF
+
+PF
+
+Shiodome City Centre (Lendlease) (FV13)
+
+3
+
+PF, PP, SN
+
+PF, PP, SN
+
+PP, SN
+
+TW
+
+TW
+
+PF, SN
+
+PF, SN
+
+PF, SN
+
+PF, SN
+
+1
+
+Week 3
+(20% weighting)
+
+Carbon offset report
+(executive briefing, calculations; 2,000 words)
+
+CP, AB
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+CP, AB, MR, AF
+
+CP, AB, MR, AF
+
+CP, AB
+
+AB, MR, AF
+
+2
+
+Week 7
+(30% weighting)
+
+Video reflection: mega-cities and engineering
+(facts and perspectives; 5–8 min)
+
+CP, AB
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+CP, AB, MR, AF
+
+CP, AB, MR, AF
+
+CP, AB, MR
+
+AB, MR, AF
+
+AB, MR, AF
+
+AF
+
+3
+
+Week 11
+(50% weighting)
+
+Essay: professional practice
+(perspective piece; 3,000 words)
+
+CP, AB
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AB, MR, AF
+
+AF
+
+CP, AB, MR, AF
+
+CP, AB, MR, AF
+
+CP, AB, MR
+
+AB, MR, AF
+
+AB, MR, AF
+
+Introduction of sustainable development in engineers’ curricula
+
+Ferrer-Balas et al. (2005)
+
+Cognitive mapping
+
+Sustainable development education, in France, is confronted with “rigidity, failures and refusal of change” (Berthet, 2003)
+Sustainable development is “surprising, disruptive”, its elaboration creates “uncertainty and tensions” (Berthet, 2003);
+
+Education, Sustainable development, Simulation, Industrial engineering
+
+Owing to its complexity, sustainable development cannot be simply integrated as a supplementary course within the engineers’ curricula
+This study shows that the students’ perception of sustainable development before the training seems mainly focalised on environmental and economical aspects
+
+Sustainable development cognitive map: a new method of evaluating student understanding
+
+Lourdel et al. (2007)
+
+Cognitive mapping
+
+The use of cognitive maps to evaluate the knowledge of students is based on the theory of cognitive learning (Novak, 1990) and in particular on the cognitivist current (Gardner, 1993)
+
+Sustainable development, Education, Cognitive mapping, Training
+
+This study shows that the students’ perception of SD before the training seems mainly focalised on environmental and economical aspects
+After the SD course, an increase of the number of words quoted is noted for each category (social and cultural aspects; stakeholders, principles of SD and allusions to complexity, temporal and spatial dimensions)
+
+What has to be learnt for sustainability? A comparison of bachelor engineering education competences at three European universities
+
+Segalàs et al. (2009)
+
+Case study
+
+Bloom’s taxonomy
+
+Sustainability – Engineering Education Competences
+Europe
+
+The results show that the three universities follow a similar pattern in classifying competences (knowledge and understanding; skills and abilities; and attitudes). There are minor divergences with respect to the list of competences and the levels of learning that Bachelor students should have when graduating
+
+Are we educating engineers for sustainability?: Comparison between obtained competences and Swedish industry’s needs
+
+Hanning et al. (2012)
+
+Exploratory case study, including course content analysis, semi-structured interviews and focus group discussions
+
+The CDIO (conceive, design, implement, operate) approach (Crawley et al., 2007)
+Bloom’s taxonomy of educational objects (Bloom, 1956)
+For categorizing course content into different areas, the taxonomy of Segala’s et al. (2008), using ten different categories, provided input, but in this study (Hanning and Priem Abelsson, 2010)
+
+Sweden, Universities, Curricula, Higher education, Sustainable development, Competences, Engineering education, Swedish industry
+
+It was found that industry demands a broader range of competences in SD amongst engineers in general than what is currently provided
+Quantity, coverage and the level of integration in the educational programme all appear to be important for the students’ perceived competences on SD and for the importance that they put on achieving SD
+
+Using Bloom’s taxonomy to teach sustainability in multiple contexts
+
+Pappas et al. (2013)
+
+Case study
+
+Bloom’s taxonomy
+
+Engineering design, Sustainability, Developmental instruction, Bloom’s taxonomy
+
+Results indicate that students analyse sustainability case studies and move developmentally through six levels of Bloom’s taxonomy: knowledge, comprehension, application, analysis, synthesis and evaluation with increasing skill
+
+Teaching sustainability in higher education: pedagogical styles that make a difference
+
+Seatter and Ceulemans (2017)
+
+Epistemological and pedagogical analysis of relevant literature
+
+Different kinds of models for teaching and learning are required to meet UNESCO’s challenge; the very nature of sustainable development is much more complex than certain and is multidisciplinary at many levels (UNESCO, 2014). The goal of higher education is to support students in developing their capacity for recognizing and understanding the complexity of sustainability issues, and for thinking critically about assumptions, biases, beliefs and attitudes while actively participating in their resolutions. The very nature of sustainability as a contested, multilayered and multifaceted subject provides rich opportunities for critical thinking and transformative learning (UNESCO, 2014). Also constructivist learning theory
+
+Sustainability, Higher education, Pedagogical styles
+
+The central thesis juxtaposes three sustainability curricular positions with three pedagogical models that vary decidedly in their emphasis on the prerogative of the learner’s prior knowledge and beliefs; the engagement of the learner; and the potential for critical thinking and transformative learning. It is found that a transformative pedagogy overcomes and eliminates the paradox, helping societies become more sustainable
+“Today’s students need to be able to recognize the unsustainability of contemporary problem solving, cease searching for the “one right answer,” and think instead in terms of good ideas and best solutions” (P63)
+
+Teaching sustainability in European higher education institutions: assessing the connections between competences and pedagogical approaches
+
+Lozano et al. (2019)
+
+Survey
+
+Ceulemans and De Prins proposed a range of student-activating methods (e.g. videos, brainstorming, case studies, teamwork, jigsaw, assignments, problem-oriented education, oral presentations and project learning)
+Lambrechts et al.. [9] identified a number of pedagogical approaches to develop
+SD competences including the Socratic method, group discussion, roleplay, group or personal diaries,
+brainstorming, peer assessment, internships, solving real community problems, outdoor education,
+bibliographic research, problem analysis, value clarification, case studies, and concept mapping.
+
+Higher education for sustainable development; European higher education institutions; competence; pedagogy; STAUNCH®
+
+This has included research on competences for SD and pedagogical approaches used
+
+Analysing the factors affecting the incorporation of sustainable development into European higher education institutions’ curricula. Sustainable development
+
+Lozano and Barreiro-Gen (2019)
+
+Survey
+
+Several tools have been developed, or modified, to assess SD in universities, such as the Auditing Instrument for Sustainable Higher Education (Roorda, 2001), the Graphical Assessment for Sustainability in Universities tool (R. Lozano, 2006), the Environment Sustainability Assessment Questionnaire, and the Environmental Management Systems (EMS) Self‐Assessment (Shriberg, 2002). Most of these tools focus on improving the sustainability of campus operations (R. Lozano and Peattie, 2011)
+One of the few tools focusing specifically on curricula is the “Sustainability Tool for Assessing UNiversities’ Curricula Holistically” (STAUNCH®)
+
+Curricula assessment, education level, European higher education institutions, gender, higher education for sustainable development, STAUNCH®
+
+The analyses showed that (a) teaching in European courses covers many issues of sustainability in a fairly good balance, with the exception of social issues that are the least addressed; curricula assessment provides a diagnostic of SD incorporation and the factors that affect it
+
+Laws of learning (Thorndike)
+
+∼1932 published in stages
+
+Behaviourist theory
+
+Adult learners bring experiences and perspectives to learning. These greatly influence how they process and construct knowledge
+Different types of knowledge manifest in different processing skills (e.g. recall, discrimination, understanding concepts, applying rules, solving problems). Experiences and authentic (real life) problems provide efficient mechanisms for exposing adult learners to new concepts, developing deeper skills and metacognitive process and relating new knowledge to old
+Denial and resistance are common reactions to new knowledge that acts in conflict with old knowledge. Experiences that include metacognitive processes (e.g. reflective journals) provide opportunities for the learner to construct new meaning and mental models
+Relating UNSDGs and implementation approaches to undergraduate students in first-world environments helps to minimise some of the conflicts arising from authenticity (“relevance of this to me”)
+
+Hierarchy of needs (Maslow)
+
+1943
+
+Psychological health
+
+Types of knowledge (Bloom, Killen, Anderson and Krathwohl)
+
+Developed as behaviourist theory by Bloom in 1950s, extended by Anderson and Krathwohl to cognition (2001) then by Killen to divergent thinking (2005)
+
+Behaviourist theory
+Cognitive theory – knowledge
+Learning theory – instructional design
+
+Nine events of instruction (Gagne)
+
+Developed in a military setting in 1962 and extended in 1987
+
+Learning theory – Instructional design
+Workforce development
+
+Adult learning theory – Andragogy (Knowles)
+
+First coined in 1833 by Kapp and developed by several authors before Knowles argued adults learn differently from children in1968
+
+Adult education theory
+Adult psychology
+Workforce development
+Experiential learning theory
+
+Stages of grief (Kubler Ross)
+
+1969, then extended to change management. Bridges published Managing Transitions in 1991. It is unclear who first brought this to change management
+
+Psychology theory – Grief and loss, Change management, Organisational Psychology, Leadership
+Cognitive theory - Reframing
+
+Double loop learning theory (Argyris, Schon)
+
+1974
+
+Behavioural theory
+Cognitive theory – Experiential learning
+Organisational psychology
+
+Transformative learning (Mezirow)
+
+1981
+
+Cognitive theory – perspective
+
+Stages of learning, experiential learning (Kolb, Delahaye et al.)
+
+First published by Kolb in 1984 and extended by Delahaye et al. (1994)
+
+Cognitive theory – Experiential learning
+Andragogy/adult learning theory
+
+In the 1980s education, generally, and especially professional education, became more aligned with business needs to automate. Emergent theorists focussed on management systems to support these aims and were less learner centric
+This period delivered significant thinking on the interplay between systems engineering and management – how systems thinking, when applied to human capital, can reduce waste and improve performance, consistency and predictability
+Out of this came deeper understanding about problem-solving contexts (Cynefin), automatic responses to problems (based on experience) and working effectively with dissonance and resistance to learning
+The relationship between systems (processes and procedures) and behaviour was also under the spotlight
+
+Recognition primed decision-making (Klein)
+
+1993
+
+Behavioural theory
+Cognitive theory – mental models
+Experiential learning theory
+
+Eight stages of change (Kotter)
+
+1996
+
+Leadership theory – Change management
+Organisational psychology
+
+Sensemaking, Cynefin (Snowden)
+
+1999 with the liminal phase added in 2018
+
+Systems theory – Complexity
+Cognitive theory – knowledge
+
+Five principles of instruction (for adult learners) (Merrill)
+
+2001
+
+Adult learning theory
+
+Unlearning (Becker)
+
+2007
+
+Cognitive theory - Experiential learning
+Behavioural theory – change
+Adult learning theory
+
+Systems leadership (McDonald et al.)
+
+2006
+
+Complexity theory – Systems thinking
+Behavioural theory
+Organisational psychology
+
+Antifragility, Black Swan (Taleb)
+
+2007 (Snowden and Taleb are currently engaged in Marx/Engels type conflict)
+
+Systems theory – Complexity
+Cognitive theory – distortion, error
+
+Simultaneous catastrophes in the western world (GFC, 9/11, etc.) saw the concept of failure and how to treat it both in a risk management sense and a learning tool gain popularity in the early 2000s. The relationship between experience and systems was looked at closely. The emergent educational need was to prepare for the unknown and leverage small failures to devise solutions to wicked problems
+This development highlights the need to change how we view the dynamics of professionalism, limitations of knowledge and multidisciplinary when solving wicked problems. Students learning about UNSDGs must practice this way of working. Learning needs to include unsolvable or very difficult problems, where the assessment is focussed on the interpersonal skills and creative melding of divergent bodies of knowledge as well as the application of core course content
+
+Memory and experience (Kahneman)
+
+2011
+
+Cognitive theory – experiential learning
+Systems theory – Complexity
+
+Multi-level perspectives (Geels)
+
+2011
+
+Innovation theory
+Behavioural theory – change, cognitive dissonance
+
+Black box thinking (Syed)
+
+2013
+
+Cognitive theory – distortion, error

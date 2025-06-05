@@ -1,0 +1,781 @@
+Journal of School Health
+RESEARCH ARTICLE
+Full Access
+Optimizing Violence Prevention Programs: An Examination of Program Effectiveness Among Urban High School Students
+Amanda C. Thompkins, 
+Lisa M. Chauveron, 
+Ofer Harel, 
+Daniel F. Perkins
+First published: 03 June 2014 https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/josh.12171Citations: 10
+SECTIONS
+PDF
+TOOLS
+SHARE
+ABSTRACT
+BACKGROUND
+While demand for youth violence prevention programs increases, the ability of the school-day schedule to accommodate their time requirements has diminished. Viable school-based prevention programs must strike a balance between brevity and effectiveness. This article reports results from an effectiveness trial of a 12-session curriculum-based universal violence prevention program that promotes healthy conflict resolution skills among urban adolescents.
+METHODS
+Using a review of program record data and a multisite quasi-experimental study design, we examined the effectiveness of a New York City-based violence prevention program entitled the Violence Prevention project (VPP) optimized to meet school needs. We analyzed survey data from 1112 9th- and 10th-grade students in 13 New York City public high schools across 4 consecutive school years. Both participants and nonparticipants were surveyed.
+RESULTS
+Review of program record data indicated that the program was implemented with acceptable fidelity to the core component structure, and that participant responsiveness to the model was high. Multilevel modeling indicated that VPP participation was protective for academic self-concept and promoted conflict resolution skills.
+CONCLUSIONS
+Findings indicate that semester-long violence prevention programs optimized to meet the needs of a typical high school can be effective at promoting healthy conflict resolution skills in urban adolescents.
+More than 2 decades of research have yielded a robust literature on effective approaches to school-based violence prevention, providing a solid knowledge base of “what works.”1, 2 School-based violence prevention programs have reduced aggression and increased pro-social skills, attitudes, and behaviors.1, 2 Despite their successes, it can be difficult for traditional high school schedules to accommodate program requirements. Many interventions require a larger number of sessions than can be accommodated in trimester and semester school calendars, 12 and 16 weeks, respectively. Alternatively, some programs are designed to be implemented throughout a child's academic career, making it difficult to ensure continuity across elementary, middle, and high schools. In underserved urban schools with the highest need for violence prevention programs, which often have the highest need for academic improvement,3 school reforms demand accountability for academic performance, making scarce time for instruction beyond the core curriculum.4 Therefore, when proven-effective interventions are implemented, design integrity is often challenged, reducing effectiveness.5 Dissemination research demonstrates that implementers tend to alter or drop programmatic elements to save funds, to ensure participant engagement and cultural appropriateness,6 or to bolster their sense of ownership over the material and its impact.7, 8
+Optimizing Program Design
+To be viable on a large scale in schools, then, it behooves developers to design programs that reduce violence while working within common limitations. In other words, developers must optimize program development by creating the best possible design given identified constraints.9 The optimization approach, while common in engineering, has not yet been widely adopted in prevention.9 Therefore, most prevention programs are designed to be as effective as theoretically possible,9 rather than optimized for maximal effectiveness given constraints such as school schedules, continuity across grade levels, and the needs of program implementers.
+The current study report results from an effectiveness trial of The Leadership Program's universal Violence Prevention Project (VPP). VPP is a 12-session school-based preventive intervention targeted to adolescents in urban areas. VPP's designers attempted to optimize the program to be empirically effective while working within the constraints facing schools. Therefore, it fits within a typical semester structure, is contained within a single school, engages youth, and is flexible enough to overcome common barriers to fidelity. This study evaluates the program's effectiveness as implemented in 9th- and 10th-grade classrooms in 13 Title 1 New York City (NYC) high schools during the 2005-2009 school years.
+Program Approach
+Violence Prevention Project has 12, 45-minute lessons for students, 2 evaluation sessions, and 2 planning sessions with teachers and school principals before implementation. Program content uses skill-building exercises to improve students' conflict-related attitudes and behaviors. Content is delivered using a core component framework that builds in opportunities for lesson selection and adaptation.10, 11 Facilitators are required to use a standard introductory lesson but can select the remaining lessons from a bank as long as they meet the required number of lessons for each component, detailed below. Lesson selection is based on facilitator, principal, and teacher assessment of class functioning, sociocultural relevancy, special needs, and school-specific issues.12-14 These assessments take place before beginning the unit, but lesson selection may be modified during the unit in response to emergent needs. Lessons are delivered by baccalaureate-degree level or higher facilitators whose ethnic and sex composition mirrors the student diversity common in urban schools.
+In the core component framework, earlier components lay the groundwork for the communication and conflict resolution skills taught later in the program. Following the introductory lesson, VPP begins with 1 or 2 lessons from the Self-Concept component. Lessons target academic self-concept, which research suggests may be an important mediator15 of the relationship between poor academic performance and aggressive behavior at school.16, 17 Objectives for the Self-Concept lessons include having students identify positive personal and academic traits about themselves.
+In the next component, Group Dynamics, also 1 to 2 lessons, facilitators target aspects of the classroom environment associated with aggression. Targeted aspects include peer support for aggression, which research suggests is a key vector for both conflict and the prevention of violence in adolescence, when peer influence is at its height.18-20 Objectives for the Group Dynamics lessons include setting classroom norms around conflict.
+Facilitators then reinforce academic self-concept by targeting goal setting and future orientation for 1 to 2 lessons in the Vision and Imagination component. Lesson objectives in the Vision and Imagination component include having students imagine their future careers and set incremental goals to track their progress.
+The final 4 to 6 lessons are drawn from the Conflict Management component. Because adolescent communication skills are associated with key developmental indicators, such as perceived academic competence, quality of interpersonal relationships, and interpersonal conflict,21-24 the Conflict Management lessons give explicit instruction in communication skills, including active listening, I-messages, and perspective taking. Lesson objectives from the Conflict Management component include demonstrating effective listening and communication skills in a conflict. An example of a lesson activity designed to promote perspective taking involves giving participants series of short scene-starters around conflict. Participants then improvise scenes, freezing the action, and tagging in as they wish to take the scene in a different direction. Facilitators lead discussion around each character's perspective and its relationship to the conflict outcomes.
+Each unit concludes with an arts-based final project, spanning 1 to 2 classes, which lets students immediately apply their skills by working collectively. Research suggests that group-based project learning promotes knowledge acquisition through skill-application and can promote teamwork and problem-solving.25 Arts-based projects can promote pro-social competencies and reduce aggression by improving conflict resolution skills.26
+Violence Prevention Project is designed to maximize student engagement, a key factor in intervention effectiveness.20 It teaches content using role-plays, games, and project-based learning, teaching tools that are associated with higher levels of effectiveness.27, 28 Using Pfeiffer and Jones's29 experiential learning cycle, facilitators help students to process an activity through 5 stages of comprehension, culminating with application. The experiential learning cycle is applied throughout 4 segments of each lesson: aim, warm-up, main activity, and closing.
+To promote fidelity to the model, facilitators annually attend mandatory 30-hour training with 3 levels—beginning, refresher, and advanced—which is supplemented with optional booster sessions throughout the year. Facilitators leave with curriculum manuals, sample lesson DVDs, and other program materials. They also receive ongoing support and supervision from program managers, who provide or facilitate weekly check-ins, regular staff meetings, observations, and paperwork review.10
+Current Study
+The current study is an effectiveness trial evaluating VPP's potential as a preventative intervention optimized to work within the constraints common to urban high schools. We expect that facilitators will be able to do 3 things: (1) implement VPP according to the core component framework; (2) engage students through VPP; and (3) participation will be associated with improvements in students' academic self-concept and conflict resolution skills.
+METHODS
+Participants
+Study participants were 9th and 10th graders (N = 1112) from 13 NYC public schools with Title 1 funding (at least 60% of students at or below the poverty line). The sample was balanced between boys (46%) and girls (54%) and was heavily black (41%) and Latino (42%), which reflects the ethnic composition of both program participants and the NYC public school system. Complete descriptive statistics and demographics are available by condition and time point in Table 1.
+Table 1. Demographic Profile and Descriptive Statistics
+Pretest Posttest
+VPP N = 587* Comparison N = 517* VPP N = 431* Comparison N = 362*
+Sex
+Boys 289 220 217 152
+Girls 297 297 213 210
+Race/ethnicity
+Black 252 200 178 132
+Latino 262 205 200 140
+Asian 20 29 14 26
+White 49 53 38 38
+Other 80 76 57 51
+Grade
+9th 302 258 211 171
+10th 285 259 220 191
+School year
+2005-2006 164 213 132 156
+2006-2007 149 136 326 103
+2007-2008 147 136 295 85
+2008-2009 127 32 236 18
+Measures M (SD) M (SD) M (SD) M (SD)
+Academic self-concept 3.06 (0.53) 3.14 (0.49) 3.17 (0.55) 3.19 (0.48)
+Conflict resolution
+Verbal aggression 1.58 (1.26) 1.52 (1.11) 1.37 (1.26) 1.55 (1.21)
+Physical aggression 1.54 (1.16) 1.47 (1.13) 1.38 (1.17) 1.41 (1.18)
+Walk away 1.36 (1.33) 1.43 (1.21) 1.52 (1.33) 1.65 (1.24)
+Pro-social verbal 6.19 (3.34) 6.35 (3.13) 6.25 (3.34) 6.61 (3.30)
+Parent help 1.01 (0.97) 1.04 (0.93) 1.00 (0.97) 1.07 (0.94)
+Antisocial behavior 0.81 (0.77) 0.78 (0.69) 0.85 (0.85) 0.95 (0.74)
+Immature avoidance 1.36 (1.03) 1.04 (0.94) 1.26 (1.03) 1.45 (0.91)
+* Category data may not sum exactly due to missing data, or because students were permitted to select more than 1 option (ethnicity).
+Baseline differences
+At baseline, program participants were significantly more likely to be boys than were nonparticipants, χ2(1, N = 1112) = 4.97, p = .00. There were no baseline differences in age distribution or ethnic background.
+Attrition
+A total of 1104 students participated in the baseline survey: 587 participants and 517 nonparticipants. At program conclusion, 793 students took the survey, 431 participants and 362 nonparticipants, with a retention rate of 72%. Attrition rates were comparable for participants (27%) and nonparticipants (30%). Eight students who were absent from school at the pre-survey were added to the sample at the post-survey for data completeness. All students present in class on the survey day took the posttest; multiple survey attempts were not possible. Declines in school attendance were the primary cause of attrition. Pre-surveys were given early in the semester, when attendance was at its highest. Post-surveys took place at the end of the semester when attendance was low.
+Instruments
+Curricular adherence
+For each unit, facilitators created a syllabus using the core component structure outlined above. We assessed fidelity to this framework using syllabi (N = 58) during 3 of the 4 study years (syllabi from 2006 to 2007 were omitted because of data collection problems). Syllabi were examined for alignment with required elements in the core component structure. For example, syllabi were examined to ensure that facilitators taught between four and six lessons from the conflict management component.
+Student engagement
+We assessed student engagement from student, facilitator, and teacher perspectives. One item on the student posttest survey asks participants whether the program was very helpful or useful, sort of helpful or useful, or not helpful or useful. We assessed facilitator views of engagement during facilitator observations (N = 251) on a single-item 5-point Likert-type scale from poor to excellent. We assessed engagement from the teacher perspective using 1 item from a teacher satisfaction survey (N = 3470) that asked teachers whether they strongly agreed, agreed, were neutral, disagreed, or strongly disagreed that they received positive feedback from students about VPP.
+Academic self-concept
+We assessed students' academic self-concept using a 4-item Likert-type scale: strongly disagree to strongly agree. Items include “I expect that I will go to college,” “I am the kind of person who does my homework on time,” “I am the kind of person who attends school every day,” and “I am the kind of person who gets good grades.” Scores represent the mean of all items. Internal consistency reliability was acceptable, (α = .71 at baseline).
+The measure was designed in-house, and complete psychometrics documented upon its development in an unpublished dissertation.30 The measure was created from student, teacher, and principal focus groups at 3 schools that participated in VPP, then fine-tuned in interviews with program staff. The instrumentation was piloted with 1942 VPP participants in NYC public schools, whose demographics mirrored those of current study participants. Descriptive psychometric properties of the scale in the pilot sample were good. Principal components analysis supported a unidimensional factor structure (Kaiser-Meyer-Olkin (KMO) = .73, eigenvalue = 2.2), and a single factor explained 55% of item variance. All items had high factor loadings, ranging from .58 to .82. Internal consistency reliability, as measured by Cronbach's alpha, was adequate (α = .71), providing additional support for a unidimensional factor structure. The researchers theorized that academic self-concept would be associated with better school performance and used self-reported grades as a criterion to establish validity. As expected, academic self-concept was positively correlated with self-reported grade point average (r = .53, p < .01).
+Conflict resolution
+We assessed students' conflict resolution skills using a scale derived from the Interpersonal Problem-Solving Analysis (IPA), a tool developed to assess conflict resolution behaviors in elementary school students31, 32 (a revised version is recommended for use as a violence prevention measure with African-American boys aged 12 to 16 by the Centers for Disease Control and Prevention).33 Minor revisions were made to the measure by a prior research team, and it was piloted in a prior research sample detailed above.30 The measure assesses the frequency of students' use of conflict resolution strategies by presenting them with 12 short vignettes involving conflicts. For each vignette, students were given hypothetical responses and asked to select strategies they might use, choosing as many as they liked. Strategies included verbal aggression, physical aggression, walking away, pro-social verbal responses (such as calmly telling another student who is making fun of you to cut it out), asking a parent for help, immature avoidance (such as ignoring another student who brought a gun to school), or antisocial behavior (such as copying answers on a test). We created count variables measuring the number of times a student selected each strategy type.
+Procedure
+We used program record data to assess curricular adherence and student engagement. To assess academic self-concept and conflict resolution skills, data were drawn from 4 consecutive years of program implementation, beginning in the 2005-2006 school year. During that time VPP was implemented in 160 middle and high schools in NYC to approximately 55,000 students. Each year a subset of high schools was randomly selected from the pool of schools receiving VPP and offered $200 to participate in the evaluation. All selected schools participated. We used a quasi-experimental nonequivalent-groups design that matched program and comparison classrooms by student grade and academic level. Pre-surveys were administered prior to the program, and post-surveys were administered at program conclusion. VPP facilitators read the survey aloud while students marked their answers.
+Data Analysis Plan
+We examined the extent to which participation in VPP was associated with changes over time in self-reported student outcomes, as compared to changes over time in self-reported outcomes for nonparticipants. All analyses use hierarchical linear modeling (HLM), which is superior to more basic techniques such as the analysis of variance (ANOVA) or the ordinary least squares (OLS) regression for our study design. Using HLM allowed us to analyze unbalanced groups and to create models using all available data rather than only complete cases, which reduces biases from attrition and produces unbiased estimates of program effects when data are missing at random.34 HLM also allows more appropriate analysis of nonindependent observations, such as those in this study, which included both students clustered within schools and multiple survey points for the same student.
+We conducted a series of parallel analyses examining the association of program participation with both initial levels of and change over time in youth outcomes. To do so, we fit a 3-level model. In each case, we fit a level one model using time as the sole time-varying predictor (Equation 1). We then added program participation as a level 2 (time-invariant, student level) predictor of both initial levels of our outcome variables (the intercept) and rate of change over time in each variable for each student (Equations 2 and 3). Next, we added school year and sex, given that at baseline participants were more likely to be boys than were nonparticipants, as level 2 (time-invariant, student level) predictors of initial levels of youth outcomes. Baseline adjustment is often superior to more sophisticated techniques, such as propensity scoring, in situations such as ours where there are insufficient baseline variables to create well-matched groups.35
+Because our data set contains only 2 time points, the number of random effects we could model was limited. We chose to add a random effect for the intercept at level 2 (Equation 2), but did not add a random slope (Equation 3). Thus, we allowed the association of program participation with initial levels of youth behavior to vary by school, but fixed the association of program participation with change over time in youth behavior across schools at the overall mean. Additionally, we fit an unconditional level three model, allowing the effect of program participation to vary by school. Our model is below:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+We assume that all tests are independent and do not control for multiple comparisons, although in most cases the p-values we obtain are small (less than .01) and would not be affected by such an adjustment.
+RESULTS
+Curricular Adherence
+Ninety-seven percent of VPP units included at least 1 lesson from the Self-Concept component. Every unit included at least 1 lesson from Group Dynamics (100%), although only 53% included a lesson from the Vision and Imagination component. Seventy-four percent of units completed at least 4 Conflict Management lessons; among those who taught fewer, 14% taught 3 lessons and the remaining 12% taught 2; 67% included final project work. Facilitators fulfilled a mean of 5 of the 7 curricular requirements. Across residencies, facilitators met at least 74% of the curricular requirements.
+Student Engagement
+Fifty-three percent of students reported that the program was very helpful or useful, 44% sort of helpful or useful, and 3% not helpful or useful. Forty-four percent of facilitators were rated by observers as excellent on student engagement, 39% were rated as good, 14% were rated as satisfactory, 3% were rated as needs improvement, and 0.4% as poor. Forty-four percent of teachers strongly agreed that they received positive feedback from students, 40% agreed, 13% were neutral, 2% disagreed, and 0.4% strongly disagreed.
+Self-Reported Student Outcomes
+HLM results are presented in Table 2. To highlight relevant results, we summarized baseline differences between groups, changes in academic self-concept and conflict resolution over time, and joint associations between time, program participation, and student outcomes. Joint associations indicate a differential rate of change between participants and nonparticipants, the major hypothesis of our study.
+Table 2. Hierarchical Linear Model Predicting Student Attitudes and Behaviors
+Level-1(Time Varying)
+Level-2 (Person) Academic Self-Concept b (se) Verbal Aggression b (se) Physical Aggression b (se) Antisocial Behavior b (se) Immature Avoidance b (se)
+Intercept (β00)
+Intercept (γ000) 3.09 (0.34)*** 1.44 (0.10)*** 1.64 (0.08)*** 0.77 (0.07)*** 1.38 (0.08)***
+Program participation (γ010) −0.07 (0.02)* 0.04 (0.07) 0.01 (0.07) −0.00 (0.05) −0.03 (0.06)
+School year (γ020) −0.01 (0.02) −0.01 (0.04) 0.02 (0.03) −0.01 (0.02) 0.06 (0.03+
+Sex (γ030) 0.10 (0.03)** 0.17 (0.06)+ −0.33 (0.06)*** 0.01 (0.04) −0.07 (0.05)
+Time (β10)
+Intercept (γ100) 0.01 (0.02) 0.01 (0.07) −0.04 (0.06) 0.16 (0.04)*** 0.13 (0.06)*
+Program participation (γ110) 0.01 (0.02) −0.21 (0.09)* −0.11 (0.09) −0.12 (0.06)* −0.21 (0.08)**
++ p < .10
+* p < .05
+** p < .01
+*** p < .001.
+As shown in Table 2, we found only a single significant baseline difference in youth outcome measures between groups; there was a significant inverse relation between program participation and academic self-concept, such that at baseline participants had lower academic self-concept than nonparticipants (γ010 = −0.07, p = .02). We found several significant associations between time and student outcomes, indicating that student outcomes change over time irrespective of group assignment. Specifically, students tended to use more antisocial conflict resolution strategies over time (γ100 = .16, p = .000), and to avoid conflicts more often over time (γ100 = 0.13, p = .03).
+Additionally, we found significant joint associations between time and program participation and academic self-concept (γ110 = 0.06, p = .03), the use of verbally aggressive conflict resolution strategies (γ110 = −0.21, p = .03), the use of antisocial conflict resolution strategies (γ110 = −0.12, p = .047), and the use of avoidant conflict resolution strategies (γ110 = −0.21, p = .01). These findings indicate that the rate of pre-survey to post-survey change differed between program participants and nonparticipants.
+As shown in Figure 1, although students who participated in VPP had lower academic self-concept prior to beginning the program than nonparticipants, their academic self-concept tended to increase over the course of the program; the academic self-concept of nonparticipants did not change significantly over time. Figure 2 shows that program participants reported declines in the frequency of their use of verbally aggressive conflict resolution strategies, whereas nonparticipants reported little change. Figure 3 illustrates that although generally all study participants tended to use more antisocial conflict resolution strategies over time, the rate of increase in the use of antisocial conflict resolution strategies was slower for program participants than nonparticipants. Program participants also reported declines in the frequency of their use of avoidant conflict resolution strategies; nonparticipants reported increases. There were no significant associations between program participation, time, and the use of walking away, pro-social verbal or parent help seeking conflict resolution strategies.
+Figure 1
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Academic Self-Concept (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 2
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Verbally Aggressive Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 3
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Antisocial Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+DISCUSSION
+Violence Prevention Project's design is unique because it is optimized to meet the constraints of a typical urban high school. It is designed to fit within a semester framework, to be contained within a single school, to be engaging for student participants, and to allow some flexibility in program delivery while maintaining effectiveness. Results indicate that program participation was associated with gains in academic self-concept and improvements in some conflict resolution skills, including reductions in levels of verbal aggression. Although many school-based violence prevention programs teach conflict resolution skills and their effectiveness is well documented in the literature,21, 22 our findings suggest that programs, such as VPP, that are optimized9 to work within common constraints also can be effective.
+The core component structure, which we believe is unique among youth violence prevention programs, achieved a workable balance between fidelity and flexibility, with facilitators meeting 74% of program requirements. Using a framework of structured choices in combination with scripted lessons extends prior work on program fidelity in dissemination. It allows implementers to optimize the delivery of evidence-based content by permitting enough adaptation to address barriers to fidelity.6, 8, 9 We had anticipated that facilitators would meet 100% of the requirements owing to the ongoing monitoring of lesson plans. However, supervisors found it difficult to identify whether syllabi met all requirements. We believe that additional training for supervisors on the core component structure, coupled with a clearer design of the tracking forms, could boost fidelity in the future. Future research on optimizing programs to boost fidelity should map the types of deviations that occur and link variations in fidelity to results, giving program developers and implementers a clearer sense of where to be flexible in requirements. Additional work on optimization should explore the relationship between program length and effectiveness, with an eye toward matching the length of prevention programs with the severity of the problem, in the context of other demands schools face.
+There were some unexpected findings. Students reported no changes in their likelihood to resolve conflicts by giving pro-social verbal responses or using alternative nonviolent solutions such as walking away. It may be that the wording of the pro-social verbal responses was not resonant with the students. Alternatively, the program may be more successful at discouraging aggressive responses than providing students with pro-active tools for de-escalating conflicts. In addition, while avoidant and antisocial conflict resolution tended to increase over time for all students, there was a differential association between groups, such that the rate of increase was steeper for comparison group students. It may be that these changes constitute normal developmental change and that all students would show this pattern in the absence of VPP. This suggests that younger adolescents may also benefit from VPP.
+Limitations
+Our study design had several limitations. First, this is an effectiveness trial rather than an efficacy trial. Thus, our design was quasi-experimental, which compromised internal validity relative to a randomized control trial. As is typical in schools, principals had latitude to assign classrooms to receive the program, and principal goals and priorities differed across schools. Some used VPP as a leadership development opportunity for high-performing students, whereas others used it as remediation for low-performing students. This limited our ability to obtain consistent assignment of classrooms to condition across schools, but enhances the generalizability of our findings to typical implementation conditions where principals desire that programs serve a broad range of ends. Although we believe that this balance between validity and generalizability is appropriate for an effectiveness trial, an efficacy trial of VPP may be warranted in the future.
+Second, owing to the secondary nature of the program record data available, the research team was not able to link measures of program fidelity to student outcomes. Although the program model is designed to allow some flexibility in lesson selection, future research should examine whether certain lesson structures and higher levels of participant responsiveness are associated with better student outcomes.
+Third, future research should address challenges in measurement present in the current study. We could not obtain permission to examine school incident data for this study. This limitation was common in the NYC public schools during our study period. We hope that future studies can gain access to this data, which has greater ecological validity and provides a clearer indication of students' behavior than self-report surveys. Although social desirability bias is a potential limitation, we believe that this is unlikely to fully explain our findings given the age of our sample. By 9th and 10th grade, students are likely well acquainted with the idea that they should not resolve conflicts by hitting people or yelling at them. Changes in the social desirability of those answers may reflect an important first step in changing behavior. Additionally, our study, which relied on secondary analysis of program record data to track program fidelity, utilizes single-item measures of participant responsiveness that may not fully capture the construct. Future studies should employ more comprehensive measures of responsiveness.
+Conclusions
+Our findings suggest that it may be possible to optimize violence prevention programs to meet the needs of typical urban high schools while maintaining effectiveness. Programs that work within the semester framework while focusing on high levels of student engagement and allowing flexibility in implementation can be effective in improving student academic self-concept and conflict resolution skills. If future research continues to support the optimization approach used here, a productive path forward may emerge for prevention programs of all kinds. Rather than attempt to create the most effective program possible that may be difficult to implement, researchers should consider working with schools to develop effective and feasible programs, thereby helping to clarify “what works” in the field.
+IMPLICATIONS FOR SCHOOL HEALTH
+Results from this study indicate that violence prevention programs optimized to meet the constraints of a typical school can be effective. Program planners should optimize programs to balance brevity and effectiveness, fidelity and flexibility, and the needs of the program with needs of schools. School administrators selecting programs should seek to understand the fidelity requirements of programs under consideration, as well as the implementation conditions under which programs have demonstrated effectiveness.
+Human Subjects Approval Statement
+The New York City Department of Education Institutional Review Board approved the study protocol.
+REFERENCES
+Citing Literature
+Volume84, Issue7
+July 2014
+Pages 435-443
+Figures
+References
+Related
+Information
+Recommended
+Impact of Mississippi Healthy Students Act of 2007 on District- and School-Level Health Policies: School Officials' Perspectives
+Anne Buffington BS, 
+Colleen McKee MS, 
+Kathleen Ragsdale PhD, 
+Troy C. Blanchard PhD, 
+Dorris Baggett MS, 
+Linda H. Southward PhD
+Journal of School Health
+Implementation of a Coordinated School Health Program in a Rural, Low‐Income Community
+Lisa Cornwell RN, BSHRM, 
+Suzanne R. Hawley PhD, MPH, 
+Theresa St. Romain MA
+Journal of School Health
+The Association Between Socio‐Ecological Factors and Having an After‐School Physical Activity Program
+Ragnar Van Acker MA, 
+Ilse De Bourdeaudhuij PhD, 
+Kristine De Martelaer PhD, 
+Jan Seghers PhD, 
+Katrien De Cocker PhD, 
+Greet Cardon PhD
+Journal of School Health
+The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions
+Christina Cipriano, 
+Michael J. Strambler, 
+Lauren H. Naples, 
+Cheyeon Ha, 
+Megan Kirk, 
+Miranda Wood, 
+Kaveri Sehgal, 
+Almut K. Zieher, 
+Abigail Eveleigh, 
+Michael McCarthy, 
+Melissa Funaro, 
+Annett Ponnock, 
+Jason C. Chow, 
+Joseph Durlak
+Child Development
+Examining Predictors of Breakfast Skipping and Breakfast Program Use Among Secondary School Students in the COMPASS Study
+Katelyn M. Godin BSc, 
+Karen A. Patte PhD, 
+Scott T. Leatherdale PhD
+Journal of School Health
+Download PDF
+
+ABSTRACT
+BACKGROUND
+While demand for youth violence prevention programs increases, the ability of the school-day schedule to accommodate their time requirements has diminished. Viable school-based prevention programs must strike a balance between brevity and effectiveness. This article reports results from an effectiveness trial of a 12-session curriculum-based universal violence prevention program that promotes healthy conflict resolution skills among urban adolescents.
+METHODS
+Using a review of program record data and a multisite quasi-experimental study design, we examined the effectiveness of a New York City-based violence prevention program entitled the Violence Prevention project (VPP) optimized to meet school needs. We analyzed survey data from 1112 9th- and 10th-grade students in 13 New York City public high schools across 4 consecutive school years. Both participants and nonparticipants were surveyed.
+RESULTS
+Review of program record data indicated that the program was implemented with acceptable fidelity to the core component structure, and that participant responsiveness to the model was high. Multilevel modeling indicated that VPP participation was protective for academic self-concept and promoted conflict resolution skills.
+CONCLUSIONS
+Findings indicate that semester-long violence prevention programs optimized to meet the needs of a typical high school can be effective at promoting healthy conflict resolution skills in urban adolescents.
+
+ABSTRACT
+
+BACKGROUND
+While demand for youth violence prevention programs increases, the ability of the school-day schedule to accommodate their time requirements has diminished. Viable school-based prevention programs must strike a balance between brevity and effectiveness. This article reports results from an effectiveness trial of a 12-session curriculum-based universal violence prevention program that promotes healthy conflict resolution skills among urban adolescents.
+METHODS
+Using a review of program record data and a multisite quasi-experimental study design, we examined the effectiveness of a New York City-based violence prevention program entitled the Violence Prevention project (VPP) optimized to meet school needs. We analyzed survey data from 1112 9th- and 10th-grade students in 13 New York City public high schools across 4 consecutive school years. Both participants and nonparticipants were surveyed.
+RESULTS
+Review of program record data indicated that the program was implemented with acceptable fidelity to the core component structure, and that participant responsiveness to the model was high. Multilevel modeling indicated that VPP participation was protective for academic self-concept and promoted conflict resolution skills.
+CONCLUSIONS
+Findings indicate that semester-long violence prevention programs optimized to meet the needs of a typical high school can be effective at promoting healthy conflict resolution skills in urban adolescents.
+
+BACKGROUND
+While demand for youth violence prevention programs increases, the ability of the school-day schedule to accommodate their time requirements has diminished. Viable school-based prevention programs must strike a balance between brevity and effectiveness. This article reports results from an effectiveness trial of a 12-session curriculum-based universal violence prevention program that promotes healthy conflict resolution skills among urban adolescents.
+
+BACKGROUND
+
+METHODS
+Using a review of program record data and a multisite quasi-experimental study design, we examined the effectiveness of a New York City-based violence prevention program entitled the Violence Prevention project (VPP) optimized to meet school needs. We analyzed survey data from 1112 9th- and 10th-grade students in 13 New York City public high schools across 4 consecutive school years. Both participants and nonparticipants were surveyed.
+
+METHODS
+
+RESULTS
+Review of program record data indicated that the program was implemented with acceptable fidelity to the core component structure, and that participant responsiveness to the model was high. Multilevel modeling indicated that VPP participation was protective for academic self-concept and promoted conflict resolution skills.
+
+RESULTS
+
+CONCLUSIONS
+Findings indicate that semester-long violence prevention programs optimized to meet the needs of a typical high school can be effective at promoting healthy conflict resolution skills in urban adolescents.
+
+CONCLUSIONS
+
+More than 2 decades of research have yielded a robust literature on effective approaches to school-based violence prevention, providing a solid knowledge base of “what works.”1, 2 School-based violence prevention programs have reduced aggression and increased pro-social skills, attitudes, and behaviors.1, 2 Despite their successes, it can be difficult for traditional high school schedules to accommodate program requirements. Many interventions require a larger number of sessions than can be accommodated in trimester and semester school calendars, 12 and 16 weeks, respectively. Alternatively, some programs are designed to be implemented throughout a child's academic career, making it difficult to ensure continuity across elementary, middle, and high schools. In underserved urban schools with the highest need for violence prevention programs, which often have the highest need for academic improvement,3 school reforms demand accountability for academic performance, making scarce time for instruction beyond the core curriculum.4 Therefore, when proven-effective interventions are implemented, design integrity is often challenged, reducing effectiveness.5 Dissemination research demonstrates that implementers tend to alter or drop programmatic elements to save funds, to ensure participant engagement and cultural appropriateness,6 or to bolster their sense of ownership over the material and its impact.7, 8
+Optimizing Program Design
+To be viable on a large scale in schools, then, it behooves developers to design programs that reduce violence while working within common limitations. In other words, developers must optimize program development by creating the best possible design given identified constraints.9 The optimization approach, while common in engineering, has not yet been widely adopted in prevention.9 Therefore, most prevention programs are designed to be as effective as theoretically possible,9 rather than optimized for maximal effectiveness given constraints such as school schedules, continuity across grade levels, and the needs of program implementers.
+The current study report results from an effectiveness trial of The Leadership Program's universal Violence Prevention Project (VPP). VPP is a 12-session school-based preventive intervention targeted to adolescents in urban areas. VPP's designers attempted to optimize the program to be empirically effective while working within the constraints facing schools. Therefore, it fits within a typical semester structure, is contained within a single school, engages youth, and is flexible enough to overcome common barriers to fidelity. This study evaluates the program's effectiveness as implemented in 9th- and 10th-grade classrooms in 13 Title 1 New York City (NYC) high schools during the 2005-2009 school years.
+Program Approach
+Violence Prevention Project has 12, 45-minute lessons for students, 2 evaluation sessions, and 2 planning sessions with teachers and school principals before implementation. Program content uses skill-building exercises to improve students' conflict-related attitudes and behaviors. Content is delivered using a core component framework that builds in opportunities for lesson selection and adaptation.10, 11 Facilitators are required to use a standard introductory lesson but can select the remaining lessons from a bank as long as they meet the required number of lessons for each component, detailed below. Lesson selection is based on facilitator, principal, and teacher assessment of class functioning, sociocultural relevancy, special needs, and school-specific issues.12-14 These assessments take place before beginning the unit, but lesson selection may be modified during the unit in response to emergent needs. Lessons are delivered by baccalaureate-degree level or higher facilitators whose ethnic and sex composition mirrors the student diversity common in urban schools.
+In the core component framework, earlier components lay the groundwork for the communication and conflict resolution skills taught later in the program. Following the introductory lesson, VPP begins with 1 or 2 lessons from the Self-Concept component. Lessons target academic self-concept, which research suggests may be an important mediator15 of the relationship between poor academic performance and aggressive behavior at school.16, 17 Objectives for the Self-Concept lessons include having students identify positive personal and academic traits about themselves.
+In the next component, Group Dynamics, also 1 to 2 lessons, facilitators target aspects of the classroom environment associated with aggression. Targeted aspects include peer support for aggression, which research suggests is a key vector for both conflict and the prevention of violence in adolescence, when peer influence is at its height.18-20 Objectives for the Group Dynamics lessons include setting classroom norms around conflict.
+Facilitators then reinforce academic self-concept by targeting goal setting and future orientation for 1 to 2 lessons in the Vision and Imagination component. Lesson objectives in the Vision and Imagination component include having students imagine their future careers and set incremental goals to track their progress.
+The final 4 to 6 lessons are drawn from the Conflict Management component. Because adolescent communication skills are associated with key developmental indicators, such as perceived academic competence, quality of interpersonal relationships, and interpersonal conflict,21-24 the Conflict Management lessons give explicit instruction in communication skills, including active listening, I-messages, and perspective taking. Lesson objectives from the Conflict Management component include demonstrating effective listening and communication skills in a conflict. An example of a lesson activity designed to promote perspective taking involves giving participants series of short scene-starters around conflict. Participants then improvise scenes, freezing the action, and tagging in as they wish to take the scene in a different direction. Facilitators lead discussion around each character's perspective and its relationship to the conflict outcomes.
+Each unit concludes with an arts-based final project, spanning 1 to 2 classes, which lets students immediately apply their skills by working collectively. Research suggests that group-based project learning promotes knowledge acquisition through skill-application and can promote teamwork and problem-solving.25 Arts-based projects can promote pro-social competencies and reduce aggression by improving conflict resolution skills.26
+Violence Prevention Project is designed to maximize student engagement, a key factor in intervention effectiveness.20 It teaches content using role-plays, games, and project-based learning, teaching tools that are associated with higher levels of effectiveness.27, 28 Using Pfeiffer and Jones's29 experiential learning cycle, facilitators help students to process an activity through 5 stages of comprehension, culminating with application. The experiential learning cycle is applied throughout 4 segments of each lesson: aim, warm-up, main activity, and closing.
+To promote fidelity to the model, facilitators annually attend mandatory 30-hour training with 3 levels—beginning, refresher, and advanced—which is supplemented with optional booster sessions throughout the year. Facilitators leave with curriculum manuals, sample lesson DVDs, and other program materials. They also receive ongoing support and supervision from program managers, who provide or facilitate weekly check-ins, regular staff meetings, observations, and paperwork review.10
+Current Study
+The current study is an effectiveness trial evaluating VPP's potential as a preventative intervention optimized to work within the constraints common to urban high schools. We expect that facilitators will be able to do 3 things: (1) implement VPP according to the core component framework; (2) engage students through VPP; and (3) participation will be associated with improvements in students' academic self-concept and conflict resolution skills.
+METHODS
+Participants
+Study participants were 9th and 10th graders (N = 1112) from 13 NYC public schools with Title 1 funding (at least 60% of students at or below the poverty line). The sample was balanced between boys (46%) and girls (54%) and was heavily black (41%) and Latino (42%), which reflects the ethnic composition of both program participants and the NYC public school system. Complete descriptive statistics and demographics are available by condition and time point in Table 1.
+Table 1. Demographic Profile and Descriptive Statistics
+Pretest Posttest
+VPP N = 587* Comparison N = 517* VPP N = 431* Comparison N = 362*
+Sex
+Boys 289 220 217 152
+Girls 297 297 213 210
+Race/ethnicity
+Black 252 200 178 132
+Latino 262 205 200 140
+Asian 20 29 14 26
+White 49 53 38 38
+Other 80 76 57 51
+Grade
+9th 302 258 211 171
+10th 285 259 220 191
+School year
+2005-2006 164 213 132 156
+2006-2007 149 136 326 103
+2007-2008 147 136 295 85
+2008-2009 127 32 236 18
+Measures M (SD) M (SD) M (SD) M (SD)
+Academic self-concept 3.06 (0.53) 3.14 (0.49) 3.17 (0.55) 3.19 (0.48)
+Conflict resolution
+Verbal aggression 1.58 (1.26) 1.52 (1.11) 1.37 (1.26) 1.55 (1.21)
+Physical aggression 1.54 (1.16) 1.47 (1.13) 1.38 (1.17) 1.41 (1.18)
+Walk away 1.36 (1.33) 1.43 (1.21) 1.52 (1.33) 1.65 (1.24)
+Pro-social verbal 6.19 (3.34) 6.35 (3.13) 6.25 (3.34) 6.61 (3.30)
+Parent help 1.01 (0.97) 1.04 (0.93) 1.00 (0.97) 1.07 (0.94)
+Antisocial behavior 0.81 (0.77) 0.78 (0.69) 0.85 (0.85) 0.95 (0.74)
+Immature avoidance 1.36 (1.03) 1.04 (0.94) 1.26 (1.03) 1.45 (0.91)
+* Category data may not sum exactly due to missing data, or because students were permitted to select more than 1 option (ethnicity).
+Baseline differences
+At baseline, program participants were significantly more likely to be boys than were nonparticipants, χ2(1, N = 1112) = 4.97, p = .00. There were no baseline differences in age distribution or ethnic background.
+Attrition
+A total of 1104 students participated in the baseline survey: 587 participants and 517 nonparticipants. At program conclusion, 793 students took the survey, 431 participants and 362 nonparticipants, with a retention rate of 72%. Attrition rates were comparable for participants (27%) and nonparticipants (30%). Eight students who were absent from school at the pre-survey were added to the sample at the post-survey for data completeness. All students present in class on the survey day took the posttest; multiple survey attempts were not possible. Declines in school attendance were the primary cause of attrition. Pre-surveys were given early in the semester, when attendance was at its highest. Post-surveys took place at the end of the semester when attendance was low.
+Instruments
+Curricular adherence
+For each unit, facilitators created a syllabus using the core component structure outlined above. We assessed fidelity to this framework using syllabi (N = 58) during 3 of the 4 study years (syllabi from 2006 to 2007 were omitted because of data collection problems). Syllabi were examined for alignment with required elements in the core component structure. For example, syllabi were examined to ensure that facilitators taught between four and six lessons from the conflict management component.
+Student engagement
+We assessed student engagement from student, facilitator, and teacher perspectives. One item on the student posttest survey asks participants whether the program was very helpful or useful, sort of helpful or useful, or not helpful or useful. We assessed facilitator views of engagement during facilitator observations (N = 251) on a single-item 5-point Likert-type scale from poor to excellent. We assessed engagement from the teacher perspective using 1 item from a teacher satisfaction survey (N = 3470) that asked teachers whether they strongly agreed, agreed, were neutral, disagreed, or strongly disagreed that they received positive feedback from students about VPP.
+Academic self-concept
+We assessed students' academic self-concept using a 4-item Likert-type scale: strongly disagree to strongly agree. Items include “I expect that I will go to college,” “I am the kind of person who does my homework on time,” “I am the kind of person who attends school every day,” and “I am the kind of person who gets good grades.” Scores represent the mean of all items. Internal consistency reliability was acceptable, (α = .71 at baseline).
+The measure was designed in-house, and complete psychometrics documented upon its development in an unpublished dissertation.30 The measure was created from student, teacher, and principal focus groups at 3 schools that participated in VPP, then fine-tuned in interviews with program staff. The instrumentation was piloted with 1942 VPP participants in NYC public schools, whose demographics mirrored those of current study participants. Descriptive psychometric properties of the scale in the pilot sample were good. Principal components analysis supported a unidimensional factor structure (Kaiser-Meyer-Olkin (KMO) = .73, eigenvalue = 2.2), and a single factor explained 55% of item variance. All items had high factor loadings, ranging from .58 to .82. Internal consistency reliability, as measured by Cronbach's alpha, was adequate (α = .71), providing additional support for a unidimensional factor structure. The researchers theorized that academic self-concept would be associated with better school performance and used self-reported grades as a criterion to establish validity. As expected, academic self-concept was positively correlated with self-reported grade point average (r = .53, p < .01).
+Conflict resolution
+We assessed students' conflict resolution skills using a scale derived from the Interpersonal Problem-Solving Analysis (IPA), a tool developed to assess conflict resolution behaviors in elementary school students31, 32 (a revised version is recommended for use as a violence prevention measure with African-American boys aged 12 to 16 by the Centers for Disease Control and Prevention).33 Minor revisions were made to the measure by a prior research team, and it was piloted in a prior research sample detailed above.30 The measure assesses the frequency of students' use of conflict resolution strategies by presenting them with 12 short vignettes involving conflicts. For each vignette, students were given hypothetical responses and asked to select strategies they might use, choosing as many as they liked. Strategies included verbal aggression, physical aggression, walking away, pro-social verbal responses (such as calmly telling another student who is making fun of you to cut it out), asking a parent for help, immature avoidance (such as ignoring another student who brought a gun to school), or antisocial behavior (such as copying answers on a test). We created count variables measuring the number of times a student selected each strategy type.
+Procedure
+We used program record data to assess curricular adherence and student engagement. To assess academic self-concept and conflict resolution skills, data were drawn from 4 consecutive years of program implementation, beginning in the 2005-2006 school year. During that time VPP was implemented in 160 middle and high schools in NYC to approximately 55,000 students. Each year a subset of high schools was randomly selected from the pool of schools receiving VPP and offered $200 to participate in the evaluation. All selected schools participated. We used a quasi-experimental nonequivalent-groups design that matched program and comparison classrooms by student grade and academic level. Pre-surveys were administered prior to the program, and post-surveys were administered at program conclusion. VPP facilitators read the survey aloud while students marked their answers.
+Data Analysis Plan
+We examined the extent to which participation in VPP was associated with changes over time in self-reported student outcomes, as compared to changes over time in self-reported outcomes for nonparticipants. All analyses use hierarchical linear modeling (HLM), which is superior to more basic techniques such as the analysis of variance (ANOVA) or the ordinary least squares (OLS) regression for our study design. Using HLM allowed us to analyze unbalanced groups and to create models using all available data rather than only complete cases, which reduces biases from attrition and produces unbiased estimates of program effects when data are missing at random.34 HLM also allows more appropriate analysis of nonindependent observations, such as those in this study, which included both students clustered within schools and multiple survey points for the same student.
+We conducted a series of parallel analyses examining the association of program participation with both initial levels of and change over time in youth outcomes. To do so, we fit a 3-level model. In each case, we fit a level one model using time as the sole time-varying predictor (Equation 1). We then added program participation as a level 2 (time-invariant, student level) predictor of both initial levels of our outcome variables (the intercept) and rate of change over time in each variable for each student (Equations 2 and 3). Next, we added school year and sex, given that at baseline participants were more likely to be boys than were nonparticipants, as level 2 (time-invariant, student level) predictors of initial levels of youth outcomes. Baseline adjustment is often superior to more sophisticated techniques, such as propensity scoring, in situations such as ours where there are insufficient baseline variables to create well-matched groups.35
+Because our data set contains only 2 time points, the number of random effects we could model was limited. We chose to add a random effect for the intercept at level 2 (Equation 2), but did not add a random slope (Equation 3). Thus, we allowed the association of program participation with initial levels of youth behavior to vary by school, but fixed the association of program participation with change over time in youth behavior across schools at the overall mean. Additionally, we fit an unconditional level three model, allowing the effect of program participation to vary by school. Our model is below:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+We assume that all tests are independent and do not control for multiple comparisons, although in most cases the p-values we obtain are small (less than .01) and would not be affected by such an adjustment.
+RESULTS
+Curricular Adherence
+Ninety-seven percent of VPP units included at least 1 lesson from the Self-Concept component. Every unit included at least 1 lesson from Group Dynamics (100%), although only 53% included a lesson from the Vision and Imagination component. Seventy-four percent of units completed at least 4 Conflict Management lessons; among those who taught fewer, 14% taught 3 lessons and the remaining 12% taught 2; 67% included final project work. Facilitators fulfilled a mean of 5 of the 7 curricular requirements. Across residencies, facilitators met at least 74% of the curricular requirements.
+Student Engagement
+Fifty-three percent of students reported that the program was very helpful or useful, 44% sort of helpful or useful, and 3% not helpful or useful. Forty-four percent of facilitators were rated by observers as excellent on student engagement, 39% were rated as good, 14% were rated as satisfactory, 3% were rated as needs improvement, and 0.4% as poor. Forty-four percent of teachers strongly agreed that they received positive feedback from students, 40% agreed, 13% were neutral, 2% disagreed, and 0.4% strongly disagreed.
+Self-Reported Student Outcomes
+HLM results are presented in Table 2. To highlight relevant results, we summarized baseline differences between groups, changes in academic self-concept and conflict resolution over time, and joint associations between time, program participation, and student outcomes. Joint associations indicate a differential rate of change between participants and nonparticipants, the major hypothesis of our study.
+Table 2. Hierarchical Linear Model Predicting Student Attitudes and Behaviors
+Level-1(Time Varying)
+Level-2 (Person) Academic Self-Concept b (se) Verbal Aggression b (se) Physical Aggression b (se) Antisocial Behavior b (se) Immature Avoidance b (se)
+Intercept (β00)
+Intercept (γ000) 3.09 (0.34)*** 1.44 (0.10)*** 1.64 (0.08)*** 0.77 (0.07)*** 1.38 (0.08)***
+Program participation (γ010) −0.07 (0.02)* 0.04 (0.07) 0.01 (0.07) −0.00 (0.05) −0.03 (0.06)
+School year (γ020) −0.01 (0.02) −0.01 (0.04) 0.02 (0.03) −0.01 (0.02) 0.06 (0.03+
+Sex (γ030) 0.10 (0.03)** 0.17 (0.06)+ −0.33 (0.06)*** 0.01 (0.04) −0.07 (0.05)
+Time (β10)
+Intercept (γ100) 0.01 (0.02) 0.01 (0.07) −0.04 (0.06) 0.16 (0.04)*** 0.13 (0.06)*
+Program participation (γ110) 0.01 (0.02) −0.21 (0.09)* −0.11 (0.09) −0.12 (0.06)* −0.21 (0.08)**
++ p < .10
+* p < .05
+** p < .01
+*** p < .001.
+As shown in Table 2, we found only a single significant baseline difference in youth outcome measures between groups; there was a significant inverse relation between program participation and academic self-concept, such that at baseline participants had lower academic self-concept than nonparticipants (γ010 = −0.07, p = .02). We found several significant associations between time and student outcomes, indicating that student outcomes change over time irrespective of group assignment. Specifically, students tended to use more antisocial conflict resolution strategies over time (γ100 = .16, p = .000), and to avoid conflicts more often over time (γ100 = 0.13, p = .03).
+Additionally, we found significant joint associations between time and program participation and academic self-concept (γ110 = 0.06, p = .03), the use of verbally aggressive conflict resolution strategies (γ110 = −0.21, p = .03), the use of antisocial conflict resolution strategies (γ110 = −0.12, p = .047), and the use of avoidant conflict resolution strategies (γ110 = −0.21, p = .01). These findings indicate that the rate of pre-survey to post-survey change differed between program participants and nonparticipants.
+As shown in Figure 1, although students who participated in VPP had lower academic self-concept prior to beginning the program than nonparticipants, their academic self-concept tended to increase over the course of the program; the academic self-concept of nonparticipants did not change significantly over time. Figure 2 shows that program participants reported declines in the frequency of their use of verbally aggressive conflict resolution strategies, whereas nonparticipants reported little change. Figure 3 illustrates that although generally all study participants tended to use more antisocial conflict resolution strategies over time, the rate of increase in the use of antisocial conflict resolution strategies was slower for program participants than nonparticipants. Program participants also reported declines in the frequency of their use of avoidant conflict resolution strategies; nonparticipants reported increases. There were no significant associations between program participation, time, and the use of walking away, pro-social verbal or parent help seeking conflict resolution strategies.
+Figure 1
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Academic Self-Concept (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 2
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Verbally Aggressive Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 3
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Antisocial Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+DISCUSSION
+Violence Prevention Project's design is unique because it is optimized to meet the constraints of a typical urban high school. It is designed to fit within a semester framework, to be contained within a single school, to be engaging for student participants, and to allow some flexibility in program delivery while maintaining effectiveness. Results indicate that program participation was associated with gains in academic self-concept and improvements in some conflict resolution skills, including reductions in levels of verbal aggression. Although many school-based violence prevention programs teach conflict resolution skills and their effectiveness is well documented in the literature,21, 22 our findings suggest that programs, such as VPP, that are optimized9 to work within common constraints also can be effective.
+The core component structure, which we believe is unique among youth violence prevention programs, achieved a workable balance between fidelity and flexibility, with facilitators meeting 74% of program requirements. Using a framework of structured choices in combination with scripted lessons extends prior work on program fidelity in dissemination. It allows implementers to optimize the delivery of evidence-based content by permitting enough adaptation to address barriers to fidelity.6, 8, 9 We had anticipated that facilitators would meet 100% of the requirements owing to the ongoing monitoring of lesson plans. However, supervisors found it difficult to identify whether syllabi met all requirements. We believe that additional training for supervisors on the core component structure, coupled with a clearer design of the tracking forms, could boost fidelity in the future. Future research on optimizing programs to boost fidelity should map the types of deviations that occur and link variations in fidelity to results, giving program developers and implementers a clearer sense of where to be flexible in requirements. Additional work on optimization should explore the relationship between program length and effectiveness, with an eye toward matching the length of prevention programs with the severity of the problem, in the context of other demands schools face.
+There were some unexpected findings. Students reported no changes in their likelihood to resolve conflicts by giving pro-social verbal responses or using alternative nonviolent solutions such as walking away. It may be that the wording of the pro-social verbal responses was not resonant with the students. Alternatively, the program may be more successful at discouraging aggressive responses than providing students with pro-active tools for de-escalating conflicts. In addition, while avoidant and antisocial conflict resolution tended to increase over time for all students, there was a differential association between groups, such that the rate of increase was steeper for comparison group students. It may be that these changes constitute normal developmental change and that all students would show this pattern in the absence of VPP. This suggests that younger adolescents may also benefit from VPP.
+Limitations
+Our study design had several limitations. First, this is an effectiveness trial rather than an efficacy trial. Thus, our design was quasi-experimental, which compromised internal validity relative to a randomized control trial. As is typical in schools, principals had latitude to assign classrooms to receive the program, and principal goals and priorities differed across schools. Some used VPP as a leadership development opportunity for high-performing students, whereas others used it as remediation for low-performing students. This limited our ability to obtain consistent assignment of classrooms to condition across schools, but enhances the generalizability of our findings to typical implementation conditions where principals desire that programs serve a broad range of ends. Although we believe that this balance between validity and generalizability is appropriate for an effectiveness trial, an efficacy trial of VPP may be warranted in the future.
+Second, owing to the secondary nature of the program record data available, the research team was not able to link measures of program fidelity to student outcomes. Although the program model is designed to allow some flexibility in lesson selection, future research should examine whether certain lesson structures and higher levels of participant responsiveness are associated with better student outcomes.
+Third, future research should address challenges in measurement present in the current study. We could not obtain permission to examine school incident data for this study. This limitation was common in the NYC public schools during our study period. We hope that future studies can gain access to this data, which has greater ecological validity and provides a clearer indication of students' behavior than self-report surveys. Although social desirability bias is a potential limitation, we believe that this is unlikely to fully explain our findings given the age of our sample. By 9th and 10th grade, students are likely well acquainted with the idea that they should not resolve conflicts by hitting people or yelling at them. Changes in the social desirability of those answers may reflect an important first step in changing behavior. Additionally, our study, which relied on secondary analysis of program record data to track program fidelity, utilizes single-item measures of participant responsiveness that may not fully capture the construct. Future studies should employ more comprehensive measures of responsiveness.
+Conclusions
+Our findings suggest that it may be possible to optimize violence prevention programs to meet the needs of typical urban high schools while maintaining effectiveness. Programs that work within the semester framework while focusing on high levels of student engagement and allowing flexibility in implementation can be effective in improving student academic self-concept and conflict resolution skills. If future research continues to support the optimization approach used here, a productive path forward may emerge for prevention programs of all kinds. Rather than attempt to create the most effective program possible that may be difficult to implement, researchers should consider working with schools to develop effective and feasible programs, thereby helping to clarify “what works” in the field.
+IMPLICATIONS FOR SCHOOL HEALTH
+Results from this study indicate that violence prevention programs optimized to meet the constraints of a typical school can be effective. Program planners should optimize programs to balance brevity and effectiveness, fidelity and flexibility, and the needs of the program with needs of schools. School administrators selecting programs should seek to understand the fidelity requirements of programs under consideration, as well as the implementation conditions under which programs have demonstrated effectiveness.
+Human Subjects Approval Statement
+The New York City Department of Education Institutional Review Board approved the study protocol.
+REFERENCES
+
+More than 2 decades of research have yielded a robust literature on effective approaches to school-based violence prevention, providing a solid knowledge base of “what works.”1, 2 School-based violence prevention programs have reduced aggression and increased pro-social skills, attitudes, and behaviors.1, 2 Despite their successes, it can be difficult for traditional high school schedules to accommodate program requirements. Many interventions require a larger number of sessions than can be accommodated in trimester and semester school calendars, 12 and 16 weeks, respectively. Alternatively, some programs are designed to be implemented throughout a child's academic career, making it difficult to ensure continuity across elementary, middle, and high schools. In underserved urban schools with the highest need for violence prevention programs, which often have the highest need for academic improvement,3 school reforms demand accountability for academic performance, making scarce time for instruction beyond the core curriculum.4 Therefore, when proven-effective interventions are implemented, design integrity is often challenged, reducing effectiveness.5 Dissemination research demonstrates that implementers tend to alter or drop programmatic elements to save funds, to ensure participant engagement and cultural appropriateness,6 or to bolster their sense of ownership over the material and its impact.7, 8
+
+Optimizing Program Design
+To be viable on a large scale in schools, then, it behooves developers to design programs that reduce violence while working within common limitations. In other words, developers must optimize program development by creating the best possible design given identified constraints.9 The optimization approach, while common in engineering, has not yet been widely adopted in prevention.9 Therefore, most prevention programs are designed to be as effective as theoretically possible,9 rather than optimized for maximal effectiveness given constraints such as school schedules, continuity across grade levels, and the needs of program implementers.
+The current study report results from an effectiveness trial of The Leadership Program's universal Violence Prevention Project (VPP). VPP is a 12-session school-based preventive intervention targeted to adolescents in urban areas. VPP's designers attempted to optimize the program to be empirically effective while working within the constraints facing schools. Therefore, it fits within a typical semester structure, is contained within a single school, engages youth, and is flexible enough to overcome common barriers to fidelity. This study evaluates the program's effectiveness as implemented in 9th- and 10th-grade classrooms in 13 Title 1 New York City (NYC) high schools during the 2005-2009 school years.
+Program Approach
+Violence Prevention Project has 12, 45-minute lessons for students, 2 evaluation sessions, and 2 planning sessions with teachers and school principals before implementation. Program content uses skill-building exercises to improve students' conflict-related attitudes and behaviors. Content is delivered using a core component framework that builds in opportunities for lesson selection and adaptation.10, 11 Facilitators are required to use a standard introductory lesson but can select the remaining lessons from a bank as long as they meet the required number of lessons for each component, detailed below. Lesson selection is based on facilitator, principal, and teacher assessment of class functioning, sociocultural relevancy, special needs, and school-specific issues.12-14 These assessments take place before beginning the unit, but lesson selection may be modified during the unit in response to emergent needs. Lessons are delivered by baccalaureate-degree level or higher facilitators whose ethnic and sex composition mirrors the student diversity common in urban schools.
+In the core component framework, earlier components lay the groundwork for the communication and conflict resolution skills taught later in the program. Following the introductory lesson, VPP begins with 1 or 2 lessons from the Self-Concept component. Lessons target academic self-concept, which research suggests may be an important mediator15 of the relationship between poor academic performance and aggressive behavior at school.16, 17 Objectives for the Self-Concept lessons include having students identify positive personal and academic traits about themselves.
+In the next component, Group Dynamics, also 1 to 2 lessons, facilitators target aspects of the classroom environment associated with aggression. Targeted aspects include peer support for aggression, which research suggests is a key vector for both conflict and the prevention of violence in adolescence, when peer influence is at its height.18-20 Objectives for the Group Dynamics lessons include setting classroom norms around conflict.
+Facilitators then reinforce academic self-concept by targeting goal setting and future orientation for 1 to 2 lessons in the Vision and Imagination component. Lesson objectives in the Vision and Imagination component include having students imagine their future careers and set incremental goals to track their progress.
+The final 4 to 6 lessons are drawn from the Conflict Management component. Because adolescent communication skills are associated with key developmental indicators, such as perceived academic competence, quality of interpersonal relationships, and interpersonal conflict,21-24 the Conflict Management lessons give explicit instruction in communication skills, including active listening, I-messages, and perspective taking. Lesson objectives from the Conflict Management component include demonstrating effective listening and communication skills in a conflict. An example of a lesson activity designed to promote perspective taking involves giving participants series of short scene-starters around conflict. Participants then improvise scenes, freezing the action, and tagging in as they wish to take the scene in a different direction. Facilitators lead discussion around each character's perspective and its relationship to the conflict outcomes.
+Each unit concludes with an arts-based final project, spanning 1 to 2 classes, which lets students immediately apply their skills by working collectively. Research suggests that group-based project learning promotes knowledge acquisition through skill-application and can promote teamwork and problem-solving.25 Arts-based projects can promote pro-social competencies and reduce aggression by improving conflict resolution skills.26
+Violence Prevention Project is designed to maximize student engagement, a key factor in intervention effectiveness.20 It teaches content using role-plays, games, and project-based learning, teaching tools that are associated with higher levels of effectiveness.27, 28 Using Pfeiffer and Jones's29 experiential learning cycle, facilitators help students to process an activity through 5 stages of comprehension, culminating with application. The experiential learning cycle is applied throughout 4 segments of each lesson: aim, warm-up, main activity, and closing.
+To promote fidelity to the model, facilitators annually attend mandatory 30-hour training with 3 levels—beginning, refresher, and advanced—which is supplemented with optional booster sessions throughout the year. Facilitators leave with curriculum manuals, sample lesson DVDs, and other program materials. They also receive ongoing support and supervision from program managers, who provide or facilitate weekly check-ins, regular staff meetings, observations, and paperwork review.10
+Current Study
+The current study is an effectiveness trial evaluating VPP's potential as a preventative intervention optimized to work within the constraints common to urban high schools. We expect that facilitators will be able to do 3 things: (1) implement VPP according to the core component framework; (2) engage students through VPP; and (3) participation will be associated with improvements in students' academic self-concept and conflict resolution skills.
+
+Optimizing Program Design
+To be viable on a large scale in schools, then, it behooves developers to design programs that reduce violence while working within common limitations. In other words, developers must optimize program development by creating the best possible design given identified constraints.9 The optimization approach, while common in engineering, has not yet been widely adopted in prevention.9 Therefore, most prevention programs are designed to be as effective as theoretically possible,9 rather than optimized for maximal effectiveness given constraints such as school schedules, continuity across grade levels, and the needs of program implementers.
+The current study report results from an effectiveness trial of The Leadership Program's universal Violence Prevention Project (VPP). VPP is a 12-session school-based preventive intervention targeted to adolescents in urban areas. VPP's designers attempted to optimize the program to be empirically effective while working within the constraints facing schools. Therefore, it fits within a typical semester structure, is contained within a single school, engages youth, and is flexible enough to overcome common barriers to fidelity. This study evaluates the program's effectiveness as implemented in 9th- and 10th-grade classrooms in 13 Title 1 New York City (NYC) high schools during the 2005-2009 school years.
+
+Optimizing Program Design
+
+Program Approach
+Violence Prevention Project has 12, 45-minute lessons for students, 2 evaluation sessions, and 2 planning sessions with teachers and school principals before implementation. Program content uses skill-building exercises to improve students' conflict-related attitudes and behaviors. Content is delivered using a core component framework that builds in opportunities for lesson selection and adaptation.10, 11 Facilitators are required to use a standard introductory lesson but can select the remaining lessons from a bank as long as they meet the required number of lessons for each component, detailed below. Lesson selection is based on facilitator, principal, and teacher assessment of class functioning, sociocultural relevancy, special needs, and school-specific issues.12-14 These assessments take place before beginning the unit, but lesson selection may be modified during the unit in response to emergent needs. Lessons are delivered by baccalaureate-degree level or higher facilitators whose ethnic and sex composition mirrors the student diversity common in urban schools.
+In the core component framework, earlier components lay the groundwork for the communication and conflict resolution skills taught later in the program. Following the introductory lesson, VPP begins with 1 or 2 lessons from the Self-Concept component. Lessons target academic self-concept, which research suggests may be an important mediator15 of the relationship between poor academic performance and aggressive behavior at school.16, 17 Objectives for the Self-Concept lessons include having students identify positive personal and academic traits about themselves.
+In the next component, Group Dynamics, also 1 to 2 lessons, facilitators target aspects of the classroom environment associated with aggression. Targeted aspects include peer support for aggression, which research suggests is a key vector for both conflict and the prevention of violence in adolescence, when peer influence is at its height.18-20 Objectives for the Group Dynamics lessons include setting classroom norms around conflict.
+Facilitators then reinforce academic self-concept by targeting goal setting and future orientation for 1 to 2 lessons in the Vision and Imagination component. Lesson objectives in the Vision and Imagination component include having students imagine their future careers and set incremental goals to track their progress.
+The final 4 to 6 lessons are drawn from the Conflict Management component. Because adolescent communication skills are associated with key developmental indicators, such as perceived academic competence, quality of interpersonal relationships, and interpersonal conflict,21-24 the Conflict Management lessons give explicit instruction in communication skills, including active listening, I-messages, and perspective taking. Lesson objectives from the Conflict Management component include demonstrating effective listening and communication skills in a conflict. An example of a lesson activity designed to promote perspective taking involves giving participants series of short scene-starters around conflict. Participants then improvise scenes, freezing the action, and tagging in as they wish to take the scene in a different direction. Facilitators lead discussion around each character's perspective and its relationship to the conflict outcomes.
+Each unit concludes with an arts-based final project, spanning 1 to 2 classes, which lets students immediately apply their skills by working collectively. Research suggests that group-based project learning promotes knowledge acquisition through skill-application and can promote teamwork and problem-solving.25 Arts-based projects can promote pro-social competencies and reduce aggression by improving conflict resolution skills.26
+Violence Prevention Project is designed to maximize student engagement, a key factor in intervention effectiveness.20 It teaches content using role-plays, games, and project-based learning, teaching tools that are associated with higher levels of effectiveness.27, 28 Using Pfeiffer and Jones's29 experiential learning cycle, facilitators help students to process an activity through 5 stages of comprehension, culminating with application. The experiential learning cycle is applied throughout 4 segments of each lesson: aim, warm-up, main activity, and closing.
+To promote fidelity to the model, facilitators annually attend mandatory 30-hour training with 3 levels—beginning, refresher, and advanced—which is supplemented with optional booster sessions throughout the year. Facilitators leave with curriculum manuals, sample lesson DVDs, and other program materials. They also receive ongoing support and supervision from program managers, who provide or facilitate weekly check-ins, regular staff meetings, observations, and paperwork review.10
+
+Program Approach
+
+Current Study
+The current study is an effectiveness trial evaluating VPP's potential as a preventative intervention optimized to work within the constraints common to urban high schools. We expect that facilitators will be able to do 3 things: (1) implement VPP according to the core component framework; (2) engage students through VPP; and (3) participation will be associated with improvements in students' academic self-concept and conflict resolution skills.
+
+Current Study
+
+METHODS
+Participants
+Study participants were 9th and 10th graders (N = 1112) from 13 NYC public schools with Title 1 funding (at least 60% of students at or below the poverty line). The sample was balanced between boys (46%) and girls (54%) and was heavily black (41%) and Latino (42%), which reflects the ethnic composition of both program participants and the NYC public school system. Complete descriptive statistics and demographics are available by condition and time point in Table 1.
+Table 1. Demographic Profile and Descriptive Statistics
+Pretest Posttest
+VPP N = 587* Comparison N = 517* VPP N = 431* Comparison N = 362*
+Sex
+Boys 289 220 217 152
+Girls 297 297 213 210
+Race/ethnicity
+Black 252 200 178 132
+Latino 262 205 200 140
+Asian 20 29 14 26
+White 49 53 38 38
+Other 80 76 57 51
+Grade
+9th 302 258 211 171
+10th 285 259 220 191
+School year
+2005-2006 164 213 132 156
+2006-2007 149 136 326 103
+2007-2008 147 136 295 85
+2008-2009 127 32 236 18
+Measures M (SD) M (SD) M (SD) M (SD)
+Academic self-concept 3.06 (0.53) 3.14 (0.49) 3.17 (0.55) 3.19 (0.48)
+Conflict resolution
+Verbal aggression 1.58 (1.26) 1.52 (1.11) 1.37 (1.26) 1.55 (1.21)
+Physical aggression 1.54 (1.16) 1.47 (1.13) 1.38 (1.17) 1.41 (1.18)
+Walk away 1.36 (1.33) 1.43 (1.21) 1.52 (1.33) 1.65 (1.24)
+Pro-social verbal 6.19 (3.34) 6.35 (3.13) 6.25 (3.34) 6.61 (3.30)
+Parent help 1.01 (0.97) 1.04 (0.93) 1.00 (0.97) 1.07 (0.94)
+Antisocial behavior 0.81 (0.77) 0.78 (0.69) 0.85 (0.85) 0.95 (0.74)
+Immature avoidance 1.36 (1.03) 1.04 (0.94) 1.26 (1.03) 1.45 (0.91)
+* Category data may not sum exactly due to missing data, or because students were permitted to select more than 1 option (ethnicity).
+Baseline differences
+At baseline, program participants were significantly more likely to be boys than were nonparticipants, χ2(1, N = 1112) = 4.97, p = .00. There were no baseline differences in age distribution or ethnic background.
+Attrition
+A total of 1104 students participated in the baseline survey: 587 participants and 517 nonparticipants. At program conclusion, 793 students took the survey, 431 participants and 362 nonparticipants, with a retention rate of 72%. Attrition rates were comparable for participants (27%) and nonparticipants (30%). Eight students who were absent from school at the pre-survey were added to the sample at the post-survey for data completeness. All students present in class on the survey day took the posttest; multiple survey attempts were not possible. Declines in school attendance were the primary cause of attrition. Pre-surveys were given early in the semester, when attendance was at its highest. Post-surveys took place at the end of the semester when attendance was low.
+Instruments
+Curricular adherence
+For each unit, facilitators created a syllabus using the core component structure outlined above. We assessed fidelity to this framework using syllabi (N = 58) during 3 of the 4 study years (syllabi from 2006 to 2007 were omitted because of data collection problems). Syllabi were examined for alignment with required elements in the core component structure. For example, syllabi were examined to ensure that facilitators taught between four and six lessons from the conflict management component.
+Student engagement
+We assessed student engagement from student, facilitator, and teacher perspectives. One item on the student posttest survey asks participants whether the program was very helpful or useful, sort of helpful or useful, or not helpful or useful. We assessed facilitator views of engagement during facilitator observations (N = 251) on a single-item 5-point Likert-type scale from poor to excellent. We assessed engagement from the teacher perspective using 1 item from a teacher satisfaction survey (N = 3470) that asked teachers whether they strongly agreed, agreed, were neutral, disagreed, or strongly disagreed that they received positive feedback from students about VPP.
+Academic self-concept
+We assessed students' academic self-concept using a 4-item Likert-type scale: strongly disagree to strongly agree. Items include “I expect that I will go to college,” “I am the kind of person who does my homework on time,” “I am the kind of person who attends school every day,” and “I am the kind of person who gets good grades.” Scores represent the mean of all items. Internal consistency reliability was acceptable, (α = .71 at baseline).
+The measure was designed in-house, and complete psychometrics documented upon its development in an unpublished dissertation.30 The measure was created from student, teacher, and principal focus groups at 3 schools that participated in VPP, then fine-tuned in interviews with program staff. The instrumentation was piloted with 1942 VPP participants in NYC public schools, whose demographics mirrored those of current study participants. Descriptive psychometric properties of the scale in the pilot sample were good. Principal components analysis supported a unidimensional factor structure (Kaiser-Meyer-Olkin (KMO) = .73, eigenvalue = 2.2), and a single factor explained 55% of item variance. All items had high factor loadings, ranging from .58 to .82. Internal consistency reliability, as measured by Cronbach's alpha, was adequate (α = .71), providing additional support for a unidimensional factor structure. The researchers theorized that academic self-concept would be associated with better school performance and used self-reported grades as a criterion to establish validity. As expected, academic self-concept was positively correlated with self-reported grade point average (r = .53, p < .01).
+Conflict resolution
+We assessed students' conflict resolution skills using a scale derived from the Interpersonal Problem-Solving Analysis (IPA), a tool developed to assess conflict resolution behaviors in elementary school students31, 32 (a revised version is recommended for use as a violence prevention measure with African-American boys aged 12 to 16 by the Centers for Disease Control and Prevention).33 Minor revisions were made to the measure by a prior research team, and it was piloted in a prior research sample detailed above.30 The measure assesses the frequency of students' use of conflict resolution strategies by presenting them with 12 short vignettes involving conflicts. For each vignette, students were given hypothetical responses and asked to select strategies they might use, choosing as many as they liked. Strategies included verbal aggression, physical aggression, walking away, pro-social verbal responses (such as calmly telling another student who is making fun of you to cut it out), asking a parent for help, immature avoidance (such as ignoring another student who brought a gun to school), or antisocial behavior (such as copying answers on a test). We created count variables measuring the number of times a student selected each strategy type.
+Procedure
+We used program record data to assess curricular adherence and student engagement. To assess academic self-concept and conflict resolution skills, data were drawn from 4 consecutive years of program implementation, beginning in the 2005-2006 school year. During that time VPP was implemented in 160 middle and high schools in NYC to approximately 55,000 students. Each year a subset of high schools was randomly selected from the pool of schools receiving VPP and offered $200 to participate in the evaluation. All selected schools participated. We used a quasi-experimental nonequivalent-groups design that matched program and comparison classrooms by student grade and academic level. Pre-surveys were administered prior to the program, and post-surveys were administered at program conclusion. VPP facilitators read the survey aloud while students marked their answers.
+Data Analysis Plan
+We examined the extent to which participation in VPP was associated with changes over time in self-reported student outcomes, as compared to changes over time in self-reported outcomes for nonparticipants. All analyses use hierarchical linear modeling (HLM), which is superior to more basic techniques such as the analysis of variance (ANOVA) or the ordinary least squares (OLS) regression for our study design. Using HLM allowed us to analyze unbalanced groups and to create models using all available data rather than only complete cases, which reduces biases from attrition and produces unbiased estimates of program effects when data are missing at random.34 HLM also allows more appropriate analysis of nonindependent observations, such as those in this study, which included both students clustered within schools and multiple survey points for the same student.
+We conducted a series of parallel analyses examining the association of program participation with both initial levels of and change over time in youth outcomes. To do so, we fit a 3-level model. In each case, we fit a level one model using time as the sole time-varying predictor (Equation 1). We then added program participation as a level 2 (time-invariant, student level) predictor of both initial levels of our outcome variables (the intercept) and rate of change over time in each variable for each student (Equations 2 and 3). Next, we added school year and sex, given that at baseline participants were more likely to be boys than were nonparticipants, as level 2 (time-invariant, student level) predictors of initial levels of youth outcomes. Baseline adjustment is often superior to more sophisticated techniques, such as propensity scoring, in situations such as ours where there are insufficient baseline variables to create well-matched groups.35
+Because our data set contains only 2 time points, the number of random effects we could model was limited. We chose to add a random effect for the intercept at level 2 (Equation 2), but did not add a random slope (Equation 3). Thus, we allowed the association of program participation with initial levels of youth behavior to vary by school, but fixed the association of program participation with change over time in youth behavior across schools at the overall mean. Additionally, we fit an unconditional level three model, allowing the effect of program participation to vary by school. Our model is below:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+We assume that all tests are independent and do not control for multiple comparisons, although in most cases the p-values we obtain are small (less than .01) and would not be affected by such an adjustment.
+
+METHODS
+
+Participants
+Study participants were 9th and 10th graders (N = 1112) from 13 NYC public schools with Title 1 funding (at least 60% of students at or below the poverty line). The sample was balanced between boys (46%) and girls (54%) and was heavily black (41%) and Latino (42%), which reflects the ethnic composition of both program participants and the NYC public school system. Complete descriptive statistics and demographics are available by condition and time point in Table 1.
+Table 1. Demographic Profile and Descriptive Statistics
+Pretest Posttest
+VPP N = 587* Comparison N = 517* VPP N = 431* Comparison N = 362*
+Sex
+Boys 289 220 217 152
+Girls 297 297 213 210
+Race/ethnicity
+Black 252 200 178 132
+Latino 262 205 200 140
+Asian 20 29 14 26
+White 49 53 38 38
+Other 80 76 57 51
+Grade
+9th 302 258 211 171
+10th 285 259 220 191
+School year
+2005-2006 164 213 132 156
+2006-2007 149 136 326 103
+2007-2008 147 136 295 85
+2008-2009 127 32 236 18
+Measures M (SD) M (SD) M (SD) M (SD)
+Academic self-concept 3.06 (0.53) 3.14 (0.49) 3.17 (0.55) 3.19 (0.48)
+Conflict resolution
+Verbal aggression 1.58 (1.26) 1.52 (1.11) 1.37 (1.26) 1.55 (1.21)
+Physical aggression 1.54 (1.16) 1.47 (1.13) 1.38 (1.17) 1.41 (1.18)
+Walk away 1.36 (1.33) 1.43 (1.21) 1.52 (1.33) 1.65 (1.24)
+Pro-social verbal 6.19 (3.34) 6.35 (3.13) 6.25 (3.34) 6.61 (3.30)
+Parent help 1.01 (0.97) 1.04 (0.93) 1.00 (0.97) 1.07 (0.94)
+Antisocial behavior 0.81 (0.77) 0.78 (0.69) 0.85 (0.85) 0.95 (0.74)
+Immature avoidance 1.36 (1.03) 1.04 (0.94) 1.26 (1.03) 1.45 (0.91)
+* Category data may not sum exactly due to missing data, or because students were permitted to select more than 1 option (ethnicity).
+Baseline differences
+At baseline, program participants were significantly more likely to be boys than were nonparticipants, χ2(1, N = 1112) = 4.97, p = .00. There were no baseline differences in age distribution or ethnic background.
+Attrition
+A total of 1104 students participated in the baseline survey: 587 participants and 517 nonparticipants. At program conclusion, 793 students took the survey, 431 participants and 362 nonparticipants, with a retention rate of 72%. Attrition rates were comparable for participants (27%) and nonparticipants (30%). Eight students who were absent from school at the pre-survey were added to the sample at the post-survey for data completeness. All students present in class on the survey day took the posttest; multiple survey attempts were not possible. Declines in school attendance were the primary cause of attrition. Pre-surveys were given early in the semester, when attendance was at its highest. Post-surveys took place at the end of the semester when attendance was low.
+
+Participants
+
+Pretest Posttest
+VPP N = 587* Comparison N = 517* VPP N = 431* Comparison N = 362*
+Sex
+Boys 289 220 217 152
+Girls 297 297 213 210
+Race/ethnicity
+Black 252 200 178 132
+Latino 262 205 200 140
+Asian 20 29 14 26
+White 49 53 38 38
+Other 80 76 57 51
+Grade
+9th 302 258 211 171
+10th 285 259 220 191
+School year
+2005-2006 164 213 132 156
+2006-2007 149 136 326 103
+2007-2008 147 136 295 85
+2008-2009 127 32 236 18
+
+Measures M (SD) M (SD) M (SD) M (SD)
+Academic self-concept 3.06 (0.53) 3.14 (0.49) 3.17 (0.55) 3.19 (0.48)
+Conflict resolution
+Verbal aggression 1.58 (1.26) 1.52 (1.11) 1.37 (1.26) 1.55 (1.21)
+Physical aggression 1.54 (1.16) 1.47 (1.13) 1.38 (1.17) 1.41 (1.18)
+Walk away 1.36 (1.33) 1.43 (1.21) 1.52 (1.33) 1.65 (1.24)
+Pro-social verbal 6.19 (3.34) 6.35 (3.13) 6.25 (3.34) 6.61 (3.30)
+Parent help 1.01 (0.97) 1.04 (0.93) 1.00 (0.97) 1.07 (0.94)
+Antisocial behavior 0.81 (0.77) 0.78 (0.69) 0.85 (0.85) 0.95 (0.74)
+Immature avoidance 1.36 (1.03) 1.04 (0.94) 1.26 (1.03) 1.45 (0.91)
+
+* Category data may not sum exactly due to missing data, or because students were permitted to select more than 1 option (ethnicity).
+
+Baseline differences
+At baseline, program participants were significantly more likely to be boys than were nonparticipants, χ2(1, N = 1112) = 4.97, p = .00. There were no baseline differences in age distribution or ethnic background.
+
+Baseline differences
+
+Attrition
+A total of 1104 students participated in the baseline survey: 587 participants and 517 nonparticipants. At program conclusion, 793 students took the survey, 431 participants and 362 nonparticipants, with a retention rate of 72%. Attrition rates were comparable for participants (27%) and nonparticipants (30%). Eight students who were absent from school at the pre-survey were added to the sample at the post-survey for data completeness. All students present in class on the survey day took the posttest; multiple survey attempts were not possible. Declines in school attendance were the primary cause of attrition. Pre-surveys were given early in the semester, when attendance was at its highest. Post-surveys took place at the end of the semester when attendance was low.
+
+Attrition
+
+Instruments
+Curricular adherence
+For each unit, facilitators created a syllabus using the core component structure outlined above. We assessed fidelity to this framework using syllabi (N = 58) during 3 of the 4 study years (syllabi from 2006 to 2007 were omitted because of data collection problems). Syllabi were examined for alignment with required elements in the core component structure. For example, syllabi were examined to ensure that facilitators taught between four and six lessons from the conflict management component.
+Student engagement
+We assessed student engagement from student, facilitator, and teacher perspectives. One item on the student posttest survey asks participants whether the program was very helpful or useful, sort of helpful or useful, or not helpful or useful. We assessed facilitator views of engagement during facilitator observations (N = 251) on a single-item 5-point Likert-type scale from poor to excellent. We assessed engagement from the teacher perspective using 1 item from a teacher satisfaction survey (N = 3470) that asked teachers whether they strongly agreed, agreed, were neutral, disagreed, or strongly disagreed that they received positive feedback from students about VPP.
+Academic self-concept
+We assessed students' academic self-concept using a 4-item Likert-type scale: strongly disagree to strongly agree. Items include “I expect that I will go to college,” “I am the kind of person who does my homework on time,” “I am the kind of person who attends school every day,” and “I am the kind of person who gets good grades.” Scores represent the mean of all items. Internal consistency reliability was acceptable, (α = .71 at baseline).
+The measure was designed in-house, and complete psychometrics documented upon its development in an unpublished dissertation.30 The measure was created from student, teacher, and principal focus groups at 3 schools that participated in VPP, then fine-tuned in interviews with program staff. The instrumentation was piloted with 1942 VPP participants in NYC public schools, whose demographics mirrored those of current study participants. Descriptive psychometric properties of the scale in the pilot sample were good. Principal components analysis supported a unidimensional factor structure (Kaiser-Meyer-Olkin (KMO) = .73, eigenvalue = 2.2), and a single factor explained 55% of item variance. All items had high factor loadings, ranging from .58 to .82. Internal consistency reliability, as measured by Cronbach's alpha, was adequate (α = .71), providing additional support for a unidimensional factor structure. The researchers theorized that academic self-concept would be associated with better school performance and used self-reported grades as a criterion to establish validity. As expected, academic self-concept was positively correlated with self-reported grade point average (r = .53, p < .01).
+Conflict resolution
+We assessed students' conflict resolution skills using a scale derived from the Interpersonal Problem-Solving Analysis (IPA), a tool developed to assess conflict resolution behaviors in elementary school students31, 32 (a revised version is recommended for use as a violence prevention measure with African-American boys aged 12 to 16 by the Centers for Disease Control and Prevention).33 Minor revisions were made to the measure by a prior research team, and it was piloted in a prior research sample detailed above.30 The measure assesses the frequency of students' use of conflict resolution strategies by presenting them with 12 short vignettes involving conflicts. For each vignette, students were given hypothetical responses and asked to select strategies they might use, choosing as many as they liked. Strategies included verbal aggression, physical aggression, walking away, pro-social verbal responses (such as calmly telling another student who is making fun of you to cut it out), asking a parent for help, immature avoidance (such as ignoring another student who brought a gun to school), or antisocial behavior (such as copying answers on a test). We created count variables measuring the number of times a student selected each strategy type.
+
+Instruments
+
+Curricular adherence
+For each unit, facilitators created a syllabus using the core component structure outlined above. We assessed fidelity to this framework using syllabi (N = 58) during 3 of the 4 study years (syllabi from 2006 to 2007 were omitted because of data collection problems). Syllabi were examined for alignment with required elements in the core component structure. For example, syllabi were examined to ensure that facilitators taught between four and six lessons from the conflict management component.
+
+Curricular adherence
+
+Student engagement
+We assessed student engagement from student, facilitator, and teacher perspectives. One item on the student posttest survey asks participants whether the program was very helpful or useful, sort of helpful or useful, or not helpful or useful. We assessed facilitator views of engagement during facilitator observations (N = 251) on a single-item 5-point Likert-type scale from poor to excellent. We assessed engagement from the teacher perspective using 1 item from a teacher satisfaction survey (N = 3470) that asked teachers whether they strongly agreed, agreed, were neutral, disagreed, or strongly disagreed that they received positive feedback from students about VPP.
+
+Student engagement
+
+Academic self-concept
+We assessed students' academic self-concept using a 4-item Likert-type scale: strongly disagree to strongly agree. Items include “I expect that I will go to college,” “I am the kind of person who does my homework on time,” “I am the kind of person who attends school every day,” and “I am the kind of person who gets good grades.” Scores represent the mean of all items. Internal consistency reliability was acceptable, (α = .71 at baseline).
+The measure was designed in-house, and complete psychometrics documented upon its development in an unpublished dissertation.30 The measure was created from student, teacher, and principal focus groups at 3 schools that participated in VPP, then fine-tuned in interviews with program staff. The instrumentation was piloted with 1942 VPP participants in NYC public schools, whose demographics mirrored those of current study participants. Descriptive psychometric properties of the scale in the pilot sample were good. Principal components analysis supported a unidimensional factor structure (Kaiser-Meyer-Olkin (KMO) = .73, eigenvalue = 2.2), and a single factor explained 55% of item variance. All items had high factor loadings, ranging from .58 to .82. Internal consistency reliability, as measured by Cronbach's alpha, was adequate (α = .71), providing additional support for a unidimensional factor structure. The researchers theorized that academic self-concept would be associated with better school performance and used self-reported grades as a criterion to establish validity. As expected, academic self-concept was positively correlated with self-reported grade point average (r = .53, p < .01).
+
+Academic self-concept
+
+Conflict resolution
+We assessed students' conflict resolution skills using a scale derived from the Interpersonal Problem-Solving Analysis (IPA), a tool developed to assess conflict resolution behaviors in elementary school students31, 32 (a revised version is recommended for use as a violence prevention measure with African-American boys aged 12 to 16 by the Centers for Disease Control and Prevention).33 Minor revisions were made to the measure by a prior research team, and it was piloted in a prior research sample detailed above.30 The measure assesses the frequency of students' use of conflict resolution strategies by presenting them with 12 short vignettes involving conflicts. For each vignette, students were given hypothetical responses and asked to select strategies they might use, choosing as many as they liked. Strategies included verbal aggression, physical aggression, walking away, pro-social verbal responses (such as calmly telling another student who is making fun of you to cut it out), asking a parent for help, immature avoidance (such as ignoring another student who brought a gun to school), or antisocial behavior (such as copying answers on a test). We created count variables measuring the number of times a student selected each strategy type.
+
+Conflict resolution
+
+Procedure
+We used program record data to assess curricular adherence and student engagement. To assess academic self-concept and conflict resolution skills, data were drawn from 4 consecutive years of program implementation, beginning in the 2005-2006 school year. During that time VPP was implemented in 160 middle and high schools in NYC to approximately 55,000 students. Each year a subset of high schools was randomly selected from the pool of schools receiving VPP and offered $200 to participate in the evaluation. All selected schools participated. We used a quasi-experimental nonequivalent-groups design that matched program and comparison classrooms by student grade and academic level. Pre-surveys were administered prior to the program, and post-surveys were administered at program conclusion. VPP facilitators read the survey aloud while students marked their answers.
+
+Procedure
+
+Data Analysis Plan
+We examined the extent to which participation in VPP was associated with changes over time in self-reported student outcomes, as compared to changes over time in self-reported outcomes for nonparticipants. All analyses use hierarchical linear modeling (HLM), which is superior to more basic techniques such as the analysis of variance (ANOVA) or the ordinary least squares (OLS) regression for our study design. Using HLM allowed us to analyze unbalanced groups and to create models using all available data rather than only complete cases, which reduces biases from attrition and produces unbiased estimates of program effects when data are missing at random.34 HLM also allows more appropriate analysis of nonindependent observations, such as those in this study, which included both students clustered within schools and multiple survey points for the same student.
+We conducted a series of parallel analyses examining the association of program participation with both initial levels of and change over time in youth outcomes. To do so, we fit a 3-level model. In each case, we fit a level one model using time as the sole time-varying predictor (Equation 1). We then added program participation as a level 2 (time-invariant, student level) predictor of both initial levels of our outcome variables (the intercept) and rate of change over time in each variable for each student (Equations 2 and 3). Next, we added school year and sex, given that at baseline participants were more likely to be boys than were nonparticipants, as level 2 (time-invariant, student level) predictors of initial levels of youth outcomes. Baseline adjustment is often superior to more sophisticated techniques, such as propensity scoring, in situations such as ours where there are insufficient baseline variables to create well-matched groups.35
+Because our data set contains only 2 time points, the number of random effects we could model was limited. We chose to add a random effect for the intercept at level 2 (Equation 2), but did not add a random slope (Equation 3). Thus, we allowed the association of program participation with initial levels of youth behavior to vary by school, but fixed the association of program participation with change over time in youth behavior across schools at the overall mean. Additionally, we fit an unconditional level three model, allowing the effect of program participation to vary by school. Our model is below:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+We assume that all tests are independent and do not control for multiple comparisons, although in most cases the p-values we obtain are small (less than .01) and would not be affected by such an adjustment.
+
+Data Analysis Plan
+
+RESULTS
+Curricular Adherence
+Ninety-seven percent of VPP units included at least 1 lesson from the Self-Concept component. Every unit included at least 1 lesson from Group Dynamics (100%), although only 53% included a lesson from the Vision and Imagination component. Seventy-four percent of units completed at least 4 Conflict Management lessons; among those who taught fewer, 14% taught 3 lessons and the remaining 12% taught 2; 67% included final project work. Facilitators fulfilled a mean of 5 of the 7 curricular requirements. Across residencies, facilitators met at least 74% of the curricular requirements.
+Student Engagement
+Fifty-three percent of students reported that the program was very helpful or useful, 44% sort of helpful or useful, and 3% not helpful or useful. Forty-four percent of facilitators were rated by observers as excellent on student engagement, 39% were rated as good, 14% were rated as satisfactory, 3% were rated as needs improvement, and 0.4% as poor. Forty-four percent of teachers strongly agreed that they received positive feedback from students, 40% agreed, 13% were neutral, 2% disagreed, and 0.4% strongly disagreed.
+Self-Reported Student Outcomes
+HLM results are presented in Table 2. To highlight relevant results, we summarized baseline differences between groups, changes in academic self-concept and conflict resolution over time, and joint associations between time, program participation, and student outcomes. Joint associations indicate a differential rate of change between participants and nonparticipants, the major hypothesis of our study.
+Table 2. Hierarchical Linear Model Predicting Student Attitudes and Behaviors
+Level-1(Time Varying)
+Level-2 (Person) Academic Self-Concept b (se) Verbal Aggression b (se) Physical Aggression b (se) Antisocial Behavior b (se) Immature Avoidance b (se)
+Intercept (β00)
+Intercept (γ000) 3.09 (0.34)*** 1.44 (0.10)*** 1.64 (0.08)*** 0.77 (0.07)*** 1.38 (0.08)***
+Program participation (γ010) −0.07 (0.02)* 0.04 (0.07) 0.01 (0.07) −0.00 (0.05) −0.03 (0.06)
+School year (γ020) −0.01 (0.02) −0.01 (0.04) 0.02 (0.03) −0.01 (0.02) 0.06 (0.03+
+Sex (γ030) 0.10 (0.03)** 0.17 (0.06)+ −0.33 (0.06)*** 0.01 (0.04) −0.07 (0.05)
+Time (β10)
+Intercept (γ100) 0.01 (0.02) 0.01 (0.07) −0.04 (0.06) 0.16 (0.04)*** 0.13 (0.06)*
+Program participation (γ110) 0.01 (0.02) −0.21 (0.09)* −0.11 (0.09) −0.12 (0.06)* −0.21 (0.08)**
++ p < .10
+* p < .05
+** p < .01
+*** p < .001.
+As shown in Table 2, we found only a single significant baseline difference in youth outcome measures between groups; there was a significant inverse relation between program participation and academic self-concept, such that at baseline participants had lower academic self-concept than nonparticipants (γ010 = −0.07, p = .02). We found several significant associations between time and student outcomes, indicating that student outcomes change over time irrespective of group assignment. Specifically, students tended to use more antisocial conflict resolution strategies over time (γ100 = .16, p = .000), and to avoid conflicts more often over time (γ100 = 0.13, p = .03).
+Additionally, we found significant joint associations between time and program participation and academic self-concept (γ110 = 0.06, p = .03), the use of verbally aggressive conflict resolution strategies (γ110 = −0.21, p = .03), the use of antisocial conflict resolution strategies (γ110 = −0.12, p = .047), and the use of avoidant conflict resolution strategies (γ110 = −0.21, p = .01). These findings indicate that the rate of pre-survey to post-survey change differed between program participants and nonparticipants.
+As shown in Figure 1, although students who participated in VPP had lower academic self-concept prior to beginning the program than nonparticipants, their academic self-concept tended to increase over the course of the program; the academic self-concept of nonparticipants did not change significantly over time. Figure 2 shows that program participants reported declines in the frequency of their use of verbally aggressive conflict resolution strategies, whereas nonparticipants reported little change. Figure 3 illustrates that although generally all study participants tended to use more antisocial conflict resolution strategies over time, the rate of increase in the use of antisocial conflict resolution strategies was slower for program participants than nonparticipants. Program participants also reported declines in the frequency of their use of avoidant conflict resolution strategies; nonparticipants reported increases. There were no significant associations between program participation, time, and the use of walking away, pro-social verbal or parent help seeking conflict resolution strategies.
+Figure 1
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Academic Self-Concept (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 2
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Verbally Aggressive Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 3
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Antisocial Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+
+RESULTS
+
+Curricular Adherence
+Ninety-seven percent of VPP units included at least 1 lesson from the Self-Concept component. Every unit included at least 1 lesson from Group Dynamics (100%), although only 53% included a lesson from the Vision and Imagination component. Seventy-four percent of units completed at least 4 Conflict Management lessons; among those who taught fewer, 14% taught 3 lessons and the remaining 12% taught 2; 67% included final project work. Facilitators fulfilled a mean of 5 of the 7 curricular requirements. Across residencies, facilitators met at least 74% of the curricular requirements.
+
+Curricular Adherence
+
+Student Engagement
+Fifty-three percent of students reported that the program was very helpful or useful, 44% sort of helpful or useful, and 3% not helpful or useful. Forty-four percent of facilitators were rated by observers as excellent on student engagement, 39% were rated as good, 14% were rated as satisfactory, 3% were rated as needs improvement, and 0.4% as poor. Forty-four percent of teachers strongly agreed that they received positive feedback from students, 40% agreed, 13% were neutral, 2% disagreed, and 0.4% strongly disagreed.
+
+Student Engagement
+
+Self-Reported Student Outcomes
+HLM results are presented in Table 2. To highlight relevant results, we summarized baseline differences between groups, changes in academic self-concept and conflict resolution over time, and joint associations between time, program participation, and student outcomes. Joint associations indicate a differential rate of change between participants and nonparticipants, the major hypothesis of our study.
+Table 2. Hierarchical Linear Model Predicting Student Attitudes and Behaviors
+Level-1(Time Varying)
+Level-2 (Person) Academic Self-Concept b (se) Verbal Aggression b (se) Physical Aggression b (se) Antisocial Behavior b (se) Immature Avoidance b (se)
+Intercept (β00)
+Intercept (γ000) 3.09 (0.34)*** 1.44 (0.10)*** 1.64 (0.08)*** 0.77 (0.07)*** 1.38 (0.08)***
+Program participation (γ010) −0.07 (0.02)* 0.04 (0.07) 0.01 (0.07) −0.00 (0.05) −0.03 (0.06)
+School year (γ020) −0.01 (0.02) −0.01 (0.04) 0.02 (0.03) −0.01 (0.02) 0.06 (0.03+
+Sex (γ030) 0.10 (0.03)** 0.17 (0.06)+ −0.33 (0.06)*** 0.01 (0.04) −0.07 (0.05)
+Time (β10)
+Intercept (γ100) 0.01 (0.02) 0.01 (0.07) −0.04 (0.06) 0.16 (0.04)*** 0.13 (0.06)*
+Program participation (γ110) 0.01 (0.02) −0.21 (0.09)* −0.11 (0.09) −0.12 (0.06)* −0.21 (0.08)**
++ p < .10
+* p < .05
+** p < .01
+*** p < .001.
+As shown in Table 2, we found only a single significant baseline difference in youth outcome measures between groups; there was a significant inverse relation between program participation and academic self-concept, such that at baseline participants had lower academic self-concept than nonparticipants (γ010 = −0.07, p = .02). We found several significant associations between time and student outcomes, indicating that student outcomes change over time irrespective of group assignment. Specifically, students tended to use more antisocial conflict resolution strategies over time (γ100 = .16, p = .000), and to avoid conflicts more often over time (γ100 = 0.13, p = .03).
+Additionally, we found significant joint associations between time and program participation and academic self-concept (γ110 = 0.06, p = .03), the use of verbally aggressive conflict resolution strategies (γ110 = −0.21, p = .03), the use of antisocial conflict resolution strategies (γ110 = −0.12, p = .047), and the use of avoidant conflict resolution strategies (γ110 = −0.21, p = .01). These findings indicate that the rate of pre-survey to post-survey change differed between program participants and nonparticipants.
+As shown in Figure 1, although students who participated in VPP had lower academic self-concept prior to beginning the program than nonparticipants, their academic self-concept tended to increase over the course of the program; the academic self-concept of nonparticipants did not change significantly over time. Figure 2 shows that program participants reported declines in the frequency of their use of verbally aggressive conflict resolution strategies, whereas nonparticipants reported little change. Figure 3 illustrates that although generally all study participants tended to use more antisocial conflict resolution strategies over time, the rate of increase in the use of antisocial conflict resolution strategies was slower for program participants than nonparticipants. Program participants also reported declines in the frequency of their use of avoidant conflict resolution strategies; nonparticipants reported increases. There were no significant associations between program participation, time, and the use of walking away, pro-social verbal or parent help seeking conflict resolution strategies.
+Figure 1
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Academic Self-Concept (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 2
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Verbally Aggressive Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+Figure 3
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Antisocial Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+
+Self-Reported Student Outcomes
+
+Level-1(Time Varying)
+Level-2 (Person) Academic Self-Concept b (se) Verbal Aggression b (se) Physical Aggression b (se) Antisocial Behavior b (se) Immature Avoidance b (se)
+Intercept (β00)
+Intercept (γ000) 3.09 (0.34)*** 1.44 (0.10)*** 1.64 (0.08)*** 0.77 (0.07)*** 1.38 (0.08)***
+Program participation (γ010) −0.07 (0.02)* 0.04 (0.07) 0.01 (0.07) −0.00 (0.05) −0.03 (0.06)
+School year (γ020) −0.01 (0.02) −0.01 (0.04) 0.02 (0.03) −0.01 (0.02) 0.06 (0.03+
+Sex (γ030) 0.10 (0.03)** 0.17 (0.06)+ −0.33 (0.06)*** 0.01 (0.04) −0.07 (0.05)
+Time (β10)
+Intercept (γ100) 0.01 (0.02) 0.01 (0.07) −0.04 (0.06) 0.16 (0.04)*** 0.13 (0.06)*
+Program participation (γ110) 0.01 (0.02) −0.21 (0.09)* −0.11 (0.09) −0.12 (0.06)* −0.21 (0.08)**
+
++ p < .10
+* p < .05
+** p < .01
+*** p < .001.
+
+Figure 1
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Academic Self-Concept (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+
+Figure 2
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Verbally Aggressive Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+
+Figure 3
+Open in figure viewer
+PowerPoint
+Interaction of Program Participation and Time in the Prediction of Students' Use of Antisocial Conflict Resolution Strategies (Model Evaluated for Pretest and Posttest for Program Participants and Comparison Students, for Male 9th Graders)
+
+DISCUSSION
+Violence Prevention Project's design is unique because it is optimized to meet the constraints of a typical urban high school. It is designed to fit within a semester framework, to be contained within a single school, to be engaging for student participants, and to allow some flexibility in program delivery while maintaining effectiveness. Results indicate that program participation was associated with gains in academic self-concept and improvements in some conflict resolution skills, including reductions in levels of verbal aggression. Although many school-based violence prevention programs teach conflict resolution skills and their effectiveness is well documented in the literature,21, 22 our findings suggest that programs, such as VPP, that are optimized9 to work within common constraints also can be effective.
+The core component structure, which we believe is unique among youth violence prevention programs, achieved a workable balance between fidelity and flexibility, with facilitators meeting 74% of program requirements. Using a framework of structured choices in combination with scripted lessons extends prior work on program fidelity in dissemination. It allows implementers to optimize the delivery of evidence-based content by permitting enough adaptation to address barriers to fidelity.6, 8, 9 We had anticipated that facilitators would meet 100% of the requirements owing to the ongoing monitoring of lesson plans. However, supervisors found it difficult to identify whether syllabi met all requirements. We believe that additional training for supervisors on the core component structure, coupled with a clearer design of the tracking forms, could boost fidelity in the future. Future research on optimizing programs to boost fidelity should map the types of deviations that occur and link variations in fidelity to results, giving program developers and implementers a clearer sense of where to be flexible in requirements. Additional work on optimization should explore the relationship between program length and effectiveness, with an eye toward matching the length of prevention programs with the severity of the problem, in the context of other demands schools face.
+There were some unexpected findings. Students reported no changes in their likelihood to resolve conflicts by giving pro-social verbal responses or using alternative nonviolent solutions such as walking away. It may be that the wording of the pro-social verbal responses was not resonant with the students. Alternatively, the program may be more successful at discouraging aggressive responses than providing students with pro-active tools for de-escalating conflicts. In addition, while avoidant and antisocial conflict resolution tended to increase over time for all students, there was a differential association between groups, such that the rate of increase was steeper for comparison group students. It may be that these changes constitute normal developmental change and that all students would show this pattern in the absence of VPP. This suggests that younger adolescents may also benefit from VPP.
+Limitations
+Our study design had several limitations. First, this is an effectiveness trial rather than an efficacy trial. Thus, our design was quasi-experimental, which compromised internal validity relative to a randomized control trial. As is typical in schools, principals had latitude to assign classrooms to receive the program, and principal goals and priorities differed across schools. Some used VPP as a leadership development opportunity for high-performing students, whereas others used it as remediation for low-performing students. This limited our ability to obtain consistent assignment of classrooms to condition across schools, but enhances the generalizability of our findings to typical implementation conditions where principals desire that programs serve a broad range of ends. Although we believe that this balance between validity and generalizability is appropriate for an effectiveness trial, an efficacy trial of VPP may be warranted in the future.
+Second, owing to the secondary nature of the program record data available, the research team was not able to link measures of program fidelity to student outcomes. Although the program model is designed to allow some flexibility in lesson selection, future research should examine whether certain lesson structures and higher levels of participant responsiveness are associated with better student outcomes.
+Third, future research should address challenges in measurement present in the current study. We could not obtain permission to examine school incident data for this study. This limitation was common in the NYC public schools during our study period. We hope that future studies can gain access to this data, which has greater ecological validity and provides a clearer indication of students' behavior than self-report surveys. Although social desirability bias is a potential limitation, we believe that this is unlikely to fully explain our findings given the age of our sample. By 9th and 10th grade, students are likely well acquainted with the idea that they should not resolve conflicts by hitting people or yelling at them. Changes in the social desirability of those answers may reflect an important first step in changing behavior. Additionally, our study, which relied on secondary analysis of program record data to track program fidelity, utilizes single-item measures of participant responsiveness that may not fully capture the construct. Future studies should employ more comprehensive measures of responsiveness.
+Conclusions
+Our findings suggest that it may be possible to optimize violence prevention programs to meet the needs of typical urban high schools while maintaining effectiveness. Programs that work within the semester framework while focusing on high levels of student engagement and allowing flexibility in implementation can be effective in improving student academic self-concept and conflict resolution skills. If future research continues to support the optimization approach used here, a productive path forward may emerge for prevention programs of all kinds. Rather than attempt to create the most effective program possible that may be difficult to implement, researchers should consider working with schools to develop effective and feasible programs, thereby helping to clarify “what works” in the field.
+
+DISCUSSION
+
+Limitations
+Our study design had several limitations. First, this is an effectiveness trial rather than an efficacy trial. Thus, our design was quasi-experimental, which compromised internal validity relative to a randomized control trial. As is typical in schools, principals had latitude to assign classrooms to receive the program, and principal goals and priorities differed across schools. Some used VPP as a leadership development opportunity for high-performing students, whereas others used it as remediation for low-performing students. This limited our ability to obtain consistent assignment of classrooms to condition across schools, but enhances the generalizability of our findings to typical implementation conditions where principals desire that programs serve a broad range of ends. Although we believe that this balance between validity and generalizability is appropriate for an effectiveness trial, an efficacy trial of VPP may be warranted in the future.
+Second, owing to the secondary nature of the program record data available, the research team was not able to link measures of program fidelity to student outcomes. Although the program model is designed to allow some flexibility in lesson selection, future research should examine whether certain lesson structures and higher levels of participant responsiveness are associated with better student outcomes.
+Third, future research should address challenges in measurement present in the current study. We could not obtain permission to examine school incident data for this study. This limitation was common in the NYC public schools during our study period. We hope that future studies can gain access to this data, which has greater ecological validity and provides a clearer indication of students' behavior than self-report surveys. Although social desirability bias is a potential limitation, we believe that this is unlikely to fully explain our findings given the age of our sample. By 9th and 10th grade, students are likely well acquainted with the idea that they should not resolve conflicts by hitting people or yelling at them. Changes in the social desirability of those answers may reflect an important first step in changing behavior. Additionally, our study, which relied on secondary analysis of program record data to track program fidelity, utilizes single-item measures of participant responsiveness that may not fully capture the construct. Future studies should employ more comprehensive measures of responsiveness.
+
+Limitations
+
+Conclusions
+Our findings suggest that it may be possible to optimize violence prevention programs to meet the needs of typical urban high schools while maintaining effectiveness. Programs that work within the semester framework while focusing on high levels of student engagement and allowing flexibility in implementation can be effective in improving student academic self-concept and conflict resolution skills. If future research continues to support the optimization approach used here, a productive path forward may emerge for prevention programs of all kinds. Rather than attempt to create the most effective program possible that may be difficult to implement, researchers should consider working with schools to develop effective and feasible programs, thereby helping to clarify “what works” in the field.
+
+Conclusions
+
+IMPLICATIONS FOR SCHOOL HEALTH
+Results from this study indicate that violence prevention programs optimized to meet the constraints of a typical school can be effective. Program planners should optimize programs to balance brevity and effectiveness, fidelity and flexibility, and the needs of the program with needs of schools. School administrators selecting programs should seek to understand the fidelity requirements of programs under consideration, as well as the implementation conditions under which programs have demonstrated effectiveness.
+Human Subjects Approval Statement
+The New York City Department of Education Institutional Review Board approved the study protocol.
+
+IMPLICATIONS FOR SCHOOL HEALTH
+
+Human Subjects Approval Statement
+The New York City Department of Education Institutional Review Board approved the study protocol.
+
+Human Subjects Approval Statement
+
+REFERENCES
+
+Citing Literature

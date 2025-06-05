@@ -1,0 +1,1159 @@
+This quasi-experimental study with a pretest-posttest control group was conducted to determine the effects of the “Aggressive Behavior Prevention Program (ABPP)” on kindergarten students. The program was based on Social Cognitive Theory.
+
+The study was carried out with 90 children (intervention group = 45, control group = 45) who were registered in the kindergarten of a primary school. The ABPP was implemented with children and their families for 12 weeks. Data were collected with a subscale of Aggressiveness of the Eyberg Child Behavior Inventory, the subscales of overt and relational aggression of the Preschool Social Behavior Scale-Teacher Form, and the Victimisation Scale.
+
+The ABPP significantly decreased levels of aggression among kindergarten students (p = 0.019). No significant difference was found between the two groups for peer victimization.
+
+This is the first study in Turkey implemented by a nurse based in school and it is important because it offers an example for nurses’ practice and research. Findings suggest that the ABPP is effective in reducing the aggression of children.
+
+Aggressive behavior in children can be defined as a child hitting another person, intervening with words or hands, and attempting to grab something from someone. The behavior is distinguished from severe tantrum, excessive incitement, disrespect, and objection (Lewis & Bear, 2009; Monroe, 2011; NASN, 2005). Although aggressive behaviors attract attention during adolescence, they are also encountered in young children (Goodwin, Pacey, & Grace, 2003). When and how the aggression will appear is shaped in the preschool period and once it is shaped, it can be permanent (Hogg & Vaughan, 2007). The rate of aggressive behavior in preschool children with normal development ranges between 20% and 50% (Connor, 2004). The prevalence of aggressive behaviors that can be regarded as conduct disorder is between 1% and 20% (Sadock & Sadock, 2009).
+
+Being constantly exposed to aggressive behaviors in the preschool and primary school period can cause emotional problems, troubles in peer relationships, and academic failure (Batsche & Knoff, 1994; Kochenderfer & Ladd, 1996). The risk of psychiatric disorders such as panic attacks, depression, and phobia is also increased (Liu, Lewis, & Evans, 2013). Children who were aggressive in the preschool period are more likely to become bullies and bully/victims at later ages (Jansen, Veenstra, Ormel, Verhulst, & Reijneveld, 2011). Aggressive behaviors seen in early childhood are one of the personal risk factors for youth violence. Children with more physical aggression are more likely to be adults with violent behaviors (Bushman et al., 2018).
+
+The prevention of aggressive or antisocial behaviors is important in preventing unsolvable and high-cost chronic problems. The preschool years are important period to make an intervention for behavioral problems. Positive behaviors in this age group will prevent problems in later years (Kartal, 2010). In developed countries, more than 75% of schools apply prevention methods to cope with behavioral problems (Wilson & Lipsey, 2007), including programs for parents (Berkovits, O'Brien, Carter, & Eyberg, 2010; Gross et al., 2009), children (Boyle & Hassett-Walker, 2008; Ostrov et al., 2009), or both (Webster-Stratton, Reid, & Hammond, 2001). These programs include personal or group studies (Gursimsek, Girgin, & Vural, 2006). Interventions can be applied as home visits (Sidora-Arcoleo et al., 2010), telephone calls (Kellam et al., 2008), and group trainings (Akcan & Sarvan, 2018; Ostrov et al., 2009).
+
+In Turkey, while studies have examined the social developments and behaviors of preschool children (Akcan & Ergun, 2015; Akcan & Sarvan, 2018; Akcay & Ozcebe, 2012; Baydar & Aydemir, 2008; Gulay & Onder, 2009; Gursimsek et al., 2006; Ozbey & Alisinanoglu, 2009). There is a need for interventional studies. Prevention of aggressive behaviors at early ages is important for protecting the children who are the future of society.
+
+Bandura's Social Cognitive Theory was adapted and used as a guide in explaining the aggressive behaviors of children and planning the required interventions to prevent this behavior and to result in positive behaviors once used in intervention programs. In Social Cognitive Theory, Bandura (1989) determined six principles as reciprocal determinism, symbolizing capability, forethought capability, vicarious capability, self-regulatory capability, and self-reflective capability.
+
+The purpose of this study was to determine the effect of the Aggressive Behavior Prevention Program (ABPP) on aggression and peer victimisation in a sample of kindergarten students. Hypotheses were that children who received the ABPP would have (a) decreased levels of aggression; (b) decreased levels of peer victimisation.
+
+All students (n = 90) who were registered in the kindergarten of a primary school were included in the study. Classes in the school were randomly divided into two groups. Forty five students in three classes constituted the intervention group and 45 students in the other three classes constituted the control group. Intervention and control groups had similar characteristics (Table 1).
+
+The data of the study were collected by using a Personal Information Form, the Aggressiveness subscale of the Eyberg Child Behavior Inventory (ECBI), the subscales of overt and relational aggression in the Preschool Social Behavior Scale-Teacher Form (PSBS-T), and the Victimisation Scale (VS) (Baydar & Aydemir, 2008; Gulay & Onder, 2009; Karakus & Onder, 2008).
+
+The researcher-developed “Personal Information Form” included 14 questions including the child's age, gender, state of previously using preschool education, health history, living situation, family income, and parents’ age, educational background and work situation. This form was completed by the children's parents.
+
+Originally developed in 1980 and revised in 1999, the ECBI was adapted into Turkish by Kumru, Sayıl, and Yagmurlu (Baydar & Aydemir, 2008). The Turkish version of the scale consisted of 36 items and evaluated the severity of the child's behavior according to the 5-point Likert scale. In this study, a 9-item aggressiveness subscale of the scale was used in order to allow parents to evaluate their child's aggressive behaviors. While a higher score of the Aggressiveness Intensity (ECBI-AI) subscale signified that the child displays aggressive behavior much more; a higher score of the Aggressiveness Problem (ECBI-AP) subscale signified that the aggressive behavior was perceived as a problem by parents. Potential scores could range from 0 to 100. For the aggressiveness intensity and problem subscales of the Turkish version of the scale, the Cronbach's alpha coefficients were respectively 0.80 and 0.83 (Baydar, Kuntay, Goksen, Yagmurlu, & Cemalcilar, 2009). The Cronbach's alpha coefficient of the subscale of ECBI-AI was 0.78 in this study, and the Cronbach's alpha coefficient of the subscale of ECBI-AP was 0.77.
+
+The PSBS-T was developed by Crick, Casas, and Mosher (1997) and adapted into Turkish by Karakus and Onder (2008), and its validity and reliability study were assessed. The data were collected through the evaluation of every child by the teacher and the marking of the behavior frequency. The scale items were scored between 1 and 5. A higher score signified that the child displays aggressive behavior more than a lower score. In this study, the subscales of overt aggression (PSBS-T-OA) and relational aggression (PSBS-T-RA) were used. Scores taken for both subscales ranged from 6 to 30. The Cronbach's alpha coefficient of the form for relational and overt aggression was determined as 0.83 and 0.89 respectively (Karakus & Onder, 2008). The Cronbach's alpha coefficient of the subscale of PSBS-T-OA was 0.81 in this study, and the Cronbach's alpha coefficient of the subscale of PSBS-T-RA was 0.78.
+
+This was an assessment instrument developed in 2002 based on the “Scale of Peer Victimisation-Self Report” developed by Kochenderfer and Ladd for children aged 5–6 in 1997. The scale consisted of totally four items, each of which was related to four types of peer aggression (physical, indirect, direct, and general). Each item was evaluated between 0 and 2 points. Potential scores ranged from 0 to 8. The linguistic equivalence, reliability, and validity studies of scale were conducted and the Cronbach's alpha coefficient was determined as 0.72 (Gulay & Onder, 2009). A higher score signified that the child displays the peer victimisation more than a lower score. The Cronbach's alpha coefficient of the VS was found as 0.80 in the study.
+
+The ABPP (Akcan & Ergun, 2017) was implemented for the first time in this study. The aim of the program was to prevent aggressive behavior in kindergarten children. The children and their parents worked together in the program. The teacher was allowed to watch all the activities at the same time.
+
+The program was introduced to children with a simple name like “I Love My Friend” in order to be clearer. Twenty-five in-class activities were held with children for 12 weeks. In this study, ABPP was applied to 45 children in three separate groups for a total of 75 activities held. In children's activities, warm-up exercises, questions and answers, discussion, demonstrations, exercises, games, drawing pictures, small group exercises and role playing methods were used by utilizing computer, projection, story, cartoons, paintings, puppets, flower seeds, pots, various stationery materials.
+
+After the children's activities, information letters were sent to the parents. In these letters, it was emphasized that activities similar to those in the classroom should be held at home. In addition, parents and children were provided with the opportunity to engage in home activities. Children were encouraged to remember important applications for longer and learn more. Parent trainings consisted of eight content area, applied to two different groups for a total of 16 trainings. Direct expression, question-answer, discussion, demonstration, and practice methods were used in the trainings by utilizing computers and projection tools. The trainings, in which attendance was lacking, were repeated and parents were provided with all the training subjects.
+
+The ABPP content is presented in Table 2. There was no intervention by the researcher for the control group for 12 weeks during when ABPP was applied and for the intervention and control group after the posttest. At the end of the academic year (38th week of the education period), follow-up measurements were taken.
+
+The data were collected by the researcher at the school. Personal Information Form and ECBI were completed by parents, PSBS-T, and VS were completed by teachers. Personal Information Form was used in the first measurement and all other measurement tools were used three times at certain intervals. Figure 1 illustrates the study process.
+
+All procedures performed in the studies involving human participants were in accordance with the ethical standards of the Akdeniz University Ethics Committee (approval no: 6) and Marmara University Health Science Institute Clinical Research Ethics Committee (approval no: 14), and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. In order to conduct the study, institutional permission, written consent of children's parents, and utilization permits for the scales were obtained.
+
+The chi-square test was used to compare the intervention and control groups. A two-way, repeated measures ANOVA was used to analyze the effect of the ABPP on the intervention and control groups. The MANOVA test was used when the result of the repeated measures ANOVA was significant, and the paired samples t test was used to test the changes in the pre-/post- and follow-up tests. Since the Bonferroni adjusted t test involves three pairs of comparisons, the significance level was set as 0.05/3 = 0.017. The SPSS 20.0 package software was used to conduct the analyses.
+
+Of the children in the intervention group, 53.3% were girls and 82.2% did not have any disease, and of the mothers, 80% were housewives. Of the children in the control group, 46.7% were girls and 84.4% did not have any disease, and of mothers, 91.1% were housewives. It was determined that 73.3% of both groups did not receive preschool education before and 97.7% of them were married and living together. No significant differences was found between the intervention and control groups in terms of the demographic characteristics at the pretest (Table 1).
+
+According to repeated measures ANOVA, there was a statistically significant difference in the scales except for the PSBS-T-RA mean score (Table 3).
+
+Advanced analysis of the difference between aggression mean scores is given in Table 4. In inter-group comparisons, all aggression scale scores in the follow-up period were found to be statistically lower than those in the control group.
+
+In the binary analyses that were conducted to determine which measure gave rise to the difference in the intra-group comparisons; it was determined that the scores of the ECBI-AI and PSBS-T-OA of the intervention group were significantly lower than the pretest (t = 2.723, p = 0.009; t = −2.832, p = 0.007 respectively) and posttest scores (t = 3.104, p = 0.003, t = −4.139, p = 0.000 respectively). In addition, PSBS-T-OA+RA and PSBS-T-OA posttest scores of the intervention group were significantly lower than the pretest scores (t = 3.044, p = 0.004; t = 2.552, p = 0.014). Significant increases in aggression scores of the control group were observed in some subscales (Table 4).
+
+No significant difference was found when the pretest, posttest, and follow-up scores of the intervention and control groups were compared by repeated measures ANOVA in terms of peer victimisation. The pretest victimisation score of the intervention group was relatively lower in posttest and follow-up test (Table 5).
+
+In this study, the ABPP significantly decreased aggression and peer victimisation among kindergarten students. The ABPP will especially make a contribution to the studies on school and community health regarding early control of increasing violence at school and in society.
+
+According to the parents’ evaluations, the intervention group was observed to have lower mean scores in the subscales of both aggressiveness intensity and aggressiveness problem in the follow-up period compared to the control group, and lower mean scores in the subscale of aggression problem in the posttest compared to the control group. These results showed that the ABPP made an important contribution to reducing the aggressive behaviors of the intervention group and the perceptions of families as a problem. Previous studies have also shown that the behavior problems of children after the intervention are reduced and this effect continues over time. (Gross et al., 2009; Kim, Cain, & Webster-Stratton, 2008; MacKenzie & Hilgedick, 1999; Sanders, Montgomery, & Brechman-Toussaint, 2000; Sidora-Arcoleo et al., 2010; Webster-Stratton et al., 2001). In their study comparing two different intervention programs as standard and advanced family intervention programs, Sanders et al. (2004) observed a decrease in the destructive behaviors of children in both groups. As a result of a study in which a training was given to children and their mothers in Turkey, it was observed that children displayed more appropriate behaviors (Gursimsek et al., 2006). In the study of Akcan and Sarvan (2018), the average scores for the externalizing problem behavior of kindergarten students decreased after the intervention, but this change was not statistically significant.
+
+As a result of this study, it was determined that the intervention group had lower mean scores of aggressiveness intensity and aggressiveness problem in the follow-up compared to the posttest, and the control group had higher mean scores of aggressiveness problem in the follow-up compared to the other measurements. Especially the change in favor of children in the intervention group in the follow-up signifies the permanence of the effect of the ABPP.
+
+It is assumed that the content and presentation of the ABPP is effective in demonstrating willing behaviors in children. It enables children to develop their anticipation capacity and self-efficacy and motivates them to display convenient behaviors rather than aggressive behaviors. Additionally, involving the parents efficiently in the program, informing them about intraclass activities and performing supportive activities at home also support children in exhibiting convenient behaviors at home with their parents. The concept of taking as a model and being a model in the program particularly raises the relevant awareness of parents and becomes effective on the behaviors of children. During the application process of the program, the parents also asked for individual support for problems special to children. This support could be provided through the questions that were asked during the group trainings. Positive aspects that are observed in children by parents (such as learning how to share things) are also thought to cause the changes in the aggressive behavior of children, parents’ perception, and the home environment. The findings of Akcan and Sarvan (2018) also support this end result. In their study, parents reported more high-grade externalizing problems in their children than the teachers did. However, the fact that the parental intervention program was not implemented in that study emphasizes once again the importance of the initiative that was applied to the parents in our study.
+
+According to the teachers’ evaluations; both the overt aggression and total aggression mean scores of the intervention group were lower in the follow-up, compared to the control group. No statistically significant difference was determined between the groups in the posttest. Even though the mean scores of the intervention group decreased in the overt aggression and total aggression compared to the pretest, the fact that the control group also had a decreasing posttest score compared to the pretest caused the groups to have no difference. This result is associated with the effect of the pretest being applied to the control group teachers. The pretest might have increased the interest and attention of the control group teachers in the subject and affected their applications. In the follow-up, on the other hand, this effect decreased at the end of 6 months and an increase was observed in the score of the control group. The decrease in the mean scores of the intervention group continued and the mean scores of both the overt aggression and total aggression were determined to be lower than in the pretest and the posttest. This result emphasizes that the ABPP is also effective on the school relations of kindergarten students. Other studies have also shown that there is a decrease in aggressive behavior in the intervention group (Grossman et al., 1997; Kim, Doh, Hong, & Choi, 2011). In their study, Ostrov et al. (2009) determined no difference in the physical aggression scores of the intervention and control groups. Nevertheless, there were moderate to large reductions for physical aggression when comparing pretest to posttest for the intervention relative to the control group. As a result, findings obtained according to both parents’ and teachers’ evaluations support the first hypothesis of the study.
+
+However, in this study, no statistically significant difference was determined between the relational aggression scores of the intervention and control groups. Similarly to this study, Ostrov et al. (2009) observed no difference between the relational aggression scores of the intervention and control groups. On the other hand, they found small effects for relational aggression when comparing pretest to posttest for the intervention relative to the control group in their study. This result could be explained by the fact that the study was conducted in a kindergarten and that children had to obey some rules under the supervision of their teacher. In the study of Boyle and Hassett-Walker (2008), it was observed that the group receiving education for 2 years displayed less relational aggression, compared to those receiving education for 1 year and the control group. This result underlines the necessity of longer-term programs to reduce relational aggression.
+
+There was no statistically significant difference in the study, although there was a change in favor of the intervention group in terms of peer victimisation. In this study, the intervention group had lower mean scores of peer victimisation in the posttest and follow-up compared to the pretest, and the difference between the intervention and control group was not statistically significant. In their study, Ostrov et al. (2009) also determined no difference for the intervention and control groups in terms of being exposed to physical or relational aggression. However, there were moderate to large reductions for physical victimization and relational victimization when comparing pretest to posttest for the intervention relative to the control group. As a result, the finding did not support the second hypothesis of the study and it signifies the necessity for longer-term studies with broader sample groups in order to evaluate exposure with the VS.
+
+There are some limitations of the study. The study was conducted with only students of a school. At the beginning of the study the number of samples was 93. But the students moved or changed their schools during the study. For this reason, the sample of the study consisted of 90 students.
+
+The findings of this study indicate that nurses working in schools can decrease physical aggression in children. The nurses can prevent the aggressive behaviors of children with their interventions and decrease the aggressive behaviors. Moreover, they deal with all child's environment as a whole by interventions to both children and parents at school. So, both children and parents can improve their behavioral skills.
+
+Aggressive behavior is a problem that can be seen in young children. However, it can be prevented by early intervention. This study has presented the ABPP as a good example of decreasing physical aggression in kindergarten students. In accordance with these results, the inclusion of the ABPP in the curriculum of kindergarten students will be beneficial especially in decreasing physical aggression. It may be recommended to conduct long-term studies with broad sample groups in order to evaluate the efficiency of the program in terms of being exposed to relational aggression and peer victimisation.
+
+The authors gratefully acknowledge the support of all the participants and to the Scientific Research Projects Unit of Akdeniz University, Antalya, Turkey.
+
+The authors declare that they have no conflict of interest.
+
+Volume36, Issue3
+
+May/June 2019
+
+Pages 330-340
+
+Copyright © 1999-2025 John Wiley & Sons, Inc or related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+The effect of an aggressive behavior prevention program on kindergarten students
+
+Abstract
+
+1 INTRODUCTION
+
+2 METHOD
+
+3 RESULTS
+
+4 DISCUSSION
+
+5 CONCLUSIONS
+
+ACKNOWLEDGEMENTS
+
+CONFLICT OF INTEREST
+
+REFERENCES
+
+Citing Literature
+
+Figures
+
+References
+
+Related
+
+Information
+
+Additional links
+
+Note. ECBI-AI: Eyberg Child Behavior Inventory Aggressiveness Intensity subscale evaluation; ECBI-AP: Eyberg Child Behavior Inventory Aggressiveness Problem subscale evaluation; PSBST-OA+RA: Preschool Social Behavior Scale—Teacher Form sum of subscales of overt aggression and relational aggression; PSBST-OA: Preschool Social Behavior Scale—Teacher Form subscale of overt aggression; PSBST-RA: Preschool Social Behavior Scale—Teacher Form subscale of relational aggression; VS: Victimisation Scale.
+
+a Principles of Social Cognitive Learning Theory
+
+1. Reciprocal Determinism: Parents training, activities of children in class with their friends, teacher's monitoring of children's activities.
+
+2. Symbolizing Capability: Creating the symbol of the ABBP, presence of the symbol in the classroom, using the symbol in each activity, introducing ABBP to children called “I Love My Friend.”
+
+3. Forethought Capability: Scenarios, cartoons, stories about behavior.
+
+4. Vicarious Capability: Scenarios, cartoons, stories about prosocial behavior, feedbacks, subject repetitions, imitation, reward.
+
+5. Self-regulatory Capability: Exemplifying behaviors from past experiences, feedbacks, reward.
+
+6. Self-reflective Capability: Exemplifying behaviors from past experiences, scenarios, cartoons, stories about behavior, feedbacks.
+
+Note. ECBI-AI: Eyberg Child Behavior Inventory Aggressiveness Intensity subscale evaluation; ECBI-AP: Eyberg Child Behavior Inventory Aggressiveness Problem subscale evaluation; PSBST-OA+RA: Preschool Social Behavior Scale—Teacher Form sum of subscales of overt aggression and relational aggression; PSBST-OA: Preschool Social Behavior Scale—Teacher Form subscale of overt aggression; PSBST-RA: Preschool Social Behavior Scale—Teacher Form subscale of relational aggression.
+
+an = 45 children, bn = 45 children.
+
+an = 45 children, bn = 45 children.
+
+Figures
+
+References
+
+Related
+
+Information
+
+Privacy Policy
+
+Terms of Use
+
+About Cookies
+
+Manage Cookies
+
+Accessibility
+
+Wiley Research DE&I Statement and Publishing Policies
+
+Developing World Access
+
+Contact Us
+
+Training and Support
+
+DMCA & Reporting Piracy
+
+Subscription Agents
+
+Advertisers & Corporate Partners
+
+The Wiley Network
+
+Wiley Press Room
+
+Age (months)
+
+45
+
+63.4 ± 3.76
+
+45
+
+63.8 ± 4.76
+
+−0.418
+
+0.677
+
+n
+
+%
+
+n
+
+%
+
+χ2
+
+p
+
+Gender
+
+Boys
+
+21
+
+46.7
+
+24
+
+53.3
+
+0.400
+
+0.527
+
+Girls
+
+24
+
+53.3
+
+21
+
+46.7
+
+Previously using preschool education
+
+Yes
+
+12
+
+26.7
+
+12
+
+26.7
+
+0.000
+
+1.000
+
+No
+
+33
+
+73.3
+
+33
+
+73.3
+
+Diagnosis of disease
+
+Yes
+
+8
+
+17.8
+
+7
+
+15.6
+
+0.080
+
+0.777
+
+No
+
+37
+
+82.2
+
+38
+
+84.4
+
+Parents
+
+Married and living together
+
+44
+
+97.8
+
+44
+
+97.8
+
+2.000
+
+0.368
+
+Married but not living together
+
+1
+
+2.2
+
+0
+
+0.0
+
+Divorced
+
+0
+
+0.0
+
+1
+
+2.2
+
+Age of mother
+
+20–24
+
+2
+
+4.4
+
+1
+
+2.2
+
+5.715
+
+0.335
+
+25–29
+
+14
+
+31.1
+
+23
+
+51.1
+
+30–34
+
+15
+
+33.3
+
+12
+
+26.7
+
+35–39
+
+9
+
+20.0
+
+8
+
+17.8
+
+40–44
+
+4
+
+8.9
+
+1
+
+2.2
+
+≥45
+
+1
+
+2.2
+
+0
+
+0.0
+
+Age of father
+
+25–29
+
+4
+
+8.9
+
+3
+
+6.7
+
+6.450
+
+0.168
+
+30–34
+
+16
+
+35.6
+
+22
+
+48.9
+
+35–39
+
+11
+
+24.4
+
+14
+
+31.1
+
+40–44
+
+10
+
+22.2
+
+6
+
+13.3
+
+≥45
+
+4
+
+8.9
+
+0
+
+0.0
+
+Educational level of mother
+
+Illiterate
+
+2
+
+4.4
+
+0
+
+0.0
+
+4.284
+
+0.495
+
+Literate
+
+1
+
+2.2
+
+1
+
+2.2
+
+Elementary school
+
+17
+
+37.8
+
+21
+
+46.7
+
+Secondary school
+
+10
+
+22.2
+
+5
+
+11.1
+
+High school
+
+12
+
+26.7
+
+14
+
+31.1
+
+University
+
+3
+
+6.7
+
+4
+
+8.9
+
+Educational level of father
+
+Literate
+
+0
+
+0.0
+
+1
+
+2.2
+
+5.121
+
+0.275
+
+Elementary school
+
+14
+
+31.1
+
+13
+
+28.9
+
+Secondary school
+
+12
+
+26.7
+
+5
+
+11.1
+
+High school
+
+13
+
+28.9
+
+19
+
+42.2
+
+University
+
+6
+
+13.3
+
+7
+
+15.6
+
+Mother's work status
+
+Housewife
+
+36
+
+80.0
+
+41
+
+91.1
+
+2.248
+
+0.134
+
+Working
+
+9
+
+20.0
+
+4
+
+8.9
+
+Father's job
+
+Unemployed
+
+2
+
+4.4
+
+3
+
+6.7
+
+1.992
+
+0.737
+
+Civil servant
+
+6
+
+13.3
+
+5
+
+11.1
+
+Worker
+
+15
+
+33.3
+
+19
+
+42.2
+
+Self-employed
+
+21
+
+46.7
+
+18
+
+40.0
+
+Retired
+
+1
+
+2.2
+
+0
+
+0.0
+
+n
+
+±SS
+
+n
+
+±SS
+
+t
+
+p
+
+Family income (TL)
+
+45
+
+1,275 ± 696
+
+45
+
+1,099 ± 575
+
+1.307
+
+0.194
+
+Scores of scales (pretest)
+
+ECBI-AI
+
+45
+
+30.37 ± 16.52
+
+45
+
+31.48 ± 14.66
+
+−0.337
+
+0.737
+
+ECBI-AP
+
+45
+
+23.05 ± 15.12
+
+45
+
+25.82 ± 15.58
+
+−0.856
+
+0.394
+
+PSBS-T-OA+RA
+
+45
+
+18.02 ± 5.88
+
+45
+
+17.56 ± 5.33
+
+0.394
+
+0.694
+
+PSBS-T-OA
+
+45
+
+8.89 ± 3.45
+
+45
+
+8.04 ± 2.83
+
+1.269
+
+0.208
+
+PSBS-T-RA
+
+45
+
+9.13 ± 3.10
+
+45
+
+9.51 ± 3.41
+
+−0.550
+
+0.584
+
+VS
+
+45
+
+0.56 ± 1.20
+
+45
+
+0.80 ± 1.31
+
+−0.925
+
+0.358
+
+1st week 1,2,3
+
+1st activity: I recognize the activities of “I Love My Friend” Objective: To explain the principles of prevention of aggressive behavior, the purpose and importance of the program and to determine the rules Duration: 30 min 2nd activity: You can see my feelings on my face Objective: To ensure that the face expression of the other person is recognized Duration: 30 min. 3rd activity: Why did I feel this way? Objective: To recognize the feelings felt in the various events Duration: 30 min
+
+1st subject: Meeting and explaining the process of ABPP Objective: To explain the principles of prevention of aggressive behavior, the purpose and importance of the program and to determine the rules Duration: 30 min
+
+2nd week 1,2,3,5
+
+4th activity: Both my face and my body show what I feel Objective: To explain how emotions that are felt during or after events are displayed in the body Duration: 35 min 5th activity: I was angry just a minute ago, but I am happy now Objective: To make children realize that feelings can change for people Duration: 30 min
+
+Participation in the activity at home 2nd subject: Child development between 60–72 months Objective: To teach the developmental features of the child Duration: 45 min
+
+3rd week 1,2,3,5,6
+
+6th activity: I feel sorry and you laugh; I feel happy and you cry! Objective: To explain that other people may feel different feelings in a situation Duration: 25 min 7th activity: You feel happy when you are supposed to feel sad. I cannot understand you! Objective: To be able to distinguish the reactions that are appropriate to the situation and the ones that are not appropriate to the situation Duration: 20 min
+
+3rd subject: aggressive behavior in the child Objective: To teach causes, manifestations and solutions of aggressive behaviors during ages 5–6 Duration: 30 min
+
+4th week 1,2,3,5,6
+
+8th activity: I know how you feel and I understand your feelings Objective: To enable the child to explain that he/she may understand his/her friend's feelings in the face of a situation Duration: 25 min 9th activity: I like cooperating with my friend Objective: To explain the importance of helping Duration: 30 min
+
+Participation in the activity at home Participation in the activity at home
+
+5th week 1,2,3,4,5,6
+
+10th activity: I have become a mother/father Objective: To be able to show the observed behaviors Duration: 20 min 11th activity: I am very angry Objective: To enable the child to distinguish anger feelings and behavior Duration: 20 min
+
+4th Subject: Taking as a model, imitating Objective: To teach that children transform many lifestyles into behaviors through imitation/taking as a model Duration: 60 min 5th Subject: Communication with the Child Objective: To teach communication with children and the situations that have communication barriers Duration: 120 min
+
+6th week 1,2,3,4,5,6
+
+12th activity: I am very happy and I am unable to contain myself Objective: To explain that intense feelings can be controlled Duration: 30 min 13th activity: I can control my feelings Objective: To explain how to control his/her intense emotions with different methods and to calm down Duration: 15 min
+
+Participation in the activity at home
+
+7th week 1,2,3,4,5,6
+
+14th activity: I can wait for my turn Objective: To make it possible to decide to wait for someone or something Duration: 20 min 15th activity: Not everything I want may come true! Objective: To ensure he realizes he/she cannot always get something he/she wants Duration: 30 min
+
+Participation in the activity at home 6th subject: Parental attitudes and discipline methods Objective: To teach parental attitudes and discipline methods Duration: 60 min
+
+8th week 1,2,3,4,5,6
+
+16th activity: Am I angry? Objective: To make him realize the changes in his body when he is angry Duration: 25 min 17th activity: What shall we do with anger? Objective: To enable the child to express his/her thoughts about anger Duration: 30 min
+
+7th subject: parent-child conflicts Objective: To teach solution methods that can be used in parent-child conflicts Duration: 45 min
+
+9th week 1,2,3,4,5,6
+
+18th activity: I did it without intention, it was an accident!-1 Objective: To ensure he/she realizes that some actions happen accidentally or unintentionally Duration: 30 min 19th activity: I did it without intention, it was an accident!-2 Objective: To ensure he/she realizes that some actions happen accidentally or unintentionally Duration: 30 min
+
+Participation in the activity at home
+
+10th week 1,2,3,4,5,6
+
+20th activity: I do not like you to ridicule me! Objective: To ensure he/she realizes that ridiculing is not an appropriate behavior Duration: 30 min 21st Activity: Is it accurate to take my stuff without my permission? Objective: To ensure he/she understands what to do in case of the forced taking of an object Duration: 30 min
+
+Participation in the activity at home 8th subject: Termination of the ABPP Objective: Evaluation of the ABPP Duration: 30 min
+
+11th week 1,2,3,4,5,6
+
+22nd activity: I have a very good time playing with my friends Objective: To ensure that the child understands sharing something and joining the queue is an important rule Duration: 30 min 23rd activity: I want to join in my friends’ game Objective: To ensure he/she learns to participate in other people's games in the appropriate ways Duration: 30 min
+
+12th week 1,2,3,4,5,6
+
+24th activity: I have fun with my friends Objective: To ensure the child realizes that many people can have fun when the right behavior is exhibited Duration: 30 min 25th activity: We finish the activities of “I Love My Friend” Objective: To provide a brief review of the topics learned Duration: 30 min
+
+Participation in the activity at home
+
+ECBI-AI
+
+Intervention groupa
+
+30.37 ± 16.52
+
+30.19 ± 15.52
+
+25.12 ± 14.37
+
+5.979
+
+0.003
+
+Control groupb
+
+31.48 ± 14.66
+
+33.95 ± 18.43
+
+34.63 ± 16.76
+
+ECBI-AP
+
+Intervention groupa
+
+23.05 ± 15.12
+
+23.32 ± 13.57
+
+18.49 ± 13.19
+
+5.863
+
+0.003
+
+Control groupb
+
+25.82 ± 15.58
+
+30.75 ± 20.36
+
+29.90 ± 18.18
+
+PSBST-OA+RA
+
+Intervention groupa
+
+18.02 ± 5.88
+
+15.58 ± 3.83
+
+15.73 ± 5.82
+
+4.134
+
+0.019
+
+Control groupb
+
+17.56 ± 5.33
+
+15.67 ± 3.86
+
+19.07 ± 8.34
+
+PSBST-OA
+
+Intervention groupa
+
+8.89 ± 3.45
+
+7.44 ± 2.13
+
+7.36 ± 2.93
+
+7.801
+
+0.001
+
+Control groupb
+
+8.04 ± 2.83
+
+7.33 ± 2.73
+
+9.29 ± 4.05
+
+PSBST-RA
+
+Intervention groupa
+
+9.13 ± 3.10
+
+8.13 ± 2.26
+
+8.38 ± 3.39
+
+1.254
+
+0.290
+
+Control groupb
+
+9.51 ± 3.41
+
+8.33 ± 2.44
+
+9.78 ± 4.91
+
+Intervention group
+
+30.37 ± 16.52a
+
+30.19 ± 15.52b
+
+25.12 ± 14.37c
+
+5.315
+
+0.007
+
+Control group
+
+31.48 ± 14.66
+
+33.95 ± 18.43
+
+34.63 ± 16.76
+
+1.944
+
+0.149
+
+t
+
+−0.337
+
+−1.048
+
+−2.889
+
+p
+
+0.737
+
+0.297
+
+0.005
+
+a>c; b>c
+
+ECBI-AP
+
+Pretest
+
+Posttest
+
+Follow-up
+
+F
+
+p
+
+Intervention group
+
+23.05 ± 15.12a
+
+23.32 ± 13.57b
+
+18.49 ± 13.19c
+
+4.057
+
+0.021
+
+Control group
+
+25.82 ± 15.58d
+
+30.75 ± 20.36e
+
+29.90 ± 18.18f
+
+5.07
+
+0.008
+
+t
+
+−0.856
+
+−2.039
+
+−3.408
+
+p
+
+0.394
+
+0.044
+
+0.001
+
+b>c; e>d; f>d
+
+PSBS-T-OA+RA
+
+Pretest
+
+Posttest
+
+Follow-up
+
+F
+
+p
+
+Intervention group
+
+18.02 ± 5.88a
+
+15.58 ± 3.83b
+
+15.73 ± 5.82c
+
+4.553
+
+0.016
+
+Control group
+
+17.56 ± 5.33d
+
+15.67 ± 3.86e
+
+19.07 ± 8.34f
+
+8.025
+
+0.001
+
+t
+
+0.394
+
+−0.110
+
+−2.199
+
+p
+
+0.694
+
+0.913
+
+0.030
+
+a>b; d>e; f>e
+
+PSBS-T-OA
+
+Pretest
+
+Posttest
+
+Follow-up
+
+F
+
+p
+
+Intervention group
+
+8.89 ± 3.45a
+
+7.44 ± 2.13b
+
+7.36 ± 2.93c
+
+6.067
+
+0.005
+
+Control group
+
+8.04 ± 2.83d
+
+7.33 ± 2.73e
+
+9.29 ± 4.05f
+
+9.769
+
+0.000
+
+t
+
+1.269
+
+0.215
+
+−2.592
+
+p
+
+0.208
+
+0.830
+
+0.011
+
+a>b; a>c; f>d; f>e
+
+Intervention groupa
+
+0.56 ± 1.20
+
+0.33 ± 0.77
+
+0.20 ± 0.63
+
+3.051
+
+0.052
+
+Control groupb
+
+0.80 ± 1.31
+
+1.13 ± 1.49
+
+1.02 ± 1.32

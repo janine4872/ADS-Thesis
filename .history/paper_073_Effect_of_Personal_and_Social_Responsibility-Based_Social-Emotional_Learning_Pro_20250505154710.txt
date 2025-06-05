@@ -1,0 +1,542 @@
+Abstract
+Programs for social-emotional learning implemented in schools are important in terms of improving students’
+emotional and social skills. In the study, a 16-week program was prepared using the Social-Emotional Learning
+(SEL) model based on the Personal and Social Responsibility Model (TPSR). The program was implemented in
+three different school types and the effect of the TPSR-SEL program on the emotional intelligence levels of the
+students was examined according to the school types. The research group was composed of 162 students in total
+who study at Anatolian High School (n=55), Vocational Technical Anatolian High School (n=51) and Sports
+High School (n=56) in Afyon province. In research, pattern with experimental pre-test final-test control group
+was used. Experiment and control groups were formed in all three-school types. The 16-week TPSR-SEL
+program was applied to the students in the experimental groups and the current curriculum was applied to the
+students in the control groups. The Schutte Emotional Intelligence Scale (SEI-S) was used as a data tool.
+Standard deviation—mean and Two-Way Covariance Analysis (Two-Way ANCOVA) was used for data analysis.
+As a result of the descriptive statistics, it was determined that there were significant differences between the
+SEI-S total scores of the experiment and control groups, that there was a significant increase in the final-test total
+scores of the students in experiment group in all three types of schools, and that the total scores of the control
+group students remained at the same level. In addition, it was found that the joint effects of participation in the
+TPSR-SEL program and school type on emotional intelligence scores were significant.
+Keywords: emotional intelligence, intelligence, physical education, sports
+1. Introductıon
+As they are social institutions, schools bring together a large number of students during an important part of the
+day. Many children come to school by gaining social and emotional skills in their families, while many children
+come without acquiring them. Children can come to school without gaining skills like self-expression,
+expressing their wishes and feelings, coping with their intense emotions, anger management, listening, sharing,
+assistance and cooperation. Thus, unearned social and emotional skills can cause interpersonal conflicts and
+disputes in the school environment. If people do not gain these skills and competencies in school, they
+participate in their lives with the deprivation of these skills and competencies. Therefore, the related problems
+are moved to the business environment and all social relations. In this context, it is seen that it is important for
+people to develop social and emotional learning skills, behaviors of taking responsibility, and emotional
+intelligence levels as of a young age.
+Responsibility is seen as both a personal trait necessary for success in school and qualification to be gained
+through school. Individual responsibility is referred to as a duty to deal with or not to deal with someone else or
+a situation. Social responsibility, on the other hand, includes taking care of ourselves and others, fulfilling our
+obligations, contributing to the society of which we belong, and building a better world (Lickona, 1992). Social
+responsibility education aims to make students sensitive to other people’s rights, feelings, and needs, while
+individual responsibility relates education to progress in personal development and development (Hornby &
+Wehmeier, 2005).
+Teachers believe that their primary basic goal is to educate individuals and socially responsible students who can
+focus on both personal development and socio-cultural goals (Hellison, 2011). The strength of the Personal and
+Social Responsibility Model (TPSR), one of the most effective models for the achievement of moral values, is
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+149
+that it provides a special and systematic way to integrate developmental steps and affective gains in situations
+where the teacher wants to focus on affective gains (Walsh, 2008). Students who learn and adopt individual,
+social and moral values in physical education classes will also transfer the behaviors they develop and mature
+into other events that are not inherently related to sports (Weiss & Smith, 2002).
+With its large, complex and rich application area, physical education classes are seen to have an important role in
+preparing school-age youth for moral and social problems, coping with stress, sporting struggle, playing and
+giving the necessary values for the right way of life (Pringle, 2010). Sports fields are known to provide unlimited
+opportunities for intervention not only with game environments but also with the environments where exercises
+and training are conducted, to bring some values to student and sportsperson behaviors and to reveal individual
+and social responsibility characteristics (Hellison, 2003).
+Programs based on the TPSR reveal that students’ responsibilities can be improved (Hellison, 2011). In this
+model, students are encouraged to take responsibility for respecting the rights and feelings of others, to
+participate and to make good efforts, to guide their own progress and to respect others in every sense. Students
+are given the opportunity to apply these responsibilities in a physical activity environment. However, for
+students, the ultimate goal is to transfer these responsibilities or life skills to other environments (Hellison, 2003).
+TPSR has been implemented in environments like physical education, community programs, and after-school
+sports programs (Lee & Choi, 2015; Walsh, Veri, & Willard, 2015; Wright, Jacobs, Ressler, & Jung, 2016).
+In a number of studies, many social and emotional skills, also called non-cognitive qualities, have been proven to
+be in a direct positive relationship with the academic process outcomes in front of students, concurrent with their
+school performance (Farrington et al., 2012). The school creates an ideal environment for promoting the
+social-emotional and academic development of children by providing direct access to all children and providing
+them with characteristics like gaining responsibility, receiving necessary education and contributing to society
+(Zins, Weissberg, Wang, & Walberg, 2004).
+When schools integrate their efforts to encourage children to learn academically, socially and emotionally, they
+are at the most successful point in the struggle for fulfilling their educational duties (Elias et al., 1997). In this
+context, a general consensus has been formed that schools contribute to the social and emotional development of
+children. Schools are social spaces, and learning is a social process too. Students take the learning activities in
+cooperation with the support of their teachers and their families. At the same time, it is the process of being able
+to establish and achieve positive goals, to empathize and demonstrate that, to acquire the knowledge, attitudes,
+and skills necessary to make the right decisions, and to implement all these characteristics effectively (Aidman &
+Price, 2018). SEL is based on five interrelated competencies from the cognitive, behavioral and emotional fields:
+self-awareness, self-management, positive decision-making, relationship skills, and social awareness
+(Collaborative for Academic, Social, and Emotional Learning [CASEL], 2014).
+In order for children to be successful not only in school but also in life, these basic characteristics need to be
+developed. Those who do not have these skills are less likely to succeed. In this context, SEL interventions in
+schools improve the school environment and improve the behavioral and academic functioning of the student
+Osher, Cantor, Berg, Rose, and Steyer (2017) and demonstrate that he has developed his life skills (Camiré,
+Forneris, Trudel, & Bernard, 2011; Danish, Forneris, Hodge, & Heke, 2004; Fraser-Thomas, Côté, & Deakin,
+2008). Researchers argue that teachers need to develop a student-centered learning environment while teaching
+students SEL competencies (Andrew, Richards, Ivy, Wright, & Jerri, 2018). In addition, researches in learning
+areas and education levels have shown that students learn better in supportive environments where they are
+authorized to make decisions and that they have opportunities to relate and demonstrate (Deci & Ryan, 2008).
+Zins et al. (2004) mentions that SEL has improved in the following areas: Motivation and responsibility in
+attitudes; participation and work habits in behavior; a positive attitude towards school in performance, working
+for the strengthening of society, setting high academic motivation and educational goals, better understanding of
+behavioral outcomes, having a better ability to cope with school stress, a more positive approach to work and
+learning. Therefore, it is stated that SEL skills which have positive contributions to life should be included in
+educational programs (Neil, Lendrum, Wigelsworth, & Afroditi, 2009; Şahin-Baltacı, 2013).
+It has been revealed by studies that with concepts like individual-social responsibility and social-emotional
+learning, student achievement does not only come from external factors but also internal factors affect learning
+(health, ability, interest, emotional intelligence, etc.) (Sutiani & Silitonga, 2017). Emotions, which are one of
+these factors, play an important role in motivating individuals’ abilities and improve the learning process in a
+variety of areas. These emotions express all aspects that are considered an internal factor and depend on the
+personality of the individual. The presence and measure of emotions present different results among individuals,
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+150
+and this is due to the personality of individuals (Hashempour & Mehrad, 2014). The role of learning-based
+emotion can fundamentally increase and decrease the measure of emotion (Pekrun, Goetz, Titz, & Perry, 2002).
+Roberts, Schulze, and MacCann (2008) note that emotional state has the potential to affect thinking, noting that
+students achieve more successful learning and perform much better when they feel safe, happy, or comfortable
+with the subject. If the students are in a state of extreme excitement and panic, they work carelessly or fast
+instead of working regularly or carefully. Pekrun (2006) stated that emotions such as anger, anxiety, and sadness
+have the potential to disperse students’ learning efforts by interfering with their ability to participate in existing
+tasks.
+In this context, emotional intelligence serves as the main source of motivation, knowledge, and innovation.
+Knowing emotional intelligence as the main part of inner emotion supports individuals to recognize various
+situations and choose items that are appropriate for their lives (Naidoo, 2000). Emotional intelligence is a
+powerful internal factor that drives behaviors and trends among individuals, but also the ability of individuals to
+evaluate their tendencies and execute them in various ways (Landy, 2005). Uno (2010) asserts that people with
+high achievement have emotional intelligence skills due to working in harmony with cognitive skills.
+Accordingly, it is suggested that emotional intelligence consists of four main skills related to each other. The first
+skill is the ability to perceive emotions, capturing the feelings of one’s own and others with information derived
+from facial expression, verbal messages, body language, or similar cues. The second skill requires using
+emotions, focusing attention, thinking logically, and producing, using, and feeling emotions for proper
+communication. The third skill is about understanding emotional processes. This skill requires knowing which
+events are likely to trigger different types of emotions, being able to blend what is needed from complex emotion
+bundles, understanding how emotions develop over time. The last skill is that individuals can handle their own
+emotions and deal with emotionally challenging interpersonal situations (Tatar, Tok, & Saltukoğlu, 2011).
+Pool (1997) states that emotional intelligence predicts success in academic achievement, employment, marriage,
+and physical health. Gross and John (2003) point out in their studies that in order to become an autonomous
+person, understanding emotions and managing them, sufficient skills are achieved in order to communicate
+effectively. Trockel et al. (2000) observed that students with high emotional intelligence listen to their emotions,
+feel good about themselves, accept themselves as they are because of their respect for themselves, and tend to
+perform well in school. Likewise, Nelson and Low (2006) argued that emotional intelligence is crucial to the
+student’s personal health and school success and that students with emotional intelligence skills are better able to
+cope with the challenging and complex school environment. Emotional intelligence, therefore, has the ability to
+benefit not only to enrich students’ learning outcomes but also to raise students’ life goals.
+Methods like punishment, suppression, and modification of behavior to deal with interpersonal conflicts
+encountered in schools are far from contributing to students’ cognitive, social, and emotional development.
+Instead of focusing on problematic behavior, students are required to gain proficiency in social skills and social
+values, understanding and managing their own emotions throughout their entire teaching life, starting before
+school. Schools often offer programs aimed at learning information, i.e., improving students’ cognitive skills.
+While the academic achievements of the students are seriously focused on their emotional and social
+development, adequate care is not taken. In this study, a program aimed at improving the social-emotional skills
+of the students was prepared.
+On the other hand, it has been reported that it will be more effective to present SEL with special teaching
+methods like role-playing, peer coaching, conflict resolution, and perspective-taking for evidence-based
+implementation (Bickmore, 2002; CASEL, 2014; Jones, 2004). Gordon, Jacobs, and Wright (2016) found that
+BSSM strongly complies with the SEL framework when pedagogical approaches and strategies are applied. In
+addition, SEL has been stated to be compatible with physical activity and sports, but little work has been done in
+this area (Ang, Penney, & Swabey, 2011; Gordon, Jacobs, & Wright, 2016; Talebzadeh & Jarfari, 2012). In this
+study, SEL, which is adapted to a TPSR-based program, was planned to be implemented in physical education
+and sports courses and focused on the impact of the program on the emotional intelligence levels of the students.
+2. Method
+2.1 Purpose of the Research
+The aim of this study is to examine the effect of the TPSR-SEL program on the emotional intelligence levels of
+students in three different school types. In this respect, the following questions were tried to be answered:
+1) Is there a significant difference between the pretest and final test scores of the experimental and control
+groups applied to the TPSR-SEL program regarding the levels of emotional intelligence?
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+151
+2) Does the TPSR-SEL program have any effect on the emotional intelligence levels of the students in the school
+to which it was applied?
+2.2 Research Pattern
+The study looked at the effectiveness of the TPSR-SEL program in improving the emotional intelligence levels
+of students studying in different types of schools. For this purpose, experimental and control groups of three
+different types of schools have been established for the implementation of the TPSR-SEL program. In this study,
+the pattern with the experimental pre-test final-test control group was used. The control group experiences the
+natural process (Büyüköztürk, 2019) while the experimental group receives the process (a new course material, a
+different teaching method or an application such as a training program), whose effect on the dependent variable
+will be tested.
+2.3 Work Group
+A sampling method for the purpose was used in the research (Yıldırım & Şimşek, 2018). A total of 162 students
+in the 9th grade studying in Anatolian High School (experiment=28, control=27), Vocational Technical Anatolian
+High School (VTAS) (experiment=26, control=25) and Sports High School (experiment=28, control=28)
+affiliated to the Ministry of National Education (MNE) were included in the study in 2018–2019 academic year
+fall semester, in Afyon Province. In three different schools, classes forming experiment and control groups were
+chosen by random assignment method. The ages of the students range from 15 to 17.
+In order to determine whether the groups are equivalent in terms of emotional intelligence levels, the pre-test
+total scores from the Schutte Emotional Intelligence Scale were compared. The students’ pre-test total scores
+from SEI-S were found to be in the range of -1 and +1 with skew and kurtosis coefficients and the normal
+distribution of the data was observed and the analyses were continued as follows (Tabachnick & Fidell, 2013).
+The result of variance equality is shown in Table 1.
+Table 1. Variance equality of pre-test total scores for students’ emotional intelligence levels (one-way ANOVA)
+ Variables N X Sd df F p
+Pre-test Experiment 82 128.73 11.63 1 3.006 .085
+Control 80 125.78 9.87 160
+Anatolian High School
+VTAS
+Sports High School
+55 127.63 9.97 2 .299 .515
+51 127.88 11.41 159
+56 126.37 11.33
+Note. p<.05.
+According to Table 1, there was no significant difference in the pre-test scores for the emotional intelligence
+levels of the students in the experimental and control groups (F(1,160)=3.006, p>.05). There was also no
+significant difference in the pre-test scores for students’ emotional intelligence levels according to school types
+(F(2,159)=.299, p>.05). This indicates that students’ emotional intelligence levels are equivalent to each other,
+according to the school type and groups.
+2.4 Data Collection Tool
+The Schutte Emotional Intelligence Scale was used in the research.
+Schutte Emotional Intelligence Scale (SEI-S). It was developed by Schutte, Malouff, Hall, Haggerty, Cooper,
+Golden, and Dornheim (1998) and reorganized as 41 articles by Austin, Saklofske, Huang, and McKenney
+(2004). The scale is of the quintet Likert type and consists of three sub-dimensions: optimism/mood regulation,
+utilization of emotions, and appraisal of emotions.
+The scale adapted to Turkish by Tatar et al. (2011), was applied to a total of 1743 people between the ages of 17–
+78, 1022 women (58.6%) and 721 men (41.4%). For the whole Cronbach-Alpha internal coherence
+coefficient .82, for its lower dimensions .75, .39 and .76. have been identified. For the whole of the
+Cronbach-Alpha internal coherence coefficient of the scale applied to a total of 162 students in this study .74.
+and for its lower dimensions .59, .35 and .72 have been identified.
+2.5 Data Collection Process
+The study planned as one day, 16 weeks, 16 courses and 32 hours in total in the Physical Education and Sports
+course, which is a compulsory course in the curriculum during the fall semester of the 2018–2019 academic year,
+with the students studying in 9th-grade classes (experiment=82) in three different types of schools in Afyon,
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+152
+which are affiliated to the MNE. The contents and sample applications of the sources of Hellison (2011), CASEL
+(2012) and Zins et al. (2004) were examined for the preparation of lesson plans. At the end of the review, 16
+game-oriented courses were prepared based on a collaborative approach that includes all levels and target
+behaviors of TPSR and SEL.
+The research was conducted in three different types of schools. The functioning of all three types of schools is
+different. Students attending Sports High School attend applied sports classes in half of the weekly course hours,
+and in the other half, they see academic courses. Anatolian High School is fully academic, meaning it is aimed at
+cognitive skills and university preparatory courses are available. In VTAS, students receive vocational training
+mainly for their chosen branches (computers, electricity, chemistry, child development, etc.) along with academic
+courses). There are academic courses in all three types of schools, but in addition to academic courses at Sports
+High School and VTAS, there are applied courses where students can develop their emotional, social and
+psycho-motor abilities.
+Voluntary consent forms were distributed for students informed about the study. After the approval forms were
+collected, SEI-S was applied for the pre-test. The TPSR-SEL program was then applied to students in
+experimental groups for 16 weeks. The current study has been continued with the students in the control groups.
+The current teaching programs of experimental studies and control groups were conducted by physical education
+teachers who were in charge of the schools. Physical education teachers carrying out experimental studies were
+given seminars about the functioning of the program and necessary documents and materials related to the
+course contents were provided. After the application, SEI-S was re-applied to the students in the experimental
+and control groups as a final-test. Experimental applications are given in Table 2.
+Table 2. Experimental applications of research
+Week Level Gain Event
+1 Respecting the rights and feelings of
+others, self-awareness
+Respecting yourself and others, self-control Introduction games
+Socializing games
+2 Respecting the rights and feelings of
+others, self-awareness
+Reassuring each other, finding logical solutions to
+problems
+Introduction games
+Socializing games
+3 Respecting the rights and feelings of
+others, self-awareness
+Finding logical solutions, trust, cooperation,
+self-control
+Socializing games
+4 Self-management, respecting the rights
+and feelings of others
+Goal setting, motivation, controlling emotions,
+self-control
+Volleyball
+5 Self-management, making
+effort/participation
+Controlling the feelings of winning and losing,
+taking responsibility, making efforts
+Fitness test
+6 Self-management, making
+effort/participation
+Self-regulation, self-responsibility, cooperation,
+strategy development
+Games with a pilates ball
+7 Responsible decision making, making
+effort/participation
+Self-motivation, self-confidence and taking
+responsibility in taking decisions
+Kimball
+8 Responsible decision making, making
+effort/participation
+Problem-solving, decision making, result
+evaluation, participation
+Frisby
+9 Responsible decision making,
+self-orientation
+Goal setting, self-development, decision-making Sportive games
+10 Relationship management, self-orientation Relationship building, maintaining a relationship,
+goal setting, self-responsibility, focusing
+Sportive games
+11 Relationship management, self-orientation Cooperation, active listening, conflict negotiating,
+goal setting
+Station work
+12 Relationship management, self-orientation Relationship building, goal setting,
+self-responsibility
+Fitness test 2
+13 Social awareness, leadership/helping each
+other
+Social awareness, creativity, self-expression,
+collaboration, trust-building, trust in the leader
+Team games and
+trust-building games
+14 Social awareness, leadership/ helping each
+other
+Cooperation, creative thinking, motivation,
+self-expression, empathy
+Station work
+15 Social awareness, leadership/ helping each
+other
+Social awareness, strategy development, leadership Football
+16 Social awareness, leadership/ helping each
+other
+Creative thinking, cooperation, self-expression,
+leadership, empathy
+Preparing a dance show
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+153
+Courses were organized according to TPSR sessions. Approximately 5 minutes of close relational time was spent
+with the students before starting the course. Then 10 minutes of awareness time was created about the subject of
+the course on that day. Then, physical activities involving the subject of the course were carried out. At the end
+of the activities, a group meeting was held, and the students’ awareness of the subject and topic of that day was
+tried to be increased and they were Behavioral to express their thoughts. Finally, students were asked to evaluate
+themselves at the end of each course.
+2.6 Data Analysis
+In the study analysis of the data, standard deviation and mean analysis for descriptive statistics of pre-test and
+final-test scores obtained from SEI-S; One-way ANOVA analysis for determining variance equality of groups;
+Two-way Covariance Analysis (Two-way ANCOVA) was used to check the pre-test scores of the groups and
+determine if there was a differentiation between the final-test scores.
+3. Findings
+The students’ pre-test and final test total scores from SEI-S were found to be in the range of -1 and +1 with skew
+and kurtosis coefficients and the normal distribution of the data was observed and the analyses were continued as
+follows (Tabachnick & Fidell, 2013). The Skewness and Kurtosis values are given in Table 3.
+Table 3. The Skewness and Kurtosis values of the SEI-S
+N Skewness Kurtosis
+ Variables Statistic Statistic Std.Error Statistic Std.Error
+Pretest Experiement 82 .398 .266 -.098 .526
+ Control 80 .198 .269 -.439 .532
+Posttest Experiement 82 .500 .266 -.624 .526
+Control 80 .351 .269 -.273 .532
+Pretest
+Anatolian High School
+VTAS
+Sports High School
+55 -.212 .322 -.203 .634
+51 .479 .333 -.287 .656
+56 .722 .319 .446 .628
+Posttest
+Anatolian High School
+VTAS
+Sports High School
+55 .263 .322 -.245 .634
+51 .187 .333 .460 .656
+56 .688 .319 -.497 .628
+The mean and standard deviation values of the pretest and posttest scores as the types of schools of the students
+obtained from SEI-S are given in Table 4.
+
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+154
+Table 4. Mean (X) and Standard Deviation (Sd) of SEI-S
+Sub-scales Type of school Group N Pre-test Post-test
+X Sd X Sd
+ Anatolian High School
+VTAS
+Sports High School
+Experiment 28 38.57 5.90 44.85 5.59
+Control 27 36.70 5.10 41.70 6.32
+Optimism/Mood
+Regulation
+Experiment 26 39.19 7.94 45.03 5.14
+Control 25 36.56 5.04 41.12 6.15
+ Experiment 28 42.75 6.22 50.03 5.82
+Control 28 40.39 6.00 42.03 5.14
+Total Experiment 82 40.19 6.89 46.68 5.98
+ Control 80 37.95 5.64 41.63 5.82
+ Anatolian High School
+VTAS
+Sports High School
+Experiment 28 18.60 2.45 18.25 2.81
+Control 27 18.96 3.45 17.14 3.51
+Utilizations of
+Emotions
+Experiment 26 17.76 3.52 18.34 3.23
+Control 25 19.00 3.45 17.20 3.54
+ Experiment 28 16.75 3.74 16.46 3.42
+Control 28 15.92 3.20 16.03 2.92
+Total Experiment 82 17.70 3.33 17.67 3.24
+ Control 80 17.91 3.63 16.77 3.33
+ Anatolian High School
+VTAS
+Sports High School
+Experiment 28 30.07 3.32 30.57 4.44
+Control 27 30.59 4.55 29.70 5.67
+Appraisal of
+Emotions
+Experiment 26 29.57 4.94 30.92 3.33
+Control 25 30.84 4.65 30.00 5.61
+ Experiment 28 29.39 6.68 30.64 5.82
+Control 28 26.96 5.37 27.75 5.13
+Total Experiment 82 29.68 5.11 30.70 4.62
+ Control 80 29.40 5.15 29.11 5.50
+ Anatolian High School
+VTAS
+Sports High School
+Experiment 28 127.89 10.23 132.50 11.80
+Control 27 127.37 9.88 128.37 12.89
+Total Experiment 26 128.11 12.60 135.69 11.21
+Control 25 127.64 10.28 127.64 12.48
+ Experiment 28 130.14 12.29 140.00 14.19
+Control 28 122.60 9.01 121.60 8.15
+Total Experiment 82 128.73 11.63 136.07 12.75
+ Control 80 125.78 9.87 125.77 11.59
+According to the SEI-S final-test total scores, the emotional intelligence levels of the students in the
+experimental group increased, while the emotional intelligence levels of the students in the control group
+remained at the same level. When SEI-S is examined according to the lower dimensions, it is observed that there
+is an increase in the optimism/mood regulation scores of the students in the experiment and control group, a
+decrease in the scores of the utilizations of emotions, and an increase in the scores of the appraisal of emotions in
+the experimental group and a decrease in the control group.
+Furthermore, when the SEI-S total scores of the experimental groups are examined according to the type of
+school, it is observed that Anatolian High School score averages have increased from X=127.89 to X=132.50,
+VTAS has increased from X=128.11 to X=135.69, and Sports High School has increased from X=130.14 to
+X=140.00. According to the results, the most increase was in the emotional intelligence scores of the students
+who studied in Sports High Schools.
+Two-way ANCOVA analysis was conducted to determine whether there was a significant difference between the
+final-test scores when the students’ pre-test scores were checked by groups and school types. The results of the
+analysis are given in Table 5.
+
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+155
+Table 5. Two-way ANCOVA results for SEI-S
+Source Type III Sum of squares Df Mean square F p n2
+Covariate (pretest)
+Type of school
+Group
+Type of school*group
+Error
+Total
+Corrected total
+1998.43
+36.91
+3396.06
+1003.78
+20258.84
+2807658.00
+28099.97
+1
+2
+1
+2
+155
+162
+161
+1998.43
+18.46
+3396.06
+501.89
+130.70
+15.290
+.141
+25.983
+3.840
+.000*
+.868
+.000*
+.024*
+.090
+.002
+.144
+.047
+Note. p<.05*, Dependent variable: posttest.
+According to Table 5, when SEI-S pre-test total scores are checked and final test total scores are examined; it
+was found out that there was no significant difference between the scores of the groups in terms of emotional
+intelligence levels according to school type [F(2,155)=.141, p>.05]. According to the Bonferroni test results, a
+significant difference was found between the final test scores between the experimental group (X=135.58) and
+the control group (X=126.33) in favor of the experimental group. Although there was an increase in the
+emotional intelligence levels of the students in the experimental group, this increase was not statistically
+significant in terms of school type. According to Kinnear and Gray (1999) classification, in experimental groups
+(n2=.144) and in the common effect between experimental groups and school type (n2=.047) the effect factor on
+emotional intelligence level is observed to be quite high. In addition, it was found that the joint effects of
+participation in the TPSR-SEL program and school types on emotional intelligence scores were significant
+[F(2,155)=3.840, p<.05]. This indicates that the emotional intelligence levels of the students attending and not
+attending the TPSR-SEL program vary depending on the type of school they are studying.
+4. Discussion and Conclusion
+In this study, the TPSR-SEL program was applied for 16 weeks to students who studied in three different school
+types and the effect of the program on the emotional intelligence levels of students according to school types was
+examined. The results of the study showed that the TPSR-SEL program has a significant effect on the
+development of emotional intelligence levels of students. In addition, the TPSR-SEL program applied school
+types were found to be effective in the emotional intelligence levels of the students. This important result
+suggests that schools should not only limit themselves to cognitive space but also offer programs to improve
+students’ social and emotional skills. Additionally, the study shows that TPSR and SEL are compatible with each
+other. This result is proof that TPSR-based sports education facilitates SEL in students. Another result of the
+research is that SEL has positive results in the field of physical education and sports. It provides positive
+evidence for schools seeking to implement SEL in physical activity and sports classes. The studies carried out
+support the research result (Ang, Penney, & Swabey, 2011; Gordon, Jacobs, & Wright, 2016; Talebzadeh &
+Jarfari, 2012).
+According to the SEI-S final-test total scores, it was determined that the emotional intelligence levels of the
+students in the experimental group increased, while the emotional intelligence levels of the students in the
+control group remained at the same level. Therefore, it can be stated that the TPSR-SEL program has an effect on
+the development of emotional intelligence levels of students. When SEI-S is examined according to the lower
+dimensions, it has seen that experimental and control groups developed behaviors like “experience evaluation,
+finding happy activities, overcoming problems more easily, complimenting people, being optimistic, creating
+new ideas during emotional changes”. However, when the mood changes, there is a decrease in behaviors like
+seeing new possibilities, affecting the quality of life by emotions, contribution of emotions in generating ideas
+and solving problems. Therefore, it can be stated that students are unable to control their emotions, shape their
+lives with their emotions and make decisions. Environments should be created in schools that allow students to
+experience different emotions and moods and to make the right decisions in the cases, to produce solutions and
+to demonstrate how they should behave. In addition, at the end of the program, there was an increase in the
+behaviors of students in experimental groups like understanding non-verbal messages of people, distinguishing
+that they were serious or joking, communicating with people more easily, establishing close friendships, and
+decrease in students in control groups. Therefore, it can be stated that the TPSR-SEL program improves students’
+showing empathy, understanding the feelings of others and communicating comfortably with others.
+In addition, the increase in emotional intelligence scores was found to be highest in Sports High School, medium
+in VTAS, and lowest in Anatolian High School students. The interaction of students with each other and their
+jel.ccsenet.org Journal of Education and Learning Vol. 9, No. 2; 2020
+156
+environment is important for their socialization. It is observed that an education system focused solely on
+academic course success does not adequately increase the social intelligence levels of students. Therefore, the
+fact that the education given in schools is versatile will improve the cognitive, social, affective and physical
+characteristics of the students much more. In this context, various and diverse activities should be designed and
+implemented in schools to improve students’ creativity, thinking skills, problem-solving skills, physical abilities,
+hand skills, etc. According to Gardner (1993), individuals do not have the same way of thinking, and education,
+if it takes differences seriously, should serve all individuals most effectively. If individuals can recognize
+different combinations of intelligence, they may be luckier at solving the problems they will face (Davis,
+Christodoulou, Seider, & Gardner, 2011).
+According to the results of this study, it was found out that there was a significant difference in the emotional
+intelligence scores of the students in favor of the experimental group. While this difference was not found to be
+significant by school type, it was found that the common effect on emotional intelligence scores of the
+experiment group and school type was significant. Therefore, the type of school is effective in changing the
+emotional intelligence levels of the students participating in the TPSR-SEL program. Only information-oriented,
+cognitive-level education is given in Anatolian High School In Sports High School and VTAS, students
+communicate with each other much more, collaborate, carry out team works, having the feelings of being happy,
+excited, sad by being in an environment of winning and losing in competitions, and experiencing the feeling of
+accomplishment. In this context, besides the model applied to increase the emotional intelligence levels of the
+students, these types of schools also contributed.
+In this study, only TPSR-SEL program was applied. Different parameters were also examined during the
+experimental study process, but the study focused solely on the effect of emotional intelligence levels in three
+different school types of the program. Future studies can be done by making examinations in different model
+combinations, different age groups and different parameters (self-efficacy, attitude, individual-social
+responsibility, etc.). Moreover, Physical Education Teachers in schools conducted the model applications, no
+information on the degree of loyalty to the model has been obtained, and this issue can be taken into
+consideration in future studies.
+5. Recommendations
+In school types that adopt only an academic success-oriented education approach (such as Anatolian High School,
+Science High School, Teacher-High School, Social Sciences High School), students should also be offered
+activities that improve their abilities. In schools, students should be provided with environments where they can
+interact with nature, society, environment, peers. Activities should be organized in these environments where
+they will experience behaviors like sharing, helping, empathizing, leading, creating team spirit, winning-losing,
+problem-solving, and strategy development. In the teaching activities of the school programs, more time should
+be allocated to social and emotional skills and programs should be prepared that develop these activities outside
+of the course.
+Instead of a direct teaching model in physical education and sports classes in schools, applying different models
+that enhance social and emotional abilities will make it easier for students to be prepared for life. In order to
+improve the emotional intelligence levels of the students, it is necessary to reorganize the teaching programs at
+all levels of education. With these programs, students will be able to gain the ability to understand the feelings of
+themselves and others, to think sensibly and to produce feelings for the right communication, to control their
+emotions and to cope with negative emotions, and their emotional intelligence levels will rise. School
+administrations may be encouraged to use SEL in physical activity and sports. Works can be done with other
+SEL-compliant models and methods, like TPSR.

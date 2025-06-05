@@ -1,0 +1,751 @@
+Abstract
+The aim of this study was to gain more in-depth understanding of students’
+emotions in an EFL context by applying dynamic assessment (DA) procedures
+to the development of learners’ emotional intelligence. The study with 50 intermediate learners aged 12-15 used three modalities: a control group, which
+was taught under institute’s normal procedures; a comparison group, which
+received DA; and an experimental group, which received emotionalized dynamic assessment (EDA) procedures, in the form of an intervention focusing
+on emotional characteristics of Goleman's emotional intelligence framework
+with the express purpose of inducing them to work with their emotions. The
+study shows the potential of EDA for increasing one’s emotional intelligence
+and affords practical guidelines to language teachers as to how to incorporate
+behaviors relating to emotional intelligence into assessment procedures.
+Keywords: dynamic assessment, emotion, emotional intelligence, language learning, motivation, reading performance
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+214
+Previous studies have demonstrated that emotions have a pivotal role in
+cognitive processes and more particularly in foreign language learning, which
+involves mutual interactions between cognition and emotion (Arnold, 1999;
+Dewaele, 2005, 2011; MacIntyre & Gregersen, 2012; Swain, 2013). The roles of
+emotional factors in foreign/second language learning contexts have also been
+addressed with reference to a number of methodologies such as
+suggestopedia and some models such as Krashen’s monitor model. In the input hypothesis, Krashen proposed the existence of an affective filter. “Positive
+emotions were related to a low affective filter, thereby letting in more input,
+meaning that more learning would occur; negative emotions were related to a
+high affective filter, thereby keeping out input, meaning that less learning
+would occur” (Swain, 2013, p. 198).
+Following Salovey and Mayer's (1990) proposal of emotional intelligence
+(EI), who defined it as “the ability to perceive emotions, to access and generate
+emotions so as to assist thought, to understand emotions and emotional
+knowledge, and to reflectively regulate emotions so as to promote emotional
+and intellectual growth” (Mayer, Salovey, & Caruso, 2004, p. 197), a number of
+studies made an attempt to find its relationship with academic performance
+(Song et al., 2010; Stottlemayer, 2002) but few investigated its concordance
+with foreign language learning (Abdolrezapour & Tavakoli, 2012; Dewaele,
+Petrides, & Furnham, 2008). Knowing that the emotional state of the learner
+would affect his/her performance in an academic setting, it is apposite to devise
+intervention programs to improve the learner’s EI so as to set him/her under the
+best emotional conditions of learning. In the current EI studies, a variety of theoretical frameworks and assessment tools with only partial overlap among them
+exist. Nevertheless, the problem with most is the observed mismatch between
+the theory and the applied assessment process in that they have been characterized as static, neglecting the reciprocal functional intertwinedness of the
+learner and environment (Dowson & McInerney, 2003; Lewin, 1954).
+Vygotsky’s (1987) proposal of the link between cognition and emotion
+has been confirmed by neurobiological and brain research (e.g., Damasio,
+1999), psycholinguistic research (Rommtveit, 1998) and research on second
+language acquisition (Swain, 2013). Moreover, from a Lewinian perspective
+(Lewin, 1954), there is a reciprocal functional intertwinedness between an
+individual and his/her surrounding environment. Therefore, the ability of a
+person cannot be defined without relating to the relevant elements of his or
+her immediate environment or psychological situation. In spite of repeated
+reference to the effect of emotion in learning and more specifically second
+language learning and in one’s zone of proximal development, previous at-
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+215
+tempts on using dynamic assessment (DA) paid little attention to the emotional states of learners and the possibility of integrating it with DA procedures.
+This study aims to address such problems by introducing an emotionallyloaded DA which intends to capture the dynamic nature of one’s EI and its interaction with the context. Dynamic assessment is an assessment approach which is
+basically grounded in socio-cultural theory and specifically in Vygotsky’s notion of
+zone of proximal development (ZPD) whereby instruction leads development. The
+main reason for using the DA approach in assessing one’s EI is the importance
+given by DA proponents to learner-environment interactions and the incorporation of the students’ cognitive, emotional and motivational states into instructional activities in order to keep students engaged, increase their interest, and
+presumably maximize their learning (Goldstein, 1999; Holzman, 2009).
+Therefore, the major objective of this study is to assess the learner’s EI
+in the second language (L2) context applying DA processes and examine the
+effects of an emotionally-based DA as compared to pure DA (assessment with
+no emphasis on emotions) on boosting the learner’s EI. This article first provides an overview of EI in the L2 classroom. Then, we describe the emotional
+mediation program used in this study. Finally, the results of the present study
+are reported and discussed.
+Review of Literature
+Emotional Intelligence
+Since the initial introduction of the popular phrase emotional intelligence by Salovey and Mayer (1990), which was firmly rooted in past psychological thinking, research and practice, numerous studies have been conducted to understand how EI is related to valued social outcomes and functions. It
+was Daniel Goleman who brought it into the academic performance mainstream with the publication of his 1995 book (Emotional Intelligence: Why It
+Can Matter More Than IQ). Following Goleman (1995), a number of studies
+showed that social and emotional skills play a central role in one’s academic,
+social and personal life above and beyond one’s general intelligence (Downey,
+Mountstephen, Lloyd, Hansen, & Stough, 2008; Parker, Summerfeldt, Hogan,
+& Majeski, 2004; Song et al., 2010; Stottlemayer, 2002).
+Also, in academic domains there has been an increasing movement toward a specific niche in psychology, namely positive psychology, which explores
+the sources of happiness, satisfaction, hope, optimism, and well-being which
+ultimately allow individuals to flourish (e.g., Fredrickson & Losasda, 2005; Seligman & Csikszentmihalyi, 2000). Seligman and Csikszentmihalyi (2000) argued
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+216
+that people need positive emotional experiences, autonomy, and self-regulation
+in pursing personally important goals and that educational and workplace interventions can help them satisfy their needs. In fact, they are echoing Goleman’s
+(1995) view that raising one’s EI will ultimately improve one’s condition. Nevertheless, it should be pointed that devising EI programs needs more than giving
+positive feelings; such programs should let learners know how to overcome
+negative feelings and barriers in life. In addition, such interventions should be
+based on a theoretical and methodological rationale. Currently, a number of
+attempts have been designed to improve EI and except for some (e.g., Nelis,
+Quoidbach, Mikolajczak, & Hansenne, 2009) which are based on Mayer and
+Salovey’s (1997) four branches model, they have either targeted only some dimensions of EI (e.g., Topping, Holmes, & Bremmer, 2000) or lacked a solid theoretical background (e.g., Matthews, Zeidner, & Roberts, 2007).
+Mayer and Salovey (1997), who have been trying to find a psychometric
+test, enhanced the skill-based model, that is, a theoretical model according to
+which EI consists of emotional abilities. The skill model was later contrasted with
+trait-based models, suggesting that EI encompasses a variety of emotional skills,
+including aspects of personality, which can be measured by self-report inventories (Petrides & Furnham, 2001). The trait model conceives EI as a multifaceted
+construct entailing between 13 and 15 (depending on the model) emotionrelated behavioral dispositions which are thought to affect the ways in which an
+individual would cope with demands and pressures. The EI programs proposed
+in this study are anchored in Goleman's EI framework. It is a distinct model encompassing both traits and characteristics, and it can be subsumed under the
+trait EI model. In this framework EI is a combination of five characteristics: (a)
+knowing one’s emotion, (b) managing one’s emotion (i.e., handling fear, anxiety,
+etc.), (c) motivating oneself (emotional control, the ability to delay gratification),
+(d) recognizing emotions in others, and (e) handling relationships.
+Applied linguists have recently sought to understand the impact of emotion in learning a second/foreign language (Abdolrezapour & Tavakoli, 2012;
+Dewaele, 2005, 2011; Dewaele, Petrides, & Furnham, 2008) and the possibility
+of flourishing one’s EI through emotional activities in English as a foreign language (EFL) context has been investigated by Abdolrezapour and Tavakoli
+(2012). However, the efficacy of the intervention, in their study, was assessed
+through standard statistical procedures and the dynamic nature of emotion
+and its interaction with environment was neglected. The present study intends
+to fill this gap by using DA procedures which are emotionally loaded in exploring L2 learners’ emotional state.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+217
+Dynamic Assessment in an L2 context
+Dynamic assessment is basically grounded in Vygotsky’s innovative insight that in the ZDP instruction leads development (Lantolf & Thorn, 2006).
+The critical point which distinguishes DA from other forms of assessment is
+firstly that the process of learning is elicited by the specific way of assessment.
+Moreover, the outcome of the assessment provides not only an insight of an
+individual’s abilities, but also reveals which types of assistance elicit those abilities through mediation (Lantolf & Poehner, 2004). Generally speaking, conventional forms of assessment, when administered in an unassisted manner,
+only give an understanding of what the individual has already mastered, while,
+as Sternberg and Grigorenko (2002) argued, one's true abilities or potential
+level is better captured in assisted, scaffolded assessment.
+Three distinct understandings of ZPD feature in the insightful discussion
+offered by Holzman (2009). First, it may be viewed as a characteristic or property of an individual learner. Holzman (2009) says that those who have interpreted
+ZPD in terms of assessment and try to devise alternative means of evaluation
+(Allal & Pelgrims, 2000; Lantolf, 2000) subscribe to this understanding. Second,
+ZDP may be an approach to offering social support to learners, usually in dyadic
+interactions. In this view, psychologists conceptualize "ZPD as some form of aid"
+from "a single, more capable individual, most often an adult" (Holzman, 2009, p.
+28). Third, ZDP may be seen as a collective transformative activity of development undertaken with learners. However, as Goldstein (1999) and Holzman
+(2009) rightly put forth, the interpretations of Vygotsky just mentioned are limited to strictly cognitive aspects (Berk & Winsler, 1995; Dean, 1994; Stone,
+1993). In these collective activities which are mainly based on the interaction
+between individuals, emotions cannot be fully ignored. While taking into account that “understanding happens between people; it can’t be attributed to
+one individual or the other” (Rogoff, 1990, p. 67), we find that the process of
+cognitive growth is deeply relational. Moreover, there is “a high degree of interpersonal connection between the individuals working together in the process”
+(Goldstein, 1999, p. 648). The focus on interpersonal interactions brings affective factors to one’s mind. In other words, in the learning-leading-development
+groupings, an “emotional zone” is created in which the instructor and each individual member supposedly are encouraged to develop “the group’s level of
+emotional development” (Holzman, 2009, p. 35).
+Studies on DA in specific academic domains have proliferated since the
+late 1980’s pioneering work of Campione and Brown (1987); nevertheless, its
+pedagogical applications in applied linguistics have only recently been examined
+by a number of researchers (Ableeva, 2010; Antón, 2003, 2009; Kozulin & Garb,
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+218
+2002; Lantolf & Poehner, 2004; Poehner, 2005). Previous studies in the realm of
+L2s have focused on such skills as listening (Ableeva, 2010), speaking (Hill &
+Sabet, 2009) and reading (Cioffi & Carney, 1983; Guterman, 2002). While all
+previous studies rely on a pretest-mediation-posttest paradigm, none, to our
+knowledge, put explicit emphasis on the learner’s emotional state while learning potential is elicited, which is the focus of the investigation described below.
+Given the inextricable link between emotion and cognition, it is reasonable to hypothesize that an emotionally loaded DA procedure that is sensitive
+to both cognitive and affective states of L2 learners would positively affect
+their learning. The study presented below is a significant departure from previous EI and DA research in that it investigates whether and how emotions
+may function as an auxiliary tool in DA procedures.
+
+Research Questions
+In order to examine the efficacy of emotionally-loaded DA activities on
+L2 learners' EI, the following research question and the corresponding hypothesis are posed: Does exposing learners to emotionalized dynamic assessment
+(EDA) procedures have a significant effect on their EI scores? Based on the
+theoretical and empirical evidence discussed in the literature that supported
+the positive effect of exposing learners to emotional activities on one’s EI
+(Abdolrezapour & Tavakoli, 2012; Nelis et al., 2009), it is predicted that EDA
+procedures will positively affect learners' emotional state.
+Method
+As shown in Table 1, the study employed a quasi-experimental pretesttreatment-posttest design involving three intact EFL classes, one serving as the
+experimental group which received emotionally-loaded DA (n = 14). The second group was the comparison group which received pure DA (n = 17). The
+third group served as control condition (n = 19) and it underwent the normal
+procedures. The treatment for experimental and comparison groups involved
+an interactionist DA approach.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+219
+Table 1 Design of the study
+Pretest Treatment
+(8 weeks)
+Posttest
+Experimental
+group (EDA)
+(n = 14)
+Test of reading comprehension + TEIQue-ASF
+Exposing subjects to
+emotionally-loaded DA
+procedures and inducing
+them to talk about their
+emotions
+TEIQue-ASF
+Comparison
+group (DA)
+(n = 17)
+Test of reading comprehension + TEIQue-ASF
+Exposing subjects to DA
+procedures with no emphasis on emotional
+content or words
+TEIQue-ASF
+Control group
+(CG)
+(n = 19)
+Test of reading comprehension + TEIQue-ASF
+Exposing subjects to
+reading texts with no
+emphasis on emotional
+content or words
+TEIQue-ASF
+Participants
+The respondents included EFL learners who enrolled in a language center in Iran. A total of 50 students studying Interchange 2 (Richards, Hull, &
+Proctor, 2005) participated in this study. Learners were native speakers of
+Farsi and they had taken English courses for 1 to 2 years. Their level of English
+proficiency was intermediate; that is, all participants were currently taking the
+intermediate EFL course offered by the institution. None of these participants
+had additional exposure to the English language, apart from the regular TV
+programs and the Internet. Only 6 participants had ever been to a country
+where English was spoken as a native language, and they reported a length of
+residence ranging from 4 days to 1 month. The participants were in three intact classes taught by the same instructor. One class was taken as the experimental condition with 14 students; the comparison condition involved 17 students; and the control condition had 19 students. All participants were female
+and they varied in age from 12 to 15. To make sure of the homogeneity of the
+three classes in terms of level of proficiency prior to the experiment, all participants took the grammar part of the Oxford Placement Test 2 (Allan, 1992) and
+their responses were scored on a scale of 100 points. Results revealed that
+participants in all three groups had a range of scores between 45 and 51.
+Participants agreed to be videotaped and audiotaped while studying.
+Two camcorders were used to record participants’ activities: one to capture
+the individual who was performing the task and the other to capture the larger scene, including the participant and the peers as well as the instructor. An
+external microphone connected to the main camcorder was used to capture
+low-volume sounds made by participants.
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+220
+Instruments
+For the purpose of the present study, a number of instruments were
+used, which will be described in this section.
+Trait Emotional Intelligence Questionnaire-Adolescent Short Form
+(TEIQue-ASF). As it was mentioned before, this study focuses on trait EI. Trait EI,
+assessed by self-report, is regarded as an emotion-related dispositional trait
+which is a lower-level component of personality (Petrides, Pita, & Kokkinaki,
+2007). In this study, the short form of the TEIQue (Petrides, Sangareau,
+Furnham, & Frederickson, 2006) comprised of 30 items was used to measure
+the students’ EI prior to the experiment to ascertain their initial comparability.
+TEIQue-ASF is a simplified version, in terms of wording and syntactic complexity,
+of the adult short form of the TEIQue developed for use with adolescents aged
+12-18 years. All items are sampled from the 15 subscales of the adult trait EI
+sampling domain (two items per subscale). The test yields scores on four factors, namely well-being (covering self-esteem, happiness, and optimism), selfcontrol (covering low impulsiveness, stress management, and emotion regulation), emotionality (covering emotion expression, relationships, empathy, and
+emotion perception), and sociability (covering assertiveness, emotion management, and social awareness) in addition to global trait EI. Example items include
+“I can control my anger when I want to,” “I’m happy with my life,” and “I’m
+good at getting along with my classmates.” Higher scores on the TEIQue-ASF
+indicate higher levels of trait EI. We opted for the short version with 10-minute
+completion time, because we had time limitation and there was a concern that
+the participants might not be able to complete the longer version (e.g., due to
+reading difficulties). Subjects were offered help whenever they had difficulty
+understanding the wording of an item. They responded on a 7-point Likert scale
+continuum from completely disagree (number 1) to completely agree (number
+7). Cooper and Petrides (2010) provided evidence about the validity of the
+TEIQue-ASF through item response theory. In their two studies, the psychometric properties of the TEIQue-ASF were examined and results showed that most
+items had good discrimination parameters, indicating that they were effective at
+discriminating individuals across the range of the latent trait. In this study the
+reliability of the test was found to be relatively high (Cronbach’s ɲ = .89). Factor
+analyses also provide support for the construct validity of the questionnaire; in
+this sample, confirmatory factor analysis provided evidence for the four factors
+underlying TEIQue-ASF, i.e., well-being, self-control, emotionality, and sociability.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+221
+Reading comprehension test. To assess the subjects’ reading comprehension ability prior to the experiment, researchers (one of whom was the instructor of the three classes) built and administered a reading comprehension test
+comprised of 30 items. The reading test included several passages each followed by a few questions assessing reading ability in various forms, for example,
+multiple choice, short answer, and true/false. The students scored 1 point for
+each correct answer. A pilot test on 42 intermediate learners yielded the reliability (Cronbach’s ɲ) of .86 and the criterion-related validity using learners’ reading scores of previous term as the criterion was .82. In addition, the tests gained
+professional-judgment-based content validity (from a group of five colleagues).
+Design
+A test of reading comprehension and the TEIQue-ASF (Petrides et al.,
+2006) were administered to check the equality of the three conditions in
+terms of trait EI and reading comprehension prior to the experiment. Then
+learners went through the 8-week treatment. Participants had about 10 hours
+of English per week: 3 hours for reading activities, and 7 hours for speaking,
+listening and writing. There were 24 lessons between the pre and posttests.
+The subjects of the three conditions were exposed to instructional activities;
+those in the experimental group had EDA intervention, the ones in the comparison group received DA, whereas the control group went through the normal institution procedures with texts of the same level as the ones used with
+the other groups. However, in selecting the readings for these two groups
+every attempt was made to select reading passages that included no emotional words or content. Then, the TEIQue-ASF was administered to the three conditions for posttest measures.
+Experimental Conditions
+Dynamic assessment intervention. On the whole, we administered the
+reading test six times consecutively between the pretest and the posttest. The
+first time, there was no intervention after the test, which helped the instructor
+to have an understanding of the individual’s baseline performance. The test
+was administered five more times, with five different reading passages, and
+after each test we had the intervention procedure, which was designed to give
+learners elaborated feedback about their performance on the reading test
+(e.g., what aspects were correct or not) and aimed at focusing their attention
+on the task; in addition, some guiding questions were posed to help learners
+find the correct answer. Here, some reading passages were provided for learn-
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+222
+ers followed by some items in which they were asked to work collaboratively or
+individually to find answers which were mainly without a focus on emotional
+aspects (similar to the texts used for the control group). These passages were all
+short. A sample reading given is provided in Appendix A.
+Emotionalized dynamic assessment intervention. The difference between EDA and DA lies in the type of intervention provided to the learners and
+reading passages given. After each test (similarly to the DA group we had six
+tests and the first was used to gain some information about learners’ current
+level), we had the emotional intervention procedures, which were designed to
+give learners elaborated feedback about performance in the preceding section,
+pose guiding questions, encourage task involvement, make intrinsic motivation,
+regulate examinee’s behavior and was aimed at focusing their attention on the
+emotional aspects of the task. Meanwhile, the instructor gave some information
+about Goleman's EI framework and tried to focus the questions on characteristics of EI. Here, some reading passages, which mainly had emotional background, were provided to learners followed by some texts in which they were
+asked to work collaboratively or individually to find answers. A sample reading
+given to the EDA group is provided in Appendix B.
+Given that the questions had multiple-choice format, we predicted that
+learners would sometimes guess the correct answer or reach it applying testtaking strategies rather than text comprehension. So, occasionally, after
+providing the answer (whether the choice was correct or incorrect), they were
+asked to give reasons for choosing a given answer. The design of the mediation process is outlined in Table 2; as can be seen, we had six dynamic sessions
+shown as DA1, DA2, DA3, DA4, DA5 and DA6.
+Table 2 Mediation design
+Assessment Task description EDA mediation DA mediation
+Test 1: Pretest 1. Reading a text in L2;
+2. Independent completion of test items
+None None
+Test 2: DA1 1. Reading a text in L2;
+2. Independent completion of test items;
+3. Answering the same
+questions after mediation
+1. Introduction to
+Goleman’s EI
+framework;
+2. Providing explicit
+and implicit feedback, posing guiding questions
+Providing explicit
+and implicit feedback and posing
+guiding questions to
+help learners find
+the correct answer
+Test 3: DA2 1. Reading a text in L2;
+2. Independent completion of test items;
+3. Revising the same quesProviding explicit and
+implicit feedback, posing
+guiding questions, encouraging task involveProviding explicit
+and implicit feedback and posing
+guiding questions to
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+223
+tions after mediation ment help learners find
+the correct answer
+Test 4: DA3 1. Reading a text in L2;
+2. Independent completion of test items;
+3. Revising the same questions after mediation
+Providing explicit and
+implicit feedback, posing
+guiding questions, encouraging task involvement, making intrinsic
+motivation
+Providing explicit
+and implicit feedback and posing
+guiding questions to
+help learners find
+the correct answer
+Test 5: DA4 1. Reading a text in L2;
+2. Independent completion of test items;
+3. Revising the same questions after mediation
+Providing explicit and
+implicit feedback, posing
+guiding questions, encouraging task involvement, making intrinsic
+motivation, regulating
+examinee’s behavior
+Providing explicit
+and implicit feedback and posing
+guiding questions to
+help learners find
+the correct answer
+Test 6: DA5 1. Reading a text in L2;
+2. Independent completion of test items;
+3. Revising the same questions after mediation
+Providing explicit and
+implicit feedback, posing
+guiding questions, encouraging task involvement, making intrinsic
+motivation, regulating
+examinee’s behavior
+Providing explicit
+and implicit feedback and posing
+guiding questions to
+help learners find
+the correct answer
+Goleman's EI framework was used in the assessment tasks as follows:
+1. Knowing one’s emotions: To make learners aware of their emotions,
+there were some questions which asked learners to think about the
+way the character was feeling and find its cause. Then, the teacher
+asked learners to think about similar situations and their feelings. In
+this way, they improved their self-understanding. Then, they were
+asked to talk about different emotions and their causes.
+2. Recognizing emotions in others: To improve learners’ level of empathy, the teacher encouraged them to pay attention to the body language of characters depicted in the text. In the final stage, parts of the
+text which could help them gain a better understanding of others'
+emotions were read again.
+3. Managing one’s emotions: To help learners learn how to manage their
+emotions, the teacher read a part of the text where the character felt
+an emotion (e.g., sadness or anger) and then asked the students to
+find the cause of that emotion (i.e., what triggered it). Then, they were
+asked to read the rest of the text and find how that emotion was dealt
+with and how that strategy influenced their friends and people around
+them. When the text ended, the teacher asked the students to discuss
+the possible ways of managing that emotion more effectively.
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+224
+4. Handling relationships: To make students aware of the fourth characteristic of Goleman's theory, learners were invited to read the parts of
+the text which showed interactions between characters again. Then,
+they were asked to think about themselves in characters’ positions and
+to say what their friends would have done to make them feel better?
+5. Motivating oneself: To raise learners’ level of self-motivation, some
+parts of the text in which characters experienced a positive feeling
+were read again and learners were asked to talk about the ways characters could change their negative feelings into positive ones. Subsequently, participants were asked to think about their feelings in the
+classroom, what they wanted to accomplish and the good reasons they
+had for learning the language.
+During these communicative activities, there was very little instructional conversation. The teacher tried to step out of her position of authority and act as
+a non-knower co-participant in the interactions who is seeking further information from her students. When there were some signs of boredom, she tried
+to attract learners' attention by saying "this question might be kind of boring.
+Let's get through it together," or "let's keep going, we will move on to something more interesting." The important thing was that the teacher never
+blamed the students for being bored with doing the tasks; rather, she pretended that the materials were blamable or sometimes she blamed herself by
+saying, "I know I am not always good at conveying things clearly and I would
+be happy to repeat myself if you ask." In addition, she encouraged them to
+complete a difficult task by saying,"I know this question is a bit difficult, but I'm
+sure we can get through it together."
+Text Selection Criteria
+The texts chosen for this study were checked along the following criteria:
+1. The maximum length of each text should be maximally 350 words. The
+word-limitation assured us that learners were able to read the whole
+text and could recall it.
+2. Though all texts used in this study were similar in terms of length and
+difficulty level, those used for EDA had an emotional theme, while
+those used for the other two conditions (DA and control) were void of
+emotional content.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+225
+Reading Comprehension Tasks and Emotional State Evaluation Criteria
+First, learners were asked to read the text. The reading test and tasks
+were modeled after other widely available standardized tests of reading (e.g.,
+TOEFL), and they consisted of texts of one to three paragraphs in length followed by multiple-choice comprehension items. Subjects in the DA and EDA
+groups were told that their teacher would give them support and feedback
+whenever they needed it. Learners' emotional state was determined by watching the video data and observing each learner's performance independently as
+they managed their emotions. Managing emotions includes dealing with a conflict with another peer or the instructor, getting upset over an assignment or
+activity, or appearing overtly excited for some reason. To ensure inter-coder
+reliability, audio- and video-recorded data were meticulously transcribed and
+coded by the instructor and two expert colleagues who were provided with sufficient information regarding the EI framework and were interested in its potential relevance to their own practice as EFL teachers. Using Goleman's five skills
+as an EI framework to view students' performance, they were asked to pay attention to the learners' emotional reactions and rate each learner's emotional
+state based on a number of criteria provided in Appendix C.
+Data Collection and Coding Procedure
+The teacher-learner interactions during classroom activities were transcribed and coded by two trained raters and the instructor. Six learners were
+randomly selected from each group (DA and EDA), and then using Goleman's
+EI framework, the coders independently coded all emotional responses given
+by learners and gave each leaner a score out of 20, which resulted in an intercoder reliability rate of .86. Discrepancies between coders were resolved
+through discussion and consensus was reached. Then, in order to see whether
+learners' scores differed between the DA and EDA conditions in the mediation
+process, the graph of the group performances was drawn.
+The results of the quantitative analysis carried out by means of descriptive and inferential statistical measures are provided in the following section.
+This analysis gauges the learners' TEIQue-ASF scores in the pretest and posttest assessment sessions of the study, and one-way analyses of variance
+(ANOVAs) were run to ensure the comparability of the three groups prior to
+the study and to find the effect of the intervention on learners' EI in the posttest stage. In addition, a qualitative analysis of the mediation process stage is
+described along three extracts: Two extracts show how reading tests were
+performed collaboratively through teacher-learner interactions, one for the
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+226
+DA condition and the other for the EDA condition. The third excerpt is concerned with EDA learners’ emotional responses during these interactions.
+Results
+The main hypothesis of the study was that EDA is more effective than
+DA, that is, that the EDA group would show higher pre to postteaching gains
+than the DA group and that the DA group in turn would score higher than the
+control group on TEIQue-ASF. The results of the pretest, mediation process
+stage, and posttest are provided in this section.
+First Stage: Pretest
+A one-way ANOVA was performed on participants’ reading ability scores
+and their TEIQue-ASF scores prior to the study. As shown in Table 3, the analysis produced no significant differences among the three conditions: The EDA,
+DA and control conditions were similar in terms of both measures prior to the
+treatment. This test proved the initial comparability of the three groups.
+Table 3 Descriptive and inferential statistics for the pretests
+Variables Group n M SD F p
+TEIQue-ASF CG 19 114.78 7.67 .157 .855
+DA 17 116.17 8.07
+EDA 14 117.05 6.90
+Reading comprehension CG 19 17.64 2.43 .134 .875
+DA 17 18.05 1.98
+EDA 14 17.84 2.29
+Note. Level of significance is .05
+Second Stage: The Mediation Process Stage
+As said before, EDA and DA conditions went through mediation processes. During the mediation process, participants read the text twice and they
+were offered mediation in the form of some questions, feedback, hints and
+prompts. Since instruction and assessment are inseparable in a DA approach,
+some information about word meaning and different reading strategies were
+provided whenever required.
+Here, three examples of the mediation provided (one for the DA condition
+and two for the EDA condition) are described. The transcription1
+ in the first ex-
+
+1
+ Transcription conventions are as follows:
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+227
+tract is for the DA condition and occurred immediately after the student named
+Sarah had completed answering the items (the reading passage and test items are
+provided in Appendix A). The mediator (M) was asking some questions about the
+learner’s (S) performance and then stopped to comment on her answers.
+Extract 1
+1. S: (Sarah finishes reading the text and responding the items)
+2. M: Look at Question 2 once more; what is the right answer?
+3. S: Isn’t it choice A?љ
+4. M: No, that is not the right answer. Look at the sentence once more.
+You need to read the whole clause.
+5. --- (Sarah thinks)
+6. M: Maybe student life is similar, butј- the system of higher educationј (. . .)
+7. S: I found it, D?
+8. M: What about B and C?
+9. S: Mhm, --- it is not C because it doesn’t say about differences in teaching and learning styles and – it is not B becauseљ ---
+10. M: (the mediator points to the text) The system is differentј in some
+countries of Asia or Middle East, like Iranљ.
+11. S: yeahј, so D is the right answer.
+As Sarah finished reading the text and answered the items, the intervention started. The mediator asked her to go to the second question once more
+(Turn 2). Sarah indicated her doubt by asking “Isn’t it choice A?” with a slightly
+falling intonation (Turn 3). In the following turns (4-6), the mediator prompted
+Sarah to pay more attention to the text and when she could not find the answer (after a long pause), the mediator oriented her to the clues provided in
+the text. This helped Sarah to find the right answer, but to make sure that she
+was not guessing it, the mediator did not confirm that she had chosen the
+right answer and asked her to comment on the other options. Following a relatively long pause (Turn 9), Sarah said that option C was not correct, but she
+was uncertain about the other choice. Once more, the mediator oriented Sa-
+
+- short pause
+-- long pause
+ооо very long pause
+љ shows slightly falling intonaƟon
+ј shows slightly rising intonaƟon
+parentheses contain researcher's comments
+(. . .) indicates that a section of the transcript has been omitted
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+228
+rah’s attention to the text with rising intonation, which helped her find the
+reason why B was not the right answer (Turn 10).
+The following extract occurred about half-way through the EDA program. Prior to giving the reading passage to learners, the instructor provided
+them with a short description of how to control one’s feelings and manage
+emotions. This extract was designed to enable learners to foster a better understanding of their emotions and help them manage their emotions. Students had just finished reading the passage. Three learners and the instructor
+took part in the conversation. The learners’ names were Arina (A), Pani (P) and
+Negin (N). Arina started talking about the story. The conversation then turned
+to a discussion of emotional states of characters and learners’ experiences of
+similar circumstances, instigated by the instructor:
+Extract 2
+1. M: Tell me more about the characters of the story?
+2. A: There was a father and a son.
+3. M: Ok, continue. I haven’t read the story. Tell me more.
+4. A: Well, it was the son’s graduation party and he --- thought his father
+would buy a car for himј butљ -- his father bought a Bible. He, - he
+became angry and leaved - no, left his father.
+5. M: Ok, Arina. Let me ask you a question (turns to other students). Everybody, think about this question: What would you do if you were instead of that young man?
+6. A: I become angry but I do not leave the house.
+7. M: Why do you become angry?
+8. A: Because, -- Because I was waiting for a car.
+9. M: Arina, think about your father.
+10. A: (quickly) No, no -- I won’t become angry with my fatherј but I was
+waiting for a carљ.
+11. M: Uhuh. What about others (turning to other students)
+12. N: I don’t become angry. But I would just say thank you (she made a
+gesture of disappointment).
+13. M: Well - now it is better. What about you Pani?
+14. P: I would ask him.
+15. M: What would you tell him?
+16. P: I wanted a car, daddy. Where is my car?љ
+17. M: I liked it. Be frank with your father - ask him. It gives both of you a better feeling. Put yourself in your father’s shoes then decide what the best
+reaction to show is. Thanks everyone. Let's go to the rest of the story.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+229
+In Extract 2, it is the mediator who initiates the discussion and asks one of
+the learners (Arina) to narrate the story. In order to encourage her to give further
+information, the mediator pretends that she is unaware of the story and seeks
+further information from her (Turn 3). In the following turn (5), the mediator,
+going round the class, encourages the learners to think about the character's feelings. Then, students start talking about their feelings while the mediator is trying
+to teach them how to manage their emotions and at the same time handle their
+relationships. By asking them to think about the young man and put themselves in
+his shoes, she tries to teach them that it is better to understand one's own feelings (self-awareness) and practice managing one’s emotions to become ready for
+interaction with others. In Turn 10, Arina shows that she is concerned about her
+father's feelings (“I won't become angry with my father”), while simultaneously
+she appears to be aware of her own feelings (“but I was waiting for a car”).
+Negin's statement (Turn 12) shows that she is able to manage her emotions and is
+considerate of others' feelings. Pani (Turns 14-16) uses a better strategy; by asking
+her father about the car and being frank with him she satisfies her own feelings as
+well as her father's. Consequently, the mediator's statements in Turn 17 aim to
+encourage the learners to change the emotional lens of anger into a sympathetic
+reaction in such a challenging situation.
+The conversation in the following extract took place immediately after that
+in Extract 2. In Extract 3, which is for the EDA condition, a student named Maryam
+(Ma) had completed answering the items (the reading passage and test items are
+provided in Appendix B). The mediator was asking some questions about her
+Maryam’s performance and then stopped to comment on her answers.
+Extract 3
+1. M: I just want to ask you to think about the answer of the second
+question once more.
+2. Ma: Storm doesn’t mean shout?ј
+3. M: Well -- what do you think? Did you choose it because of “raised his
+voice”?
+4. Ma: Mhm (she thinks).
+5. M: What do you do when you are angry?
+6. Ma: I -- shout, mhm (searching for a word) -- shoutљ (she reads the
+text once more) no, is it make furious?љ
+7. M: What does furious mean Maryam?
+8. Ma: Angryј.
+9. M: Yeah. But, make furious? Did he make someone furious?
+10. Ma: No, no, no -- (she thinks). Is it move angrily?
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+230
+11. M: Mhm. What about choice D?
+12. Ma: Making delighted?ј No, it is not correct.
+13. M: Why?
+14. Ma: -- Delighted means something like -- happy ---. But he was -- angry.
+15. M: Yep, that’s it. Excellent.
+When Maryam finished reading the text and the questions, the mediator
+asked her to go to one of the questions, for which she had chosen the incorrect
+answer. By prompting her to have another attempt, she indirectly informed her
+that the answer was not correct. It should be mentioned that in these interactions most often a second attempt was offered rather than say directly that the
+answer was correct (when there was the probability of guessing) or incorrect.
+Maryam showed her uncertainty by asking “Storm doesn’t mean shout?” (Turn
+2). The mediator, knowing that the previous sentence had misguided the student, asked her to think more (Turn 3). Her next response (“make furious”) and
+the following turns (6-8) provided evidence that she had understood the text,
+but was not familiar with the exact meaning of the term and tried to guess the
+meaning from the context. After providing the correct response (Turn 10), the
+mediator asked her to think about the last option to make sure that she was
+familiar with the meaning of the term delighted. Maryam’s response in Turn 14
+made the mediator sure that she knew the meaning.
+The learners in the EDA condition clearly showed their enthusiasm and
+interest in performing the reading comprehension activities and attempts to
+find the meaning of other emotional words. In addition, they were all ready to
+discuss the passage and its content after doing the reading activities. What
+one of the learners named Sahar (Sa) said in Extract 4 as she commented on
+her experience of having learning support illustrates the learners’ attitudes.
+Extract 4
+1. Sa: I had a very, very good feeling.
+2. M: Tell me why you had such feeling.
+3. Sa: You know, it is like as if I can go and have an exam without being
+anxious anymore. I mean,-- I don't say that I will answer all questions
+but I’m sure that I will remember all the things I've been through and
+negative emotions will not hamper my performance.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+231
+Third Stage: Posttest
+To provide a plausible answer to our research question, the TEIQue-ASF
+scores of the three conditions were tested by ANOVAs and the findings, presented in Table 4, revealed that the performance in terms of the EI scores of
+each condition differed significantly. The Sidak test for multiple post-hoc comparisons was used to determine which of the mean scores differed significantly from the others. As Table 5 shows, the EDA condition was found to be significantly different from the other conditions, with EDA > DA, EDA > CG. The DA
+condition differed significantly from the CG, with DA > CG. Thus, subjects’ engagement in the EDA procedures, which was used as the treatment given to
+the experimental group, positively impacted their EI scores on the posttest.
+Furthermore, there is good evidence to suggest that exposing learners to DA
+procedures had a positive effect on the emotional state of EFL learners.
+Table 4 Descriptive and inferential statistics for posttest
+Variable Condition n M SD F p
+TEIQue-ASF EDA 14 137.21 7.77 13.742 .000*
+DA 17 128.59 8.43
+CG 19 120.53 10.36
+*p < .05
+Table 5 Multiple comparisons
+(I) Condition
+(J) Condition
+Mean Difference (I-J)
+SE p 95% Confidence Interval
+Lower Bound Upper Bound
+EDA DA 8.62605*
+3.26949 .033 .5314 16.7207
+CG 16.68797*
+3.19083 .000 8.7881 24.5879
+DA EDA -8.62605*
+3.26949 .033 -16.7207 -.5314
+CG 8.06192*
+3.02439 .031 .5741 15.5498
+CG EDA -16.68797*
+3.19083 .000 -24.5879 -8.7881
+DA -8.06192*
+3.02439 .031 -15.5498 -.5741
+* p < .05
+Next, emotional responses provided by the randomly selected informants during mediation procedures were analyzed to find their emotional states
+(scores were given out of 20) and then their performance graph was drawn.
+The mean scores in Figure 1 appear to point to an improvement in EI level of
+both conditions. As can be seen, the lines for the two conditions (EDA and DA)
+are rather close in the beginning sessions but become diverge considerably in
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+232
+the following tests.2
+ What is particularly interesting about the quantitative
+data obtained in the mediation process is that it shows an up-and-down pattern in means and SD values. In addition, examination of the SDs shows that
+there was more variation among DA learners. This, in our view, indicates that
+the development of EI was anything but linear.
+Figure 1 Mean EI scores during intervention sessions for the EDA and DA conditions
+Discussion and Conclusion
+The major hypothesis of this study was that learners in the EDA condition would show higher levels of achievement in EI than learners in the DA
+condition or the control condition. The findings confirmed the hypothesis by
+showing that the EDA condition increased its performance from pre to
+postteaching more than the other two conditions. Furthermore, the results of
+the ANOVA pointed to the positive effects of DA on learners’ EI in comparison
+to the control condition.
+The increase observed in the EI scores of the DA condition can be explained by the fact that when learners become aware of the learning goals and
+assessment procedures, they can determine their expectations of success,
+which in turn enhance their motivation and help them “regulate how they
+learn with more certainty” (Wlodkowski, 2008, p. 202). In the DA procedures,
+learners were asked to comment about assessment and give their suggestions.
+
+2 We cannot have the control group in this graph as there was no record of their performance during the experiment; we have only their pre/posttest scores.
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+233
+They were provided with some models of successful task completion and in
+this way the mysteries about assessment criteria were decreased and they
+were able to self-assess more easily.
+In addition, the observed significant differences between the scores of
+EDA and DA conditions could be attributed to the influence of the EDA procedures with their numerous opportunities for direct exposure to emotional activities. This finding is consistent with our prediction and provides further empirical
+support for Abdolrezapour and Tavakoli’s (2012) findings, which pointed to the
+possibility of enhancing one’s EI through extensive exposure to emotional activities. Nevertheless, a question may arise as to why the participants’ EI, which is
+part of their personalities, had risen so much in such a short period of time. This
+question, however, may be answered if one considers two important issues.
+First, although the treatment period was relatively short, participants had quite
+an intensive exposure to EDA procedures and emotional texts that raised EI.
+Second, despite the commonsensical belief that personality traits do not change
+over time, there is now ample evidence in support of the fact that many traits
+could be changed if the individual is motivated enough (Haslam, Bastian, Fox, &
+Whelan, 2007; Helson, Kwan, John, & Jones, 2002).
+Despite the role of emotion in many educational settings, and its potential to both support and damage learning, understanding emotion remains a
+minority interest. What is more, the research that is undertaken tends to be
+correlational in nature rather than experimental. Our findings add a new dimension to the available empirical literature (e.g., Nelis et al., 2009; Nelis et
+al., 2011) on the possibility of enhancing one’s EI through some kinds of interventions and on applicability of DA to gain better understanding of learners’
+emotions (e.g., Holzman, 2009). Considering the documented empirical and
+theoretical evidence in support of the positive relationships between EI and L2
+performance (Abdolrezapour & Tavakoli, 2012; Dewaele, 2005, 2008; Dewaele
+et al., 2008), the improvement observed in learners’ EI states would possibly
+lead to an enhancement of their performance in language learning.
+The results of this study lay a path between emotion, cognition and assessing learner’s performance and establish a solid basis for the integration of
+EI within teaching and assessment tasks and using them to improve one’s performance. Some steps have been taken in the current attempt that need backing from institutions’ principals, parents and teachers for a significant leap
+forward. The activities proposed here are teacher-friendly and they can be
+easily incorporated into any L2 instructional setting with learners from different age groups. Of course, it should be pointed that the intervention of EDA
+involves far more than promoting one’s EI; in effect, it has the potential to
+help learners become more socially competent and offers them access to a
+Parisa Abdolrezapour, Mansoor Tavakoli, Saeed Ketabi
+234
+range of knowledge and abilities which might enable them to achieve better
+performance in the academic context and in their social life.
+As for the pedagogical implications, this study provides evidence that
+emotions can be successfully integrated into DA procedures in EFL classrooms
+for young beginners and are at least as moderately effective as far as learners’
+reading comprehension is concerned. Hence, one implication of this study is
+that mediations designed for EFL classrooms might address the needs and preferences of certain students taking into account learners’ individual differences
+and more importantly their emotions, resulting in more motivating tasks.
+Implications for Future Studies
+This study is an example of an initial and promising attempt that leaves
+ample room for future research to probe or refine its findings. First, the participant sample was a small group of intermediate learners and it was composed
+only of females, which might delimit the generalizability scope of this study. It
+is obvious that studies with ESL and EFL learners of lower proficiency of English
+are likely to show different results. In this light, future work would benefit
+from replicating the research with learner groups of different levels of proficiency, different age groups and including both sexes. Second, the study was
+conducted over a 2-month period during which participants were exposed to
+intensive emotional activities and language input and instruction from various
+sources. This being the case, the internal validity of the study might be questioned; however, given the existence of a control condition, similar to the DA
+condition in many ways (the same instructor, the same amount of time devoted to reading activities, etc.) this criticism may be in part overcome. Nevertheless, there is a need for future extended and methodologically rigorous investigations to further explore and (re)examine the role of EI in DA procedures
+and its effect on various language skills.
+Although every attempt was made to avoid some of the design, measurement, and analytical flaws, there were some limitations that need to be taken into account in future research. First, one may object to the reliability of the
+study considering the exact amount and type of intervention in the EDA and DA
+conditions. While the type, intensity and frequency of intervention provided to
+the EDA group might have been more than what learners needed, in the case of
+the DA condition, it might have been less than what they needed. In consequence, this imbalance might have caused the difference in scores. In order to
+address this issue, the instructor tried to limit her intervention to what was actually needed for learners to achieve improved performance, but it still remains
+a challenge for the outcomes of the study. Secondly, the transfer of these re-
+Enhancing learner’s emotion in an L2 context through emotionalized dynamic assessment
+235
+sults to learners’ long-term gains in performance might be questioned. In order
+to tackle this objection, there is a need to introduce both static and dynamic
+assessments as well as other sources of information rather than gauge
+achievement on a number of limited tests. In addition, there is a need for further studies to address the direct effect of EDA intervention on learners’ reading
+comprehension and L2 learning. Finally, group sizes were small, as a result of
+which statistical analyses may lose force; thus, future attempts might apply
+larger samples and run more in-depth qualitative analyses. 

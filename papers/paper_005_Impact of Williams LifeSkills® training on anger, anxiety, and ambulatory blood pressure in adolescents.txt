@@ -1,0 +1,691 @@
+ABSTRACT
+The Williams LifeSkills® (WLS) anger and stress
+management workshop provides training in strategies to
+cope with stressful situations and build supportive
+relationships. The purpose of this study was to determine
+the impact of school-based Williams LifeSkills training on
+anger, anxiety, and blood pressure in adolescents. One
+hundred fifty-nine adolescents (mean age±SD=15.7±
+1.4 years) were randomized to WLS (n=86) or control
+(CTL, n=73) groups. The WLS group engaged in twelve 50-
+min WLS training sessions conducted by teachers at
+school. Anger-in and anxiety scores decreased and angercontrol scores increased in the WLS group across the sixmonth follow-up period compared to the CTL group (group
+xvisit, ps<0.05). Daytime diastolic BP was lower across
+the follow-up in the WLS group (p=0.08). DBP was
+significantly lower across the follow-up period in the WLS
+group among those with higher SBP at baseline (p=0.04).
+These findings demonstrate beneficial impact of WLS
+upon self-reported anger-in, anger control, anxiety levels,
+and ambulatory DBP in the natural environment in healthy
+normotensive youth.
+KEYWORDS
+Blood pressure, Systolic blood pressure, Diastolic
+blood pressure, Ambulatory blood pressure
+monitoring, Anger, Anxiety, Coping skills,
+Adolescents
+INTRODUCTION
+Essential hypertension (EH) is no longer considered
+an adult disease due to escalation in prevalence in
+recent years among youth [1]. The pathogenesis of EH
+has its origins in childhood [2]. Psychosocial factors
+(such as anger and anxiety) have been shown to be
+related to elevated blood pressure (BP) in adolescents
+[3]. The escalating prevalence of anger and violence in
+our youth has been associated with increased levels of
+anxiety and stress [4]. Self-reported feelings of anger
+have been shown to be predictive of aggression in
+youth [5]. Anger may contribute to health problems
+through its influences on several coronary risk factors
+across the life span [6, 7].
+Behavioral and psychosocial interventions have
+been shown to reduce risk factors and negative health
+effects [8], reducing EH in a number of trials in adults
+[9], and have been examined for their impact in youth
+showing effectiveness in the treatment of physiological, psychosocial, and behavioral conditions [10]. The
+role of behavioral interventions in reducing psychosocial and cardiovascular (CV) risk factors among
+youth needs to be further explored [11–13]. Problems
+among young people such as anger (leading to
+violence) and negative school behaviors may be
+addressed by promoting lifestyle change toward
+healthy habits, improving stress-related coping skills,
+and reducing psychosocial risk factors related to
+mental and physical health problems, which collectively may improve both academic performance and
+behavior [14]. The challenge is to develop programs
+that are well-standardized, protocol-driven, schoolbased, and deliverable by teachers on a broad scale
+[15, 16].
+The Williams LifeSkills (WLS) workshop provides training in anger and stress management and
+stress-related coping skills [17]. Strategies and
+approaches employed in the WLS workshop were
+drawn from previous research on the role of
+psychosocial factors in health and disease, the
+1
+Department of Pediatrics,
+Georgia Health Sciences University,
+Augusta, GA, USA
+2
+Department of Biostatistics,
+Georgia Health Sciences University,
+Augusta, GA, USA
+3
+Behavioral Medicine Research
+Center,
+Duke University Medical Center,
+Durham, NC, USA
+4
+Williams LifeSkills, Inc, Durham,
+NC, USA
+Correspondence to: V A Barnes
+vbarnes@georgiahealth.edu
+Cite this as: TBM 2012;2:401–410
+doi: 10.1007/s13142-012-0162-3
+Clinicaltrials.gov registration
+#NCT00508612
+Grant funding
+This research was supported by a STTR award
+from the National Heart, Lung and Blood Institute,
+National Institutes of Health (HL072644).
+Implications
+Policy: Helping students develop good coping
+skills may help to curtail violence through anger
+management and improve mental health by
+increasing students' abilities to cope with stress.
+Research: A blood pressure-reducing intervention embedded in the school curriculum could
+have a significant positive impact on public health.
+Practice: An effective, easily delivered new
+method is available to deliver anger and stress
+management through coping skills training to
+high school students.
+TBM page 401 of 410
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+effects of personality and behavior on health and
+quality of life, and the application of behavioral
+approaches to the treatment of medical illness. The
+WLS curriculum [17, 18] is based on a wellresearched program with extensive field testing and
+development in adults with studies conducted with
+coronary heart disease patients, hypertensives, Alzheimer's disease family caregivers, and healthy
+subjects in worksite settings. There is evidence that
+WLS training can lower BP, improve overall health
+and well being, and reduce hostility and anger in
+adults, but it has not been evaluated in adolescents.
+A randomized controlled trial (RCT) examining the
+impact of WLS training on psychosocial and CVD risk
+factors in men with heart disease documented reductions in hostility and diastolic BP (DBP) [18], as well as
+medical care costs [19], over a 6-month follow-up. In
+another RCT targeting men following coronary
+bypass graft surgery, the WLS workshop produced
+significant improvements in depression, trait anger,
+satisfaction with life, resting systolic BP (SBP), and SBP
+response to an anger recall task compared to usual care
+[20]. An RCT targeting hypertensive employees at a
+large urban medical center found significantly larger
+SBP reductions in those receiving WLS training than
+those randomized to usual care [21]. A controlled trial
+evaluating the WLS Video adapted for caregivers of a
+relative with Alzheimer's disease documented larger
+reductions in perceived stress, anxiety, depression,
+SBP, and DBP in those in the WLS video group
+compared to wait list controls that were maintained or
+enhanced over a 6-month follow-up period [22]. An
+observational trial of the WLS workshop among 110
+employees at multiple worksites of a corporate client
+produced significant reductions in depression, hostility, and anxiety that were maintained or enhanced
+over a 6-month follow-up period [23]. As documented
+in these studies, the WLS training program for adults
+had evolved based on scientific evidence for efficacy
+from RCTs and effectiveness in real-world applications ranging from individuals in stressful life situations to corporations, government agencies, and
+healthcare facilities.
+The purpose of this translational study was to train
+school teachers to deliver WLS training in a realworld classroom setting and examine the impact of
+WLS training on measures of anger, anxiety, and BP
+in adolescents. The rationale for the involvement of
+adolescents is that, as noted above, a need exists for
+programs that are consistent with a primary prevention approach to avert disease in future years and
+can be delivered on a mass scale early in the
+pathogenic process. This rationale provides a theoretical framework that underpins the study.
+METHODS
+Subjects
+Written informed consent was obtained for 258
+adolescents (mean age±SD=15.7±1.4 years, 47 %
+males, 86 % African American) who were randomly
+assigned to WLS (n=135) or CTL (n=123) groups.
+No race/ethnicity groups were excluded. The ninth
+grade was targeted on the basis of our previous
+experience conducting BP-lowering health education programs within the school curriculum.
+Study design
+This was a randomized, single-blind study that
+enrolled students at two local high schools in Augusta
+GA across 2 years. Both schools had students enrolled
+in health education classes in one of two ninth grade
+semesters. There are two semesters per year (Fall and
+Spring). School “A” was randomly chosen for year 1
+(Fall and Spring semesters) and school “B” for year 2
+(Fall and Spring semesters). Within school “A”, for the
+Fall and Spring semesters, six ninth grade classes were
+enrolled in health education classes. The six health
+classes were randomly assigned to receive either the
+WLS workshop or a health education control (CTL)
+condition, i.e., three classes received the WLS workshop, and three classes were assigned to CTL. During
+each semester, subjects from each class (balanced by
+gender) were randomly chosen from each of the six
+classrooms for testing. The first semester cohort
+intervention (cohort 1, n=65) was conducted via
+weekly sessions over nearly 3 months. Data from this
+cohort was not included in this analysis because
+feedback from the health education and physical
+education teachers suggested that it would be better
+to conduct the intervention on consecutive school
+days. Therefore, the three following cohorts 2–4 (n=
+193) were given the intervention in this manner. Data
+analysis was completed for 193 subjects in cohorts 2–4,
+103 WLS, and 90 CTL. Of these, 16 moved and 1
+dropped out in the WLS group and 16 moved and 1
+was incarcerated in the CTL group and were unable to
+finish the study, leaving a final sample of 159.
+Psychosocial and BP variables were assessed at pretraining (visit 1), within 1-week post-intervention (visit
+2), at 3-month (visit 3) and 6-month (visit 4) follow-up.
+All participants were assessed regardless of group
+assignment (WLS or CTL condition). This procedure
+was repeated in year 2 in school “B”. One hundred
+twenty-two subjects (cohorts 1 and 2) were enrolled in
+school A for Fall and Spring semesters, respectively,
+and 136 subjects (cohorts 3 and 4) were enrolled in
+school B for Fall and Spring semesters, respectively
+(Fig. 1). The study was single-blinded as it was not
+possible to blind the subjects to the intervention. The
+Human Assurance Committee of the Medical College
+of Georgia approved the study as of 8/2005.
+Williams LifeSkills Intervention
+The WLS training program was adapted for adolescents and provides training in stress-related coping
+skills. The ten skill modules that comprise the WLS
+program were sequenced in sessions such that basic
+skills were taught first, as they continued to be applied
+as other skills are layered on in later skill modules. The
+ten WLS modules were organized to achieve two
+ORIGINAL RESEARCH
+page 402 of 410 TBM
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+goals, the first being to cope more effectively with
+stressful situations: (1) Being Aware. Students were
+taught to view a situation objectively and become
+aware of thoughts and feelings, e.g., by using log
+entries from their own experiences. (2) Making Decisions. Students were taught to evaluate negative
+thoughts, feelings, and options by introducing questions which help decide whether to take action or try to
+overcome negative thoughts or feelings. (3) Getting
+Over It: Overcoming Unwanted Negative Thoughts and
+Feelings. “Deflection skills”, such as reasoning with
+oneself, thought stopping, distraction, and stress
+management through relaxation and simple meditation were taught. (4) Problem Solving: Discovering
+Solutions to Problems. A model was introduced to
+enhance creative problem-solving abilities in situations where evaluation tools indicate that problem
+solving is the best option. Students were taught to
+decide what needs to be changed (defining the
+problem precisely) and how to go about changing the
+situation. (5) Assertion: Standing Up for Yourself. Students
+were taught how to become more assertive (without
+being aggressive) and get what they want without
+infringing upon the rights of others. (6) Saying “NO”.
+When others made requests, students decided to do
+what they ask or say “No”. Students were taught how
+to evaluate whether they want to say “No” and if so,
+how to make that “No” hold fast.
+The second set of skills has the goal of increasing
+interpersonal skills to reduce the likelihood of
+Fig 1 | Flow of study recruitment
+ORIGINAL RESEARCH
+TBM page 403 of 410
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+stressful situations occurring: (7) Speaking up. Many
+of the problems faced in life require speaking to
+another person in order to reach a solution. Students
+were taught ways to speak up and be listened to
+without being abrasive. (8) Listening. Students were
+taught effective listening (via practice exercises)—
+which includes keeping quiet while the other person
+is talking, using body language to convey interest,
+reflecting back what is heard and being open to
+being changed by what is heard. (9) Empathy.
+Students were taught empathy (via practice exercises)—that there are many perspectives other than
+one's own, which helps to improve relationships.
+(10) Increasing Positives. Students were taught to
+increase positive interactions and decrease negative
+ones. The workshop did not explicitly address
+changes in personal belief, lifestyle, or philosophy.
+Upon completion of the curriculum, students had
+available to them an array of tools to better evaluate
+and cope with stressful life situations. If one
+response strategy did not work, students learned to
+cycle back through the evaluation process and
+choose an alternative approach. In this way, the
+workshop addressed development of effective stressrelated coping skills and to have beneficial influences
+on a variety of physical health and behavioral
+indicators. The teacher explained the rationale for
+each skill and its use. The use of each skill was
+modeled with an example, which could be personal or
+drawn from the teacher's manual. The WLS group
+engaged in 12 50-min training sessions conducted
+during health or physical education classes led by
+WLS-trained teachers in the school. Participants
+practiced the skills, either with examples from their
+lives via in-session exercises or from role-play examples provided in the curriculum materials. Homework
+(10 min) was assigned to practice the skills before next
+session. At each session, students reported on how the
+homework practice went or practiced another roleplay example.
+The scheduling was designed such that WLS
+workshop sessions and evaluations would not interfere with school testing or important class activities.
+Participation in the study was voluntary and subjects
+were paid $30 for each testing evaluation. These
+disbursements were in addition to free instruction in
+the WLS program. WLS participants also received a
+free WLS workbook. After the intervention period,
+subjects were encouraged to continue with their
+regular practice of the WLS program.
+WLS teacher training
+Sessions were facilitated by a WLS-trained school
+teachers. The intervention instructors were ninthgrade health education or physical education
+instructors at two schools. Instructors participated
+in a 5-day (8 h per day) WLS training program in
+which the first 2 days involved participation in the
+workshop and the following 3 days involved training to facilitate the ten LifeSkills modules. Teachers
+were reimbursed ($1,500) for their time in training, for
+providing interviews, written comments, and for
+participating in focus groups. The teachers were
+trained using previously developed standardized
+materials. A Facilitator's Manual, slides, and laminated
+role-playing option cards for WLS were developed
+along with a student workbook for the workshop [24].
+During the course of the WLS intervention, sessions
+were monitored via audio recordings to assess whether
+various components of each session were correctly
+implemented, allowing constructive feedback and
+retraining when needed.
+Health Education (CTL) condition
+To provide a credible control for the time and
+attention received by the WLS groups, the CTL
+groups were randomly selected by class in each
+health education or physical education class at
+school and did not receive instructions in any
+specific stress- or anger-management techniques.
+Teachers for the health-education CTL group sessions were trained in a credible array of BP-lowering
+lifestyle strategies including physical activity and
+diet that may improve CV health. Subjects assigned
+to CTL groups were then instructed regarding these
+lifestyle strategies.
+Psychosocial measures
+All participants, regardless of group assignment,
+were evaluated by research personnel from the
+Georgia Health Sciences University. Instruments
+were chosen that were validated for adolescents
+and administered within the school schedule. Subjects completed the Spielberger Anger Expression
+Scale [25, 26] (24 items; anger-in, anger-out, and
+anger control); and the Basic Assessment System for
+Children; anxiety subscale [27]. Evaluations were
+planned so as not to interfere with important school
+activities, such as testing.
+Ambulatory BP monitoring
+Ambulatory BP measurements were obtained over
+24-h periods in the natural setting using SpaceLabs
+90207 BP monitors at pre- (visit 1) and postintervention (visits 2–4). The SpaceLabs 90207
+ABP monitor (SpaceLabs, Inc., Redmond, WA) has
+been well-documented for its technical validity in
+children [28–31] and has shown good reproducibility [32]. Findings in youth have indicated that
+ambulatory SBP is stable across periods of time
+varying from 1 to 4 years [33]. An appropriate sized
+BP cuff was selected and attached to the monitor
+with the cuff placed on the non-dominant arm. The
+monitors were programmed so that BP readings
+were taken every 30 min at school (i.e., 8 AM to
+3 PM), and every 20 min after school (i.e., 3 PM to
+10 PM) and at night (i.e., 10 PM to 6 AM). Similar to
+previous studies [32, 34], data for transition periods
+(6 to 8 AM and 10 PM to midnight) were excluded
+from daytime and nighttime calculations and outlier
+ORIGINAL RESEARCH
+page 404 of 410 TBM
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+measurements of SBP <50 mmHg and DBP
+<30 mmHg were deleted. Data were reduced by
+averaging individual measures into daytime and
+nighttime levels. Means for SBP, DBP, and heart
+rate required a minimum of 50 % of the total
+possible observations (i.e., minimum of 21 daytime
+and 6 nighttime measures) to be included in the
+analyses. Subjects were instructed to follow their
+normal daily routine without modification.
+Statistical analyses
+The study was a two-group (WLS vs. CTL) design with
+repeated measures. The normality of errors has been
+confirmed for all variables by analysis of the residuals.
+The correlation between the observations and the
+possibility of nonconstant variance has been modeled
+using a mixed model repeated measures analysis and
+an unstructured variance-covariance matrix for the
+errors. A mixed model repeated measures ANCOVA
+was used to analyze data from visits 2, 3, and 4 (1 week
+after end of training, and at 3- and 6-month follow-up
+visits) using visit 1 (baseline) as a covariate in the
+model. The model also contained the covariates of
+cohort, age, and sex, as well as group (WLS vs. CTL),
+visit (2, 3, or 4), and the group×visit interaction.
+The variables analyzed were the questionnaire
+data assessing anger indices, anxiety, and ambulatory
+BP measures (24 h, daytime and nighttime).
+The results from both the group×visit interaction
+and the overall group effects were considered tests of
+interest. Since baseline was used as a covariate, if there
+was an overall group effect for visits 2, 3, and 4, that
+would indicate that the WLS group was different than
+CTL across all of the post-training visits, a significant
+group×visit interaction would indicate that the WLS
+and CTL groups varied differently across post-training
+visits, which would also be of interest when evaluating
+the intervention. Individuals who had at least one posttest value but did not complete the study were not
+excluded, and values that were missing were not
+imputed. SAS® 9.3 (SAS Institute, Inc., Cary, NC)
+was used for all analyses, and statistical significance
+was assessed at p<0.05.
+RESULTS
+In order to be included in the mixed model
+ANCOVA analysis, subjects had to have data
+collected at baseline and at least one other visit.
+Demographic and baseline psychosocial and ambulatory BP characteristics of the subjects who met this
+requirement are presented in Table 1.
+There were no significant differences between the
+groups for these measures (all ps>0.13). The sample
+size was 91 in the WLS group (46 % male, 81 %
+black) and 79 in the CTL group (32 % male, 91 %
+black). No adverse events were reported during the
+study, except for one subject in the CTL group who
+was incarcerated and not able to finish the study.
+Psychosocial outcomes
+There were no significant group effects for psychosocial outcomes, indicating that psychosocial scores
+across the three follow-up visits did not differ as a
+function of group assignment (Table 2).
+There were significant group×visit interactions for
+anger-in (p=0.05), anger control (p=0.02), and anxiety
+(p=0.01). As shown in Fig. 2, the adjusted anger-in
+score was significantly higher for the WLS group at the
+first post-training visit (visit 2, p=0.01) and decreased
+to lower levels at visits 3 and 4; in contrast, anger-in
+scores increased to higher levels at visits 3 and 4 in the
+CTL group. Anger control scores increased from visit
+2 to visit 4 in the WLS group but remained about the
+same level in the CTL group (Fig. 3). Anxiety scores
+decreased from visit 2 to visit 3 and remained at about
+the same level for visit 4 in the WLS group, while the
+CTL group did not fall to a comparably low level until
+visit 4 compared to visits 2 and 3 (Fig. 4).
+Table 1 | Baseline demographic and anthropometric characteristics
+Characteristic CTL (n=79) WLS (n=91) p value
+Sex (M/F) 32/47 46/45 0.19
+Race (W/B/other) 3/72/4 12/74/5 0.10
+Age (years) 15.7 (1.3) 15.6 (1.5) 0.81
+24-h SBP 115.3 (6.8) 117.0 (8.3) 0.13
+24-h DBP 67.3 (5.6) 68.4 (5.1) 0.17
+Daytime SBP 117.8 (7.3) 119.5 (8.4) 0.15
+Daytime DBP 70.3 (6.4) 71.4 (5.6) 0.22
+Nighttime SBP 110.3 (7.1) 112.2 (9.1) 0.14
+Nighttime DBP 61.6 (5.6) 62.7 (6.0) 0.22
+Anger control 22.0 (5.0) 22.9 (5.2) 0.27
+Anger-out 15.7 (4.1) 15.9 (4.1) 0.76
+Anger-in 15.8 (4.0) 16.2 (3.9) 0.43
+Anger expression 9.6 (8.8) 9.3 (9.7) 0.81
+Anxiety 5.1 (3.3) 5.6 (3.0) 0.25
+Values are mean (±SD)
+SBP systolic blood pressure (mmHg), DBP diastolic blood pressure (mmHg)
+ORIGINAL RESEARCH
+TBM page 405 of 410
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+Blood pressure outcomes
+There were no significant group by time interactions
+across the three visits adjusted for baseline for 24 h,
+daytime, or nighttime SBP or DBP (Table 2, all ps>
+0.33). As predicted, SBP and DBP levels were lower in
+the WLS group than CTLs for both 24-h and daytime
+levels across follow-up visits, but the group effect
+reached the trend level only for the lower daytime
+DBP in the WLS group (least square means±SE; 71.6±
+0.36 vs. 70.7±0.35, p=0.083). A barrier to detecting
+treatment effects on BP in the current study is the
+potential for a floor effect to underestimate BP
+reductions in a normotensive sample with mean 24-
+h SBP/DBP less than 120/70 mmHg [35]. To overcome
+this difficulty, a BP subgroup analysis based on high
+baseline SBP (≥124 mmHg for boys and ≥117 for girls;
+n=32 for WLS, n=19 for CTL) versus low baseline
+SBP (<124 mmHg for boys and <117 for girls; n=59
+for WLS, n=60 for CTL) was used to further analyze
+the trending results for the overall group effect for
+daytime DBP. These SBP cutoff values were selected
+based on pediatric ABPM reference values of mean
+day- and nighttime SBP according to gender and height
+values previously published [36]. The same model was
+used as above except that the analyses were performed
+separately for each baseline SBP group (high or low).
+When the data were analyzed within baseline SBP
+subgroups, the WLS group had significantly lower
+(72.7±0.7 vs. 74.9±0.9 mmHg) daytime DBP than the
+CTL group (p=0.04) in the high BP subgroup, but there
+was no significant difference (69.8±0.4 vs. 70.2±0.4)
+between WLS and CTL (p=0.46) for the Low BP
+subgroup (Fig. 5). The group effect for SBP was not
+statistically significant (p<0.11).
+DISCUSSION
+Study findings demonstrate the feasibility of training
+health education and physical education teachers to
+deliver the WLS program to ninth grade students in
+the public high school setting. Study findings also
+provide preliminary evidence that WLS training
+delivered by trained teachers in this setting has the
+potential to reduce anger-in and anxiety levels,
+increase anger control levels, and reduce daytime
+BP levels, especially in those students with higher
+baseline BP. Importantly, these effects were maintained or extended over a 6-month follow-up
+following only 12 50-min training sessions. To our
+knowledge, this is the first randomized controlled
+study to evaluate the impact of stress management
+training upon BP and indices of anger and anxiety
+among adolescents in the school setting. Although
+the present findings are promising, they should not
+be over-interpreted and will require replication with
+a larger sample of youth.
+Subjects with at least one post-test value as well as
+baseline were considered in the analysis, so the
+results are only significant for those who completed
+at least one post-test visit. One of the problems
+Table 2
+facing a school-based research design is cross-
+| Least squares means (SE) adjusted for baseline for ambulatory blood pressure and psychosocial variables across visits
+Variable CTL (n=79) Visit 2 (n=77) Visit 3 (n=57) Visit 4 WLS (n=91) Visit 2 (n=80) Visit 3 (n=60) Visit 4 Group×visit
+F/p value Group
+F/p value
+24-h SBP 116.5 (0.56) 115.9 (0.67) 116.3 (0.76) 115.5 (0.53) 115.3 (0.65) 114.9 (0.74) 0.28/0.76 2.35/0.13
+24-h DBP 68.0 (0.43) 68.0 (0.48) 68.4 (0.52) 67.1 (0.40) 67.9 (0.46) 67.3 (0.51) 0.76/0.47 2.14/0.15
+Daytime SBP 119.1 (0.58) 118.9 (0.67) 119.1 (0.79) 118.5 (0.55) 118.1 (0.65) 117.7 (0.77) 0.30/0.74 1.87/0.17
+Daytime DBP 71.1 (0.48) 71.5 (0.53) 72.1 (0.55) 70.3 (0.45) 71.3 (0.52) 70.4 (0.53) 1.11/0.33 3.05/0.083
+Nighttime SBP 110.9 (0.72) 110.1 (0.88) 110.8 (0.92) 110.0 (0.66) 110.0 (0.84) 109.9 (0.89) 0.19/0.83 0.66/0.42
+Nighttime DBP 61.5 (0.54) 61.1 (0.61) 61.1 (0.70) 61.2 (0.49) 61.3 (0.59) 61.2 (0.67) 0.16/0.85 0.00/0.99
+Anger control 21.2 (0.57) 22.5 (0.56) 21.6 (0.60) 22.4 (0.53) 21.9 (0.54) 23.0 (0.57) 4.00/0.021* 1.02/0.31
+Anger-out 14.8 (0.44) 15.8 (0.43) 15.7 (0.44) 15.7 (0.40) 15.4 (0.42) 15.0 (0.43) 0.03/0.86 2.16/0.12
+Anger-in 14.7 (0.43) 15.6 (0.46) 15.0 (0.53) 16.2 (0.39) 15.3 (0.45) 15.7 (0.51) 3.06/0.050* 1.70/0.19
+Anger expression 8.4 (0.98) 8.8 (0.90) 8.9 (0.96) 9.6 (0.90) 8.8 (0.87) 7.7 (0.92) 1.02/0.36 0.00/0.99
+Anxiety 4.8 (0.33) 4.7 (0.33) 3.2 (0.39) 5.0 (0.31) 3.7 (0.32) 3.8 (0.37) 4.76/0.010* 0.04/0.85
+Values are least squares means (SE)
+SBP systolic blood pressure (mmHg), DBP diastolic blood pressure (mm Hg). Visit 2=post-training; visit 3=3-month follow-up; visit 4=6-month follow-up
+ORIGINAL RESEARCH
+page 406 of 410 TBM
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+contamination, that is, students in separate classes in
+the intervention groups influencing the CTL group
+and vice versa. This contamination is considered
+“random error" that may dilute the treatment effect
+resulting in more conservative findings. This problem of contamination was minimized in the current
+study by randomly assigning the classes to treatment
+and randomly assigning subjects from within each
+class to WLS training or a credible health education
+CTL condition. This gave each student an equal
+opportunity to expect to be improved in the
+variables of interest, making the current findings a
+conservative estimate of the benefits of WLS
+training compared to an absolute (no treatment)
+CTL. In the current design, schools were chosen
+and classes within schools received the WLS and
+CTL workshops on a randomly selected basis.
+During each year, only one school was involved.
+This further reduced potential confounding effects,
+e.g., the impact of socioeconomic factors, class
+environments, and differences in numbers of behavior problems. The reduced anger-in and anxiety and
+increased anger control in the WLS group have the
+potential to produce secondary benefit in other
+realms among high school students, ranging from
+decreased rates of depression and substance abuse
+disorder [37] to reduced violent behavior and
+improved academic performance. Another behavioral approach to stress reduction, meditation, was
+associated with improved school-related behavior
+and performance [38].
+Essential hypertension (EH) is a clinically significant problem, particularly in the African American
+population and has its origins in childhood [1].
+Widespread training of WLS in adolescents may
+have beneficial impact upon the incidence of EH
+and related health problems. This program teaches
+skills that are transferable to all domains of adolescents' lives, enhancing decision-making and coping
+skills in a vulnerable population. The current
+finding of a significantly larger decrease in daytime
+DBP following WLS training across the 6-month
+follow-up among those students with higher baseline
+SBP makes a strong case for conducting a clinical
+trial in a larger sample of adolescents with elevated
+BP.
+13.5
+14
+14.5
+15
+15.5
+16
+16.5
+Visit 2 Visit 3 Visit 4
+Control
+WLS
+Group x Visit, P=0.05
+Fig 2 | Anger-in scores visits 2–4, adjusted for visit 1
+20
+20.5
+21
+21.5
+22
+22.5
+23
+23.5
+Visit 2 Visit 3 Visit 4
+Control
+WLS
+Group x Visit, P=0.02
+Fig 3 | Anger control scores visits 2–4, adjusted for visit 1
+ORIGINAL RESEARCH
+TBM page 407 of 410
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+The findings have implications for school entities
+wishing to develop prevention programs, via stress
+and anger management, as well as emotional
+wellness training. The present study shows that
+WLS training can feasibly be delivered in the school
+setting by trained school teachers. This project
+developed a standardized behavior skills training
+program based on facilitator training curriculum
+material developed over the past decade. Materials
+developed for this program can be made available
+from WLS to other investigators for research
+purposes. Many behavioral treatment strategies are
+difficult to disseminate because of financial costs
+and/or difficulties and expense in training teachers
+and integrating them into large group settings such
+as school systems. The present study demonstrates
+that school teachers can be trained to conduct the
+WLS workshop and implement the program successfully in the real-world school setting, suggesting
+that the WLS program can feasibly be implemented
+within school systems.
+There are several significant and unique aspects of
+this study, first and foremost, being the specific
+behavioral stress management program selected.
+The WLS program has been demonstrated to be
+easily and inexpensively implemented as part of a
+school health curriculum. The ninth grade curriculum in the State of Georgia mandates a study of
+Health and Safety for one semester, making inclusion of the program easier to justify for approval by
+the schools. A second feature of this study is the focus
+on the dynamic regulation of BP rather than reliance
+solely on casual BP by examining the effects of the
+intervention on BP changes that occur over 24 h via
+ambulatory BP monitors. Thirdly, the study extends
+behavioral stress reduction to the adolescent population. The study of this group is important for at least
+three reasons. (1) It provides an opportunity to
+examine the effectiveness of a non-pharmacological
+intervention on BP reduction prior to the potentially
+confounding influences of sustained elevated BP that
+adversely affects the functioning of the organ systems
+0
+1
+2
+3
+4
+5
+6
+Visit 2 Visit 3 Visit 4
+Control
+WLS
+Group x Visit, P=0.01
+Fig 4 | Anxiety scores visits 2–4, adjusted for visit 1
+69
+70
+71
+72
+73
+74
+75
+76
+77
+Visit 2 Visit 3 Visit 4
+Control
+WLS
+Group Main Effect
+Across Visits, P=0.04
+Fig 5 | Daytime diastolic blood pressure (high BP group) visits 2–4, adjusted for visit 1
+ORIGINAL RESEARCH
+page 408 of 410 TBM
+Downloaded from https://academic.oup.com/tbm/article/2/4/401/4563050 by Johannes F.G. Vliegenthart user on 03 May 2025
+later on in life [39]. (2) Epidemiological studies indicate
+that BP percentile rankings for age and sex tend to
+track from late childhood through adolescence into
+adulthood [40
+, 41]. With adolescents, it is possible to
+study preventive strategies at a time when such
+interventions may still be effective prior to development of pathology. (3) The prevention of EH in
+pediatric patients has not been a high priority, and as
+a result, little is known about the factors underlying
+pediatric EH. Therefore, given that BP in our youth is
+increasing at an alarming rate, the prevention of EH
+and its consequences in the pediatric population
+pioneered at the Georgia Prevention Institute, has
+become an important area of investigation [42].
+Prevention of EH prior to the onset of target organ
+damage would be highly cost-effective [43].
+The ultimate importance of this study lies in the
+concept that a BP-reducing intervention imbedded in
+the school curriculum could potentially have an
+enormous impact on public health. Even a small
+downward shift in the BP distribution among youth
+could substantially reduce the risk of EH and related
+CVD risk over the long term and thereby have a great
+public health impact on the number of CHD and
+stroke events prevented over time [
+1
+, 41
+, 44]. The
+findings are important in showing that prevention of
+EH and subsequent CV risk in an at-risk population
+has the potential to be implemented on a large scale. If
+con
+firmed in further trials, the reduced anger-in and
+anxiety and increased anger control over the follow-up
+period in students receiving WLS training could have
+the added bene
+fit of improved mental health and
+academic performance and reduced violence.

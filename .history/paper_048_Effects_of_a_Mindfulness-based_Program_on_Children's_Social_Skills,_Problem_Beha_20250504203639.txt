@@ -1,0 +1,550 @@
+Abstract
+In studies conducted on the early childhood years in recent years, there has been an increase in the number of mindfulness-based practces in the development of
+mental and physical health. Mindfulness is used to develop awareness-related skills such as atenton, concentraton, emoton regulaton, and metacogniton that
+improve self-regulaton while children are aware of their experiences. In the current study, the literature was reviewed with 17 studies published between 2010 and
+2022 on the efectveness of mindfulness in the self-regulaton skills of children aged 3–7. The reviewed studies were analyzed with the content analysis technique,
+and the fndings were presented in themes and codes. As a result of the research, 17 studies have demonstrated that mindfulness improves children’s self-regulaton
+skills and reduces negatve emotons and behavior. The studies have demonstrated that frequent use of mindfulness training in early childhood supports children’s
+skills such as positve social behavior, empathy, prosocial behavior, executve functon, and emoton management and is associated with higher levels of emoton,
+thought, and behavior regulaton skills. Considering the data obtained from the results, it benefts teachers and educators to make mindfulness-based programs common for children’s emoton, atenton, and behavior regulaton from an early age. Potental aspects for further research were also discussed.
+Keywords: Awareness training, content analysis, early childhood, mindfulness, self-regulaton
+Introduction
+Early childhood may take time for children to learn to cope
+with their emotions and thoughts. Problems in regulation skills,
+such as impulsive actions, inadequate attention control, and inability to control emotions, are frequently experienced among young
+children (Akman et al., 2008). However, it is expected that each
+individual has the skills to manage his/her emotions and behavior.
+Self-regulation is defned as the ability of children to control their
+emotions, behaviors, and desires, to delay or suppress them when
+necessary, to use their attention appropriately, and to obey the rules
+(Aydın & Ulutas, 2017). Children, who interact with their environment, gain some experiences and can direct their internal thought
+processes and external behavior to reach the goals they have set with
+these experiences (Bronson, 2019). Self-regulation is the ability to
+control thoughts, behaviors, actions, and attention in this process
+(McClelland & Cameron, 2012). In other words, self-regulation is
+individuals’ recognizing the environment they are in, regulating their
+behavior in accordance with the goal they have set to adapt to the
+environment they are in, determining how to communicate with their
+environment to achieve their goal, and having self-awareness (Cleary
+& Zimmerman, 2004). Self-regulation is the ability to control one’s
+emotions, body, and attention to perform one’s functions and achieve
+well-being. Self-regulation skills, which start to develop at an early
+age and afect the development of the child in many aspects, develop
+rapidly in the preschool period (Aksoy & Tozluduman Yaralı, 2017;
+Erol & İvrendi, 2018).
+Self-regulation, which develops in early childhood, is an important skill afecting children’s future lives (Karreman et al., 2006;
+McClelland & Cameron, 2012). It has been determined that children
+who have developed self-regulation skills are more successful in academic felds, adapt more easily to new situations they face, and adapt
+more easily to other children in processing, storing, and evaluating
+information (Şepitci, 2018). It has been stated that children with high
+self-regulation skills are less anxious about events than other children
+(Erkan & Sop, 2018). They are less depressed, more aware of how to
+cope with stressful events they experience, and how they will behave
+in situations that form a source of stress in the future (Buckner et al.,
+2009). Also, it is seen that children with self-regulation have the skills
+to initiate, maintain, and end a situation, event, or action in a planned
+way, and they are individuals with strong interpersonal relationships
+because they can adapt more quickly when they face diferent situations
+and people (Bernier et al., 2010). Young children have a high potential to experience social and academic problems such as low levels of
+self-regulation, negative behavior (e.g., aggression, impulsive behavior,
+challenge), negative attitude towards school, peer rejection or exclusion (Montroy et al., 2016), poor school readiness and sense of selfesteem (Aras, 2015; McClelland et al., 2013), difculties in managing
+stress (Beauregard et al., 2006). Supporting children with undeveloped
+self-regulation positively afects their future academic achievement and
+social competence (Aksoy & Tozduman Yaralı, 2017; Aras, 2015).
+A healthy self-regulation process is of great importance for children
+to become healthy individuals. Considering that self-regulation skills
+Received: February 15, 2023
+Revision Requested: July 16, 2023
+Accepted: October 27, 2023
+This work is licensed under a Creatve Commons Atributon-NonCommercial 4.0 Internatonal License
+Available online at htps://hayefournal.org
+Sop and Hançer. Efects of Mindfulness-Based Practces on Children’s Self-Regulaton
+67
+are thinkable, learnable, and controllable, external support is needed to
+support these skills (Çiltaş, 2011). For this reason, it is very important
+to prepare appropriate environments and opportunities for children to
+gain these skills during this period (McClelland & Cameron, 2012).
+Preschool education is the most appropriate and efective environment for children to develop self-regulation skills and acquire positive
+social-emotional behaviors and skills. For this reason, there is a need
+for systematic and planned educational programs that enable children
+to acquire and develop these skills from the preschool period (Liman
+& Tepeli, 2017).
+Mindfulness-Based Practices
+Mindfulness is the practice of paying attention to young children in
+a very special way. To some extent, it teaches children to develop an
+awareness of themselves, others, and their environment. Mindfulness
+practices, which are beginning to be a trend in school settings, are an
+approach often referred to as mindfulness-based stress reduction (or
+MBSR). It has emerged as a scientifcally researched approach related
+to Buddhist practices built by Jon Kabat-Zinn in the late 1970s (Burke,
+2009; Flores, 2016). Several programs exist that use mindfulness, such
+as MBSR, mindfulness-based cognitive therapy, dialectical behavior therapy, and acceptance and commitment therapy (Burke, 2009).
+These interventions usually include techniques such as breathing exercises, body scanning, meditation, and attention control (Davidson,
+2010). The MBSR program can be used as a supportive, preventive,
+complementary method or as a method on its own. Integrating this
+capacity into our daily lives provides a resource that can be benefcial
+while intensely struggling with bodily symptoms and difcult emotions. Stress is used to cope with challenging situations and emotions
+(Mindfulness Institute, 2022). Limited information is available on the
+efects of stress, arousal, and anxiety on young children’s ability to
+control their behavior. Mindfulness-based approaches can support the
+development of self-regulation by planning age-appropriate activities
+that will enable children to think about their experiences while reducing anxiety and stress (Zelazo & Lyons, 2012).
+Mindfulness is defned as being aware of one’s thoughts and actions
+at the moment (Lawlor et al., 2014). Kabat-Zinn (2003) defned it as
+the state of awareness by paying attention to the emergence of the
+experience by focusing on the present moment. Mindfulness requires
+only paying attention and seeing things as they are, not trying to change
+things (Kabat-Zinn, 2003). Mindfulness training is a way to help children in early childhood to focus their attention, direct their attention,
+regulate their behavior, and establish meaningful interpersonal relationships by being aware of their feelings and thoughts (Atalay, 2020).
+The four main components behind mindfulness practice are the change
+in attention regulation, awareness of emotions, body awareness, and
+self-view (Tang et al., 2015). In mindfulness practices, high-level
+thinking skills such as reasoning, problem-solving, and planning are
+also developed in addition to using inhibitory control, working memory, and cognitive fexibility skills, which are the main components of
+executive function skills (Thierry et al., 2016).
+In recent years, studies on preschool children have shown an
+increase in the number of mindfulness-based practices that teach awareness skills to increase children’s psychological health and well-being.
+Although there has been an increasing interest in practices with children and adolescents with the emergence of a small group of research
+literature, interventions and research have been conducted mostly in
+adult populations (Burke, 2009). Programs prepared for adults have
+been adapted to the ages and development of children, and mindfulness
+interventions for children have started to be included in the literature
+(Bockmann & Yu, 2022). In the last decade, although limited, studies
+on mindfulness have shown that mindfulness-based programs can afect
+the well-being and learning of preschool children (Erwin et al., 2017).
+The preschool period is considered a critical period for children’s
+self-regulation development. It shows that mindfulness-based practices in children’s self-regulation development provide cognitive and
+emotional awareness, reduce distraction and cognitive rigidity, and
+allow for the deliberate regulation of behavior, attention, and emotion (Zelazo & Lyons, 2012). Studies have found that the inclusion
+of mindfulness-based training programs in school environments positively afects children’s self-regulation (Viglas, 2015; Zimmerman,
+2018), provides cognitive control and personal relaxation (SchonertReichl et al., 2015), reduces problem behaviors, and supports emotion
+regulation (Willenbrink, 2018; Yıldızhan, 2019) and executive function skills (Lertladaluck et al., 2021). Many studies (Janz et al., 2019;
+Zelazo & Lyons, 2012) and systematic screening, and meta-analytical
+studies (Maynard et al., 2017; Zenner et al., 2014) reporting the efectiveness of mindfulness programs placed in educational environments
+prove that teachers are more efective when they are involved in the
+process rather than acting as external experts.
+In the present study, the research results of the studies conducted
+in the last 12 years investigating the efectiveness of mindfulnessbased practices in the self-regulation of early childhood children were
+reviewed. This study focuses on the results of mindfulness-based practices and research conducted with children between 3 and 7 in Turkey
+and the world. The distributions of the studies conducted between 2010
+and 2022 were examined by considering the publication years, methods, data collection tools, and fndings. In this context, an answer was
+sought to the question, “What is the efect of mindfulness-based practices on the self-regulation of children in early childhood?” In addition,
+answers were sought for the following sub-problems: (a) What is the
+efect of mindfulness-based practices on the emotional regulation skills
+of preschool children? (b) What is mindfulness-based practices’ efect
+on preschool children’s cognitive regulation skills? Finally, (c) What is
+the efect of mindfulness-based practices on behavior regulation skills
+of children in early childhood?
+Methods
+In this study, a systematic review methodology was conducted in
+the international literature, which examines empirical studies refecting
+the efects of mindfulness-based practices on children’s self-regulation
+skills in early childhood. Systematic literature reviews are the structured and comprehensive syntheses of a large number of studies conducted with similar methods to determine the best research evidence
+that can be obtained by experts in the feld (Karaçam, 2013).
+Selection of Studies and Search Terms
+In the study, databases were scanned using self-regulation, mindfulness, awareness, early childhood, kindergarten, and young children
+keywords. Forty-fve studies were reached between 2010 and 2022.
+Twenty-eight of the 45 articles that did not meet the inclusion criteria
+were not included within the scope of the study. As a result, 17 studies
+that met the inclusion criteria within the scope of the research were
+included in the research focus. A total of 17 publications, two from the
+Web of Science database, fve from the PubMed database, seven from
+the Springer database, two from the Eric (The Education Resource
+Information Center) database, and one from the EBSCOhost database,
+were examined within the scope of the research.
+Some criteria were determined for the studies included in the current study:
+1. All empirical studies, including cross-sectional studies and longitudinal studies, were included in the research. Systematic review
+and meta-analysis studies were excluded.
+HAYEF: JOURNAL of EDUCATION
+68
+2. In the studies included in the study, the age of the children in the
+primary sample group was limited to 3–7 years. As the second
+sample group, the parents or teachers of children aged 3–7 were
+also considered within the sample.
+3. Studies with the English and Turkish language are included in the
+article.
+4. Studies published in peer-reviewed journals between 2010 and
+2022 were included in the research.
+Data Analysis
+Content analysis was used in the analysis of the selected documents.
+Content analysis is the systematic process used to describe the content and prepared by the researcher through coding and cataloging to
+evaluate documents (Merriam, 2018). In order to categorize the studies
+included in the current study and to prepare codes, examinations were
+made and a “research review form” was developed by the researchers.
+In line with this form developed, coding related to the study design,
+sample, number of participants, data collection tools, and research
+results were categorized. Studies categorized by content analysis were
+grouped into themes and presented in tables. Studies meeting the inclusion criteria were coded by two independent coders. Then, the coders
+met and decided on the fnal status of the themes and sub-themes. For
+the reliability calculation of the study, the reliability formula proposed
+by Miles and Huberman (1994) was used: Reliability=Consensus/
+(Consensus+Disagreement). According to Miles and Huberman
+(1994), the consensus among the coders, which is stated as internal
+consistency, is expected to be at least 80%. In line with the result
+obtained, the reliability of the study was found to be 87%.
+Results
+In this part of the study, the fndings of the research were included
+to examine the research on mindfulness-based practices in the self-regulation of children aged 3–7 years; the targeted self-regulation skills,
+data collection tools, and their distribution according to the descriptive
+fndings for the model are presented in the studies included in the study.
+Information about the publication years and focuses of the studies
+examined in the study is presented in Table 1.
+In the examination of Table 1, it is seen that there are mindfulnessbased practices on children’s self-regulation skills. These studies were
+mostly conducted in 2013 and 2015 (n=5). Nine studies investigated
+the efect on children’s emotion regulation skills, 11 examined the
+efect on behavior regulation skills, and 16 studied the efect on cognitive regulation skills.
+The data on the patterns used in the studies examined are given in
+Table 2.
+In examining the patterns used in the 17 studies, it was determined
+that the most used research pattern was screening (n=11). The second
+design mostly used in the studies was the quasi-experimental design
+(n=4).
+Information on the data collection tools used in 17 studies included
+in the study is presented in Table 3.
+As seen in Table 3, the efect of mindfulness-based practices on
+children’s self-regulation skills was examined using evaluation, rating
+and observation forms, questionnaires, interviews and observations,
+and direct performance-based scales in all studies. At the same time,
+it was determined that the researchers used more than one data collection tool to measure the diferent skills of the studies. It is seen in the
+examination of Table 3 that the most frequently used data collection
+tool in the studies is the scale (n=15). The observation was used in
+seven studies, a questionnaire was used in six studies, an interview
+was used in three studies, an evaluation form was used in two studies,
+a rating form was used in one study, and an observation form was used
+in one study.
+The data on the sample size of the studies are presented in Table 4.
+In examining the data on the sample size of the studies, it is seen
+that most of the studies (n=10) include small samples. It was determined that there were ten studies with a sample size of 20–60, three
+studies with a sample size of 60–100, one study with a sample size of
+100–150, one study with a sample size of 150–200, and two studies
+with a sample size of 200 and above.
+Figure 1 shows that children’s self-regulation skills of mindfulnessbased practices are categorized into three sub-dimensions.
+Within the scope of the study, three themes related to the targeted
+self-regulation skills were formed. These themes were determined as
+emotion regulation, behavior regulation, and cognitive regulation. Subthemes were prepared for each theme determined. Findings regarding
+the themes and sub-themes examined within the scope of the research
+are presented below.
+Table 5 summarizes the information about the sub-themes and publication codes formed under the theme of emotion regulation.
+Table 1.
+Publication Years and Focuses of the Research Studies
+Author/Publication
+Year
+Publication
+Code
+Study Focus
+Emotion
+Regulation
+Behavior
+Regulation
+Cognitive
+Regulation
+Razza, Bergen-Cico &
+Raymond (2013)
+M1 x
+Flook et al., (2015) M2 x x
+Thierry et al., (2016) M3 x x x
+Lim & Qu (2016) M4 x
+Poelhmann-Tynan
+et al. (2016)
+M5 x x x
+Viglas & Perlman
+(2017)
+M6 x x
+Moreno-Gómez and
+Cejudo (2019)
+M7 x x
+Lemberger-Truelove
+et al. (2018)
+M8 x x
+Wood et al. (2018) M9 x x
+Leyland et al. (2018) M10 x x
+Zelazo et al. (2018) M11 x x
+Janz et al. (2019) M12 x x x
+Berti & Cigala (2020) M13 x x x
+Crooks et al. (2020) M14 x x x
+Who et al. (2020) M15 x x
+Lertladaluck et al.
+(2021)
+M16 x
+Xie et al. (2022) M17 x x
+Table 2.
+Distribution of the Studies According to Research Pattern
+Pattern Used in the Study n Publication Codes
+Survey 10 M2, M4, M7, M8, M9, M10, M11, M15
+Quasi-experimental 4 M5, M6, M13
+Experimental 1 M12, M14, M16, M17
+Cross-sectional research 1 M1
+Longitudinal 1 M3
+Sop and Hançer. Efects of Mindfulness-Based Practces on Children’s Self-Regulaton
+69
+In Table 5, the results of the studies (n=10) examining the efect of
+mindfulness-based practices on children’s emotion regulation skills are
+coded as sub-themes. Five sub-themes were formed under the theme of
+emotion regulation. Studies were mostly conducted on the sub-theme
+of coping with undesired emotions (n=5) and understanding emotions
+(n=5). In general, studies have revealed that mindfulness-based programs increase children’s emotional awareness and develop emotional
+control and empathy skills. For example, in the study coded M15, it
+was determined that the children in the experimental group were better
+at emotion regulation, resilience, and positive social behaviors compared to the control group by the efect of OpenMind-Korea, a conscious mindfulness-based social and emotional learning program (Kim
+et al., 2020). In the study coded M5, Poelhmann-Tynan et al. (2016)
+stated that children’s empathy skills improved positively in line with
+the fndings obtained as a result of the pilot application of mindfulnessbased preschool activities. Thierry et al. (2016) found that students
+who had the MindUP curriculum showed more improvement in social
+and emotional competencies (e.g., empathy, emotional control, optimism, and positive social behaviors) compared to those in the control
+groups (M3). The results of this study show that mindfulness practices
+support children’s emotion regulation skills.
+Information on the sub-themes and publication codes formed under
+the theme of behavior regulation is shown in Table 6.
+In the examination of Table 6, 11 studies examining the efect of
+mindfulness-based practices on children’s behavior regulation skills
+(M3, M5, M6, M7, M8, M9, M10, M12, M13, M14, M15) were found.
+Seven sub-themes were formed under the theme of behavior regulation. Two studies addressing the sub-theme of delay of gratifcation,
+two studies addressing the efortful control sub-theme, two studies
+addressing the inhibitory control sub-theme, four studies addressing
+the impulse control sub-theme, one study addressing the impulsivity
+sub-theme, two studies addressing the experience orientation subtheme, and seven studies addressing the prosocial behavior sub-theme
+were identifed. In the examination of the results of the study, it was
+determined that mindfulness-based programs improved children’s
+self-controlled behavior, positive social behavior development, delay
+of gratifcation, impulse control, and inhibitory control skills. For
+example, in the study coded M1 by Razza, Bergen-Cico, and Raymond
+(2013), it was determined that the children in the experimental group in
+the mindfulness yoga program showed improvement in terms of delay
+of gratifcation, attention, and inhibitory control. In the study coded
+M15, Kim et al. (2020) observed that OpenMind-Korea, a conscious
+mindfulness-based social and emotional learning program, improved
+the positive social behaviors of children. In the study coded M7,
+Moreno-Gómez and Cejudo (2018) stated that a social and emotional
+learning program (MindKinder) reduced the aggressive, hyperactive,
+and destructive behaviors of children. In the study coded M6, Viglas
+& Perlman (2017) found that the self-awareness-based education program improved the prosocial behaviors of their children and reduced
+their hyperactivity. The study showed that mindfulness-based practices
+positively afect children’s behavior regulation skills.
+Table 7 summarizes the information about the sub-themes and publication codes formed under the theme of cognitive regulation.
+In the examination of Table 7, the efect of mindfulness-based
+programs on children’s cognitive regulation skills is categorized into
+six sub-themes. It was determined that ten studies addressed the subtheme of attention regulation, seven studies addressed the sub-theme
+of executive functions, four studies addressed the sub-theme of functioning memory, two studies addressing the sub-theme of executive
+attention, one study addressing the sub-theme of thought awareness,
+and one study addressing the sub-theme of academic performance. The
+results of the study showed that mindfulness-based practices positively
+afect children’s cognitive regulation skills. In the examination of the
+studies, Flook, Goldberg et al. (2015) observed that the MindfulnessBased Kindness Curriculum increased the executive function and
+Table 3.
+Distribution of Studies According to Data Collection Tools Used
+Data Collection Tools n Publication Codes
+Scale 14 M2, M3, M4, M6, M7, M8, M9, M10, M11,
+M12, M14, M15, M16, M17
+Observation 7 M1, M2, M3, M6, M8, M13, M14
+Survey 6 M1, M5, M7, M12, M15, M17
+Interview 3 M4, M5, M13
+Evaluation Form 2 M11, M16
+Rating Form 1 M14
+Observation Form 1 M10
+Table 4.
+Findings Regarding the Sample Size of the Studies
+Sample Size n Publication Codes
+20-60 Children 10 M3, M4, M5, M6, M7, M8, M12, M13, M14, M17
+60-100 Children 3 M2, M10, M11
+100-150 Children 1 M1
+150-200 Children 1 M15
+>200 Children 2 M9, M16
+Mindfulness -
+based practices
+The effect on
+children's
+emotion
+regulation skills
+The effect on
+children's
+behavior
+regulation skills
+The effect on
+children's
+cognitive
+regulation skills
+Figure 1.
+Themes and Sub-Themes.
+Table 5.
+The Efect of Mindfulness-Based Practices on Children’s Emotion Regulation Skills
+Theme Sub-Themes n Publication Code
+Emotion regulation Ability to cope with undesired emotions 5 M3, M11, M12, M14, M15
+Understanding emotions 5 M3, M5, M13, M15, M17
+Being able to accept and tolerate emotions 3 M2, M12, M15
+Being able to support oneself and change emotions when necessary 3 M13, M15, M17
+Self-acceptance and self-love 1 M5
+HAYEF: JOURNAL of EDUCATION
+70
+cognitive fexibility skills of children in the study coded M2. In the
+study coded M3, Thierry et al. (2016) stated that the mindfulness-based
+education program improved children’s executive function skills and
+positively afected their cognitive self-regulation. In the study coded
+M1, Razza, Bergen-Cico & Raymond (2013) found that the attention
+skills of the children in the intervention group improved in the mindful yoga program. In the study coded M12, Janz et al. (2019) stated
+that mindfulness-based interventions improve children’s executive
+function and attention skills. In the study coded M16, Lertladaluck,
+Suppalarkbunlue et al. (2021) stated that a school-based mindfulness
+program increases the working memory performance of children. All
+these studies show that mindfulness practices with young children have
+the potential to support the development of cognitive self-regulation
+by promoting mindfulness, cognitive fexibility, inhibitory control, and
+executive functions.
+Discussion
+In this study, the studies examining the efects of mindfulness-based
+practices in early childhood, which have attracted attention in recent
+years and become the subject of more research studies, on children’s
+self-regulation have been analyzed through content analysis.
+In the examination of the distribution of the studies by years, it is
+noteworthy that only two studies were conducted between 2010 and
+2015 on the subject, and it was determined that the most studies on the
+subject were conducted in 2018. Since mindfulness is a relatively new
+phenomenon, there has been limited research on its presence in early
+childhood environments and its efects on very young children, educators, and families (Flores, 2016). Mindfulness-based programs, which
+aim to provide children with exactly the skills they need to develop a
+greater sense of emotional understanding and self-regulation, even in
+early childhood, present important clues showing that there has been a
+growing interest in recent years. It is important to emphasize the positive aspects of bringing these practices into the classroom environment,
+as encouraging mindfulness in early childhood reveals many positive
+results, especially for self-regulation development.
+Various limitations were identifed in the studies examined. In the
+examination of the national literature, it was determined that the concept
+of mindfulness, which has been studied for about 10 years, is mostly
+used in education and psychology, and no research examining the efect
+of mindfulness-based practices on children’s self-regulation in early
+childhood was found. In the international literature, it is noteworthy
+that there are few studies examining the efect of mindfulness-based
+education practices on children’s self-regulation. Although there has
+been an increasing interest in mindfulness-based practices in Türkiye
+in recent years, preliminary studies on the subject limit our comparison
+of the results obtained. One of these limitations is related to the sample
+size of the studies. In the examination of the studies, the sample size
+of only fve includes more than 100 participants (Crooks et al., 2020;
+Leyland et al., 2018; Lim & Qu, 2017; Viglas & Perlman, 2017; Zelazo
+et al., 2018). It is important to ensure that programs that can be integrated into the classroom environment reach larger groups of children
+by supporting them with teacher training. Li-Grining et al. (2020), in
+their pilot study on the integration of classroom practices of mindfulness interventions, stated that teachers participating in training found
+the awareness program applicable, while mindfulness techniques have
+the potential to be included in the fow of daily life. It is also benefcial
+to expand training to include parents to encourage more generalization
+beyond the classroom environment.
+The results obtained from the studies examined showed that
+mindfulness-based practices improved children’s cognitive regulation
+skills, academic performance, emotional and behavioral regulation,
+and reduced outward behavioral problems. Studies have reported that
+mindfulness-based practices mostly support children’s sub-skills for
+coping with undesired emotions and understanding emotions on emotion regulation skills. In the examination of the studies, it is concluded
+that mindfulness-based training programs improve children’s ability to
+cope with undesired emotions and negative afect (Crooks et al., 2020;
+Janz et al., 2019; Kim et al., 2020; Thierry et al., 2016; Zelazo et al.,
+2018). The ability to cope with undesired emotions enables children to
+develop a positive and healthy mental health and emotional cognition
+(Bridges et al., 2004). It can support them in regulating negative emotions in positive emotions and stressful situations, coping with them
+in socially appropriate ways, and achieving their goals (Shin et al.,
+2023). Studies have found that mindfulness-based practices improve
+children’s ability to understand emotions (Berti & Cigala, 2020; Kim
+et al., 2020; Poelhmann-Tynan et al., 2016; Thierry et al., 2016; Xie
+et al., 2021). In their study, Kim et al. (2020) stated that young children (3 years old) scored lower in meditation and mindfulness-based
+activities. Understanding emotions is a second important element of
+emotional skills, and experiences have a very important place in the
+development of the ability to understand emotions, and individuals
+can learn which emotion to form within events through their experiences (Sroufe, 1997). Understanding emotions, empathizing, or coping
+with emotions requires a certain cognitive maturity; incorporating the
+practice into daily routines and doing repetitive studies is the key to
+improving awareness.
+In the studies examined, it was found that mindfulness-based programs mostly focused on prosocial behavior and impulse control subskills in children’s behavior regulation skills. Prosocial behaviors are
+social behaviors such as sharing, cooperating, and helping voluntarily
+for the beneft of someone else and are the building blocks of children’s
+development (Eisenberg et al., 2015; Sylva et al., 2020). The level of
+self-regulation plays an important role in the development of prosocial behavior in early childhood. In the examination of the research
+studies, it has been revealed that mindfulness-based practices increase
+the development of children’s prosocial behaviors (Berti & Cigala,
+2020; Kim et al., 2020; Leyland et al., 2018; Poelhmann-Tynan et al.,
+2016; Viglas & Perlman, 2017; Wood et al., 2018; Thierry et al., 2016).
+Table 6.
+The Efect of Mindfulness-Based Practices on Children’s Behavior Regulation
+Skills
+Theme Sub-Themes n Publication Code
+Behavior
+regulation
+Prosocial behavior 7 M3, M5, M6, M9, M10,
+M13, M15
+Impulse control 4 M6, M7, M12, M14
+Delay of gratifcation 2 M6, M12
+Efortful control 2 M12, M10
+Inhibitory control 2 M10, M14
+Experience orientation 2 M8, M9
+Impulsivity 1 M6
+Table 7.
+The Efect of Mindfulness-Based Programs on Children’s Cognitive
+Regulation Skills
+Theme Sub-Themes n Publication Code
+Cognitive
+regulation
+Attention regulation 10 M1, M2, M4, M6, M7,
+M8, M9, M11, M12, M14
+Executive functions 7 M2, M3, M5, M7, M9,
+M10, M14
+Working memory 4 M9, M13, M16, M17
+Executive attention 2 M11, M12
+Thought awareness 1 M13
+Academic
+performance
+1 M7
+Sop and Hançer. Efects of Mindfulness-Based Practces on Children’s Self-Regulaton
+71
+Children’s self-regulation skills have been associated with better sociability (Spinrad et al., 2007) and less extroverted behavioral problems
+(Haskett et al., 2012). Impulse control is the ability to inhibit the primary response to exhibit secondary dominant behavior. Impulse control contributes to regulating children’s behavior. The studies examined
+revealed that mindfulness-based practices positively support children’s
+impulse control skills (Crooks et al., 2020; Janz et al., 2019; MorenoGómez and Cejudo, 2019; Viglas & Perlman, 2017). Children who
+come to school with impulse control skills can make it easier to sit still,
+pay attention, remember and follow the rules, wait for their turn, and
+fexibly evaluate new ideas (Zelazo et al., 2018). Opportunities can be
+provided for children who have problems coping with stressful situations or suppressing their impulses to access short-term mindfulnessbased interventions so that they can start primary school appropriately.
+It has been determined that the focus of mindfulness-based education practices in children’s cognitive regulation skills is attention regulation and executive function skills. Attention is the ability to regulate
+behaviors in the face of a certain situation and constitutes a large part
+of self-regulation (Rueda et al., 2011). In the studies examined in
+the present study, children were asked to pay attention to their bodies, breath, sensations, and emotions in mindfulness-based practices.
+When children are asked to focus their attention by noticing the factors
+that distract them when they are distracted, it has been determined that
+their working memory improves by keeping in mind the instructions
+given to children (Flook et al., 2015; Janz et al., 2019; Lertladaluck
+et al., 2021; Viglas & Pearlman, 2017; Zelazo et al., 2018). An important part of the attention regulation process is the emphasis on executive functions in the relevant literature. Executive functions refer to
+cognitive processes such as attention, functioning memory, inhibitory
+control skills, and their efects on planning, problem solving, and goaloriented actions (Miyake et al., 2000; Willoughby et al., 2012). The
+results obtained from the studies demonstrated that mindfulness-based
+practices improve children’s attention regulation skills (Crooks et al.,
+2020; Flook et al., 2015; Janz et al., 2019; Lemberger-Truelove et al.,
+2018; Lim & Qu, 2017; Moreno-Gómez & Cejudo, 2019; Razza et al.,
+2013; Viglas & Perlman, 2017; Wood et al., 2018; Zelazo et al., 2018)
+and positively afect executive function skills (Crooks et al., 2020;
+Flook et al., 2015; Leyland et al., 2018; Moreno-Gómez & Cejudo,
+2019; Poelhmann-Tynan et al., 2016; Thierry et al., 2016; Wood et al.,
+2018). The fact that executive functions can develop at a signifcant
+level thanks to behavioral and neural fexibility in early childhood
+makes mindfulness practices possible in this age period (Diamond &
+Lee, 2011).
+Conclusion and Recommendations
+The results of the present study revealed the importance of mindfulness-based programs in developing children’s self-regulation.
+Also, the studies examined provided important results that mindfulness-based training practices can be successfully applied in early
+childhood. For this reason, in-service training can be provided for
+teachers on mindfulness training so that teachers can become experts
+in this feld. Also, educational seminars can be organized for families
+about mindfulness training and practices, and families can be provided with resources to help children do activities at home. It will
+be benefcial to focus future program development and studies on
+educating teachers about mindfulness, to support generalization outside the school environment by integrating awareness into the daily
+program and classroom activities, and to provide mindfulness-based
+training to parents. The results of this review suggest that teaching
+mindfulness practices to young children and their caregivers can
+support young children’s self-regulatory development and promote
+socially and emotionally healthy environments in which this development can occur.
+Although the empirical evidence is limited, there may be opportunities for children who have trouble coping with stressful situations
+or suppressing their impulses to access short-term mindfulness-based
+interventions to help them regulate their negative emotions and ensure
+a successful transition to primary school. Studies involving young
+children are very limited in the literature. However, while empirical
+evidence on efectiveness in young children is limited, it is vital to
+advance the feld of empirical research as it is clear that the importance
+of awareness is increasing across all age groups, including children.
+There is a need for new research that includes processes such as making measurements that include appropriate and comprehensive datasets
+and monitoring the results in the long term. Gathering empirically solid
+evidence for the feasibility and acceptability of mindfulness-based programs for children indicates that more studies are needed in the feld.

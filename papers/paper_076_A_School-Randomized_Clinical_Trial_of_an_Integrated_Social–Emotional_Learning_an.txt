@@ -1,0 +1,612 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Research in Innovative Teaching & Learning
+
+ISSN: 2397-7604
+
+Open Access.
+Article publication date: 14 June 2019
+
+Issue publication date: 29 August 2019
+
+The purpose of this paper is to describe the components, structure and theoretical underpinnings of a cognitive remediation intervention that was delivered within a supported education program for mental health survivors.
+
+In total, 21 participants enrolled in the course Strengthening Memory, Concentration and Learning (PREP 1033 at George Brown College (GBC)) with the diagnosis of depression, anxiety, PTSD, ED and substance use disorder were included in the research. After a baseline assessment, participants completed 14 week cognitive remediation training (CRT) protocol that included six essential components that were integrated and implemented within the course structure of the supported education program at GBC. This was followed by a post-training assessment.
+
+Analysis of the participants’ performance on CRT protocol using computerized games showed little significant progress. However, the research found a positive change in the self-esteem of the participants that was statistically significant and the findings also aligned with the social and emotional learning framework.
+
+One of the limitations in the research was the use of computer-assisted cognitive remediation in the form of the HappyNeuron software. The value and relevance of computer assisted needs are to be further examined. It seems that the implementation of the course that explicitly address cognitive challenges creates a supportive environment can be helpful.
+
+Despite the mixed results and the few limitations associated with the CRT intervention reported in the research, the study offers reminders of the complexity of cognitive remediation and all the factors involved that need to be taken into consideration.
+
+This research created explicit space for addressing some of the implicit assumptions about the cognitive abilities when in post-secondary education.
+
+This work is based on author’s previous work on cognitive remediation research within the supported education setting.
+
+Bajwa, J.K., Bajwa, B. and Gula, T. (2019), "Facilitating success for people with mental health issues in a college through cognitive remediation therapy and social and emotional learning", Journal of Research in Innovative Teaching & Learning, Vol. 12 No. 2, pp. 164-182. https://doi.org/10.1108/JRIT-01-2019-0006
+
+Emerald Publishing Limited
+
+Copyright © 2019, Jaswant Kaur Bajwa, Bobby Bajwa and Taras Gula
+
+Published in Journal of Research in Innovative Teaching & Learning. Published by Emerald Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcode
+
+Research evidence indicates that many neuropsychiatric illnesses are associated with dysfunction in prefrontal neural systems that underlie perception, cognition, social interactions, emotion regulation and motivation (e.g. Bush, 2010; Eisenberg and Berman, 2010; Koob and Volkow, 2010; Price and Drevets, 2010). These symptoms, in turn, have a major impact on psychiatric patients’ ability to function socially and vocationally, and their response to psychiatric rehabilitation (McGurk and Mueser, 2004; Miller et al., 2007). Treatments and intervention pertaining to cognitive impairments are often complex and involve the use of mediational tools, social skills, mindfulness-based cognitive interventions and the modeling of empowering strategies. There has been a convergence of evidence that demonstrates that these strategies increase psychological well-being and lead to greater satisfaction with life for adults in clinical settings (Keng et al., 2011); enhance social and emotional competencies; improve pro-social behaviors; and result in better school performance (Durlak et al., 2011). Mindfulness practices enhance one’s ability to observe external factors and internal reactions and fosters the self-control to be able to pause and reflect before taking conscious action. Evidence suggests that mindfulness training with adults can also improve cognitive abilities, such as attention, working memory and inhibitory control (Chiesa et al., 2011).
+
+This paper reports the procedures and outcomes of a cognitive remediation intervention protocol that included offering tangible and practical strategies to cultivate social-emotional skills integrated within a supported education program to facilitate access to post-secondary education and improve quality of life prospects for people with serious with mental health issues. The study builds on and contributes to the growing body of research that attests to the efficacy of cognitive remediation training (CRT) for specific populations.
+
+CRT represents a learning-based, non-pharmacological intervention aimed at achieving improvements in cognition and/or the self-management (Saperstein and Kurtz, 2013) that can been negatively impacted as a result of mental illnesses such as schizophrenia (Cella et al., 2017), bipolar disorder (e.g. Fuentes-Durá et al., 2012), obsessive compulsive disorder (e.g. Buhlmann et al., 2006) and eating disorders (e.g. Tchanturia and Davies, 2010; Dingemans et al., 2014). More broadly defined as “brain training which refers to the engagement in a specific program or activity with the aim to enhance a cognitive skill or general cognitive ability as a result of repetition over a circumscribed timeframe” (Rabipour and Raz, 2012, p. 159). Some of the cognitive domains for training include perceptual discrimination, visual search, recognition, recall and spatial perception (e.g. Kramer et al., 2004). Along with the cognitive training, CRT often focuses on developing strategies that support concentration and attention such as relaxation, personal insight, self-monitoring, motivation and problem-solving (e.g. McDougall, 2000). The ultimate goal of CRT is “generalization to untrained cognitive skills as well as transfer to real-world psychosocial outcomes” (Bryce et al., 2016, p. 92). Many CRT interventions can, therefore, involve “repetitive training exercises (i.e. drill-and-practice), strategic discussions about how to manage cognitive difficulties and how training tasks are relevant to areas of everyday life, or a combination of both” (McGurk et al., 2013). These “bridging activities” (Bowie et al., 2012) and the inclusion of strategies to address individuals’ underlying beliefs and motivation (Medalia and Saperstein, 2011) are essential components of any CRT intervention. Dingemans et al. (2014) further clarified that CRT focuses on changing how patients think and not what they think about, by helping patients develop “flexible styles of thinking,” notably by working on metacognitive strategies. This flexibility leads to the proliferation and refinement of neural connections. The change in thinking or underlying beliefs is facilitated by cognitive behavioral therapy, that is a goal oriented, short term psychosocial intervention that takes a hands-on, practical approach to problem-solving to shift patterns of thinking or behavior to change the way people feel.
+
+It is important to understand that psychosis involves complex interactions between different symptoms and levels of impairment. Understanding these interactions is at the foundation of the CRT approach in working with people with mental health challenges. There is ample evidence in the literature indicating that rehabilitation depends on potential improvements in working memory, reward sensitivity and executive functions such as planning and sequencing of actions to problem-solving (e.g. Cella et al., 2017; Dingemans et al., 2014; Farreny et al., 2013). All these facets of psychosis are acknowledged and systematically addressed in CRT interventions.
+
+Moreover, numerous studies document a negative relationship between psychiatric symptoms and self-esteem (Iqbal et al., 2000; Lysaker et al., 2008; Thewissen et al., 2011). In this regard, CRT has been found to boost patients’ self-esteem, and the self-esteem tends to increase motivation and a general sense of agency (e.g. Østergaard Christensen et al., 2014). In fact, high self-esteem is likely to be a protective factor or a buffer against the effects of negative experiences. High self-esteem contributes to positive social behavior. It is also associated with mental well-being, adjustment, happiness, productivity, coping, success and satisfaction (Baumeister et al., 2003). High self-esteem may also protect against depressive symptoms by decreasing the impact of negative thoughts (Orth et al., 2009).
+
+Similar outcomes are evident using social and emotional learning (SEL) framework within educational settings. SEL is the process of providing students with the opportunity to learn, acquire and practice the social-emotional competencies of self-awareness, self-management, socialawareness, relationship and responsible decision-making skills needed to succeed in life (Greenberg et al., 2003; Osher et al., 2008). It explicitly promotes skill building for improved attitudes and beliefs about self and others, positive social behaviors, enhanced self-esteem, reduced emotional distress, better adjustment and higher grades and academic performance (Durlak et al., 2011; Greenberg et al., 2003) and constructive engagement in learning (Denham et al., 2010).
+
+CRT has been found, in numerous randomized controlled trials, with varied populations to have a positive impact on cognitive and psychosocial functioning (Cella et al., 2017; Fiszdon et al., 2005; Kurtz et al., 2007). For instance, Bryce et al. (2016), in an exhaustive systematic review and meta-analyses of studies on the efficacy of CRT for patients with schizophrenia concluded that the outcome of CRT is generally positive. They specify that “neurocognitive remediation can produce moderate improvements in global cognitive functioning as well as real-world psychosocial functioning” (p. 93), especially if combined with other interventions such as vocational training. Buonocore et al. (2018) pointed out that, while the efficacy of the CRT is now widely accepted by the research community, the durability of its effects and the possibility of generalization of cognitive improvement to functional outcomes are still open to debate. Therefore, they reassessed 60 patients diagnosed with schizophrenia five years after they completed a six-month intervention in which standard rehabilitation was combined with a three-month CRT. They found that the patients’ cognitive abilities remained stable after five years, but the functional performance decreased significantly in patients who did not undergo a follow-up rehabilitation following the initial treatment. The authors recommended that CRT should be consolidated by some form of standard rehabilitation to ensure durable and long-term results. In this regard, Dingemans et al. (2014) noted that, while CRT is distinct from therapies based on environmental modifications (e.g. social-skill training and external compensatory methods), there is value in combining aspects of cognitive training and other types of therapies.
+
+Despite the many positive outcomes listed above, there are many criticisms of using computer assisted CRT with specific populations including children diagnosed with ADHD, people with traumatic brain injury, geriatric population, people with mild cognitive impairments, etc. The field “often rely on claims that are scientifically unsubstantiated” (Rabipour and Raz, 2012) with mixed evidence for real-world benefits. These research studies are fraught with conflicts of interest issues as the commercial companies provide the resources and sponsor the research impeding on their objectivity and compromising the integrity of their research (Rabipour and Raz, 2012). These studies have also been criticized for methodological shortcomings (Simons et al., 2016).
+
+However, based on the research in the last two decades, new insights into neural plasticity have resulted in a revival of these studies resulting in the hypothesis that both structural and functional brain changes may occur after intensive, repeated training (Park and Bischof, 2013). And, the field of cognitive training has also evolved over the years with more customized and intensive approaches that are geared to the individual challenges, adapted to their specific needs with more challenging tasks as they progress, user friendliness in conjunction with the bridging activities that enhance the transferability of these gains.
+
+There is an increase in mental health issues globally. In Canada, one in five Canadian’s experience mental illness or substance use issues (Smetanin et al., 2011). By the time they reach the age of 40, one in two adults have mental health issues (Smetanin et al., 2011). More than half of these adults with mental health issues report the onset of their challenges in childhood or adolescence (Kessler et al., 2005). SEL offers promising practices to counter these challenges by offering a proactive framework that tend to jeopardize young people’s positive development and success in life (Centers for Disease Control and Prevention, 2013). SEL interventions can be offered as universal (to all children and youth), selectively (to children and youth at risk) or as targeted interventions that tend to focus on children or youth who are already displaying signs of mental health problems or who have been diagnosed with mild to moderate mental illness (Higgins and O’Sullivan, 2015; Stockings et al., 2015). SEL involves implementing practices and policies that help students and adults acquire and apply explicit knowledge, skills and attitudes that enhance personal development, social relationships, ethical behavior and effective, productive work (Elias et al., 2015; Greenberg et al., 2003) that are related to enhanced social-emotional well-being, better conflict resolution, reduced substance abuse (CASEL, 2013) and overall mental health and well-being (Humphrey et al., 2013). In addition, a recent meta-analytic study of more than 82 school-based universal intervention evaluations revealed that these positive student outcomes could be sustained over time, supporting the long-term effectiveness of SEL interventions through adult years (Taylor et al., 2017). For those adults with mental health issues transitioning into post-secondary education, SEL fosters internal groundedness, develop strengths and assets that promote their social and emotional well-being.
+
+A feasibility research conducted at George Brown College (GBC) found that CRT can readily be integrated within a supported education setting (Kidd et al., 2012). The students who received CRT found it helpful in improving their concentration and memory. They reported that they practiced and learned strategies that ameliorated the cognitive symptoms of their psychosis and their executive functioning. These findings provided impetus for a randomized control trial (RCT) at GBC in order to examine the effectiveness of a CRT intervention integrated within a supported education curriculum for individuals with psychosis (Kidd et al., 2014). In contrast to the previous work that examined cognitive remediation paired with supported employment (e.g. Hodge et al., 2010; McGurk et al., 2009, 2007) where both treatment and control groups demonstrated improvements in cognitive functioning, there was no evidence in the Kidd et al. (2014) study that cognitive remediation facilitated further functional improvements. This observation was sustained at the four-month follow-up assessment, which suggested that the improved cognitive outcomes observed in the Kidd et al. (2012) pilot study were likely due to participation in an intensive supported education program rather than cognitive remediation alone. In other words, while CRT integrated within a supported education setting demonstrated enhanced outcomes in some areas of functioning and mental health, impacts on cognitive functioning alone were much less clear.
+
+Based on the qualitative reports from the participants on the values of CRT in the pilot and the RCT, a course (Strengthening Memory, Concentration and Learning, PREP 1033) was designed and offered as an elective within the supported education program that was made available to all students, irrespective of their diagnosis. It was designed to offer these students (who typically have a complex history of mental health issues, substance use and cognitive impairment) with the tools and strategies that support recovery and lead to improved quality of life. More specifically, the program targeted skills known to be prerequisites of academic and professional success such prioritizing, multi-tasking, maintaining attention for prolonged periods of time and remembering material presented in a wide range of formats. This was done in conjunction with principles of mindfulness-based cognitive therapy (MBCT). Attention was also paid to boosting students’ self-esteem by creating awareness of their strengths and providing them knowledge of resources they may be able access to overcome the challenges. Thus, the course used: MBCT principles that fosters social-emotional competencies; computer assisted technologies; classroom discussions on strategies to enhance memory, focus, concentration, retention, attention and thinking; bridging activities to allow transferability and application of these to other life and school situations; and metacognitive training.
+
+The paper aims to answer the overarching research question:
+
+What impact does CRT course within a supported education program have on the participants’ self-esteem, academic performance and/or personal goals?
+
+The study took place in Toronto, Ontario, Canada in the “Transitions to Post-Secondary Education (TPE)” program which is a supported education program at GBC for people 19 years and older, who are facing challenges with mental health and/or substance use issues. This program is situated within a mainstream college setting. Please note that within the Canadian context the term “college” (as opposed to “university”) refers to a post-secondary program with a greater emphasis on training for skilled trades and professions such as Chef, Social Service Worker and Dental Hygienist. TPE program provides students with the opportunity to assess and improve their academic skills to facilitate entry into employment and non-supported training and other educational settings. Students enroll in credit courses such as College English, Computer Skills and Speaking with Confidence, Strategies for Student Success, Computer Technology and Psychology of Human Relations. These courses can lead to eligibility and/or exemptions in other post-secondary programs depending on the grades achieved. Other non-credit courses include Foundational Skills in English. Students take six to seven mandatory courses per semester along with the electives they might choose. This is a three-semester program and the students receive a certificate on completing the program. The course that is the focus of the research was offered as an elective to the students within this program.
+
+In total, 21 participants enrolled in the course Strengthening Memory, Concentration and Learning (PREP 1033 at GBC) consented for their data to be included in the research. The data of students who completed all the data collection procedures (pre- and post-assessments; see below) were only included in the study. The participants ranged in age from 19 years to 59 years (M=40.66). They included 16 women and 5 men. In total, 11 participants had schizophrenia and other co-occurring conditions; 10 participants had a diagnosis of depression, anxiety, PTSD, ED and substance use disorder. Most participants had more than one diagnosis.
+
+On the first day of class, students were informed of the purpose of the research, sequence and format of the data collection procedures in the course (PREP 1033). They were reassured that the participation in the project was voluntary, and they were under no obligation to partake in the project. They were also informed that the participation in data collection stage of the research will not exclude them from taking the course or their course grades. So, the consent process occurred in two phases – in Phase 1, consent was received from the participants to gather the data in the class at the beginning of the course. In Phase 2, the consent was received from the participants who had consented in Phase 1 to participate in the research after the semester had ended and the participants had received their grades. The data collected during the course were secured with codes and were in compliance with all the ethical guidelines. Pseudonyms were used to code and report data; all identifying information was removed. The research was approved by the Research Ethics Board at GBC.
+
+The project components for the course proceeded in the following chronological order.
+
+At the beginning of the course, we collected baseline data on the cognitive abilities of the students using the services and expertise of SBT Pro (HappyNeurons), a software used in CRT intervention with proven efficiency (e.g. Croisile et al., 2008). The software designers chose eight exercises that were not used in the training protocol to avoid a learning effect from the training. They chose difficulty settings that were challenging enough to avoid a ceiling effect on the performance. They created two sets of data for each exercise so that the data were different between the pre-training and post-training assessments, but had the same difficulty level.
+
+Students also completed the Rosenberg (1965) Self-Esteem Scale. This ten-item scale measures global self-worth by measuring both positive and negative feelings about the self, using a four-point Likert scale ranging from strongly disagree (value 1) to strongly agree (value 4).
+
+The CRT protocol also included six essential components that were integrated and implemented within the course structure.
+
+The theoretical premise of MBCT is that the development of mindfulness skills leads to non-judgmental and non-reactive acceptance of all experiences, which, in turn, results in positive psychological outcomes (e.g. Segal et al., 2002). Holzel et al. (2011) explained that MBCT is based on four mechanisms: attention regulation, body awareness, emotion regulation and change in perspective on a “static” self. Mindfulness-based programs have been found to be successful in reducing behavioral problems (e.g. anxiety and depression), as well as increasing cognitive performance and pro-social psychosocial attributes (e.g. emotional regulation, social-emotional competence and coping) (Zenner et al., 2014; Langer et al., 2015). This theoretical premise is also very closely related to SEL, a concept that tends to foster core social and emotional competencies, such as self-awareness, self-regulation, initiating and maintaining healthy relationships, and treating others with respect and care. Mastering SEL competencies results in a shift from being predominantly controlled by external factors to acting increasingly in accord with one’s internalized beliefs and values, caring and concern for others, making good decisions and taking responsibility for one’s choices and behaviors (Bear and Watkins, 2006, p. 406).
+
+MBCT and SEL elements were sequenced, actively interwoven with the didactic, practice and evaluative components of the course. The facilitator promoted explicit awareness and focused on mindfulness by building on stories and experiences voluntarily shared by the participants. Specifically, she facilitated discussions of these experiences in a non-judgmental manner that allowed participants to appreciate individual histories from different (but always compassionate) angles. The facilitator did not “analyze” the experiences. Nor did she try to “fix things.”
+
+These drills were delivered by HappyNeuron Pro, an online cognitive stimulation software that offers tasks designed to stimulate nine different areas of cognition, namely, executive functions, verbal memory, visual memory, verbal and visual memory, spatial memory, visual and spatial abilities, visual attention, processing speed and auditory abilities. The software has been used in previous research as a cognitive stimulation tool with different populations (e.g. Foroughi et al., 2016; Tarpin-Bernard and Croisile, 2012) as it simplifies access to standardized tasks in an interactive non-monotonous environment. For this research, each student had a personal account with private login and password that they could access from outside the classroom via internet. Technical assistance and feedback/support was made available to the students during and after class time. Table I presents a description of the games, and the cognitive modules under which they were classified in the software.
+
+Students were encouraged to monitor and consciously think about the strategies they used and to build a repertoire of diverse cognitive strategies they could use to solve demanding tasks. This component was essential to discuss compensatory or adaptation strategies. Peer-discussions following each game allowed for sharing of knowledge and peer expertise, eventually leading to the co-construction of a classroom capital of strategies and knowledge base.
+
+Students completed a reflective journal each week on the strategies they used in each practice session either in-class exercises or outside the class. They were also tasked to monitor their behavior through Automatic Thought Record chart, in which they explained their approach to problem-solving tasks related to school and life. Students were encouraged to try out different ways of doing the task rather than focusing on being accurate so as to build their strategy repertoire.
+
+Computerized drills, even when customized and interactive, are ultimately de-contextualized and may not facilitate gains until transferred to real life situations. Therefore, “Bridging activities” were included in the course structure to facilitate transfer of gains to new cognitive tasks and problem-solving situations. For instances, students were given a template to help them organize their note-taking while watching a videotaped lecture. In another instance, they were asked to write topic sentences to complete a text passage. All these are academic skills that are often taken for granted in college students but may not be readily available to students with a complex schooling history and barriers.
+
+Learning and retention are more likely to occur with consistent, spaced practice and repetition. Students were asked to complete computer or paper-pencil tasks at home on two of the days other than the day of the class for a total of at least three times a week including the class for about 45–50 min each. Some of the examples of the paper-pencil activities included overlapping figures, where the goal was strategy development and implementation, attention to detail, self-monitoring and error correction. Some of the activities in this category included counting number of overlapping circles and determining the strategy, identifying the different objects from piles of objects and counting them and determining the strategy.
+
+On week 14 of the course, students who consented for data collection completed the post-training assessment. All the data were exported by SBT for analysis and interpretation. Students also completed the Rosenberg (1965) Self-Esteem Scale.
+
+At the end of the term and after students received their grades, they were invited to participate in a focus group or individual (semi-structured) interviews about their experiences with the course. Phase 2 consent process was completed. The participation in this phase was again voluntary and informed. There were three focus groups of 90 min duration each with six to seven participants. All the focus groups had different participants and all the sessions were recorded and transcribed verbatim. Every participant was allowed an opportunity to express their opinion on each question. The focus group/individual interview guide included questions pertaining to their experiences with the course, delivery of the course, their assessment of the content, process and relevance of the course in their life inside and outside the school. They were also asked about how they felt about themselves personally since they took the course.
+
+We compared the pre- and post-training scores of the participants developed by SBT Pro software company. Computerized games and the RSES were analyzed using paired sample t-tests to determine the significance of any change. The effect size was determined with Cohen’s d (Cohen, 1988).
+
+The focus groups/individual interviews were analyzed for recurrent themes related to the students’ experience of the course and its impact on aspects of their lives. Themes were coded using the qualitative data analysis software Nvivo (QSR International Pty Ltd., 2010).
+
+We compared the students’ performance on the computerized games at the pre- and post-training stages. We noted significant improvements on two games. In the Right count (executive function), there was a statistically significant improvement in mean accuracy 10.95 percent (raw difference) at (95% CI [2.20, 19.71]), and a median of 11 percent with SD of 19.23 percent. In the Sleight of hands (visual and spatial memory) game, there was a statistically significant improvement both with respect to accuracy and average response time in the post-training. Findings show a mean increase in accuracy of 13.33 percent (raw difference) at (95% CI [3.22, 23.44]), and a median of 20 percent with SD of 22.21 percent.
+
+On the other hand, there was a statistically significant decrease of 14.75 in the average scores on the Chunking (spatial memory) game (95% CI [−25.73, −3.77]), with a median of 10.25 and SD=24.13. There were no significant differences on all the other games.
+
+Results in Table II, using dependent sample t-test on a sample of 21 participants showed improvements in self-esteem scores post CRT training (M=18.57, SD=3.94) than in pre CRT training self-esteem scores (M=12.38, SD= 2.74). Of the 21 participants, 19 showed improved self-esteem scores after 14 weeks, 1 participant’s self-esteem score showed a decline and 1 participant’s score remained unchanged. The maximum score decrease was by 1, while the maximum score increase was by 15. The results suggest that after 14 weeks there was statistically significant improvement in self-esteem scores for the participants. A repeated measures t-test found this difference to be significant, t(20)=7.43, p<0.001 with the large effect size as measured by Cohen’s d=1.82. Based on the findings, we can conclude that there was a statistically significant improvement in the self-esteem scores for the participants following the CRT protocol. On average, post CR training scores were 6.19 points higher than pre CR training scores (95% CI [4.45, 7.92]).
+
+Analysis of the interview and focus group data revealed the participants’ perception of the value and affordances of the course but also the challenges and shortcomings they noted during the 14 week term. These perceptions did not always reflect or match the quantitative data reported above but they did align with many of the SEL core competencies that were promoted through the implementation of MBCT component of CRT protocol.
+
+The participants reported improvements in their perceptions of their cognitive abilities and their emotional reactions. They were aware of a boost to their self-esteem. These aligned with the SEL core competencies of self-awareness (where they recognized their strengths, limitations, were aware of the area of opportunities for themselves, had a well-grounded sense of confidence, hope for the future, and demonstrated a “growth mindset”), self-management, social awareness and relational skills. For instance, one student noted an improvement in his memory:
+
+My long term memory has never been good […] but, now I’m able to actually take in these things that are helpful, useful, that is making my perceptions of self a lot better, my memory […] stick with me.
+
+(P1)
+
+P1 was aware of his memory-related issues in the past. He understood the role of conscious awareness and deliberate attention in improving memory. This statement reflected and was validated by several other students who reported that they developed their personalized coping strategies to deal with memory and other cognitive issues including using agendas, mobile apps, etc. Some students indicated that they had started making content “cue-card,” using mind mapping, planning things well ahead and having an action plan to scaffold their memory.
+
+The participants discussed how relevant the knowledge of one’s strengths is, especially in light of over-critical perceptions of self, due to past experiences. They also credited the course and the facilitator in helping them recognize their strengths and becoming more kind with regard to their challenges and seeing them as opportunities. P1 also stated that:
+
+The teacher was also very compassionate and accepting of our challenges. I used to get help from her outside the classroom and she never asked me to come later if she was not in a meeting. And now, I am okay with myself.
+
+P2 attributed his continued academic success in post-secondary education program and his hope for the future to the PREP 1033 course. He stated that:
+
+I have become aware and feel more in control of my cognitive processes that used to frustrate me in the past, I now know how to redirect my natural impulses and the range of problem behaviors I used like […] […] I am now able to cope with my challenges/weaknesses by reframing, looking at other perspectives by asking what will I tell my best friend. This has given me a pause and more control on my behaviors.
+
+(P2)
+
+This is reflective of the development of SEL core competency of self-management (ability to successfully regulate one’s emotions, thoughts and behaviors in different situations – effectively managing stress, controlling impulses and motivating oneself). P2’s quote below aligns with the core competencies outlined in SEL social awareness (ability to understand social norms for behavior and to recognize supports), relationship skills (ability to communicate clearly, cooperate with others, resist inappropriate social pressure, negotiate conflict constructively and seek and offer help when needed) and responsible decision making (ability to make constructive choices about personal life and career choices based on realistic evaluation and a consideration of my well-being):
+
+I used to hesitate and feel out of place in social situations. I thought, I have nothing of value to add. I was reluctant in any interactions in the classroom earlier, but now I have more awareness about myself that has made me feel more confident and less fearful to ask for help […] and know how I participate and what other people might think about me […] If I hadn’t done all of the stuff in this course, I wouldn’t have gone to Seneca College. I have been there for 7 weeks now, and I am doing well. I probably wouldn’t have been there at all anymore if I had not learnt some of things about myself here. The huge benefit of this class was that it taught me a lot about my own processes and how to improve them and make up for my weaknesses.
+
+(P2)
+
+P3 perceived his achievement in the PREP 1033 course as a source of power. The emphatic reference to the self “it’s me who has the power” clearly denotes a high sense of agency and self-esteem. He stated:
+
+Just knowing that we have the capacity to change, to have control of whatever’s going on […] knowing that it’s overall me who has the power and who can change my thinking.
+
+(P3)
+
+Another positive aspect of PREP 1033 was related to the therapeutic effect it had on some of the students. As noted above, CRT and MBCT do not address the feelings but allow for thoughts to be reframed and behaviors to be changed so as to facilitate a change in feelings. It also provided students with the language and the tools to make meaning of their experiences in a safe space and in their own time (course created conducive conditions for the fostering self-awareness and provided safety to explore relationship skills). P4 saw the value of this intervention in promoting self-worth. Her perception of the PREP 1033 as an alternative to medication or substance use is quite powerful. She reflected:
+
+To me it was like free counselling, because that’s three hours of info that can benefit me and my life. Focusing on positive things, like what cognitive thinking can do for one, because if an addict or someone with mental health issues hears anything positive that can change especially they can change it without medication or their drug of choice, that’s always good.
+
+(P4)
+
+P4’s comment also alluded to this approach of the course as being reflective of the SEL core competencies of self-awareness and social awareness:
+
+I struggled in school due to years of substance use issues, I could not remember anything, and I could not focus on anything. I still have the same challenges but now I understand that I am not stupid, I have become more understanding of my own struggles and know that it is my years of substance use and its impact on my brain and body. This is the third time I am attempting this program and I have left 2 times prior to this. But, now I access disability office for my tests, have a note taker to help me with school work, just because I am not focusing on what I can’t do but my focus is what I can do now.
+
+(P4)
+
+Participants also seemed aware of the transferability of the knowledge and skills they had acquired in PREP 1033. In the following quotation from P5, this awareness is augmented by a firm agentive stance to make use of this knowledge to improve her work with youth in the future:
+
+This is something that I want to bring in when I work with youth which is my long term goal.
+
+(P5)
+
+Overall, interview responses indicate that the participants perceived PREP 1033 as a valuable course that needs to be included in the education system. They also recommended that the course status should change from an elective to a mandatory course. They stated that the content of this course allowed for a space for students to explicitly discuss and address the many cognitive barriers they experience as a result of mental health issues, substance use issues, the effects of interrupted schooling, their potential success in school that is heavily dependent on cognitive skills. They even suggested that there should be provision to access this course by students from different fields such as commerce, business and nursing. However, there was a disagreement on the best time to introduce such a course. P6 suggested that PREP 1033 should be a first-year course, while P7 advocated for delaying it to the third semester:
+
+I think […] it should be something that is mandatory and taught in the first semester because […]. It does prepare you and it gives you a better idea of how you learn and what you have to do to be successful.
+
+(P6)
+
+In third semester, you’re getting the more dedicated students and also in semester three you’re getting the ones who are going to put more effort, who are showing up.
+
+(P7)
+
+Besides the general positive feel-good impression of the participants expressed in the interviews and focus groups, there were also palpable frustrations with some aspects of the course. The participants felt empowered to express their concerns during the course and when it ended. These airing of frustrations and challenges might in fact explain the lack of improvement as shown in the quantitative findings above.
+
+Some of the participants’ critiques related to the content, organization and assessment procedures of PREP 1033. P8 noted that classes tended to be long and dense. He suggested that the language and complex terminologies in the content were difficult and could be tailored to the needs of the participants who had a history of interrupted schooling, literacy issues, substance use and alternative lifestyles. Even though the course included modules on concentration strategies, it was hard to maintain attention for the full length of the class that did not appeal to P8 or P9:
+
+It was good and it was fun with the computer part […] humor helps […] not so educational because of the fact that again these are the people who have been out of school for so long and the lifestyle that we have, and I’m finding it hard right now even to this day, just listening to something so educational for that length of time. I lose my train of thought.
+
+(P8)
+
+P9 echoed the same concern about the density of the classroom language, and the use of highly specialized terminology (e.g. to explain brain functioning, psychological processes). She suggested using a simpler and accessible language to explain some technical terms:
+
+A certain amount [of technical jargon] I think is good, I think just at some point you will lose people if it’s too much.
+
+(P9)
+
+The 3 h long class sessions were too long for some students. While they recognized that it is typical of college schedules, they believed that shorter classes and lighter content would be easier to follow and learn. Though, they liked the videos shown in the class, some of them found the computerized drills frustrating at times.
+
+Regarding the assessment system participants had different opinions and some tensions were apparent. One participant (P10) stated:
+
+I found the lectures very helpful and the exercises were good. There was only one group assignment, but I don’t think any group work is necessary. This was a much more personal course.
+
+For her, group work did not fit into her conceptualization of the course design and purpose. On the other hand, some other participants preferred more group work to alleviate the competition they experienced, especially when they were doing the computerized activities. The computerized games, one of the essential elements of the course, were appreciated and enjoyed by most students. HappyNeurons games were designed to be interactive and personalized to match the level to each individual participant. However, since they were completed within the classroom context, it made some participants very competitive and others’ vulnerable and sensitive to the growing competition between classmates. P 11 expressed:
+
+[…] that was hard on my self-esteem. I wouldn’t suggest sitting beside somebody who’s competitive and really good at that, because it can wreck somebody.
+
+Some participants expressed misunderstanding about the purpose and requirements of the weekly reflections. These reflections were supposed to encourage conscious awareness for developing strategies and monitoring the thought process. A directive approach to reflection is a critical component of the learning experience for transformation and to elicit deeper thinking (Coulson and Harvey, 2013) that facilitates bridging to real life situations. However, some students did not follow the assignment guidelines, and instead of reflecting on their strategies after each session or each week, they procrastinated and completed all the reflections at the end of the semester to obtain a grade. The focus in this case was not learning but submitting written work in time to avoid penalization and get a decent grade. This misunderstanding of the assignment and lack of self-regulation and discipline resulted in simplistic reflections, which, in turn, failed to support or promote any learning:
+
+To me it was like if you were writing down your reflection while you were in the class, it was fine. If you wrote down two three days later you have no idea, now it was just like an assignment and meant nothing.
+
+(P12)
+
+There were also some concern about some technical aspects of the software such as the accent and the quality of the audio. However, there was consensus among the participants that scheduling the games after the instructor-led tutorial helped contextualize the information presented. Many of the quotes from the students above exhibit the SEL core competencies including that of self-awareness (they demonstrated self-perception, recognized strengths and showed self-confidence including being very critical), social awareness (they were able take perspective about their own issues as well as that of others’) and responsible decision making (they reflected realistic evaluation of the consequences, consideration for the well-being of oneself and others, analyzed and evaluated situations and were thoughtful in talking about the research process and their experiences).
+
+The CRT intervention outlined above yielded mixed results. We noted significant gains in self-esteem and on few cognitive domains evidenced by improved performance on two games. However, we also noted limited or no progress on other cognitive measures and several concerns were raised by the participants. There is some support for our insignificant findings by Wykes and Cella (2015), who indicated that participants with higher self-esteem tend to use fewer strategies that may dampen the effects of the CRT intervention and may present as a potential barrier to therapy-related improvements. However, the positive results were corroborated by some of the comments from the participants’ in the interviews and focus groups. The participants reflected on their improved social-emotional skills such as increased self-awareness, greater emotional regulation and self-control, identified their strengths, agency and felt empowered as a result of being part of the cognitive remediation course. Self-related cognitive processes have been extensively linked to metacognition and considered important in influencing psychotic symptom development and their maintenance. These domain areas also align with the values of SEL competencies in school settings and are an essential part of education for all students and can result in positive mental health outcomes (Durlak et al., 2011). Research evidence shows that the gains in SEL competencies influence mental health outcomes (Humphrey et al., 2013). In fact, metacognition, “thinking about thinking” (Flavell, 1979), is implicated in a large number of higher level mental functions including self-reflection, introspection and behavior implementation. Problems in this sphere can affect people’s ability to make sense of their illness experience and can compromise the integrity of their personal goals (Lysaker and Dimaggio, 2014), result in poor illness outcomes (Frith, 2004). On the other side, positive changes in this function are associated with clinical improvement of symptoms (Corcoran and Frith, 2003). Unfortunately, research shows that problems in these cognitive functions are cardinal features of a number of severe mental health conditions (Bateman et al., 2007; Liotti and Gilbert, 2011). Thus, incorporating mindfulness-based cognitive skills that promote SEL competencies in any CRT protocol has great benefits for people with mental health conditions.
+
+In this course, the facilitator role modeled and practiced skills being taught, fostered a socially supportive instructional strategy, that was flexible, and student-centered, where participants’ felt safe to bring their whole self that allowed them to engage and connect with others’ in meaningful ways about their perceived challenges without feeling vulnerable, express themselves without being penalized, and be able to dissent without being silenced (Quartaro et al., 2009). This created conditions to establish and maintain relationships with diverse others’ in the group, including the ability to communicate, listen and be listened, cooperate but be able to resist inappropriate social pressure to be competitive, negotiate and resolve conflict constructively, and feel comfortable to seek help when needed. Thus, both the content and the process of this course allowed participants to acquire the skills that are at the core of the implementation of principles of SEL and allowed them to focus on their future academic goals. There is also some evidence that suggests that the potential benefits of SEL programs may be greater for high risk populations (Weare and Nind, 2011).
+
+The mixed findings of this study are not in line with those of previous studies (Buonocore et al., 2018). However, they are supported by the research conducted in the supported education program at GBC (Kidd et al., 2014). It seems in fact that a number of limitations and shortcomings have affected the design and implementation of the CRT as delivered by the PREP 1033 course. One of these limitations concerns the use of computer-assisted cognitive remediation (CARC) in the form of the HappyNeuron software. CARC has been used with promising results in many studies to assist with the drill-and-practice aspect of the therapy. Garrido et al. (2013), for instance, compared the effect of CARC on the neuropsychological measures and secondary outcomes (quality of life and self-esteem) of patients diagnosed with schizophrenia. The findings showed an improvement in speed of processing, working memory and problem-solving as well as significant improvement in quality of life and self-esteem in patients who underwent CARC. The HappyNeuron was also used successfully in many other studies. In the case of PREP 1033, it seems that the implementation of the course in a large group setting and the absence of customized individual supports interfered with the potential of the software. Some participants were also extremely sensitive to the growing competiveness in the class. They believed this to be like any other computer game where winning from the other became more important. Comparison of scores between participants (who started at different baselines and had different aptitudes and strengths) led to feelings of inadequacy and embarrassment and consequently to lowered engagement. Therefore, it is imperative for CRT facilitators, in future studies: to understand and monitor the potential impact of the class dynamics and activity settings during the intervention, and/or provide adequate one on one support at all times to the participants to customize their progress; to account for and work on synchronizing students’ beliefs regarding their personal objectives and those of the course. In PREP 1033, instructor included advance organizers, reminders of course plans and task goals; however, it seems that the students needed more guidance to grasp the purpose of each task and how it relates to the overall goals of the course. Besides, the inclusion of individuals who survived different mental health conditions and experienced different forms of trauma and marginalization may have complicated the class dynamics and the class’s response to the intervention. In fact, most previous studies have recruited homogenous participant populations, with predictable patterns of behaviors and psychotic symptoms, which, in turn, may explain the more uniform patterns of findings in those studies.
+
+In this regard, our recruitment of participant, in general, was broader and less defined than most other studies. This study was also designed in a naturalistic environment (i.e. an actual course, open to all the students as an elective) and not a typical controlled research site, where other extraneous variables (e.g. skill level, familiarity and comfort with using computers, level of highest degree obtained before interrupting schooling) are strictly controlled or participants are randomly assigned to the interventions.
+
+This research provides important insights about implementing CRT protocol alongside mainstream curricula within educational setting that incorporates mindfulness-based training, structured reflections and activities to bridge the gains made to school and other real life situations. This research found significant improvements in participants’ self-esteem and its alignments with the core competencies of SEL. The research also highlights the critical role educator’s play within the educational institutions as a result of their strategic position to destigmatize the challenges students face within their cognitive domains that can ensure their academic success and their identity. This research also raises important questions about the value and relevance of using any computer based training in supporting cognitive remediation interventions. Major insights gained through this research will hopefully spawn both academic and practitioner interest in further refining and elaborating on the framework with various protocol components, including using empirical research in this important area. Further research is needed to determine the benefit of this training using mindfulness-based cognitive behavioral skills and its importance in facilitating the development of SEL core competencies for specific populations, determine other forms of training, frequency and method of delivery that would be most beneficial, effective and sustainable.
+
+Despite the mixed results and the few limitations associated with the CRT intervention protocol reported above, we believe that the procedures and theoretical underpinnings of the intervention remain valid. The students’ experiences explored above serve as reminders of the complexity of cognitive remediation and of the SEL factors associated with it. For instance, in this research, we did not specifically address students’ self-esteem but noted the positive improvement in self-esteem as a result of the open and sensitive acknowledgment of cognitive impairments, modeling and co-construction of a repertoire of strategies to improve cognitive deficits and the building of a community of supportive agents who had similar challenges. These findings have strong underpinnings and support within the SEL literature.
+
+List and description of the games used in the training phase
+
+Paired sample t-test for self-esteem scores
+
+Notes: *t is 7.43 significant at p<0.001. *Cohen (1988)d, 0.2 is small effect, 0.5 is medium effect, 0.8 is large effect
+
+Bateman, A.W., Ryle, A., Fonagy, P. and Kerr, I.B. (2007), “Psychotherapy for borderline personality disorder: mentalization based therapy and cognitive analytic therapy compared”, International Review of Psychiatry, Vol. 19 No. 1, pp. 51-62.
+
+Baumeister, R.F., Campbell, J.D., Krueger, J.I. and Vohs, K.D. (2003), “Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles?”, Psychological Science in the Public Interest, Vol. 4 No. 1, pp. 1-44.
+
+Bear, G.G. and Watkins, J.M. (2006), “Developing self-discipline”, in Bear, G.G. and Minke, K.M. (Eds), Children’s Needs III: Development, Prevention, and Intervention, National Association of School Psychologists, Bethesda, MD, pp. 29-44.
+
+Bowie, C.R., McGurk, S.R., Mausbach, B., Patterson, T.L. and Harvey, P.D. (2012), “Combined cognitive remediation and functional skills training for schizophrenia: effects on cognition, functional competence, and real-world behavior”, The American Journal of Psychiatry, Vol. 169 No. 7, pp. 710-718, doi: 10.1176/appi.ajp.2012.11091337.
+
+Bryce, S., Sloan, E., Lee, S., Ponsford, J. and Rossell, S. (2016), “Cognitive remediation in schizophrenia: a methodological appraisal of systematic reviews and meta-analyses”, Journal of Psychiatric Research, Vol. 75, April, pp. 91-106.
+
+Buhlmann, U., Deckersbach, T., Engelhard, I., Cook, L.M., Rauch, S.L., Kathmann, N. and Savage, C.R. (2006), “Cognitive retraining for organizational impairment in obsessive–compulsive disorder”, Psychiatry Research, Vol. 144 Nos 2-3, pp. 109-116.
+
+Buonocore, M., Spangaro, M., Bechi, M., Baraldi, M.A., Cocchi, F., Guglielmino, C., Bianchi, L., Mastromatteo, A., Bosia, M. and Cavallaro, R. (2018), “Integrated cognitive remediation and standard rehabilitation therapy in patients of schizophrenia: persistence after 5 years”, Schizophrenia Research, Vol. 192 No. 3, pp. 335-339.
+
+Bush, G. (2010), “Attention-deficit/hyperactivity disorder and attention networks”, Neuropsychopharmacology, Vol. 2010 No. 35, pp. 278-300.
+
+CASEL (2013), Effective Social and Emotional Learning Programs: Preschool and Elementary, school ed., Collaborative for Academic, Social and Emotional Learning, Chicago, IL.
+
+Cella, M., Preti, A., Edwards, C., Dow, T. and Wykes, T. (2017), “Cognitive remediation for negative symptoms of schizophrenia: a network meta-analysis”, Clinical Psychology Review, Vol. 52, March, pp. 43-51.
+
+Centers for Disease Control and Prevention (2013), “Mental health surveillance among children – United States, 2005–2011”, MMWR Surveillance Summaries, Vol. 62 No. 2, pp. 1-35.
+
+Chiesa, A., Calati, R. and Serretti, A. (2011), “Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings”, Clinical Psychology Review, Vol. 31 No. 3, pp. 449-464.
+
+Cohen, J. (1988), Statistical Power Analysis for the Behavioral Sciences, 2nd ed., Erlbaum Associates, Hillsdale, NJ.
+
+Corcoran, R. and Frith, C.D. (2003), “Autobiographical memory and theory of mind: evidence of a relationship in schizophrenia”, Psychological Medicine, Vol. 33 No. 5, pp. 897-905.
+
+Coulson, D. and Harvey, M. (2013), “Scaffolding student reflection for experience-based learning: a framework”, Teaching in Higher Education, Vol. 18 No. 4, pp. 401-413.
+
+Croisile, B., Miner, D., Bélier, S., Noir, M. and Tarpin-Bernard, F. (2008), “Online cognitive training improves cognitive performance”, Archives of Clinical Neuropsychology, Vol. 23 No. 6, pp. 688-704.
+
+Denham, S.A., Brown, C. and Domitrovich, C.E. (2010), “‘Plays nice with others’: social-emotional learning and academic success”, Early Education and Development, Vol. 21 No. 5, pp. 652-680.
+
+Dingemans, A.E., Danner, U.N., Donker, J.M., Aardoom, J.J., van Meer, F., Tobias, K., van Elburg, A.A. and van Furth, E.F. (2014), “The effectiveness of cognitive remediation therapy in patients with a severe or enduring eating disorder: a randomized controlled trial”, Psychotherapy and Psychosomatics, Vol. 83 No. 1, pp. 29-36.
+
+Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D. and Schellinger, K.B. (2011), “The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions”, Child Development, Vol. 82 No. 1, pp. 405-432.
+
+Eisenberg, D.P. and Berman, K.F. (2010), “Executive function, neural circuitry, and genetic mechanisms in schizophrenia”, Neuropsychopharmacology, Vol. 2010 No. 35, pp. 258-277.
+
+Elias, M.J., Leverett, L., Duffell, J.C., Humphrey, N., Stepney, C. and Ferrito, J. (2015), “Integrating SEL with related prevention and youth development approaches”, in Durlak, J.A., Domitrovich, C.E., Weissberg, R.P. and Gullotta, T.P. (Eds), Handbook for Social and Emotional Learning: Research and Practice, Guilford, New York, NY, pp. 33-49.
+
+Farreny, J., Aguado, S., Ochoa, J.M., Haro, J.M. and Usall, J. (2013), “The role of negative symptoms in the context of cognitive remediation for schizophrenia”, Schizophrenia Research, Vol. 150 No. 1, pp. 58-63.
+
+Fiszdon, J.M., Whelahan, H., Bryson, G.J., Wexler, B.E. and Bell, M.D. (2005), “Cognitive training of verbal memory using a dichotic listening paradigm: impact on symptoms and cognition”, Acta Psychiatrica Scandinavica, Vol. 112 No. 3, pp. 187-193, doi: 10.1111/j.1600-0447.2005.00565.x.
+
+Flavell, J.H. (1979), “Meta-cognition and cognitive monitoring – new area of cognitive-developmental inquiry”, American Psychologist, Vol. 34 No. 10, pp. 906-911.
+
+Foroughi, C.K., Monfort, S.S., Paczynski, M., McKnight, P.E. and Greenwood, P.M. (2016), “Placebo effects in cognitive training”, Proceedings of the National Academy of Sciences of the United States of America, Vol. 113 No. 27, pp. 7470-7474.
+
+Frith, C.D. (2004), “Schizophrenia and theory of mind”, Psychological Medicine, Vol. 34 No. 3, pp. 385-389.
+
+Fuentes-Durá, I., Balanzá-Martínez, V., Ruiz-Ruiz, J.C., Martínez-Arán, A., Girón, M., Solé, B., Sanchez-Moreno, J., Gomez-Beneyto, M., Vieta, E. and Tabarés-Seisdedos, R. (2012), “Neurocognitive training in patients with bipolar disorders: current status and perspectives”, Psychotherapy and Psychosomatics, Vol. 81 No. 4, pp. 250-252.
+
+Garrido, G., Barrios, M., Penadés, R., Enríquez, M., Garolera, M., Aragay, N., Pajares, M., Vallès, V., Delgado, L., Alberni, J., Faixa, C. and Vendrell, J.M. (2013), “Computer-assisted cognitive remediation therapy: cognition, self-esteem and quality of life in schizophrenia”, Schizophrenia Research, Vol. 150 Nos 2-3, pp. 563-569.
+
+Greenberg, M.T., Weissberg, R.P., O’Brien, M.U., Zins, J.E., Fredericks, L., Resnik, H. and Elias, M.J. (2003), “Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning”, American Psychologist, Vol. 58 Nos 6-7, pp. 466-474.
+
+Higgins, E. and O’Sullivan, S. (2015), “‘What works’: systematic review of the ‘friends for life’ programme as a universal school-based intervention programme for the prevention of child and youth anxiety”, Educational Psychology in Practice, Vol. 31 No. 4, pp. 424-438.
+
+Hodge, M.A.R., Siciliano, D., Withey, P., Moss, B., Moore, G., Judd, G., Shores, E.A. and Harris, A. (2010), “A randomized controlled trial of cognitive remediation in schizophrenia”, Schizophrenia Bulletin, Vol. 36 No. 2, pp. 419-427.
+
+Holzel, B.K., Carmody, J., Vangel, M., Congleton, C., Yerramsetti, S.M., Gard, T. and Lazar, S.W. (2011), “Mindfulness practice leads to increases in regional brain gray matter density”, Psychiatry Research: Neuroimaging, Vol. 191 No. 1, pp. 36-43.
+
+Humphrey, N., Lendrum, A. and Wigelsworth, M. (2013), “Making the most out of school-based prevention: lessons from the social and emotional aspects of learning (SEAL) programme”, Emotional and Behavioural Difficulties, Vol. 18 No. 3, pp. 248-260.
+
+Iqbal, Z., Birchwood, M., Chadwick, P. and Trower, P. (2000), “Cognitive approach to depression and suicidal thinking in psychosis 2: testing the validity of a social ranking model”, British Journal of Psychiatry, Vol. 177 No. 6, pp. 522-528.
+
+Keng, S.-L., Smoski, M.J. and Robins, C.J. (2011), “Effects of mindfulness on psychological health: a review of empirical studies”, Clinical Psychology Review, Vol. 31 No. 6, pp. 1041-1056.
+
+Kessler, R.C., Chiu, W.T., Demler, O., Merikangas, K.R. and Walters, E.E. (2005), “Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the national comorbidity survey replication”, Archives of General Psychiatry, Vol. 62 No. 6, pp. 617-627, doi: 10.1001/archpsyc.62.6.617.
+
+Kidd, S.A., Bajwa, J., McKenzie, K., Ganguli, R. and Haji Khamneh, B. (2012), “Cognitive remediation for individuals with psychosis in a supported education setting: a pilot study”, Rehabilitation Research and Practice, Vol. 2012, pp. 1-5, doi: 10.1155/2012/715176.
+
+Kidd, S.A., Bajwa, J., Virdee, G., George, T.P., McKenzie, K. and Herman, Y. (2014), “Cognitive remediation for individuals with psychosis in a supported education setting: a randomized controlled trial”, Schizophrenia Research, Vol. 157 Nos 1-3, pp. 90-98.
+
+Koob, G.F. and Volkow, N.D. (2010), “Neurocircuitry of addiction”, Neuropsychopharmacology, Vol. 35 No. 1, pp. 217-238.
+
+Kramer, A.F., Bherer, L., Colcombe, S.J., Dong, W. and Greenough, W.T. (2004), “Environmental influences on cognitive and brain plasticity during aging”, Journals of Gerontology, Vol. 59 No. 9, pp. M940-M957.
+
+Kurtz, M.M., Seltzer, J.C., Shagan, D.S., Thime, W.R. and Wexler, B.E. (2007), “Computer-assisted cognitive remediation in schizophrenia: what is the active ingredient?”, Schizophrenia Research, Vol. 89 Nos 1-3, pp. 251-260, doi: 10.1016/j.schres.2006.09.001.
+
+Langer, Á.I., Ulloa, V.G., Cangas, A.J., Rojas, G. and Krause, M. (2015), “Mindfulness-based interventions in secondary education: a qualitative systematic review/Intervenciones basadas en mindfulness en educación secundaria: una revisión sistemática cualitativa”, Estudios de Psicología, Vol. 36 No. 3, pp. 533-570.
+
+Liotti, G. and Gilbert, P. (2011), “Mentalizing, motivation, and social mentalities: theoretical considerations and implications for psychotherapy”, Psychology and Psychotherapy: Theory, Research and Practice, Vol. 84, pp. 9-25.
+
+Lysaker, P.H. and Dimaggio, G. (2014), “Metacognitive capacities for reflection in schizophrenia: implications for developing treatments”, Schizophrenia Bulletin, Vol. 40 No. 3, pp. 487-491.
+
+Lysaker, P.H., Tsai, J., Yanos, P. and Roe, D. (2008), “Associations of multiple domains of self-esteem with four dimensions of stigma in schizophrenia”, Schizophrenia Research, Vol. 98 Nos 1-3, pp. 194-200.
+
+McDougall, G.J. (2000), “Memory improvement in assisted living elders”, Issues in Mental Health Nursing, Vol. 21 No. 2, pp. 217-233.
+
+McGurk, S.R. and Mueser, K.T. (2004), “Cognitive functioning, symptoms, and work in supported employment: a review and heuristic model”, Schizophrenia Research, Vol. 70 Nos 2-3, pp. 147-173, doi: 10.1016/j.schres.2004.01.009.
+
+McGurk, S.R., Mueser, K.T., DeRosa, T.J. and Wolfe, R. (2009), “Work, recovery, and comorbidity in schizophrenia: a randomized controlled trial of cognitive remediation”, Schizophr Bull, Vol. 35 No. 2, pp. 319-335, doi: 10.1093/schbul/sbn182.
+
+McGurk, S.R., Twamley, E.W., Sitzer, D.I., McHugo, G.J. and Mueser, K.T. (2007), “A meta-analysis of cognitive remediation in schizophrenia”, The American Journal of Psychiatry, Vol. 164 No. 12, pp. 1791-1802, doi: 10.1176/appi.ajp.2007.07060906.
+
+McGurk, S.R., Mueser, K.T., Covell, N.H., Cicerone, K.D., Drake, R.E., Silverstein, S.M. and Essock, S.M. (2013), “Mental health system funding of cognitive enhancement interventions for schizophrenia: summary and update of the New York Office of mental health expert panel and stakeholder meeting”, Psychiatric Rehabilitation Journal, Vol. 36 No. 3, pp. 133-145.
+
+Medalia, A. and Saperstein, A. (2011), “The role of motivation for treatment success”, Schizophrenia Bulletin, Vol. 37 No. S2, pp. S122-S128, doi: 10.1093/schbul/sbr063.
+
+Miller, K., Walterfang, M., Randhawa, S., Scholes, A., Mocellin, R. and Velakoulis, D. (2007), “Validity and reliability of the behavioural assessment tool for cognition and higher function (BATCH) in neuropsychiatric patients”, Australian and New Zealand Journal of Psychiatry, Vol. 41 No. 8, pp. 697-704.
+
+Orth, U., Robins, R.W. and Meier, L.L. (2009), “Disentangling the effects of low self-esteem and stressful events on depression: findings from three longitudinal studies”, Personality Processes and Individual Differences, Vol. 97 No. 2, pp. 307-321.
+
+Osher, D., Sprague, J., Weissberg, R.P., Keenan, S. and Zins, J.E. (2008), “A comprehensive approach to promoting social, emotional, and academic growth in contemporary schools”, in Thomas, A. and Grimes, J. (Eds), Best Practices in School Psychology, Vol. 4, National Association of School Psychologists, Bethesda, MD, pp. 1263-1278.
+
+Østergaard Christensen, T., Vesterager, L., Krarup, G., Olsen, B.B., Melau, M., Gluud, C. and Nordentoft, M. (2014), “Cognitive remediation combined with an early intervention service in first episode psychosis”, Acta Psychiatrica Scandinavica, Vol. 130 No. 4, pp. 300-310.
+
+Park, D.C. and Bischof, G.N. (2013), “The aging mind: neuroplasticity in response to cognitive training”, Dialogues in Clinical Neuroscience, Vol. 15 No. 1, pp. 109-119.
+
+Price, J.L. and Drevets, W.C. (2010), “Neurocircuitry of mood disorder”, Neuropsychopharmacology, Vol. 35 No. 1, pp. 192-216.
+
+QSR International Pty Ltd (2010), “NVivo qualitative data analysis computer software (Version 9)”, available at: www.qsrinternational.com
+
+Quartaro, G., Horsman, J., Bajwa, J., Willats, A. and Bonisteel, M. (2009), Marginalized Women and Apprenticeship Training: Investigating a High-Support Model, George Brown College, Toronto.
+
+Rabipour, S. and Raz, A. (2012), “Training the brain: fact and fad in cognitive and behavioral remediation”, Brain and Cognition, Vol. 79 No. 2, pp. 159-179.
+
+Rosenberg, M. (1965), “Rosenberg Self-Esteem Scale (RSE): acceptance and commitment therapy”, Measures Package, Vol. 61, pp. 52-61.
+
+Saperstein, A.M.P. and Kurtz, M.M.P. (2013), “Current trends in the empirical study of cognitive remediation for schizophrenia”, The Canadian Journal of Psychiatry, Vol. 58 No. 6, pp. 311-318.
+
+Segal, Z.V., Williams, J.M. and Teasdale, J.D. (2002), Mindfulness based Cognitive Therapy for Depression: A New Approach to Preventing Relapse, Guildford Press, New York, NY.
+
+Simons, D.J., Boot, W.R., Charness, N., Gathercole, S.E., Chabris, C.F., Hambrick, D.Z. and Stine-Morrow, E.A.L. (2016), “Do ‘brain-training’ programs work?”, Psychological Science in the Public Interest, Vol. 17 No. 3, pp. 103-186.
+
+Smetanin, P., Stiff, D., Briante, C., Adair, C., Ahmad, S. and Khan, M. (2011), “The life and economic impact of major mental illnesses in Canada: 2011-2041”, Prepared for the Mental Health Commission of Canada, RiskAnalytica, Toronto.
+
+Stockings, E., Degenhardt, L., Dobbins, T., Lee, Y., Erskine, H., Whiteford, H. and Patton, G. (2015), “Preventing depression and anxiety in young people: a review of the joint efficacy of universal, selective and indicated prevention”, Psychological Medicine, Vol. 46, pp. 11-26, doi: 10.1017/S0033291715001725.
+
+Tarpin-Bernard, F. and Croisile, B. (2012), “Conditions for maximizing effects of 90 days of brain training”, available at: www.scientificbraintrainingpro.com/rsc/sbtpro_docs/conditions-for-maximizing-of-90-days-of-brain-training.pdf (accessed August 8, 2018).
+
+Taylor, R., Oberle, E., Durlak, J.A. and Weissberg, R.P. (2017), “Promoting positive youth development through school-based social and emotional learning interventions: a meta-analysis of follow-up effects”, Child Development, Vol. 88 No. 1, pp. 1156-1171.
+
+Tchanturia, K. and Davies, H. (2010), Cognitive Remediation Therapy for Anorexia Nervosa, 1st ed., Cambridge University Press, Cambridge.
+
+Thewissen, V., Bentall, R.P., Oorschot, M., Campo, J.À., van Lierop, T., van Os, J. and Myin-Germeys, I. (2011), “Emotions, self-esteem, and paranoid episodes: an experience sampling study”, British Journal of Clinical Psychology, Vol. 50 No. 2, pp. 178-195.
+
+Weare, K. and Nind, M. (2011), “Mental health promotion and problem prevention in schools: what does the evidence say?”, Health Promotion International, Vol. 26 No. S1, pp. i29-i69.
+
+Wykes, T. and Cella, M. (2015), “Strategy training and its effects on cognitive and functioning outcomes”, International Congress of Schizophrenia Research, Colorado Springs, March 28-April 1.
+
+Zenner, C., Herrnleben-Kurz, S. and Walach, H. (2014), “Mindfulness-based interventions in schools – a systematic review and meta-analysis”, Frontiers in Psychology, Vol. 5, pp. 603-620, available at: https://doi.org/10.3389/fpsyg.2014.00603
+
+The funding for this research was provided by the Bank of Montreal, Canada.
+
+Dr Jaswant Kaur Bajwa is Professor and Research Coordinator in the Centre for Preparatory and Liberal Studies (CPLS) at George Brown College. She leads many federally and provincially funded research projects as the Principal Investigator. She is also the PI, lead and the corresponding author for this research project.
+
+Bobby Bajwa is Student in Bachelor’s in Medical Science Program at University of Western Ontario. He worked as research assistant on the project.
+
+Taras Gula is Professor of Mathematics at George Brown College. He provided support with analyzing the quantitative data.
+
+Facilitating success for people with mental health issues in a college through cognitive remediation therapy and social and emotional learning
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+License
+
+Introduction
+
+Context of the study
+
+Methods
+
+Data analysis procedures
+
+Results
+
+Discussion
+
+Implications
+
+Conclusion
+
+Table I
+
+Table II
+
+References
+
+Acknowledgements
+
+Corresponding author
+
+About the authors
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Research in Innovative Teaching & Learning
+
+Volume 12 Issue 2
+
+Facilitating success for people with mental health issues in a college through cognitive remediation therapy and social and emotional learning
+
+Abstract
+
+Introduction
+
+Context of the study
+
+Methods
+
+Data analysis procedures
+
+Results
+
+Discussion
+
+Implications
+
+Conclusion
+
+Cognitive remediation training (CRT)
+
+Cognitive science
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Executive function
+
+The module includes language-based and visual tasks to train executive functions such as reasoning (i.e. making deductions from hypotheses) and using cognitive strategies
+
+Right count
+
+Sorting numbers in ascending/descending order in a grid
+
+Visual memory
+
+The module uses abstract symbols and exotic characters to train visual memory
+
+Shape and colors
+
+Memorizing shapes and their colors
+
+Verbal and visual memory
+
+The module uses prompts that simultaneously train verbal and visual memory
+
+Around the world
+
+Memorizing the tour destinations for different places around the world
+
+Spatial memory
+
+The module trains spatial memory by encouraging recalling of locations through grouping and patterning strategies
+
+Chunking
+
+Memorizing groups of figures on a grid
+
+Visual and spatial memory
+
+The module trains visual and spatial memory through exercises that solicit the use of visual mental imagery and more particularly mental rotation in a 3D space
+
+Point of view
+
+Matching a point of view with the corresponding view
+
+Visual spatial
+
+The module trains visual spatial memory by creating a mental image of an object, rotating the object mentally until a comparison can be made, making the comparison and deciding if the objects are the same or not and reporting the decision
+
+Sleight of hands
+
+Determining if the hand shown is a left hand or a right hand
+
+Visual attention
+
+The module trains visual attention as students try to pinpoint relevant information, visually scan details and stay focused on spotting differences
+
+Ancient writing
+
+Comparing series of characters
+
+Attention
+
+This module trains in attention as students pay attention to a trail made up of stones that lights up at random. Students must memorize the path it creates
+
+Find your way
+
+Memorizing a series of steps
+
+Processing speed
+
+This module includes activities that require a rapid response. It also helps improve user attention span as it encourages users to maintain performance and vigilance over a long period of time
+
+Under pressure
+
+Determine whether stimuli shown successively are above or below each other
+
+Auditory memory
+
+This module trains in language and memory skills as students memorize 25 words in a grid and try to recognize them in longer lists with distractors
+
+Elephant memory
+
+Word recognition and memory
+
+Pair 1: SE Post–SE Pre
+
+6.19
+
+21
+
+3.81
+
+0.832
+
+20
+
+4.45
+
+7.92
+
+7.43*
+
+1.82*
+
+0.000
+
+SE – Pre
+
+12.38
+
+21
+
+2.74
+
+0.599
+
+20
+
+SE – Post
+
+18.57
+
+21
+
+3.94
+
+0.861
+
+20

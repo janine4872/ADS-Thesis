@@ -1,0 +1,261 @@
+Abstract
+This paper describes the impact of the One World in Schools human rights education programme on the attitudes, self-efficacy and intention to act of a sample of Georgian secondary school students (n = 303). For the evaluation, a mixed approach was applied, combining pre/post experimental/control group design, post-programme teacher and student surveys, and focus groups (n = 48) with students. Data were collected from September 2014 to June 2015 in sampled Georgian schools. The analysis revealed that the programme had an impact in both the quantitative and qualitative parts of the research. In the qualitative part, the students reported a high level of empowerment thanks to the programme’s activities, while the changes reported in the pre/post testing were rather moderate. Moreover, the programme seems to have influenced girls more than boys. The cultural context of the evaluation and the implications for further implementation of the programme are discussed as well.
+
+Keywords:
+
+Human rights educationprogramme evaluationattitudesGeorgiasecondary schools
+Previous article
+View issue table of contents
+Next article
+Introduction
+The deep social changes that are connected with the positive as well as the negative aspects of globalisation have strengthened the need to incorporate new agendas into educational curricula all over the world (Hornberg, Citation2002). Besides other approaches, growing attention has been paid to the field of human rights. The concept of human rights education (HRE) itself is not new, and its roots may be traced as far back as the 1960s. Since that time, this concept has been developed in mutual interconnection with multicultural education, developmental education, environmental education and (various other) global education movements (Mundy & Manion, Citation2008). As the field has been cultivated and challenged by the changing socio-political situation (Mundy & Manion, Citation2008) and the underlining worldview of its protagonists (Fujikane, Citation2003), it has grown into a broad area encompassing diverse approaches and recommended strategies (Bajaj, Citation2011; MacNaughton, Citation2015).
+
+First, HRE may be considered as education about, through or for human rights since it focuses on providing knowledge, applying participative methods and empowering the participants to promote social changes (Bajaj, Citation2011; Lohrenscheit, Citation2002). All of these aspects are included in a widely respected definition of HRE (UNESCO, Citation2012). However, the degree to which they are implemented may vary in practice.
+
+Tibbitts (Citation2002) outlines three main approaches to HRE: the values and awareness model that focuses on transmitting basic knowledge of human rights issues, the accountability model that focuses on professional training of target groups involved in human rights agendas, and the transformational model that focuses on empowering individuals to act as social change agents.
+
+Finally, approaches to HRE differ according to regional needs. For instance in countries with totalitarian systems, they tend to focus on resistance and empowerment, in countries that are in transition on incorporating human rights principles, and in established democracies on issues related to discrimination (Bajaj, Citation2011).
+
+HRE is often implemented by international non-governmental organisations (NGOs), especially when the HRE centres on education for human rights (Lohrenscheit, Citation2002). This situation may sometimes be risky as some international NGOs may lack sufficient awareness of local needs and may emphasise the ‘shaming’ strategy (for instance by increasing the influence of and dependence on foreign actors) instead of promoting the empowerment of the local people (Mihr & Schmitz, Citation2007).
+
+It could be argued that empowering people to promote social change is generally considered as the central goal of HRE (Bajaj, Citation2011; Lohrenscheit, Citation2002; Tibbitts, Citation2002). To achieve this goal, various strategies are recommended. First, the participants should be provided with a basic awareness of HR issues, if possible through an experiential method. Among other strategies that are often suggested are self-reflection, conflict-resolution training, perceived school democracy and community-based projects (Banks, Citation2009; Pimentel, Citation2006; Stomfay-Stitz & Wheeler, Citation2005; Tibbitts, Citation2002; Tucci, Citation2005).
+
+Considering the magnitude of some of the HR issues, it is reasonable to enquire about the effectiveness of particular strategies (Levin-Goldberg, Citation2008). Conducting an assessment study of the strategies’ influence on HRE may be extremely challenging as we are dealing with situations with a strong social desirability bias. In post-Communist countries, HRE methods may be viewed positively by principle as they represent a welcome change from uniform teaching methods. As described by numerous studies (McFarland, Citation2015), evaluation of the cultural effects may emphasise mainly the positive responses.
+
+A number of studies summarising and evaluating the effects of HRE in developing and transforming (Khoja-Moolji, Citation2014; Rosser, Citation2015; Vranes, Mikanovic, Vukovic, Djikanovic, & Babic, Citation2015) countries, and even in countries with serious human rights violations (Bretherton, Weston, & Zbar, Citation2005; Edinyang, Effiom, & Ubi, Citation2013; Massoud, Citation2011), have already been published. However, the effects and biases caused by cultural differences have not been properly assessed. To better understand these effects and biases, we have developed a study with a continuously reflexive design in which we try to identify and describe these influences.
+
+This paper presents a pioneering evaluation study of the international HRE programme One World in Schools (OWIS), managed by the Czech NGO People in Need. While the programme is offered to schools in other countries as well, our evaluation focuses on the programme’s implementation in Republic of Georgia from September 2014 to June 2015.
+
+Like other post-Soviet countries, Georgia has been struggling with various issues related to the process of transitioning to a modern democracy and of connecting to the structures of the European Union (EEAS, Citation2016). The school system is riddled with corruption (Orkodashvili, Citation2010). The education sector’s situation worsened as a consequence of armed conflict with Russia in 2008, which subsequently destabilised state institutions and the education sector’s independence (Asmus, Citation2010; King, Citation2008). Thanks to the project run by the Reading and Writing to Critical Thinking (RWCT) NGO, active ways of learning have been introduced and Georgia teachers have started to shift towards less centralised teaching and more participative learning (Dundua, Citation2003). These factors have created the specific context for both the implementation and the evaluation of the HRE programme that is assessed in this study.
+
+Programme description
+The One World in Schools programme (OWIS) was created by the NGO People in Need (PIN) in 2001. It covers a broad array of activities – producing and distributing printed educational materials and organising seminars for teachers, student film clubs, school film screenings, student elections, seminars for students at faculties of education, and student team projects. The last two activities mentioned have been implemented in the form of pilot projects in nine other countries outside the Czech Republic; more than 3000 schools are actively participating in these projects. The OWIS programme was launched in Georgia in 2001 in response to findings indicating a lack of human rights awareness among young people. It has broadened PIN’s portfolio of activities in Georgia, which also include advocacy work and watchdog activities focusing on fair government, social inclusion and sustainable agriculture (PIN, Citation2017). According to Kurashvili and Pijanova, the goal of the OWIS program is to:
+
+… raise young people’s awareness about the challenges of the current world and social issues, to initiate a debate and encourage those people to think critically and formulate questions and informed opinions regarding human rights and relevant issues. The project also aims at promoting an understanding of global processes which influence people’s lives and at cultivating young people’s sense of responsibility. It is essential that young people be encouraged to participate in addressing the current problems at both local and global levels.
+
+(2012, p. 4)
+The OWIS programme theory (PIN, Citation2016) is based on the assumption that by exposing secondary-school students to a set of short movies showing a range of human rights issues and accompanied by a series of follow-up discussions and possibly also community-based projects, the programme will enhance the students’ awareness, attitudes, critical thinking skills and self-efficacy concerning human rights. These factors are likely to support their intention to act in favour of human rights.
+The core of this theory has been scrutinised in the present evaluation. Our inquiry focused on the respondents’ attitudes towards human rights (defined as positive or negative opinions on human rights issues), self-efficacy (a belief in the respondents’ own ability to act in favour of human rights) and intention to act (a decision to take a specific action to promote human rights). This approach is supported by numerous theoretical behavioural models which describe strong correlations among the above-mentioned factors, mainly on Ajzen’s (Citation2002) Theory of Planned Behavior, Value-Belief-Norm Theory (Stern, Citation2000) and other studies.
+
+The evaluators presumed that carrying out a community-based follow-up project would be a critical factor in the programme’s effectiveness. Without providing the students with a positive experience of addressing local issues, they might feel overwhelmed by the magnitude of the presented issues. As a result, they might resort to learned hopelessness and apathy (Nagel, Citation2005).
+
+Prior to the inquiry, it was not clear what role the contextual and demographic variables would play (for example the students’ previous experience with the issues, their gender or age). The evaluators presumed that the presented themes would, rather, appeal to the girls than the boys and that the younger students’ belief in their self-efficacy in dealing with the issues would be less strong than that of the older students.
+
+Based on Ajzen’s (Citation1991) Theory of Planned Behavior, it was supposed that attitudes and self-efficacy would play an important role in increasing the students’ intention to act. For this reason, the evaluation focused on the aforementioned variables, with the support of a qualitative perspective providing the participants’ interpretation of the programme.
+
+As the OWIS programme is flexible and its impact might be affected by the particular combination of the movies shown, a set of three specific movies was selected for the purpose of this evaluation. The first movie presents the theme of children’s rights through a series of short sketches (Kids’ Rights, Boonstra, Ergun, Forma, Voorn, & Jakobs, Citation2010), the second presents the story of a successful community-based project aimed at helping immigrants in the United Kingdom (Bristol Bike Project, Eliott, Citation2002) and the third presents the story of community-based help to a local person who is mentally disabled (The Collector of Bedford Street, Oldham, Citation2009). Each of these movies is from a different cultural context, which should be one of the reasons for their specific effect. These movies were selected after recommendation by the Georgian office of PIN to correspond with regional human right issues. The screenings of all the movies were followed by a discussion based on pre-prepared working sheets.
+
+Some of the participating schools also carried out follow-up community-based projects addressing selected local human rights issues.
+
+As only one particular version of the OWIS programme was selected for this inquiry, the following conclusions cannot be generally applied to all the versions of the programme. It is likely that including a different set of movies into the programme would generate a different effect. Still, we hope that our findings might be relevant for the field of HRE and its further development.
+
+Methodology
+The purpose of the inquiry was to find answers to the following evaluation questions:
+
+Is there a difference between the schools which took part in the OWIS programme and carried out community-based projects afterwards and the schools which took part without carrying out such projects?
+
+Does the program help enhance the students’ self-efficacy, attitudes and intention to act in favour of human rights?
+
+How do the students interpret the programme’s contribution to their civil awareness?
+
+How do the students and teachers rate the programme in terms of its balance, fairness, relevance, instructional approach and information value?
+
+To answer these questions, the inquiry applied a set of instruments. First, we used a pre-test/post-test design, comparing three different groups:
+a control group consisting of students who did not participate in the programme;
+
+an experimental group consisting of students who participated in the programme and saw the same set of three movies. This group was divided into two subgroups for further analysis:
+
+an experimental project+ group consisting of students who participated in the programme as well as in a follow-up community project;
+
+an experimental project– group consisting of students who participated in the programme but not in a follow-up community project.
+
+While no detailed guidelines for community-based projects were provided, teachers were asked to motivate students who had watched the movie to perform an action of their own choice intended to contribute to respecting human rights in their community. Respondents from the experimental project+ group reported various kinds of follow-up projects:
+a movie screening was organised for other target groups in two of the schools;
+
+a charity event was held in two schools;
+
+a public awareness campaign was held in two of the schools;
+
+follow-up training for students took place in one school;
+
+a survey based on the issues discussed as part of the programme was conducted in one school.
+
+In most cases, the teachers reported that these projects had been initiated by active students who also organised them.
+Furthermore, we used a satisfaction survey carried out at the end of the project, which included the teachers as well as the students involved in the programme. To obtain qualitative data, we conducted focus groups at the end of the project with selected students from four of the schools in the project+ group and two of the schools in the project– group.
+
+For the pre-test/post-test analysis, we used a questionnaire based on the following scales:
+
+Attitudes towards human rights protection, five-point Likert-type scale, 16 items, Cronbach’s alpha = 0.8;
+
+Self-efficacy in dealing with human rights, five-point Likert-type scale, 11 items, Cronbach’s alpha = 0.7;
+
+Intention to act in favour of human rights, five-point Likert-type scale, five items, Cronbach’s alpha = 0.79.
+
+As we were unable to find already-existing instruments valid for the project, we had to design new scales. The items were formulated in English, then translated into Georgian. Their validity and clarity for Georgian students were further tested by Georgian project partners. The inquiry also included the respondents’ socio-demographic information (gender, region, age) and their personal experience with situations in which human rights were violated.
+A total of 500 schools participated in the OWIS programme in Georgia in 2015. For the evaluation, we originally planned to compare data from 10 randomly selected schools that had participated in the programme with a community-based project and the same number without such a project. The list of schools was determined in cooperation with the Georgian branch of People in Need. However, it appeared that only eight of the schools involved in the OWIS project in Georgia were able to conduct a follow-up project. Therefore, we decided to change the estimated proportion. Finally, we started the evaluation with eight schools that agreed to carry out a community-based project following the screenings and discussions and 12 schools that planned to implement the programme without a community-based project. One of the schools was dropped from the sample because the implementing teacher moved to another school during the project, and thus 11 schools remained in this part of the sample. Additionally, we decided to ask two other schools not involved in the OWIS project at all to participate. In the end the sample consisted of:
+
+two schools not involved in the OWIS (control group);
+
+eight schools involved in the OWIS with a follow-up community-based project (experimental project+ group);
+
+11 schools involved in the OWIS without a follow-up community-based project (experimental project– group).
+
+Most schools were situated in urban areas (in the Georgian capital of Tbilisi and other smaller cities), whereas four of them (two from both of the experimental subgroups) were situated in smaller villages. Schools were located in Tbilisi, Kakheti, Telavi, Akhaltsikhe, Rustavi, Gori, Tskaltubo, Kutaisi and Samtredia. It must be mentioned that all of the schools that cooperated with PIN indicated a higher level of interest in human rights issues than might be common for ordinary schools in Georgia. Table 1 shows more details regarding the sample.
+Table 1. Respondents in the quantitative part of the evaluation
+
+Download CSVDisplay Table
+For the teacher satisfaction survey, teachers from 19 schools were asked to participate. Of this number, one of the schools dropped out, so the final number was 18 schools. Among these, two teachers were absent at the time of data collection, so in the end we collected data from 16 teachers, all of them women, and the average length of their teaching experience was m = 13.8 years (standard deviation = 6.7).
+
+For the qualitative part of the evaluation, six of the schools involved in the programme were asked to take part, and four of these carried out a follow-up community-based project.
+
+Each of the focus groups consisted of eight students, always four girls and four boys. Altogether, 48 students (24 girls, 24 boys), aged between 14 and 17 years old, were involved in the focus groups.
+
+In the quantitative analysis, paired/unpaired t-tests were applied, the level of significance being set at alpha = 0.05. In the qualitative analysis, all the interviews were transcribed, divided into data segments and coded with the open-coded procedure to identify the main themes (Corbin & Stauss, Citation2008; Patton, Citation2002).
+
+Several methodological limitations should be taken into consideration. As it turned out during the data collection, all of the schools in the sample were also involved in other programmes focusing on human rights issues. It was obvious that some of the teachers did not clearly differentiate between the project implemented as part of the OWIS programme and the other projects. As a result, the differentiation between the project+ and project− subgroups may not be absolutely precise. Further, since the students in the focus groups were selected by the teachers from the participating schools, there is a risk that the best students were selected to demonstrate the school’s and the project’s success. The accessibility of information on how teachers integrated the programme in their curricula was limited. Therefore, the students’ interpretation of the programme should not be broadly generalised. The inquiry produced findings regarding a particular version of the programme that was implemented in Georgia. A different version implemented in a different socio-cultural environment may produce different outcomes.
+
+Findings
+Students’ interpretation of the programme
+In sum, all the respondents from the student focus groups highly appreciated the programme. Three of the evaluation categories came out as the most important: relevance, openness and effectiveness.
+
+First, all the students agreed that the programme had been relevant, i.e. they agreed it was important that it be delivered not just in schools but also to other target groups. They believed the movies presented real-life problems which are relevant all over the world, including Georgia.
+
+In their recommendations regarding to whom the movies should be presented, the students as a group found themselves divided between adults and children. They often described adults as being unaware of the issues and locked into their stereotypes, and young children as being unaware of their rights. Eka (girl, project+) comments on the stereotypes in her parents’ attitudes towards people with disabilities:
+
+… many things depend on parents. They have to fight their fears. Therefore they also need to hear such information and to change their behaviour and attitudes. Now that we have this information, I guess we will act differently when we become parents.
+
+The contrast between the students’ generation’s more tolerant attitude towards people with disabilities and that of their parents’ generation was poignantly expressed by Nino (girl, project+):
+I think that these movies are most important for adults, because adult people mostly think that people who are somehow different should not to be active in society; instead, they should live somewhere far from our eyes. Young people do not have such attitudes but adults do. Therefore they should also watch these movies.
+
+However, the students also recommended the programme to other schools and even to younger children as they supposed they too should be informed. It might be assumed that the concept of relevance was based on the students’ action theory, which sees a causal link between awareness and empowerment. The students reflected on the existence of the human rights issues around them and they believed that through ‘spreading the word’ the problems would be mitigated.
+Ana (girl, project+) expressed this theory in the following words:
+
+I think that if many young people like us see the films, they will better understand different social issues, and I think in future there will be fewer problems because we will know how to address them.
+
+Although the students reflected on all the presented issues, the Kids’ Rights series was the one that was mentioned most often. It is reasonable to suppose that this series’ theme resonated most strongly with the issues that the students had been aware of and consequently they rated its importance as highest.
+The students evaluated the way in which the programme presented human right issues as open, providing enough space for their ‘thinking’ and initiative. The students were not in agreement as to whether the programme provided adequate answers regarding the ‘what-to-do’ questions. Some of them thought that the answers could have been more explicit, for others the way the questions were dealt with was adequate.
+
+Zura (girl, project+) appreciated the open and non-manipulative nature of the programme:
+
+
+What I liked exactly in the movies was that they left some space for discussion and did not directly give you ready answers.
+
+On the other hand, Giorgi (boy, project+) would have appreciated it if the movies had been more instructional:
+
+… in some cases it might have been better to learn the answers directly from the films.
+
+The lack of explicit ‘what-to-do’ instructions might be related to the distinctive features of the students’ follow-up community-based projects. In all cases, emancipation was strongly present in the projects because the idea was either shared by the students and the teacher or brought up by the students themselves (Wals, Geerling-Eijff, Hubeek, van der Kroon, & Vader, Citation2008). When reflecting on their projects, the students expressed pride, satisfaction and feelings of ownership of their project and its results. The students believed their project was successful and capable of ‘making a difference’. They also planned to continue with it in the future.
+It might also be supposed that the lack of clear ‘what-to-do’ instructions strengthened the students’ ‘awareness for empowerment’ theory as the majority of the projects focused on ‘spreading the word’ to other target groups. However, the students reported different types of action, including raising money for charity, direct financial support of a poor family, or they created an awareness survey and presented its results to local politicians and the UNICEF representative. In all cases, the reported actions shared a collective, not individual, character as the students planned and did something together with others, not as their private initiative.
+
+The concept of collective action is clearly articulated by Teo (boy, project+):
+
+… one person may not be able to achieve solid results but he/she can initiate something and then find supporters and friends.
+
+None of the respondents questioned the programme’s effectiveness. Overall, two main sub-categories, awareness and empowerment, emerged. Almost all the students assumed that the main goal of the programme was to increase awareness and inform people’s attitudes. Furthermore, the students reported that the programme had changed their interpretation of the issues because it had made them change their perspective. Such a feeling was described for example by Mera (girl, project+). In her comments we can see the process of changing her original perspective and the personal shift from scepticism to awareness:
+The films are really touching. In the beginning I was also sceptical but when you see one film and then another, you begin to see these issues differently. I hadn’t been thinking about some issues and hadn’t known they existed at all. Now I look at these issues from a different angle.
+
+In addition, the students reported a change in their empowerment, the feeling of being motivated and capable of making a change. This feeling was related to the implemented follow-up project and its positive evaluation. (Kote, boy, project+) said:
+… these films also give us some experience and we can assist others in solving some social problems.
+
+Eka reported a visible impact of their project and her belief in the possibility to bring about change:
+I think that change is possible and we can observe these changes. For example, in the past parents had to hide their Down Syndrome baby. But now in our school we have a classmate with Down Syndrome and we feel very comfortable with him. He is involved in everything we do.
+
+Such an opinion corresponds with Giorgi’s (boy, project+) comment on the importance of focusing on real, specific, and locally relevant issues:
+… we have to concentrate on something specific. Maybe our initiative will not be a large-scale one from the global point of view. Nevertheless, taking one specific example or case will help us solve it or at least push towards a solution…. For example, we can surely respond to some facts of discrimination, to what we see every day, and really achieve some changes….
+
+The sense of success motivated the students to do more. Students from all the project+ groups planned to continue with the project and increase its scope. Some students became motivated to deal with this agenda even in their future career. As Zura (girl, project+) or Giorgi (project+) observed:
+… these movies have inspired my interest to work on human rights issues in the future...
+
+Students’ satisfaction
+The students found the presented movies clear, relevant, interesting, emotionally powerful, fair and motivating. As we could see (see Table 2), the students reported a high level of satisfaction with the movies. The only exception was their answer regarding the manipulative features of the movies, which contradicted the following statement expressing fairness in balancing different points of view. It is not clear if the students reported a high level of manipulation or if they did not understand the meaning of this statement clearly. There is reason to assume that the original meaning was altered due to the translation. The students then might have interpreted it as the instructional clarity of the programme, i.e. a positive feature. Because of this possible misunderstanding, we suggest that this item be interpreted very carefully and its importance not be overrated.
+
+Table 2. Student satisfaction
+
+Download CSVDisplay Table
+The prevalently positive feedback was also evident in the recommendations (‘I would recommend...’) where the single most frequent recommendation was to continue with the project and the movies. The second recommendation was to continue in the effort to protect human rights or help others. Other suggestions were rare but a few students also recommended focusing more on the country’s/local problems, providing specific examples from the country, selecting movies according to the students’ age and interest, providing more training and discussions, or offering the project all over Georgia. Although the movies presented human right issues from other countries, most of the students found the information personally important and interesting. Gender differences appeared in practically all the items (see Table 3). As we can see, the girls always rated the programme more positively than the boys; however, the boys liked the programme, too.
+
+Table 3. Differences between boys’ and girls’ satisfaction
+
+Download CSVDisplay Table
+Increasing students’ awareness
+When asked about things they had not known before seeing the movies, the students reflected on several concepts related to the themes of the three movies. As some of the answers were repeated almost identically, it is possible that some of the students simply repeated their peers’ answers. As a result, the following data provide only an approximate insight into the students’ awareness.
+
+Of the 222 respondents, 78 (35%) reported children’s rights (presented in the ‘Kids’ Rights’ series of short movies) as a new issue. They had not known that ‘many products in our shops are produced by kids’, ‘McDonalds’ toys are made by kids’, ‘kids’ rights are violated so much’, or ‘kids are working so hard’. Although they did not mention it explicitly, the students probably associated the concept of children’s rights with the issue of poor working conditions, which was reflected by nine respondents: ‘the working conditions of people were so hard’.
+
+The issue of the rights of and care for handicapped people, presented in ‘The Collector of Bedford Street’, was mentioned by 52 respondents (23%). In some cases, the respondents linked this issue to kids’ rights. The students were most surprised by the fact that ‘People with disabilities can help others instead of only solving their own problems’.
+
+Six respondents mentioned the issue of gender equality, but without any further details.
+
+The situation of immigrants presented in the ‘Bristol Bike’ movie project was mentioned by 10 respondents only, and two others mentioned the idea of recycling presented in the same movie.
+
+In addition, 37 respondents (16%) mentioned general awareness of human right issues (‘there are so many social problems in the world’, ‘human rights are violated on such a large scale’), and 30 (13%) expressed their belief in the power of help (‘a single person can make a change’, ‘still there are people who do good things and help others’, ‘volunteering is so widespread in Europe’, ‘people can achieve everything’).
+
+Impact on students’ attitudes, self-efficacy and the intention to act
+In the evaluation, the differences regarding attitudes, self-efficacy and the intention to act before and after the programme were compared separately for all of the groups. As we can see in Table 4, no effect was found in the control group that did not participate in the programme. In the experimental groups consisting of students who participated in the programme, a statistically significant increase in human rights attitudes was found, but the effect size (Cohen’s d = 0.18) could be regarded as small.
+
+Table 4. Impact on students’ attitudes, self-efficacy and the intention to act
+
+Download CSVDisplay Table
+After dividing the experimental group into subgroups which participated/did not participate in a community-based follow-up project (project+/project– groups), we found a statistically significant increase in human rights attitudes and self-efficacy in the project– group, while in the project+ group the difference was not significant.
+
+The differences between the project+ and project– groups were only significant in the self-efficacy area before the programme (t = 2.02, p = 0.04).
+
+The relatively small effect of the programme masks the existing gender differences. In the group of all involved students (experimental), the only statistically significant effect was found in the girls’ attitudes (Cohen’s d = 0.33) and self-efficacy (Cohen’s d = 0.28), and the first of these effects might be considered moderate (see Table 5).
+
+Table 5. Gender differences in attitudes, self-efficacy and the intention to act (experimental subgroup)
+
+Download CSVDisplay Table
+The differences between the girls’ and boys’ attitudes were not significant before the programme (t = 1.61, p = 0.1), but they were rather significant after the program (t = 4.83, p < 0.0001). The same pattern was found in self-efficacy, where no difference was found before the programme (t = 0.58, p = 0.56), but it was there afterwards (t = 3.77, p < 0.0001). As for the intention to act, the differences between the before/after outcomes of both genders were statistically insignificant.
+
+We also found several significant correlations between the variables under review. Attitudes always strongly correlated with self-efficacy when measured simultaneously (attitudes and self-efficacy before the programme correlated r = 0.66, attitudes and self-efficacy after the programme r = 0.64). Self-efficacy strongly correlated with the intention to act (r = 0.48 before the programme, r = 0.54 after the programme), and the correlation between attitudes and the intention to act was weak before the programme (r = 0.26) and moderate afterwards (r = 0.33). The students’ experience with human rights issues correlated moderately with attitudes (r = 0.3, r = 0.42) while other correlations were weak. The respondents’ age did not correlate with any of the other variables.
+
+The comparison between urban residents (n = 266) and rural residents (n = 66) showed no significant differences between any of the variables before and after the programme, with the exception of self-efficacy after the programme, where urban residents reported a higher level (m = 44.65) than rural residents (m = 43.12, t = 2.12, p = 0.03). However, this finding may have been caused by the relatively small number of respondents in the latter group and, consequently, this outcome is not sufficiently reliable.
+
+Although it might seem strange to find a significant difference in the group without a community-based project and not in the group with an enriched curriculum, this finding cannot be interpreted as meaning that the project– group was more successful. In fact it is reasonable to suppose that the programme worked very similarly for both groups and the difference in significance was caused by the higher number of respondents in the project– group. On the other hand, it is clear that the follow-up project did not make as much difference as we had supposed.
+
+From the practical point of view, the effect found was rather small, even though it may be considered to be moderate for the girls. In light of the results from the qualitative part of the evaluation, it may be assumed that the programme empowered the students to collective action while its impact on the students’ individual features (analysed in the quantitative part of this evaluation) was lower, although still significant.
+
+Teachers’ satisfaction
+All the 16 teachers involved in the programme highly appreciated it, rating it as thematically relevant, age-appropriate, and also motivating and clear (see Figure 4).
+
+From the teachers’ point of view, the students acquired new knowledge and skills and increased their motivation. All the teachers from the sample were supportive regarding the programme and agreed that it should continue. Specifically, they recommended conducting more school-based projects, providing new films and materials, and providing more training and methodological guidelines.
+
+Discussion
+The evaluated programme corresponded with the definition of HRE, as it was based on participative methods, focused on empowerment, and contained elements of education about, through and for human rights (Bajaj, Citation2011; Lohrenscheit, Citation2002; UNESCO, Citation2012). The programme also followed some of the recommended strategies, like developing basic awareness, experiential methods and community-based projects (Banks, Citation2009; Pimentel, Citation2006; Tibbitts, Citation2002; Tucci, Citation2005; Stomfay-Stitz & Wheeler, Citation2005). It also expresses an ambition to shift from the simple ‘knowledge-transmission’ model to an ‘individual empowerment’ model (OHCHR, Citation1997; Tibbitts, Citation2002).
+
+Our inquiry did not find a significant difference between the schools which carried out community-based projects after the OWIS programme and schools that participated without carrying out such projects. However, when interpreting the outcomes of our inquiry, we must bear in mind the methodological limitations of the study and the qualitative research findings. Since the schools involved in the OWIS programme were generally interested in human rights education, many of them participated in other similar projects. As a result, the differentiation between the project+ and project– schools could not be determined as clearly as was intended. Furthermore, the qualitative part clearly demonstrated the impact of the follow-up projects carried out by the students. It is likely that the students’ involvement in follow-up projects might strengthen certain variables not covered by this inquiry (e.g. group cohesion, responsibility, place attachment, etc.).
+
+The programme had no significant impact on the students’ intention to act, although it encouraged them to undertake collective action in favour of human rights in their region. Nevertheless, it increased their positive attitudes and self-efficacy towards human rights issues. Moreover, it also increased the students’ awareness of various topics connected with human rights.
+
+However, not all the students reported a change in their attitudes and self-efficacy; the programme seems to affect girls more than boys. Girls also liked the programme more than boys. There are two possible reasons for this. First, this finding corresponds with other studies in which women reported higher levels of pro-social attitudes than men (Dias-Veizades, Widaman, Little, & Gibbs, Citation1995). Generally, girls seem to be more sensitive to social and environmental issues, and the effects of educational programmes are rarely comparable for both genders. Second, it is also possible to hypothesise that some elements of the programme are not well gender-balanced. The themes of some of the movies in the Kids’ Rights series may resonate more with girls than boys. Although the main heroes of both the other films are men, the male students may not be able to easily identify with the heroes’ specific life situations or social contexts. However, this possible explanation would need to be further analysed in a follow-up evaluation.
+
+Both the students and the teachers evaluated the programme as balanced in terms of information about the issues, as interesting, relevant and fair. Surprisingly, the students also reported a sense of being manipulated by the movies towards pre-conceived answers. However, this was likely due to a misunderstanding; it is possible that the students interpreted the question in the sense of the programme’s clarity. It should be mentioned that the majority of the teachers reported that the programme was ‘too emotional’ for their students, which may be interpreted to mean that some of the movies may have exceeded an acceptable level of emotionality. This finding leads to a further question that is beyond the scope of the evaluated programme: how to seek and balance an acceptable level of emotional load in programmes introducing human rights issues to children?
+
+As our evaluation did not focus on analysing the teachers’ satisfaction with the individual activities of the programme (e.g. worksheets, etc.), we cannot differentiate the level of their satisfaction for these elements. However, from a few comments that the teachers made, it seemed that even though they appreciated the programme they would also have liked to have more detailed guidelines, especially for the follow-up community-based project. It seems that when a programme brings out strong, emotionally loaded reactions in students, this may lead to unexpected situations that the teachers may not be prepared for. Therefore, it would be advisable to develop detailed guidelines for these types of programmes.
+
+The students’ attitudes strongly correlated with their self-efficacy, and their self-efficacy correlated with their intention to act. The correlation between attitudes and intention to act was rather weak, though. This might be explained by the possible influence of other moderating variables that were not covered by the inquiry. Additionally, personal experience with human rights issues moderately correlated with attitudes, while other correlations were weak.
+
+We suppose that the programme in its project+ modification encourages students to undertake collective action towards protecting human rights in their region. However, it seems not to affect the students’ individual intention to act. Thus the programme theory may need to be adjusted so as to better differentiate between the impact to be achieved on the individual level and on the collective level.
+
+To decide whether both of these levels are of the same importance may be another dilemma to tackle for the providers of HRE programmes. If it is individual intention to act that the programme should encourage, it would benefit from clear recommendations to participants as to what they, as individual citizens, can do. However, in light of the magnitude of human rights issues, it might be wise to focus on encouraging collective action only since the chance that the students may achieve success in this way is likely to be higher. If collective action is the goal, the programme theory might need to take into consideration other factors important for a collective decision to take action, such as strategies for the development of group dynamics.
+
+The OWIS programme seems to partially correspond with Ajzen’s Theory of Planned Behavior; one’s attitudes, in themselves, seem to have only a limited effect on one’s intention to act, while other variables (self-efficacy) seem to be important. There is also a similarity with Bandura’s (Citation1977) theory explaining a behavioural tendency through self-efficacy. However, considering the OWIS programme’s flexibility in the area of human rights issues, it is reasonable to suppose that no single theory is wholly applicable here as different areas of responsible behaviour may have altered the impact of the moderating variables.
+
+Only gender seems to be an important factor for moderating the effect of the programme variables studied by this inquiry. Personal experience with human rights issues moderately correlated with attitudes but not with the other variables. The place of residence (city vs. village) does not seem to play an important role, although a significant difference in self-efficacy was found.
+
+The findings of this evaluation study should be interpreted in light of its methodological obstacles. Besides the issues already mentioned, we should be aware of the aspects of social desirability promoted by certain elements of Georgian culture. Social desirability bias may be stronger in the post-intervention testing as the respondents had become more familiar with the realised intervention as well as with the type of the questionnaire. As Schwartz (Citation1992), Schwartz et al. (Citation2012) and Hofstede (Citation1991, Citation2001, Citation2011) argue, some of the regional cultural differences may be interpreted as an interplay of distinctive cultural features, for instance attitudes towards power, the role of gender, individualism, etc. The Georgian culture may be described as masculine, collectivist, with a preference for maintaining a large power distance and avoiding uncertainty (Hofstede, Citation2011). According to Gugushvili and Salukvadze (Citation2015), for Georgian culture it is characteristic to express a high level of hospitality and a willingness to do foreigners a favour, which is sometimes misunderstood by guests from other cultures. Due to these cultural influences, the respondents may have ‘adjusted’ their answers as an expression of their willingness to do a favour to the ‘guests’, especially when the Georgian interviewers represented foreign researchers and programme providers. As a result, cultural differences might mean respondents gave responses about the programme that were more positive than their true feelings (McFarland, Citation2015). Further, since the questionnaires were administered by adults, the students may have felt pressure to provide socially desirable answers and to fulfil the presumed expectations.
+
+The more positive evaluation of the programme by girls may be also explained by the fact that, in the cultural context of Georgia, girls are more willing to provide positive feedback and thus the social desirability bias is even stronger in this sub-group.
+
+However, we believe that these limitations do not compromise the main findings. The OWIS programme – and other programmes based on similar principles – may effectively promote HRE in schools. Nevertheless, their full potential and possible limits need to be studied further.
+
+Conclusion
+The paper presented an evaluation of the One World in Schools HRE programme. The programme seems to be effective in achieving most of its goals. However, several considerations may be recommended. Although no statistical effect of such projects was found, the respondents’ highly positive feedback that was received through the focus groups confirms the importance of this part of the programme theory. The need for better guidelines was mentioned by some of the teachers. Further, if the programme aims to focus on encouraging collective rather than individual action, it should contain recommendations for developing group dynamics and competences for cooperation on a common project.
+
+There are two other recommendations that we would like to propose:
+
+To inquire into boys’ needs as related to the programme’s themes and to make adjustments that would make the programme more attractive and effective for boys. The coordinators might want to examine whether the topics of the selected movies are well gender-balanced. In addition, an opportunity to organise a community-based project may offer adequate challenges for both genders.
+
+To consider specific, locally relevant examples of issues presented in the movies or follow-up materials. The coordinators may consider incorporating the enthusiasm of the involved students and asking them to prepare and share their own, local examples of human rights issues. Involving students in documenting the violation of human rights and in movie-making may have multiple positive effects on both the students’ motivation and the programme’s impact.
+
+As the presented evaluation opened up new areas for consideration, a further evaluation study may bring new insights.

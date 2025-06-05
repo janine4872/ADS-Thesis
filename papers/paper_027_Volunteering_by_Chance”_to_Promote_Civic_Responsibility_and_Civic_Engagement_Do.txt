@@ -1,0 +1,471 @@
+Volunteering by Chance’’ to Promote
+Civic Responsibility and Civic Engagement:
+Does It Work?
+MASSIMO SANTINELLO
+Department of Developmental and Social Psychology, University of Padova, Padova, Italy
+FRANCESCA CRISTINI
+Department of Psychology, University of Valle d’Aosta, Valle d’Aosta, Italy
+ALESSIO VIENO
+Department of Developmental and Social Psychology, University of Padova, Padova, Italy
+LUCA SCACCHI
+Department of Psychology, University of Valle d’Aosta, Valle d’Aosta, Italy
+This study investigated the effectiveness of a program to promote
+civic responsibility and prevent antisocial behavior in a sample
+of Italian adolescents. Participants were 83 Italian male adolescents, attending the second year of high school (Mean age ¼ 15.79;
+15.79; SD ¼ 0.87). In order to test the efficacy of different strategies
+(in-classroom training and service activity in a voluntary organization) we divided students into two experimental groups—one
+classroom of students participated in both strategies (training þ
+volunteering group) and another classroom only participated in
+the training (training only group)—and one control group. Process and efficacy evaluations were completed. Data were collected
+before and following the intervention. The process evaluation
+revealed that the program was highly accepted and appreciated
+by students. The efficacy evaluation revealed no intervention
+effects on civic responsibility. However, the training þ volunteering
+We thank Silvia Formentin, Ilaria Vaccari, Elena Tessari, and Paolo Pietrantoni for their
+contribution to the realization of the project. We also thank all the students, school teachers,
+school administrators, and each member of the local voluntary organizations for contributing
+to this project. This study was supported by a grant from the Italian Ministry of University and
+Research (MIUR), Protocol no. 2008STEEJB_003.
+Address correspondence to Francesca Cristini, Department of Psychology, University of
+Valle d’Aosta, Aosta, Italy. E-mail: f.cristini@univda.it
+Journal of Prevention & Intervention in the Community, 40:64–79, 2012
+Copyright # Taylor & Francis Group, LLC
+ISSN: 1085-2352 print=1540-7330 online
+DOI: 10.1080/10852352.2012.633068
+64
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+group reported a significant decrease in antisocial behavior after
+the program. Thus, the program was effective in preventing antisocial behavior but not in promoting civic responsibility in our
+sample.
+KEYWORDS antisocial behavior, civic engagement, civic
+responsibility, school-based program, service activities
+Civic responsibility, defined as ‘‘attitudes and behaviours that are beneficial
+to society, particularly prosocial community and political attitudes and behaviours’’ (Da Silva, Sanson, Smart, & Toumbourou, 2004, p. 230), is considered
+to be an important component of healthy and positive development. In terms
+of theory, Erikson (1982) has suggested that the development of community
+awareness is important for personal development, particularly for the development of identity which involves the search of a sense of self that enables
+both individual and societal needs to be met. Empirically, high levels of adolescent civic responsibility have been found to be positively associated with
+good psychosocial adjustment (Hart & Fegley, 1995) and negatively associated with antisocial and problem behavior (Zeldin, 2004). Furthermore, civic
+responsibility is required for the effective functioning of democratic society
+(Flanagan & Sherrod, 1998) and it can be an indicator of social capital
+(Prince, 2002). While adopting this perspective, the present study aimed to
+test the efficacy of a program called ‘‘Volontari per Caso’’ (‘‘Voluntary by
+Chance’’), in order to promote civic responsibility and engagement, and to
+prevent antisocial behavior in a sample of Italian adolescents.
+The program was based on the Social Development Model (SDM,
+Catalano & Hawkins, 1996). The SDM, originally developed to explain antisocial=prosocial behavior development (Hawkins, Catalano, & Miller, 1992),
+received many empirical confirmations concerning explanation of psychosocial adjustment. As regards civic responsibility, Da Silva et al. (2004) found
+that the SDM, in comparison with other models, has the most predictive
+value for civic responsibility development. Additionally, peer related factors
+such as peer attachment, peer encouragement and peer participation in service activities were the strongest predictors of civic responsibility during adolescence (Da Silva et al., 2004). Regarding the validity of the SDM toward
+antisocial=prosocial behavior, research has demonstrated the capacity of
+this model to explain antisocial=prosocial behavior development and its
+usefulness in informing the design of prevention and promotion programs
+(Catalano & Hawkins, 1996; Hawkins, Catalano, Kosterman, Abbott, & Hill,
+1999). The SDM outlined the following key variables for the development
+of prosocial=civic attitudes and behaviors: perceived opportunities for
+prosocial=civic involvement; actual involvement; perceived rewards for
+involvement; attachment to like others; belief in prosocial values. Using
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 65
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+the theoretical basis of the SDM, the program Volontari per Caso was
+designed to promote these factors jointly.
+As far as opportunities and actual involvement in prosocial=civic activities are concerned, literature suggests the relevance of school-based programs and service activities to offer opportunities for prosocial=civic
+engagement. Participation in school curricular approaches, such as the
+provision of opportunities to actively discuss social problems, an open classroom climate and the use of simulations, all contribute to the development of
+students’ civic responsibility, civic commitment and skills (Hart, Donnelly,
+Youniss, & Atkins, 2007; Kahne & Sporte, 2008; Torney-Purta, Lehmann,
+Oswald, & Schulz, 2001; see Gibson & Levine, 2003, for a review). Additionally, participation in service learning or community service is associated with
+higher levels of civic responsibility (Metz, McLellan, & Youniss, 2003;
+Schmidt, Shumow, & Kackar, 2007). For these reasons we decided to
+implement a program composed of both a school-based training and service
+activities in community organizations.
+Research has found participation in service activities to be associated
+with two main kinds of outcomes: a positive association with civic responsibility and the expectation of future commitment to service; a negative association with problem and antisocial behavior. On one hand, students involved
+in service activities, as part of school or community-based program and community service, reported a significant increase in civic responsibility and civic
+engagement (Metz et al., 2003; Metz & Youniss, 2005; Schmidt et al., 2007),
+more awareness of the multiple dimensions of social problems (Batchelder
+& Root, 1994) and an increased commitment to community service and intention to continue such service in the future (Reed, Jernstedt, Hawley, Reber, &
+Dubois, 2005; Wilson, Allen, Strahan, & Ethier, 2008). On the other hand,
+research has shown the effect of service learning and community service participation on reducing or preventing adolescent problem behavior; these studies report that engaging in service activity can reduce antisocial behavior,
+at-risk behavior, and disciplinary problems (Vieno, Nation, Perkins, &
+Santinello, 2007; Zeldin, 2004; Youniss, McLellan, Su, & Yates, 1999).
+Based on the SDM and on the previously described literature concerning the role of service activities, the Volontari per Caso program aimed to
+promote civic responsibility and to reduce antisocial behavior using two
+broad strategies: classroom training and service activity in community voluntary organizations.
+THE PRESENT STUDY
+In short, this study focuses on the analysis of students’ evaluation, appreciation, and acceptance of the program Volontari per Caso (process evaluation), and, subsequently, aims to test the effectiveness of the program
+66 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+(efficacy evaluation). The first aim was to investigate whether students liked,
+accepted, and appreciated the program. Secondly, we wanted to examine the
+efficacy of the program in promoting civic responsibility and reducing antisocial behavior. To test the efficacy of the two program’s strategies we realized two experimental groups and one control group: one classroom of
+students participated in both the training and the service activity (training þ volunteering group); one classroom only participated in the training
+(training only group); one classroom did not participate in any activities
+(control group). We assumed that, after the program: (1) Adolescents in
+the training only group will report an increased level of civic responsibility
+in comparison to the control group (Hart et al., 2007; Torney-Purta et al.,
+2001; Gibson & Levine, 2003). (2) Adolescents in the training þ volunteering
+group will report an increased level of civic responsibility in comparison to
+both the control group and those who only participated in the training (Metz
+et al., 2003; Metz & Youniss, 2005; Schmidt et al., 2007). (3) Adolescents in
+the training þ volunteering group will report a decreased level of antisocial
+behavior in comparison to both the control group and those who only participated in the training (Vieno et al., 2007; Zeldin, 2004; Youniss et al., 1999).
+(4) Adolescents in the training þ volunteering group will report higher levels
+of intention for civic engagement after the end of the program (Reed et al.,
+2005; Wilson et al., 2008).
+METHOD
+The ‘‘Volontari per Caso’’ Program
+The Volontari per Caso program is a comprehensive intervention program for
+the promotion of civic responsibility and the prevention of antisocial behavior.
+Based on the SDM (Catalano & Hawkins, 1996), the program was designed to
+give opportunities for prosocial=civic involvement, to promote actual involvement in service activities and belief in prosocial values, to recognize rewards for
+this involvement and to promote positive attachment to prosocial people and
+organizations. To reach these objectives, the program involved two broad strategies: school-based training developed in the classroom and service activity in
+local community voluntary organizations. Both strategies were implemented
+during an entire school year in a high school, involving two experimental
+groups: a training þ volunteering group and a training only group.
+Training involved sessions of two hours, every two weeks, from
+the beginning to the end of the school year. It took place in the classroom during school time. It was composed of activities aimed at promoting reflection on social issues, work group competence, communication
+competence, self-efficacy, and empowerment. A summary description
+of the training activities is reported in Table 1. Two groups=classrooms
+(training þ volunteering group and training only group) attended the same
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 67
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+training contents and activities; the only differences in the classroom training
+between two groups were the following: for the final conference, students of
+training þ volunteering group organized a presentation about the voluntary
+organizations they attended, whereas students of the training only group
+TABLE 1 Summary Description of the Training Activities Developed in the Classroom
+Meetings Activities
+1 Introduction to the program, sharing of the program objectives and activities.
+The students are asked to think and come up with a ‘‘logo’’ for the program.
+2 Presentation of the leaders of the voluntary organizations involved in the program.
+3 ‘‘Ball of wool’’ game: the game aimed to get to know each other and share personal
+information about preferences, qualities, and characters.
+4 Sharing of the regulation and rules to be followed during the program.
+Discussion about ‘‘What does civic responsibility mean, in your opinion? What signs
+of civic responsibility can you see among your friends, in your neighbourhood or
+in wider society?’’
+5 Voting to decide on the ‘‘logo’’ for the program.
+‘‘How many As are there in A’’ game: the game aimed to reflect on communication
+styles and abilities.
+6 ‘‘Black and white’’ game: the game aimed to reflect on and learn about strategies for
+explaining and arguing for personal opinions, for listening and understanding
+other opinions, for finding a solution that takes into consideration the opinions of
+different people. This exercise is intended as a symbolic representation of a
+democratic society.
+Introduction to the organization of the final conference: it was suggested that the
+students should organize this public event with the aim of ‘‘asserting their voice.’’
+Students of the training only group decided to present, as a topic for the
+conference, a social problem related to adolescent life; the topic was chosen by
+students themselves, they were divided in four groups, each group presented one
+of the following topics: family, emotions, drug use, violence. Students of the
+training þvolunteering group aimed to present to the conference the mission of
+the organization they attended and their experience in this organization.
+7 ‘‘The three’’ game: the game aimed to understand the relevance of group work, the
+interdependence between different elements of a group, and the effects of
+effective collaboration
+Explanation and discussion of strategies for organizing the final conference.
+8 Preparation of the instruments for the final conference: poster, power point
+presentations, pictures, and interviews.
+Lesson about how to conduct an interview to collect information about people’s
+opinions on a specific topic.
+9 Lesson about photography and practical experience to learn how to document
+personal opinions through pictures.
+10 Lesson about technical aspects of photography.
+Division in subgroups of students to prepare the interview data and pictures for the
+conference.
+11 Division in subgroups of students to prepare the power point presentations for the
+conference.
+12 Sharing of materials, experiences and opinions of different subgroups about the
+conference.
+13 Simulation of the presentation at the conference, finding solutions for
+organizational problems related to the conference. It was explained that the
+solution needs to be found through common agreement.
+14 Final conference.
+68 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+completed a presentation about a social issue chosen by themselves.
+Training was developed and conducted by two PhD psychology students;
+additionally two undergraduate psychology students were involved to carry
+out activities in the classroom.
+Voluntary activity in local community organizations was attended by
+the students for two hours, every two weeks, throughout the entire school
+year. At the beginning of the program, voluntary organization leaders
+described the mission and activities of their organization and the contribution
+that students could make through voluntary activity. Students could choose
+the voluntary organization in which to spend time volunteering, deciding
+on the basis of their desires, preferences, abilities, and the presence of other
+classmates, given that these variables constitute relevant predictors of civic
+responsibility development and service participation (Da Silva et al., 2004).
+Students attended voluntary organizations during school time because the
+program was organized as part of the school curriculum. Students were
+involved in different activities, depending on the mission of the organization
+they volunteered in.1
+Evaluation Study
+In order to obtain descriptive information about program implementation
+and to test program efficacy (Lipsey & Cordray, 2000; Leone & Prezza,
+2003), both process evaluation and efficacy evaluation of the program were
+completed. The process evaluation collected information about the perception of classroom training activities and the perception of collaboration
+and work group with classmates during these activities, by a questionnaire.
+Additionally, for the training þ volunteering group, we analyzed the perception of service activities in the organizations and the perception of relationships with other volunteers. This information is relevant because negative
+perceptions and dissatisfaction with program contents could reduce program
+efficacy (Lipsey & Cordray, 2000).
+Efficacy evaluation tested the program efficacy as regards the promotion
+of civic responsibility and the reduction of antisocial behaviors. For the efficacy evaluation, we used a longitudinal quasi-experimental design to test program effects on civic responsibility, intention to engage in civic activities and
+antisocial behavior. A questionnaire was administered to the students in two
+waves: at the beginning of the school year, before the program started (Wave
+1); at the end of the school year, when the program was completed (Wave 2).
+Sample
+The program was implemented in an Italian technical high school. Two
+classes participated at the program and two classes were selected as a control
+group. Classes were selected by the teachers among classes at the second
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 69
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+year of high school. In total, the sample was composed of 83 male students;
+30.1% (n ¼ 25) students were in the training þ volunteering group and 27.7%
+(n ¼ 23) in the training only group. Mean age was 15.79 (SD ¼ 0.87). As
+regards the attrition rate, from the total sample eight students were missing
+at the posttest (Wave 2): three control group students, two training only
+group students, and three training þ volunteering group students.
+MEASURES
+Process Evaluation Measures
+PERCEPTION OF TRAINING ACTIVITIES
+Students were asked to evaluate classroom training activities by six items
+analyzing the following dimension: interesting=uninteresting, useful=
+useless, pleasant=unpleasant, involving=boring, new=ordinary, important=
+unimportant (Cronbach a ¼ 0.81). Each aspect was rated by a 5-point Likert
+scale between two opposite adjectives representing a continuum for each
+dimension.
+PERCEPTION OF COLLABORATION AND GROUP WORK BETWEEN CLASSMATES
+Students were asked to evaluate collaboration and group work between
+classmates during training activities by a scale of 8 items (Cronbach
+a ¼ 0.71). Item example: ‘‘During training activities the collaboration between
+classmates produced creative and new ideas.’’ Responses were measured on
+a 4-point Likert scale from ‘‘false’’ to ‘‘true.’’
+PERCEPTION OF ACTIVITIES IN THE VOLUNTARY ORGANIZATIONS
+The perception of service activities was measured by three items (Cronbach
+a ¼ 0.77). Item example: ‘‘Service activities were interesting and pleasant.’’
+Responses were measured on a 5-point Likert scale from ‘‘completely disagree’’ to ‘‘completely agree.’’
+PERCEPTION OF RELATIONSHIPS WITH OTHER VOLUNTEERS
+Relationships with other volunteers was measured by two items: ‘‘In the
+organization people are kind to me,’’ ‘‘Tutors in the organizations are worthwhile people’’ (Cronbach a ¼ 0.60). Responses ranged on a 5-point Likert
+scale from ‘‘completely disagree’’ to ‘‘completely agree.’’
+70 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+Efficacy Evaluation Measures
+CIVIC RESPONSIBILITY
+Civic responsibility was measured with a 10-item scale mainly based on the
+Civic Responsibility Survey (Cristini, Santinello, & Formentin, 2009; Furco,
+Muller, & Ammon, 1998; Service-Learning Research & Development Center,
+1999). The scale was composed of two subscales: interpersonal civic
+responsibility (7 items such as ‘‘I like to be involved in activities aimed at
+guaranteeing equal social, political and occupational rights for all people’’;
+Cronbach a: 0.86 at Wave 1, 0.88 at Wave 2) and environmental civic
+responsibility (3 items such as ‘‘I like to be involved in activities aimed at
+making my neighbourhood=city more secure and pleasant’’; Cronbach a:
+0.62 at Wave 1, 0.59 at Wave 2). Responses were measured on a 7-point
+Likert scale from ‘‘completely disagree’’ to ‘‘completely agree.’’
+ANTISOCIAL BEHAVIOR
+Antisocial behavior was assessed by a 12-item scale (Vieno, Nation, Pastore,
+& Santinello, 2009). Participants were asked to indicate how often they were
+involved in antisocial behaviors in reference to the last month. Item example:
+‘‘Have you ever stolen something in a shop?’’ Responses were on a 6-point
+scale, from ‘‘never’’ to ‘‘more than 20 times.’’ Alpha coefficients ranged from
+0.88 (Wave 1) to 0.84 (Wave 2).
+INTENTION FOR FUTURE CIVIC ENGAGEMENT
+Students were asked to rate their intention to continue to be engaged in voluntary activities in the community organization, after the end of the program.
+This question was only reported for the students of training þ volunteerism
+group at the beginning and at the end of service activities.
+Analysis
+For the process evaluation, we analyzed the percentages of each of the items
+of the process evaluation measures. Percentages for the single items were
+analyzed separately for two experimental groups (training þ volunteering
+group; training only group). Subsequently, a one-way analysis of variance
+(ANOVA) was used to test differences between two experimental groups
+on process variables.
+As regards efficacy evaluation, in order to analyze baseline equivalence
+for students in three groups (training þ volunteering group; training only
+group; control group) we used an ANOVA. To analyze changes on civic
+responsibility and antisocial behavior from Wave 1 to Wave 2, we used
+Generalized Linear Model for repeated measures (factor within subjects: Time;
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 71
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+factor between subjects: Group). To analyze changes on the item measuring
+intention to engage in voluntary activities we used the Wilcoxon test.
+RESULTS
+Process Evaluation
+We analyzed descriptive statistics of indicators used to evaluate students’
+perception of training activities, collaboration between classmates during
+training, activities in the voluntary organizations, relationships with other
+volunteers. As regards students’ perception of training activities, the majority
+of the students in the training only group evaluated training activities as
+highly interesting (50.0%), useful (45.0%), pleasant (66.7%), involving
+(55.0%), new (73.7%), and important (36.8%); similar results were reported
+by students in the training þ volunteerism group: highly interesting
+(60.9%), useful (47.8%), pleasant (69.6%), involving (39.1%), new (69.6%),
+and important (39.1%).
+As regards students’ perception of collaboration and work group
+between classmates during training, both in the training only group and in
+the training þ volunteering group, the majority of the students reported a
+positive evaluation of the collaboration between classmates during training.
+Example percentages of answers to items ‘‘completely and quite agree’’
+include: 71.4% (training only group) and 77.3% (training þ volunteering
+group) for the item ‘‘When I worked with classmates in a group I felt like
+I worked better’’; 76.2% (training only group) and 81.8% (training þ
+volunteering group) for the item ‘‘Collaboration between classmates
+produced creative and new ideas’’; 81.0% (training only group) and 72.7%
+(training þ volunteering group) for the item ‘‘Work in a group makes friendships with classmates stronger.’’ The only exceptions were the items ‘‘During
+group work it is difficult to find agreement’’ (for both groups), ‘‘I felt that difficulties and problems could be better solved in a group with classmates
+other than by myself’’ and ‘‘Group work generates antipathy’’ (for training
+only group), to which students reported a negative evaluation.
+There were no statistically significant differences between training only
+group and training þ volunteering group as regards both perception of training activities (F(1, 37) ¼ 0.06; p > .05) and perception of collaboration and
+group work (F(1, 38) ¼ 1.12; p > .05).
+Perceptions of activities in the organizations and perceptions of the
+relationships with other volunteers were positively evaluated by the
+majority of the students in the training þ volunteering group. The majority
+of the students liked activities in the organizations (81.8%), evaluated these
+activities as interesting and pleasant (91.3%), and reported that thanks to
+these activities ‘‘I’m learning new things and acquiring new knowledge’’
+(60.9%). Tutors of the students in the voluntary organizations were
+72 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+described as valuable people (95.5%) and other volunteers as kindly
+people (90.5%).
+Efficacy Evaluation
+Subsequently, we analyzed the data concerning program effects. The first
+step was to compare baseline values of civic responsibility and antisocial
+behavior for students in the three groups (control group; training only;
+training þ volunteering group). There were no statistically significant differences at the baseline between the three groups (interpersonal civic responsibility: F(2, 74) ¼ 1.65; p > .05; environmental civic responsibility: F(2, 75) ¼ 1.65;
+p > .05; antisocial behavior: F(2, 73) ¼ 2.66; p > .05).
+The second step was to analyze change on target variables between
+three groups. Results of the Generalized Linear Models for repeated
+measures are reported in Table 2.
+As far as civic responsibility is concerned, results of the GLM for
+repeated measures did not show statistically significant interaction for Time- #Group, neither for interpersonal civic responsibility nor for environmental
+civic responsibility. There was a statistically significant main effect of Time
+both for interpersonal civic responsibility (F(1, 65) ¼ 9.53; p < .01) and for
+environmental civic responsibility (F(1, 68) ¼ 6.24; p < .05). These results
+showed that the level of civic responsibility decreased in all three groups,
+and that this decrease in civic responsibility did not significantly differ
+between the three subgroups of students (training þ volunteering group;
+training only group; control group).
+As regards to antisocial behavior, results of the GLM for repeated measures showed a statistically significant interaction Time#Group (F(2, 63) ¼ 5.80;
+p < .01), and a statistically significant main effect of Time (F(1, 63) ¼ 4.07;
+p < .05). These results and observation of mean values showed that levels
+of antisocial behavior decreased exclusively in the training þ volunteering
+group (Wave 1: mean ¼ 2.27; Wave 2: mean ¼ 1.69); students in the training
+only group (Wave 1: mean ¼ 1.86; Wave 2: mean ¼ 1.94) and students in the
+control group (Wave 1: mean ¼ 1.68; Wave 2: mean ¼ 1.67) did not report a
+significant decrease in antisocial behavior (Figure 1).
+TABLE 2 Results of Generalized Linear Models for Repeated Measures
+Within subjects effects Between subjects
+effects
+Time Time# Group Group
+Interpersonal civic responsibility F(1, 65) ¼ 9.53## F(2, 65) ¼ 0.32 F(2, 65) ¼ 1.11
+Environmental civic responsibility F(1, 68) ¼ 6.24# F(2, 68) ¼ 0.20 F(2, 68) ¼ 1.54
+Antisocial behavior F(1, 63) ¼ 4.07# F(2, 63) ¼ 5.80## F(2, 63) ¼ 1.04
+Note. #p < .05. ##p < .01.
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 73
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+Finally, as far as the intention to remain engaged in voluntary activities
+in the future is concerned, the results of the Wilcoxon test showed that there
+were no statistically significant differences between Wave 1 and Wave 2 for
+the students in the training þ volunteering group.
+DISCUSSION
+In the present study, we aimed to investigate students’ evaluation and
+appreciation of the program Volontari per Caso and subsequently to test
+the effectiveness of the program. The first aim was to analyze whether students liked, accepted and appreciated the program, through process evaluation. Second, we examined program effects as regards civic responsibility,
+antisocial behavior, and intention for civic engagement. Process evaluation
+showed expected results while efficacy evaluation showed mixed results.
+Results of the process evaluation showed a positive evaluation of the
+students for both classroom training and service activities in the voluntary
+organizations. The majority of the students evaluated training activities as
+interesting, useful, pleasant, involving, new, and important; additionally they
+reported positive judgment as regard the collaboration and group work
+between classmates during training. In addition, activities in the voluntary
+organizations and relationships with other volunteers were positively evaluated for the majority of the students of the training þ volunteering group. In
+short, these results showed that program activities were highly accepted and
+appreciated by the students.
+As far as efficacy evaluation is concerned, results showed that the program Volontari per Caso was not effective in promoting civic responsibility
+and intention to be engaged in voluntary activities; on the other hand, the full
+FIGURE 1 Mean value of antisocial behavior, for the three groups (control group; training þ
+volunteering group; training only group).
+74 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+version of the program (training þ volunteering group) was effective in
+reducing antisocial behavior. We did not find positive effects on civic
+responsibility for both of the two experimental groups; this result was contrary to our hypothesis for the training only group (Hart et al., 2007; TorneyPurta et al., 2001; Gibson & Levine, 2003) and for the training þ volunteering
+group (Metz et al., 2003; Metz & Youniss, 2005; Schmidt et al., 2007). As the
+level of civic responsibility decreased in all three groups, we may hypothesize that this decrease is related to developmental processes and future studies need to longitudinally test this hypothesis. Furthermore, the hypothesis
+concerning intention for future civic engagement (Reed et al., 2005; Wilson
+et al., 2008) was not confirmed. Instead, results concerning antisocial behavior confirmed our hypothesis (Vieno et al., 2007; Zeldin, 2004; Youniss
+et al., 1999).
+First of all, as we are aware of some limitations of this study, we do not
+want to argue, based on these results, that service activities and school based
+programs are ineffective in promoting civic responsibility and civic engagement. We need to outline that these results can not be generalized as they
+were obtained on a small sample. A limitation of the study is indeed the relative small sample size, which limits statistical power of the analysis. Additionally, because the small sample size, we could not compare the effects among
+different volunteer organizations=sites. Future implementation and evaluation of the program on a larger sample is needed. Further limitations of
+the study should be noted. The program was realized in a specific kind of
+school: a technical high school, which in Italy is usually attended by students
+of families with low socioeconomic status (SES), in comparison with other
+kinds of high school. Future studies should test the program in different
+school contexts. Additionally, all data regarding process and efficacy evaluation are based on self-reports by students; future studies should try to utilize
+additional sources of data by teachers, program and voluntary organization
+leaders, and external observations.
+Despite these limitations, results of the present study offer some suggestions concerning promotion of civic responsibility and prevention of antisocial behavior. In any case, we can make some preliminary suggestions
+and interpretations about the obtained and unobtained effects of the program. Results about civic responsibility and intention to be engaged in voluntary activities lead us to think critically about the effects of required versus
+voluntary service (Schmidt et al., 2007). In our program, service activities
+were part of school curriculum and they were required during school time.
+The practices of requiring a service has been debated and some argue that
+requiring voluntary activities is a contradiction and those students who are
+not motivated to volunteer on their own will not derive benefits (Raskoff
+& Sundeen, 1999). We require additional comparison between compulsory
+versus voluntary service to test if compulsory service is an effective way of
+promoting civic responsibility. For example, a new version of the program
+Civic Responsibility, Antisocial Behavior, Training, and Service Activities 75
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+could be defined in which voluntary activities will only be attended by students whose voluntarily desire to do that; other students could only attend
+the training in the classroom.
+Another possible explanation for the results about civic responsibility
+and intention to be engaged in voluntary activities is linked to the fact that
+service activities do not take the form of authentic service learning. Many
+research studies have showed positive associations between service learning
+participation and civic responsibility (Metz et al., 2003; Metz & Youniss, 2005;
+Schmidt et al., 2007). Service learning is defined as ‘‘service activities that are
+integrated into the curriculum and purposefully organized in order to follow
+academic content, standards, and learning objectives’’ (National Commission
+on Service-Learning, 2002; Skinner & Chapman, 1999, reported in Schmidt
+et al., 2007, p. 128). In any case, for the Volontari per Caso program, service
+activities were defined as part of the school time, but program activities and
+objective were not linked to other academic contents and learning objectives.
+The experimental school was a technical high school with no contents that
+were similar and linked to training contents and service activities. We need
+to test similar programs in schools where school subjects and learning objectives include more courses=classes about psychology, civic education,
+sociology, and so on.
+Additionally, we need to control, in future studies, other variables that
+could influence efficacy of the program. For example, baseline attitudes of
+students toward voluntary activities and the type of activities required could
+influence the efficacy of service activities on civic responsibility and intention
+to be engaged in voluntary activities. Some studies showed that students
+already inclined to serve reported no advantage from attending service activities; however, students who were less inclined to serve showed marked gains
+on civic measures after completing their requirement (Metz & Youniss, 2005).
+Other studies (Schmidt et al., 2007; Metz et al., 2003) have reported that the
+type of activities (direct interaction with people in need, to help organizations, to help environment=animals) influences the size and kind of effects
+of service learning (improvement in grades, civic knowledge, and engagement). Future studies need to use larger samples and analyze the effects of
+the civic responsibility promotion program on subgroups of students based
+on baseline attitudes toward voluntary activities and the type of chosen
+activity.
+In short, while taking into consideration the limitations of this study, the
+results highlight the potential effects of service learning as a strategy for
+reducing antisocial behavior. Our results suggest that service activities combined with classroom training may play a useful role in a comprehensive
+approach to health promotion among adolescents. Participation in these
+activities can offer opportunities for adult contacts and peer interaction, for
+increasing the likelihood of prosocial bonds being formed and consequently
+it can show the effect of preventing or reducing antisocial behavior. On the
+76 M. Santinello et al.
+Downloaded by [francesca cristini] at 01:32 23 January 2012
+other hand, we need additional support to find an effective way to use service learning or community service participation as a strategy for promoting
+civic responsibility and engagement.

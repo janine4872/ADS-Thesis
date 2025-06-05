@@ -1,0 +1,1287 @@
+ABSTRACT
+The purpose of this quantitative study was to examine the influences of a school-based cultural
+awareness program on ethnic identity and self-esteem in fifth grade early adolescents. The
+development and implementation of a school-based cultural awareness program was intended to
+offer students a basic foundation for the development and/or enhancement of ethnic identity and
+self-esteem. 106 fifth grade early adolescents participated in this study. All participants were
+recruited from one elementary school in the southeastern part of the United States. Participants
+completed a research packet including the Multigroup Ethnic Identity Measure (MEIM) and the
+Rosenberg Self-Esteem Scale (RSE) both before and after the program. Results indicated a
+significant relationship between ethnic identity and self-esteem. Also, results of this study
+showed a significant difference between ethnic identity and self-esteem after participation in the
+cultural awareness program. The findings of this study are related to previous research. The
+implications of this study, limitations, and suggestions for future research are discussed
+INTRODUCTION
+Various reasons for a culturally attentive guidance and counseling program exist, but it is
+possible that the most important is the need to recognize and appreciate the ethnicity of all
+children in order to enhance their self worth and dignity (Roth, 2005). Connolly and Hosken
+(2006) confirmed that once children begin to notice cultural and physical differences, they also
+develop the potential to negatively associate dissimilarities with individuals who are different
+from themselves. Subsequently, uniquely different children can experience setbacks in many
+forms including, but not limited to self-esteem. Umaña-Taylor and Updegraff (2007) indicated
+that children with high self-esteem have more positive life outcomes. Furthermore, ethnic
+minority children knowledgeable about their cultural background often have higher self-esteem.
+―It is possible that ethnic identity can serve as a protective role for individuals’ self-esteem in
+that it provides a positive sense of self‖ (Umaña-Taylor & Updegraff, 2007, p. 552). Fisher,
+Wallace and Fenton (2000) proposed that an engagement with diversity, whether it be in the
+form of a conversation or a chance meeting with a different population, affects the way a child
+sees himself in the world. With that being said, it is imperative that school counselors
+understand this and plan accordingly.
+It is important to note that one of the most significant components of adolescents’ overall
+development is identification (Erikson, 1968; Marcia, 1980). Erikson describes identity
+formation as an exploration process in which youth develop a sense of self and begin to
+understand and join together inner-self and personal well-being. Young people begin to answer
+2
+the question, ―Who am I?‖ Ethnic identity helps to answer this question as it is a large part of an
+individual’s personality (Bernal & Knight, 1993).
+According to Phinney, Lochner, and Murphy (1993), there should be two main areas of
+focus when working with adolescents to enhance their ethnic identity: 1) lack of knowledge
+and/or prejudice against themselves and their cultural group, and 2) recognition of the dominant
+culture, their own culture, and the impact both have on their lives. Through exploration,
+minority youth can begin to deal with such issues and eventually arrive at a sense of belonging
+and commitment to culture.
+Minority membership coupled with adolescence can lead to an at-risk status (Phinney et
+al., 1993). Although several issues associated with adolescence can lead to such a status, failure
+to explore ethnic identity is certainly among the list. Children who fail to explore their ethnic
+identity are more susceptible to self-esteem exploitation. Without a stable sense of self, children
+are less likely to be successful, personally and academically (Roth, 2005). A need for school
+counselors to focus on ethnic identity exists because it is an important factor in the development
+of self-esteem in children and adolescents.
+Statement of the Problem
+A lack of cultural awareness or cultural recognition equates to a lack of basic essentials
+for the development of self-esteem (Roth, 2005). Because the number of minority youth in
+America is increasing at a staggering rate, cultural awareness must increase as well (Bernal,
+Knight, Ocampo, Garza, & Cota, 1993). School counselors are in a critical position and can
+have an overwhelming effect on students’ self-esteem. It is important for school counselors to
+attend to students’ differences while appreciating them at the same time (Bernal & Knight,
+3
+1993). Working with students without recognizing their differences can prove to be
+unproductive.
+Coleman and Lindwall (2008) advised that school counselors know
+how to conceptualize, structure, and implement a CGCP [comprehensive guidance and
+counseling program] that is attentive to the cultural needs of youth in today’s society and
+allows the school counselor to continually be cognizant of how his or her work impacts
+the development of youth (p. 205).
+In addition, the authors asserted that by the time a child enters grade 12 he should be able to
+demonstrate: a) knowledge and understanding of his own culture; b) the ability to effectively
+explore, rationalize, and express cultural ideas; c) an understanding of the American culture; d)
+the ability to work with diverse populations; and e) application of interpersonal conflict
+resolution. Students demonstrating the aforementioned skills feel more self-assured and
+comfortable discussing cultural issues than their uninformed counterparts (Umaña-Taylor &
+Updegraff, 2007).
+In schools, counselors should advocate for equal opportunity in order for equal
+achievement to be obtained (Aboud & Doyle, 1993). Each student has particular characteristics,
+traditions, and experience distinct issues and challenges (Bernal et al., 1993; Phinney & Kohatsu,
+1997). Ignoring ethnic differences denies a central part of the individual. Ethnic individuality
+needs to be recognized as it can serve as a key to educational success. It has been stated that
+students with higher ethnic identity also possess higher self-esteem, which, in turn, leads to
+higher academic achievement (Chappell & Overton, 2002; Cokely & Chapman, 2008; Phinney,
+1992; Okwumabua, Wong, Duryea, Okwumabua, & Howell, 1999; Umaña-Taylor & Updegraff,
+2007). Therefore, a need for culturally supportive educational environments is present.
+4
+Purpose Statement
+The purpose of this quantitative study is to examine the effectiveness of a school-based
+cultural awareness program as a means to enhance ethnic identity and improve self-esteem in
+fifth grade early adolescents. Over the past few decades researchers have begun to investigate
+the effectiveness of culturally relevant guidance and counseling programs. More importantly,
+research studies on multicultural concerns have positively influenced schools and communities
+(Chappell & Overton, 2002; Cokely & Chapman, 2008; Phinney, 1992; Okwumabua et al., 1999;
+Umaña-Taylor & Updegraff, 2007). Unfortunately, studies focused on actual school-based
+cultural awareness programs and their relationships to self-esteem are limited.
+Significance of the Study
+Because there is little research on actual programs for youth that focus on cultural
+awareness, this study will add significantly to existing research and will inform future research.
+In addition, students’ participation in the program will enhance their cultural awareness. Not
+only will the students be more aware of their own culture, they will also be more aware of
+others’ cultures. This too will lead to improved cultural sensitivity among the participants.
+Specific Research Questions
+This quantitative study is designed primarily to examine the influences of a school-based
+cultural awareness program on ethnic identity and self-esteem in fifth grade students. The
+overarching research question is as follows: What effect does a school-based cultural awareness
+program have on students’ ethnic identity and self-esteem? The study addresses the following
+secondary research questions:
+5
+1. Is there a relationship between self-esteem and ethnic identity in fifth grade students?
+2. Is there a significant difference in mean self-esteem pretest and posttest scores on the
+Rosenberg Self-Esteem Scale for fifth grade students who have participated in a schoolbased cultural awareness program when compared to fifth grade students who have not
+participated in a school-based cultural awareness program?
+3. Is there a significant difference in mean ethnic identity pretest and posttest scores on the
+Multigroup Ethnic Identity Measure for fifth grade students who have participated in a
+school-based cultural awareness program when compared to fifth grade students who
+have not participated in a school-based cultural awareness program?
+It is predicted that student involvement in a cultural awareness program will increase the level of
+ethnic identity and the level of self-esteem.
+Hypotheses
+The central research hypotheses most important to this study are presented in both the
+null and alternate form and are as follows:
+Ho1: There is insufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+Ha1: There is sufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+Ho2: There is insufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+Ha2: There is sufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+6
+Ho3: There is insufficient evidence of a significant difference in mean ethnic
+ identity posttest scores by method of instruction when controlling for pretest
+ scores.
+Ha3: There is sufficient evidence of a significant difference in mean ethnic
+ identity posttest scores by method of instruction when controlling for
+ pretest scores.
+It is important to note that in hypotheses two and three the phrase ―method of instruction‖ refers
+to the following: 1) participation in the school-based cultural awareness program, and 2) no
+participation in the school-based cultural awareness program.
+Definition of Terms
+Ethnic identity. Having a ―commitment and sense of belonging to the group, positive
+evaluation of the group, interest in and knowledge about the group, and involvement in social
+activities of the group‖ (Phinney, Cantu, & Kurtz, 1997, p. 168).
+Self-esteem. ―How individuals evaluate themselves favorably or unfavorably‖ (Ward &
+Redd, 2007, p. 184).
+Affirmation, belonging, and commitment. An affective element of ethnic identity that
+includes satisfactory feelings towards and meaningful interactions with a particular ethnic group
+(Erikson, 1968; Phinney, 1992).
+Ethnic identity search. A developmental and cognitive element of ethnic identity that
+includes exploration of what it means be a member of a particular ethnic group (Erikson, 1968;
+Phinney, 1992).
+7
+Cultural awareness program. A six-week series of classroom guidance lessons that
+lend to the development of an awareness of one's own culture, history, lifestyle, and experiences
+while also learning the same about others.
+Cultural diversity. ―The coexistence of different ethnic, gender, racial, and
+socioeconomic groups within one social group‖
+(http://dictionary.reference.com/browse/cultural+diversity).
+Limitations
+The major limitation of this study is that the generalizability of the results will be limited
+to the particular grade level assessed within the specified school. Also, the participants may not
+include a broad range of ethnic groups, which would limit the study’s generalizability for most
+ethnic groups. The development of the program by the researcher must also be taken into
+consideration.
+Delimitations
+Although not including all possible ethnic groups, research for this study will be
+conducted in a diverse inner-city elementary school. Intact groups will be chosen on the basis of
+their inherent diversity. A pre-test/post-test design will be utilized in the collection of the data.
+Both tests were originally developed to be used with children and adolescents. The researcher
+will be present for data collection to ensure that similar methods are employed.
+Conclusion
+This quantitative study is designed primarily to examine the influences of a school-based
+cultural awareness program on ethnic identity and self-esteem in fifth grade early adolescents.
+The study addresses the following research question: What effect does a cultural awareness
+program have on students’ ethnic identity and self-esteem? It is predicted that student
+8
+involvement in a cultural awareness program will increase the students’ level of ethnic identity
+and self-esteem. More specifically, it is believed that, initially, the level of ethnic identity will
+increase, which is a direct catalyst for the increase in the level of self-esteem.
+Organization of the Study
+Chapter I provides an introduction to the study that includes the purpose statement,
+statement of the problem, significance of the study, research questions, hypotheses, limitations,
+and delimitations of the study. Chapter II consists of a review of the literature covering the areas
+of ethnic identity development, the relationship between ethnic identity and self-esteem, the
+impact of ethnic identity and self-esteem on academic achievement, and ethnic awareness
+programs for children and adolescents. Chapter III provides the methodology, which contains
+information about the selection of participants, instrumentation, experimental design, procedures,
+statistical tests, and data analyses. Chapter IV presents the results by way of an in-depth
+explanation of the findings of the study. Chapter V provides a discussion that links the findings
+of the study with implications for school counselors and comprehensive guidance and counseling
+programs.
+9
+CHAPTER II
+REVIEW OF THE LITERATURE
+This review of the literature will present research in the areas of ethnic identity and selfesteem. In an attempt to better understand ethnic identity, ethnic identity development literature
+will be examined. When discussing the relationship between ethnic identity and self-esteem,
+particular attention will be given to African-American, Latino-American, Asian-American, and
+Biracial children. This will highlight issues that may require particular attention when working
+with diverse youth. In order to further establish importance for school counselors’ awareness,
+academic success as it relates to ethnic identity and/or self-esteem will also be considered.
+Furthermore, a review of ethnic awareness programs will be included.
+The literature will be presented in the following manner: 1) ethnic identity development,
+2) relationship between ethnic identity and self-esteem, 3) impact of ethnic identity and/or selfesteem on academic achievement, and 4) various ethnic awareness programs involving children
+and adolescents.
+For the sake of this study, the operational definition of ethnic identity is having a
+―commitment and sense of belonging to the group, positive evaluation of the group, interest in
+and knowledge about the group, and involvement in social activities of the group‖ (Phinney et
+al., 1997, p. 168). The operational definition of self-esteem is ―how individuals evaluate
+themselves favorably or unfavorably‖ (Ward & Redd, 2007, p. 184).
+10
+Ethnic Identity Development
+Connolly and Hosken (2006) found that children begin to notice differences in culture
+and physical appearance as early as age three. Such recognition could be the foundation for
+identification with one’s ethnic group. Furthermore, ethnic identity begins to develop in middle
+childhood and adolescence (Holcomb-McCoy, 2005). Holcomb-McCoy proposed that during
+adolescence, children begin to mature and develop their worldview. Children start to realize they
+are members of a certain group of people and begin to identify with said group (Phinney et al.,
+1997). Some researchers characterized ethnic identity as a developmental process occurring
+most often in adolescence (Phinney, 1990; Whitehead, Ainsworth, Wittig, & Gadino, 2009). As
+children enter this stage of their life, knowledge about and interactions with their culture begin to
+resonate with them. Adolescents are developmentally capable of receiving and understanding
+cultural contexts.
+It is important to note that one of the most significant components of adolescents’ overall
+development is identification (Erikson, 1968; Marcia, 1980). When adolescents begin to form an
+identity, they are developing a sense of self and attaching meaning to it. Sometimes the meaning
+of one’s existence is closely linked to that individual’s ethnic identity. It is, therefore, important
+to understand how such an identity comes about.
+In a research study, Phinney (1989) developed and tested the applicability of an ethnic
+identity developmental model. The study included 91 African-American, Asian-American,
+Latino-American and Caucasian adolescents from urban high schools. The study was mixedmethods, having both interviews and a questionnaire. Phinney found that minority adolescents
+experienced a period in which the need to deal with their ethnicity was apparent. Additionally,
+issues of prejudice, American standards of beauty, culturally-based academic pressures, and job
+11
+discrimination were found to plague the minority adolescents. Also, Caucasian adolescents
+deemed their ethnicity as synonymous with American culture. This revealed a deficiency in
+pluralistic ethnocentrism among this group of adolescents. Moreover, it was discovered that this
+group of adolescents considered American culture to be centrally important in a society that is
+made up of diverse members that value their traditional culture as most significant.
+Phinney (1989) discovered that a large number of the participants had not yet explored
+their ethnicity as an entity of their personal identity. One fourth of the participants had explored
+their identity and another fourth felt confident as part of a particular ethnic group. Using the
+Bronstein-Cruz Child/Adolescent Self-Concept and Adjustment Questionnaire, Phinney (1989)
+postulated that those minority adolescents having explored and understood the meaning of their
+ethnicity provided evidence of ―higher scores of self-evaluation, sense of mastery, social and
+peer interactions, and family relations‖ (p. 47). This conclusion suggests that a connection to
+one’s ethnicity is central to one’s sense of self.
+Based on the previously discussed research study and the developmental models of
+Erickson (1968) and Marcia (1980), Phinney (1990) provided a model of ethnic identity
+development in adolescence that consists of three stages: unexamined ethnic identity, ethnic
+identity search/moratorium, and ethnic identity achievement. According to Phinney’s model of
+ethnic identity development, adolescents who have not yet explored their ethnic identity are in
+the first stage of the model. These adolescents have little to no desire to become more
+knowledgeable in their cultural context. Therefore, a lack of a clear understanding exists.
+Adolescents in the ethnic identity search/moratorium stage are attempting to explore their
+ethnic identity, but have not fully committed to what their findings may mean (Phinney, 1989,
+1990). Adolescents in this stage are confused about what it means to belong to a particular
+12
+ethnic group. The last stage of the model is ethnic identity achievement. Adolescents in this
+stage have explored and now understand and accept their ethnic group. Characteristics of
+adolescents in this stage might be ethnic pride, a sense of belonging, and self-confidence
+(Holcomb-McCoy, 2005; Phinney, 1989, 1990).
+Whitehead et al. (2009) presented research that supports the stages of Phinney’s (1990)
+ethnic identity development model. The authors developed and implemented two models that
+measured adolescents’ level of ethnic identity exploration as well as ethnic identity affirmation
+and belonging. The models were temporal in nature and participants included 571 adolescents
+from various ethnic groups. Whitehead et al. determined that, over time, adolescents progress
+from exploration (stage two of Phinney’s ethnic identity development model) to affirmation and
+belonging (stage three of Phinney’s ethnic identity development model). This is opposed to the
+alternative model that suggested a progression from affirmation and belonging to exploration.
+The findings suggested that it is essential for adolescents to first explore their ethnicity in order
+to achieve comfort and security in their ethnic identity. In addition, the results indicated that
+once adolescents explore and discover the meaning attached to their ethnicity, they will then
+develop a connection with their ethnic group, which brings about positive feelings for that group
+and others.
+Umaña-Taylor, Gonzales-Backen, and Guimond (2009) performed a longitudinal study in
+order to determine if ethnic identity was a developmental process for 323 Latino adolescents. As
+indicated in this study and previously discussed studies, ethnic identity appears to be a process
+beginning with exploration and ending with understanding. Over the course of four years, the
+researchers aimed to determine whether Latino adolescents’ ethnic identity exploration,
+13
+resolution, and affirmation increased with time. The authors reported significant positive linear
+growth for each of the three variables ranging in time from middle to late adolescence.
+Relationship Between Ethnic Identity and Self-Esteem in Children
+It has been said that ethnic identity is a major contributor of self-esteem in children
+(Phinney et al., 1997). This is said to be true across all ethnic/cultural groups of young people.
+Furthermore, studies have revealed that the higher the ethnic identity of children, the higher the
+self-esteem (Alvarez & Helms, 2001; Holcomb-McCoy, 2005; Phinney et al.; Smith, Levine,
+Smith, Dumas, & Prinz, 2009). As stated in the operational definition, a sense of belonging is an
+important entity of ethnic identity. Holcomb-McCoy (2005) and Phinney et al. stressed the
+significant relationship between positive identification with one’s ethnic group and positive selfesteem. It appears that a sense of belonging, in particular, is essential to the self-esteem of
+children. Those children with strong feelings of belonging and high levels of ethnic identity are
+often the same children cognizant of discrimination and racism. Even still, children’s selfesteem remains in tact because they have more effective ways of dealing with such issues
+(Holcomb-McCoy, 2005). It can be inferred that children in healthy relationships are well
+adjusted and equipped with the tools needed to handle everyday-life issues.
+Feeling a positive connection with one’s ethnic group carries a great deal of weight in a
+child’s development. It is important that school counselors recognize this relationship and plan
+accordingly. Before ethnic awareness efforts can be put in place, there are other factors
+regarding ethnic identity and self-esteem in children that need to be addressed. The next section
+of this literature review will focus on specific ethnic groups and corresponding areas for
+consideration.
+14
+African-American Youth. With age, African-American children have a particular need
+to feel close to their ethnic group (Phinney et al., 1997; Smith et al., 2009). Smith et al. declared
+that a positive sense of belonging to the African- American culture is almost synonymous with
+healthy development. This is an extremely important factor to consider when working with
+African-American youth. Even more, group identification may be a greater issue for AfricanAmerican girls. According to Smith et al., African-American boys possessed a higher level of
+group identification than their female counterparts. Because group identification is such an
+essential component of African-American youth’s healthy development, it is apparent that
+special attention should be given to African-American girls whose sense of belonging may be
+wavering. African-American girls and boys depend upon the support of parents, friends, the
+community, and so forth. Phinney et al. and Smith et al. stated that girls may tend to need a bit
+more emotional support.
+Latino-American Youth. There seems to be little research on this population in regard
+to ethnic identity and self-esteem. Nonetheless, a group of particular researchers (Phinney et al.,
+1997) discovered a few factors that influence the ethnic identity and self-esteem of LatinoAmerican children. Similar to African-American youth, Phinney et al. found that gender plays a
+role in the ethnic identity and self-esteem of Latino-American youth. Latino-American boys
+have a more positive ethnic identity, thus, more positive self-esteem. Latino-American girls may
+require more in-group support and validation. Family is very important within the LatinoAmerican community. Furthermore, familial relationships affect the levels of ethnic identity and
+self-esteem in their children. Level of acculturation is yet another factor to consider. Phinney et
+al. proposed that low levels of acculturation tend to associate with poor language skills, which
+translates into little communication with others that can then result in few friendships. One more
+15
+area of consideration regarding Latino-American youth is the manner in which they take in other
+groups’ attitudes toward their culture. Phinney et al. concluded that the way Latino-American
+children perceive other groups’ view of them affects the way they feel about their cultural
+identity and self-worth.
+Asian-American Youth. As with Latino-American children, little research was found
+pertaining to ethnic identity and self-esteem. According to Alvarez and Helms (2001) myths
+exist that suggest Asian-American children are accepted in America and do not experience issues
+like racism, low self-esteem, or low levels of ethnic identity. On the contrary, Asian-American
+youth do encounter these problems and it is important to address them. One very important area
+to consider when assessing ethnic identity and self-esteem is racial ―messages‖ (Alvarez &
+Helms, 2001, p. 218). The authors explained that racial messages are communications related to
+race sent by family, friends, schools, churches, and other social groups that attach value to
+Asian-American youth’s culture and sense of self. These messages shape the perceptions these
+children have about themselves. When Asian-American children receive positive racial
+messages, they tend to have a greater sense of ethnic pride, which, in turn, leads to a higher selfesteem. Moreover, Asian-American children hold a very high regard for other Asian-Americans.
+This being so, it is imperative that parents, peers, and the community play a positive role in the
+development of their youth.
+Biracial Youth. Biracial children are met with a unique set of circumstances. Because
+biracial children stem from more than one ethnic group, they often experience a lack of social
+acceptance and group identification (Benedetto & Olisky, 2001; Ward & Redd, 2007). This can
+lead to feelings of inadequacy, estrangement, or paranoia. Ward and Redd suggested that
+another area of concern for biracial youth is skin color. The degree of color in the skin is said to
+16
+affect the relationships biracial children have with others. Family and community members as
+well as society as a whole are sometimes unsure about the type of interactions they wish to have
+with biracial children based on their skin color. More than any other ethnic group of children,
+biracial children encounter prejudice from all sides, sometimes not even being accepted by either
+ethnic group.
+Impact of Ethnic Identity and/or Self-Esteem on Academic Achievement
+The Education Trust’s National Center for Transforming School Counseling (TSC), one
+of the nation’s leading school counseling organizations, supports the idea that school counselors
+are an integral part of students’ academic achievement (Pérusse & Colbert, 2007; Pérusse,
+Goodnough, Donegan, & Jones, 2004). In demonstrating the relationship between ethnic identity
+and self-esteem, it is also important to show how these entities contribute to academic success.
+Even today, schools are plagued with ethnic/racial segregation and these disparities are mirrored
+in academic achievement.
+Steele (1999) suggested that stereotypical views of minorities’ academic abilities could
+be detrimental to their ability to achieve. In this particular study, Steele tested both AfricanAmerican and Caucasian individuals using sample questions from a standardized test. The test
+was given twice under different circumstances. The first test was given under the instruction that
+it was to measure intellectual ability. The second test was understood to be a task invented to
+study how individuals solve problems differently. Steele determined that the African-American
+participants performed as well as their Caucasian counterparts when the test was presented as
+something other than an assessment of intellectual ability. Steele deducted that susceptibility to
+stereotypes could negatively affect academic performance across ethnic groups. Furthermore,
+17
+internalized views about one’s ethnicity can result in damaged self-esteem, which may lead to
+low overall performance.
+Chappell and Overton (2002) performed a research study that related socioeconomic
+status, ethnic identity, and self-esteem to 330 African-American adolescents’ ability to
+deductively reason and perform in school. The research revealed that participants with higher
+ethnic identity scores also demonstrated higher reasoning abilities. The authors inferred that
+adolescents possessing a positive view of their ethnic group held a more positive view of their
+cognitive abilities.
+Cokley and Chapman (2008) performed a study that examined whether ethnic identity
+had an impact on the academic self-concept of African-American students. The participants
+included 274 African-American college students within a predominantly African-American
+university in the south. The research determined that a positive ethnic identity predicted higher
+academic self-concepts among the participants. Those students with higher academic selfconcepts also had higher grades. This conclusion suggested an indirect yet significant link
+between ethnic identity and grade point average.
+In a similar study, Phinney (1992) examined the level of ethnic identity exploration as a
+potential method to increase academic confidence. The author noted that negative attitudes about
+minority groups’ intellectual abilities could lead to low academic performance. Phinney
+investigated the level of ethnic identity in high school students from multiple ethnic groups. The
+study found that high school students with a 3.0 grade point average or higher also scored higher
+in regards to ethnic identity. Students with grades averaging in the C or D range scored lower on
+the ethnic identity measure. Phinney proposed that ethnic identity could serve as a protective
+force against stereotypes that weaken students’ academic self-concept.
+18
+Whitesell, Mitchell, Spicer, and The Voices of Indian Teens Project Team (2009)
+investigated important factors related to the academic success of American Indian adolescents.
+Among these factors were self-esteem and ethnic identity. The sample included 1,611
+adolescents from the Voices of Indian Teens Project. The study was longitudinal in nature and
+occurred over the course of three years. The results showed a strong relationship between selfesteem and positive academic achievement. Furthermore, it was determined that self-esteem had
+a larger impact on academic success than did academic success on self-esteem. In contrast to
+other studies, there was no significant relationship between American Indian identity and
+academic success. Whitesell et al. implied that further research of the American Indian culture
+might be necessary in order to understand this discrepant view.
+Research on the impact of ethnic identity and self-esteem on academic achievement
+varies, but overall support for the enhancement of ethnic identity as an agent for academic
+success exists. With this in mind, it is important to review how ethnic awareness is being
+communicated to school-aged children.
+Ethnic Awareness Programs for Children and Adolescents
+National standards insist that school counselors ―develop comprehensive guidance and
+counseling programs that appropriately address multicultural issues‖ (Coleman & Lindwall,
+2008, p. 204). Furthermore, research has indicated that ethnic identity and self-esteem have a
+positive relationship. It is believed that children educated about their ethnic identity are often
+times the children with high self-esteem and academic success (Chappell & Overton, 2002;
+Cokely & Chapman, 2008; Phinney, 1992; Okwumabua et al., 1999; Umaña-Taylor &
+Updegraff, 2007). The following is a review of past research in respect to specific cultural/ethnic
+identity programs and their influences.
+19
+Cultural awareness activities can be infused very early in a child’s education. Kirk and
+Anicich (1996) developed a cultural awareness program for kindergarten students. The program
+consisted of many activities including, but not limited to journal entries, theatrical play, arts and
+crafts, culturally specific music and songs, as well as diagramming variations of physical
+appearance. The program ended with the assembling of a ―Culture Quilt‖ (Kirk & Anicich,
+1996, p. 312). Through intense observation, the authors were able to convey that, after being
+educated, the children felt empowered and accepting of every student in the class. The students
+were holding hands and sharing hugs. The innate goodness of each child was revealed and a
+community was formed.
+Similarly, Connolly and Hosken (2006) worked with children of a very young age. Their
+program included eight classes made up of students ages six and seven. The program aimed to
+increase students’ awareness of cultural differences. The students participated in activities such
+as theatrical play as well as various activities led by teachers in the classroom during circle time.
+The study had the following objectives: ―increase children’s ability to recognize, without
+prompting, instances of social exclusion; reduce children’s tendency to stereotype others by
+increasing their awareness of the many different things that children share in common; increase
+children’s willingness to be more inclusive of others who are different from themselves‖
+(Connolly & Hosken, 2006, p. 111). The authors used pictures to measure the effects of the
+program. For example, students were asked to describe what they saw in a photograph of a
+group of children playing on the playground. The students’ responses were recorded and then
+coded. Connolly and Hosken claimed a ―significant degree of success‖ (2006, p. 122). They
+found the program to be effective in that it increased the children’s ability to notice differences
+20
+and examples of exclusion. Although the study did not intend to measure a change in students’
+attitudes, the teacher interviews revealed that the students began to realize their individual worth.
+African-American male youth are more likely to become involved in criminal activity
+than youth from the majority culture (1994 West Tennessee Juvenile Court Report as cited in
+Okwumabua et al., 1999, p. 62). Okwumabua et al. suggested a need for culturally relevant
+programs that help young people develop a more positive disposition and attitude toward their
+own culture. In turn, these young people will have better relationships with others, a more
+positive self-esteem, and eliminate antisocial behaviors. Okwumabua et al. performed a study
+intended to reduce criminal activity within a group of African-American youth. The study had
+the following objectives: enhance self-esteem, teach decision-making and conflict-resolution
+skills, and improve cultural awareness. Regarding cultural awareness, the youth were exposed to
+encouraging places and information that related to their culture. The authors determined, by way
+of two attitudinal scales, that the youths’ self-esteem, impression of their physical traits, and
+cultural identity greatly improved after completing the program.
+Umaña-Taylor and Updegraff (2007) conducted a study that examined self-esteem as it
+relates to Latino adolescents’ ethnic identity and other cultural factors. Because of the everincreasing number of Latino youth coupled with the common mental health issues associated
+with this population, the authors deemed their study significant. Their study indicated that the
+higher the levels of ethnic identity the higher the levels of self-esteem in Latino boys and girls.
+Umaña-Taylor and Updegraff were determined to discover and reveal the cultural factors, both
+developmental and psychological, that can negatively or positively affect Latino youth. Equally,
+the authors concluded that high self-esteem and a high level of ethnic identity prove to buffer the
+21
+risk of mental illness. Furthermore, ethnic identity shields a child’s self-esteem by providing
+confidence and solidity within the sense of self.
+A review of the literature indicates there are no researched programs on ethnic awareness
+for fifth grade students. For the purpose of this study, an ethnic awareness program was
+developed by the primary researcher (see Appendix A). The program activities include art,
+music, writing, sandtray, and games.
+Conclusion
+In closing, it has been revealed that ethnic identity and self-esteem are related. In some
+instances, a higher ethnic identity and/or self-esteem can result in higher academic achievement.
+Nevertheless, empirical evidence varied throughout the literature, therefore, calling for further
+research. Past literature has, however, shown that higher degrees of ethnic identity tend to
+positively affect a child’s sense of self. Also, past literature indicates that educational programs
+aimed at cultural awareness can increase students’ sensitivity towards diversity. Given this
+information, it is important that a clear understanding of successful awareness programs and their
+effectiveness exist.
+The following chapter will discuss the study’s methodology. Moreover, the methodology
+will present the way in which the research will be conducted. The chapter will include an indepth explanation of the study’s design, participants, procedures, and statistical analyses.
+22
+CHAPTER III
+METHODOLGY
+Introduction
+Although there are several studies regarding ethnic identity and self-esteem in children
+and adolescents, there is very little research that focuses on the effectiveness of school-based
+cultural awareness programs on ethnic identity and self-esteem. There is a major gap in our
+knowledge of effective multicultural school counseling programming. Moreover, multiculturally
+sensitive services are vital to school counseling as the student population is becoming more
+diverse. The following section will discuss the design of the study, participants, instrumentation,
+procedures, and data analysis.
+Design of Study
+The study involved the use of a quasi-experimental design and more specifically, a nonrandomized pre-test and post-test control group design (Creswell, 2009). In this design, there is
+one experimental group and one control group. Both groups completed a pre-test before
+treatment and post-test after the experimental group finishes treatment. The experimental group
+participated in the cultural awareness program. The control group was not involved in the
+cultural awareness program at that time. However, the control group will receive the treatment
+after the research has been completed. The quasi-experimental design of this study intends to
+determine the effectiveness of the cultural awareness program on students’ level of ethnic
+identity and self-esteem. Respectively, students’ ethnic identity and self-esteem was
+23
+measured using the Multigroup Measure of Ethnic Identity (MEIM) and the Rosenberg Self
+Esteem Inventory (Phinney, 1992; Rosenberg, 1965).
+Participants
+The target population for this study consists of inner-city early adolescents in a large
+Southeastern city in the United States. More specifically, the researcher aimed to study fifth
+grade students during the 2010-2011 academic year. The school and student sample was chosen
+based on the diversity of its fifth grade demographics. Fifth grade was chosen in order to assess
+students at the elementary level, but also students having the ability to understand and
+comprehend the assessments and actively participate in the classroom guidance activities. Fifth
+grade is often the final grade level within an elementary school.
+A non-random sample of 100 students (approximately four classrooms) was recruited
+from one elementary school (Germanshire Elementary) within an inner-city school system. The
+participants included both male and female fifth grade students. Ethnic affiliation included
+Caucasian, African-American, Latino, Asian American, American-Indian, and Bi-racial. Fifty
+subjects participated in a cultural awareness program. The other 50 subjects served as the control
+group. The school notified parents and obtained informed consent (see Appendices B and C), in
+writing, and discussed issues of confidentiality with parents and the participants. The participants
+were instructed verbally that they have a right to participate or not participate in the study. The
+students assented by completing the assessments.
+Procedures
+First, the researcher obtained approval from the dissertation committee members and the
+University’s Institutional Review Board, which includes approval by the participating school
+24
+district. Written confirmation from the authors of the Multigroup Measure of Ethnic Identity and
+the Rosenberg Self-Esteem Inventory is not needed to make use of the items from the surveys.
+Near the beginning of the school year, the school counselor selected the four most diverse
+fifth grade classrooms and 106 of those students were chosen to participate. The school
+counselor was sure to choose diverse classrooms that are comparable in demographics. A
+diverse classroom is one that is made up of children with varying ethnicities. Demographics for
+each classroom were obtained from the school in order to make this distinction. The school
+counselor assigned two classrooms to serve as the experimental cultural awareness groups and
+the remaining classrooms were assigned as the non-experimental control groups (Hinkle et al.,
+2003). In order to be as fair as possible, the school counselor blindly pulled classroom names
+from a box to determine which two classrooms served as the treatment group and which two
+classrooms served as the control group. The school counselor distributed informed consent
+documents to the fifth grade teachers who had students involved in the research study. The
+teachers sent the informed consent documents home with the students. Parents of students from
+the selected classrooms received notices from their child’s school describing a study about
+cultural awareness and self-esteem. Interested parents returned an informed consent document
+signed by both the parent and student. Once received, fifth grade teachers returned the informed
+consent documents to the school counselor. The school counselor then gave the documents to
+the principal researcher. If students did not return an informed consent document signed, they
+were able to participate in the cultural awareness program, but did not take the aforementioned
+inventories. Students were instructed verbally that they may or may not participate in the
+program. An oral assent form was completed by the researcher for each participant (see
+Appendix D).
+25
+Once all materials were obtained, the principal researcher numbered all informed consent
+documents. The students’ inventories were numbered in a manner that corresponded to their
+consent form. The principal researcher was the sole individual handling the inventories,
+therefore, the students’ information was confidential and de-identified to all others.
+Following recruitment, all groups of students were asked to complete the MEIM and
+RSE, which will serve as pretests. Both groups spent one hour per week for six weeks
+participating in classroom guidance programs. The experimental group participated in the
+cultural awareness classroom guidance series and the control group participated in the Project
+Wisdom classroom guidance series, the school’s character education program. Classroom
+guidance is an efficient way for school counselors to deliver services to large groups. This
+particular cultural awareness classroom guidance series was developed by the researcher. The
+experimental group spent the first week getting to know one another and setting group goals.
+During subsequent classroom guidance lessons the following topics were covered: all about me
+and my unique family, personal heroes, music, our school culture, and discrimination in our
+school/city (Washington et al., 2003). The school counselor was properly debriefed on each
+topic and corresponding activity. In addition, a detailed resource packet was provided by the
+researcher. The non-experimental control group did not receive cultural awareness classroom
+guidance, but participated in the school’s Project Wisdom classroom guidance series. At the end
+of the program, both groups of students were asked to complete the post-tests.
+Instrumentation
+Multigroup Ethnic Identity Measure (see Appendix E for complete instrument). The
+Multigroup Ethnic Identity Measure was used to measure ―three aspects of ethnic identity:
+positive ethnic attitudes and sense of belonging; ethnic identity achievement, including both
+26
+exploration and resolution of identity issues; and ethnic behaviors or practices‖ (Phinney, 1992,
+p. 164). Because ethnic identity is recognized as an important part of development, the MEIM
+was created to use with all young people. Fifteen items make up the questionnaire. Questions are
+scored using a four-point scale ranging from strongly disagree to strongly agree (1 = strongly
+disagree; 4 = strongly agree). The mean of the 15 items is calculated in order to obtain an overall
+score. The higher the overall score, the higher the overall ethnic identity. The MEIM has a
+Chronbach alpha of 0.81 which suggests a high level of reliability for this instrument (Phinney,
+1992).
+Rosenberg Self-Esteem Inventory (see Appendix F for complete instrument). The
+Rosenberg Self-Esteem Inventory consists of 10 items assessing individual feelings about self
+(Rosenberg, 1965). Fisher, Wallace, and Fenton (2000) argued that this particular measure of
+self-esteem could assist in the exploration of negative self-evaluations that may originate from
+issues regarding race and ethnicity. Questions are scored using a four-point scale ranging from
+strongly agree (SA) to strongly disagree (SD). When scoring the items, 3 = strongly agree and 0
+= strongly disagree. Some items are scored in reverse order (0 = strongly agree; 3 = strongly
+disagree). The RES has a Chronbach alpha of 0.77 which suggests a high level of reliability for
+this instrument. Robins, Hendin, and Trzesniewski (2001) performed a study to measure the
+construct validity of the RSE. The study included men, women and children, from varying
+ethnic groups, in school, college and in the community. The authors found the construct validity
+of the RSE to be between 0.72 and 0.76 across all populations involved in the study.
+27
+Specific Research Questions
+This quantitative study was designed primarily to examine the influences of a schoolbased cultural awareness program on ethnic identity and self-esteem in fifth grade students. The
+study addresses the following research questions:
+1. Is there a relationship between self-esteem and ethnic identity in fifth grade students?
+2. Is there a significant difference in mean self-esteem scores on the Rosenberg Self-Esteem
+Scale for fifth grade students who have participated in a school-based cultural awareness
+program when compared to fifth grade students who have not participated in a schoolbased cultural awareness program?
+3. Is there a significant difference in mean ethnic identity scores on the Multigroup Ethnic
+Identity Measure for fifth grade students who have participated in a school-based cultural
+awareness program when compared to fifth grade students who have not participated in a
+school-based cultural awareness program?
+It is predicted that student involvement in a cultural awareness program will increase both ethnic
+identity and self-esteem. It is also predicted that there is a relationship between ethnic identity
+and self-esteem.
+Hypotheses
+The central research hypotheses most important to this study are presented in both the null and
+alternate form and are as follows:
+Ho1: There is insufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+Ha1: There is sufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+28
+Ho2: There is insufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+Ha2: There is sufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+Ho3: There is insufficient evidence of a significant difference in mean ethnic
+identity posttest scores by method of instruction when controlling for
+pretest scores.
+Ha3: There is sufficient evidence of a significant difference in mean ethnic
+identity posttest scores by method of instruction when controlling for
+pretest scores.
+It is important to note that in hypothesis two and three the phrase ―method of instruction‖ refers
+to the following: 1) participation in the school-based cultural awareness program, and 2) no
+participation in the school-based cultural awareness program.
+Statistical Tests and Data Analysis
+For hypothesis one, a Pearson r correlation statistical analysis was used to analyze the
+data. A Pearson r correlation is a ―mathematical expression of the direction and magnitude of
+the relationship between two measures that yield continuous scores‖ (Gall, Gall, & Borg, 2007,
+p. 649). The level of self-esteem as measured by the RSE served as the dependent variable and
+the level of ethnic identity achievement as measured by the MEIM was the independent variable.
+A Pearson r correlation assumes that the relationship between the dependent variable and the
+independent variable will be linear (Hinkle et al., 2003). An independent and dependent variable
+must be specified in a correlation even if the relationship is not believed to be causal. The
+29
+correlation ranges from +1.00 (perfect positive correlation) to –1.00 (perfect negative
+correlation). A correlation of zero represents no relationship at all.
+Hypothesis two was investigated using an analysis of covariance (ANCOVA).
+ANCOVA are used to determine whether the mean differences of groups on the dependent
+variable are statistically significant (Tabachnick & Fidell, 1996). More specifically, in a quasiexperimental design, the elemental purpose of an ANCOVA is to regulate the mean posttest
+scores for differences that are likely to be present in intact groups. ANCOVA analyze one
+independent variable, one dependent variable, and one or more covariates. In addition,
+ANCOVA adjust for differences in the dependent variable in order to reduce error caused by the
+relationship between the dependent variable and the covariate. This allows for all participants to
+have an equal starting point. The independent variable is expected to have at least two levels.
+The independent variable in this study is method of instruction. The two levels of method of
+instruction are 1) participation in the school-based cultural awareness group, and 2) no
+participation in the school-based cultural awareness group. The dependent variable is selfesteem posttest score as measured by the Rosenberg Self Esteem Inventory. The covariate is
+self-esteem pretest score.
+Furthermore, hypothesis three was also be examined using an ANCOVA. The
+independent variable is method of instruction. The two levels of method of instruction are 1)
+participation in the school-based cultural awareness group, and 2) no participation in the schoolbased cultural awareness group. The dependent variable is ethnic identity posttest score as
+measured by the Multigroup Ethnic Identity Measure. The covariate is ethnic identity pretest
+score. For both hypothesis two and hypothesis three, the ANCOVA was used to determine
+30
+whether there is a significant difference in the sample means of the dependent variables among
+the two groups.
+Limitations
+Selection bias is a concern in this study. The groups were chosen by the school
+counselor. As a result, there is a possibility that the selection of the fifth grade classrooms was
+biased.
+Conclusion
+This quantitative study was designed primarily to examine the influences of a schoolbased cultural awareness program on ethnic identity and self-esteem in fifth grade early
+adolescents. The development and implementation of a school-based cultural awareness
+program is intended to offer students a basic foundation for the development and/or enhancement
+of ethnic identity and self-esteem. It is predicted that students having participated in the program
+will show a significant increase in both ethnic identity and self-esteem. The following chapter
+contains the results of the study.
+31
+CHAPTER IV
+RESULTS
+The purpose of this quantitative study was to examine the effectiveness of a school-based
+cultural awareness program as a means to enhance ethnic identity and improve self-esteem in
+fifth grade early adolescents. This study attempted to determine whether a difference existed
+before and after the implementation of a cultural awareness program in students’ self-esteem and
+ethnic identity. The instruments used to measure this difference were the Multigroup Ethnic
+Identity Measure and the Rosenberg Self-Esteem Scale. The Multigroup Ethnic Identity Measure
+provided information concerning the students’ ethnicity and the ethnicity of their parents. This
+measure also has subscales that will be mentioned later in the discussion section, chapter five. A
+score ranging from 1-4 was used to measure ethnic identity. Regarding the Rosenberg SelfEsteem Scale, a score ranging from 0-40 was used to measure self-esteem.
+Data Examination and Management
+Before the data was analyzed, it was properly screened and checked for possible errors or
+missing data. Although there were a few instances in which data was missing, all the participants
+information was able to be used. Participants in this study were composed of fifth grade students
+from a public elementary school in the southwestern part of the United States. Participation in
+this study was dependent upon the return of a parental permission form. The number of
+participants in this study totaled 106.
+32
+Assumptions and Related Statistical Concerns
+Before reporting the results, the statistical analyses performed will be discussed. The
+Pearson product moment correlation coefficient (Pearson r), the univariate analysis of covariance
+(ANCOVA), the univariate analysis of variance (ANOVA), and the multivariate analysis of
+variance, repeated measures (MANOVA, repeated measures) were used to analyze the data.
+First, a Pearson r correlation statistical analysis will be used to analyze the data. A
+Pearson r correlation is a ―mathematical expression of the direction and magnitude of the
+relationship between two measures that yield continuous scores‖ (Gall, Gall, & Borg, 2007, p.
+649). The level of self-esteem as measured by the RSE will serve as the dependent variable and
+the level of ethnic identity achievement as measured by the MEIM will be the independent
+variable. A Pearson r correlation assumes that the relationship between the dependent variable
+and the independent variable will be linear (Hinkle et al., 2003). An independent and dependent
+variable must be specified in a correlation even if the relationship is not believed to be causal.
+The correlation ranges from +1.00 (perfect positive correlation) to –1.00 (perfect negative
+correlation). A correlation of zero represents no relationship at all. For the purpose of this study,
+the correlation coefficient will be calculated to examine the relationship between scores on
+ethnic identity as measured by the Multi-Group Ethnic Identity Measure and self-esteem as
+measured by the Rosenberg Self-Esteem Scale.
+The second statistical analysis conducted in this study was a univariate analysis of
+covariance or ANCOVA. An ANCOVA is used to determine whether the mean differences of
+groups on the dependent variable are statistically significant (Tabachnick & Fidell, 1996). More
+specifically, in a quasi-experimental design, the elemental purpose of an ANCOVA is to regulate
+the mean posttest scores for differences that are likely to be present in intact groups. An
+33
+ANCOVA analyzes one independent variable, one dependent variable, and one or more
+covariates. In addition, An ANCOVA adjusts for differences in the dependent variable in order
+to reduce error caused by the relationship between the dependent variable and the covariate.
+This allows for all participants to have an equal starting point. The independent variable is
+expected to have at least two levels. More specifically speaking, the independent variable is
+expected to be categorized into at least two groups. There are several underlying assumptions
+associated with the ANCOVA. Some of which include randomness, independence, normality,
+and homogeneity of variance. In addition, there are three very unique assumptions associated
+with the ANCOVA and are as follows: a) the independent variable should not affect the
+covariate variable, b) homogeneity of within-group correlations, and c) linearity (Tabachnik &
+Fidell, 2001). These unique assumptions will be discussed first and the more common
+assumptions will follow.
+The first of the three unique assumptions specifies that the independent variable should
+not influence the covariate (Tabachnik & Fidell, 2001). If the data is collected before treatment,
+then this assumption will be met. The second unique assumption requires that the correlation
+between the dependent variables and the covariate be equal within each population included in
+the study. The last unique assumption, linearity, requires a linear relationship between the
+covariate and the dependent variables. A statistical test exists that computes linearity, but is not
+often discussed in research.
+The first of the more common assumptions, randomness, refers to a methodological
+concern. The sample should be a random subset of the population it represents (Huck, 2000).
+Independence is also a methodological concern. This refers to an independence of observation,
+34
+meaning the score of any given participant should not be affected by any other participant in the
+study.
+The third assumption, normality, assumes that the data were sampled from a population
+having a normal distribution (Huck, 2000). In other words, the dependent variable should be
+normally distributed which means there should be an equal number of participants with scores
+both above and below the mean. More commonly, the participants scores should be closer to the
+mean rather than very different from the mean. The fourth assumption, homogeneity of variance,
+assumes that the population variances among the dependent variables are the same across all
+groups. The variance associated with each mean should be equal. If the groups’ covariance is
+unequal the results of the ANCOVA are questionable.
+The first two assumptions, randomness and independence, are rarely discussed by
+researchers in their reports. However, normality and homogeneity of variance are often discussed
+(Huck, 2000). PASW Statistics 18 (2010) is able to measure normality and homogeneity of
+variance using Levene’s test of equality of error variances. This test works by computing the
+absolute difference between each value in its group mean. When normality or homogeneity of
+variance assumptions are violated it is serious and an ANCOVA should not be performed. The
+homogeneity of variance assumption was violated in this study. Levene’s test of equality of error
+variances reported F(1, 104) = 8.852, p = 0.004. This significance level is less than the alpha
+significance level of 0.05, and is, therefore, significant.
+As a means to compensate for the lack of homogeneity of variance other test procedures
+were performed. With an awareness that the assumption of homogeneity of variance was not
+met, an analysis of variance (ANOVA) was used to analyze the data in order to determine preexisting differences between groups. In its simplest form, an ANOVA provides a statistical test
+35
+of whether or not the means of several groups are all equal (Tabachnik & Fidell, 2001). Because
+conducting multiple t-tests would result in an increased chance of committing a Type I error, an
+ANOVA was used to reduce this possibility. For this reason, an ANOVA is helpful in comparing
+two, three, or more means (Huck, 2000).
+In this study, the ANOVA indicated there was an overall significant difference between
+groups on self-esteem. Levene’s test of equality of error variances reported
+F(1, 104) = 8.062, p = 0.005 for the groups based on the self-esteem variable. However, there
+was no significant difference between groups based on the ethnic identity variable. For ethnic
+identity, Levene’s test of equality of error variances reported F(1, 104) = 0.751, p = 0.388. After
+having discovered the pre-existing differences between groups on self-esteem, a repeated
+measures MANOVA was conducted because this particular statistical analyses provides
+numerous tests of significance that can validate the findings of the study. In order to answer the
+hypotheses, a repeated measures ANOVA could have been used, however a repeated measures
+MANOVA was used to explore a variety of statistical results.
+A more detailed explanation of the repeated measures MANOVA will be provided
+because it is this statistical procedure by which two of the hypotheses will be explained. In
+addition, it was earlier stated that an ANCOVA was the original statistical analysis to be used
+and this analysis was explained in the methods section of this dissertation. Repeated measures
+MANOVA was not discussed in the methods section, therefore will be explained in detail here.
+ A repeated measures design refers to studies in which the same measures are collected
+multiple times for each subject but under different conditions (Hinkle et al.). This is a powerful
+and efficient design because it reduces error variance (Weinfurt, 1995). For this study in
+particular, repeated measures were collected before and after the sampled population
+36
+participated in a classroom guidance series. Half of the students participated in a cultural
+awareness program while the other half of the students participated in a character education
+program. Both groups of students were given the same measures before and after the programs.
+Measurements that occur over a period of time, like in an analysis such as this, attempt to show
+change over that period of time. Main and interaction effects are meant to be revealed when
+using a repeated measures MANOVA.
+Some important terms associated with repeated measures MANOVA include (a)
+within-subjects variable, which refers to the independent variable, and (b) between-subjects
+variable, which refers to the grouping variable (Weinfurt, 1995). There are several assumptions
+that underlie the repeated measures MANOVA. The first assumption, independence, means
+that the observations of participants at each measurement period are independent. Another
+assumption, normality, declares that population sample is normally distributed. The third
+assumption, homogeneity of variance, refers to the equality of the variances of the dependent
+variable at level of measurement. Lastly, repeated measures MANOVA assume that time
+periods are equal between measurements.
+Multivariate tests of significance for a repeated measures MANOVA include Pillai’s
+Trace, Wilks’ Lambda, Hotelling’s Trace, and Roy’s Largest Root. Pillai’s test has the most
+statistical power and is the most vigorous. However, Wilks’ Lamba is most often reported
+when testing significance (Tabachnick & Fidell, 2006). These tests specify whether there is a
+significant difference on the dependent variable and whether it can be classified as a main or
+interaction effect.
+37
+In order to test for equality of variance, Mauchly’s test of sphericity is commonly
+utilized.
+The sphericity assumption says that the population variances associated with the levels
+of the repeated measures factor, in combination with the population correlations between
+pairs of levels, must represent one of a set of acceptable patterns. One of the acceptable
+patterns is for all the population variances to be identical and for all bivariate correlations
+to be identical. There are, however, other patterns of variances and correlations that
+adhere to the requirements of sphericity (Huck, 2000, p. 477)
+Because there are only two groups in this study, Mauchly’s test of sphericity was unable to
+compute. However, Epsilon adjustments can be made to compensate for the lack of this test.
+Epsilon adjustments presume the sphericity assumption has been violated. As a result, these
+adjustments modify the degrees of freedom values (dfs) to more appropriate ones in order to
+determine the critical F value used to assess the computed F value (Huck 2000). GreenhouseGeisser is the most traditional Epsilon adjustment and is referred to in the data analysis section of
+this report. Once these adjustments are made, main and/or interaction effects may show a
+significant difference. After which, more post hoc analyses are necessary to deem a result as
+significant. For example, in this particular study, the Bonferrroni post hoc analysis was
+conducted.
+Data Analysis
+The following section will restate the research questions and hypotheses. A presentation
+of the results will follow. Demographic information is presented below in Tables 1, 2, and 3.
+38
+Table 1
+Participant Ethnicity
+Group Frequency Percentage
+Control Asian 2 3.4
+African American 43 74.1
+Hispanic 3 5.2
+Caucasian 1 1.7
+American Indian 1 1.7
+Biracial 7 12.1
+Other 1 1.7
+Total 58 100
+Experimental African American 40 83.3
+Hispanic 4 8.3
+Caucasian 1 2.1
+Biracial 2 4.2
+Other 1 2.1
+Total 48 100
+39
+Table 2
+Father Ethnicity
+Group Frequency Percentage
+Control Asian 1 1.7
+African American 46 79.3
+Hispanic 3 5.2
+Caucasian 1 1.7
+American Indian 1 1.7
+Biracial 4 6.9
+Other 2 3.4
+Total 58 100
+Experimental African American 36 75
+Hispanic 4 8.3
+Caucasian 1 2.1
+Biracial 4 8.3
+Other 3 6.3
+Total 48 100
+40
+Table 3
+Mother Ethnicity
+Group Frequency Percentage
+Control Asian 1 1.7
+African American 47 81
+Hispanic 3 5.2
+Caucasian 2 3.4
+American Indian 3 5.2
+Biracial 2 3.4
+Total 58 100
+Experimental Asian 1 2.1
+African American 39 81.3
+Hispanic 5 10.4
+Caucasian 1 2.1
+Biracial 1 2.1
+Other 1 2.1
+Total 48 100
+41
+The overarching research question is as follows: What effect does a school-based cultural
+awareness program have on students’ ethnic identity and self-esteem? The study addresses the
+following secondary research questions:
+1. Is there a relationship between self-esteem and ethnic identity in fifth grade students?
+2. Is there a significant difference in mean self-esteem pretest and posttest scores on the
+Rosenberg Self-Esteem Scale for fifth grade students who have participated in a schoolbased cultural awareness program when compared to fifth grade students who have not
+participated in a school-based cultural awareness program?
+3. Is there a significant difference in mean ethnic identity pretest and posttest scores on the
+Multigroup Ethnic Identity Measure for fifth grade students who have participated in a
+school-based cultural awareness program when compared to fifth grade students who
+have not participated in a school-based cultural awareness program?
+It is predicted that student involvement in a cultural awareness program will show an increased
+level of ethnic identity and level of self-esteem.
+There are three major hypotheses that were the subject of this data analysis. The central
+research hypotheses most important to this study are presented in both the null and alternate form
+and are as follows:
+Ho1: There is insufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+Ha1: There is sufficient evidence of a significant relationship between ethnic
+ identity and self-esteem in fifth grade students.
+Ho2: There is insufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+42
+Ha2: There is sufficient evidence of a significant difference in mean self-esteem
+ posttest scores by method of instruction when controlling for pretest scores.
+Ho3: There is insufficient evidence of a significant difference in mean ethnic
+identity posttest scores by method of instruction when controlling for
+pretest scores.
+Ha3: There is sufficient evidence of a significant difference in mean ethnic
+identity posttest scores by method of instruction when controlling for
+pretest scores.
+It is important to note that in hypotheses two and three the phrase ―method of instruction‖ refers
+to the following: 1) participation in the school-based cultural awareness program, and 2) no
+participation in the school-based cultural awareness program. The following section presents the
+results of the data analysis as it relates to each of the three hypotheses.
+Hypothesis One. The first hypothesis predicted that there would be a significant
+correlation between ethnic identity and self-esteem in fifth grade students having participated in
+a cultural awareness program. A Pearson r correlation statistical analysis was used to analyze the
+data. Self-esteem served as the dependent variable and ethnic identity served as the independent
+variable. Two Pearson r correlations were used to determine the relationship between the two
+variables on both the pretest and posttest. The first correlation between the scores on the ethnic
+identity pretest and the self-esteem pretest were moderately correlated at r = 0.329. This means
+there is a significant relationship between ethnic identity and self-esteem. The level of
+significance reported was p = 0.001. For the correlation to be statistically significant, the
+significance level needs to be less than 0.01, the alpha significance level. Therefore, this
+particular correlation is statistically significant.
+43
+The second correlation between the scores on the ethnic identity posttest and the selfesteem posttest were moderately correlated as well at r = 0.381. The results indicate that there is
+a positive relationship between ethnic identity and self-esteem. As ethnic identity increased, so
+did self-esteem. Furthermore, the results suggest an important relationship between ethnic
+identity and self-esteem in fifth grade students after participation in a school-based cultural
+awareness program. The reported significance level for this correlation was p = 0.000 which is
+less than 0.01, therefore the relationship between the variables is statistically significant.
+Table 4
+Pearson r Correlations between the ethnic identity and self-esteem pretests and posttests
+Pretest and Posttest Correlation Results
+r Significance level (p)
+Ethnic Identity/
+Self-Esteem Pretests 0.329 0.001*
+Ethnic Identity
+Self-Esteem Posttests 0.381 0.000*
+* Level of significance p<0.01
+In summary, through analysis of scores of both the ethnic identity and self-esteem
+pretests and posttests, it was discovered that there are significant relationships between the two
+variables.
+Hypothesis Two. The second hypothesis predicted that there would be a significant
+difference in the self-esteem posttest scores when controlling for the pretest scores. Because it
+was found that the homogeneity of variance assumption associated with an ANCOVA was
+violated (based on the difference between the self-esteem dependent variable by group), this
+44
+hypothesis will be tested using the repeated measures MANOVA statistical method. Repeated
+measures MANOVA can be used to describe a difference in groups before and after treatment.
+The major purpose of this study is to determine whether or not the participation in a school-based
+cultural awareness program makes a difference in the ethnic identity and self-esteem of fifth
+grade students. According to this particular research hypothesis, it is predicted that there is a
+significant difference between students’ self-esteem scores before and after treatment. See Table
+5 for item content used to determine the self-esteem pretest and posttest scores.
+Table 5
+Item Content for Rosenberg Self-Esteem Scale
+Item Item Content
+1 On the whole I am satisfied with myself.
+2 At times I think that I am no good at all.
+3 I feel that I have a number of good qualities.
+4 I am able to do things as well as most other people.
+5 I feel I do not have much to be proud of.
+6 I certainly feel useless at times.
+7 I feel that I am a person of worth, at least the equal of others.
+8 I wish I could have more respect for myself.
+9 All in all, I am inclined to feel that I am a failure.
+10 I take a positive attitude toward myself.
+45
+There were several multivariate tests performed to understand the difference in the level
+of self-esteem in fifth grade students. At times, the level of self-esteem was measured by group.
+The dependent variable in this analysis is self-esteem. The independent variable is the method of
+instruction (group), which refers to participation in a cultural awareness program (experimental
+group) or a character education program (control group). For the purpose of the study, the
+independent variable was coded as two groups: group 0 (control group) and group 1
+(experimental group).
+First, the descriptive statistics showed that there was an increase in the students’ selfesteem after having participated in the program. The mean score reported at the time of the
+pretest was 33.17. The mean score reported at the time of the posttest was 35.21. The mean score
+for the self-esteem of fifth grade students who have participated in a school-based cultural
+awareness program increased by 2.04. The highest score possible on the Rosenberg self-esteem
+scale is 40. The mean scores and standard deviations for both groups is shown below in Table 6.
+Table 6
+Mean scores and standard deviations on the Rosenberg Self-Esteem Scale
+Group Mean SD
+RSE Pretest 0 31.19 5.552
+1 33.17 3.991
+RSE Posttest 0 31.78 6.232
+1 35.21 3.010
+46
+Box's tests of equality of covariance matrices was another test performed during the
+repeated measures MANOVA statistical analysis. Box’s M = 40.931, F(10, 47663.534) = 3.921,
+p = 0.000. Box’s M is significant, which means there are violated assumptions. This indicates
+that there are unequal variances across the groups. This is similar to the violated assumptions
+reported by Levene’s test of equality of error variances within the ANCOVA results discussed
+earlier. However, there are other tests performed in the repeated measures MANOVA data
+analysis that ensure the significance of the results. These tests will be discussed in the following
+section.
+The repeated measures MANOVA revealed that the difference between the self-esteem
+scores on the pretest and the self-esteem scores on the posttest is significant, with Wilks’
+Lambda = 0.902, F(1, 104) = 11.310, p = 0.001. The main effect of self-esteem as determined by
+group was reported using Wilks’ Lambda as well with Wilks’ Lambda = 0.967, F(1, 104) =
+3.537, p = 0.063. There is no significant difference in the self-esteem pretests and posttest scores
+by group.
+Mauchly's test of sphericity was unable to compute due to the fact that there are only two
+groups in the study. As a routine part of the analysis, tests of within subject main effects were
+conducted. For this research study the Greenhouse-Geisser adjustment will be mentioned. The F
+value, its degrees of freedom, and significance level will be reported. Based on the significance
+level it will be determined whether or not the main effect is significant. The Greenhouse-Geisser
+adjustment is to be considered in addition to the Wilks’ Lambda values. The Greenhouse -
+Geisser adjustment continued to show a significant difference between self-esteem pretest scores
+and self-esteem posttest scores at F(1.000) = 11.310, p = 0.001. The main effect of self-esteem as
+47
+determined by group revealed no significance, with the Greenhouse-Geisser adjustment at
+F(1.000) = 3.537, p = 0.063.
+Next, paired sample t-tests were utilized to determine the difference between groups on
+self-esteem before and after participation in the cultural awareness program. The paired sample ttests reported p = 0.001, which is significant. Finally, the Bonferroni adjustment technique
+(Huck, 2000) was applied to paired sample t-tests and used to determine significant differences.
+Paired sample t-tests (with a Bonferroni adjustment; p<0.05) revealed that the results reported for
+self esteem remain significant. The paired sample t-tests with a Bonferroni adjustment reported p
+= 0.001.
+In summary, through the analysis of self-esteem as reported by the Rosenberg SelfEsteem Scale using the repeated measures MANOVA, it was discovered that there is a
+significant difference in self-esteem after participation in a school-based cultural awareness
+program in fifth grade students.
+Hypothesis Three. The third hypothesis predicted that there would be a significant
+difference in the ethnic identity posttest scores when controlling for the pretest scores. The
+previous hypothesis was tested using a repeated measures MANOVA because it was found that
+the homogeneity of variance assumption associated with an ANCOVA was violated regarding
+the self-esteem dependent variable. In order to establish continuity, a repeated measures
+MANOVA will be utilized to test this hypothesis as well. However, it should be noted that the
+ethnic identity dependent variable did not violate the homogeneity of variance assumption.
+According to this particular research hypothesis, it is predicted that there is a significant
+difference between students’ ethnic identity scores before and after treatment. See Table 7 for
+item content used to determine the ethnic identity pretest and posttest scores.
+48
+Table 7
+Item Content for Multigroup Ethnic Identity Measure
+Item Item Content
+1 I have spent time trying to find out more about my ethnic group, such as
+its history, traditions, and customs.
+2 I am active in organizations or social groups that include mostly members
+of my own ethnic group.
+3 I have a clear sense of my ethnic background and what it means for me.
+4 I think a lot about how my life will be affected by my ethnic group membership.
+5 I am happy that I am a member of the group I belong to.
+6 I have a strong sense of belonging to my own ethnic group.
+7 I understand pretty well what my ethnic group membership means to me.
+8 In order to learn more about my ethnic background, I have often talked
+to other people about my ethnic group.
+9 I have a lot of pride in my ethnic group.
+10 I participate in cultural practices of my own group, such as special food,
+music, or customs.
+11 I feel a strong attachment towards my own ethnic group.
+12 I feel good about my cultural or ethnic background.
+13 My ethnicity is
+(1) Asian or Asian American, including Chinese, Japanese, and others
+(2) Black or African American
+49
+(3) Hispanic or Latino, including Mexican American, Central American, and
+ others
+(4) White, Caucasian, Anglo, European American; not Hispanic
+(5) American Indian/Native American
+(6) Mixed; Parents are from two different groups
+(7) Other (write in): _____________________________________
+14 My father's ethnicity is (use numbers above)
+15 My mother's ethnicity is (use numbers above)
+There were several multivariate tests performed to understand the difference in the level
+of ethnic identity in fifth grade students. At times, the level of ethnic identity was measured by
+group. The dependent variable in this analysis is ethnic identity. The independent variable is the
+method of instruction (group), which refers to participation in a cultural awareness program
+(experimental group) or a character education program (control group). For the purpose of the
+study, the independent variable was coded as two groups: group 0 (control group) and group 1
+(experimental group).
+First, the descriptive statistics showed that there was an increase in the students’ ethnic
+identity after having participated in the program. The mean score reported at the time of the
+pretest was 3.25. The mean score reported at the time of the posttest was 3.47. The mean score
+for the level of ethnic identity of fifth grade students who have participated in a school-based
+cultural awareness program increased by 0.22. The highest score possible on the Multigroup
+Ethnic Identity Measure is 4. The mean scores and standard deviations for ethnic identity for
+both groups is shown in the table below.
+50
+Table 8
+Mean scores and standard deviations on the Multigroup Ethnic Identity Measure
+Group Mean SD
+MEIM Pretest 0 3.1667 0.43287
+1 3.2535 0.39311
+MEIM Posttest 0 3.2184 0.42573
+1 3.4688 0.37134
+Box's tests of equality of covariance matrices was another test performed during the
+repeated measures MANOVA statistical analysis. Box’s M = 40.931, F(10, 47663.534) = 3.921,
+p = 0000. Box’s M is significant, which means there are violated assumptions. This indicates that
+there are unequal variances across the groups. It was found (by Levene’s test of error variances
+as reported by the ANOVA conducted) that the unequal variances across groups were related to
+the self-esteem variable and not the ethnic identity variable. Nonetheless, there are other tests
+performed in the repeated measures MANOVA data analysis that ensure the significance of the
+results. These tests will be discussed in the following section.
+The Wilks’ Lambda test of significance revealed information about the level of ethnic
+identity after treatment as well as the main effect of ethnic identity as determined by group. With
+Wilks’ Lambda =0.21, F(1, 104) = 4782.643, p = 0.000, the difference between the ethnic
+identity scores on the pretest and the ethnic identity scores on the posttest is significant. The
+main effect of ethnic identity and group was reported using Wilks’ Lambda as well. With Wilks’
+51
+Lambda = 0.922, F(1, 104) = 8.802, p = 0.004, there is a significant difference in the ethnic
+identity pretests and posttest scores as determined by group.
+Mauchly's test of sphericity was unable to compute due to the fact that there are only two
+groups in the study. Still, as a routine part of the analysis, tests of within-subject effects were
+conducted. For the ethnic identity dependent variable, the Greenhouse-Geisser adjustment will
+be mentioned to further indicate the significance of the within-subject main effects of the level of
+ethnic identity and ethnic identity as determined by group. The F value, its degrees of freedom,
+and the significance level will be reported. Based on the significance level it will be determined
+whether or not the main effect is significant. The Greenhouse-Geisser interaction effect is to be
+considered in addition to the Wilks’ Lambda values. The Greenhouse-Geisser adjustment
+reported F(1.000) = 4782.643, p = 0.000, which indicates there is a significant difference
+between ethnic identity pretest scores and ethnic identity posttest scores. For ethnic identity as
+determined by group, Greenhouse-Geisser reported F(1.000) = 8.802, p = 0.000. Therefore, the
+main effect of ethnic identity as determined by group is significant.
+Next, paired sample t-tests were utilized to determine the difference between groups on
+ethnic identity before and after participation in the cultural awareness program. The paired
+sample t-tests reported p = 0.000, which is significant. Finally, the Bonferroni adjustment
+technique (Huck, 2000) was applied to paired sample t-tests and used to determine significant
+differences. Paired sample t-tests (with a Bonferroni adjustment; p<0.05) revealed that the results
+reported for ethnic identity remain significant. The paired sample t-tests used to calculate the
+Bonferroni adjustment reported p = 0.000.
+In summary, through the analysis of ethnic identity as reported by the Multigroup Ethnic
+Identity Measure using the repeated measures MANOVA, it was discovered that there is a
+52
+significant difference in ethnic identity after participation in a school-based cultural awareness
+program in fifth grade students.
+Summary
+Through analyses of the Rosenberg Self-Esteem Scale and the Multigroup Ethnic Identity
+Measure, it was discovered that there is a relationship between ethnic identity and self-esteem.
+Also, there is a significant difference between self-esteem and ethnic identity pretest scores and
+self-esteem and ethnic identity posttest scores in fifth grade students who have participated in a
+cultural awareness program.
+53
+CHAPTER V
+DISCUSSION
+Overview
+The purpose of this quantitative study was to examine the effectiveness of a school-based
+cultural awareness program as a means to enhance ethnic identity and improve self-esteem in
+fifth grade early adolescents. It is believed that a lack of cultural awareness or cultural
+recognition equates to a lack of basic essentials for the development of self-esteem (Roth, 2005).
+Furthermore, ignoring individual and unique differences denies a central part of a person. Ethnic
+individuality needs to be recognized as a key element in the overall success of a person. More
+specifically speaking, it is believed that enhanced ethnic identity leads to a higher self-esteem
+which leads to higher academic achievement (Chappell & Overton, 2002; Cokely & Chapman,
+2008; Phinney, 1992; Okwumabua et al., 1999; Umaña-Taylor & Updegraff, 2007). Because
+there is little research on programs for youth that focus on cultural awareness, this study was
+intended to explore and confirm the significance of cultural awareness. Moreover, the number of
+minority youth in America is increasing at a staggering rate and cultural awareness as well as
+sensitivity must also increase. School counselors are charged with the duty to attend to students’
+differences while appreciating them all at the same time.
+Connections Between Hypotheses and Obtained Findings
+The relationship between ethnic identity and self-esteem was investigated in this study.
+The Pearson product moment correlation coefficient was used to determine this relationship.
+54
+The effectiveness of a school-based cultural awareness program on students’ scores on ethnic
+identity and self-esteem pretests and posttests was also investigated. A repeated measures
+multivariate analysis of variance (repeated measures MANOVA) was used to determine this
+effectiveness.
+The first hypothesis predicted that there would be no significant relationship between
+ethnic identity and self-esteem in fifth grade students. It was expected that there would be a
+positively correlated relationship between ethnic identity and self-esteem. Furthermore, it is
+believed that as ethnic identity increases, self-esteem increases as well. Based on the results, it
+was found that ethnic identity and self-esteem were moderately, yet positively correlated and
+statistically significant on both the pretests and posttests. It is important to note that the Pearson
+product moment correlation coefficient increased in both ethnic identity and self-esteem after
+students’ participation in the cultural awareness program.
+The results of this study confirm the assumptions of previous literature that suggest the
+higher the ethnic identity of children, the higher their self-esteem (Alvarez & Helms, 2001;
+Holcomb-McCoy, 2005; Phinney et al.; Smith et al., 2009). Holcomb-McCoy (2005) and
+Phinney et al. stressed the significant relationship between positive identification with one’s
+ethnic group and positive self-esteem. It appears that a sense of belonging, in particular, is
+essential to the self-esteem of children.
+Those children with strong feelings of belonging and high levels of ethnic identity are
+often the same children cognizant of discrimination and racism. Even still, children’s selfesteem remains in tact because they have more effective ways of dealing with such issues
+(Holcomb-McCoy, 2005). It can be inferred that children in healthy relationships are well
+adjusted and equipped with the tools needed to handle everyday-life issues. This statement lends
+55
+to the idea that a child with high ethnic identity is likely to have high self-esteem, which leads to
+more favorable outcomes including, but not limited to, academic success.
+Hypothesis two predicted that there would be no differences between the control and
+experimental groups’ self-esteem posttest scores. Originally, an analysis of covariance
+(ANCOVA) was utilized to interpret the data. However, it is important to note that the
+homogeneity of variance assumption was violated as it relates to the self-esteem dependent
+variable. An analysis of variance (ANOVA) was then used to determine the pre-existing
+differences. The results of the ANOVA discovered there were pre-existing differences between
+the groups on self-esteem at the start of the study.
+Possible reasons for the differences between groups at the start of the study will now be
+discussed. First, the fact that the classrooms were already intact groups may be a reason the
+homogeneity of variance assumption was violated. Some of the classroom teachers may focus
+on enhancing the self-esteem of their students more than other teachers (i.e. through self-esteem
+building activities, incorporations in their lesson plans, reward programs, etc.). Another possible
+explanation for this violation might be the type of classroom teacher involved. One teacher
+might be very strict and disrespectful of children while another teacher is more lenient and
+confident in the abilities of her students. This may be a factor because the treatment of the
+children could manifest through the way they feel about themselves (either good or bad),
+therefore affecting their level of self-esteem. Third and last, the collection of students in each
+classroom could affect the homogeneity of variance assumption. For instance, one of the
+classrooms had at least ten CLUE students. CLUE students are those children who are
+considered gifted and excel academically. It is believed that children who are academically
+successful have a higher self-esteem achievement (Chappell & Overton, 2002; Cokely &
+56
+Chapman, 2008; Phinney, 1992; Okwumabua et al., 1999; Umaña-Taylor & Updegraff, 2007).
+On the other hand, another classroom had only one accelerated student, but had three to four ESL
+(English as a second language) students and three to four resource (a division of special
+education) students. This might prove to be a stark difference in the classroom’s level of selfesteem. With that being said, the results of the research findings will now be discussed.
+In the end, the data was analyzed using a repeated measures multivariate analysis of
+variance (repeated measures MANOVA) for hypothesis two. A repeated measures MANOVA
+was used because it presents several statistical tests that can further validate the results of the
+study. The repeated measures MANOVA indicated there was a significant difference between
+self-esteem pretest scores and self-esteem posttest scores after fifth grade students participated in
+a cultural awareness program. Even more, the results indicated a significant difference in
+students’ self-esteem scores as determined by group. This means there is a difference between
+the control and experimental group that is statistically significant on the self-esteem dependent
+variable. The experimental group had significantly higher scores on the self-esteem posttest than
+the control group. This result directly supports the expectation that gaining more knowledge
+about cultural awareness may increase self-esteem. These findings also support previous
+research.
+According to Connolly and Hosken (2006), students began to realize their individual worth after
+having participated in a cultural awareness program. Okwumabua et al. (1999) also suggested a
+need for culturally relevant programs that help young people develop a more positive disposition
+and attitude towards their own culture.
+The third hypothesis predicted that there would be no differences between the control and
+experimental groups’ ethnic identity posttest scores. There was no violation of the homogeneity
+57
+of variance assumption on the ethnic identity dependent variable, so the results of the statistical
+analysis will now be discussed. A repeated measures MANOVA was used to analyze the data.
+The data revealed a substantial increase in the mean scores presented at the time of the posttest.
+In addition, it was found that there is a statistically significant difference between ethnic identity
+pretest scores and ethnic identity posttest scores. The repeated measures MANOVA also
+indicated a significant difference in ethnic identity pretest scores and ethnic identity posttest
+scores as determined by group. These results are in line with previous literature on the subject.
+Whitehead et al. (2009) found that it is imperative for children to explore their ethnicity first in
+order to find security in that identity. Once children have explored and found meaning in their
+ethnicity, they can then develop a connection with their ethnic group, which brings about
+positive feelings for that group and other groups.
+Additional Research Findings
+The repeated measures MANOVA also indicated a significant interaction effect between
+ethnic identity and self esteem on both dependent variables. This supports the initial Pearson r
+correlation that suggests there is a positively correlated and statistically significant relationship
+between ethnic identity and self-esteem. In a research study, Phinney (1989) found that
+adolescents experience a period in which the need to deal with their ethnicity is apparent.
+However, those adolescents that had explored and understood the meaning of their ethnicity
+presented with higher scores on self-esteem, social and familial interactions, and sense of
+accomplishment. This conclusion suggests a connection to one’s ethnicity is central to one’s
+self-esteem.
+58
+Implications for School Counselors
+The discussion of the research findings leads to recommendations for school counselors.
+Considering the American School Counselor Association and its national model, school
+counselors are expected to put some emphasis on recognizing and appreciating cultural diversity
+(American School Counselor Association, 2008). It seems important that school counselors
+include programs that enhance ethnic identity into their comprehensive guidance and counseling
+programs. However, school counselors must first realize that ethnic identity development is
+crucial to the emotional and academic success of children.
+Umana-Taylor et al. (2009) suggested that ethnic identity is a process beginning with
+exploration and ending with understanding. With this in mind, it is important for school
+counselors to facilitate activities that elicit exploration, clarification, and examination of ethnic
+issues. Activities might include classroom guidance lessons or small group discussions. School
+counselors could develop and implement classroom guidance activities in which students explore
+the uniqueness of their culture and the culture of others. Exploration activities can lead to
+students realizing commonalities as well as appreciating differences among themselves and
+others. For this study the researcher developed a six week cultural awareness program. As an
+additional reference, topic areas and corresponding activities are listed below.
+Week 1: Getting To Know One Another & Setting Group Goals
+ACTIVITY: We’re All Unique (ICEBREAKER)
+Week 2: All About Me & My Unique Family
+ACTIVITY: Cultural Collage
+Week 3: Personal Heroes
+ACTIVITY: Who Inspires You?
+59
+Week 4: Music
+ACTIVITY: Music and Dance
+Week 5: Our School Culture
+ACTIVITY: School Culture Sand Tray
+Week 6: Discrimination in Our School/City
+ACTIVITY: Barnga
+Follow-Up: Suggestion Box
+These activities are appropriate for upper elementary and middle school students. Also, these are
+the same activities used in this study. For descriptions of each activity refer to Appendix A.
+It is important to note that not only should minority students participate in ethnic identity
+exploration, but Caucasian students should be included as well. Phinney (1989) found that
+Caucasian adolescents deemed their ethnicities as synonymous with American culture. This
+revealed a deficiency in pluralistic ethnocentrism among this group of young people. Moreover,
+it was discovered that this group of adolescents considered American culture to be centrally
+important in a society that is made up of diverse members that value their traditional culture as
+most significant. Therefore, school counselors should provide safe, respectful environments
+where students of all races and ethnicities feel comfortable expressing different opinions. All
+students opinions should be valued and sometimes challenged, but in a respectful manner.
+School counselors should also encourage Caucasian students to participate in ethnic awareness
+activities to explore their heritage. For example, Caucasian students could research their
+family’s migration to the United States or family rituals. Students might explore what holidays
+they celebrate and how they celebrate them

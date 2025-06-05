@@ -1,0 +1,182 @@
+Abstract
+ An ecological approach to bullying prevention is critical for the reduction of bullying
+and victimization. Any intervention implemented in a school to reduce bullying should include a
+variety of targets on all levels of the ecology and these interventions need to be sustainable by
+the school following introduction of the intervention. Schools are more aware today that
+bullying victimization causes harm to all those involved. Victims of school bullying suffer from
+increased mental health problems, perpetrators of bullying are more likely to enter the legal
+system and school communities have a more negative school culture that makes it harder for
+students to learn. States are requiring schools to be more accountable for eliminating bullying in
+school and schools respond by implementing research-based bullying prevention programs. The
+Olweus Bullying Prevention program has demonstrated effectiveness in elementary schools yet
+has limited research on its effectiveness in high schools. Considerable research has demonstrated
+the effectiveness of Olweus Bullying Prevention program in reducing bullying, victimization and
+other school related problems. However, less is known about the program’s impact to reduce
+bullying behaviors in high school settings.
+The present study aimed at evaluating the Olweus Bullying Prevention program in a high
+school setting. Two high schools in the Midwestern region participated in the study with one
+school as the experiment school by implementing the Olweus program during one academic
+year. 699 students completed the Olweus Bully/Victim questionnaire at the beginning and end of
+the school year. The within group repeated design was employed to investigate the pre and post
+implementation difference and the MANOVA was performed to compare the differences in
+bullying and victimization between control and experimental school.
+PREVIEW
+ii
+The results showed no statistically significant effect of the intervention for reducing
+bullying others or bullying victimization. There was a slight reduction in bullying victimization
+in “hot spots” but this was not statistically significant. The possible reasons for failing to find
+any significant differences were discussed in relation to the ecological fitness of any prevention
+and intervention programs. The implications from the findings of this study illustrated the
+importance of supportive local administration and staff members in successful implementation of
+Olweus program It is equally important for Olweus trainers create a favorable working
+relationship with school administration and the bullying prevention coordinating committee,
+assess the school’s readiness to implement the program, help the school address these issues
+prior to implementation. During the intervention period, it is critical that a variety of
+interventions are implemented on all levels of the school’s ecological system
+Problem Statement
+Three girls chased sixteen year old Desiree Dryer down the hallway of her school through
+the hustle of children changing classes. Desiree found safety in the restroom at the end of the hall
+and locked herself in the toilet stall farthest from the doorway1
+.
+“We will kill you, you wait” one girl threatened as she stood in the doorway holding the
+door open to the restroom. “If it doesn’t happen here, we will get you at home or at cheerleading.
+You can’t hide”.
+Desiree, horrified, called her mother from her cell phone as she sat crying on the floor of
+the girl’s restroom. She cried hysterically for about 30 minutes as she talked to her mother and
+then walked to the principal’s office as her mother suggested. The principal called the other girls
+into his office with Desiree and told them all to stop the drama, and that if they did not, they
+would all be suspended from school for three days. Following the meeting, Desiree went back to
+her class and was unable to concentrate on her work. She wrote a small note on a piece of paper
+that she tore from the back of one of her textbooks that she planned to give to her friend during
+the next class:
+They blamed it all on me. Mr. Jones told them that if anyone said one word as they walked
+out of the office it would be a three day suspension. What do you know, the second they left,
+Ashley it was, like, I swear, I want to hit something or someone, they didn’t do shit. No I
+don’t know if I will be able to switch classes or not, so I think I will be changing schools or
+something and you know that they’re not going to stop anyway.
+
+1
+ Adapted from personal interviews with Donna Dryer, Desiree Dreyer’s mother 2007, 2008.
+PREVIEW
+2
+Following years of persistent bullying, life seemed to slowly close in around Desiree in
+an isolating cloud of torment, fear, and self-blame from the actions of those who would later
+mourn her loss.
+She sat in her room on the third day absent from school because she was sick, what her
+mother were later describe as “silent pain”. She read the text message sent from Amber. “You
+are worthless and no one, including Cameron, wants you, so you might as well kill yourself”.
+She likely saw little originality in Amber’s suggestion, since Desiree had probably thought about
+it on many occasions and may have practiced the scenario about as many times.
+She sent several text messages and one last one to her friend Ashley “Just tell me, who is
+saying it and what are they saying?” Life ended for Desiree that afternoon by her choice of one
+undesirable option, an option considered, practiced and set aside until that day, one ending with
+death but surely more about escape.
+Desiree’s situation was a long road of increasingly hurtful attacks on her physical and
+emotional sense of self, perpetrated by several kids at her school. By definition, school bullying
+is when a student is exposed, repeatedly and over time, to the negative actions on the part of one
+or more other students (Olweus, 1993; Olweus, Limber, and Mihalic, 1999).Though cases of
+suicide such as that of Desiree’s are rare, bullying behavior is unfortunately a common childhood
+experience, with estimates that 1 in 5 children in elementary school can expect to experience
+some form of bullying (Whitney & Smith, 1991; Smith &Wilson, 1998).
+Those children that are bullied will face a variety of negative outcomes. Escape from
+bullying will be difficult, for not only is it common, but it happens in all locations in the school
+building, including the classroom with the teacher present.
+PREVIEW
+3
+Bullying seriously affects many aspects of life for children who are targeted. Bully
+victimization has been found to be related to lower self-esteem, higher rates of depression and
+anxiety. Victims of bullying have greater occurrence of thoughts of suicide (Limber, et al,
+2004). The United States Department of Justice and The National Association of School
+Psychologists (NASP) estimate that 160,000 children miss school each day because of fear (Lee,
+1993).
+In cases of persistent bullying, children may consider suicide or homicide as a means of
+escaping from bullying. For example, in a study with Australian children, those who reported
+being bullied at least once a week were twice as likely as their peers to “wish they were dead” or
+admit having a recurring thoughts of committing suicide (Rigby, 1996). In another study of
+school-shooters done by the United States Secret Service and the United States Department of
+Education (2002), 71% of the attackers felt persecuted, bullied, threatened, attacked or injured by
+others.
+State governments are increasingly becoming involved in creating legislation that
+requires schools to create policies and prohibit bullying. In response, schools are looking to find
+proven methods for eliminating bullying in their school. There is growing research that
+demonstrates that prevention programs are effective at reducing bullying behavior and related
+aggression. The Olweus Bullying Prevention Program (Olweus, 1993), the Steps to Respect
+Program (Committee for Children, 2008) and Peace Builders (Christie, Petrie, and Christie,
+1999; Flannery, et al 2003) are examples of accepted programs that have demonstrated positive
+results. The research mostly validates efficacy of programs with elementary age children. But
+research with middle school students was scarce and no research on the Olweus program for high
+school students could be identified. In other words, absent in the 20 years of research on the
+PREVIEW
+4
+Olweus Bullying Prevention program is evidence of its effect as a prevention program for middle
+and high school children.
+Since high school students are not immune to school bullying, high schools also need
+proven methods for preventing and reducing bullying behavior. This research will add a very
+necessary ingredient to a large body of research that has failed to examine the Olweus program’s
+effectiveness for post-elementary school children.
+Research Goals
+The goal of this research was to evaluate the Olweus Bullying Prevention Program in a
+high school setting. There are a variety of reasons why this particular program was chosen for
+evaluation. The primary reason was that the Olweus program has a considerable amount of
+research available that has demonstrated its effectiveness (Olweus, 1991; Olweus, 20.04; Limber
+et al., 2004; Black, 2003) yet the research is sparse concerning its effectiveness for high school
+populations. This study will offer a valuable contribution to the literature by showing the impact
+the Olweus Bullying Prevention program has on a high school setting. It will also offer
+supportive evidence for variances in gender and age differences related to bullying.
+Research Questions
+1. Will there be differences in students’ perception of the frequency of bullying victimization in
+the experimental school between the beginning and end of Olweus Bullying Prevention Program
+implementation?
+PREVIEW
+5
+2. Will the Olweus Bullying Prevention Program reduce bullying victimization by location in
+their environment (i.e. hallway, bus stop or classroom) based on students’ perception as reported
+on the Olweus Bullying Questionnaire?
+3a. Will the Olweus Bullying Prevention Program reduce the number of bullying and other
+aggressive incidents as identified by teacher’s discipline reports at the experimental school?
+3b. Will this reduction be greater in the experimental school than in the control school?
+4. Will there be differences between experimental school and control school in reduction of bully
+victimization and bullying others evidenced by students’ responses on the Olweus survey?
+5. Will there be grade level differences in the Olweus Programs effectiveness of reducing
+bullying victimization between the experimental and control schools?
+Hypothesis
+H.1. Students will perceive that there is a decrease in bullying victimization at the experimental
+school following implementation of the Olweus Bullying Prevention program at the end of the
+academic year.
+H.2. Students will report a reduction in bullying victimization in “hot spots” at the experimental
+school from the time they are identified at pre-survey to the post-survey following the
+implementation of the Olweus Bully Prevention Program.
+H.3. There will be a reduction in the number of bullying and other aggressive incidents as
+identified by teacher discipline reports at the experimental school between pre and post-survey
+and this reduction will be greater than that at the control school.
+H.4. The Olweus program at the experimental school will demonstrate effectiveness of reducing
+bullying victimization and bullying others compared to the control school.
+PREVIEW
+6
+H.5. The Olweus Program will be more effective at reducing bullying victimization for younger
+students in the experimental than control schools.
+Significance of the Study
+This study will contribute to the research on school bullying by confirming that the
+prevalence of bullying extends to high school settings. It has been estimated that one in five
+children in primary and secondary schools are the victim of some type of bullying (Whitney &
+Smith, 1991; Smith &Wilson, 1998) and this study will show that high schools are comparative.
+Bullying causes harm to those that are victimized and those that that are bullied. Victims suffer a
+wide range of emotional and physical symptoms, including depression. They report not wanting
+to go to school and have higher rates of absenteeism (Fekkes, et al., 2004; Hansen, et al., 2006;
+Limber, et al, 2004; Limber, et al, 2004; Rigby, 1999). This study will add to this research by
+identifying the level of fear high school students experience while in school.
+The Olweus Bullying Prevention Program, which originates from Norway and considered
+the model whole-school approach by school professionals, has shown excellent results with
+reducing bullying behavior in several studies in Norway (Olweus, 1993). This study will add to
+the theoretical understanding of bullying prevention because it may show that bullying
+prevention is less effective for high schools and point to a need for developing different models
+for bullying prevention based on grade levels of school.
+This study will add to the practice of bullying prevention because schools throughout this
+country are investing large sums of money implementing the Olweus Bullying Prevention
+program to reduce bullying behavior, believing it will increase school safety and better the
+overall school climate. The research currently available is absent of studies that investigate the
+Olweus program for high-school communities. Schools may use information from this study to
+PREVIEW
+7
+make a more informed decision concerning which prevention program to select and ultimately
+could have impact on financial decisions for schools that already face limited financial resources.

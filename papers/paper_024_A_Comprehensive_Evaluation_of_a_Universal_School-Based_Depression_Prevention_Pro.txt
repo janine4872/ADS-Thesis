@@ -1,0 +1,866 @@
+We use essential cookies to make sure the site can function. We, and our 95 partners, also use optional cookies and similar technologies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to allowing us and our partners to store and access personal data on your device, such as browsing behaviour and unique identifiers. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our privacy policy for more information on the use of your personal data. Your consent choices apply to springer.com and applicable subdomains.
+
+You can find further information, and change your preferences via 'Manage preferences'.
+You can also change your preferences or withdraw consent at any time via 'Your privacy choices', found in the footer of every page.
+
+We use cookies and similar technologies for the following purposes:
+
+Advertisement
+
+Access provided by SURF B.V.
+
+2687 Accesses
+
+11 Citations
+
+Explore all metrics
+
+The present study proposes and demonstrates a comprehensive framework for evaluation of a universal school-based depression prevention program. Efficacy was evaluated by considering the impact of continuous versus categorical approaches to operationalizing outcome, the effect of the intervention on key change agent variables, and moderation of intervention effects by student symptom severity at baseline. Participants 252 adolescent boys and girls (60 % male), aged 13 to 17 years (M = 13.62 years, SD = 0.60 years) from four schools in the state of Victoria, Australia, who were allocated by school into a waitlist = control (n = 88) or a CBT-based intervention (n = 164) group. The intervention involved six 45-min weekly sessions run during wellbeing classes. While the intervention and control groups did not differ in average improvement in symptoms by post-intervention, further analyses showed that responsiveness was highly variable within the intervention, and those with elevated depressive symptoms benefitted most. The proposed change agents of self-esteem, resilience, body image satisfaction, and perceived social support did not uniquely predict change in depressive symptoms but collectively accounted for substantial variance in this change process. Collectively, this framework provided insights into aspects of the intervention that worked and highlighted areas for improvement, thus providing clear direction for future research.
+
+In Australia, mental illnesses, such as depression, affect approximately 18 % of people annually and 45 % in their lifetime (Australian Institute of Health of Welfare 2013). This constitutes the leading cause of disease among Australian women (representing 10 % of the burden of disease) and the third leading cause for men (5 %; Australian Bureau of Statistics 2010). Depression is treatable, particularly if targeted early. Unfortunately, while it is recognised that approximately half of all sufferers of depression experience onset in adolescence (Kessler et al. 2007), many adolescents are either unaware of symptoms or unwilling to seek treatment (Gulliver et al. 2010) and, accordingly, are often not treated until adulthood, by which time symptoms are more severe and harder to treat (Gladstone and Beardslee 2009). Therefore, it has been argued that greater provision of prevention and early intervention efforts may help curb the incidence, duration, and costs of depression (Gladstone and Beardslee 2009; Nehmy 2010). Such efforts require clear understanding of the mechanisms responsible for depression in order to effectively intervene. This also requires an effective framework for evaluating efficacy of interventions that target these mechanisms. The purpose of this study is to demonstrate a comprehensive data analytic approach that provides a thorough evaluation of the effectiveness of a universal school-based depression prevention program. As argued below, such knowledge acquired on an individual study or trial basis may augment understanding of treatment efficacy ascertained across studies (i.e., via reviews and meta-analyses), and ultimately help researchers determine the active ingredients in successful depression treatment programs.
+
+Universal (or whole-of-cohort) prevention/intervention programs (e.g., Gillham et al. 2007; Spence et al. 2003) have become increasingly popular, and attempt to directly address some of the more common putative risk and protective factors (e.g., emotional regulation, coping skills, self-esteem, and resilience) rather than seeking to tailor intervention at the individual-level. Advocates argue that such programs may be more cost-effective because they target a wider audience than individualized care (Horowitz et al. 2007), enhance resiliency and general mental health (Barrett and Turner 2004), and may foster protective factors that simultaneously decrease the risk of developing depression in those who are currently asymptomatic (Spence et al. 2003) and reduce symptoms for those who have current diagnosis or who are at-risk (McLaughlin 2009). Moreover, offering the program to all students eliminates the issue of stigmatizing already vulnerable students (Horowitz et al. 2007).
+
+Recent reviews of the efficacy of universal programs (e.g., Calear and Christensen 2010; Merry et al. 2011; Neil and Christensen 2007) show some benefit in this intervention strategy, although effect sizes are clearly in some trials than others. For instance, of the 23 universal trials Calear and Christensen (2010) reviewed, all but three reported greater improvements in the intervention relative to the control group. However, only 9 of these 23 trials achieved statistical significance, and effect sizes ranged from small (Cohen’s d = 0.3) to large (d = 1.4), with only six out of the 23 trials showing at least a moderate effect (d > 0.5) for the treatment group. Further exploration revealed that effect sizes were weaker for trials in which teachers delivered the program and/or the comparison group was an attention control rather than waitlist control group. In a recent meta-review completed by Merry et al. (2011), the authors concluded that, although these effect sizes are typically small, universal depression prevention programs are likely to be effective in reducing incidence of depression, risk difference = −0.09; 95 % CI [−0.14, −0.05], and severity of depressive symptoms, Cohen’s d = −0.20; 95 % CI [−0.26, −0.14]. While meta-analytic reviews provide an opportunity to identify design characteristics that are commonly utilised in the more efficacious trials relative to less efficacious trials, within-study characteristics may also shed light on why and for whom a particular trial was efficacious.
+
+Exploration of the effect of baseline symptom severity on treatment efficacy allows researchers to potentially explore generalizability of treatment effects to different subgroups (e.g., whether the treatment was equally beneficial for individuals with mild to moderate symptoms versus individuals with severe in symptom levels pre-intervention). Some studies have demonstrated greater effects for those with diagnosis or who are at-risk, relative to those who are initially asymptomatic or who exhibit low levels of symptoms at baseline (Sheffield et al. 2006; Spence et al. 2003). Other studies show that those who are initially asymptomatic may in fact worsen – at least initially – because the program encourages them to reflect on potentially negative things that they had not previously encountered (Pössel et al. 2013). Thus, inspection of how baseline levels of depression influence level of improvement attributable to the intervention should be routinely checked, and may provide insights into who is most likely to benefit from the program as typically delivered versus those who may need a modified version in order to achieve positive outcomes.
+
+As universal interventions typically seek to improve mental health by bolstering protective factors and reducing risk factors (e.g., targeting resilience, self-esteem, and coping ability), it is meaningful to also evaluate whether the intervention produced positive change in these change agents and whether that, in turn, predicts improvement in the primary outcome (depression). At the level of individual study, some studies have found no improvement in depressive symptoms or the change agents that are directly targeted by the intervention, such as thinking style (Sawyer et al. 2010), self-esteem (Quayle et al. 2001), coping skills (Harnett and Dadds 2004), and social skills (Spence et al. 2003). Conversely, some studies found that depressive symptoms improved without coinciding improvement to the change agents targeted in the program. For instance, Pössel et al. (2004) found that although depressive symptoms improved, thinking style, and social networks did not. Similarly, Cardemil et al. (2002) and Horowitz et al. (2007) also found improvements in depressive symptoms but have failed to find changes in the skills that have been targeted by the intervention (such as coping skills and self-esteem), suggesting the mechanisms that lead to change in depression are other than the proposed change agents. Inspection of change in these putative ‘change agents’ may provide additional information to help researchers refine and improve efficacy of their interventions by identifying aspects of the intervention that did – and did not – work as intended. Moreover, insofar as the active ingredients for one trial may differ from another, meta-analysis is unlikely to detect key determinants of efficacy due to attempts to aggregate results across disparate studies.
+
+Timmons and Preacher (2015) caution that the chosen intervals for assessment in longitudinal designs may impact the capacity to accurately capture the change process. While post-intervention measurement of symptoms is standard for school-based interventions, it is not the only time-point to evaluate change. Indeed, given the amount of content covered in these interventions, it is possible that the full effect of intervention may not be observed until some time after cessation of treatment (Possel et al. 2003; Quayle et al. 2001). For this reason, and also to evaluate maintenance of treatment effects observed at post-intervention, many studies include a follow-up assessment point, although the interval between post-intervention and follow-up and the number of assessments in this interval vary across studies (Merry et al. 2011). Thus, the present study will explore both post-intervention effects and maintenance or enhancement of effects at follow-up.
+
+The most common method for evaluating universal school-based programs has been to compare continuous (i.e., group mean-based) changes between the intervention and control group from pre- to post-intervention and at follow-up assessment points (e.g., Araya et al. 2013; Horowitz et al. 2007; Pössel et al. 2013; Spence et al. 2003). This approach is useful because it summarises effects at the group-level, and interventions in which the majority of participants improve would likely be detected by group differences in symptom severity from baseline to post-intervention. However, this approach is likely to be less sensitive when intervention effects are heterogeneous (with some participants improving considerably, and others having adverse reactions), and may be subject to influence of outliers with sizable improvement/decline, particularly with small sample sizes. An alternative approach is to quantify the proportion of participants who meet clinical cut-offs for caseness at baseline vs post-intervention (Pössel et al. 2004; Quayle et al. 2001), or simply as the number of participants who improve or decline by a pre-specified amount, such as improving by one or more standard deviations from baseline (e.g., Spence et al. 2003; Raes et al. 2014). In the absence of an agreed clinically significant value for improvement (Shochet et al. 2001), judging change based on standard deviations provides a pragmatic way to assess improvement. Moreover, this may be a suitable alternative or adjunct to proportions based on caseness since diagnosis-based assessments do not necessarily provide indication of level of improvement in symptoms. For instance, an individual with severe symptoms at baseline may substantially improve yet still exceed the clinical cut-off, whereas another participant who just exceeds the cut-off at baseline may have small improvement that is sufficient to push them below the cut-off at post-intervention.
+
+The value of using both continuous and categorical perspectives has been illustrated in several studies to date. Spence et al. (2003) were able to report that a greater number of high-risk students in the intervention condition improved two standard deviations in magnitude compared with high-risk students in the control condition. The researchers concluded that high-risk students had a reduction in depressive symptoms that were of clinical benefit. In a recent school-based mindfulness-based depression prevention program conducted by Raes et al. (2014), the authors reported that by 6-month follow-up, those in the intervention condition had a significant reduction in depressive symptoms compared to those in the control condition. By including a categorical based measure of efficacy, they were also able to quantify this improvement, showing that 62 % of participants in the intervention condition improved substantially (i.e., two standard deviations in magnitude), compared with 36 % in the control condition. In sum, exploring efficacy from both categorical and continuous perspectives may provide greater insights than reliance upon one approach in isolation, especially when effectiveness of an intervention is driven by a subgroup within the cohort that may otherwise be overlooked.
+
+Thus, the present study demonstrates the use of a more comprehensive evaluation framework to determine whether a school-based intervention (the Think Health and Wellbeing intervention) is effective in reducing depressive symptoms in adolescents. A more thorough approach to evaluating efficacy, as described below, may assist researchers to uncover answers to questions of efficacy that have remained elusive in the depression prevention research space and, in turn, inform the development of more tailored programs for this at-risk population. Efficacy was evaluated in terms of:
+
+Continuous and categorical operationalizations of improvement in symptoms – the continuous approach evaluated whether reduction (or rate of change) of depressive symptoms over time were greater for the intervention group than the control group, whereas the categorical approach assessing proportion of individuals who substantially improved in each group over the testing period;
+
+Time course for improvement – whether the intervention group had greater improvement than the control group post-intervention and whether these post-intervention improvements are maintained or enhanced further at a subsequent follow-up; and
+
+Mechanisms of improvement (who improved, on what, and how?) – whether improvement post-intervention was dependent upon baseline symptom severity, whether the intervention improved the primary outcome (depression) and/or the proposed change agents targeted by the intervention, and whether improvement in the change agents predicted change in the primary outcome (both concurrently and prospectively).
+
+It is predicted that the intervention group will experience greater improvement than the waitlist control group in depressive symptoms from baseline to post-intervention by both categorical and continuous operationalisations of the outcome. Further, as the Think Health and Wellbeing program targets proposed risk and protective factors for depression, it is anticipated that reduction in depressive symptoms will be predicted by change in these proposed change agents. Finally, it is expected that the intervention group will exhibit maintained reduction in depressive symptoms at a 3-month follow-up.
+
+Students were assigned to either the intervention or control condition based on the school they attend. Assignment to either intervention or control condition was determined by confirmation of participation by each school. First allocation was to the intervention group, followed by control condition. Participants in the intervention condition were asked to complete baseline questionnaire before the start of the first module, at the completion of the final module and then 3 months later at follow-up. Those in the control condition completed the questionnaires at the same time points (i.e., baseline, then 6 weeks later), and then received the intervention program. Consistent with previous studies, those in the control condition were offered the intervention immediately after the program, which ensured the participants in this group were not withheld treatment longer than necessary (Berry and Hunt 2009; Masia-Warner et al. 2005).
+
+Participants were 252 eighth grade students (150 males and 102 females), ranging in age from 13 to 17 years (M = 13.62, SD = 0.60). A total of 164 students were in the intervention condition, whilst 88 students were allocated to the wait-list control condition. As shown in Fig. 1, participant numbers dropped to 60 for the control group and 134 for the intervention group by post-intervention (T2). Based on T2 sample sizes, alpha = 0.05 and power = 0.80, and assuming a modest intra-class correlation of 0.05, the present study was adequately powered to detect a moderate group difference in depressive symptom severity at post-intervention of Cohen’s d > 0.5.
+
+Summary of the number of participants who completed the measurements at each of the three time points
+
+The control group was significantly older (M = 13.85 years, SD = 0.63) than the intervention group (M = 13.49, SD = 0.54), F(1, 250) = 23.18, p < 0.001. Although the gender balance was uneven across control (45 boys, 43 girls) and intervention conditions (105 boys, 59 girls), this effect was non-significant, χ2 (1, N = 252) = 3.43, p = 0.064. Thus, age, but not gender, was used as a covariate in analyses reported in the Results section.
+
+Twelve schools were contacted and given a full description of the program. Four schools declined to participate as they already had mental health programs running, and a further four schools did not have the capacity and/or time to participate. At the end of this process, participants were recruited from four government high schools in Victoria. Three schools were in metropolitan Melbourne and one school was from a large regional city. Fig. 1, below, outlines participant numbers across the stages of the intervention. Although not the focus of the present study, the small number and non-random allocation of schools to condition introduced the possibility of differences across schools in baseline variables (including demographics). For the interested reader, these group differences and associated significance tests are presented in Appendix Tables 4 and 5.
+
+The program was administered according to a manual prepared for the facilitators of the intervention. This provided an outline for each of the six intervention sessions, including psych-educational material as well as a guide to facilitating in-session activities. A manual for students was also used. The student manual outlined tasks that the students were required to complete during each intervention session and provided space for student responses. A detailed description of the contents of each intervention session is provided in the Procedure Section.
+
+The 13-item Short Mood and Feelings Questionnaire (SMFQ; Angold et al. 1995) assesses core symptoms of depression in children and adolescents. Items require participants to rate how they were feeling or acting in the past 2 weeks, for example, ‘I felt miserable or unhappy’. Items are keyed to a three-point scale with the following possible responses ‘true’ (scores 2); ‘sometimes true’ (scores 1); or ‘not true’ (scores 0). Scores are summed, with a possible range of 0–26. Higher scores reflect greater severity of depressive symptomology. A cut-off score of≥ 8 has been shown to be predictive of a possible diagnosis of depression (Angold et al. 1995). Prior studies have demonstrated the scale possesses good psychometric properties and is appropriate for use with adolescents aged 12 and above (Angold et al. 1995; Brooks and Kutcher 2001). In the current study, Cronbach’s alpha was found to be excellent (T1 α = 0.94, T2 α = 0.95, T3 α = 0.95).
+
+Perceived social support was measured using the Multidimensional Scale of Perceived Social Support (MSPSS; Zimet et al. 1988). The MSPSS is a self-report measure that subjectively assesses social support adequacy of family, friends and a significant other. This scale consists of 12 items with three subsections (family, friends, significant others) that require participants to indicate their strength of agreement with statements such as ‘There is a special person who is around when I am in need’ (1 = very strongly disagree; 4 = neutral; 7 = strongly agree). Prior research has demonstrated the scale has good psychometric properties (Zimet et al. 1988) and is suitable for use with adolescents (Canty-Mitchell and Zimet 2000). In the current study, Cronbach’s alpha was found to be excellent (T1 α = 0.91, T2 α = 0.92, T3 α = 0.93).
+
+Body satisfaction was measured using a 5-item version of the Body Image and Body Change inventory (Fuller-Tyszkiewicz et al. 2012; Ricciardelli and McCabe 2000). This scale measures satisfaction with overall weight/shape, muscles, lower body, middle body and upper body. Items are presented with 5-point Likert-style response scales, ranging from 0 (Extremely Dissatisfied) to 4 (Extremely Satisfied). The Body Image Satisfaction Subscale has demonstrated good internal reliability when used with an adolescent sample. (Ricciardelli and McCabe 2000). In the current study, Cronbach’s alpha was found to be excellent (T1 α = 0.92, T2 α = 0.94, T3 α = 0.95).
+
+The shortened version of the Resilience Scale (Wagnild and Young 1993) was used to measure resilience. The scale reflects five areas of resilience: perseverance, equanimity, meaningfulness, self-reliance and existential aloneness. The 14-item measure was further reduced to 10 items in the present study. Items with negative connotations or that might evoke difficult feelings were removed in accordance with school requests. The Resilience Scale requires participants to indicate their strength of agreement with statements such as ‘I usually manage one way or another’ (1 = disagree; 4 = neither agree nor disagree; 7 = agree strongly). Several early studies indicate that the scale has good psychometric properties and is appropriate for use with younger individuals (Wagnild 2009). The shortened 14 item version also has sound psychometric properties and is appropriate to use with adolescents (Salazar-Pousada et al. 2010). In the current study, Cronbach’s alpha was excellent (T1 α = 0.89, T2 α = 0.90, T3 α = 0.90).
+
+The Rosenberg Self-Esteem Scale (RSES: Rosenberg 1965) was used to measure student’s levels of self-esteem. The RSES is a 10 item self-report measure that asks participants to indicate their strength of agreement with statements such as ‘I am able to do things as well as most other people’ (1 = strongly agree; 4 = strongly disagree). The scale includes both positively and negatively worded items. Negatively worded item are reversed coded them summed, providing scores with a range of 10 to 40. Higher scores reflect greater levels of self-esteem. Studies have shown that the scale has good psychometric properties (Sinclair et al. 2010) and is appropriate for use with adolescents (Bagley and Mallick 2001). In the current study, Cronbach’s alpha was found to be very good (T1 α = 0.86, T2 α = 0.88, T3 α = 0.88).
+
+Following ethics approval, secondary schools in the Melbourne metropolitan region and regional Victoria were invited to take part in the proposed study. Meetings were held with school representatives to describe the program. Plain language statements and consent forms were provided to students, parents, and school principals. In order to be eligible to complete the questionnaires, both students and parents were required to provide consent.
+
+Four-hundred and fifteen students were enrolled in the four participating schools and of those 252 (61 %) gave consent to participate in the program (including completing the surveys). It was emphasized to students that they could still complete the intervention if they consented, without having to complete surveys if they felt uncomfortable doing so. The remaining students gave consent to participate in the intervention, but did not consent to complete the surveys. Thus, those who did not provide consent to complete the surveys were asked to undertake private activities (e.g. read or complete homework) whilst the 252 students completed the questionnaires.
+
+The interventions were held at the participating schools during health and wellbeing classes. ‘Think Health and Wellbeing’ was devised in order to address key risk and protective factors known to be implicated in adolescent depression, such as thinking style, self-esteem, and resilience. The program comprises six modules, each including a combination of psycho-education, small group activities and whole class discussions. The intervention is similar in structure (e.g., Rohde et al. 2014) and content (e.g., Stallard et al. 2012) to other school-based programs. It includes six 50 min modules aimed to assist students to (1) recognise and address unhelpful thinking patterns (2) develop coping skills and learn ways of relaxing (3) build positive self-esteem (4) develop a positive body image (5) develop communication, interpersonal, and assertiveness skills and (6) become more resilient through perspective taking, positive self-talk and active coping. Appropriately trained post-graduate psychology students facilitated the interventions.
+
+Classes consisted of approximately 20 to 25 students. Students in the wait-list control condition attended their regular health and wellbeing classes, where they received regular wellbeing curriculum, including education on diet and nutrition, relationships, and sexual health.
+
+Following evaluation of attrition rates and group differences at baseline, analyses were undertaken in order to evaluate treatment efficacy: (1) from both continuous and categorical perspectives, (2) with respect to immediate effects of the intervention (T1 to T2) and maintenance effects (T2 to T3), and (3) in terms of for whom the intervention was most effective and how. As the continuous versus categorical issue pervades the other two issues, information is organised below and in the Results section according to this first consideration.
+
+First, the latent difference score approach (McArdle 2001; Selig and Preacher 2009) was used to derive estimates of the magnitude of change in depressive symptoms (and change agents) from baseline to post-intervention, and from post-intervention to the 3-months follow-up. This approach is preferable for evaluating change as it overcomes issues of regression to the mean (McArdle 2001). A multi-group approach was adopted in order to evaluate group (intervention vs control) differences in: (1) level of change from T1 to T2 (akin to the group x time interaction in ANOVA-based evaluations of efficacy), and (2) relationship between baseline level of the outcome variable and change in this variable. These models were run separately for each outcome variable (depressive symptoms, and the change agents), and then as a full model with latent change in depressive symptoms regressed onto latent change in the change agents in order to see whether improvement in depressive symptoms coincided with improvements in these variables directly targeted by the intervention. Significance tests for group effects were derived by comparing models in which these parameters were constrained to be equal across control and intervention groups versus models in which these parameters were free to vary across groups (Byrne 2012; Gregorich 2006). Note that as the latent difference score was modelled as T2 – T1, negative scores for this variable reflects improved symptoms whereas positive scores for the change agents (since higher values on these represent more positive development) represent improvement.
+
+Second, as the control group discontinued participation at T2, a single group analysis was undertaken. This T2 to T3 latent difference score model tested change in the depressive symptoms as a function of baseline (T1) and post-intervention (T2) levels of depression, and T1 to T2 latent difference scores for the proposed change agents (body satisfaction, resilience, self-esteem, and social support). As this model was single-group, significance tests were performed on model estimated b weights instead of through model comparison.
+
+Change in symptoms from T1 to T2 (and T2 to T3) were categorised based on whether an individual improved by at least 1 SD (improved group), declined by at least 1 SD (deteriorated group), or exhibited change less than ±1 SD (stable group), based on SD values at baseline for the sample as a whole (SD = 5.93). These change categories allowed us to quantify the proportion of individuals who changed substantially from T1 to T2 by group, and with respect to decline as well as improvement. Chi square analyses were used to evaluate whether the control and intervention groups differed in the proportions for each of the three categories (declined, stable, improved).
+
+Finally, logistic regression analyses were conducted to evaluate whether improvement in depressive symptoms post-intervention (T2) and at the 3-month follow-up (T3) could be predicted by baseline depression severity (as a continuous variable) and T1-T2 improvement in the change agents (categorical variable). For the model with T3 depression change as the outcome, T1 to T2 improvement in depressive symptoms and change agents (categorical variables) were used as predictors. Given the primary interest of predicting improvement in depression, as well as the low numbers of participants who improved/declined substantially, the categorical variables were binary (1 SD improvement vs all other participants). Furthermore, these analyses were run exclusively on intervention participants as the intervention group showed significantly more individuals who improved by at least 1 SD.
+
+Overall, 23 % of participants did not provide post-intervention data. It was more likely for participants to not provide data at post-intervention if they were in the control group (28/88 for control group versus 30/164 for intervention); χ2 (1, N = 252) = 5.91, p = 0.015, Cramer’s V = 0.15. Attrition from baseline to post-intervention was associated to two variables studied, as the interaction between group (control vs intervention) and attrition (drop-out vs completers) had significant effects on baseline resilience, F(1,248) = 4.08, p = 0.045, η 2 = 0.02, and social support, F(1,248) = 4.28, p = 0.04, η 2 = 0.02. Attrition was not associated to other variables at baseline, including self-esteem, F(1,248) = 0.253, p = 0.616, η 2 < 0.001, body satisfaction, F(1,248) = 0.00, p = 0.982, η 2 < 0.001, and depressive symptoms, F(1,248) = 0.02, p = 0.894, η 2 < 0.001, nor was attrition predicted by gender, χ2 (1, N = 252) = 1.86, p = 0.172, Cramer’s V = 0.09.
+
+Table 1 provides a breakdown of latent mean scores for all study variables by time and treatment group allocation. At baseline, the control and intervention groups did not significantly differ on any of these variables (t values ranged from 0.18 to 0.82, ps ranged from 0.410 to 0.860). Applying cut-offs to SMFQ scores, 32 % of intervention students and 30 % of control students met cut-off for probable depression at baseline, suggesting proportion of students with mental health concerns was high, but comparable across groups.
+
+As shown in Table 1, students in the intervention group reported a decrease in depressive symptoms at post-intervention, whereas those in the control group showed an increase in depressive symptoms. However, latent change analysis showed that the groups did not differ in their level of change in depressive symptoms, χ2 (1, N = 252) = 0.47, p = 0.491, but did differ in the relationship between baseline depressive symptom severity and change in symptoms by post-intervention, χ2 (1, N = 252) = 5.40, p = 0.020). The relationship between baseline depressive symptoms (T1) and latent change in depressive symptoms from baseline to post-intervention (T1 to T2) was significant and negative for both groups. As latent change reflects T2 depressive symptom severity minus T1 depressive symptoms, negative associations indicate that higher scores on depression at baseline were associated with greater improvement at T2. Post-hoc evaluation showed that this relationship was stronger for the intervention group (β = −0.57, p < 0.001) than the control group (β = −0.39, p = 0.010).
+
+The control and intervention groups did not differ in the magnitude of change from baseline to post-intervention for resilience, χ2 (1, N = 252) = 0.50, p = 0.482, body satisfaction, χ2 (1, N = 252) = 2.57, p = 0.108, or self-esteem, χ2 (1, N = 252) = 1.01, p = 0.316, but did for level of social support, χ2 (1, N = 252) = 5.32, p = 0.021. Moreover, magnitude of improvement in depressive symptoms was not reliably predicted by improvement in body satisfaction (b = −0.71, p = 0.121), self-esteem (b = −0.90, p = 0.447), or level of social support (b = −0.55, p = 0.413), but was predicted by improvement in resilience (b = −0.85, p = 0.039) for the sample as a whole. These effects did not differ as a function of group status (intervention vs control); Δχ2 (4, N = 252) = 1.90, p = 0.754. In total, these predictors explained 37 % of the variance in change in depressive symptoms by T2.
+
+Improvement in depressive symptoms from T2 to T3 was greater for individuals with elevated T2 depression severity (b = −0.74, p < 0.001), but was not reliably predicted by baseline depression (b = 0.18, p = 0.174), or T1 to T2 change in body satisfaction (b = −0.77, p = 0.330), resilience (b = 1.03, p = 0.457), self-esteem (b = −1.98, p = 0.204), or social support (b = −0.24, p = 0.798). In total, these predictors accounted for 57 % of the variance in change in depressive symptoms from T2 to T3.
+
+Further analysis was conducted in order to determine whether the proportion of individuals who experienced substantial change (operationalized as 1 SD change) was greater in the intervention than the control group. In the control condition, 53 individuals (88 %) showed no change in levels of depressive symptoms at post-intervention, six (10 %) reported higher levels of depressive symptoms, and one (2 %) showed a reduction in depressive symptoms. In the intervention condition, 80 individuals (60 %) showed no change to depressive symptoms, whereas 30 individuals (22 %) recorded an increase in depressive symptoms, and 24 individuals (18 %) reported a reduction in depressive symptoms at post-intervention. Chi-square analysis was conducted and revealed response rates differed significantly based on condition, χ2 (2, N = 252) = 16.87, p < 0.001, Cramer’s V = 0.30.
+
+Of the 24 participants in the intervention who improved by 1 SD or more at post-intervention, four (17 %) dropped out by follow-up, 4 (17 %) declined by at least 1 SD, 14 (58 %) remained stable, and a further 2 (8 %) improved by an additional 1 SD or more at the 3-month follow-up. Among participants who remained stable from T1 to T2 (n = 58 with data for T1 to T3), the majority remained stable from T2 to T3 (n = 44, 76 %), 3 (5 %) declined by at least 1 SD, and 11 (19 %) improved by at least 1 SD. For those who worsened from T1 to T2 (n = 18 with data for T1 to T3), 4 (22 %) remained stable from T2 to T3, and the remainder 14 (78 %) improved by at least 1 SD. Thus, the bulk of participants who improved from T2 to T3 had negative or negligible effects from T1 to T2.
+
+Logistic regression analyses were conducted to determine which variable(s) predicted substantial improvement in depressive symptoms (operationalized as at least one standard deviation improvement in depressive symptoms) among individuals in the treatment group at post-intervention and follow-up (see Table 2). Post-intervention (T2) improvement in depressive symptoms was significantly predicted by greater levels of depressive symptoms at baseline (T1; b = 0.33, p < 0.001, OR = 1.39). In combination, these predicted accounted for 59 % of the variability in change in depression symptoms.
+
+Change in depressive symptoms from post-intervention (T2) to follow-up (T3) was not reliably predicted by any of the predictor variables. In combination, these predictors accounted for 29 % of the variability in change in depressive symptoms.
+
+The aim of the present study was to illustrate use of a comprehensive evaluation framework for testing efficacy of a universal school-based intervention designed to prevent depressive symptoms in adolescence by considering (1) the impact of continuous versus categorical approaches to outcome measurement, (2) time course for improvement, and (3) whether change in change agent variables coincided with - and preceded - improvement in the primary outcome variable (depressive symptoms), as well as whether the intervention was more effective for those with elevated levels of baseline depressive symptoms.
+
+When evaluated based on change along a continuum, current findings provide qualified support for the intervention. While the intervention group showed improvement in symptoms for the sample as a whole, and the control group showed worsening symptoms over this timeframe, the difference in trajectories was not significant. Similarly, group differences in improvements for the proposed change agents were also non-significant. The only change agent to significantly improve was level of social support; this and all other change agents (with the exception of resilience predicting baseline to post-intervention depressive symptom reduction) did not uniquely contribute to prediction of change in depressive symptoms at post-intervention or follow-up.
+
+Given that the variance accounted for by these variables was considerable, and the possibility that the individuals experienced improvement across several of these change agents, the null results for these change agents as predictors may at first blush appear to be explained by overlapping variance among predictors rather than true lack of predictive value. However, the lack of group differences (intervention vs control) for improvement in these change agents and depressive symptoms suggests that these changes may have been negligible overall, and caution should be exerted in interpreting these relationships. Finally, treatment effects were greatest for individuals with more severe depressive symptoms at baseline, suggesting that the intervention may potentially be better suited to a targeted rather than universal intervention (Araya et al. 2013), and may not be as effective for individuals with mild to moderate depressive symptoms. These weak effects may in part be attributed to positive treatment effects for those with probable cases of depression (approximately 30 % in the present sample) being masked at the group-level by the proportion of individuals with low levels of depressive symptoms at baseline, but it is difficult to ascertain from these continuous, group-level results alone.
+
+Results from categorical analyses largely support conclusions derived from the continuous perspective, and provide further insights into the issue of for whom treatment effects were greatest. When efficacy was operationalised as proportion of participants who changed substantially, the majority of participants (for both groups) remained stable between T1 and T2, although the intervention group showed greater proportions than the control group of individuals who improved and deteriorated, consistent with the weak effects found at the group level with continuous data. Moreover, as per the continuous data, the change agents were not uniquely predictive of change in depression by T2 or T3, although in combination these change agents accounted for over half of the change variance in depressive symptoms at post-intervention and almost one-third variance at T3.
+
+Consistent with the continuous data results, categorical analyses showed that those with greater severity of depression at baseline were more likely to improve by T2. Thus, while the categorical data would lead to the same conclusions with respect to the impact of intervention on the change agents, and the lack of association between change in these factors and change in depressive symptoms, the T1 to T2 data suggest that the intervention did lead to a greater number of participants improving depressive symptoms than natural change in the control group. The concern, as identified from the categorical data, is that only approximately one-fifth of participants in the intervention group experienced substantial change, while many did not improve substantially, and a substantial number actually worsened (at least initially, before returning to prior levels by T3). This variable pattern of change (with some improving and others declining) further supports the prior conclusion that this intervention may be more effective if delivered as a targeted intervention for individuals with elevated depressive symptoms.
+
+Profiling efficacy from both continuous and categorical perspectives, thus, provides a more complete picture of this intervention’s suitability for further roll-out. Whereas the continuous approach suggests the program may be potentially beneficial for individuals with more severe depressive symptoms, the number of individuals who worsened is concerning, and may dampen enthusiasm for re-using this intervention universally, without further consideration of how to minimize negative effects experienced by some participants. Given that categorical analyses showed that the vast majority of individuals had small change (less than 1 SD improvement or decline) in depressive symptoms, we may be cautious in relying upon the continuous (group-level) results (e.g., of change agents predicting change in depressive symptoms) because the model is likely to generalise moreso to individuals with low-level change. The categorical approach instead is amenable to using a clearly defined and meaningful cut-off for change in depression, and is thus likely to provide context to better quantify efficacy of the intervention.
+
+Comparison of follow-up data against post-intervention effects also provided useful insights into treatment efficacy. As with the present findings (where substantial improvements were not observed in some individuals until the 3 month follow-up assessment point), it is not uncommon within the context of school-based interventions to observe slow symptom improvement (e.g., Pössel et al. 2013). Some researchers (e.g., Possel et al. 2003; Quayle et al. 2001) suggest that slow improvement in symptoms may indicate that the techniques taught in these interventions take some time to master and/or participants may not have had sufficient opportunity to practice and implement these newly developed skills during the intervention period. If these explanations are correct, it suggests the need to provide tailored treatment options that are sensitive to individual differences in symptom severity at baseline (or, more broadly, an individual’s need for intervention) and the rate at which s/he learns and masters the techniques necessary to see symptom improvement. The increasing popularity of eHealth platforms for intervention delivery (Poppelaars et al. 2014; Reinwand et al. 2015), which maintain the cost benefits of universal intervention and allow for flexibility in delivery of content (Poppelaars et al. 2014; Reinwand et al. 2015), as well as advances in intervention design (such as adaptive intervention strategies; Reinwand et al. 2015) that allow for individual differences in content and duration of intervention whilst maintaining statistical rigor for program evaluation, may provide avenues for addressing the slow improvement and initial decline seen in this study as well as previous interventions (Poppelaars et al. 2014; Reinwand et al. 2015).
+
+There were several limitations with the present study. The present study design did not include control data at T3, meaning that changes from T2 to T3 for the intervention group could not be compared against natural changes in this timeframe, nor could mediation effects be formally examined across both groups. This design decision is consistent with previous studies (Berry and Hunt 2009; Masia-Warner et al. 2005), and was utilised in order to avoid withholding treatment longer than necessary and due to time pressures and resource constraints, and thus, there is no follow-up comparison data available in the present study. Additionally, schools were not randomly allocated to intervention conditions, and as a consequence age-related differences across schools were adjusted for in main analyses. Student attendance and engagement was not formally measured, thus it is not possible to assess whether these factors impacted the results. As noted by Sawyer et al. (2010), engaging this age group is a difficult task as many adolescents are not ready to seriously consider change recommended by prevention programs, and are concerned about the lack of confidentiality afforded by a whole-school approach. Related to this second limitation, it is unclear whether participants continued to use these techniques in their daily lives beyond the duration of the intervention period.
+
+It should also be noted that two measures (i.e., the body satisfaction and resilience scales) were adapted to limit exposure to negative themes evoked by certain items, in accordance with school requests. Adequately training school personnel to feel confident to identify and manage perceived harms associated with student exposure to these negative themes may be a positive and useful step addressed in future studies. Furthermore, training staff in delivery of the Think Health and Wellbeing intervention would enhance sustainability of the program, as the current implementation – like many prior school based interventions (Hetrick et al. 2015) – relied on members of the research team to run classes. Finally, although the purpose of this study was to demonstrate impact of different conceptualizations of efficacy on conclusions about an intervention, the study was clearly underpowered to detect effect sizes obtained.
+
+Despite these limitations, the present study delivers several practical implications. Firstly, the comprehensive framework for evaluation enabled a more detailed picture of efficacy than afforded by simply evaluating group differences in change in depression levels from baseline to post-intervention. The categorical approach demonstrated that the intervention was highly effective for one in five students who took part. This approach was also able to uncover that a proportion of students had a deterioration in symptoms. Additionally, students with elevated symptoms at baseline appeared to benefit most from the intervention, suggesting that a one-size-fits-all approach to preventing depression may not be the most efficient strategy. Those with minimal baseline symptoms may benefit from a different type of program such as mindfulness or strengths based programs.
+
+More broadly, the combined categorical and continuous analysis approach used in the present study show that conclusions derived from sole evaluation of group means for the target outcome may give an incomplete and possibly inaccurate picture of whether an intervention is successful. Similarly, inspection of improvement in putative change agents that are directly targeted in the intervention may also be useful for understanding: (1) whether the intervention worked as designed, and by association (2) confirm the mechanisms of change in the outcome variable. Thus, we encourage researchers to consider multiple indices of efficacy when evaluating their intervention programs, as demonstrated in this paper and summarised in Table 3.
+
+Angold, A., Costello, E. J., Messer, S. C., Pickles, A., Winder, F., & Silver, D. (1995). Development of a short questionnaire for use in epidemiological studies of depression in children and adolescents. International Journal of Methods in Psychiatric Research, 5, 237–249.
+
+Google Scholar
+ 
+
+Araya, R., Fritsch, R., Spears, M., Rojas, G., Martinez, V., Barroilet, S., … Montgomery, A.A. (2013). School intervention to improve mental health of students in Santiago, Chile: A randomized clinical trial. JAMA Pediatrics, 167, 1004–1010.
+
+Australian Bureau of Statistics (ABS). (2010). Is life in Australia getting any better? Canberra: ABS. Measures of Australia’s progress, Retrieved from http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1370.0~2010~Main%20Features~Home%20page%20(1).
+
+Google Scholar
+ 
+
+Australian Institute of Health and Welfare. (2013). Mental health services – In brief 2013 Cat. no. HSE 141. Canberra: AIHW. Retrieved from http://www.aihw.gov.au/publication-detail/?id=60129544726.
+
+Google Scholar
+ 
+
+Bagley, C., & Mallick, K. (2001). Normative data and mental health construct validity for the Rosenberg self-esteem scale in British adolescents. International Journal of Adolescence and Youth, 9, 117–126.
+
+Article
+  Google Scholar
+ 
+
+Barrett, P. M., & Turner, C. M. (2004). Prevention of childhood anxiety and depression. In P. Barrett & T. H. Ollendick (Eds.), Handbook of Interventions that Work with Children and Adolescents. Prevention and Treatment (pp. 429–474). West Sussex: Wiley.
+
+Chapter
+  Google Scholar
+ 
+
+Berry, K., & Hunt, C. J. (2009). Evaluation of an intervention program for anxious adolescent boys who are bullied at school. Journal of Adolescent Health, 45, 376–382.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Brooks, S. J., & Kutcher, S. (2001). Diagnosis and measurement of adolescent depression: a review of commonly utilized instruments. Journal of Child and Adolescent Psychopharmacology, 11, 341–376.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Byrne, B. B. (2012). Structural Equation Modelling with MPlus. Basic Concepts, Application and Programming. New York: Routledge.
+
+Google Scholar
+ 
+
+Calear, A., & Christensen, H. (2010). Systematic review of school-based prevention and early intervention. Journal of Adolescence, 33, 429–438.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Canty-Mitchell, J., & Zimet, G. (2000). Psychometric properties of the multidimensional scale of perceived social support in urban adolescents. American Journal of Community Psychology, 28, 391–400.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Cardemil, E. V., Reivich, K. J., & Seligman, M. (2002). The prevention of depressive symptoms in low-income minority middle school students. Prevention & Treatment, 5(1), 8a.
+
+Google Scholar
+ 
+
+Fuller-Tyszkiewicz, M., Skouteris, H., McCabe, M., Mussap, A., Mellor, D., & Ricciardelli, L. (2012). An evaluation of equivalence in body dissatisfaction measurement across cultures. Journal of Personality Assessment, 94, 410–417.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Gillham, J.E., Reivich, K.J., Freres, D.R., Chaplin, T.M., Shatté, A.J., Samuels, B., … Seligman, M.E. (2007). School-based prevention of depressive symptoms: A randomized controlled study of the effectiveness and specificity of the Penn Resiliency Program. Journal of Consulting and Clinical Psychology, 75, 9–19.
+
+Gladstone, T. R., & Beardslee, W. R. (2009). The prevention of depression in children and adolescents: a review. Canadian Journal of Psychiatry, 54, 212–221.
+
+PubMed
+  Google Scholar
+ 
+
+Gregorich, S. E. (2006). Do self-report instruments allow meaningful comparisons across diverse population groups? Testing measurement invariance using the confirmatory factor analysis framework. Medical Care, 44, S78–S94.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Gulliver, A., Griffiths, K. M., & Christensen, H. (2010). Perceived barriers and facilitators to mental health help-seeking in young people. BMC Psychiatry, 10(1), 113.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Harnett, P. H., & Dadds, M. R. (2004). Training school personnel to implement a universal school-based prevention of depression program under real world conditions. Journal of School Psychology, 42, 343–357.
+
+Article
+  Google Scholar
+ 
+
+Hetrick, S. E., Cox, G. R., & Merry, S. N. (2015). Where to go from here? An exploratory meta-analysis of the most promising approaches to depression prevention programs for children and adolescents. International Journal of Environmental Research and Public Health, 12, 4758–4795.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Horowitz, J., Garber, J., Ciesla, J., Young, J., & Mufson, L. (2007). Prevention of depressive symptoms in adolescents: a randomized trial of cognitive-behavioral and interpersonal prevention programs. Journal of Consulting & Clinical Psychology, 75, 693–706.
+
+Article
+  Google Scholar
+ 
+
+Kessler, R. C., Amminger, G. P., Aguilar‐Gaxiola, S., Alonso, J., Lee, S., & Ustun, T. B. (2007). Age of onset of mental disorders: a review of recent literature. Current Opinion in Psychiatry, 20, 359–364.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Masia-Warner, C., Klein, R. G., Dent, H. C., Fisher, P. H., Alvir, J., Albano, A. M., & Guardino, M. (2005). School-based intervention for adolescents with social anxiety disorder: results of a controlled study. Journal of Abnormal Child Psychology, 33, 707–722.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+McArdle, J. J. (2001). A latent difference score approach to longitudinal dynamic structural analyses. In R. Cudeck, S. du Toit, & D. Sorbom (Eds.), Structural Equation Modeling: Present and Future (pp. 342–380). Lincolnwood: Scientific Software International.
+
+Google Scholar
+ 
+
+McLaughlin. (2009). Universal prevention for adolescent depression. In S. Nolen-Hoeksema & L. M. Hilt (Eds.), Handbook of Depression in Adolescents (pp. 661–684). New York: Routledge.
+
+Google Scholar
+ 
+
+Merry, S. N., Hetrick, S. E., Cox, G. R., Brudevold-Iversen, T., Bir, J. R., & McDowell, J. J. (2011). Cochrane review: psychological and educational interventions for preventing depression in children and adolescents. Evidence-based Child Health: A Cochrane Review Journal, 7, 1409–1685.
+
+Article
+  Google Scholar
+ 
+
+Nehmy, T. (2010). School-based prevention of depression and anxiety in Australia: current state and future directions. Clinical Psychologist, 14, 74–83.
+
+Article
+  Google Scholar
+ 
+
+Neil, A. L., & Christensen, H. (2007). Australian school-based prevention and early intervention programs for anxiety and depression: a systematic review. The Medical Journal of Australia, 186, 305–308.
+
+PubMed
+  Google Scholar
+ 
+
+Poppelaars, M., Yuli, R. T., Lichtwarck-Aschoff, A., Engels, R. C. M. E., Lobel, A., Merry, S. N., Lacassen, M. F. G., & Granic, I. (2014). Autonomous and controlled motivation in a randomized controlled trial comparing school-based and computerized depression prevention programs. In B. Shouten, S. Fedtke, M. V. Schijven, & A. Gekker (Eds.), Games for Health (pp. 125–134). Amsterdam: Springer Fachmedien Wiesbaden.
+
+Google Scholar
+ 
+
+Possel, P., Horn, A. B., & Hautzinger, M. (2003). Preliminary results of a school-based depression prevention program for adolescents. Journal of Health Psychology, 11, 10–20.
+
+Google Scholar
+ 
+
+Pössel, P., Horn, A. B., Groen, G., & Hautzinger, M. (2004). School-based prevention of depressive symptoms in adolescents: a 6-month follow-up. Journal of the American Academy of Child and Adolescent Psychiatry, 43, 1003–1010.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Pössel, P., Martin, N. C., Garber, J., & Hautzinger, M. (2013). A randomized controlled trial of a cognitive-behavioral program for the prevention of depression in adolescents compared with nonspecific and no-intervention control conditions. Journal of Counseling Psychology, 60, 432–438.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Quayle, D., Dziuraweic, S., Roberts, C., Kane, R., & Ebsworthy, G. (2001). The effect of an optimism and lifeskills program on depressive symptoms in preadolescence. Behaviour Change, 18, 194–203.
+
+Article
+  Google Scholar
+ 
+
+Raes, F., Griffith, J., Van der Gucht, K., & Williams, J. M. G. (2014). School-based prevention and reduction of depression in adolescents: a cluster-randomised controlled trial of a mindfulness group program. Mindfulness, 5, 477–486.
+
+Article
+  Google Scholar
+ 
+
+Reinwand, D. A., Schulz, D. N., Crutzen, R., Kremers, S. P. J., & de Vries, H. (2015). Who follows eHealth interventions as recommended? A study of participants’ personal characteristics from the experimental arm of a randomized controlled trial. Journal of Medicine Internet Research, 17, e115.
+
+Article
+  Google Scholar
+ 
+
+Ricciardelli, L. A., & McCabe, M. P. (2000). Psychometric Evaluation of the Body Image and Body Change Inventory: An Assessment Instrument for Adolescent Boys and Girls. Melbourne: Deakin University. Unpublished manuscript.
+
+Google Scholar
+ 
+
+Rohde, P., Stice, E., Shaw, H., & Briére, F. (2014). Indicated cognitive-behavioral depression prevention compared to bibliotherapy and brochure control: acute effects of an effectiveness trial with adolescents. Journal of Consulting and Clinical Psychology, 82, 65–74.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Rosenberg, M. (1965). Society and the Adolescent Self-Image. Princeton: Princeton University Press.
+
+Book
+  Google Scholar
+ 
+
+Salazar-Pousada, D., Arroyo, D., Hidalgo, L., Perez-Lopez, F.R., & Chedraui, P. (2010). Depressive Symptoms and Resilience among Pregnant Adolescents: A Case–control Study. Obstetrics and Gynecology International, 2010.
+
+Sawyer, M. G., Pfeiffer, S., Spence, S. H., Bond, L., Graetz, B., Kay, D., Patton, G., & Sheffield, J. (2010). School-based prevention of depression: a randomised controlled study of the beyond blue schools research initiative. Journal of Child Psychology and Psychiatry, 51, 199–209.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Selig, J. P., & Preacher, K. J. (2009). Mediation models for longitudinal data in developmental research. Research in Human Development, 6, 144–164.
+
+Article
+  Google Scholar
+ 
+
+Sheffield, J. K., Spence, S. H., Rapee, R. M., Kowalenko, N., Wignall, A., Davis, A., & McLoone, J. (2006). Evaluation of universal, indicated and combined cognitive behavioral approaches to the prevention of depression among adolescents. Journal of Consulting and Clinical Psychology, 74, 66–79.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Shochet, I. M., Dadds, M. R., Holland, D., Whitefield, K., Harnett, P. H., & Osgarby, S. M. (2001). The efficacy of a universal school-based program to prevent adolescent depression. Journal of Clinical Child & Adolescent Psychology, 30, 303–315.
+
+Article
+  Google Scholar
+ 
+
+Sinclair, S. J., Blais, M. A., Gansler, D. A., Sandberg, E., Bistis, K., & LoCicero, A. (2010). Psychometric properties of the Rosenberg Self-Esteem Scale: overall and across demographic groups living within the United States. Evaluations & the Health Professions, 33(1), 56–80.
+
+Spence, S., Sheffield, J., & Donovan, C. (2003). Preventing adolescent depression: an evaluation of the problem solving for life program. Journal of Consulting and Clinical Psychology, 71, 3–13.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Stallard, P., Sayal, K., Phillips, R., Taylor, J.A., Spears, M., Anderson, R., Araya, R., … Montgomery, A.A. (2012). Classroom based cognitive behavioural therapy in reducing symptoms of depression in high risk adolescents: Pragmatic cluster randomized controlled trial. British Medical Journal, 345, e6058.
+
+Timmons, A. C., & Preacher, K. J. (2015). The importance of temporal design: how do measurement intervals affect the accuracy and efficiency of parameter estimates in longitudinal research? Multivariate Behavioral Research, 50, 41–55.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Wagnild, G. (2009). A review of the resilience scale. Journal of Nursing Measurement, 17, 105–113.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Wagnild, G., & Young, H. (1993). Development and psychometric evaluation of the resilience scale. Journal of Nursing Measurement, 1, 165–178.
+
+PubMed
+  Google Scholar
+ 
+
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., & Farley, G. K. (1988). The multidimensional scale of perceived social support. Journal of Personality Assessment, 52, 30–41.
+
+Article
+  Google Scholar
+ 
+
+Download references
+
+School of Psychology, Deakin University, Geelong, VIC, Australia
+
+Justin D. Tomyn, Matthew Fuller-Tyszkiewicz, Ben Richardson & Lucia Colla
+
+Correspondence to Matthew Fuller-Tyszkiewicz.
+
+The authors declare that they have no conflict of interest.
+
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+
+Informed consent was obtained from all individual participants included in the study.
+
+All contributors to the manuscript are included as co-authors.
+
+Reprints and permissions
+
+Tomyn, J.D., Fuller-Tyszkiewicz, M., Richardson, B. et al. A Comprehensive Evaluation of a Universal School-Based Depression Prevention Program for Adolescents. J Abnorm Child Psychol 44, 1621–1633 (2016). https://doi.org/10.1007/s10802-016-0136-x
+
+Download citation
+
+Published
+12 February 2016
+
+Issue Date
+November 2016
+
+DOI
+https://doi.org/10.1007/s10802-016-0136-x
+
+Anyone you share the following link with will be able to read this content:
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Avoid common mistakes on your manuscript.
+
+Advertisement
+
+145.136.143.95
+
+SURF B.V. (3000174899) - Utrecht University Library DV E-collection (4500011134) - SURF B.V. (3001974408) - Utrecht University (2000323035)
+
+© 2025 Springer Nature
+
+A Comprehensive Evaluation of a Universal School-Based Depression Prevention Program for Adolescents
+
+Your privacy, your choice
+
+Abstract
+
+How does the Intervention Work, and Who Benefits Most?
+
+Time Course for Symptom Improvement
+
+What Impact Does Operationalization Have on Results?
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Author information
+
+Ethics declarations
+
+Additional information
+
+Appendix
+
+Rights and permissions
+
+About this article
+
+Home
+
+Journal of Abnormal Child Psychology
+
+Article
+
+Published: 12 February 2016
+
+Volume 44, pages 1621–1633, (2016)
+
+Cite this article
+
+Justin D. Tomyn,
+
+Matthew Fuller-Tyszkiewicz,
+
+Ben Richardson &
+
+Lucia Colla 
+
+2687 Accesses
+
+11 Citations
+
+Explore all metrics
+
+1)
+Continuous and categorical operationalizations of improvement in symptoms – the continuous approach evaluated whether reduction (or rate of change) of depressive symptoms over time were greater for the intervention group than the control group, whereas the categorical approach assessing proportion of individuals who substantially improved in each group over the testing period;
+
+2)
+Time course for improvement – whether the intervention group had greater improvement than the control group post-intervention and whether these post-intervention improvements are maintained or enhanced further at a subsequent follow-up; and
+
+3)
+Mechanisms of improvement (who improved, on what, and how?) – whether improvement post-intervention was dependent upon baseline symptom severity, whether the intervention improved the primary outcome (depression) and/or the proposed change agents targeted by the intervention, and whether improvement in the change agents predicted change in the primary outcome (both concurrently and prospectively).
+
+Angold, A., Costello, E. J., Messer, S. C., Pickles, A., Winder, F., & Silver, D. (1995). Development of a short questionnaire for use in epidemiological studies of depression in children and adolescents. International Journal of Methods in Psychiatric Research, 5, 237–249.
+Google Scholar
+ 
+
+Araya, R., Fritsch, R., Spears, M., Rojas, G., Martinez, V., Barroilet, S., … Montgomery, A.A. (2013). School intervention to improve mental health of students in Santiago, Chile: A randomized clinical trial. JAMA Pediatrics, 167, 1004–1010.
+
+Australian Bureau of Statistics (ABS). (2010). Is life in Australia getting any better? Canberra: ABS. Measures of Australia’s progress, Retrieved from http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1370.0~2010~Main%20Features~Home%20page%20(1).
+Google Scholar
+ 
+
+Australian Institute of Health and Welfare. (2013). Mental health services – In brief 2013 Cat. no. HSE 141. Canberra: AIHW. Retrieved from http://www.aihw.gov.au/publication-detail/?id=60129544726.
+Google Scholar
+ 
+
+Bagley, C., & Mallick, K. (2001). Normative data and mental health construct validity for the Rosenberg self-esteem scale in British adolescents. International Journal of Adolescence and Youth, 9, 117–126.
+Article
+  Google Scholar
+ 
+
+Barrett, P. M., & Turner, C. M. (2004). Prevention of childhood anxiety and depression. In P. Barrett & T. H. Ollendick (Eds.), Handbook of Interventions that Work with Children and Adolescents. Prevention and Treatment (pp. 429–474). West Sussex: Wiley.
+Chapter
+  Google Scholar
+ 
+
+Berry, K., & Hunt, C. J. (2009). Evaluation of an intervention program for anxious adolescent boys who are bullied at school. Journal of Adolescent Health, 45, 376–382.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Brooks, S. J., & Kutcher, S. (2001). Diagnosis and measurement of adolescent depression: a review of commonly utilized instruments. Journal of Child and Adolescent Psychopharmacology, 11, 341–376.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Byrne, B. B. (2012). Structural Equation Modelling with MPlus. Basic Concepts, Application and Programming. New York: Routledge.
+Google Scholar
+ 
+
+Calear, A., & Christensen, H. (2010). Systematic review of school-based prevention and early intervention. Journal of Adolescence, 33, 429–438.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Canty-Mitchell, J., & Zimet, G. (2000). Psychometric properties of the multidimensional scale of perceived social support in urban adolescents. American Journal of Community Psychology, 28, 391–400.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Cardemil, E. V., Reivich, K. J., & Seligman, M. (2002). The prevention of depressive symptoms in low-income minority middle school students. Prevention & Treatment, 5(1), 8a.
+Google Scholar
+ 
+
+Fuller-Tyszkiewicz, M., Skouteris, H., McCabe, M., Mussap, A., Mellor, D., & Ricciardelli, L. (2012). An evaluation of equivalence in body dissatisfaction measurement across cultures. Journal of Personality Assessment, 94, 410–417.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Gillham, J.E., Reivich, K.J., Freres, D.R., Chaplin, T.M., Shatté, A.J., Samuels, B., … Seligman, M.E. (2007). School-based prevention of depressive symptoms: A randomized controlled study of the effectiveness and specificity of the Penn Resiliency Program. Journal of Consulting and Clinical Psychology, 75, 9–19.
+
+Gladstone, T. R., & Beardslee, W. R. (2009). The prevention of depression in children and adolescents: a review. Canadian Journal of Psychiatry, 54, 212–221.
+PubMed
+  Google Scholar
+ 
+
+Gregorich, S. E. (2006). Do self-report instruments allow meaningful comparisons across diverse population groups? Testing measurement invariance using the confirmatory factor analysis framework. Medical Care, 44, S78–S94.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Gulliver, A., Griffiths, K. M., & Christensen, H. (2010). Perceived barriers and facilitators to mental health help-seeking in young people. BMC Psychiatry, 10(1), 113.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Harnett, P. H., & Dadds, M. R. (2004). Training school personnel to implement a universal school-based prevention of depression program under real world conditions. Journal of School Psychology, 42, 343–357.
+Article
+  Google Scholar
+ 
+
+Hetrick, S. E., Cox, G. R., & Merry, S. N. (2015). Where to go from here? An exploratory meta-analysis of the most promising approaches to depression prevention programs for children and adolescents. International Journal of Environmental Research and Public Health, 12, 4758–4795.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Horowitz, J., Garber, J., Ciesla, J., Young, J., & Mufson, L. (2007). Prevention of depressive symptoms in adolescents: a randomized trial of cognitive-behavioral and interpersonal prevention programs. Journal of Consulting & Clinical Psychology, 75, 693–706.
+Article
+  Google Scholar
+ 
+
+Kessler, R. C., Amminger, G. P., Aguilar‐Gaxiola, S., Alonso, J., Lee, S., & Ustun, T. B. (2007). Age of onset of mental disorders: a review of recent literature. Current Opinion in Psychiatry, 20, 359–364.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Masia-Warner, C., Klein, R. G., Dent, H. C., Fisher, P. H., Alvir, J., Albano, A. M., & Guardino, M. (2005). School-based intervention for adolescents with social anxiety disorder: results of a controlled study. Journal of Abnormal Child Psychology, 33, 707–722.
+Article
+  PubMed
+  Google Scholar
+ 
+
+McArdle, J. J. (2001). A latent difference score approach to longitudinal dynamic structural analyses. In R. Cudeck, S. du Toit, & D. Sorbom (Eds.), Structural Equation Modeling: Present and Future (pp. 342–380). Lincolnwood: Scientific Software International.
+Google Scholar
+ 
+
+McLaughlin. (2009). Universal prevention for adolescent depression. In S. Nolen-Hoeksema & L. M. Hilt (Eds.), Handbook of Depression in Adolescents (pp. 661–684). New York: Routledge.
+Google Scholar
+ 
+
+Merry, S. N., Hetrick, S. E., Cox, G. R., Brudevold-Iversen, T., Bir, J. R., & McDowell, J. J. (2011). Cochrane review: psychological and educational interventions for preventing depression in children and adolescents. Evidence-based Child Health: A Cochrane Review Journal, 7, 1409–1685.
+Article
+  Google Scholar
+ 
+
+Nehmy, T. (2010). School-based prevention of depression and anxiety in Australia: current state and future directions. Clinical Psychologist, 14, 74–83.
+Article
+  Google Scholar
+ 
+
+Neil, A. L., & Christensen, H. (2007). Australian school-based prevention and early intervention programs for anxiety and depression: a systematic review. The Medical Journal of Australia, 186, 305–308.
+PubMed
+  Google Scholar
+ 
+
+Poppelaars, M., Yuli, R. T., Lichtwarck-Aschoff, A., Engels, R. C. M. E., Lobel, A., Merry, S. N., Lacassen, M. F. G., & Granic, I. (2014). Autonomous and controlled motivation in a randomized controlled trial comparing school-based and computerized depression prevention programs. In B. Shouten, S. Fedtke, M. V. Schijven, & A. Gekker (Eds.), Games for Health (pp. 125–134). Amsterdam: Springer Fachmedien Wiesbaden.
+Google Scholar
+ 
+
+Possel, P., Horn, A. B., & Hautzinger, M. (2003). Preliminary results of a school-based depression prevention program for adolescents. Journal of Health Psychology, 11, 10–20.
+Google Scholar
+ 
+
+Pössel, P., Horn, A. B., Groen, G., & Hautzinger, M. (2004). School-based prevention of depressive symptoms in adolescents: a 6-month follow-up. Journal of the American Academy of Child and Adolescent Psychiatry, 43, 1003–1010.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Pössel, P., Martin, N. C., Garber, J., & Hautzinger, M. (2013). A randomized controlled trial of a cognitive-behavioral program for the prevention of depression in adolescents compared with nonspecific and no-intervention control conditions. Journal of Counseling Psychology, 60, 432–438.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Quayle, D., Dziuraweic, S., Roberts, C., Kane, R., & Ebsworthy, G. (2001). The effect of an optimism and lifeskills program on depressive symptoms in preadolescence. Behaviour Change, 18, 194–203.
+Article
+  Google Scholar
+ 
+
+Raes, F., Griffith, J., Van der Gucht, K., & Williams, J. M. G. (2014). School-based prevention and reduction of depression in adolescents: a cluster-randomised controlled trial of a mindfulness group program. Mindfulness, 5, 477–486.
+Article
+  Google Scholar
+ 
+
+Reinwand, D. A., Schulz, D. N., Crutzen, R., Kremers, S. P. J., & de Vries, H. (2015). Who follows eHealth interventions as recommended? A study of participants’ personal characteristics from the experimental arm of a randomized controlled trial. Journal of Medicine Internet Research, 17, e115.
+Article
+  Google Scholar
+ 
+
+Ricciardelli, L. A., & McCabe, M. P. (2000). Psychometric Evaluation of the Body Image and Body Change Inventory: An Assessment Instrument for Adolescent Boys and Girls. Melbourne: Deakin University. Unpublished manuscript.
+Google Scholar
+ 
+
+Rohde, P., Stice, E., Shaw, H., & Briére, F. (2014). Indicated cognitive-behavioral depression prevention compared to bibliotherapy and brochure control: acute effects of an effectiveness trial with adolescents. Journal of Consulting and Clinical Psychology, 82, 65–74.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Rosenberg, M. (1965). Society and the Adolescent Self-Image. Princeton: Princeton University Press.
+Book
+  Google Scholar
+ 
+
+Salazar-Pousada, D., Arroyo, D., Hidalgo, L., Perez-Lopez, F.R., & Chedraui, P. (2010). Depressive Symptoms and Resilience among Pregnant Adolescents: A Case–control Study. Obstetrics and Gynecology International, 2010.
+
+Sawyer, M. G., Pfeiffer, S., Spence, S. H., Bond, L., Graetz, B., Kay, D., Patton, G., & Sheffield, J. (2010). School-based prevention of depression: a randomised controlled study of the beyond blue schools research initiative. Journal of Child Psychology and Psychiatry, 51, 199–209.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Selig, J. P., & Preacher, K. J. (2009). Mediation models for longitudinal data in developmental research. Research in Human Development, 6, 144–164.
+Article
+  Google Scholar
+ 
+
+Sheffield, J. K., Spence, S. H., Rapee, R. M., Kowalenko, N., Wignall, A., Davis, A., & McLoone, J. (2006). Evaluation of universal, indicated and combined cognitive behavioral approaches to the prevention of depression among adolescents. Journal of Consulting and Clinical Psychology, 74, 66–79.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Shochet, I. M., Dadds, M. R., Holland, D., Whitefield, K., Harnett, P. H., & Osgarby, S. M. (2001). The efficacy of a universal school-based program to prevent adolescent depression. Journal of Clinical Child & Adolescent Psychology, 30, 303–315.
+Article
+  Google Scholar
+ 
+
+Sinclair, S. J., Blais, M. A., Gansler, D. A., Sandberg, E., Bistis, K., & LoCicero, A. (2010). Psychometric properties of the Rosenberg Self-Esteem Scale: overall and across demographic groups living within the United States. Evaluations & the Health Professions, 33(1), 56–80.
+
+Spence, S., Sheffield, J., & Donovan, C. (2003). Preventing adolescent depression: an evaluation of the problem solving for life program. Journal of Consulting and Clinical Psychology, 71, 3–13.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Stallard, P., Sayal, K., Phillips, R., Taylor, J.A., Spears, M., Anderson, R., Araya, R., … Montgomery, A.A. (2012). Classroom based cognitive behavioural therapy in reducing symptoms of depression in high risk adolescents: Pragmatic cluster randomized controlled trial. British Medical Journal, 345, e6058.
+
+Timmons, A. C., & Preacher, K. J. (2015). The importance of temporal design: how do measurement intervals affect the accuracy and efficiency of parameter estimates in longitudinal research? Multivariate Behavioral Research, 50, 41–55.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Wagnild, G. (2009). A review of the resilience scale. Journal of Nursing Measurement, 17, 105–113.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Wagnild, G., & Young, H. (1993). Development and psychometric evaluation of the resilience scale. Journal of Nursing Measurement, 1, 165–178.
+PubMed
+  Google Scholar
+ 
+
+Zimet, G. D., Dahlem, N. W., Zimet, S. G., & Farley, G. K. (1988). The multidimensional scale of perceived social support. Journal of Personality Assessment, 52, 30–41.
+Article
+  Google Scholar
+ 
+
+School of Psychology, Deakin University, Geelong, VIC, Australia
+Justin D. Tomyn, Matthew Fuller-Tyszkiewicz, Ben Richardson & Lucia Colla
+
+Published
+12 February 2016
+
+Issue Date
+November 2016
+
+DOI
+https://doi.org/10.1007/s10802-016-0136-x
+
+Universal intervention
+
+Depression
+
+Adolescents
+
+School-based
+
+Sections
+
+Figures
+
+References
+
+Abstract
+
+How does the Intervention Work, and Who Benefits Most?
+
+Time Course for Symptom Improvement
+
+What Impact Does Operationalization Have on Results?
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Author information
+
+Ethics declarations
+
+Additional information
+
+Appendix
+
+Rights and permissions
+
+About this article
+
+Journals A-Z
+
+Books A-Z
+
+Journal finder
+
+Publish your research
+
+Open access publishing
+
+Our products
+
+Librarians
+
+Societies
+
+Partners and advertisers
+
+Springer
+
+Nature Portfolio
+
+BMC
+
+Palgrave Macmillan
+
+Apress
+
+Discover
+
+Your privacy choices/Manage cookies
+
+Your US state privacy rights
+
+Accessibility statement
+
+Terms and conditions
+
+Privacy policy
+
+Help and support
+
+Legal notice
+
+Cancel contracts here

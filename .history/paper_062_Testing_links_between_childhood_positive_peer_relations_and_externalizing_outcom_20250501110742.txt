@@ -1,0 +1,275 @@
+Storage Preferences
+
+Mobile phones are arguably the most prosperous and certainly the most expeditiously adopted modern technology throughout the developing as well as the developed world [1], [2] with. As depicted in Figure 1, mobile phone technology is ubiquitously deployed both in the developed world as well as the developing world, with consistently rising mobile penetration statistics worldwide. The proliferation of mobile phones has stimulated various innovative applications of mobile Health, in short, mHealth for personalized and tailored care. a penetration rate of 49.4% in 2016 [3]
+
+Region wise active mobile users. Data source: ITU world telecommunication.
+
+Show All
+
+The modern smartphone is an ideally suited technology for healthcare because it embeds a plethora of programmable sensors including gyroscope, ambient light sensor, camera, proximity sensor, microphone, digital compass, touch-sensitive screen, accelerometer, and Global Positioning System (GPS), which can be used to gather various behavioral and physiological information. Furthermore, most smartphone vendors offer a set of open software development kits (SDKs), which allows developers to develop novel mHealth applications (apps) [4], essentially transforming smartphones into medical kits [5]. The availability of sensors in commodity mobiles, along with mHealth applications, allows the real-time accumulation of health-related data which increases the likelihood of an early detection of emergency states enabling a wide range of versatile, convenient, and efficient healthcare services, such as real-time interventions, improved abatement strategies for disease outbreaks and most importantly supporting the movement towards “maintaining wellness rather than sick care”. Table 1 presents a comprehensive picture of how mobile sensors can be used for a variety of health applications.
+
+mHealth is the creative use of emerging mobile phone technologies in conjunction with wearable sensors, for the healthcare informatics to improve healthcare practices [14], [15]. It has a tremendous impact on public health, especially in the developing countries, where there is a severe scarcity of clinical resources and healthcare infrastructure [16]. mHealth has been considered as one of the best tools for disease treatment and health improvement [14], [17], by providing imperative health information and regular care [18]–[20]. It also has the potential to offer, health interventions [21], [22], communicable diseases prevention [23], [24], improvement in the health literacy of patients as well as healthcare workers [23], [25] and much more [26]–[29].
+
+Despite the potential benefits of mHealth, it is not growing at the required pace in the developing countries; and, no study to date has comprehensively summarized the common barriers and open issues to its adoption in developing countries. Most of the existing mHealth surveys have rather focused on specific diseases [30]–[32], and use of a particular technology for mHealth [17], [33]. We provide a detailed comparison of our survey paper with previously published review papers in Table 2. It can be noticed that out of the nine studies listed, none have conducted a country-specific case study. Also, note from Table 2, only one study has discussed the developingworld-specific challenges and only two have discussed the future direction for boosting the adoption of mHealth in developing countries. We have presented a comprehensive and up-to-date search to identify the challenges and future directions for the adoption of mHealth in developing countries. Furthermore, we conduct a case study on Pakistan to showcase that our findings are validated. The findings of our study can be utilized by government authorities, policy makers, stakeholders, population, healthcare professionals, application developers, researchers, as well as by the mobile phone and telecommunication industries to utilize the mHealth technology in its full potential particularly in the developing countries.
+
+We have considered a multidisciplinary search space for finding the relevant literature. We have browsed the relevant papers and reports using the keywords “mobile health”, “mHealth”, “mHealth interventions”, “mHealth for development”, “healthcare problems”, “mHealth applications”, and “the barrier to mHealth”. The resources were also extracted using various combinations of these keywords. Relevant studies and papers were then culled from the initial search results, on the criteria that papers are written in English and focus on developing countries.
+
+This paper is organized as follows. In Section II, we review various mHealth initiatives along with their impacts on public health, followed by challenges for mHealth in the developing countries in Section III. In Section IV, we discuss the current healthcare problems in Pakistan and document some prominent mHealth initiatives. In Section V, we present open issues and promising directions for future work that can strengthen mHealth in the developing countries. Finally, we conclude this paper in Section VI.
+
+In the developing countries, healthcare systems are continually facing major challenges in providing affordable and better quality of care due to the increase in chronic and communicable diseases [42]. Millions of people unnecessarily suffer and eventually die from diseases that have effective prevention and treatments [43]. For example, each year 52% of children die from diarrhea, pneumonia, and malaria [44], which are readily curable. Lack of knowledge, awareness, limited access to healthcare services, remoteness, and poverty are some of the key factors contributing to these unfortunate deaths.
+
+mHealth offers solutions to most of the above challenges faced in the developing countries. The advancement in the communication technology, such as the development of the 3G and 4G mobile telephony standards and cloud-based mHealth systems allow physicians to easily access the health-related medical information anytime anywhere and to take major decisions remotely on the clinical care of patients in distant areas (See Fig. 2). Again, mobile phones being readily affordable, mHealth is a powerful platform to reach out even the poorest people in the developing countries.
+
+Illustration of a typical mHealth architecture, data from various mobile devices pass through the network to remote servers for access by healthcare practitioners.
+
+Show All
+
+Below we provide a detailed discussion on how mHealth can significantly improve the public health situation in developing countries.
+
+According to the World Health Organization (WHO), communicable diseases are the key contributors to people’s death in developing countries and in most cases the reason is the lack of health knowledge [45]. Research shows that a strong training and education program can help the raise of healthcare awareness in general public [46]. Health education through mobile devices is a cost effective and efficient approach, which can raise awareness about medical testing, management of diseases, interventions, drug interactions, and treatments. In particular, text messaging is the most accessible and economical way to provide health-related education and interventions and quite popular in third world countries [47]. For example, a program “text-to-change” in Uganda aims to provide awareness on AIDS and HIV testing [48]. In this program, a local mobile phone operator jointly with the AIC (AIDS information center) uses bulk SMS messaging service to provide awareness on AIDS [49]. “Learning about living” project in Nigeria also provides awareness of AIDS through text messaging. In India, education on HIV/ AIDS is delivered by engaging the user in a mobile game [50]. A systematic review of randomized controlled trials (RCTs) on SMS-based applications nicely summarizes its impact by concluding that mHealth helped to reduce viral load amongst HIV patients and improved HIV anti-retroviral treatment (ART) adherence [51].
+
+In addition to HIV awareness, mobile phones are also widely used to spread health education on oral contraceptives [52], smoking cessation [53] and women’s pregnancy (a survey of 223 midwives in Indonesia showed that the mobile phone-based health information resources positively increased the health knowledge) [54].
+
+Clinical Decision Support (CDS) systems aim to provide patients and healthcare practitioners with personalized health insights—intelligently filtered, and presented at opportune times, to help enhance health and healthcare [55]. Gathering health information in real-time is vital for effective clinical decision support and mHealth offers a cost-effective way to achieve this, using mobile sensors embedded in smartphones, PDAs, tablets or other hand-held devices.
+
+Earlier implementations of Clinical Decision Support systems were computer based with limited use cases [47]. With the evolution of smartphones and artificial intelligence (AI), CDS systems have nowbecome more practical. Many clinical algorithms have been developed for the assessment and treatment of HIV/AIDS, diabetes, child health and reproductive health.
+
+Encouragingly, Clinical Decision Support systems have been emerging in developing countries—narrowing the information gap between patients and healthcare professionals. A trial system for the management of malaria treatment adherence was established in Kenya in 107 rural health facilities [56]. In this system, health workers received two text messages daily (except on weekends) for six months that contained guidance about the outpatient management of malaria. Results showed that treatment adherence was improved by 31.7%, in the short-term, while the long-term improvement was 28.6%. St Gabriel’s Hospital in Malawi used a pilot system to reduce avoidable visits of patients in rural communities to hospitals. In this scheme, 75 volunteers from villages were provided mobile phones and were guided about necessary communications with physicians. This resulted in significant savings in travel cost. Care-improving access [57] is an mHealth initiative to provide decision support in South Africa for the treatment of HIV/AIDS. People are screened through a handheld computer or mobile device for further treatment and it also maintains patients’ records thus overcoming the limitations of doctors. Similarly, in India, a medical equipment company Maestros Mediline Systems together with Vodafone introduced an electrocardiograph (ECG) application for Black-Berry mobile phones in Nanavati Hospital of Mumbai. In this system, doctors can remotely access patients’ ECG and heart reports [58]. Finally, Integrated Management of Childhood Illness (IMCI) provided by WHO and UNICEF (the United Nations Children’s Fund) in developing countries offers effective practices to prevent and control the major causes of serious sickness and have significantly reduced mortality in children [59].
+
+In developing countries outbreak of an infectious disease is a common phenomenon after natural disasters. Diarrheal diseases broke out in Bangladesh after the 2004 floods. Asimilar outbreak occurred in Pakistan after the 2005 earthquake. The May 2008 earthquake in Sichuan province, China caused 80000 deaths and made 5 million people homeless. mHealth offers cost-effective solutions to detect and track epidemics. For example, a mobile phone-based reporting system was deployed by the Chinese Center for Disease Control and Prevention, for the detection of epidemic-prone diseases to take quick actions for the prevention of outbreaks [60].
+
+According to WHO, polio is still endemic only in Pakistan and Afghanistan, due to poor immunization. The major factors responsible for poor immunization are the inadequacy of electronic records, poor security, insufficient vaccination coverage, and the lack of education and awareness. The services of mHealth can play a vital role to assist the polio eradication programs. In Pakistan, Mobilink (the country’s leading telecom service provider) launched an SMS-based service in 2010 to enable parents to report (the national polio control cell) about the areas missed by vaccination teams. Polio vaccination teams were dispatched to the reported areas immediately [61]. Using this system more than 8 million people in high-risk of Polio, who were missed out previously, received the vaccination.
+
+Mobile phone based early warning systems for disease and epidemic outbreaks are now used in India, Peru, and Rwanda, allowing healthcare professionals to track the spread of infectious diseases [62]. UNICEF reported the effectiveness of their mHealth initiative called RapidSMS [63], which monitored the malnutrition rates almost in real-time by eliminating the delays of months usually incurred by the paper based surveys. The SMS-based program called Cam e-Warn was initiated by Cambodia, jointly with WHO, during the wake of the SARS1 crisis in 2003 for the surveillance of 12 reported diseases [47]. This project was implemented in 2008 and effectively detected various outbreaks such as watery diarrhea, influenza, and dengue fever.
+
+For effective delivery of healthcare services, it is imperative that the health workers have appropriate knowledge of health problems and their interventions. In developing countries, mobile phones are playing an important role in improving the knowledge of healthcare workers [37], [64]. In Pakistan, a project HealthLine [65] was designed to provide the necessary information to the healthcare workers with limited literacy. On calling the helpline, they can access different health related topics with the help of voice-recognition software. In Project Tanzanian Mobile Video, community health workers used the CommCare tool to provide required health information through videos played on mobile phones [27]. In Botswana, smartphone-based mLearning [66], [67] was used for the training of resident physicians. The midwife mobile phone project in Indonesiawas conducted by 223 midwives, they used mobile phones to share diagnostic results of unseen or rare ailments with medical doctors to handle unexpected situations [68].
+
+Crowdsourcing involves the participation of many people (e.g., in providing or gathering data) for solving complex problems or for solving a component of the larger problem. As an industry, crowdsourcing shares about $5.5 trillion or 8% of the global economy [69]. Crowdsourcing for health involves a collection of human experts or volunteers who help in providing data, diagnosis, or information. These offerings can come from researchers, employees, donors, specialized professionals and common citizens around the globe to solve complex, emerging and persistent problems in the field of healthcare. The proliferation of mobile phones along with the Internet has enabled various crowdsourcing attempts [70] such as Health Map [71] and InfluenzaNet [72], which have tried to analyze disease trends by crowdsourcing health information from participants around the World. Similarly, GeoChat2 is an open-source tool, aims to provide faster and more coordinated responses to natural disasters and disease outbreaks using SMS or email. It is used in Cambodia and Thailand for disease activity surveillance [70].
+
+There are various crowdsourcing projects for raising awareness, and engaging patients with healthcare providers. The United States’ National Cancer Institute (NCI) used crowdsourcing to find the nano-materials and tools transforming the clinical oncology and research of cancer [73]. They encouraged people to submit their ideas to make cancer treatment more efficient in terms of drug delivery, nano-informatics, and metastasis. The selected ideas were then presented at a Strategic Workshop on Cancer Nanotechnology organized by Cancer Nanotechnology Research (OCNR) [73].
+
+A prime example of crowdsourced health solution is BAYADA3 Home Health Care that aims to provide a safe and healthy life for children and adults of all ages. In the fall of 2012, BAYADA used crowdsourcing to find an effective solution for public health. It attracted over 400 users, and received 2000 votes, 110 ideas, and 730 comments. PatientsLikeMe4 is another initiative of crowdsourcing for public health. It was launched in 2005 with the aim of connecting patients with one another to improve their lives and for real-time research. This innovative initiative helped more than 400, 000 patients and directly improved the health of more than 2500 patients.
+
+Remote monitoring enables a two-way communication between patients and their caregivers to manage, monitor, and treat a patient’s illness by collecting data through sensors installed on the household mobile devices, e.g., laptop computers, PDAs and mobile phones. The remote monitoring of patients using mobile phones has improved health treatments and mitigated the shortage of specialist physicians especially in the developing countries [25]. Nowadays, all of the major smartphone systems—including iOs, Android, Symbian, webOS, Blackberry, and Windows Phone—allow access to control interfaces such as dialog boxes, menus, calendar pickers, phone’s built-in sensors, as well as to other native applications such as the contact list, calendar, call logs, call duration, and email. This enables the developers to easily create sophisticated applications to monitor the patient’s health and other related activities [18]. For instance, the inbuilt sensors of smartphones can be used to monitor the patients with chronic diseases such as diabetes, heart problem, hypertonia, or for measuring the various health-related vital signs (like blood pressure, obesity, sugar level, and ECG)—which can be then transmitted to a central server through the mobile wireless network for further processing.
+
+Remote monitoring opens up a newopportunity for treating patients and improves survival rates dramatically in the developing countries where access to the hospital is difficult and healthcare facilities are limited [62]. In Egypt and Uganda, mobile phone camera has been used to send the required photographs of the patient’s skin to expert dermatologists for the dermatological diagnosis with positive results. In Botswana, mobile phone photography was used in the diagnosis of cervical-cancer-suspected women by sending images to the specialist gynecologists [74]. This reduces the referral delay, travel times, while still maintaining reasonably high accuracy.
+
+Remote monitoring using mHealth also enables remote interventions resulting in improved health outcomes such as increased medication adherence. For example, the SIMpill system in South Africa is designed to ensure drug compliance [99]. SIMpill consists of a pill bottle with a subscriber identity module (SIM) card and transmitter. When the patient opened the pill bottle, an SMS message is sent to a designated doctor. If the patient did not open the pill bottle when expected, the patient receives a reminder to take his medicines. Similarly, if the patient fails to adhere to his prescribed medications, the doctor calls for a visit to encourage him. SIMpill proved to be very effective in South Africa, and about 90% of patients complied with their medication, compared to 22% to 60% compliance without this system [100]. The solution is now available worldwide [101]. Table 3 highlights some other famous mHealth initiatives from the developing countries.
+
+Despite the promising opportunities of mHealth in the developing countries, there are various hurdles like low literacy, poor infrastructure, lack of skilled professional, and cultural issues hindering the large-scale adoption of mHealth. For successful implementation of mHealth projects, these challenges need to be addressed to provide the necessary health services–that are well-matched with the existing healthcare systems. These challenges are discussed in more detail next.
+
+The degree to which individuals have the capacity to process, and understand the basic health information and services needed to make suitable health decisions, is known as Health Literacy [102]. General people in developing countries already lack basic literacy skills (i.e., reading, writing), therefore it is unlikely that they will have knowledge on health literacy. According to the United Nations Educational, Scientific and Cultural Organization’s (UNESCO) Institute of Statistics, approximately 776 million adults lack basic health literacy skills [103]. The individuals with inadequate health literacy have a one-in-three chance of misunderstanding the prescribed medication [104]. There is a direct correlation between inadequate health literacy and mortality rates as shown in [105], approximately 50% to 80% increased mortality risk for inhabitants with low health literacy. The low literacy of health education leads to low utilization of mHealth services in many developing countries [39].
+
+The language diversity in some developing countries reduce the potential benefits of mHealth services such as SMS text messaging [106]. Due to the linguistic differences between patients and practitioners, people suffer unnecessary complications due to misinterpretations of medications. The same problem exists if the treating physician is unable to understand the language of the patients. In addition to the language barrier, culture and local tradition also play a large role in the practices of people, especially in traditional societies such as those in rural Pakistan. For instance, cultural societal and socio-economic status of women in rural areas of district Mardan5 was found to be very low and they were culturally constrained to stay inside home [107].
+
+The limited number of healthcare professionals is a major barrier to the successful deployment of mHealth services in the developing countries. In most of the developing countries, there is a serious shortage of healthcare professionals. There are 57 countries with critical limitations of medical staff, an overall shortage of 2.4 million doctors and nurses [108]. Moreover, healthcare professionals are also required to have sufficient skills and knowledge to operate the mHealth platform safely and effectively [93].
+
+The Internet connectivity in mobile phones is a promising attribute of mHealth applications that can bridge the connectivity gap of remote communities. However, in various developing countries, the lack of Internet connectivity presents a real barrier to mHealth expansions [39]. In particular, mobile phone applications like automated voice recognition can be a very supportive tool for the provision of mHealth services in the developing countries with the low levels of literacy but this type of application requires a 3G network which is not currently available in remote areas of developing world [93]. An alternative to Internet is the SMS service, however, about 10% of the global population (mainly in rural regions of Asia and Sub-Saharan Africa) still lack access to this basic mobile phone service [109].
+
+The cost of mHealth devices or services is a major challenge for the implementation of mHealth projects. Despite the fact that mobile devices are becoming inexpensive by the day, many poor people in developing countries are still unable to afford mobile phones [106]. Even if they can afford a mobile phone, they cannot afford the high cost of having Internet services on phones, which hinders the expansion of mHealth services. In addition, health consultation or personal health monitoring using mobile phones with chargeable minutes might be very expensive for the poor people in the developing countries [110].
+
+Mobile phone based crowdsourcing offers a valuable tool for the improvement of the healthcare system [111]. There are various challenges such as time availability, skills, and expense, creating obstacles for crowdsourcing. Security risks and privacy concerns are also serious impediments to the success of crowdsourcing campaigns in traditional and remote societies [112].
+
+Battery life is one of the major challenges for mHealth applications since these applications, due to their complexity, often consume significant battery power [113], [114]. Developing power-aware health applications is particularly crucial for developing countries as most of these countries do not have continuous and guaranteed power supply, hence failing to fully charge the battery overnight.
+
+Pakistan is the sixth largest country in the world in terms of population. This large diverse population is marred by all sorts of health problems typical to developing countries. Decades of poverty, political instability, socio-economic upheavals, regional violence and extreme weather conditions are to blame for the health woes of the common man. Non-communicable diseases, including cardiovascular diseases, cancer, respiratory diseases, diabetes, and mental disorders have become the major causes of morbidity and mortality. Close to 80 million of its individuals (about 50% of the population) suffer from one or more of these chronic illnesses [115]. Unfortunately, neither the public nor private healthcare systems have matured enough to cope with these challenges. We conduct a case-study with Pakistan to closely revisit the healthcare challenges and opportunities of mHealth in addressing these challenges, followed by existing mHealth initiatives. This case-study strengthens the fact that mHealth can offer unprecedented opportunities for poor developing countries. The opportunities for mHealth to make an impact are tremendous in Pakistan. This combined with our familiarity with the ground realities of Pakistan, make this country an appropriate choice for our case study. This is the first ever study focused on the challenges and opportunities of mHealth in Pakistan.
+
+Pakistan has a three-tiered public healthcare delivery system: (i) the primary healthcare system includes Basic Health Units (BHUs) and Rural Health Units (RHUs); (ii) the secondary healthcare system includes referral facilities for acute diseases and comprises Tehsil6 Headquarter Hospitals (THQs) and District Headquarter Hospitals (DHQs); and finally (iii) the tertiary healthcare system largely consists of teaching hospitals. There are also health workers at the community level that usually help run different health campaigns (e.g., for polio vaccination) [116]. The healthcare challenges in Pakistan are described below.
+
+In Pakistan, more than half of the population (66%) lives in rural areas [118] where the masses are deprived of healthcare facilities; most of the public and private hospitals are situated in big cities [119]. Table 4 presents the distribution of these healthcare facilities in different regions of Pakistan. This shows the alarming scarcity of healthcare facilities in Pakistan. The number of healthcare facilities for rural population is comparatively even lower than the urban areas.
+
+The critical shortage of health service providers is another major problem in Pakistan. Table 5 provides an insight into the ratio of population and registered medical professionals, which readily shows the insufficiency.
+
+In Pakistan, there are various unregulated hospitals, and individuals not authorized to provide medical services, such as quacks, traditional/spiritual healers, herbalists, and bone-setters. Ill-treatments provided by such hospitals and practitioners are responsible for severe health problems among ordinary people [121].
+
+Poverty is directly related to health outcomes and it has been shown in the literature that the poor suffer disproportionately from health problems, including mental health problems such as anxiety, stress, and depression [122]. A report compiled by United Nations Development Programme (UNDP) noted that 39% of the population in Pakistan lives in multidimensional7 poverty, with the poverty levels being especially severe in Balochistan and the Federally Administered Tribal Areas (FATA), as shown in Figure 3.
+
+Multidimensional poverty in Pakistan (2015), Data source: UNDP [123].
+
+Show All
+
+Maternal and child health problems are common among the poor. In Pakistan, under-five mortality rate is 89 deaths per 1000 live births, implying that one in every 11 children dies before reaching their fifth birthday, whereas the infant mortality rate is 74 deaths per 1000 live births [124].
+
+The limited number of public hospitals in Pakistan is insufficient to provide healthcare solutions to the whole population. Private hospitals, health centers, clinics, and diagnostic labs have been increasing in number and the healthcare sector has become profit-oriented and commercialized. This business-oriented healthcare approach has unsurprisingly failed to address the problem of providing universal healthcare especially to poor people, who however constitute the majority. It is estimated that only 25% of Pakistan’s population can afford private health facilities [122].
+
+The larger population of Pakistan has poor knowledge of the common diseases such as cardiovascular diseases, TB, and the risk factors associated with these diseases [125], [126]. The poor knowledge about the prevention, cause, treatment and the spread of these disease leads to a devastating situation in which the disease spread is enhanced.
+
+Most of the women in Pakistan are relying on their male guardians for seeking healthcare facilities, have insufficient economic resources and bounded social support [127]. They have very limited, otherwise restricted, access to the outside world and their social lives are mainly limited to household chores [128].
+
+Encouragingly, the Pakistan Government has identified the potential of mHealth in addressing the public health problems in the country. The Punjab Information Technology Board (PITB) has taken great initiatives to pilot/implement a number of mHealth systems mostly in the Punjab province. Recently, the most significant contribution of mHealth was in combating the dengue pandemic that started spreading in Punjab in 2011. This pandemic claimed many lives and resulted in tens of thousands of infectious cases. In the rainy season of 2012, PITB used a smartphone-driven program in Lahore, Capital of Punjab, to stop the spread of the dengue virus. This system maps the dengue cases in real-time and alters the stakeholders by giving them an access to a dashboard that can be used to intervene in an area for immediate measures to curb the larvae breeding and help the affected people. In the next year (2013), there were only 8 deaths in Lahore, which demonstrated the potency of using mHealth informatics for the mitigation of disease outbreak [129]. Some other prominent mHealth systems in Pakistan are as follows:
+
+An application developed to keep a check on the drug stores and pharmacies. The provision of standard drugs is monitored and any contravention is recorded by the monitoring officers. All the information is geo-tagged that can be evaluated by the higher authorities to take the relevant preventive measures [130].
+
+An application was developed for monitoring the hospital and medical staffs at the DHQs, THQs and DHQ teaching hospitals [131]. Another application called Monitoring the Monitors is an initiative by the Government of the Punjab, which has replaced the paper-based monitoring with a smartphone app to collect data on workers’ absence, facility usage, and drugs availability [132].
+
+This was a pilot conducted by Khan et al. [133] for screening TB using mobile phones in the city of Karachi (it is the largest city in Pakistan). This study collected data using mobile phone-based crowdsourcing in the period of 2010–2011. An interactive algorithm was used on mobile phones by community laypeople to screen the patients and visitors in the hospital’s waiting areas and outpatient department. Laypeople were encouraged to work as screeners in private clinics by giving them financial incentives. In the intervention area, the overall increase in detected cases was observed 2.21 times as compared to the number of case in the control area.
+
+This was a project supported by Microsoft Research in the late 2000s, to provide basic training to the community health workers (mostly for maternal care and vaccination purposes) using a toll-free voice response system [134]. Using this system, health workers with limited knowledge could get instant access to the useful information to assist the patients in their local communities.
+
+A mobile phone based system that works to ensure fair and on-time funds delivery to the treatment of poor population [135]. The mobile phone based electronic interface was designed along with the provision of transferring health funds and a mechanism to validate poverty without delays. In this system, the fund request using SMS or email was initiated by patient or healthcare service providers, which is further processed to check eligibility ascertainment, poverty validation, and authorization.
+
+Finally, we highlight a new mHealth initiative IMU8 in the health department of KPK province. This intuitive is established to monitor the quality and healthcare services delivery across the province through smartphones and Internet [136].
+
+Most of the research projects above were implemented or tested on a small scale. However, with the establishment of the PITB by the Government of Punjab, Pakistan is working more systematically to design and, in turn, implement technology-powered healthcare projects. It is expected that the projects started by PITB will soon be expanded to cover the whole of Pakistan.
+
+In order for mHealth solutions to penetrate in developing countries like Pakistan and work in synergy with the available healthcare facilities and existing infrastructure, it is imperative that a requirement analysis be performed first. Such a requirement analysis, we believe, is going to be a non-trivial task since in this phase the local context, socioeconomic conditions, cultural norms and the geographical location must be corroborated in the design. Only this way, a people-centric solution can be designed that works in unison with the existing health infrastructure and stands a chance of being adopted by the common citizens of developing countries. A proposed patient-centric mHealth model for both urban and rural areas of Pakistan is compared with the existing healthcare architecture in Figure 4, it also shows how mHealth can be integrated with the current healthcare structure. There are some important lessons learned from the case study of Pakistan, that must be considered while designing an effective mHealth solution for developing countries.
+
+Comparison of current healthcare architecture and proposed patient-centric mHealth model for Pakistan.
+
+Show All
+
+In Pakistan, there is no electronic information base for health records or registration procedure to accumulate statistics on causes of death. There is a lack of coordination among different departments under the Ministry of Health. The same situation is found in almost the whole Sub-Saharan Africa [137] and Bangladesh [138]. The shortage of registration databases may lead to misclassification of causes of death [139]. There is a crucial need of implementing such databases—that maintain electronic health records and details about the causes (i.e., the absence of medical staff and social or religious reasons) of death. These databases can be stored in shared reserves (e.g., a national repository), which can serve as a reliable source of information and subsequently reduce the time for diagnosing the patients and be utilized by the healthcare providers to design specific mHealth solutions.
+
+Most of the mHealth initiatives or research projects in Pakistan and other developing countries were implemented on a small scale like pilot projects. Countries like Pakistan, Bangladesh, and India lack sufficient numbers of skilled practitioners (i.e., physicians, nurses, and specialists) or have an unequal distribution of healthcare facilities [138]. For Governments of such countries, the overall cost of operating or establishing new healthcare systems is a major problem. Fortunately, mHealth services require relatively low cost because the necessary infrastructure (mobile phones) is already in the hands of most citizens. Therefore, developing countries should focus on enhancing remote monitoring, diagnostic, and data collection techniques by equipping physicians with equipment for teleconsultation and videoconferencing.
+
+In developing countries, maternal and child mortality rate is very high. For every 100000 births approximately 240women die, compared with only 16 in developed countries, whereas a child is about 18 times more likely to die under age of five [140]. These preventable deaths can mostly be blamed on lack of skilled personnel and lack of health awareness. The countries where the fewer births are attended by skilled professionals, (i.e., 49% in India and 39% in Pakistan and Bangladesh), SMS-based health education campaigns or initiatives could fill this gap, by making the flow of necessary information and prenatal advice to pregnant women at every stage [138]. In Pakistan, for example, maternal mortality was found to be significantly reduced (26%) though the use of mHealth-based information dissemination [138]. Moreover, such health education campaigns can also be useful in encouraging healthy practices by disseminating carefully crafted text messages to the population.
+
+Any technical solution of mHealth in Pakistan (as well as for other developing countries) needs to be developed in compliance with the cultural and social norms. In particular, care must be taken to understand how an average user interacts with their mobile phones. Moreover, to ensure high uptake and to make these projects sustainable, an mHealth initiative should leverage the integral mobile communication channels (i.e., SMS or voice call). This will accelerate the widespread adoption and penetration of mHealth services.
+
+In developing countries, mobile phone based crowdsourced health research studies have proved as the complementary new tool for collecting and visualizing the citizen-supplied data in fast-changing situations (i.e., disaster and emergency) to provide disaster and epidemics relief help [141]. Pakistan provides a successful example9 of mobile phone based crowdsourcing to track and stop the spread of the dengue virus by providing immediate measures to curb larvae breeding and help to the affected people. Other mobile based crowdsourced initiatives (such as Ushahidi, FrontlineSMS, and SamaSource) have proved themselves as important emergency response platforms in disasters like the Haiti earthquake. In developing countries, similar mobile phone based crowdsourcing platforms can be used to visualize the areas affected by disease outbreak (or natural disaster) in order to help authorities to plan their response more efficiently and promptly.
+
+The initiatives of mHealth are growing in the developing countries. Individually, each mHealth project looks very impressive, but they do not contribute to a significant rise in the adoption of mHealth. Our reviewed literature is dominated by the pilot projects that are implemented to address a specific disease or problem. Moreover, most of the projects were discontinued after the pilot stage, due to the lack of scaling strategies or sustainable business models. The Governments of developing countries should place mHealth in National healthcare policies and consider scalability and sustainability as important evaluation matrices for the development of mHealth solutions.
+
+The partnership between public and private sectors can serve as the cornerstone of scalable, sustainable and results-oriented mHealth solutions. There are various success stories of mHealth projects established by the joint ventures of public-private organization, such as Mobile Alliance for Maternal Action (MAMA),10 SMS for Life,11 Disease Surveillance & Mapping Project,12 and mHealth Tanzania.13 Government, stakeholders and private organizations of developing countries should, therefore, focus on strategic partnerships by combining the market access, core competencies, knowledge, resources and market networks of each partner to deliver scalable mHealth systems. This will provide flourishing opportunity to share responsibilities, risks, investments, and rewards to achieve scalability and long-term sustainability in the mHealth ecosystem.
+
+The field of behavioral sciences is beginning to reveal new insights on the decision making of individuals. It has been shown that human behavior is largely shaped by social norms, general healthcare practices, as well as certain cognitive biases. There are various behavioral theories that present different perspectives on the change in health behavior. According to the biomedical theories, patients are passive recipients of physicians’ instructions and the non-adherence behavior is correlated with the patients’ gender and age [142], [143]. The behavioral learning theory suggests the antecedents (internal thoughts or external environmental conditions) and consequences (punishments or rewards) have an influence on the behavior change [144]. Communication perspective suggests that clear and comprehensible patient-physician communication will increase adherence [142]. According to the cognitive theories, the attitudes, beliefs, and expectations for future positive outcomes are the prime determinants towards the change in health behavior [145], [146].
+
+The common issue for mHealth initiatives is the lack of attention to these theories that can help in the designing of optimal strategies for the positive change in health behavior at personal, interpersonal, and community level. Instead, the existing mHealth initiatives are formulated based on the logical model and formative qualitative research [147]. For the effective change in the behavior of the population, mHealth initiatives should focus on creating a supportive ecosystem by utilizing the behavioral science theories and innovative techniques for the improvements in self-care, self-efficiency, and patient satisfaction.
+
+In the mHealth framework health information generated from various medical devices, clinical reports, EHRs,14 medical correspondence and financial reports, are typically fragmented or isolated within hospitals and laboratories. The interoperability of this information across different organizations or healthcare providers is prohibited. This fragmented health information is not fully utilized to provide an efficient healthcare service. In particular, in the developing countries, fragmentation and interoperability problem of health informatics in various overlapping mHealth programs is a major impediment for an accurate diagnosis. Changes are crucial to create an interoperable system that can solve the problem of fragmentation or isolation of health data. Encouragingly, in South Africa, Zanzibar, Sierra Leone, and Botswana, different integrated approaches such as minimum essential data storage and single data warehouse for routine data storage are being used to resolve the inconsistencies between various datasets [148]. Researchers, policy makers, political leaders, and other stakeholders should focus on providing an interoperable platform which would speed up the diagnostic procedures and provide a complete treatment strategy with a complete access to the patients’ long-term history.
+
+The collection of health information through mobile phones, wearable sensors and software apps from individuals is a standard process in an mHealth system. However, this information is very sensitive as it is related to individuals’ health. In the developing countries, the data collections are highly affected by regulatory and ethical issues and people are vulnerable to misuse of their personal data due to poor policies. Thus, users enrolled in an mHealth system in developing countries do not have trust to share their personal information due to the risk of the outflow of data [149]. mHealth services in the developing countries must be designed through a framework that ensures the appropriate usage of both identifiable and non-identifiable health data in the context of social, gender, personal, ethical considerations. In particular, the policy makers and political leaders of the developing countries should set national priorities and establish independent research ethics committees for the justification and ethical review of mHealth projects. These committees should also ensure that the researchers or professionals get trainings on the ethical use of information before the provision of mHealth projects.
+
+In the developing countries, mHealth services are intended to be used by all types of individuals, including many people with no literacy. Therefore, human-computer interaction or usability factors are major challenges for the provision and adoption of innovative mHeallth products or services. Today a large number of mobile phones with complex user interfaces exist in the market. Operating these phones requires considerable digital literacy and visual acuity. There are some exceptions of course—such as the Jitterbug cell phones, which provide a simplified user interface by reducing dexterity through a brighter screen and simpler input keypad [150]. However, this is an exception rather than the norm. This problem calls for the attention of the human-computer interaction experts, who could develop user interfaces suitable for people with limited or no literacy constituting the majority of the population in developing countries.
+
+It is crucial for an mHealth project to achieve scale by moving beyond the pilot stage. The sustainability of mHealth depends upon the acceptable and easy-accessible implementation of interventions and their health outcomes [151]. However, it is unrealistic to anticipate that all the mHealth projects would be commercially sustainable and profitable without strategic financing and subsidies [152]. Governments, financial institutions, and funders should collaborate to explore such financing models for mHealth initiatives that can make a transition from investor funding stage to a self-sustainable long-term project.
+
+The lack of operating system (OS) neutrality is another barrier to the development and adoption of mHealth applications. There are multiple operating systems for mobile phones such as iOs, Microsoft Windows, J2ME, Symbian, Palm OS, Blackberry, Linux, and the Android [153]. The language used for the development of mHealth applications may differs in each OS, and applications developed for one OS are usually not compatible with others. Currently, only voice call and SMS features of mobile phones are OS neutral, and all other applications are closed in nature. For mHealth to reach its full potential it is necessary to devise an OS independent programming language.
+
+The emerging paradigm of Internet of Things (IoT) and AI offer unprecedented opportunities for mHealth by providing connected and intelligent healthcare solutions. IoT enables the gathering of multifarious data about human health that can be further utilized by AI to extract useful information/trends. For example, Leijdekkers and Gay [154] developed a self-test app for mobile phone and a wearable ECG sensor to detect a heart attack by analyzing ECG recordings without a medical specialist. This app will automatically alert the ambulance and others about the patient’s location in case of a cardiac arrest. In the developing countries, these innovative technologies can enable various innovative solutions such as mobile-based pharmaceutical intelligent information system to identify the compatibility of a drug (or product) with the users allergy profile and address the adverse effects of drug reactions [155]; childrens health education [156] to help engender good nutritional habits; disease surveillance [157]; and point-of-care diagnosis [158], [159]. Therefore, IoT and AI should be integrated efficiently with the mHealth platforms to enhance the adoption/effectiveness of mHealth services in the developing countries.
+
+In this paper, we provide a comprehensive in-depth review of mHealth initiatives focusing on various pressing challenges that must be addressed for successful deployment of mHealth in the developing countries. We also provide future directions for enhancing the adoption of mHealth which includes utilization of emerging technologies like IoT and AI, behavioral theories and so on. We present a case study on Pakistan, to strengthen our claim that mHealth can offer an unprecedented opportunity for a developing country that seriously lacks in health infrastructure and clinical resources. The case study also indicates that some country-specific adjustments, such as consideration of cultural issue for Pakistan, are necessary for effective deployment of mHealth. This paper will guide researchers, engineers, political leaders, policymakers, government authorities, healthcare professionals as well as the general population to comprehend the benefits that mHealth can offer and most importantly assist them to take necessary steps to make use of this powerful platform to its full potential.
+
+2018 Wave Electronics and its Application in Information and Telecommunication Systems (WECONF)
+
+Published: 2018
+
+2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+
+Published: 2024
+
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | IEEE Ethics Reporting | Sitemap | IEEE Privacy Policy
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2025 IEEE - All rights reserved, including rights for text and data mining and training of artificial intelligence and similar technologies.
+
+Mobile Health in the Developing World: Review of Literature and Lessons From a Case Study
+
+Document Sections
+
+Abstract:
+
+Introduction
+
+mHealth and Developing Countries
+
+Challenges of mHealth for Developing Countries
+
+Case Study: Mobile Health for Pakistan
+
+Open Issues & Future Directions
+
+Conclusion
+
+Authors
+
+Figures
+
+References
+
+Citations
+
+Keywords
+
+Metrics
+
+Footnotes
+
+IEEE Personal Account
+
+Purchase Details
+
+Profile Information
+
+Need Help?
+
+Follow
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+IEEE Xplore
+
+IEEE SA
+
+IEEE Spectrum
+
+More Sites
+
+Donate
+Cart
+Create Account
+Personal Sign In
+
+Donate
+
+Cart
+
+Create Account
+
+Personal Sign In
+
+Browse
+
+My Settings
+
+Help
+
+I.
+Introduction
+
+II.
+mHealth and Developing Countries
+
+III.
+Challenges of mHealth for Developing Countries
+
+IV.
+Case Study: Mobile Health for Pakistan
+
+V.
+Open Issues & Future Directions
+
+CHANGE USERNAME/PASSWORD
+
+PAYMENT OPTIONS
+
+VIEW PURCHASED DOCUMENTS
+
+COMMUNICATIONS PREFERENCES
+
+PROFESSION AND EDUCATION
+
+TECHNICAL INTERESTS
+
+US & CANADA: +1 800 678 4333
+
+WORLDWIDE: +1 732 981 0060
+
+CONTACT & SUPPORT

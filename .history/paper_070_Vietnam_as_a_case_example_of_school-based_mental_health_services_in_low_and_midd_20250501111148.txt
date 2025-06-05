@@ -1,0 +1,270 @@
+Copyright © 2025 by SAGE Publications
+
+Vietnam as a case example of school-based mental health services in low and middle income countries: Efficacy and effects of risk status
+
+Abstract
+
+School-based mental health services
+
+RECAP-Vietnam school-based mental health program
+
+Purpose of the current study
+
+Method
+
+Results
+
+Discussion
+
+Acknowledgements
+
+Declaration of Conflicting Interests
+
+Funding
+
+References
+
+Biographies
+
+Similar articles:
+
+Sage recommends:
+
+Also from Sage
+
+About
+
+Information for
+
+School Psychology International
+
+Access/Profile
+
+Cart
+
+Browse by discipline
+
+Information for
+
+Contents
+
+PDF/EPUB
+
+Cite article
+Share options
+Information, rights and permissions
+Metrics and citations
+Figures and tables
+
+Cite article
+
+Share options
+
+Information, rights and permissions
+
+Metrics and citations
+
+Figures and tables
+
+Open Access
+Prevention and Treatment of Problem Behaviors in Young Children: Clinical Implications From a Randomized Controlled Trial of BEST in CLASS
+Show Details
+
+Available access
+Open-Trial Pilot Study of a Comprehensive School-Based Intervention for High-Functioning Autism Spectrum Disorders
+Show Details
+
+Free access
+Supporting Young Exceptional Children’s Mental Health in the Early Childhood Classroom
+Show Details
+
+SAGE Knowledge
+Entry
+School-Based Mental Health
+Show Details
+
+SAGE Knowledge
+Book chapter
+Definitions of Prevention
+Show Details
+
+SAGE Knowledge
+Entry
+Classroom Management Consultation Strategies
+Show Details
+
+CQ Library Elevating debate
+
+Sage Data Uncovering insight
+
+Sage Business Cases Shaping futures
+
+Sage Campus Unleashing potential
+
+Sage Knowledge Multimedia learning resources
+
+Sage Research Methods Supercharging research
+
+Sage Video Streaming knowledge
+
+Technology from Sage Library digital services
+
+About Sage Journals
+
+Accessibility guide
+
+Historical content
+
+Advertising disclaimer
+
+Permissions
+
+Terms of use
+
+Sage discipline hubs
+
+Sage microsites
+
+Authors
+
+Editors
+
+Librarians
+
+Promoters / Advertisers
+
+Researchers
+
+Reviewers
+
+Societies
+
+Frequently asked questions
+
+ISSN: 0143-0343
+
+Online ISSN: 1461-7374
+
+About Sage
+
+Contact us
+
+CCPA - Do not sell my personal information
+
+CCPA
+
+Privacy Policy
+
+SSRS Assertive
+
+2.24 (0.57)
+
+2.22 (0.59)
+
+SSRS Cooperative
+
+2.57 (0.48)
+
+2.56 (0.52)
+
+SSRS Empathy
+
+2.51 (0.56)
+
+2.45 (0.60)
+
+SSRS Self-control
+
+2.01 (0.68)
+
+2.04 (0.68)
+
+SBQ Externalizing
+
+1.48 (0.56)
+
+1.50 (0.63)
+
+SBQ Internalizing
+
+1.75 (0.79)
+
+1.79 (0.77)
+
+T2 SSRS Assertive
+
+F(1,399) = 8.16, p < 0.005
+
+0.02
+
+Tx = 2.39, Cntl = 2.27
+
+T2 SSRS Cooperative
+
+F(1,392) = 0.25, ns
+
+0.00
+
+Tx = 2.62, Cntl = 2.61
+
+T2 SSRS Empathy
+
+F(1,394) = 0.66, ns
+
+0.00
+
+Tx = 2.57, Cntl = 2.53
+
+T2 SSRS Self-control
+
+F(1,403) = 10.51, p < 0.005
+
+0.03
+
+Tx = 2.25, Cntl = 2.10
+
+T3 SBQ Externalizing
+
+F(1,405) = 4.73, p < 0.05
+
+0.01
+
+Tx = 1.45, Cntl = 1.55
+
+T3 SBQ Internalizing
+
+F(1,405) = 5.56, p < 0.05
+
+0.01
+
+Tx = 1.73, Cntl = 1.89
+
+T2 SSRS Assertive
+
+F(1,397) = 7.22, p < 0.01
+
+Tx = 2.46, Cntl = 2.23**
+
+T2 SSRS Cooperative
+
+F(1,390) = 1.66, ns
+
+T2 SSRS Empathy
+
+F(1,392) = 7.42, p < 0.01
+
+Tx = 2.59, Cntl = 2.46*
+
+T2 SSRS Self-control
+
+F(1,401) = 7.20, p < 0.01
+
+Tx = 2.31, Cntl = 2.05***
+
+T3 SBQ Externalizing
+
+F(1,403) = 1.09, ns
+
+T3 SBQ Internalizing
+
+F(1,403) = 2.46, ns

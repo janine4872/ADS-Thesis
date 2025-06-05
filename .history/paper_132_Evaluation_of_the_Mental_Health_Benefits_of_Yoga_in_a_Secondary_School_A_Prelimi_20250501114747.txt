@@ -1,0 +1,1155 @@
+Storage Preferences
+
+IEEE Transactions on Software Engineering
+
+There is a growing interest in the Software Engineering community about the influence of psychological aspects on the software process. Recent works have studied the impact, among others, of motivation [1], emotional intelligence [2], moods and emotions [3] and being in the zone , also known as flow [4]. Remarkably, developers perceive their days as productive when they complete many or big tasks without significant interruptions or context switches [5]. External interruptions can be avoided by switching off mobile phones and messaging applications, but internal interruptions due to lack of concentration or mind wandering are sometimes difficult to deal with in stressful environments.
+
+In 1979, Jon Kabat–Zinn started to apply a meditation technique—known as mindfulness —as a therapeutic treatment for stress. His first two books about mindfulness and its benefits began its popularization in Western countries in the 1990s [6],[7]. Among other effects such as the reduction of symptoms associated with stress, anxiety or insomnia, mindfulness has been reported to be useful for educating attention and enhancing mental clarity, thus improving problem–solving capabilities [8],[9]. Lately, mindfulness has entered the mainstream media, getting the attention not only of many people but also of several relevant companies, including Google, Intel and Goldman Sachs among others [10],[11].
+
+Considering the reported benefits of mindfulness on several cognitive processes, educators around the world have begun to use it as a learning tool for students across a wide variety of age and education levels [12], including higher education [13]. In our case, after teaching Requirements Engineering for more than 20 years, we think that our Software Engineering students, i.e., future software developers, can also benefit from practicing mindfulness. We have focused on Requirements Engineering because of our research and professional experience in the topic and because we teach related courses. Among the different tasks in Requirements Engineering, we have chosen conceptual modeling because we think that some of the reported enhancements due to the practice of mindfulness such as sustained attention [14], working memory [15], equanimity,1 and mental clarity [16] could help our students to build up complex mental representations of problems such as those needed during conceptual modeling and, probably, other Software Engineering tasks.
+
+For the purpose of checking our intuition, the following research question was stated:
+
+This research question was split into two more concrete questions for the sake of experimental operationalization:
+
+In order to answer these research questions, an iterative process which consisted of a baseline experiment and two internal replications was carried out during the first semesters of the 2013–2014 [17], 2014–2015 [18] and 2015–2016 academic years. In each iteration, some design questions were raised and the experimental settings were refined and improved introducing some changes, as depicted in Fig. 1. We followed an approach of series of experiments similar to those applied in Medicine, where they are carried out to empirically validate a new treatment or drug, because an isolated experiment is not sufficient to establish a theory [19]. In the case of Software Engineering, replications are usually performed to gain confidence in the results of previous studies or to understand the sources of variability that influence a given result [20]. In the series of experiments, a group of students in the Software Engineering Degree at the University of Seville attended mindfulness sessions during several weeks, whereas a second group of students attended a placebo public speaking workshop. As shown in Fig. 2, two conceptual modeling exercises were performed by the students, one before and another after the treatment, and their performance was compared in terms of quality and productivity.
+
+Fig. 1. Iterative process of refinement and improvement of the series of controlled experiments reported in this article.
+
+Fig. 2. High–level design of the controlled experiments.
+
+Having published the results of the baseline experiment [17] and the first replication [18], the contribution of this article is twofold. On one hand, describing the iterative process and the evolution of the experimental protocol, including descriptions and motivations of all the performed changes, so other researches can replicate it totally or partially using this information and the lab–pack available at https://exemplar.us.es/demo/BernardezMindfulnessTSE. Note that the number of replications in Software Engineering is still low and the lack of lab–packs is one of the main causes, as commented in [21].
+
+On the other hand, presenting not only a narrative synthesis [22] of the results of the three individual experiments but also a thorough joint analysis of all the data collected during the 3–year study. The joint analysis has made it possible not only to detect the small effect of mindfulness on conceptual modeling quality, which went unnoticed in the analysis of the individual experiments, but also to answer some design questions raised during the series of experiments that could only be answered using the joint data from the three experiments.
+
+The rest of the article is organized as follows. In Section 2, mindfulness is briefly described and the benefits of its practice in various contexts are commented. In Section 3, the experimental settings common to the series of experiments are described. In Section 4, a summary of the results of the individual experiments together with the motivation and descriptions of the changes in the experimental protocol are presented. In Section 5, the joint analysis of the series of experiments is discussed. The threats to validity are analyzed in Section 6 and the related work is commented in Section 7. Finally, the lessons learned are discussed in Section 8 and the conclusions and the future work are discussed in Section 9. For the sake of completeness, the supplemental material, which can be found on the Computer Society Digital Library at http://doi.ieeecomputersociety.org/10.1109/TSE.2020.2991699, includes the unpublished details of the second replication.
+
+Mindfulness is a meditation technique with roots in Buddhism and other contemplative traditions but without religious connotations. A mindfulness session2 consists of drawing away to a quiet place to meditate during a certain amount of time, e.g., starting with 3, 5, or 10 minutes, as recommended in [23] for beginners, and increasing duration as the familiarity with the practice augments. During a mindfulness session, meditators try to focus their attention only on one thing, usually breathing, which is the usual meditation support because of its unavoidability. When some thoughts come to mind, they must be acknowledged and put aside without judging, then returning the attention to breathing again. Based on [23],[24], the usual steps of a mindfulness session are summarized in Table 1.
+
+Apart from other salutary effects [25], one of the benefits of mindfulness is to transfer the state of consciousness achieved during meditation to ordinary activities, i.e., being aware and focused in daily life, staying in the present moment rather than rehashing the past or imagining the future. By regulating attention and reducing mental wandering while performing tasks, it helps us to perceive our environment clearly and to solve problems more efficiently.
+
+Some research findings in Psychology and Neuroscience recently compiled in [26] reveal that even a few weeks of continued practice of mindfulness is sufficient to produce changes in the level of mind–wandering, i.e., practitioners become more focused and their objective parameters of attention begin to change. At a neuroscientific level, the practice of mindfulness is seen as a systematic training that can transform some of our mental habits by means of neuroplasticity , i.e., the continuous modification of our brain through millions of cell–to–cell synaptic connections in response to our daily experiences [27].
+
+Apart from the benefits for stress reduction reported by Kabat–Zinn [28], other mindfulness–based therapeutic programs have been successfully applied to individuals prone to anxiety and other chronic diseases [29],[30]. For example, in [31] 136 heterogeneous patients were studied, showing that after two months of daily 20–minute practice, a significant percentage experienced better personal well–being in terms of mental clarity, equanimity, and self–compassion. For the interested reader, many other studies about the benefits of mindfulness at a personal level have been compiled by Sedlmeier et al. in [25].
+
+With respect to social aspects, the main benefits of mindfulness are related to empathy, emotion regulation and emotional intelligence in general, as reported in [8] among others. Benefits for labor relations, especially in stressful working areas like health or teaching, have also been reported [30],[32], showing lower levels of emotional exhaustion, improved life satisfaction and self–efficacy in those practicing mindfulness.
+
+The interest in integrating meditation into higher education is growing [13]. The practice of mindfulness in university classrooms began with the objective of improving some skills like, in the case of Law students, listening comprehension, legal conflict resolution and negotiation abilities [33]. Several approaches have been applied for introducing mindfulness in higher education. Some use breathing as a support, while others use sounds or a visual object. Some professors invite their students to meditate some minutes at the beginning and end of their lessons while others prefer meditation retreats of several days, weekly sessions, meditation readings, etc. [33]. For example, the Harvard University offers guided meditations to its students several times a week through the Your Wellbeing program [34]. Weekly meditation sessions, courses, and retreats are also offered at the UC Berkeley School of Law [35]. Other universities like Texas at Austin and Cambridge offer similar services such as the MindBody Labs [36] or Mindfulness at Cam [37] respectively. Specifically at Medical Schools in the USA, a recent survey has reported that 79 percent of them offer some mindfulness–related activities [38].
+
+Apart from the aforementioned introductory programs, some empirical studies about mindfulness in higher education with healthy students, i.e., students without high levels of anxiety or stress, have been reported. For example, the outcomes of a qualitative study [39] about the influence of mindfulness in a 15–week course with graduate students included an increase of their mental clarity, organization, awareness, and acceptance of emotions and personal issues. In [15], a controlled experiment based on Graduate Record Examinations showed a great improvement in the group that attended 15 mindfulness sessions. In [12], three experiments performed in several USA universities showed that the practice of mindfulness improves student knowledge retention during lessons.
+
+In some software industries, the practice of mindfulness is fostered claiming improvements in employee relationships, such as reacting less emotionally, or in concentration [40]. Particularly in Google, engineer Chade–Men Tan has developed the Search Inside Yourself mindfulness course which is offered since 2007, has a six–month wait list and has been taken by more than 1,500 employees [41]. The course consists of 19 sessions or an intensive two–and–a–half day retreat, and it has three main modules: attention training, self–knowledge development, and creating mental habits [42]. Participants of the program have reported being calmer, more patient, and better able to listen. They also say the program helped them better handle stress and defuse emotions [43]. Following the same trend, Intel began offering its Awake@Intel mindfulness program in 2012. On average, participants reported a decrease in stress and an increase in well–being, mental clarity, creativity, the ability to focus and the quality of relationships at work [10].
+
+In the agile software process community, not only the practice of mindfulness has been recommended in order to create a good atmosphere in work groups, meetings, and interactions with customers and users [44],[45], but also an empirical study on the effects of mindfulness in agile developers has been recently carried out reporting positive effects [46] (see Section 7 for details).
+
+Following [47],[48], the settings common to the series of experiments are described in this section so other researchers interested in replicating this study, or performing a similar one, can have all the needed information. Differential settings of each experiment in the series and the evolution of the experimental protocol are described in the next section.
+
+For the sake of readability, the baseline experiment and the two internal replications are referred to as Mind#1, Mind#2 and Mind#3 respectively in the rest of the article.
+
+Following [49], the Goal–Question–Metric template is used to describe the main goal of the series of experiments according to our main research question:
+
+In the series of experiments, all subjects were second–year students of the Degree in Software Engineering at the University of Seville. They were enrolled in the Introduction to Software Engineering and Information Systems (ISEIS) annual course, in which they learn about conceptual modeling for the first time.
+
+All subjects were asked whether they had previously practiced mindfulness or not in order to discard experienced practitioners that could be blurred in the treatment effect, although no subject was discarded for this reason in any of the experiments. On the other hand, subjects with prior practice in conceptual modeling would have performed better than the rest. In order to avoid this situation and have a sample as homogeneous as possible, 6 repeater students were discarded from the samples (1 out of 33 in Mind#1, 3 out of 56 in Mind#2 and 2 out of 47 in Mind#3). For the same reason, students who had worked for software development companies or participated in software projects applying conceptual modeling were also discarded. Last but not least, students who claimed to be in treatment for anxiety were also discarded from the sample (only one student was discarded for this reason).
+
+Table 2 shows the flow of participants in the series of experiments, indicating the number of ISEIS students who (i) were invited to freely participate, (ii) accepted participating, (iii) performed the pre–treatment exercise, (iv) performed the post–treatment exercise and (v) fulfilled the following criteria: (a) to attend at least 75 percent of the mindfulness sessions, (b) to do both pre– and post–treatment exercises and (c) to create a draft of information requirements and used the right notation in the conceptual modeling exercises, i.e., UML class diagrams.
+
+The experimental process, which is graphically represented in Fig. 3, is described in the following subsections.
+
+Fig. 3. Experimental processes across the series of experiments. G
+1
+and G
+2
+are the experimental and control groups respectively.
+
+During the execution of the experiments, not only did the participants take the scheduled ISEIS lessons, but they also worked in teams on their semester projects, where they allocate themselves into teams and look for a real organization, usually a small business or a nonprofit organization. Then, they perform a requirements elicitation process (interviews, document analysis, etc.), develop a draft requirements specification and a conceptual model, and transform the conceptual model into a relational database schema.
+
+Student recruitment took place during the third week of the first semester. It consisted of a motivating presentation about (i) participating voluntarily in the ongoing research, (ii) the personal and professional benefits of learning non–technical skills such as mindfulness and public speaking, (iii) the expected commitment as a participant, i.e., attending the workshop sessions and doing both conceptual modeling exercises, and (iv) the 5 percent bonus for doing so, i.e., half a point on a 10–point scale, which was granted only if the student passed the ISEIS course. After the initial presentation, all the students filled out manually a questionnaire in which they stated their interest in the proposed workshops and their degree of commitment.
+
+It is worthwhile to mention that in order to avoid bias, the concept of being subjects of an ongoing experiment was intentionally not mentioned either during the recruitment or during the experiment runs. They were informed that they could participate in the ongoing research—without specifying goals or topics of the research—and that the training workshops were interesting for their professional lives, not mentioning that they could improve their conceptual modeling performance in any way. They were also informed of the two requirements to obtain the bonus. The first one was to perform some conceptual modeling exercises during the scheduled lessons, although their ISEIS grades would not be affected for the results. The second requirement was to attend at least 75 percent of the workshop sessions, which would be controlled using the sign–in sheets designed for that purpose.
+
+At the end of the fifth week of the semester, the two groups of subjects did the pre–treatment exercise the same day during a 2–hour lesson. The aim of the exercise was to develop a conceptual model after analyzing a transcript of an interview in which a requirements engineer asks a customer about some problem domain concepts, the way they currently perform their business tasks and their expectations about the information system to be developed. An excerpt from one of the exercises is shown in Fig. 4.
+
+Fig. 4. Excerpt from one of the conceptual modeling exercises (Erasmus) used in the series of experiments (borrowed from [18]).
+
+The steps taken during the performance of this task were the following:
+
+The next week after the pre–treatment exercise, all subjects attended an introductory seminar about the workshop corresponding to their groups. Those seminars took about one hour and they were delivered out of ordinary schedule. Then, the treatment sessions were delivered during the recess between classes and took place always in the same conditions for each group, i.e., same classroom, same hour.
+
+In the mindfulness workshops, the sessions were face–to–face, four days a week. All the sessions followed the same dynamics: the students and the researcher responsible for conducting the session met in a classroom; they all sat down, lights were turned off and curtains were drawn letting only some dim light in the room; when they all were in silence, an alarm was programmed; during the first five minutes, the subjects were guided in their body scan; then, during the remaining time, they were invited to focus solely on their breathing. Sometimes, the researcher asked “where is your mind now?” in order to re–focus them on breathing. In the event some students were late, they were instructed to enter the room making as less noise as possible and sit on one of the chairs that were intentionally left empty near the door.
+
+In the public speaking workshops, the subjects were given some basic guidelines on how to prepare a talk, some notions on non–verbal communication and some seminal talks were commented. Later, they were invited to look for related videos on the Internet and to prepare a script for a public presentation on a topic of their interest.
+
+Once the mindfulness workshop was finished, both groups did the post–treatment exercise in separate classrooms. They followed the same procedure as described for Task 1 with the only difference that in the experimental group the initial 15 minutes were dedicated to group meditation. Then, the subjects did the exercise individually.
+
+The material used in the conduction of the series of experiments, available in the lab–pack at https://exemplar.us.es/demo/BernardezMindfulnessTSE, consisted of the following items:
+
+The two factors, i.e., independent variables, in the series of experiments are the following:
+
+According to research questions RQ
+1
+−
+2
+, conceptual modeling quality and productivity were respectively measured using the response variables effectiveness and efficiency . These two variables are based on semantic quality (sem
+Q
+), which refers to how faithfully the modeled system is represented [50]. In our case, how similar the models developed by the students were with respect to a reference model developed by the researchers. Assuming UML class diagrams as the modeling language, model elements were considered as correctly identified if there existed identical or semantically equivalent counterparts in the reference model. The metric for computing sem
+Q
+was the following:
+SEM
+Q
+=
+CLASS
+OK
+−
+CLASS
+KO
+2
++
+ASSOC
+OK
++
+ATTR
+OK
+,
+in which class
+OK
+, assoc
+OK
+, and attr
+OK
+are the number of correctly identified classes, associations, and attributes respectively. class
+KO
+is the number of incorrectly identified classes, a correction factor introduced to penalize spurious model elements. Note that since sem
+Q
+is a ratio variable, its minimum valid value is 0, i.e., in the rare case the expression above took a negative value, its value would be assigned to zero.
+
+Once sem
+Q
+is defined, conceptual modeling effectiveness is defined as the percentage of semantic quality achieved by a subject:
+EFFECTIVENESS
+=
+SEM
+Q
+CLASS
+R
++
+ASSOC
+R
++
+ATTR
+R
+,
+where class
+R
+, assoc
+R
+, attr
+R
+are respectively the number of classes, associations, and attributes in the reference model, i.e., their sum is the maximum value of semantic quality.
+
+Consequently, conceptual modeling efficiency is defined as the quotient between the achieved semantic quality and the amount of time in minutes spent by a subject in finishing a conceptual modeling exercise:
+EFFICIENCY
+=
+SEM
+Q
+T
+e
+n
+d
+−
+T
+b
+e
+g
+i
+n
+.
+
+Some context variables or parameters were identified during the series of experiments. As recommended in [51], parameters and how they were controlled are defined below in order to facilitate experiment replication.
+
+To avoid any differences in the ISEIS lessons taught to the subjects, all of them had the same professors and the same content taught at the same pace.
+
+To properly compare the results of the conceptual modeling exercises before and after the treatment, they had to be of similar complexity and the level of familiarity of the subjects with the problem domains had to be similar as well. Both exercises were chosen with a similar complexity, which was considered using the metrics in Table 3. Considering the limited time the subjects had to develop the exercises (2 hours), unfamiliar problem domains could have caused the outcome to be skewed. Since all participants were potential candidates for an Erasmus grant and had to develop an EoD project (EoDP) to finish their studies, the two conceptual modeling exercises were about hypothetical information systems for the management of Erasmus grants and EoD projects (see the lab–pack at https://exemplar.us.es/demo/BernardezMindfulnessTSE for details).
+
+Considering the experimental process and the identified variables, the chosen experimental design was the 2 × 2 mixed factorial [52], also known as pre–post design. In this design—which is common in Medicine or Psychology when the evolution of patients under a given therapeutic treatment needs to be studied—each subject is assigned to one single treatment, usually including a placebo, and two repeated measures on the response variables are taken before and after the treatment administration.
+
+In our case, the two factors with two levels are
+t
+i
+m
+e
+, which is a within–subjects factor, i.e., each subject is tested at each level of the factor; and
+g
+r
+o
+u
+p
+, which is a between–subjects factor, i.e., different groups of subjects are used for both levels of the factor. Since all the experiments in the series followed the pre–post experimental design, the effect of the treatment over time was consequently analyzed using 2 (
+g
+r
+o
+u
+p
+) × 2 (
+t
+i
+m
+e
+) mixed–model anova tests, as recommended in [53],[54].
+
+The tested hypotheses associated with the pre–post design are enunciated below. Each group of two hypotheses corresponds to each response variable.
+
+In this section, we discuss the differential settings (summarized in Table 4), the results3 (summarized in Table 5), the changes in protocol and operationalization (enumerated in Table 6) and the additional design questions raised during the series of experiments. For the interested reader, detailed information on each experiment is available in [17] for Mind#1, in [18] for Mind#2 and in the supplemental material for Mind#3, available online.
+
+As summarized in Table 4, in the baseline experiment, students were assigned to groups according to their preferences in order to minimize dropout. As shown in Fig. 3, the subjects in the control group attended the placebo public speaking workshop at the same time the subjects in the experimental group attended the mindfulness sessions, so all of them felt they were treated equally. The mindfulness workshop took place over 4 weeks with a duration of 10 minutes per session, which seemed to be a reasonable amount of time at that moment. With respect to the order in which the conceptual modeling exercises were performed in Mind#1, it was set for no particular reason as the pre–treatment exercise being about Erasmus grants and the post–treatment one about EoD project management.
+
+The box and profile plots corresponding to the results of Mind#1 are depicted in Figs. 5a and 6a. As shown in Table 5, the mixed–model anova tests for two factors performed in Mind#1 4 showed that, although the effect of mindfulness on effectiveness was positive and medium according to the guidelines5 in [55], there was no evidence to support that the subjects who practiced mindfulness were more effective, since the differences generated by the treatment did not reach statistical significance (F(1,30) = 2.713,
+p
+= 0.110). Conversely, the subjects who practiced mindfulness were significantly more efficient than the subjects who did not, probably because of the skills improved during the mindfulness workshop. Specifically, the effect size on efficiency was large and the differences generated by the treatment were highly significant (F(1,30) = 17.001,
+p
+<
+0.01).
+
+Fig. 5. Box and profile plots of Conceptual Modeling effectiveness in the series of experiments.
+
+Fig. 6. Box and profile plots of Conceptual Modeling efficiency in the series of experiments.
+
+Also worth mentioning is that we observed that the students were very interested and participated actively in the experimental tasks regardless of the workshop they attended—some of them even asked to participate in both workshops.
+
+Although both workshops were carefully presented as equally interesting during the student recruitment task (see Section 3.3.2), it was possible that the students who chose the mindfulness workshop were more motivated than those who chose the public speaking workshop, i.e., there was a selection and assignment bias threat to the validity of the experiment. As a result, the first design question was raised:
+
+The second evolutionary change after Mind#1 was the result of the feedback obtained after its presentation at the ESEM conference [17], where some questions were posed about the potential effects of the public speaking workshop in the experiment outcomes, despite our original intention of using it as a placebo. An additional design question was therefore raised:
+
+The motivation behind the third change was to assess whether the lack of statistically significant results in conceptual modeling effectiveness in Mind#1 was motivated by an insufficient number and duration of the mindfulness sessions. As a result, we raised another design question:
+
+The result of applying changes CH
+1
+to CH
+3
+in Mind#2 resulted in its differential settings consisting of a random assignment of subjects to groups, a postponed public speaking workshop, i.e., a null treatment for the control group, and a mindfulness workshop extended to 6 weeks with 12–minute sessions. All the other experiment settings were the same as in Mind#1.
+
+In Mind#2, the tests showed similar outcomes to those of Mind#1, i.e., a small (but close to medium ) positive effect of mindfulness on conceptual modeling effectiveness that was not statistically significant either (F(1,51) = 2.908,
+p
+= 0.094) and a large effect that was again highly significant on efficiency (F(1,51) = 8.698,
+p
+<
+0.01).
+
+As can be seen in Figs. 5a–5b and 6a–6b, the absolute values of effectiveness and efficiency in Mind#2 were lower than in Mind#1. To identify whether there were significant differences between Mind#1 and Mind#2 subjects, two two–sample
+t
+–tests were performed and highly significant differences were detected in both response variables, i.e., the conceptual modeling performance of the sample in Mind#1 was significantly better than in Mind#2. Considering that the contents and pace of the ISEIS lessons were the same in both experiments, and that the average grade and the passing percentage were 6.2 and 81 percent in Mind#1 whereas they were 5.2 and 73 percent respectively in Mind#2, the detected dissimilarity was attributed to the intrinsic students’ variability on each academic year and the random sampling effect [56] due to the difference of sample sizes between Mind#1 and Mind#2 (32 and 53 subjects respectively).
+
+With respect to the design questions about the relevance of the students’ motivation (DQ
+1
+), the public speaking workshop being an actual placebo (DQ
+2
+) and the treatment being long enough (DQ
+3
+), and considering (i) that the dropout percentage was lower in Mind#2 (33.33 percent) than in Mind#1 (56.00 percent, see Dropout paragraph in Section 6.2); and (ii) that the outcomes were similar not only in statistical significance but also in effect sizes (see Table 5), we concluded that, in Mind#2, there was no evidence to consider either students’ initial motivation or the effect of the public speaking workshop as relevant factors. Similarly, there was also no evidence to consider that increasing the duration of the mindfulness workshop and sessions from 4 to 6 weeks and 10 to 12 minutes respectively was a relevant factor.
+
+In spite of the outcomes of Mind#2 regarding design questions DQ
+1
+(students’ motivation), DQ
+2
+(placebo control condition) and DQ
+3
+(duration of treatment), we decided to keep changes CH
+1
+to CH
+3
+in the experiment protocol in order to confirm the obtained results in the second replication.
+
+Besides that, both results of Mind#1–2 showed highly significant differences in both response variables before and after the intervention (
+p
+<
+0.01 in all cases). Although these results might be due to the combined effect of students’ learning along the ISEIS course and the treatment, an additional design question was raised in order to check whether some unnoticed characteristics of the experimental tasks, i.e., the conceptual modeling exercises, had also had some effect on the response variables.
+
+To answer this question, we decided to change the order of the conceptual modeling exercises in the second replication (see CH
+4
+in Table 6).
+
+The only differential setting in Mind#3 with respect to Mind#2 was the swapping of the pre– and post–treatment exercises, i.e., the former was about EoD projects and the latter about Erasmus grants.
+
+In Mind#3, the mixed–model anova tests showed similar results to those of Mind#2, i.e., an almost medium but small effect of mindfulness on effectiveness that was not statistically significant (F(1,43) = 2.614,
+p
+= 0.113), and a large effect on efficiency that was highly significant (F(1,43) = 61.602,
+p
+<
+0.01).
+
+Nevertheless, as shown in Figs. 5c–6c, the average effectiveness in the post–treatment exercise was worse than in the pre–treatment exercise, and the efficiency increased for the subjects who practiced mindfulness but it decreased subtly for the others. Considering DQ
+4
+, we interpreted this result was likely due to the fact that the EoDP exercise was somehow easier to solve for the subjects than the Erasmus exercise, despite their similar complexity measures (see Table 3), i.e., that the conceptual modeling exercises—or at least, the order in which they were performed—might have had a relevant influence on the experiment outcomes. However, the practice of mindfulness still seemed to be beneficial, since the experimental group scored higher than the control group, i.e., their effectiveness was impacted less by the conceptual modeling exercises, and their efficiency increased after the treatment whereas it decreased slightly for the control group.
+
+Given the results of the individual experiments, since the power of statistical tests is strongly reinforced when the sample size increases, we decided to perform a joint analysis of the data to test (i) whether the improvement in conceptual modeling effectiveness was actually so subtle or just negligible; and (ii) whether the order in which the conceptual modeling exercises were performed actually had the influence questioned in DQ
+4
+.
+
+We used the two more common approaches to the joint analysis of a series of experiments [57], i.e., pooled data meta–analysis , in which the data of several studies are analyzed as if they come from a single study; and aggregated data meta–analysis , which usually focuses on the analysis of the effect size and its variation among studies.
+
+In pooled data meta–analysis, the datasets from individual studies are combined but introducing moderator variables to study the strength of the relationship between factors and response variables. Apart from improving the power of statistical tests, the increased sample size in this kind of meta–analysis enables the detection of smaller significant effects.
+
+One moderator variable,
+o
+r
+d
+, representing the order in which the conceptual modeling exercises were performed in each experiment,6 was introduced to study its potential influence on the results, as questioned in DQ
+4
+. The two levels for this moderator variable were Erasmus
+→
+EoDP and EoDP
+→
+Erasmus.
+
+Considering the moderator variable introduced, the pooled data meta–analysis tests all the hypotheses in Section 3.9 together with the following ones:
+
+The descriptive statistics of the pooled data under different experimental conditions are shown in Table 7 and the distributions of the response variables are depicted as box plots in Figs. 7 and 8, where it can be seen that after the intervention, the maximum, minimum, medians and intermediate quartiles have higher values in the mindfulness group than in the control group.
+
+Fig. 7. Box plot of Conceptual Modeling effectiveness in pooled data.
+
+Fig. 8. Box plot of Conceptual Modeling efficiency in pooled data.
+
+In the case of effectiveness, Table 7 shows a moderate increase of 8.16 percent of the mindfulness group with respect to the control group (column 2, rows 15 and 16), whereas for efficiency the observed increase is 46.67 percent (column 8, same rows). This large difference in efficiency can be also seen in Fig. 8, where the bottom of the post–treatment box of the mindfulness group has almost the same value than the top of the same box of the control group, i.e., after the intervention, approximately 75 percent of the subjects who practiced mindfulness were more efficient than 75 percent of the subjects who did not.
+
+Note also that both response variables were on average higher for the EoDP exercise than for the Erasmus exercise (columns 2 and 8, rows 1–2), as questioned in DQ
+4
+. Nevertheless, it is also remarkable that mindfulness had a positive impact in all the experiments, as can be seen in the medians of both response variables (columns 4 and 10, rows 23–28).
+
+After performing the normality and homoscedasticity tests to determine the applicability of either parametric or non–parametric statistical tests, two mixed–model anova s were carried out for each response variable.7
+
+On one hand, consistently with the analysis performed in the individual experiments, a 2(
+g
+r
+o
+u
+p
+) × 2(
+t
+i
+m
+e
+) mixed–model anova was carried out to observe the effect of the treatment as described by the
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interaction.
+
+On the other hand, with the goal of answering DQ
+4
+, a three–factor 2(
+o
+r
+d
+) × 2(
+g
+r
+o
+u
+p
+) × 2(
+t
+i
+m
+e
+) mixed–model anova was conducted to observe the effect of the order and its influence on the effect of the treatment, as described by the
+o
+r
+d
+*
+t
+i
+m
+e
+and
+o
+r
+d
+*
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interactions respectively. In the light of the results of the three–factor anova, two additional analyses were performed for each response variable. The first one was a Bayesian analysis to test whether the triple
+o
+r
+d
+*
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interaction was negligible or not. The second one was a 2(
+g
+r
+o
+u
+p
+) × 2(
+t
+i
+m
+e
+) mixed–model ancova with
+o
+r
+d
+as a covariate to study the effect of the treatment while controlling for the effect of the order.
+
+Tests for Conceptual Modeling Effectiveness . The results of the 2×2 mixed–model anova in Table 8 show the most relevant finding of the pooled data meta–analysis, namely that the practice of mindfulness has a small but statistically significant effect on conceptual modeling effectiveness, as described by the
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interaction (F(1,128) = 4.341,
+p
+<
+0.05). This relevant finding contrasts with the results of the three individual studies, where the observed practical difference in effectiveness did not reach statistical significance, probably due to the combination of small effects and sample sizes. This outcome shows how the increased sample size in a pooled data meta–analysis can detect small effects that go unnoticed in isolated experiments.
+
+Regarding the effect of the order, the results of the 2
+×
+2
+×
+2 mixed–model anova in Table 9 show that, although it has a highly significant effect, as described by the
+o
+r
+d
+*
+t
+i
+m
+e
+interaction (F(1,126) = 75.685,
+p
+<
+0.01), its interaction with the effect of the treatment, as described by the triple
+o
+r
+d
+*
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interaction (F(1,126) = 0.256,
+p
+= 0.614), is not significant. These results led us to think that the observed improvement in conceptual modeling effectiveness might be independent of any combination of the order in which the exercises were performed. To discard the effect of such combination, a Bayesian analysis was carried out comparing models with and without the triple interaction, obtaining a value of 3.37
+±
+3.75 percent for the Bayes factor
+B
+10
+, which constitutes a substantial 8 evidence for supporting the model without the triple interaction over the others, i.e., the observed effects of mindfulness are likely to be independent of the order in which the conceptual modeling exercises were performed.
+
+Finally, in order to remove the effect of no–interest of the order, a 2 × 2 mixed–model ancova with
+o
+r
+d
+as a covariate [59] was conducted and its results are shown in Table 10. Note that when the effect of the order is controlled, not only the results are consistent with the previous ones, but also that the effect of the treatment is bigger than in Tables 8 and 9, although small according to [55]. Note also that the effect of mindfulness is not only significant as in Tables 8 and 9, but highly significant, as described by the
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interaction (F(1,127) = 7.126,
+p
+<
+0.01).
+
+With respect to DQ
+4
+, the previous results confirm our initial interpretation of the difference of results of Mind#3 with respect to Mind#1–2, i.e., that the Erasmus exercise was more difficult to solve for the subjects than the EoDP exercise, as commented in Section 4.5. Nevertheless, the same results confirm that, despite the observed difference in the solving difficulty of the exercises, the effect of mindfulness on conceptual modeling effectiveness is small but statistically significant.
+
+Tests for Conceptual Modeling Efficiency . Regarding efficiency, all the obtained results of the statistical tests are consistent with the previous results of the individual experiments, confirming a large and highly significant effect of mindfulness, as described by the
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interactions in Tables 11,12, and 13, where
+p
+<
+0.01 and
+η
+2
+p
+>
+0.014 in all cases.
+
+Concerning the effect of the order, the results were consistent with those obtained for effectiveness, i.e., it has a highly significant effect but its interaction with the effect of the treatment is not significant, as described by the
+o
+r
+d
+*
+t
+i
+m
+e
+(F(1,126) = 27.857,
+p
+<
+0.01) and the
+o
+r
+d
+*
+g
+r
+o
+u
+p
+*
+t
+i
+m
+e
+interactions (F(1,126) = 0.617,
+p
+= 0.434) in Table 12. As for effectiveness, a Bayesian analysis was also conducted and its results supported the model without the triple interaction with substantial evidence (
+B
+10
+= 3.05
+±
+3.82 percent). The subsequent ancova analysis with
+o
+r
+d
+as covariate confirmed the previous results with a large highly significant effect of mindfulness (F(1,127) = 36.748,
+p
+<
+0.01).
+
+The results of the aggregated data meta–analysis for the change from pre–treatment to post–treatment are shown in Tables 14 and 15 as forest plots [60] for both response variables. Each line shows the sample size, mean, and standard deviation for the experimental and control groups of each study, together with a plot diagram in which each line depicts the 95 percent–confidence interval of the effect size estimate, measured as the standardized mean difference (SMD), also known as Cohen's
+d
+[61]. The weight of each study is represented as a proportional square centered on the mean effect size and the numerical counterparts of the plot diagram are shown in the last three columns. In the fourth line, the estimate of the overall effect size is represented by a dashed vertical line and its confidence interval as a diamond, considering 0 in the horizontal axis as the line of no effect.
+
+Regarding effectiveness, the results of each individual experiment for the effect of mindfulness are non–negligible but not statistically significant, since the intervals contain the line of no effect. The confidence intervals for each experiment are therefore consistent with the results in Section 4. Nevertheless, when considering the overall results, the positive effect of mindfulness on effectiveness is medium 9 and statistically highly significant because it does not contain the line of no effect and
+p
+<
+0.01. Specifically, the overall effect (row 4) is consistent with the results in the pooled data meta–analysis, where the results become significant when considering the increased sample size.
+
+In the case of efficiency, the outcomes of the aggregated data meta–analysis are also consistent with the previous results, showing also a highly significant (
+p
+<
+0.01), very large positive effect of mindfulness.
+
+Wohlin et al. [49] provide a thorough compilation of threats to the validity of empirical studies in Software Engineering. In this section, such threats are analyzed and the actions performed to mitigate them are described not only for each individual experiment but also for the whole series of experiments where appropriate.
+
+The conclusion validity is concerned with the statistical relationship between the treatment and the outcome. In Mind#1, the main threat to conclusion validity was the small size of the sample, which was also one of the main reasons for the subsequent replications. Nevertheless, although small, the sample size was acceptable for the statistical tests applied, as described in [62], and all the assumptions of each test were verified before their application. In both replications, the sample size was significantly larger than in Mind#1, thus addressing this threat.
+
+The application of pooled data meta–analysis has contributed also to neutralize this threat since the data of the series of experiments were treated as a single, larger sample. Moreover, the assumptions of the applied statistical tests were always verified in both pooled and aggregated meta–analyses.
+
+Internal validity is concerned with the treatment—and no other uncontrolled variable—being the cause of the outcome. Concerning the experiments in the series, the identified threats according to [49] are commented below.
+
+History . Since both groups performed the experimental tasks simultaneously, without any significant incident, this threat was neutralized for all the experiments in the series.
+
+Maturation . In each experiment, both groups maturated simultaneously with respect to their knowledge in conceptual modeling, since they all attended the same number of ISEIS lessons with the same professor and the same content between the pre– and post–-treatment exercises. Therefore, this threat was also neutralized for all the experiments in the series.
+
+Dropout . In order to reduce this threat, the students were offered a half–a–point bonus for participating in every experiment, as commented in Section 3.3.2. Considering the difference between the students who showed interest in participating in the experiments and those in the final samples plus the 6 repeater students who were discarded (see Section 3.2), the observed dropout percentages were 56.00 percent in Mind#1, 33.33 percent in Mind#2 and 33.80 percent in Mind#3.
+
+The large number of participants who dropped out of the study might suggest that the bonus offered for participating was not motivating enough for our students. Another possible cause of the large dropout rates might be the work overload experienced by our students, which makes some of them abandon the ISEIS subject itself until the September call or even until the next academic year. These overloaded students would have participated at the beginning of the experiment but certainly they would have not finished the experimental tasks, thus increasing the dropout rate. With respect to the different moments of drop–out among the three experiments, we think it is related to the specific assignment deadlines of concurrent subjects, which varies among academic years.
+
+Selection & Assignment Bias . In both replications, the selection and assignment of subjects to groups were random, which usually neutralizes this threat. In Mind#1, the subjects were assigned to groups according to their preferences, so the authors performed a crosscheck by computing a one–way anova test on the measures of the pre–treatment exercise response variables (see Fig. 9). The results of the test revealed that there was no evidence of significant differences between groups prior to treatment. Additionally, giving participants a bonus for their participation could lead to self–selection bias. However, since the bonus was given to all participants in both treatment and control groups, such possible bias affected them equally and did not constitute a threat to the internal validity of the study.
+
+Fig. 9. Profile plots and 95 percent confidence intervals of response variables in Mind#1 (from [17]).
+
+Instrumentation . In order to avoid interaction of both treatments, a potential placebo side–effect on response variables was neutralized in both replications, i.e., the public speaking workshop took place after performing the post–treatment exercise. The outcomes of the baseline experiment, when compared to those of the replications, suggest that the public speaking workshop was actually a placebo in Mind#1, as questioned in DQ
+2
+(see Section 4). Another instrumentation threat to the internal validity was the scoring of the conceptual modeling exercises being incorrect or obtained applying different criteria to different subjects. To neutralize this threat, all the exercises were blindly scored by the same experimenter.
+
+With respect to the whole series of experiments, the main threat to internal validity was including the dataset of Mind#1 in the pooled and aggregated data meta–analyses, since it was a quasi–experiment because of the non–random assignment of subjects. However, we decided to include it for three reasons. First, the results of the pre–treatment exercise showed that both groups started from very similar situations on average, as can be seen in the profile plots of Mind#1 in Fig. 9. Second, this similarity was statistically verified, as commented above. Third, the potentially higher motivation of the experimental group was discarded after checking that the dropout was also similar in both groups, as shown in Table 2.
+
+Another relevant threat to the internal validity was the unexpected difference in the solving difficulty of the conceptual modeling exercises observed when their order was swapped in Mind#3. Considering the results of the pooled data meta–analysis in Section 5.1, the difference between the exercises is confirmed, but it is also that there is no evidence that the effect of mindfulness depends on the specific exercise to be solved by the subjects.
+
+Finally, as commented in Section 3.7.1, all the subjects had the same professors and the same content was taught to all of them at the same pace in order to avoid any difference in their conceptual modeling training.
+
+This validity is concerned with the relation between theory and observation. Since all the experiments included two different treatments and exercises, the mono–operation bias was reduced because of the cause construct being completely represented. The mono–method bias was also reduced by considering two different response variables.10
+
+Four threats which could limit the generalization of the outcomes were identified. On one hand, the size of the interview transcripts might not be representative of real industrial problems, but they were appropriate for the available time for the pre– and post–treatment exercises. However, we think that the intellectual processes applied during conceptual modeling—potentially improved by the practice of mindfulness—are basically the same regardless of the size of the problem at hand.
+
+On the other hand, since the experimental tasks did not require high levels of industrial experience, using Software Engineering students as subjects instead of professionals could be considered as appropriate [63]. Moreover, students are the next generation of professionals, so they are close to the population under study [64],[65].
+
+The third threat to external validity was the fact that all the subjects were Software Engineering students at the University of Seville and had received similar training. Therefore, if the study was replicated at another institution, the results may have been different due to different training. Only an external replication can mitigate this threat.
+
+Finally, the external validity of the study could be threatened by the bias generated by giving students a bonus, making the results applicable only to people with certain interests. However, if students are not interested in obtaining a substantial bonus on their grades easily, they would hardly be interested in participating in the experiment in a totally altruistic manner. Given that the use of an economic incentive was unfeasible, and would have constituted another form of self–selection anyway, we consider this threat to external validity intractable given the circumstances.
+
+To the best of the authors’ knowledge, apart from this article and our previous works [17],[18], the only empirical study relating mindfulness and performance on a Software Engineering task is a controlled experiment on the perceived effectiveness of stand–up meetings held after 3–minute mindfulness sessions [46]. This study was carried out in three Dutch companies that had been using the Scrum agile methodology for at least three years. The subjects were assigned to experimental, placebo11 and null–treatment groups. The data obtained using questionnaires after the stand–up meetings revealed that there was a positive impact on the perceived effectiveness, decision–making and listening in the experimental group with respect to the other groups.
+
+Although we have found only one directly related work, a selection of the 65 studies recently compiled in a meta–analysis [25] about the potential benefits of mindfulness in some cognitive abilities such as attention, learning, memory or intelligence are summarized in Table 16, commented below and compared with our series of experiments. Notice that all the studies that were carried out in academic environments (marked with an asterisk in their reference in Table 16), took place at Social or Health Science Schools like Education, Experimental Psychology or Medicine. None of them took place at a School of Technology like ours.
+
+Regarding the experimental design, most of the studies in Table 16 used a pre–post design, as it was our case. The simple design is usually adopted when subjects are experienced meditators because there is no possibility of measuring anything before the beginning of the treatment.
+
+With respect to the response variables in the studies in Table 16, they are usually measured using standardized questionnaires, although the high variability makes difficult to perform meta–analyses because of the incomparability of measures, a serious issue to promote more rigorous meditation research, as highlighted in [25],[72].
+
+In most of the studies in Table 16, the subject assignment to groups was random except when organizational constraints made it impossible or subjects were long–term meditators. For instance, [74] reported an experiment carried out with 20 experienced meditators and 20 matched controls without any meditation experience.
+
+Regarding the alternative treatment administered to the control group (last column in Table 16), the meta–analysis in [25] classified studies as those in which a mindfulness group is compared with a conventional control (CC) group, for example a waiting list, and those in which the mindfulness group is compared with an active control (AC) group, i.e., attentional, relaxing or resting treatment. Sometimes, the alternative to the mindfulness group is an inactive control (IC) group, in which subjects are not treated. The meta–analysis in [25] also revealed that more differences between groups were detected when using CC/IC rather than AC. This finding seems reasonable because of the potential effect of the alternative treatment in AC groups. In disciplines like Psychology, it usual to compare mindfulness with other attentional techniques in order to know which one is better and in which cases, which is not our case.
+
+Concerning the way of practicing mindfulness during the treatment, some of the experimenters opted for once–a–week longer sessions [75] or for off–site sessions supported by an audio guide [32],[76]. The findings in [25] have also revealed that the length of mindfulness training is correlated positively with the strength of its effects, and that the training should last at least 4 weeks to be effective. In our case, considering the limitations described in Section 4.2, face–to–face short (10–12 minutes) daily sessions seemed the most appropriate for facilitating student attendance, and 4–6 weeks appeared to be long enough for the training to be effective, as confirmed by our results.
+
+In this section, some of the lessons learned during the 3–year iterative process of running the series of controlled experiments are commented.
+
+One of the lessons learned is that since subjects’ motivation does not seem to be a relevant factor, as concluded from the outcomes of the series of experiments described in Section 4, random assignment to groups should be used whenever possible because of its well–known advantages for statistical analysis [49],[52],[77].
+
+Another lesson is that the subjects in the control group should feel they are treated in the same way than the subjects in the experimental group, in order to avoid any reactivity effect [77]. For the same reason, it is important to have control conditions as motivating as the experimental conditions but without any effect on the outcomes. If such control conditions were not available, an alternative would be using a waiting list and administering the same or similar treatment to the control group, but once all the measures had been taken, i.e., having a formal null treatment condition although all subjects receive equally motivating treatments, as we did in the series of experiments.
+
+As shown in Table 16, most mindfulness studies use simple or pre–post experimental designs. Nevertheless, there is a relevant difference between the pre–post studies in Table 16 and our series of experiments. While those studies use the same questionnaire in the pre–post measures, we cannot use the same conceptual modeling exercise because of the testing effect [49], i.e., the subjects might become familiar with the exercise and avoid previous mistakes in the second measure. As a general rule, we can say that those Software Engineering tasks whose complexity can be measured in a concise and objective way, are the best candidates for a controlled experiment using mindfulness. If such a task is found, search for two exercises with similar complexity and use a pre–post design. If this is not possible, consider randomizing the tasks among participants in the same group to deal with potential differences in solving difficulty, or use a simple design and measure response variables only once after the administration of the treatment.
+
+One of the advantages of the pre–post design is that it allows the analysis of the evolution of the task performance over time. One of its drawbacks is that if the task itself has a significant effect on the outcomes and it has also a significant interaction with the treatment, the results might be inconclusive. On the other hand, in both pre–post and simple experimental designs, the variables that introduce nuisance should be identified and controlled by means of blocking [51] when possible. For example, a different level of subjects’ experience with the task under study. In this situation, we recommend using a questionnaire before the beginning of the conduction of the experiment, which allows creating the blocks to overcome the effects of the nuisances.
+
+Apart from the complexity–related aspects commented in the previous section, a good Software Engineering task for a mindfulness experiment is a task for which attention, mental clarity, and problem–solving capabilities were helpful.
+
+Another relevant aspect is the workload required for scoring the deliverables generated by the task, which could be quite time–consuming. A clear recommendation about scoring is having a reference solution to compare with and clear criteria for assigning numerical values. When possible, the scoring should be performed blindly by the same person, in order to avoid different applications of the scoring criteria. In the case of conceptual modeling, it is also recommended to have a list of synonyms for each of the concepts in the problem domain, as we had in our case.
+
+Ideally, automated score mechanisms such as multiple option tests would alleviate the scoring workload, but this is not always possible to achieve, especially for creative tasks such as developing conceptual models.
+
+There are different approaches for integrating mindfulness into higher education, as commented in Section 2.2. In our case, considering the results of the series of experiments and the positive feedback from the participating students, we think that workshops consisting of short sessions as those described in Section 3.3.4, during a period of at least 4 weeks, are not only a good entry level for Software Engineering students in the practice of mindfulness, but also a way for measuring its effects in different Software Engineering education aspects.
+
+During the workshops, additional resources such as the Insight Timer 12 or Headspace 13 applications can also be recommended to the students in order to continue the practice once the workshops are over, helping them to achieve a mindful state into their daily life.
+
+Apart from the workshops, the first author has also obtained positive feedback from practicing mindfulness some minutes during her lessons, which can be seen not only as a complementary activity to the workshops themselves, but also as a dissemination action of mindfulness among students.
+
+In this article, we have presented a 3–year series of experiments to evaluate the effect of mindfulness on the conceptual modeling performance of Software Engineering students (see Table 17 for a summary of results). The series is composed of three experiments, the baseline experiment and two internal replications carried out at the University of Seville during the 2013–2016 academic years. During the planning of the replications, some aspects of the baseline experiment were modified taking into account not only the experimental results but also the lessons learned from each experiment. The understanding of this evolution and the resulting foundations may be useful for researchers in the area willing to carry out further replications [21].
+
+In addition to the description of the followed process and a narrative synthesis of the results, a joint analysis consisting of a pooled and an aggregated data meta–analyses of the whole series of experiments is also presented in this article. All analyses have yielded consistent results, i.e., students who practice mindfulness get better results on the task (effectiveness) and they are more productive, i.e., they arrive at such solutions more quickly (efficiency). The fact that the practice of mindfulness significantly impacts not only conceptual modeling productivity but also quality is a new finding of the joint analysis. This finding has been obtained thanks to the increased sample size when processing the aggregated data, which has allowed us to uncover subtle effects that could not be observed in the isolated experiments.
+
+As future work, we want to study whether the benefits of mindfulness are also applicable to other tasks in Software Engineering in which being focused and having a clear mind is crucial, e.g., coding, debugging, formal technical reviews, etc. Another interesting path to explore is cooperating with psychologists to determine which are the most relevant mental abilities for some Software Engineering tasks and how those abilities, such as abstraction [78], might be improved by the practice of mindfulness.
+
+On the other hand, some case studies in real companies are underway in order to confirm our results with professionals. In the long term, the ultimate aim of our empirical studies is to define the best way to introduce the practice of mindfulness both in academia and industry and develop a mindfulness–based productivity and stress–reduction program as a means to achieve that goal.
+
+The laboratory package is available at the eXemplar platform [79] in https://exemplar.us.es/demo/BernardezMindfulnessTSE. Apart from the experimental material described in Section 3.4, the lab–pack also includes i) descriptions of all the experiments in Scientific Experiments Description Language (SEDL), the domain specific language for experiment description of the eXemplar platform [80, Ch. 6]; ii) raw data files in CSV format; and iii) statistical analysis and graph–generating scripts in R.
+
+The authors would like to thank the ISEIS students who participated in the experiments; the staff of the E.T.S. de Ingeniería Informática of the University of Seville for arranging anything we needed; Dr. M. T. Gómez López for her kind cooperation during her ISEIS teaching hours; Dr. M. Murga, neurosurgeon and emeritus professor of Anatomy and Neurology at the University of Seville, for his invaluable aid and explanations on brain processes and fMRI interpretation. The authors would also like to give credit to Jens Tärning, the creator of the meditation icon () licensed as Creative Commons CCBY in https://thenounproject.com. Last but not least, we would also like to thank the anonymous reviewers for their helpful and constructive suggestions on the previous versions of this work, especially with regard to statistical analysis. This work was partially supported by the FEDER/Spanish Ministry of Science and Innovation – Research State Agency under Project PGC2018-097265-B-I00 and the European Commission (FEDER) and the Spanish Government under projects BELI (TIN2015–70560–R), APOLO (US–1264651), OPHELIA (RTI2018–101204–B–C22), HORATIO (RTI2018-101204–B–C21) and EKIPMENT-PLUS (P18–FR–2895).
+
+Sign up for our newsletter.
+
+EMAIL ADDRESS
+
+IEEE COMPUTER SOCIETY
+
+DIGITAL LIBRARY
+
+COMPUTING RESOURCES
+
+COMMUNITY RESOURCES
+
+BUSINESS SOLUTIONS
+
+POLICIES
+
+©IEEE — All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+Effects of Mindfulness on Conceptual Modeling Performance: A Series of Experiments
+
+1   Introduction
+
+2   Mindfulness: An Overview
+
+3   Common Experimental Settings
+
+4   Results and Protocol Evolution
+
+5   Joint Analysis
+
+6   Threats to Validity
+
+7   Related Work
+
+8   Lessons Learned
+
+9   Conclusion and Future Work
+
+   Laboratory Package
+
+Footnotes
+
+Acknowledgments
+
+References
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+Help
+
+About Us
+
+Career Center
+
+Cart
+
+Create Account
+
+Sign In
+
+MY SUBSCRIPTIONS
+
+BROWSE CONTENT
+
+RESOURCES
+
+IEEE TSE
+
+Current Issue
+
+Past Issues
+
+Issue 2022.02
+
+Early Access
+
+About
+
+Write for Us
+
+Peer Review
+
+GET ACCESS
+
+Previous
+
+Next
+
+Table of Contents
+
+Past Issues
+
+References
+
+Related Articles
+
+Home
+
+Journals
+
+IEEE Transactions on Software Engineering
+
+2022.02
+
+RQDoes the practice of mindfulness impact conceptual modeling performance?
+
+RQ1Does the practice of mindfulness impact conceptual modeling quality?
+
+RQ2Does the practice of mindfulness impact conceptual modeling productivity?
+
+Analyze the practice of mindfulness
+
+for the purpose of evaluating its effects
+
+with respect to conceptual modeling performance
+
+from the point of view of the researchers
+
+in the context of second–year students of the Degree in Software Engineering at the University of Seville.
+
+The interview transcript and two blank sheets of paper are handed in to the students.
+
+A volunteer is requested among the students to read the transcript aloud together with the professor, each of them playing the role of the requirements engineer and the customer respectively.
+
+The students write down the beginning time of the exercise and start developing the conceptual model by creating a draft of the explicit and implicit information requirements in the interview transcript. Then, they identify the model elements and develop the corresponding UML class diagrams.
+
+Once they have finished, the students write down the ending time and hand their exercises and the interview transcript out to the professor.
+
+The motivating presentation slides used for student recruitment.
+
+The questionnaire used for student recruitment.
+
+The seminar slides.
+
+The conceptual modeling exercises and their corresponding solutions used in task 1 and task 2, about Erasmus grants and End–of–Degree (EoD) projects, which were selected from a number of conceptual modeling exercises that we have been using successfully in our Requirements Engineering courses for more than 10 years and are therefore extensively checked and reviewed.
+
+g
+r
+o
+u
+p
+It represents the group the subjects were assigned during the training workshops, i.e., the mindfulness group and the control group.
+
+t
+i
+m
+e
+It represents the moment in time when the subjects were measured by performing the conceptual modeling exercises, i.e., pre–treatment and post–treatment .
+
+H
+0
+,
+1
+: There is no difference in the conceptual modeling effectiveness of subjects between the pre– and post–treatment exercises.
+
+H
+0
+,
+2
+: There is no difference in the conceptual modeling effectiveness between the subjects who received the mindfulness treatment and those who did not.
+
+H
+0
+,
+3
+: There is no difference in the conceptual modeling efficiency of subjects between the pre– and post–treatment exercises.
+
+H
+0
+,
+4
+: There is no difference in the conceptual modeling efficiency between the subjects who received the mindfulness treatment and those who did not.
+
+DQ1Is students’ motivation relevant?
+
+DQ2Is public speaking actually a placebo?
+
+DQ3Has the mindfulness treatment been long enough?
+
+DQ4Do the conceptual modeling exercises used in the experimental tasks have any influence on the results?
+
+H
+0
+,
+5
+: There is no difference in the conceptual modeling effectiveness between the subjects who performed the exercises in the Erasmus
+→
+EoDP order and those who performed them in the inverse order.
+
+H
+0
+,
+6
+: There is no difference in the conceptual modeling efficiency between the subjects who performed the exercises in the Erasmus
+→
+EoDP order and those who performed them in the inverse order.
+
+1. Equanimity is related to response inhibition and emotion regulation processes [16], which could improve conceptual modeling performance helping students to deal with frustrations in figuring out the correct solution.
+
+2. According to [16], there are three ways of practicing mindfulness: focused attention (FA), open monitoring (OM) and ethical enhancement (EE). Since FA is the usual practice for beginners and it is oriented to educate attention, we decided to use it with our students in the series of experiments.
+
+3. The results of an anova test are usually reported as (F,
+p
+) pairs, where F is the test statistic and
+p
+is the significance level of the test, usually known as
+p
+–value. The numbers in parenthesis after F are the degrees of freedom of the between–subjects and within–subjects factors respectively.
+
+4. Assumptions of normality and homogeneity of variances were verified before applying anova tests in the three experiments.
+
+5. In [55], the thresholds for classifying effect sizes according to
+η
+2
+p
+are 0.01 for small , 0.06 for medium and 0.14 for large .
+
+6. Hereinafter referred to as the order for the sake of readability.
+
+7. Other additional analyses were performed but are not included in this section for the sake of brevity. They are available in the lab–pack and their results are commented in the supplemental material, available online, for the interested reader.
+
+8. According to [58], values of
+B
+10
+between 1 and 3.2 constitute anecdotal evidence, between 3.2 and 10 substantial evidence, between 10 and 100 strong evidence, and values above 100 constitute decisive evidence.
+
+9. The thresholds when the effect size is estimated using Cohen's
+d
+are 0.20 for small , 0.50 for medium , 0.80 for large and 1.20 for very large .
+
+10. According to [49],mono–operation bias occurs if the experiment includes a single independent variable, case, subject or treatment, because the experiment may under–represent the construct and thus not give the full picture of the theory. Mono–method bias occurs when using a single type of measures or observations because this involves a risk that if this measure or observation gives a measurement bias, then the experiment will be misleading. By involving different types of measures and observations they can be cross–checked against each other.
+
+11. The placebo groups listened to Tango by Igor Stravinsky instead of practicing mindfulness.
+
+12. https://insighttimer.com/.
+
+13. https://www.headspace.com/.
+
+[1]T. DeMarco and T. Lister, Peopleware: Productive Projects and Teams. Boston, MA, USA: Addison-Wesley, 2013.
+
+[2]S. Hastie and S. Wojewoda, “Standish group 2015 chaos report – Q&A with jennifer lynch,” 2015. [Online]. Available: https://bit.ly/1Y6nWAv
+
+[3]D. Graziotin, X. Wang, and P. Abrahamsson, “Software developers, moods, emotions, and performance,” IEEE Softw., vol. 31, no. 4, pp. 24–27, Jul.-Aug.2014.
+
+[4]M. Csikszentmihalyi, Flow: The Psychology of Optimal Experience. New York, NY, USA: Harper Perennial, 1991.
+
+[5]A. N. Meyer, L. E. Barton, G. C. Murphy, T. Zimmermann, and T. Fritz, “The work life of developers: Activities, switches and perceived productivity,” IEEE Trans. Softw. Eng., vol. 43, no. 12, pp. 1178–1193, Dec.2017.
+
+[6]J. Kabat-Zinn, Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness, Hachette, United Kingdom, 2013.
+
+[7]J. Kabat-Zinn, Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life. Santa Clara, CL, USA: Hyperion, 1994.
+
+[8]D. M. Davis and J. A. Hayes, “What are the benefits of mindfulness? A practice review of psychotherapy–related research,” Psychotherapy, vol. 48, no. 2, 2011, Art. no. 198.
+
+[9]S. Lazar, “How meditation can reshape our brains: Sara Lazar at TEDxCambridge 2011,” 2011. [Online]. Available: https://youtu.be/m8rRzTtP7Tc
+
+[10]K. Schaufenbuel, “Bringing mindfulness to the workplace,” The Kenan–Flagler Business School, Executive Development, University of North Carolina, Tech. Rep., 2014. [Online]. Available: https://unc.live/2W5W0QR
+
+[11]H. Agnew, “’Mindfulness’ gives stressed–out bankers something to think about,” 2014. [Online]. Available: https://on.ft.com/2RAmVFT
+
+[12]J. T. Ramsburg and R. J. Youmans, “Meditation in the higher–education classroom: Meditation training improves student knowledge retention during lectures,” Mindfulness, vol. 5, no. 4, pp. 431–441, 2014.
+
+[13]S. L. Shapiro, K. W. Brown, and J. A. Astin, “Toward the integration of meditation into higher education: A review of research,” Teachers College Rec., vol. 113, no. 3, pp. 493–528, 2011.
+
+[14]E. Cardeña, J. O. Sjöstedt, and D. Marcusson-Clavertz, “Sustained attention and motivation in zen meditators and non-meditators,” Mindfulness, vol. 6, no. 5, pp. 1082–1087, 2015.
+
+[15]M. D. Mrazek, M. S. Franklin, D. T. Phillips, B. Baird, and J. W. Schooler, “Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering,” Psychol. Sci., vol. 24, no. 5, pp. 776–781, May2013.
+
+[16]D. Vago and S. David, “Self–awareness, self–regulation, and self–transcendence (S–ART): A framework for understanding the neurobiological mechanisms of mindfulness,” Front. Hum. Neurosci., vol. 6, 2012, Art. no. 296.
+
+[17]B. Bernárdez, A. Durán, J. A. Parejo, and A. Ruiz-Cort és, “A controlled experiment to evaluate the effects of mindfulness in software engineering,” in Proc. 8th ACM/IEEE Int. Symp. Empir. Softw. Eng. Meas., 2014, pp. 17–27.
+
+[18]B. Bernárdez, A. Durán, J. A. Parejo, and A. Ruiz-Cort és, “An experimental replication on the effect of the practice of mindfulness in conceptual modeling performance,” J. Syst. Softw., vol. 136, pp. 153–172, 2018.
+
+[19]V. R. Basili, et al., “The empirical investigation of perspective–based reading,” Empir. Softw. Eng., vol. 1, no. 2, pp. 133–164, 1996.
+
+[20]F. J. Shull, J. C. Carver, S. Vegas, and N. Juristo, “The role of replications in empirical software engineering,” Empir. Softw. Eng., vol. 13, no. 2, pp. 211–218, 2008.
+
+[21]M. Cruz, B. Bernárdez, A. Durán, J. A. Galindo, and A. Ruiz –Cortés, “Replication of studies in empirical software engineering: A systematic mapping study, from 2013 to 2018,” IEEE Access, vol. 8, pp. 26 773–26 791, 2020.
+
+[22]A. Santos, O. S. Gomez, and N. Juristo, “Analyzing families of experiments in SE: A systematic mapping study,” IEEE Trans. Softw. Eng., to be published, doi: 10.1109/TSE.2018.2864633.
+
+[23]A. Puddicombe, Get Some Headspace. London, U.K.: Hodder and Stoughton, 2011.
+
+[24]V. Simón, Aware and Awake. Paris, France: Descleé De Brouwer, 2013.
+
+[25]P. Sedlmeier, C. Loße, and L. C. Quasten, “Psychological effects of meditation for healthy practitioners: An update,” Mindfulness, vol. 9, no. 2, pp. 371–387, Apr.2018.
+
+[26]D. Goleman and R. J. Davidson, Altered Traits: Science Reveals how Meditation Changes Your Mind, Brain, and Body. London, U.K.: Penguin, 2017.
+
+[27]D. Vago, “Self–transformation through mindfulness: David Vago at TEDxCambridge 2017,” 2017. [Online]. Available: https://youtu.be/1nP5oedmzkM
+
+[28]J. Kabat-Zinn, “Mindfulness–based stress reduction MBSR,” Constructivism Hum. Sci., Salve Regina University, vol. 8, no. 2, pp. 73–83, 2003.
+
+[29]P. Grossman, L. Niemann, S. Schmidt, and H. Walach, “Mindfulness–based stress reduction and health benefits: A meta–analysis,” J. Psychosomatic Res., vol. 57, no. 1, pp. 35–43, 2004.
+
+[30]S. L. Shapiro, J. A. Astin, S. R. Bishop, and M. Cordova, “Mindfulness-based stress reduction for health care professionals: Results from a randomized trial,” Int. J. Stress Manage., vol. 12, no. 2, pp. 164–176, 2005.
+
+[31]D. K. Reibel, J. M. Greeson, G. C. Brainard, and S. Rosenzweig, “Mindfulness–based stress reduction and health–related quality of life in a heterogeneous patient population,” General Hospital Psychiatry, vol. 23, no. 4, pp. 183–192, 2001.
+
+[32]P. A. Poulin, C. S. Mackenzie, G. Soloway, and E. Karayolas, “Mindfulness training as an evidenced-based approach to reducing stress and promoting well-being among human services professionals,” Int. J. Health Promotion Educ., vol. 46, no. 2, pp. 72–80, 2008.
+
+[33]D. P. Barbezat and M. Bush, Contemplative Practices in Higher Education: Powerful Methods to Transform Teaching and Learning. Hoboken, NJ, USA: Wiley, 2013.
+
+[34]Center for Wellness and Health Promotion — Harvard University Health Services, “Mindfulness & meditation,” 2019. [Online]. Available: https://bit.ly/2TbUafa
+
+[35]University of California Berkeley School of Law, “Mindfulness at berkeley law,” 2019. [Online]. Available: https://bit.ly/2RIHdx6
+
+[36]The University of Texas at Austin — Counseling and Mental Health Center, “MindBody labs,” 2019. [Online]. Available: https://bit.ly/2ba5bgC
+
+[37]University of Cambridge, “Mindfulness at cam,” 2019. [Online]. Available: https://bit.ly/2W4kiuy
+
+[38]N. Barnes, P. Hattan, D. S. Black, and Z. Schuman-Olivier, “An examination of mindfulness–based programs in us medical schools,” Mindfulness, vol. 8, no. 2, pp. 489–494, Apr.2017.
+
+[39]M. B. Schure, J. Christopher, and S. Christopher, “Mind–body medicine and the art of self-care: Teaching mindfulness to counseling students through yoga, meditation, and qigong,” J. Counseling Develop., vol. 86, no. 1, pp. 47–56, Winter 2008.
+
+[40]N. Shachtman, Enlightenment Engineers: Meditation and Mindfulness in Silicon Valley, San Francisco, CA, USA: WIRED Magazine, 2013.
+
+[41]Search Inside Yourself Leadership Institute, “Search inside yourself program impact report,” 2019. [Online]. Available: https://bit.ly/2LUMNdb
+
+[42]C.-M. Tan, Search Inside Yourself. Boston, MA, USA: Addison–Wesley, 2012.
+
+[43]C. Kelly, “O.k., Google, take a deep breath,” 2012. [Online]. Available: https://nyti.ms/2QjiY79
+
+[44]S. Matook and K. Kautz, “Mindfulness and agile software development,” in Proc. 19th Australas. Conf. Inf. Syst., 2008, pp. 638–647.
+
+[45]R. Vidgen and X. Wang, “Coevolving systems and the organization of agile software development,” Inf. Syst. Res., vol. 20, no. 3, pp. 355–376, Sep.2009.
+
+[46]P. den Heijer, W. Koole, and C. J. Stettina, “Don't forget to breathe: A controlled trial of mindfulness practices in agile project teams,” in Proc. Int. Conf. Agile Softw. Develop., 2017, pp. 103–118.
+
+[47]A. Jedlitschka, M. Ciolkowski, and D. Pfahl, Guide to Advanced Empirical Software Engineering. Berlin, Germany: Springer, 2008, ch. Reporting experiments in Software Engineering, pp. 201–228.
+
+[48]J. C. Carver, “Towards reporting guidelines for experimental replications: A proposal,” in Proc. 1st Int. Workshop Replication Empir. Softw. Eng., 2010, pp. 2–5.
+
+[49]C. Wohlin, P. Runeson, M. Höst, M. C. Ohlsson, B. Regnell, and A. Wesslén, Experimentation in Software Engineering: An Introduction. Berlin, Germany: Springer, 2012.
+
+[50]M. Genero, A. Fern ández-Saez, J. Nelson, G. Poels, and M. Piattini, “A systematic literature review on the quality of UML models,” J. Database Manage., vol. 22, no. 3, pp. 46–70, 2012.
+
+[51]N. Juristo and A. M. Moreno, Basics of Software Engineering Experimentation. New York, NY, USA: Kluwer Academic Publishers, 2001.
+
+[52]D. T. Campbell and S. Julian, Experimental and Quasi–Experimental Designs for Research. United States: Wadsworth, 1963.
+
+[53]E. L. Fancher, “Comparison of methods of analysis for pretest and posttest data,” Master's thesis, Dept. Statistics, Univ. Georgia, Athens, Georgia, 2013.
+
+[54]J. A. Gliner, G. A. Morgan, and R. J. Harmon, “Pretest–posttest comparison group designs: Analysis and interpretation,” J. Amer. Acad. Child Adolescent Psychiatry, vol. 42, pp. 500–503, 2003.
+
+[55]J. T. Richardson, “Eta squared and partial eta squared as measures of effect size in educational research,” Educ. Res. Rev., vol. 6, no. 2, pp. 135–147, 2011.
+
+[56]K. S. Button, et al., “Power failure: Why small sample size undermines the reliability of neuroscience,” Nature Rev. Neurosci., vol. 14, no. 5, 2013, Art. no. 365.
+
+[57]G. V. Glass, “Primary, secondary, and meta-analysis of research,” Educ. Researcher, vol. 5, no. 10, pp. 3–8, 1976.
+
+[58]R. E. Kass and A. E. Raftery, “Bayes factors,” J. Amer. Statist. Assoc., vol. 90, no. 430, pp. 773–795, 1995.
+
+[59]A. Rutherford, Introducing ANOVA and ANCOVA: A GLM Approach. Thousand Oaks, CA, USA: Sage, 2001.
+
+[60]S. Lewis and M. Clarke, “Forest plots: Trying to see the wood and the trees,” BMJ: Brit. Med. J., vol. 322, no. 7300, 2001, Art. no. 1479.
+
+[61]J. Cohen, Statistical Power Analysis for the Behavioral Sciences. Cambridge, MA, USA: Academic Press, 2013.
+
+[62]M. Jørgensen, T. Dybå, K. Liestøl, and D. I. Sjøberg, “Incorrect results in software engineering experiments: How to improve research practices,” J. Syst. Softw., vol. 116, pp. 133–145, 2016.
+
+[63]D. Falessi, et al., “Empirical software engineering experts on the use of students and professionals in experiments,” Empir. Softw. Eng., vol. 23, no. 1, pp. 452–489, Feb.2018.
+
+[64]B. A. Kitchenham, S. L. Pfleeger, D. Hoaglin ., K. E. Emam, and J. Rosenberg, “Preliminary guidelines for empirical research in software engineering,” IEEE Trans. Softw. Eng., vol. 28, no. 8, pp. 721–734, Aug.2002.
+
+[65]A. A. Porter, L. G. Votta, and V. R. Basili, “Building knowledge through families of experiments,” IEEE Trans. Softw. Eng., vol. 25, no. 4, pp. 456–473, Jul.1999.
+
+[66]M. Baas, B. Nevicka, and F. S. T. Velden, “Specific mindfulness skills differentially predict creative performance,” Pers. Soc. Psychol. Bull., vol. 40, no. 9, pp. 1092–1106, 2014.
+
+[67]B. Baird, M. D. Mrazek, D. T. Phillips, and J. W. Schooler, “Domain-specific enhancement of metacognitive ability following meditation training,” J. Exp. Psychol.: General, vol. 143, no. 5, 2014, Art. no. 1972.
+
+[68]L. S. Colzato, A. Szapora, and B. Hommel, “Meditate to create: The impact of focused-attention and open-monitoring training on convergent and divergent thinking,” Front. Psychol., vol. 3, 2012, Art. no. 116.
+
+[69]X. Ding, Y.-Y. Tang, R. Tang, and M. I. Posner, “Improving creativity performance by short-term meditation,” Behavioral Brain Functions, vol. 10, no. 1, 2014, Art. no. 9.
+
+[70]X. Ding, Y.-Y. Tang, Y. Deng, R. Tang, and M. I. Posner, “Mood and personality predict improvement in creativity due to meditation training,” Learn. Indiv. Differ., vol. 37, pp. 217–221, 2015.
+
+[71]J. Greenberg, K. Reiner, and N. Meiran, “Mind the trap: Mindfulness practice reduces cognitive rigidity,” PloS One, vol. 7, no. 5, 2012, Art. no. e36206.
+
+[72]C. G. Jensen, S. Vangkilde, V. Frokjaer, and S. G. Hasselbalch, “Mindfulness training affects attention–or is it attentional effort?” J. Exp. Psychol.: General, vol. 141, no. 1, 2012, Art. no. 106.
+
+[73]E. L. Lykins, R. A. Baer, and L. R. Gottlob, “Performance-based tests of attention and memory in long-term mindfulness meditators and demographically matched nonmeditators,” Cognitive Therapy Res., vol. 36, no. 1, pp. 103–114, 2012.
+
+[74]E. Schötz, S. Otten, M. Wittmann, S. Schmidt, N. Kohls, and K. Meissner, “Time perception, mindfulness and attentional capacities in transcendental meditators and matched controls,” Pers. Indiv. Differ., vol. 93, pp. 16–21, 2016.
+
+[75]S. L. Shapiro, G. E. Schwartz, and G. Bonner, “Effects of mindfulness-based stress reduction on medical and premedical students,” J. Behavioral Medicine, vol. 21, no. 6, pp. 581–599, 1998.
+
+[76]A. P. Jha, E. A. Stanley, A. Kiyonaga, L. Wong, and L. Gelfand, “Examining the protective effects of mindfulness training on working memory capacity and affective experience,” Emotion, vol. 10, no. 1, 2010, Art. no. 54.
+
+[77]D. Navarro, “Learning statistics with R: A tutorial for psychology students and other beginners (version 0.6),” 2018. [Online]. Available: https://learningstatisticswithr.com/
+
+[78]J. Kramer, “Is abstraction the key to computing?” Commun. ACM, vol. 50, no. 4, pp. 36–42, Apr.2007.
+
+[79]J. A. Parejo, S. Segura, P. Fernandez, and A. Ruiz-Cort és, “EXEMPLAR: An experimental information repository for software engineering research,” in Proc. Actas de las XIX Jornadas de Ingeniería del Software y Bases de Datos, 2014, pp. 155–159.
+
+[80]J. A. Parejo, “MOSES: A software ecosystem for metaheuristic optimization,” Ph.D. dissertation, Dept. Comput. Lang. Syst., Univ. Sevilla, Seville, Spain, 2013.
+
+A Conceptual Model of Real World, High Stakes Deception Detection
+2011 44th Hawaii International Conference on System Sciences
+
+Assessing the application of three theories of conceptual change to interdisciplinary data sets
+2012 Frontiers in Education Conference Proceedings
+
+Virtual speech anxiety training — Effects of simulation fidelity on user experience
+2014 IEEE Virtual Reality (VR)
+
+On the Impact and Lessons Learned from Mindfulness Practice in a Real-World Software Company
+2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
+
+Exploring Trends in Research, Teaching, and Mentoring Self-Efficacy Beliefs of Engineering and Computing Graduate Students
+2023 IEEE Frontiers in Education Conference (FIE)
+
+"Was It Real?" - The Effects of Virtual Reality Communication Skills Training Among University Students in India
+2019 IEEE Tenth International Conference on Technology for Education (T4E)
+
+The Effects of Virtual Audience Size on Social Anxiety during Public Speaking
+2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+
+Democratizing Engineering Education Through Contemplative and Mindfulness Practices
+2020 IEEE Frontiers in Education Conference (FIE)
+
+The Efficacy of a Virtual Reality-Based Mindfulness Intervention
+2020 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)
+
+Analysis of Mindfulness and Flow
+2020 International Conference on Public Health and Data Science (ICPHDS)
+
+About Us
+
+Board of Governors
+
+Newsletters
+
+Press Room
+
+IEEE Support Center
+
+Contact Us
+
+Magazines
+
+Journals
+
+Conference Proceedings
+
+Video Library
+
+Jobs Board
+
+Courses & Certifications
+
+Webinars
+
+Podcasts
+
+Tech News
+
+Membership
+
+Conference Organizers
+
+Authors
+
+Chapters
+
+Communities
+
+Corporate Partnerships
+
+Conference Sponsorships & Exhibits
+
+Advertising
+
+Recruiting
+
+Digital Library Institution Subscriptions
+
+Privacy
+
+Accessibility Statement
+
+IEEE Nondiscrimination Policy
+
+XML Sitemap

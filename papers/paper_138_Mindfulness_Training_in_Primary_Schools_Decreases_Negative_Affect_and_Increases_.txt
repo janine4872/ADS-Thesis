@@ -1,0 +1,1149 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+European Journal of Marketing
+
+ISSN: 0309-0566
+
+Article publication date: 5 October 2022 Permissions
+
+Issue publication date: 30 November 2022
+
+This study aims to investigate the effect of healthy food advertising (HFA) in preventing obesity (measured using the healthy eating attitude and perceived self-regulatory success) through the meta-cognitive role of consumer wisdom (CW). The meta-cognitive role of CW to better promote healthy eating attitude and behavior is relevant and underexplored.
+
+Data were collected from 310 young consumers through an online survey. Reliability and validity were established using confirmatory factor analysis, and hypotheses were analyzed through structural equation modeling using MPlus V8.3.
+
+The results reveal that HFA has a positive influence on all dimensions of CW: responsibility, purpose, perspective, reasoning and sustainability. All dimensions but one augment a positive healthy eating attitude, but only responsibility and sustainability enhance consumers’ self-regulatory success. The findings show that HFA does not directly prevent obesity, but CW mediates the relationship between that advertising and obesity prevention. These findings show that CW establishes a mindful connection between HFA and obesity control.
+
+This research extends the theory of CW in the context of healthful eating and contributes significantly to the advertising, hospitality and obesity literature.
+
+This study also has implications for multiple stakeholders, including consumers, restaurant operators, hospitality managers, brand managers, the government and society in general.
+
+To the best of the authors’ knowledge, this study marks the first attempt to investigate the role of CW in preventing obesity. It is also the first study to examine the relationships of HFA with CW and a healthful attitude toward eating.
+
+Hussain, K., Junaid, M., Javed, M., Ali, M. and Iqbal, A. (2022), "Consumer wisdom: a mindful connection between healthy food advertising and obesity prevention", European Journal of Marketing, Vol. 56 No. 11, pp. 3032-3053. https://doi.org/10.1108/EJM-08-2021-0645
+
+Emerald Publishing Limited
+
+Copyright © 2022, Emerald Publishing Limited
+
+Obesity is an epidemic across both developed and developing countries (Lyn et al., 2019). The World Health Organization (WHO; 2020) reports that two billion people around the globe are obese or overweight, with at least 2.8 million people dying from obesity-related causes each year. Obesity was also the second-highest reason for hospitalization of those infected with COVID-19 (Wilding and Ralston, 2021). Despite government attempts to intervene, obesity is worsening (Wijayaratne et al., 2018), as obesity is a matter of personal responsibility (Guertin et al., 2020; Ortiz et al., 2016), and government initiatives are futile unless consumers opt for healthful food (Boswell et al., 2018). Therefore, identifying the psychological factors that may shift ‘customers’ attitude toward a healthful regimen has considerable value for world health and the cost of health care.
+
+The extant literature pays considerable attention to determining the antecedents of a healthy eating attitude. For instance, Andrews et al. (2009) report that consumers’ knowledge and motivation decrease their intention to buy high-calorie products, and Guertin et al. (2020) find that self-determined motivation increases healthful eating among female consumers. Lim et al. (2020) document that mothers’ self-efficacy improves the healthful eating behavior of primary school children, while Munt et al. (2017) argue that consumers’ desire for improved self-esteem and attractiveness entices them to adopt a positive healthy eating attitude . The obesity literature scrutinizes key psychological factors, such as personality traits (Bagnjuk et al., 2019), self-concept and self-esteem (O’Dea, 2006), self-construal (Chang et al., 2014) and social identification (Robinson et al., 2020) in relation to obesity and overweight. However, the role of such psychological factors has not been fully explored in the marketing context, as the marketing literature has paid limited attention to the role of consumers’ psychological factors (e.g. consumer wisdom [CW]) in obesity prevention. The role of CW in preventing obesity may be to lead consumers to undertake healthful actions because of CW’s meta-cognitive role in promoting a positive healthy eating attitude and corresponding behavior. CW can empower consumers to make good decisions, despite the many marketplace forces that tempt them to make unhealthful decisions. CW helps individuals to make mindful decisions by enabling them to consider prior consumption experiences and envision their outcomes (Luchs et al., 2021). CW is defined as:
+
+The pursuit of well-being for oneself and others through mindful management of consumption-related choices and behaviors, as realized through the integrated application of intentionality, contemplation, emotional mastery, openness, and transcendence (Luchs and Mick, 2018, p. 384).
+
+It is a multidimensional construct consisting of responsibility, purpose, flexibility, perspective, reasoning and sustainability. The theory of CW (Luchs and Mick, 2018) postulates that CW is a basic human trait that is essential for good everyday decisions about consumption. Because CW is a complex phenomenon that comprises six integrated dimensions, explaining the role of each dimension in consumers’ choices pertaining to food and nutrition is necessary but has been neglected (Luchs and Mick, 2018; Luchs et al., 2021). To bridge these research gaps, this study delineates the role of CW’s dimensions in developing self-regulation and a positive healthy eating attitude among young consumers.
+
+As a key psychological factor, CW may prevent young consumers from becoming obese, but the extant literature provides scant evidence on how to nurture CW. Luchs et al. (2021) suggest that knowledge and education can enrich CW, while Clow and Baack (2018) advocate advertising as a way to educate consumers. The current study takes restaurant brands’ healthy food advertising (HFA) as a determinant of consumers’ thought processes that can sway CW toward a positive healthy eating attitude and self-regulation. The present research anticipates that information about restaurants’ healthful food and its benefits delivered through HFA may change consumers’ sense of responsibility for and perspective on their eating habits.
+
+The marketing literature finds that food advertising relates directly to eating behaviors. A large body of research indicates that users of televisions and digital media are ambushed with advertising for the unhealthful food that causes obesity (Kelly et al., 2019; Russell et al., 2019; Tan et al., 2018). Furthermore, the extant literature suggests that food advertising enhances the consumption of the advertised food among children and mothers (Díaz-Ramírez et al., 2013). Giese et al. (2015) compare consumers’ exposure to advertising of unhealthful and healthful food and document that exposure to advertisements for unhealthful food increases consumption of that kind of food and decreases consumption of healthful food. While government initiatives have not been successful in controlling obesity (Vaillancourt et al., 2019), governments like those of France and Turkey have mandated the inclusion of approved health messages in food advertisements (Lyn et al., 2019), while other countries have implemented strict regulations and monitoring systems (Kelly et al., 2019). In addition, Cominato et al. (2018) and Ortiz et al. (2016) contend that restaurant brands themselves have an obligation to promote healthful food to reduce obesity.
+
+Roose and Mulier (2020) and Wijayaratne et al. (2018) suggest that HFA is likely to promote a positive healthy eating attitude among consumers, so this study expands their suggestion by investigating how HFA can prevent obesity among young consumers. The study focuses on young consumers because their food choices can determine whether they are likely to struggle with obesity later in life (Munt et al., 2017).
+
+This study contributes to the advertising, hospitality and obesity literature in several ways. First, the recently introduced CW construct has not yet been studied in the context of consumption of restaurant food and obesity prevention. Second, the study investigates the role of HFA in elevating CW toward a positive healthy eating attitude and self-regulation. Third, the study examines how CW bridges the relationship between HFA and obesity prevention. Finally, drawing on the theory of CW, the study extends the tenets of theory in the context of personal and communal well-being.
+
+The rest of the paper is structured as follows. A literature review and derivations of the hypotheses precede a discussion of the study’s methodology. Then the results of the study are presented, followed by a discussion. Finally, the study concludes with limitations and suggestions for future research.
+
+Wisdom, a form of personal intelligence, entails an individual’s ability to understand, adapt to and create a balance among a set of values in pursuit of the common good (Sternberg, 1998). Wisdom pertains to maturity, social intelligence, fulfillment and quality of life (Mick, 2008) and comes from intuition, knowledge, observation and an individual’s ability to reason. Wisdom articulates the individual’s perceptions of what happens, careful deliberation on the factors that affect an event and choosing a rational option. In the consumption context, Mick and Schwartz (2012) explain that wisdom enables consumers to integrate their values, goals and behaviors to extract maximum value from their consumption choices. Wise consumers are critical in making these choices, as they reflect on their experiences before buying new products (Ganassali and Matysiewicz, 2021).
+
+Wisdom is a domain-specific phenomenon that depends on the context (Mick et al., 2009; Sternberg, 1998). Luchs and Mick (2018) introduces a framework of CW that encapsulates consumers’ concern for their personal and the collective well-being. They conceptualize CW as the ability to achieve economic and emotional well-being through thoughtful, adaptive and self-regulating consumption behaviors. Their study’s findings suggest that CW is a rational phenomenon comprising five integrated facets: intentionality, contemplation, emotional mastery, openness and transcendence. Here, intentionality refers to consumers’ vision of life with the realization of personal responsibility and critical evaluation of consumption patterns. The contemplation facet involves consumers’ retrospection about past consumption decisions, learning from others’ consumption patterns and making rational choices for the future. Emotional mastery, the third facet of CW, entails consumers’ control over negative emotions and ability to seek positive emotions through prudent consumption. Openness, the fourth facet, reflects consumers’ growth mindset and acceptance of alternatives. It pertains to value co-creation, shared consumption, purchase of used items and renting products. Finally, the transcendence facet refers to consumers’ concern for the collective well-being. It particularly relates to consumers’ sense of interbeing and compassion for the greater good, so it promotes sustainable consumption.
+
+Luchs et al. (2020, 2021) refine the CW framework developed in Luchs and Mick (2018) and develop a six-dimensional scale to measure CW, which includes the five facets developed previously, and changes the terminology (see Table 1) such that the refined dimensions are labeled responsibility, purpose, flexibility, perspective, reasoning and sustainability. Here, responsibility refers to a realistic sense of lifestyle, effective management of personal resources and spending money rationally. The alignment of an individual’s goals and resources with spending patterns may help to avoid negative emotions. Purpose, the second dimension, pertains to consumers’ pursuit of personal growth, relationship development and a healthful lifestyle. Consumers who have purpose prioritize spending on experiences and products that help them grow, give them pleasure and facilitate their relationship goals.
+
+The flexibility dimension refers to consumers’ acceptance of alternative means of consumption. For instance, consumers prefer shared consumption (e.g. Uber and Airbnb), renting instead of buying and purchasing used goods instead of new. In the hospitality context, consumers opt for a room at an Airbnb instead of a hotel. The fourth dimension, perspective, refers to an individual’s careful consideration of past and future consumption, considering multiple aspects of the buying decision and its consequences. The reasoning dimension reflects consumers’ knowledge and understanding of a product’s attributes. Consumers seek information about available options in a product/service category so they can purchase the products/services that offer the best value for their money. The last dimension, sustainability, refers to consumers’ engagement in pro-social and environmentally friendly consumption and being willing to pay a premium price for ethical and environmentally friendly choices.
+
+Overweight and obesity are conceptualized as excessive fat accumulation that may create severe health problems (Lyn et al., 2019; Vaamonde and Álvarez-Món, 2020). Obesity is considered an abnormal and risky condition that adversely affects consumers’ well-being (Cronin et al., 2014; Jeong et al., 2019; Poria et al., 2021). The obesity literature suggests that preventing people from becoming obese is more effective than reversing it (Cominato et al., 2018; Ellison and Prescott, 2021). Research indicates that a positive healthy eating attitude prevents people from gaining weight (Lim et al., 2020; Vaillancourt et al., 2019), so some governments try to guide people toward adopting healthful eating (Guertin et al., 2020; Lim et al., 2020) as obesity increasingly becomes a health and economic burden (Jun and Arendt, 2016; Meule et al., 2012). Food that contains low amounts of fat and sugar, high fiber, fruits and vegetables and that is prepared using appropriate cooking methods (Kim et al., 2013) reduces the risk of obesity. A positive healthy eating attitude refers to a positive evaluation of healthful food choices (Lim et al., 2020) and to limiting the intake of calorie-dense food items (Chang, 2017; Wijayaratne et al., 2018). It is consumers’ tendency to rate healthful food options at a restaurant positively and to prefer high-quality food (Andrade et al., 2017).
+
+However, even a positive healthy eating attitude may not yield benefits unless individuals control their diets. This study uses perceived self-regulatory success as another measure of obesity prevention. Perceived self-regulatory success refers to individuals’ ability to maintain their weight and their desired body shape by managing their diet (Meule et al., 2012). Self-regulation is an important factor in preventing obesity among young adults because those who lack the ability to self-regulate are more prone to obesity (Munt et al., 2017). The key components of perceived self-regulatory success are an individual’s ability to watching their weight, stay in shape and balance their food intake. The extant literature suggests that a positive healthy eating attitude enhances healthful eating behavior (Conner et al., 2015; Conner and Norman, 2020; Lawton et al., 2009), and self-regulation prevents consumers from getting obese (Meule et al., 2012; Munt et al., 2017). Therefore, the current study uses healthy eating attitude and perceived self-regulatory success to measure obesity prevention among young adults.
+
+Restaurant brands extensively advertise their products through television, print, radio, point of purchase, billboards, social media and other digital platforms. However, most of their advertisements focus on promoting unhealthful products (Kelly et al., 2019; Roose and Mulier, 2020; Tarabashkina et al., 2017), which adversely affect food choices and are hazardous to health (Murphy et al., 2020). Even some nutritional claims (for high-calorie food with healthful ingredients) mislead consumers and may increase their consumption of weight-increasing food (Andrews et al., 2009). Advertisements for unhealthful food increase consumers’ intake (Giese et al., 2015). Mothers and children who watch advertisements of high-calorie foods frequently tend to eat more of them than those who do not see such advertisements (Díaz-Ramírez et al., 2013). Murphy et al. (2020) report that adolescents are vulnerable to advertisements on social media platforms for unhealthful and are more likely to react to and share advertisements for unhealthful than they are ads for healthful food. To counter the detrimental effects of advertising unhealthful food, the literature emphasizes using advertisements for healthful food to enhance public awareness and persuade them to make good food choices (Helfer and Shultz, 2014; Roose and Mulier, 2020; Rosi et al., 2017). The key purpose of HFA is to provide health-related information that could improve consumers’ buying decisions (Hyun et al., 2011).
+
+The advertising literature points to an effective ad as one that reveals information about the benefits of products, their implications for consumers’ lives and other ancillary details (Stout and Rust, 1993). The hierarchy of effects model recommends a cognitive strategy that would enhance consumers’ awareness and knowledge by unfolding the advertised product’s key attributes and features (Clow and Baack, 2018). These arguments suggest that advertisements for healthful food contain information regarding food ingredients, nutrition value and health benefits (or the risks of unhealthful food). The information can be relayed through television, radio, print, point of purchase, billboards, social media and other digital platforms. These ads may have a far-reaching impact on consumers’ ability to make informed decisions about food choices. Advertisements for healthful food have a positive influence on food literacy and subconscious decision-making (Vukmirovic, 2015; Wijayaratne et al., 2018).
+
+The hierarchy of effects model also suggests that emotional appeals increase consumers’ preference for an advertised brand (Zhang et al., 2014). Bublitz and Peracchio (2015) argue that using emotional appeals to promote healthful food may evoke consumers’ senses and help them recall the advertised products. However, whether a rational appeal or an emotional appeal is more effective depends on the product category. Akbari (2015) demonstrates that emotional appeals are more effective in low-involvement product categories, while rational appeals are more effective in high-involvement product categories, in part because rational appeals reduce uncertainty and enhance consumers’ confidence (Zhang et al., 2014). This study focuses more on the cognitive element of advertising, as consumers need information and confidence to make healthful choices. The study investigates the meta-cognitive role of CW in explaining the association of HFA with obesity prevention, and rational advertising appeals suit this context.
+
+Advertising significantly influences consumers’ beliefs and knowledge about the advertised products (Clow and Baack, 2018) and changes consumers’ cognition, feelings and intentions to buy the advertised products (Murphy et al., 2020; Yoo et al., 2004). Boswell et al. (2018) indicate that cognitive strategies – providing guidance about the long-term health benefits of healthful food – can change consumers’ thought processes and food choices. Kite et al. (2018) report that Australian’s “make the healthy choice” campaign enhanced consumers’ understanding, knowledge and attitude toward healthful food. The use of nutrition apps to track health-related information also improves CW regarding making healthful choices (Anin and Helme-Guizon, 2020). According to learning theory (Schmidt and Eisend, 2015), HFA is likely to change consumers’ beliefs, understanding and knowledge about healthful food, which will be reflected in their perspectives, purpose, responsibility, reasoning, transcendence and flexibility in choosing healthful food. CW is a rational phenomenon that manifests in consumers’ realization of responsibility for their lifestyles and consumption patterns (Luchs and Mick, 2018; Luchs et al., 2021). Therefore, the current study advances the following hypothesis:
+
+Restaurant brands’ HFA positively influences the (a) responsibility, (b) purpose, (c) flexibility, (d) perspective, (e) reasoning and (d) sustainability dimensions of CW among young consumers.
+
+The literature suggests that wise consumers carefully appraise their consumption patterns and align them with their goals (Luchs and Mick, 2018; Luchs et al., 2021). In the present context, CW entails consumers’ pursuit of knowledge and information about healthful food products’ key attributes and features before they consume them (Luchs et al., 2021). Consumers also strive for their own and others’ well-being through mindful consumption (Luchs and Mick, 2018). Kareklas et al. (2014) find that consumers’ quest for personal health and environmental consciousness enhances the likelihood that they will buy organic food products. However, the literature also suggests that the pursuit of efficiency leads consumers to ignore health-related risks when they make food choices (Lyn et al., 2019; Oostenbach et al., 2019; Roose and Mulier, 2020; Vukmirovic, 2015). Consumers may be swayed by marketing heuristics and biases, leading to hasty purchase decisions. Anin and Helme-Guizon (2020) argue that CW can help to explain consumers’ complex food-related choices. Against this backdrop, this study proposes that wise consumers make mindful decisions while purchasing food items at restaurants in such a way that higher CW improves their healthy eating attitude and increases self-regulation. Therefore, we formulate the following hypotheses:
+
+The CW dimensions of (a) responsibility, (b) purpose, (c) flexibility, (d) perspective, (e) reasoning and (d) sustainability positively affect young consumers’ healthy eating attitude.
+
+The CW dimensions of (a) responsibility, (b) purpose, (c) flexibility, (d) perspective, (e) reasoning and (d) sustainability positively influence young consumers’ perceived self-regulatory success.
+
+There is little doubt that restaurant brands’ advertising significantly increases food intake (Murphy et al., 2020; Vukmirovic, 2015) and can have a significant influence on consumers’ obesity-related health behavior (Lyn et al., 2019). Tan et al. (2018) find that food advertising on YouTube increases obesity among children. Although a large body of research links food advertising with eating behaviors, it lacks evidence on how HFA may lead to a positive healthy eating attitude (Vaillancourt et al., 2019). In this regard, recent studies suggest that knowledge about healthful ingredients in marketing communications and packaging may improve consumers’ attitude about healthful eating (Cominato et al., 2018; Ouyang and Sharma, 2019; Roose and Mulier, 2020; Wijayaratne et al., 2018). Lee et al. (2016) document that nutritional information in restaurant menus increases consumers’ willingness to visit the restaurant again. Healthful options at restaurants also increases consumers’ intake of healthy food (Jeong et al., 2019). Kareklas et al. (2014) find that organic food items’ advertised claims of personal health and societal well-being improve consumers’ attitude and increase their purchase intention. Therefore, the current study proposes that HFA helps to control obesity among young consumers:
+
+Restaurant brands’ HFA positively impacts (a) the healthy eating attitude and (b) perceived self-regulatory success among young consumers.
+
+Learning theory posits that the change in consumers’ knowledge and beliefs that results from advertisements may be reflected in their attitudes and behaviors (Schmidt and Eisend, 2015). Similarly, the hierarchy of effects model states that the objective of influencing consumers’ cognition is to mold their consumption and buying patterns (Clow and Baack, 2018; Murphy et al., 2020). These arguments suggest that consumers’ cognition and mindfulness guide the process of learning to opt for certain attitudes and behaviors. Therefore, this study proposes that CW may serve as the mindful connection between HFA and obesity prevention (i.e. the positive healthy eating attitude and perceived self-regulatory success among young consumers. In a way, wise consumers actively pursue information about the features and attributes of healthful food that advertisements offer. In addition, wise consumers consider their past eating behaviors and appraise the benefits and risks of their future consumption. Based on these arguments, we extend the following hypotheses:
+
+The CW dimensions of (a) responsibility, (b) purpose, (c) flexibility, (d) perspective, (e) reasoning and (d) sustainability mediate the relationship between HFA and healthy eating attitude among young consumers.
+
+The CW dimensions of (a) responsibility, (b) purpose, (c) flexibility, (d) perspective, (e) reasoning and (d) sustainability mediate the relationship between HFA and perceived self-regulatory success among young consumers (Figure 1).
+
+This study adapts measures from the literature to fit the study’s context. A six-item unidimensional measure of HFA was adapted from Hyun et al. (2011) and six dimensions of CW were measured with 24 items – four for each dimension – from Luchs et al. (2020, 2021). Healthy eating attitude was measured with six items from Lim et al. (2020). Participants indicated their level of agreement with the items using a seven-point Likert-type scale between 1 = strongly disagree to 7 = strongly agree. Finally, participants’ level of self-regulation was measured on a Likert-type scale with three items from Meule et al. (2012), where 1 = not at all (i.e. the item did not describe the participant) to 7 = very much.
+
+The study follows a survey-based quantitative research design. An online questionnaire was prepared on Google Forms, distributed through Facebook and WhatsApp to potential respondents because of the COVID-19 situation. Following a non-probability judgmental sampling technique (Malhotra, 2019). The sampling method fulfills the three criteria for judgmental sampling:
+
+respondents’ participation in the survey is voluntary;
+
+respondents’ have experience dining at a restaurant; and
+
+respondents are aged between 18 and 40 years.
+
+Three trained researchers selected respondents from Facebook and WhatsApp groups like restaurant-review groups (e.g. Review Arena) and restaurant brand communities from Islamabad, Pakistan. When the interviewers distribute the questionnaires to these selected groups, they explained the purpose and nature of the study before asking group members to participate in the survey. Among those who were willing, questionnaires were distributed to those who met all three criteria.
+
+We collected data only from consumers aged 18–40 years because they are more prone than other age groups are to obesity and overweight (Elliott, 2018; Munt et al., 2017) because of their sedentary lifestyles (Kim and Seo, 2020). Today’s young adults tend to spend more time on mobile applications than they do engaging in physical activity. The emergence of the COVID-19 pandemic aggravated this tendency, as more young people study and work from home. Young adults also experience numerous life-changing events as they transition from university to professional life, engage in relationships and spend time and energy pursuing their dreams (Poobalan and Aucott, 2016). As a result, young people tend to develop poor eating habits and to dine out frequently, both of which contribute to obesity and overweight. Young adults consume energy-dense food because of social norms, convenience and poor cooking skills (Livingstone et al., 2021). The sedentary lifestyle, adoption of energy-dense food and lack of exercise contribute to overweight and obesity, often leading to metabolic disorders, cardiovascular diseases, diabetes and cancer in later life (Jakubiak et al., 2021). This population has a great deal to lose from developing obesity and a great deal to gain from adopting a healthful diet.
+
+The questionnaire had three sections. The first section briefed the respondents about the research topic, the confidentiality of their responses and the aggregation of their responses to compute the results. The questionnaire did not require identity information like name or contact details.
+
+The second section contained all the question items for the key variables. The respondents were asked to select a restaurant brand that they saw as promoting healthful food and to answer the questions based on their experience with that restaurant brand. The respondents were also asked to recall whether they had seen advertisements from the restaurant they chose that promoted healthful food and to respond to the questionnaire based on that exposure. This procedure aligns with studies that follow a survey-based research design to examine advertisements’ effectiveness (Chan et al., 2021; Giese et al., 2015). For instance, Giese et al. (2015) ask respondents to recall television advertisements from any of several food brands and to indicate whether they had consumed that food. Similarly, Hyun et al. (2011) ask patrons to recall an advertisement they had seen within the last three months to measure the effects of advertisement on patrons’ emotional responses. In another study, Díaz-Ramírez et al. (2013) ask mothers to recall television advertisements of food-related items and examined their association with the respondents’ consumption of the advertised food.
+
+The third section collected demographic information and closed the questionnaire with a statement of gratitude. Three trained researchers distributed the questionnaire to the respondents, and 310 valid responses were received. Table 2 reports that the respondents consisted of 48% women. Thirty-nine percent of the respondents were 18–24 years old, 28% were 25–30 years old, and 24% were 31–35 years old. Sixty-two percent of the respondents were either self-employed or employed in public or private institutions.
+
+The study’s data analysis follows a two-step approach:
+
+first, conducting a confirmatory factor analysis to establish the reliability and validity of the data; and
+
+then testing the proposed hypotheses using the structural equation modeling technique with MPlus version 8.3.
+
+We addressed the issue of common method bias (CMB) at the data collection stage, when we informed the respondents that there were no right or wrong answers, that they should complete the survey honestly and that their responses will be kept confidential and would be used only in aggregated form to perform data analysis. We also addressed the issue of CMB by using Harman’s single factor test (Podsakoff et al., 2003), which showed that the common factor explains only 28.43% of the variance, so CMB is not likely to be an issue.
+
+The measurement model shows an acceptable fit with the data, as the ratio of chi-square to the degree of freedom (χ2/d.f = 1.52), Comparative Fit Index (CFI) (0.938), Tucker-Lewis Index (TLI) (0.928), root mean square error of approximation (RMSEA) (0.041) and standardized root mean square residual (SRMR) (0.048) are well under the cut-off criteria (Hair et al., 2010). Confirmatory factor analysis results, presented in Table 3, indicate that all the measurement constructs meet the reliability and validity criteria (Fornell and Larcker, 1981; Hair et al., 2010). The composite reliability (CR) for all constructs but the flexibility dimension of CW, which we excluded from the analysis, is higher than 0.70. The factor loadings of all the question items are higher than 0.50, which establishes convergent validity. We dropped three items from healthy eating attitude with factor loadings below 0.50.
+
+We established discriminant validity by comparing the inter-scale correlation with the square root of the average variance extracted (AVE) of the corresponding measures (Fornell and Larcker, 1981). The statistics presented in Table 4 support discriminant validity, as the values of the inter-scale correlations are lower than their corresponding AVE values. However, the AVE of the reasoning dimension of CW is slightly lower than its inter-scale correlations with perspective, purpose and healthy eating attitude, so we performed chi-square difference test for these pairs by comparing unconstrained and constrained (constraining their correlation to 1) models. The chi-square difference tests are significant, (Δχ2 Reasoning and Perspective = 62.34, p = 0.000), (Δχ2 Reasoning and Purpose = 146.65, p = 0.000) and (Δχ2 Reasoning and HEA = 79.06, p = 0.000), showing that the unconstrained model for each pair of constructs is better than the constrained model and that the two constructs cannot be combined into a single measure.
+
+The structural model fits well with the data, as the model fit indices (i.e. Chi-square to degrees of freedom ratio [χ2/d.f = 1.70] CFI [0.915], TLI [0.903], RMSEA [0.048] and SRMR [0.056]) meet the model fitness criteria (Hair et al., 2010; Shah and Goldstein, 2006). The results of the structural model are presented in Table 5. The standardized regression weights support hypotheses H1a, H1b, H1c, H1d and H1e, that HFA has a positive effect on the CW dimensions of responsibility (β = 0.657, p < 0.05), purpose (β = 0.709, p < 0.05), perspective (β = 0.772, p < 0.05), reasoning (β = 0.864, p < 0.05) and sustainability (β = 0.745, p < 0.05), respectively. HFA has the strongest impact on the reasoning dimension and the least impact on the responsibility dimension. Hypothesis H2 is partially supported, as four dimensions of wisdom – responsibility (β = 0.488, p < 0.05), purpose (β = 0.274, p < 0.05), reasoning (β = 0.481, p < 0.05) and sustainability (β = 0.309, p < 0.05) (H2a, H2b, H2d and H2e, respectively) – significantly enhance young consumers’ healthy eating attitude. However, the perspective dimension (H2c) does not influence the healthy eating attitude. Similarly, hypothesis H3 is partially supported, as two dimensions of wisdom – responsibility (β = 0.282, p < 0.05) and sustainability (β = 0.318, p < 0.05) (H3a and H3e, respectively) – have a positive impact on young consumers’ self-regulation. The other three dimensions – purpose, perspective and reasoning – do not meet the criterion for significance.
+
+We rejected hypothesis H4, which proposes that HFA has a positive effect on healthy eating attitude and self-regulation. This result was unexpected, as the literature suggests that marketing communications (e.g. labeling and information about healthful ingredients) enhance consumers’ healthy eating attitude (Oostenbach et al., 2019). Therefore, to reconfirm hypothesis H4, we ran a simple model (Model 1) that incorporates HFA, the healthy eating attitude and successful self-regulation. The results, presented in Table 5, reveal that HFA has a positive influence on healthy eating attitude and self-regulation when these factors are examined directly. However, the explanatory power of this model remains small, as it explains only a 5% variance in self-regulation and a 17% variance in healthy eating attitude. In contrast, when we introduced CW as a mediator in Model 2, the explanatory power increased, as this model explains 27% of the variance in self-regulation and 75% of the variance in healthy eating attitude. These results make clear that CW is the underlying mechanism that connects HFA with healthy eating attitude and self-regulation. Therefore, HFA becomes more effective in enhancing the healthy eating attitude and self-regulation when it is mediated by CW. The indirect effects documented in Table 5 show that the responsibility, purpose, reasoning and sustainability dimensions of CW mediate HFA’s relationship with healthy eating attitude, supporting hypotheses H5a, H5b, H5d and H5e. We also accept hypotheses H6a and H6e, as the responsibility and sustainability dimensions mediate HFA’s relationship with successful self-regulation.
+
+We analyzed all of the indirect effects using MPlus’s delta method. The delta method is an alternative to the Sobel test, which has similar robustness and statistical rigor (Hussain et al., 2021; Junaid et al., 2019; MacKinnon, 2012). Therefore, the results of our analysis (indirect effects) do not need further validation through an additional Sobel test.
+
+Marketing plays an ever-increasing role in shaping consumers’ lifestyle, personal character and intellectual ability as it relates to healthful eating (Silchenko and Askegaard, 2021). This study’s findings reveal that HFA enhances consumers’ responsibility, purpose, perspective, reasoning and transcendence as they relate to healthful food choices. These findings corroborate the extant literature that claims that marketing communications influence consumers’ knowledge, beliefs and understanding about healthful food choices (Boswell et al., 2018; Fu et al., 2021; Murphy et al., 2020; Roose and Mulier, 2020).
+
+This study’s finding that CW enhances young consumers’ healthy eating attitude and self-regulation is consistent with the tenets of CW theory (Luchs and Mick, 2018; Luchs et al., 2021), which states that individuals pursue personal well-being through mindful consumption. Similarly, our study substantiates Kareklas et al.’s (2014) insight that consumers’ concern for personal, social and environmental well-being increases their consumption of organic food.
+
+This study also finds that CW establishes a mindful connection of HFA with the healthy eating attitude and self-regulation. The results show that CW explains the underlying mechanisms for how HFA helps young consumers avoid obesity by enhancing their healthy eating attitude and their self-regulation; HFA do not directly change consumers’ healthy eating attitude, as the relationship is mediated by the dimensions of CW. Our study demonstrates that HFA helps consumers to reconsider and align their responsibility, purpose and perspective toward prioritizing health and fitness. Similarly, HFA enhances consumers’ knowledge and understanding as reflected in their evaluation of food choices and their health benefits and risks. These findings validate the extant literature that emphasizes that marketing communications help consumers to make informed decisions about food choices (Helfer and Shultz, 2014; Murphy et al., 2020; Roose and Mulier, 2020).
+
+Our study offers several theoretical contributions. First, it extends recently framed CW theory in the context of the hospitality sector by investigating young consumers’ pursuit of personal and communal well-being through mindful consumption of healthful food (Luchs and Mick, 2018). Similarly, the study responds to research calls to examine the antecedents and outcomes of CW (Luchs and Mick, 2018; Luchs et al., 2021). Second, the study contributes to the advertising literature by making an initial attempt to delineate the role of HFA in nudging CW toward a positive healthy eating attitude. Third, the study enhances academics’ understanding of the psychological antecedents – the dimensions of CW – that may help young consumers avoid obesity. Our study offers in-depth insights on how the responsibility, purpose, perspective, reasoning and sustainability dimensions of CW enhance the healthy eating attitude and self-regulation.
+
+This study has several implications for consumers, restaurant operators, hospitality managers, brand managers, governments and society in general. At the consumer level, these findings suggest that restaurant brands’ HFA compliments consumers’ lifestyles by helping them manage their resources and encouraging them to spend money only on their actual needs – that is, utilitarian (nutritional) vs hedonic (enjoyment) needs. Thus, HFA saves consumers from spending resources on unhealthful options and mitigates the possibility of negative post-purchase feelings. Our findings show that HFA guides consumers to pursue personal growth and aspire to the healthful lifestyle that allows consumers to inspire, impress and nurture relationships with the groups and individuals they desire. HFA also helps individuals to evaluate their past consumption choices critically and rationalize their future buying by appraising multiple aspects of their food choices and anticipating those choices’ potential consequences before purchase. HFA elevates consumers’ knowledge and understanding of products’ attributes and features and helps them to acquire relevant information about available options in a product/service category.
+
+Since January 2019, the COVID-19 pandemic has intensified the discussion about interactions between humans and nature. Humans cannot ignore nature, even at the individual level, in making decisions. Our results suggest that HFA by restaurant brands significantly motivates consumers to engage in pro-social and environmentally friendly consumption. Consequently, they are willing to pay a higher price to procure food from restaurants that adhere to ethical and sustainable standards. The results show, then, that consumers’ sense of responsibility – rational lifestyle and financial management – enhances their healthy eating attitude. The second wisdom dimension, purpose, also influences consumers’ attitude in favor of healthful food consumption. Purpose measures ones’ personal and relational goals, and healthful eating contributes to achieving these goals because it can result in a fitter, smarter individual. Therefore, purpose helps consumers navigate toward a healthy eating attitude.
+
+The reasoning dimension of CW significantly influences the attitude toward healthful eating, as consumers’ food selection depends on their awareness of food’s attributes and features. Reasoning demands consumers do the homework of weighing the available options and empowers them to purchase the products/services that offer the best value for the money. The sustainability dimension of CW also has a positive impact on consumers’ healthy eating attitude, which translates into eating good food. Consumers’ choosing environmental and pro-social consumption drives them away from unhealthful food, that is, junk food. The significant positive impact of responsibility on self-regulation manifests in consumers’ choice to have a life that suits their means and pushes them to regulate themselves. The sustainability dimension also has a positive impact on self-regulation and accentuates one’s orientation toward pro-social consumption and concern for the environment.
+
+Wise consumers directly contribute to society’s well-being, as society is a unified combination of individuals, where edified consumers can constitute a better community. According to CW theory (Luchs and Mick, 2018), consumers strive for personal and communal well-being by making mindful consumption decisions. Effective self-regulation and a positive healthy eating attitude increase the self-esteem of healthy and fit consumers, which ultimately produces a strong society.
+
+Our study’s finding that HFA influences CW may help advertisers to spend their money effectively by creating ads that show consumers how healthful food may enhance their personal and collective well-being. Boswell et al. (2018) explain that providing cognitive training on the benefits of eating healthful food and the risks of unhealthful food can change consumers’ attitudes. While arranging such training for the whole population may not be practicable, restaurant brands can adopt HFA as a way to change CW and consumers’ consumption patterns.
+
+Schmidt and Eisend (2015) assert that repetition of advertising enhances consumers’ learning about advertised products. Therefore, the restaurant brands should run their advertisements repeatedly to augment consumers’ learning about healthful foods. Each advertisement should run for at least 30 s, as such long commercials are more effective than shorter advertisements are in enhancing consumers’ learning (Jeong et al., 2011; Singh and Cole, 1993). In addition, advertisements for healthful food should deliver information pertaining to ingredients, nutrition value, health benefits and the food’s effect on consumers’ everyday lives. When delivered in an engaging way, such information will enhance consumers’ understanding, knowledge and beliefs about the healthful food products offered by the restaurant and help to reshape their consumption patterns. Vaillancourt et al. (2019) find that pleasure-oriented messages are more effective in enhancing healthful eating than health-oriented messages are, so advertisements for healthful food should present healthful food in an engaging way to associate pleasure with healthful food. Bublitz and Peracchio (2015) suggest that manufacturers of healthful food follow industry practices, such as hedonic appeals of pleasure, fun, excitement and sensory stimulation to promote healthful food. Hedonic and emotional appeals may encourage consumers to adopt a positive attitude toward eating healthful food.
+
+Our findings may also help government institutions and regulatory bodies in formulating policy. These institutions could offer subsidies for HFA on mainstream media platforms. They could also run awareness campaigns that elaborate on the benefits of adopting a positive attitude toward eating healthful food and denounce junk foods. In addition, these bodies could require restaurant brands to disclose ingredients and health benefits/risks in their advertisements. Government agencies could also educate consumers about the terminologies used in the food industry, such as “natural food,” “healthful food,” “organic food,” “artificial ingredients,” “genetically modified organisms,” “processed food” and so on. For instance, processed food may be healthful or unhealthful depending on the nature of the process used. Regulatory bodies could also advise food brands to mark their food packages with certain colors so consumers can easily understand the level of artificial ingredients in them and the processes used to produce them. For this purpose, regulatory bodies like the US Food and Drug Administration, the European Commission and the European Food Safety Authority could develop clear guidelines on what ingredients are healthful and what ingredients are not. They may also advise on how much food processing is optimal for human health. Restaurant brands may be advised to mention the ingredients – particularly artificial ones – calories and recommended quantity on their menus so consumers can choose accordingly. Restaurant and food brands could also be advised to disclose the nature of ingredients in their advertisements and encouraged to disseminate the health-related effects of their food. The regulatory bodies may also scrutinize restaurant and food brands’ advertisements and cross-check their nutritional claims through product tests.
+
+Like all studies, our study has limitations. For instance, because of COVID-19, we were able to collect data only through an online survey, as restaurants and other dining outlets were closed. Future research that physically approaches potential respondents may offer an opportunity to brief the respondents more effectively about study settings. After the COVID-19 restrictions are lifted, researchers could investigate the influence of HFA on the frequency with which consumers eat homemade food versus eating at a restaurant. In addition, our study collects data from young consumers only, but other age groups are also at risk of obesity, so future research may investigate the impact of HFA on other age groups’ attitude toward eating healthful food. We did not examine the moderating role of respondents’ weight and height so future studies may consider body mass index as a moderating variable to determine its influence on the relationship between HFA and attitude toward eating healthful food. Finally, while the current study follows a survey-based research design to investigate the impact of HFA, future research may follow an experimental research design to determine the role of various advertising stimuli in the context of healthful food.
+
+The research on CW is still in its infancy, as the theory (Luchs and Mick, 2018) and the construct (Luchs et al., 2021) are only recently added to the body of consumer inventory. Future research may explore the outcomes and antecedents of CW in the context of food consumption, hospitality and tourism. In particular, future research could examine the role of CW in consumer choices pertaining to fast food, energy drinks, organic food and restaurant selection. Future research may also delineate the relationship of CW with food waste, sustainable food consumption and willingness to pay higher prices for healthful food. On the other end of the spectrum, future research may also investigate how the advertising of fast food, energy drinks and calorie-dense food brands affects CW. The government enacts regulations on food advertising and runs campaigns to promote healthful eating among consumers, but these initiatives have not yet yielded the desired results, so future research could also investigate why these initiatives fail.
+
+Theoretical model
+
+CW dimensions
+
+Demographic profile of respondents
+
+Confirmatory factor analysis
+
+Mean, standard deviation, correlation matrix and AVE
+
+Statistics of structural model: standardized estimates
+
+*** = p < 0.000, ** = p < 0.01, * = p < 0.05
+
+Akbari, M. (2015), “Different impacts of advertising appeals on advertising attitude for high and low involvement products”, Global Business Review, Vol. 16 No. 3, pp. 478-493.
+
+Andrade, L., Zazpe, I., Santiago, S., Carlos, S., Bes-Rastrollo, M. and Martínez-González, M.A. (2017), “Ten-year changes in healthy eating attitudes in the SUN cohort”, Journal of the American College of Nutrition, Vol. 36 No. 5, pp. 319-329.
+
+Andrews, J.C., Netemeyer, R.G. and Burton, S. (2009), “The nutrition elite: do only the highest levels of caloric knowledge, obesity knowledge, and motivation matter in processing nutrition ad claims and disclosures?”, Journal of Public Policy and Marketing, Vol. 28 No. 1, pp. 41-55.
+
+Anin, C. and Helme-Guizon, A. (2020), “Food app-reciation: how nutrition-related apps shape food choices and consumer wisdom? A case study approach”, ACR North American Advances.
+
+Bagnjuk, J., König, H.-H. and Hajek, A. (2019), “Personality traits and obesity”, International Journal of Environmental Research and Public Health, Vol. 16 No. 15, p. 2675.
+
+Boswell, R.G., Sun, W., Suzuki, S. and Kober, H. (2018), “Training in cognitive strategies reduces eating and improves food choice”, Proceedings of the National Academy of Sciences of the United States of America, National Acad Sciences, Vol. 115 No. 48, pp. E11238-E11247.
+
+Bublitz, M.G. and Peracchio, L.A. (2015), “Applying industry practices to promote healthy foods: an exploration of positive marketing outcomes”, Journal of Business Research, Vol. 68 No. 12, pp. 2484-2493.
+
+Chan, K., Shi, J., Agante, L., Opree, S.J. and Rajasakran, T. (2021), “Applying regulatory fit theory and cultural values orientation to predict effectiveness of public service advertising appeals”, International Review on Public and Nonprofit Marketing, Vol. 19 No. 1, pp. 37-51, doi: 10.1007/s12208-021-00291-6.
+
+Chang, R.C.Y. (2017), “The influence of attitudes towards healthy eating on food consumption when travelling”, Current Issues in Tourism, Vol. 20 No. 4, pp. 369-390.
+
+Chang, E.C., Elizabeth, A.Y. and Kahle, E.R. (2014), “BMI, body discrepancy, and self-construal as predictors of eating disturbances in European and Asian American females”, Eating Behaviors, Vol. 15 No. 2, pp. 328-330.
+
+Clow, K.E. and Baack, D. (2018), Integrated Advertising, Promotion, and Marketing Communications, 8th ed., Pearson Education, Harlow.
+
+Cominato, L., Di Biagio, G.F., Lellis, D., Franco, R.R., Mancini, M.C. and de Melo, M.E. (2018), “Obesity prevention: strategies and challenges in Latin America”, Current Obesity Reports, Vol. 7 No. 2, pp. 97-104.
+
+Conner, M. and Norman, P. (2020), “Predicting long-term healthy eating behaviour: understanding the role of cognitive and affective attitudes”, Psychology and Health, pp. 1-17.
+
+Conner, M., McEachan, R., Taylor, N., O’Hara, J. and Lawton, R. (2015), “Role of affective attitudes and anticipated affective reactions in predicting health behaviors”, Health Psychology, Vol. 34 No. 6, pp. 642-652.
+
+Cronin, J., McCarthy, M., Brennan, M. and McCarthy, S. (2014), “The bigger society: considering lived consumption experiences in managing social change around obesity”, European Journal of Marketing, Vol. 48 Nos 9/10, pp. 1558-1578.
+
+Díaz-Ramírez, G., Jiménez-Cruz, A., de las, C., Souto-Gallardo, M. and Bacardí-Gascón, M. (2013), “Effect of the exposure to TV food advertisements on the consumption of foods by mothers and children”, Journal of Pediatric Gastroenterology and Nutrition, Vol. 56 No. 1, pp. 86-88.
+
+Elliott, C. (2018), “‘Grab Gatorade!’: food marketing, regulation and the young consumer”, European Journal of Marketing, Vol. 52 No. 12, pp. 2521-2532.
+
+Ellison, B. and Prescott, M.P. (2021), “Examining nutrition and food waste trade-offs using an obesity prevention context”, Journal of Nutrition Education and Behavior, Vol. 53 No. 5, pp. 434-444.
+
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable variables and measurement error”, Journal of Marketing Research, Vol. 18 No. 1, p. 39.
+
+Fu, X., Lin, B. and Wang, Y.-C. (2021), “Healthy food exposition attendees’ purchasing strategies: a mental budgeting perspective”, International Journal of Contemporary Hospitality Management, Vol. 33 No. 7, pp. 2352-2370.
+
+Ganassali, S. and Matysiewicz, J. (2021), “‘What a lot of things I don’t need!’: consumption satiation, self-transcendence and consumer wisdom”, Journal of Consumer Marketing, Vol. 38 No. 5, pp. 540-551.
+
+Giese, H., König, L.M., Tăut, D., Ollila, H., Băban, A., Absetz, P., Schupp, H. and Renner, B. (2015), “Exploring the association between television advertising of healthy and unhealthy foods, self-control, and food intake in three European countries”, Applied Psychology: Health and Well-Being, Vol. 7 No. 1, pp. 41-62.
+
+Guertin, C., Pelletier, L. and Pope, P. (2020), “The validation of the healthy and unhealthy eating behavior scale (HUEBS): examining the interplay between stages of change and motivation and their association with healthy and unhealthy eating behaviors and physical health”, Appetite, Vol. 144, p. 104487.
+
+Hair, J., Black, W., Babin, B. and Anderson, R. (2010), Multivariate Data Analysis: A Global Perspective, 7th ed., Vol. 7, Pearson Prentice Hall, Upper Saddle River, NY.
+
+Helfer, P. and Shultz, T.R. (2014), “The effects of nutrition labeling on consumer food choice: a psychological experiment and computational model”, Annals of the New York Academy of Sciences, Vol. 1331 No. 1, pp. 174-185.
+
+Hussain, K., Jing, F., Junaid, M., Zaman, Q.U. and Shi, H. (2021), “The role of co-creation experience in engaging customers with service brands”, Journal of Product and Brand Management, Vol. 30 No. 1, pp. 12-27.
+
+Hyun, S.S., Kim, W. and Lee, M.J. (2011), “The impact of advertising on patrons’ emotional responses, perceived value, and behavioral intentions in the chain restaurant industry: the moderating role of advertising-induced arousal”, International Journal of Hospitality Management, Vol. 30 No. 3, pp. 689-700.
+
+Jakubiak, G.K., Osadnik, K., Lejawa, M., Kasperczyk, S., Osadnik, T. and Pawlas, N. (2021), “Oxidative stress in association with metabolic health and obesity in young adults”, Oxidative Medicine and Cellular Longevity, Vol. 2021.
+
+Jeong, Y., Sanders, M. and Zhao, X. (2011), “Bridging the gap between time and space: examining the impact of commercial length and frequency on advertising effectiveness”, Journal of Marketing Communications, Vol. 17 No. 4, pp. 263-279.
+
+Jeong, E., Jang, S.S., Behnke, C., Anderson, J. and Day, J. (2019), “A scale for restaurant customers’ healthy menu choices: individual and environmental factors”, International Journal of Contemporary Hospitality Management, Vol. 31 No. 1, pp. 217-246.
+
+Jun, J. and Arendt, S.W. (2016), “Understanding healthy eating behaviors at casual dining restaurants using the extended theory of planned behavior”, International Journal of Hospitality Management, Vol. 53, pp. 106-115.
+
+Junaid, M., Hou, F., Hussain, K. and Kirmani, A.A. (2019), “Brand love: the emotional bridge between experience and engagement, generation-M perspective”, Journal of Product and Brand Management, Vol. 28 No. 2, pp. 200-215.
+
+Kareklas, I., Carlson, J.R. and Muehling, D.D. (2014), “I eat organic for my benefit and yours’: egoistic and altruistic considerations for purchasing organic food and their implications for advertising strategists”, Journal of Advertising, Vol. 43 No. 1, pp. 18-32.
+
+Kelly, B., Vandevijvere, S., Ng, S.H., Adams, J., Allemandi, L., Bahena-Espina, L., Barquera, S., Boyland, E., Calleja, P., Carmona‐Garcés, I.C. and Castronuovo, L. (2019), “Global benchmarking of children’s exposure to television advertising of unhealthy foods and beverages across 22 countries”, Obesity Reviews, Vol. 20 No. S2, pp. 116-128.
+
+Kim, H.-N. and Seo, K. (2020), “Smartphone-based health program for improving physical activity and tackling obesity for young adults: a systematic review and meta-analysis”, International Journal of Environmental Research and Public Health, Vol. 17 No. 1, p. 15.
+
+Kim, M., Lee, C., Kim, W.G. and Kim, J. (2013), “Relationships between lifestyle of health and sustainability and healthy food choices for seniors”, International Journal of Contemporary Hospitality Management, Vol. 25 No. 4, pp. 558-576.
+
+Kite, J., Gale, J., Grunseit, A., Li, V., Bellew, W. and Bauman, A. (2018), “From awareness to behaviour: testing a hierarchy of effects model on the Australian make healthy normal campaign using mediation analysis”, Preventive Medicine Reports, Vol. 12, pp. 140-147.
+
+Lawton, R., Conner, M. and McEachan, R. (2009), “Desire or reason: predicting health behaviors from affective and cognitive attitudes”, Health Psychology, Vol. 28 No. 1, pp. 56-65.
+
+Lee, K., Conklin, M., Bordi, P. and Cranage, D. (2016), “Restaurants’ healthy eating initiatives for children increase parents’ perceptions of CSR, empowerment, and visit intentions”, International Journal of Hospitality Management, Vol. 59, pp. 60-71.
+
+Lim, S.L., Teoh, C., Zhao, X., Umareddy, I., Grillo, V., Singh, S.S. and Khouw, I. (2020), “Attitudes and beliefs that influence healthy eating behaviours among mothers of young children in Singapore: a cross-sectional study”, Appetite, Vol. 148, p. 104555.
+
+Livingstone, K.M., Sexton-Dhamu, M.J., Pendergast, F.J., Worsley, A., Brayner, B. and McNaughton, S.A. (2021), “Energy-dense dietary patterns high in free sugars and saturated fat and associations with obesity in young adults”, European Journal of Nutrition, Vol. 61 No. 3, pp. 1595-1607.
+
+Luchs, M.G. and Mick, D.G. (2018), “Consumer wisdom: a theoretical framework of five integrated facets”, Journal of Consumer Psychology, Vol. 28 No. 3, pp. 365-392.
+
+Luchs, M.G., Mick, D.G. and Haws, K. (2020), “A scale of consumer wisdom: an abstract”, Academy of Marketing Science World Marketing Congress, Springer, Switzerland, AG, pp. 487-488.
+
+Luchs, M.G., Mick, D.G. and Haws, K.L. (2021), “Consumer wisdom for personal well-being and the greater good: scale development and validation”, Journal of Consumer Psychology, Vol. 31 No. 3, pp. 587-611, doi: 10.1002/jcpy.1224.
+
+Lyn, R., Heath, E. and Dubhashi, J. (2019), “Global implementation of obesity prevention policies: a review of progress, politics, and the path forward”, Current Obesity Reports, Vol. 8 No. 4, pp. 504-516.
+
+MacKinnon, D.P. (2012), Introduction to Statistical Mediation Analysis, Taylor and Francis, New York, NY, doi: 10.4324/9780203809556.
+
+Malhotra, N.K. (2019), Marketing Research: An Applied Orientation, Pearson Education, Pearson, doi: 10.2307/3151953.
+
+Meule, A., Papies, E.K. and Kübler, A. (2012), “Differentiating between successful and unsuccessful dieters. Validity and reliability of the perceived self-regulatory success in dieting scale”, Appetite, Vol. 58 No. 3, pp. 822-826.
+
+Mick, D.G. (2008), “Degrees of freedom of will: an essential endless question in consumer behavior”, Journal of Consumer Psychology, Vol. 18 No. 1, pp. 17-21.
+
+Mick, D.G. and Schwartz, B. (2012), “Can consumers be wise? Aristotle speaks to the 21st century”, Transformative Consumer Research for Personal and Collective Well-Being, Routledge, London, pp. 691-708.
+
+Mick, D.G., Bateman, T.S. and Lutz, R.J. (2009), “Wisdom: exploring the pinnacle of human virtues as a central link from micromarketing to macromarketing”, Journal of Macromarketing, Vol. 29 No. 2, pp. 98-118.
+
+Munt, A.E., Partridge, S.R. and Allman-Farinelli, M. (2017), “The barriers and enablers of healthy eating among young adults: a missing piece of the obesity puzzle: a scoping review”, Obesity Reviews, Vol. 18 No. 1, pp. 1-17.
+
+Murphy, G., Corcoran, C., Tatlow-Golden, M., Boyland, E. and Rooney, B. (2020), “See, like, share, remember: adolescents’ responses to unhealthy-, healthy-and non-food advertising in social media”, International Journal of Environmental Research and Public Health, Vol. 17 No. 7, p. 2181.
+
+O’dea, J.A. (2006), “Self-concept, self-esteem and body weight in adolescent females: a three-year longitudinal study”, Journal of Health Psychology, Vol. 11 No. 4, pp. 599-611.
+
+Oostenbach, L.H., Slits, E., Robinson, E. and Sacks, G. (2019), “Systematic review of the impact of nutrition claims related to fat, sugar and energy content on food choices and energy intake”, BMC Public Health, Vol. 19 No. 1, pp. 1-11.
+
+Ortiz, S.E., Zimmerman, F.J. and Adler, G.J. (2016), “Increasing public support for food-industry related, obesity prevention policies: the role of a taste-engineering frame and contextualized values”, Social Science and Medicine, Vol. 156, pp. 142-153.
+
+Ouyang, Y. and Sharma, A. (2019), “Consumer-citizen willingness to pay for healthy eating messages”, International Journal of Contemporary Hospitality Management, Vol. 31 No. 2, pp. 890-909.
+
+Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P. (2003), “Common method biases in behavioral research: a critical review of the literature and recommended remedies”, Journal of Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+
+Poobalan, A. and Aucott, L. (2016), “Obesity among young adults in developing countries: a systematic overview”, Current Obesity Reports, Vol. 5 No. 1, pp. 2-13.
+
+Poria, Y., Beal, J. and Shani, A. (2021), “I am so ashamed of my body’: obese guests’ experiences in hotels”, International Journal of Hospitality Management, Vol. 92, p. 102728.
+
+Robinson, E., Haynes, A., Sutin, A. and Daly, M. (2020), “Self‐perception of overweight and obesity: a review of mental and physical health outcomes”, Obesity Science and Practice, Vol. 6 No. 5, pp. 552-561.
+
+Roose, G. and Mulier, L. (2020), “Healthy advertising coming to its senses: the effectiveness of sensory appeals in healthy food advertising”, Foods, Vol. 9 No. 1, p. 51.
+
+Rosi, A., Zerbini, C., Pellegrini, N., Scazzina, F., Brighenti, F. and Lugli, G. (2017), “How to improve food choices through vending machines: the importance of healthy food availability and consumers’ awareness”, Food Quality and Preference, Vol. 62, pp. 262-269.
+
+Russell, S.J., Croker, H. and Viner, R.M. (2019), “The effect of screen advertising on children’s dietary intake: a systematic review and meta-analysis”, Obesity Reviews, Vol. 20 No. 4, pp. 554-568.
+
+Schmidt, S. and Eisend, M. (2015), “Advertising repetition: a meta-analysis on effective frequency in advertising”, Journal of Advertising, Vol. 44 No. 4, pp. 415-428.
+
+Shah, R. and Goldstein, S.M. (2006), “Use of structural equation modeling in operations management research: looking back and forward”, Journal of Operations Management, Vol. 24 No. 2, pp. 148-169.
+
+Silchenko, K. and Askegaard, S. (2021), “Powered by healthism? Marketing discourses of food and health”, European Journal of Marketing, Vol. 55 No. 1, pp. 133-161.
+
+Singh, S.N. and Cole, C.A. (1993), “The effects of length, content, and repetition on television commercial effectiveness”, Journal of Marketing Research, Vol. 30 No. 1, p. 91.
+
+Sternberg, R.J. (1998), “A balance theory of wisdom”, Review of General Psychology, Vol. 2 No. 4, pp. 347-365.
+
+Stout, P.A. and Rust, R.T. (1993), “Emotional feelings and evaluative dimensions of advertising: are they related?”, Journal of Advertising, Vol. 22 No. 1, pp. 61-71.
+
+Tan, L., Ng, S.H., Omar, A. and Karupaiah, T. (2018), “What’s on YouTube? A case study on food and beverage advertising in videos targeted at children on social media”, Childhood Obesity, Vol. 14 No. 5, pp. 280-290.
+
+Tarabashkina, L., Quester, P.G. and Crouch, R. (2017), “Children and energy-dense foods – parents, peers, acceptability or advertising?”, European Journal of Marketing, Vol. 51 Nos 9/10, pp. 1669-1694.
+
+Vaamonde, J.G. and Álvarez-Món, M.A. (2020), “Obesity and overweight”, Medicine (Spain), Vol. 13, pp. 767-776, doi: 10.1016/j.med.2020.07.010.
+
+Vaillancourt, C., Bédard, A., Bélanger-Gravel, A., Provencher, V., Bégin, C., Desroches, S. and Lemieux, S. (2019), “Promoting healthy eating in adults: an evaluation of pleasure-oriented versus health-oriented messages”, Current Developments in Nutrition, Vol. 3 No. 5, p. nzz012.
+
+Vukmirovic, M. (2015), “The effects of food advertising on food-related behaviours and perceptions in adults: a review”, Food Research International, Vol. 75, pp. 13-19.
+
+WHO (2020), “Obesity”, available at: www.who.int/news-room/facts-in-pictures/detail/6-facts-on-obesity
+
+Wijayaratne, S.P., Reid, M., Westberg, K., Worsley, A. and Mavondo, F. (2018), “Food literacy, healthy eating barriers and household diet”, European Journal of Marketing, Vol. 52 No. 12, pp. 2449-2477.
+
+Wilding, J. and Ralston, J. (2021), “COVID-19 and obesity: the 2021 atlas the cost”.
+
+Yoo, C.Y., Kim, K. and Stout, P.A. (2004), “Assessing the effects of animation in online banner advertising”, Journal of Interactive Advertising, Vol. 4 No. 2, pp. 49-60.
+
+Zhang, H., Sun, J., Liu, F. and Knight, J.G. (2014), “Be rational or be emotional: advertising appeals, service types and consumer responses”, European Journal of Marketing, Vol. 48 Nos 11/12, pp. 2105-2126.
+
+Khalid Hussain is currently serving as an Assistant Professor at the Department of Marketing, Sultan Qaboos University, Muscat, Oman. His main areas of research interest include services and hospitality marketing, consumer–brand relationship, brand love, relationship marketing and consumer behavior. He has published a good number of research articles in peer-reviewed international journals including European Journal of Marketing, Journal of Business and Industrial Marketing, Journal of Product and Brand Management, Journal of Brand Management, Journal of Service Theory and Practice, Journal of Hospitality and Tourism Management, Asia Pacific Journal of Tourism Research and International Journal of Market Research among others.
+
+Muhammad Junaid has received PhD in marketing and currently serving as an Assistant Professor at the Department of Management, COMSATS University Islamabad, Sahiwal Campus. His main areas of research interest include relationship marketing, brand love, services marketing, tourism marketing and consumer behavior. He has published good number of research articles in peer reviewed international journals including European Journal of Marketing, Journal of Hospitality and Tourism Management, Asia Pacific Journal of Tourism Research, Journal of Product and Brand Management, Journal of Brand Management, Journal of Service Theory and Practice, Journal of Business and Industrial Marketing, International Journal of Market Research and Journal of Retailing and Consumer Services.
+
+Muzhar Javed is currently serving as an Assistant Professor at the Department of Management Sciences, COMSATS University Islamabad, Sahiwal Campus. His main areas of research interest include human psychology, business ethics, corporate social responsibility, responsible leadership and governance. He has authored a good number of research articles that have appeared in leading journals including Academy of Management Journal, Journal of Cleaner Production, Corporate Social Responsibility and Environmental Management and Leadership and Organizational Development Journal.
+
+Moazzam Ali is a Research Scholar and Teacher of Marketing. He has received his MS in marketing from the Institute of Business Management Sciences, University of Agriculture Faisalabad, Pakistan, with distinction and is currently serving as a Lecturer at COMSATS University Islamabad, Sahiwal Campus. He has taught courses and supervised many projects in multiple higher educational institutions of Pakistan. His area of research interest encompasses services marketing, green branding, brand management, services management, marketing education, consumer behavior and retail management.
+
+Asif Iqbal is a PhD Scholar of Marketing at the Faculty of Management Sciences, Islamic International University Islamabad, Pakistan. His research interests include consumer psychology, consumer behavior and relationship marketing. He has published couple of research articles in peer-reviewed journals.
+
+Consumer wisdom: a mindful connection between healthy food advertising and obesity prevention
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+1. Introduction
+
+2. Literature review and hypotheses development
+
+3. Methodology
+
+4. Results
+
+5. Discussion
+
+6. Limitations of the study and future directions
+
+Figures
+
+Table 1.
+
+Table 2.
+
+Table 3.
+
+Table 4.
+
+Table 5.
+
+References
+
+Corresponding author
+
+About the authors
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+European Journal of Marketing
+
+Volume 56 Issue 11
+
+Consumer wisdom: a mindful connection between healthy food advertising and obesity prevention
+
+Abstract
+
+1. Introduction
+
+2. Literature review and hypotheses development
+
+3. Methodology
+
+4. Results
+
+5. Discussion
+
+6. Limitations of the study and future directions
+
+Consumer wisdom
+
+Healthful food advertising
+
+Obesity prevention
+
+Healthy eating attitude
+
+Self-regulatory success
+
+Young consumers
+
+Self-regulation
+
+Healthy food advertising
+
+respondents’ participation in the survey is voluntary;
+
+respondents’ have experience dining at a restaurant; and
+
+respondents are aged between 18 and 40 years.
+
+first, conducting a confirmatory factor analysis to establish the reliability and validity of the data; and
+
+then testing the proposed hypotheses using the structural equation modeling technique with MPlus version 8.3.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+1. Intentionality
+
+1a) Lifestyle envisionment
+
+I. Responsibility
+
+The refined framework introduces “responsibility” as a new dimension that combines two dimensions of intentionality (i.e. 1a and 1b) with one dimension of emotional mastery (i.e. 2a)
+
+1b) Personal resource management
+
+2. Emotional mastery
+
+2a) Avoidance of negative emotions
+
+2b) Pursuit of positive emotions
+
+II. Purpose
+
+“Purpose” is the second dimension that interweaves two different dimensions 2b and 3a, from emotional mastery and openness facets in a single dimension
+
+3. Openness
+
+3a) Growth mindset
+
+3b) Alternative consumption
+
+III. Flexibility
+
+The “flexibility” dimension simply measures the alternative consumption (3b) dimension of the openness facet
+
+4. Contemplation
+
+4a) Retrospection
+
+IV. Perspective
+
+The refined framework divides the contemplation facet into two dimensions. The “perspective” dimension builds on two dimensions retrospection (4a) and prospection (4b)
+
+4b) Prospection
+
+4c) Prudent reasoning
+
+V. Reasoning
+
+The “reasoning” dimension mirrors prudent reasoning (4c)
+
+5. Transcendence
+
+5a) Compassion
+
+VI. Sustainability
+
+The “sustainability” dimension represents the transcendence facet. It measures compassion (5a) and interbeing (5b) dimensions
+
+5b) Interbeing
+
+Gender
+
+Male
+
+162
+
+52
+
+Female
+
+148
+
+48
+
+Age
+
+18–24 years
+
+121
+
+39
+
+25–30 years
+
+88
+
+28
+
+31–35 years
+
+75
+
+24
+
+36–40 years
+
+26
+
+09
+
+Education
+
+Undergraduate
+
+141
+
+45
+
+Graduate
+
+132
+
+43
+
+Other
+
+37
+
+12
+
+Profession
+
+Govt. sector employee
+
+54
+
+17
+
+Private sector employee
+
+120
+
+39
+
+Self-employed
+
+19
+
+06
+
+Student
+
+107
+
+35
+
+Other
+
+10
+
+03
+
+Weight
+
+50 kg or below
+
+72
+
+23
+
+51–55 kg
+
+73
+
+24
+
+56–60 kg
+
+67
+
+22
+
+61–65 kg
+
+34
+
+11
+
+66–70 kg
+
+32
+
+10
+
+71–75 kg
+
+07
+
+02
+
+76–80 kg
+
+12
+
+04
+
+81–85 kg
+
+06
+
+2
+
+86 kg or above
+
+07
+
+02
+
+N = 310
+
+(100)
+
+HFA (CR = 0.829)
+
+The restaurant brand’s advertising showed me that their food has certain health advantages
+
+0.607
+
+From the restaurant brand’s advertising, I learned something about the healthy food that I did not know about before
+
+0.658
+
+The message in their advertising was important to my everyday dining habits
+
+0.740
+
+The advertising introduced me to food I think I would like to try
+
+0.644
+
+The advertising gave me a new idea about my everyday dining habits
+
+0.644
+
+The advertising made me think that I might try this restaurant brand’s healthy food just to see if it is as good as they say
+
+0.711
+
+CW – responsibility (CR = 0.799)
+
+I have a realistic sense of the lifestyle that I can afford
+
+0.649
+
+I spend my money responsibly
+
+0.780
+
+I find it easy to focus on buying only what I really need without getting tempted by things that others have
+
+0.694
+
+I am able to resist temptation in order to achieve my budget and lifestyle goals
+
+0.698
+
+CW – purpose (CR = 0.826)
+
+I manage my budget so that I can spend some money on experiences that give me a lot of pleasure and joy
+
+0.748
+
+I prioritize spending some money on unique experiences that help me develop my full potential
+
+0.760
+
+I manage my budget so that I can spend some money on experiences that help me learn new things
+
+0.789
+
+I prioritize spending money on products and experiences that help me build and strengthen relationships with others
+
+0.646
+
+CW – perspective (CR = 0.773)
+
+Before I buy something, I consider my previous experiences with similar purchases
+
+0.658
+
+Before spending money on something, I visualize what the experience of eating healthy food is likely to be
+
+0.710
+
+Before I buy something, I consider the possible costs and benefits over time
+
+0.714
+
+Before I buy something, I make an effort to consider my options from multiple perspectives
+
+0.627
+
+CW – reasoning (CR = 0.718)
+
+I understand which health-related food features are the most important
+
+0.637
+
+I know when I have done enough research to make a good purchase decision
+
+0.634
+
+I know where and how to buy food items so that I get the best value
+
+0.633
+
+Before buying something, I know how to get the information that I need to make great choices
+
+0.590
+
+CW – sustainability (CR = 0.700)
+
+I buy products from restaurants brands that promote healthy food, even when they cost more
+
+0.600
+
+My consumption behaviors consistently reflect my concern for the healthy life
+
+0.640
+
+I buy products from restaurants brands that demonstrate that they share my ethical values
+
+0.617
+
+I spend time thinking about how we, as a global community, affect each other through our individual consumption choices
+
+0.545
+
+Healthy eating attitude (CR = 0.715)
+
+I really care about what to eat
+
+0.714
+
+Healthy foods are enjoyable
+
+0.708
+
+I know well what is supposed to be healthy and what is not healthy
+
+0.600
+
+Self-regulatory success (CR = 0.809)
+
+I am very successful in watching my weight
+
+0.761
+
+I am quite successful in losing my extra weight
+
+0.843
+
+It is easy for me to stay in shape
+
+0.807
+
+1. HFA
+
+4.95
+
+0.99
+
+0.668
+
+2. Responsibility
+
+5.37
+
+1.06
+
+0.345
+
+0.706
+
+3. Purpose
+
+5.40
+
+1.01
+
+0.383
+
+0.579
+
+0.736
+
+4. Perspective
+
+5.57
+
+0.98
+
+0.460
+
+0.540
+
+0.647
+
+0.678
+
+5. Reasoning
+
+5.51
+
+0.89
+
+0.578
+
+0.543
+
+0.638
+
+0.734
+
+0.623
+
+6. Sustainability
+
+5.17
+
+0.97
+
+0.556
+
+0.538
+
+0.535
+
+0.529
+
+0.630
+
+0.601
+
+7. Healthy eating attitude
+
+5.56
+
+1.01
+
+0.400
+
+0.740
+
+0.668
+
+0.628
+
+0.696
+
+0.636
+
+0.675
+
+8. Self-regulatory success
+
+4.70
+
+1.45
+
+0.240
+
+0.426
+
+0.286
+
+0.272
+
+0.358
+
+0.430
+
+0.395
+
+0.804
+
+HFA → Healthy eating attitude (HEA)
+
+0.413***
+
+0.070
+
+−0.614
+
+0.348
+
+HFA → Self-regulation (SRS)
+
+0.240*
+
+0.073
+
+−0.230
+
+0.385
+
+HFA → Responsibility
+
+0.657***
+
+0.047
+
+HFA → Purpose
+
+0.709***
+
+0.041
+
+HFA → Perspective
+
+0.772***
+
+0.041
+
+HFA → Reasoning
+
+0.864***
+
+0.039
+
+HFA → Sustainability
+
+0.745***
+
+0.047
+
+Responsibility → HEA
+
+0.488***
+
+0.085
+
+Purpose → HEA
+
+0.274**
+
+0.091
+
+Perspective → HEA
+
+0.177
+
+0.119
+
+Reasoning → HEA
+
+0.481*
+
+0.219
+
+Sustainability → HEA
+
+0.309*
+
+0.126
+
+Responsibility → SRS
+
+0.282**
+
+0.103
+
+Purpose → SRS
+
+−0.008
+
+0.134
+
+Perspective → SRS
+
+−0.010
+
+0.136
+
+Reasoning → SRS
+
+0.259
+
+0.233
+
+Sustainability → SRS
+
+0.318*
+
+0.144
+
+HFA → Responsibility → HEA
+
+0.321***
+
+0.064
+
+HFA → Purpose → HEA
+
+0.194**
+
+0.066
+
+HFA → Perspective → HEA
+
+0.137
+
+0.093
+
+HFA → Reasoning → HEA
+
+0.415**
+
+0.197
+
+HFA → Sustainability → HEA
+
+0.230**
+
+0.097
+
+HFA → Responsibility → SRS
+
+0.185**
+
+0.070
+
+HFA → Purpose → SRS
+
+−0.006
+
+0.073
+
+HFA → Perspective → SRS
+
+−0.008
+
+0.105
+
+HFA → Reasoning → SRS
+
+0.223
+
+0.203
+
+HFA → Sustainability → SRS
+
+0.237*
+
+0.111
+
+Construct
+
+R2
+
+R2
+
+Responsibility
+
+0.432
+
+Purpose
+
+0.503
+
+Perspective
+
+0.596
+
+Reasoning
+
+0.746
+
+Sustainability
+
+0.555
+
+HEA
+
+0.171
+
+0.754
+
+SRS
+
+0.058
+
+0.268

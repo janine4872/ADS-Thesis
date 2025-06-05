@@ -1,0 +1,345 @@
+Storage Preferences
+
+IEEE Software
+
+Code has become a tool for facilitating interaction in the fabric of our societies as well as a driver for social change. Diverse groups of people participate in co-creating the digital fabric that automates many aspects of modern society through the creation of civic technology.1,2 The development of civic tech is occurring globally,3 and many software professionals interact with or participate in civic code initiatives during their careers.
+
+Civic tech communities are at a unique intersection of technology-enabled change and social movements4 that has distinctive characteristics of interest to software engineering professionals. In this article, we share our experiences in exploring the relationship between software engineering and grassroots-driven civic code processes and practices within a case study.
+
+Saldivar et al. define civic technology as “technology (mainly information technology) that facilitates democratic governance among citizens.”2 In a wider view, civic tech references the diverse ways in which people are leveraging technology to influence change in society.4,5 In this article, we focus on the phenomenon from the latter perspective: people trying to influence change by creating civic technology rather than discussing systems that have been set up and well established.
+
+There are numerous creators of civic tech, ranging from commercial actors, to governments, nonprofit organizations, volunteer organizations, and loosely organized communities.3 These creators vary both in purpose2 and in terms of how participating individuals identify themselves as practitioners.1 The terms that civic tech communities and groups use to describe themselves include civic innovation, tech for good, civic crowdsourcing, free software, and community technology.1 Common in all of these projects is the fact that they address a societal need identified either by the public or together with the public, such as, for example, the need to quantify and publish air pollution by Sensor.Community across Europe (see “Case: Sensor.Community”). The scope of these technologies is continuously evolving, with some types of technology being reaffirmed through the years, such as 1) civic tools for participation in governance (for example, government services and open data initiatives), 2) advocacy tech to manage campaigns, 3) tools to crowdsource or manage a civic data commons, and 4) media and journalism tech to cover issues of shared interest, such as fighting disinformation.3
+
+Case: Sensor.Community
+
+Sensor.Community (https://sensor.community/en) is an international environmental activist movement based around a technology project that focuses on collecting and sharing evidence of poor air quality. With the collected evidence, participants are motivated to bring about a change in society for better air quality. The community started in 2016 as a local project created by citizens in Stuttgart, Germany, and it was initially supported by a crowdfunding campaign to enable other concerned residents to install air-quality sensors. Since then, Sensor.Community has quickly spread across Europe and worldwide (with more than 14,300 measurement sensors in 72 countries) and has had a real impact on policy making.
+
+One example is the Right to Clean Air European Union (EU) project, where citizens can use the sensors to collect evidence of infringements (https://www.right-to-clean-air.eu/fileadmin/Redaktion/Downloads/Laymans_report_ENG_Right_to_clean_Air.pdf). Evidence by Sensor.Community has also been utilized in court cases in Stuttgart (https://www.theguardian.com/cities/2017/mar/02/stuttgart-residents-sue-mayor-bodily-harm-air-pollution). Their sensors and data have also been used by the nongovernmental organization (NGO) Friends of the Earth Bulgaria, which has filed lawsuits for cleaner air in Sofia and public access to national air-quality data in related efforts (see the European Topic Centre on Air Pollution, Transport, Noise and Industrial Pollution report 2/2020 on public awareness published on 16 April 2021 in https://www.eionet.europa.eu/etcs/all-etc-reports).
+
+While Sensor.Community originally started as a local, co-designed project, it has now entered the orchestration and scaling-up part of its lifecycle. Sensor.Community is organized as a loose association of communities connected through a shared agenda for improving air quality, an interest in developing designs for shared hardware platforms, and a shared data processing platform.
+
+Existing communities mentor new ones, which contributes to localized solutions, such as translations, design ideas from co-creation workshops, or the connection of existing software to Sensor.Community application programming interfaces. The core team supports this model by connecting possible collaborators and maintaining a shared architecture. Collecting data into a shared platform and coordinating information campaigns allow communities to achieve more significant impact than when acting alone.
+
+Since this network of communities has grown, the participating groups have been able to focus on issues that are important to them. For example, some communities that are centered around makerspaces provide resources to help people build their own measurement devices or create localized versions of software. Environmental advocacy groups have used the central database for evidence of pollution, and community centers have used network resources to explore the issue of air quality in their neighborhoods.
+
+Sensor.Community shares materials by using FOSS licenses for software, firmware, and data. Server software is provided on GitHub using the Massachusetts Institute of Technology license, sensor firmware is redistributed under the GNU General Public License v3, and the environmental measurements database uses the Open Data Commons Open Database License. Web and media materials are provided under the Creative Commons license. There is also a small selection of utility scripts and other small programs that do not specify licenses.
+
+Currently, the project has transformed from an air-quality project to a global campaigner and infrastructure provider for several kinds of environmental data. Sensor.Community software developers aim to provide people with easy-to-use analytical tools and methods to leverage that data and work on engaging local and EU institutions.
+
+The phenomenon of public participation via coding has gained interest in the literature at the intersection of free and open source software (FOSS) and software for social good.6,7 Three key aspects characterize civic coding communities as differentiated from other FOSS communities: 1) civic tech goals are community issue centric rather than technology centric; 2) civic tech is focused on enabling public participation or empowering the public; and 3) especially in the grassroots, keystone players can have more experience in community governance over software product governance.4
+
+In this article, we define software engineers as people who are grounded in the practice of creating public or commercial software products or have formal training in software engineering. We contrast these civic coders with “civic hackers,” that is, people with diverse technology skills interested in public participation through temporary interventions. The two groups overlap, and it is common for civic coding grassroots to have participants who contribute skills other than programming, civic hackers, and formally trained software engineers with wide-ranging expertise. Civic tech can be built top down by public institutions, such as govtech, middle-out as facilitators between communities and civic organizations, or it can originate from the grassroots. We concentrate on civic tech projects that have originated from the grassroots, especially since government-originated civic tech has seen more attention and has more published best practices.
+
+Given the exploratory nature of this study, we selected an interpretivist multiple case study method for the following reasons:8
+
+With its diversity across cases, multiple case studies ensure richness and depth to aid in understanding a shared phenomenon of interest (in this case, civic coding in software engineering).
+
+This method enables the exploration of complex situations, allowing for the gathering of multiple perspectives from a range of sources, including contextual information.
+
+It is particularly useful when the unit of analysis is a process; this is consistent with the objective of this study.
+
+An interpretivist approach attempts to understand phenomena by comprehending the meanings people assign them and acknowledging that knowledge is socially constructed. In sociotechnical systems research, this approach has been applied to understand the context of a system and how both the context affects the system and the system, in turn, affects the context.
+
+The selection process for cases adhered to Stake’s criteria,8 whereby case studies were chosen based on
+
+relevance of the phenomenon of interest (cases had to be clear examples of civic coding)
+
+accessibility of information (only those cases where people agreed to be interviewed and to share relevant documents and experiences were considered)
+
+diversity across cases, whereby diversity was considered in terms of different sizes, domains, countries, and cultures.
+
+This process resulted in the selection of Sensor.Community as the main focus, which includes multiple cases in the form of participating communities from Bulgaria, Germany, Ireland, Poland, and the United Kingdom. Data were collected through 18 semistructured interviews with members of case study communities. Initial research on these communities has been presented in terms of an OSS ecosystem perspective9 and scaling up citizen science.10
+
+Our main exploratory research questions were the following: What kinds of software engineering processes emerge in grassroots communities? Which kinds of principles or best practices inform these processes? As a secondary question, we explored what best practices can be shared with the software engineering community as recommendations.
+
+The goals of our analysis were to find commonalities in these diverse interviews and situations and, once theoretical saturation is reached, condense the findings to a summary of lessons learned and best practices in the last analysis stage. When considering our position as academics in this research field, how to best promote the voice of the communities during interpretation, and how to make the findings useful for the software engineering community, it was decided that the research findings would be presented for
+
+software engineer professionals who are grounded in the practice of software engineering and interested in contributing to, but not familiar with, the phenomenon of civic tech
+
+software engineers employed by other stakeholders and tasked to engage with these communities.
+
+In the case analysis, we followed an inductive, qualitative data analysis process developed by Gioia et al.11 The first step consisted of multiple rounds of coding and tagging each of the 18 interviews, where we discovered and collected first-order concepts related to our research questions. From these concepts, we increased the level of abstraction and grouped related codes across interviews and cases into second-order themes, including, for example, “public use of solutions” and “examining digital inequalities.”
+
+In the last analysis step, we aggregated the second-order themes and identified the key best practices of successful public interest technology, which we formalized as the three pillars of civic tech. These three pillars, also visualized in Figure 1, are code empowering communities, where code needs to serve community needs; open and equitable participation, where no person who is affected by the code is excluded from code (“nothing about us without us”); and free and open source licensed software artifacts, where the publishing process of the code reflects agency and transparency as values. Openness as a general term refers to the values of transparency and the participatory nature of the communities. Free and open software contemplates the concept of FOSS. FOSS as a concept is discussed further in the section “Free and Open Source Licensed Artifacts.”
+
+Figure 1. Pillars of civic tech for social change.
+
+Finally, we ground the findings back into the data by using the three pillars as a lens to examine the case study. We use this lens of the three pillars to analyze our experiences in engaging with these projects to highlight issues and frame recommendations. The three pillars and recommendations for best practices are now explored in detail and illustrated with representative examples from coded interviews.
+
+…[they] were looking for indicators for deprived areas. And there’s an incinerator being built next to it. And this is one of the committee members who wanted to build this air quality sensor. He tried it and was having real trouble with it. He turned up at the hackerspace one day on our open day, and was wanting to build the sensor, but couldn’t do it. So I kind of sat down and helped him build the sensor. And at the end of it, he asked me if I wanted to do a workshop.—Interviewee from a new Sensor.Community group
+
+This pillar highlights how civic tech addresses matters of concern experienced in one or more societal settings, thus empowering communities to address pressing issues affecting their quality of life in a broad sense. Empowerment, in this case, is a multifaceted phenomenon. Civic tech scenarios should include
+
+enabling individuals’ proactive contributions toward addressing the issue at stake
+
+equipping communities to use their solutions.
+
+The former, in turn, can have various forms, such as taking an active role in achieving a deeper sociological understanding of the problem, in the co-design of a solution and its evaluation, and in providing more technical contributions toward its realization. With respect to the latter, the completed civic tech solution should be leveraged to take action toward addressing the original matter of concern.
+
+According to a survey of the civic tech field,1 two current issues in civic tech are related to empowering communities. First, there is empowerment through involvement in decision making and co-design. Second, there is empowerment through long-term sustainability of the project by considering long-term operation and maintenance instead of creating new projects.5 Ultimately, the grassroots coding of civic tech should, therefore, empower communities to be an active part of a complete participatory process,6 whereby problems are explored and established, goals for the solution are negotiated and agreed upon, the phased development is undertaken with a concurrent evaluation that is conducted with and for communities, and positive impact for society is achieved through adoption and usage behaviors. Furthermore, the communities or the project should be empowered through sufficient resourcing, know-how, and maintenance capability for the continued operation of newly co-created civic tech.1,6
+
+In Sensor.Community, this pillar is represented by activists and civic coders working together on issues that matter to their respective communities. Measurement features are co-created with the movement for cleaner air, and deployment sites are chosen by the community. The civic coders not only created a software and hardware platform, but also provided documentation and support among individual communities: more experienced communities provided advice and resources to less experienced ones. To support coordination, more technology-oriented participants set up central software and documentation repositories or communicated with hardware manufacturers to create easy-to-assemble kits. Sensor.Community was initially focused on particles; because of contributor interest, the devices and database have been adapted to measure noise, and the software has been translated into multiple languages. In this way, the participants’ interests have indirectly guided the growth of Sensor.Community.
+
+While some groups concentrate on supporting the technology and infrastructure, others concentrate on working with and empowering the communities to work on their local data. For example, a U.K. organization first assisted in measuring air quality through sensors and then hosted workshops wherein people from the community could interpret and analyze their air-quality data. This information enabled them to find cleaner travel routes, reflect on their travel behavior, and understand air pollution so that they could advocate for change on a larger scale.
+
+We’ve been trying to address the digital divide, those digital inequalities by co-creating. And we’re doing this by sharing stories, making connections, trying to create positive change, and exploring new tools and approaches in these workshops—amplifying their voices in a public forum.—Interviewee from a U.K. community organization
+
+The role of civic technologies in social change requires that they be examined not only as technological artifacts but also as political instruments. Just as the legal code in democratic systems is the result of citizens’ decisions, the computer code that facilitates civic interaction should be the result of the processes of participatory design. For societies that create technologies to be open and democratic, the design of civic technologies must involve participants in their own development process, which must reflect these values.
+
+This issue is perhaps the most significant one, given the existing inequalities in digital literacy. However, if modern democracies are to be mediated by civic technologies, it is essential that civic coding correspond to the needs and decisions expressed by communities. Accounting for and engaging in grassroots efforts that create code might be one part of a solution if these efforts, in turn, represent and genuinely work with the communities in which they are based.4,6 For example, a critique aimed at hackathons is that they take technical contributions and rarely give back in a sustainable manner.12 Often, the contribution is unidirectional, and the community affected by the technology is rarely part of the design phase or evaluation panel.
+
+Openness in both participation and technology and matching local needs, values, and priorities through centering communities have been found to be key factors for the flourishing and scaling up of citizen science efforts.10 Care should be taken that the project’s outcomes, such as data created in citizen science initiatives, become co-owned by the community.13
+
+In Sensor.Community, this pillar is reflected in its porous, open, and supportive organization. The network of communities comprising Sensor.Community includes activists, NGOs, citizen groups, and more technical groups that maintain and contribute to the platform. Different groups have different focuses, and people can find one that matches their interests or form a new one within their region. The group that initially developed the technology provided technical support and established communication channels among the individual groups, aiming at support instead of establishing a hierarchy. Ordinary people in the community who are passionate about air quality often become local key actors, and the groups do not become externally directed.
+
+Some participating organizations have made co-creation and community co-ownership their key activity and occasionally participated in the Sensor.Community network when it makes sense for supporting their community goals. For example, one participating organization hosts makerspace workshops that assist people in assembling their own devices from available hardware designs. Another participating organization created a local open data portal that helps people contextualize air-quality measures in other community open data.
+
+Sensor.Community groups raise awareness and actively support the creation of civic tech through events. These include community forums about air quality, hacklabs where people begin building measurement devices, and upskilling events for people modifying existing designs. If the groups use hardware sponsors, their parts are transparent, and the sponsors do not define how these new measurement devices are deployed. The main purpose of sponsored devices is to enable participation by people who otherwise might not be able to participate. Finally, Sensor.Community is transparent about its agenda: measuring and promoting better quality air.
+
+In Poland, another company was doing the same service… but once they got enough measurements and data, they took it all private. Closed all the data and you didn’t know how it was measured. Scientists we knew said that they could not use it after that… because it was not transparent. That’s when we started.—Interviewee from a local Sensor.Community group
+
+Among the many existing civic technologies all over the world, some platforms are released under proprietary software, while others are released under a FOSS license. This dichotomy is reflective of a classic debate in software development, and the advantages and disadvantages of each option are already well known. However, in the context of the civic code for social change, licensing takes on an even greater importance. This issue is relevant not only for technical purposes (for example, open source allows collaborative development) but also for political requirements. If the source code of a digital technology is not publicly available, such technology is not transparent and therefore not democratic—it can become a tool of control instead of empowerment. If a source code does not come with the right to redistribute and modify it, then the software owner has the power to exclude and include, which does not allow others to make this decision themselves. Consequently, civic technologies for democratic participation must always be released under OSS and free software licenses. It is this emphasis on transparency and agency that separates civic tech from e-government efforts.14
+
+For freedom and openness in software (FOSS), we refer to the definitions by the Free Software Foundation (FSF) and the Open Source Initiative (OSI). The FSF defines free software (https://www.gnu.org/philosophy/free-sw.html) “as software that respects user’s freedom and community; roughly it means that the users have the freedom to run, copy, distribute, study, change and improve the software.” The OSI defines OSS (https://opensource.org/faq) as software “that can be freely accessed, used, changed, and shared (in modified or unmodified form) by anyone.”
+
+In civic tech grassroots, free software (that is, free to modify and share) is essential for agency: it allows the initiative to create or change to be with the people, instead of organizations. The openness of source code (public accessibility) is important for transparency and the auditing of existing efforts. Adjacent to FOSS is the concept of open data. The Open Knowledge Foundation (https://okfn.org/opendata/) defines open data as “data and content that can be freely used, modified, and shared by anyone for any purpose.” This is essential to grassroots civic tech since data created by the community using FOSS artifacts should be free and open.13 Related empirical research supports the findings that free and open source artifacts and open data are key success factors in scaling up efforts in citizen science-related civic tech15 and actors in the field recommending concrete accountability mechanisms.1
+
+In Sensor.Community, openness in the form of transparency is the key as it provides evidence for the presence of poor air quality in the local area. This evidence is then used to demonstrate the need for environmental measures, such as a reduction in the amount of fine particulate matter in the air. The source code and firmware are published under a FOSS license to demonstrate the measurement process’s transparency. The open data are similarly licensed, allowing weather and air-quality forecasters to supplement their models with the data. A second-order effect resulting from FOSS licensing is the enabling of grassroots from each country or region to concentrate on issues and localities that matter to them. Local hacklabs or citizen interest groups can copy designs and software to set up measurements in areas or air-quality indicators that matter to them. Measurement device designs have also been adjusted from country to country, making it possible to build measurement devices from easily accessible components.
+
+Technology isn’t the driver of social movements, it’s the other way around.—Sasha Costanza-Chock
+
+In conclusion, we summarize the following key takeaways from the three pillars as recommendations for software engineers who encounter the civic coding phenomenon.
+
+The work was partially supported by the EU’s Horizon 2020 research and innovation program under grant agreement 872500 and the Ulla Tuominen Foundation.
+
+Sign up for our newsletter.
+
+EMAIL ADDRESS
+
+IEEE COMPUTER SOCIETY
+
+DIGITAL LIBRARY
+
+COMPUTING RESOURCES
+
+COMMUNITY RESOURCES
+
+BUSINESS SOLUTIONS
+
+POLICIES
+
+©IEEE — All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+Civic Code for Social Change: Lessons in Civic Tech Grassroots for Software Engineers
+
+What Is Civic Technology?
+
+An Exemplary Case Study
+
+Three Pillars of Software Engineering for Civic Tech
+
+Implications for Software Engineers Working on Civic Tech
+
+Acknowledgment
+
+References
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+Help
+
+About Us
+
+Career Center
+
+Cart
+
+Create Account
+
+Sign In
+
+MY SUBSCRIPTIONS
+
+BROWSE CONTENT
+
+RESOURCES
+
+IEEE Software
+
+Current Issue
+
+Past Issues
+
+Issue 2022.06
+
+Early Access
+
+About
+
+Write for Us
+
+Peer Review
+
+SE-RADIO
+
+GET ACCESS
+
+Previous
+
+Next
+
+Table of Contents
+
+Past Issues
+
+References
+
+Related Articles
+
+Home
+
+Magazines
+
+IEEE Software
+
+2022.06
+
+With its diversity across cases, multiple case studies ensure richness and depth to aid in understanding a shared phenomenon of interest (in this case, civic coding in software engineering).
+
+This method enables the exploration of complex situations, allowing for the gathering of multiple perspectives from a range of sources, including contextual information.
+
+It is particularly useful when the unit of analysis is a process; this is consistent with the objective of this study.
+
+relevance of the phenomenon of interest (cases had to be clear examples of civic coding)
+
+accessibility of information (only those cases where people agreed to be interviewed and to share relevant documents and experiences were considered)
+
+diversity across cases, whereby diversity was considered in terms of different sizes, domains, countries, and cultures.
+
+software engineer professionals who are grounded in the practice of software engineering and interested in contributing to, but not familiar with, the phenomenon of civic tech
+
+software engineers employed by other stakeholders and tasked to engage with these communities.
+
+enabling individuals’ proactive contributions toward addressing the issue at stake
+
+equipping communities to use their solutions.
+
+Considering and empowering all stakeholders: When working with civic coders, it has become clear to us that these communities can be drivers for change; however, working with them is by no means simple. They can accomplish much, but they are also easily sidelined or harmed by activities done by more structured actors. This is especially true if a software engineer is hired in a professional role by a civic or a commercial actor; one should carefully examine whether there is already a grassroots civic tech community working on the issue. In many cases, the community should be continue to be supported for greater impact and not replaced by a drop-in replacement.
+
+Ensuring open and equitable participation in projects: When working with civic tech communities, one should go beyond the usual requirements engineering process and involve the stakeholders beyond the client–user paradigm (in commercial projects) or meritocratic skills-based participation (in many FOSS projects). If the civic coding project has been set up by a grassroots community and has software engineers participating as volunteers or leading the effort, this is even more important. Public organizations, in many cases, have professionals specifically hired for engaging the public, whereas many coders have less experience with this. If a civic coding project attempts to create change in society or participation, we recommend special care in decision-making processes, enabling participation, and governance. Democratic participation and open governance should be a minimum requirement, especially if the software is to be used by the public.
+
+Licensing and transparency: FOSS licenses are the key to enabling transparency, agency, and accountability in civic tech projects. This is especially the case if the tools are made for use by the public or if the data are used to appeal for change. Transparency about the provenance and processing of data can be key to legitimacy. If the community or the public uses the tool for decision making, knowledge about the system’s inner workings and the ability for anyone to audit the system is equally essential. Furthermore, licensing is a factor for project sustainability through replication and adaptation. Individual civic coder communities come and go, but if the software is useful or the concept itself has traction, civic coders can reuse the software and apply it to their local contexts.
+
+1.S. Costanza-Chock, T. Wagoner, B. Taye, C. Rivas, C. Schweidler, and G. Bullen, and the T4SJ Project, “#MoreThanCode: Practitioners reimagine the landscape of technology for justice and equity,” The Technology for Social Justice Field Scan, USA, 2018. [Online]. Available: https://morethancode.cc/report/
+
+2.J. Saldivar, C. Parra, M. Alcaraz, R. Arteta, and L. Cernuzzi, “Civic technology for social innovation,” Comput. Supported Cooperative Work (CSCW), vol. 28, nos. 1–2, pp. 169–207, 2019, doi: 10.1007/s10606-018-9311-7.
+
+3.M. Sifry, M. Stempeck, and E. Simpson, “Civic Tech Field Guide.” (2022). [Online]. Available: https://directory.civictech.guide/
+
+4.A. R. Schrock, “What is civic tech? defining a practice of technical pluralism,” in The Right to the Smart City, R. Kitchin, Ed. England: Emerald Publishing, 2019, pp. 125-133.
+
+5.K. Boehner and C. DiSalvo, “Data, design and civics: An exploratory study of civic tech,” in Proc. 2016 CHI Conf. Hum. Factors Comput. Syst., pp. 2970–2981, doi: 10.1145/2858036.2858326.
+
+6.M. A. Ferrario, W. Simm, P. Newman, S. Forshaw, and J. Whittle, “Software engineering for ‘social good’: Integrating action research, participatory design, and agile development,” in Proc. Companion 36th Int. Conf. Softw. Eng., 2014, pp. 520–523, doi: 10.1145/2591062.2591121.
+
+7.Y. Huang, D. Ford, and T. Zimmermann, “Leaving my fingerprints: Motivations and challenges of contributing to OSS for social good,” in Proc. 2021 IEEE/ACM 43rd Int. Conf. Softw. Eng. (ICSE), pp. 1020–1032, doi: 10.1109/ICSE43902.2021.00096.
+
+8.R. E. Stake, Multiple Case Study Analysis. New York, NY, USA: Guilford press, 2013.
+
+9.A. E. Knutas, V. Palacin, A. Wolff, and S. Hyrynsalmi, “Local solutions with global reach-can civic tech benefit from open source software ecosystem practises?” in Proc. Proposal, Outcome Position Papers 23rd ACM Conf. Comput.-Supported Cooperative Work Soc. Comput. (CSCW 2020) Workshop, Association for Computer Machinery, 2020, pp. 77–78.
+
+10.G. Maccani, M. Goossensen, V. Righi, J. Creus, and M. Balestrini, “Scaling up Citizen Science: What are the factors associated with increased reach and how to lever them to achieve impact,” European Commission, Brussels, Belgium, 2020. [Online]. Available https://ec.europa.eu/jrc/communities/en/community/citizensdata/document/scaling-citizen-science-what-are-factors-associated-increased-reach
+
+11.D. A. Gioia, K. G. Corley, and A. L. Hamilton, “Seeking qualitative rigor in inductive research: Notes on the Gioia methodology,” Org. Res. Methods, vol. 16, no. 1, pp. 15–31, 2013, doi: 10.1177/1094428112452151.
+
+12.S. Costanza-Chock, Design Justice: Community-Led Practices to Build the Worlds We Need. Cambridge, MA, USA: MIT Press, 2020.
+
+13.C. B. Cooper, L. M. Rasmussen, and E. D. Jones, “Perspective: The power (dynamics) of open data in citizen science,” Frontiers Climate, vol. 3, p. 57, Jul.2021, doi: 10.3389/fclim.2021.637037.
+
+14.N. David, J. G. McNutt, and J. B. Justice, “Smart cities, transparency, civic technology and reinventing government,” in Smart Technologies for Smart Governments, M. Rodríguez Bolívar, Ed. Cham: Springer-Verlag, 2018, pp. 19–34.
+
+15.A. Hamm, Y. Shibuya, S. Ullrich, and T. C. Cerratto Pargman, “What makes civic tech initiatives to last over time? Dissecting two global cases,” in Proc. 2021 CHI Conf. Hum. Factors Comput. Syst., 2021, pp. 1–17, doi: 10.1145/3411764.3445667.
+
+Tutorial: Distributed engineering teams - Lessons from industry
+2015 IEEE 10th International Conference on Global Software Engineering Workshops (ICGSEW)
+
+Overcoming Requirements Engineering Challenges: Lessons from Offshore Outsourcing
+IEEE Software
+
+Best Practices and Lessons from Deploying and Operating a Sustained-Petascale System: The Blue Waters Experience
+2018 SC18: The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
+
+Contradicting Motivations in Civic Tech Software Development: Analysis of a Grassroots Project
+2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)
+
+Software Engineering in Civic Tech A Case Study about Code for Ireland
+2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)
+
+Licensing requirements will determine "best"
+IEEE Software
+
+About Us
+
+Board of Governors
+
+Newsletters
+
+Press Room
+
+IEEE Support Center
+
+Contact Us
+
+Magazines
+
+Journals
+
+Conference Proceedings
+
+Video Library
+
+Jobs Board
+
+Courses & Certifications
+
+Webinars
+
+Podcasts
+
+Tech News
+
+Membership
+
+Conference Organizers
+
+Authors
+
+Chapters
+
+Communities
+
+Corporate Partnerships
+
+Conference Sponsorships & Exhibits
+
+Advertising
+
+Recruiting
+
+Digital Library Institution Subscriptions
+
+Privacy
+
+Accessibility Statement
+
+IEEE Nondiscrimination Policy
+
+XML Sitemap

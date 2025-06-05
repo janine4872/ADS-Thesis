@@ -1,0 +1,527 @@
+ABSTRACT
+A growing number of school-aged children experience or are at risk for a myriad of psychological and
+behavioral problems such as anxiety and depression that interfere with their interpersonal relationships,
+school performance, and potential to become productive citizens –hence the importance of school
+prevention. This study assessed the effectiveness of the Spanish version of the FRIENDS for Life program
+[AMISTAD para siempre], a social and emotional program that uses cognitive-behavioral techniques to
+prevent anxiety and depression. Eight schools from a northern city in Mexico were randomly selected and
+assigned to either an intervention or standard curriculum instruction. Fifteen teachers implemented the
+intervention, and 16 served as control. Participants were 1,030 fourth and fifth grade students (ages 8-13).
+The impact of the program was evaluated immediately after the intervention and after 6 months. The
+program showed a positive effect by reducing symptoms and risk for depression and increasing the
+proactive coping skills of the overall sample. Suggestions for further research and implications for practice
+are offered.
+© 2013 Colegio Oficial de Psicólogos de Madrid. All rights reserved.
+La prevención de la ansiedad y de la depresión en la infancia: estudio de la eficacia
+de un programa escolar en México
+RESUMEN
+Un número elevado de niños de edad escolar experimentan o corren el riesgo de experimentar una serie de
+problemas psicológicos y de comportamiento tales como la ansiedad y la depresión, las cuales interfieren
+en sus relaciones interpersonales, el desempeño académico y el potencial para convertirse en personas
+productivas. El presente estudio evalúa la eficacia de la versión en español del programa FRIENDS for Life
+[AMISTAD para siempre], que enseña habilidades sociales y emocionales utilizando técnicas cognitivas-conductuales para prevenir ansiedad y depresión. Ocho escuelas de una ciudad al norte de México fueron aleatoriamente seleccionadas y asignadas a un grupo de intervención o al grupo de currículo estándar. Quince
+educadoras implementaron el programa y 16 maestras siguieron con el currículo estándar. Los participantes fueron 1.030 niños, de 8 a 13 años de edad, de cuarto y quinto grado de primaria. El impacto del programa se evaluó inmediatamente después de la intervención, y a los seis meses. Los resultados muestran que
+el programa tuvo efectos positivos al reducir los síntomas y el riesgo de depresión e incrementar las estrategias de afrontamiento proactivas de aquellos que lo recibieron. Se ofrecen sugerencias sobre futuras investigaciones así como sobre sus implicaciones para la práctica.
+© 2013 Colegio Oficial de Psicólogos de Madrid. Todos los derechos reservados.
+*Correspondence concerning this article should be sent to Julia Gallegos, Ph.D.
+Benalcázar 115 pte. Colonia Mirasierra. San Pedro Garza García, Nuevo León, Mexico.
+C.P. 66240. E-mail: juliagallegos@centrocies.com.mx
+Key words:
+Prevention
+Anxiety
+Depression
+Mexico
+Primary-school children
+Palabras clave:
+Prevención
+Ansiedad
+Depresión
+México
+Niños de educación primaria
+ARTICLE INFORMATION
+Manuscript received: 21/03/2012
+Revisión receivedº: 05/02/2013
+Accepted: 05/02/2013
+DOI: http://dx.doi.org/10.5093/ed2013a6
+38 J. Gallegos et al. / Psicología Educativa 19 (2013) 37-44
+A growing number of school-aged children experience or are at
+risk for a myriad of psychological and behavioral problems that
+interfere with their interpersonal relationships, school performance,
+and the potential for becoming productive citizens (Patel &
+Sumathipala, 2001; World Health Organization, 2004). Anxiety
+disorders, which affect 10 to 20% of children and are the most
+prevalent form of psychopathology, have been identified as a salient
+concern, particularly because early anxiety symptoms are associated
+with deviant conduct, substance abuse, risk for school dropout, and
+depression later in life (Caraveo-Anduaga & Comenares-Bermúdez,
+2002; Kashani & Orvaschel, 1990; Patel & Sumathipala, 2001).
+Depressive disorders affect about 2% of children and 4 to 7% of
+adolescents (Costello et al., 2002) and are associated with negative
+long-term psychiatric and functional outcomes (Gladstone &
+Beardslee, 2009). In addition to the personal suffering experienced
+by children and their families, anxiety and depressive disorders
+produce a high economic cost to society (Dozois & Westra, 2004);
+hence, early prevention and intervention programs in schools are
+critical.
+Clinical trials have demonstrated that childhood anxiety and
+depressive disorders can be treated effectively with individual
+cognitive-behavioral interventions (CBT) (Compton, Burns, Egger, &
+Roberston, 2002; Kendall & Suveg, 2006; Stark et al., 2006). However,
+only treating children who are already experiencing anxiety and
+depression may not be the most effective way to stem the growing
+number of children who experience emotional difficulties. Therefore,
+the potential of prevention programs needs to be investigated.
+In the prevention literature, the presence and extent of risk factors
+associated with the development of the disorder serve as the basis for
+determining the level of intensity of the intervention (Gordon, 1987).
+There are three levels of prevention used: universal, selective, and
+indicated. Universal interventions are provided to whole populations,
+regardless of the individual’s risk status; selective interventions are
+provided to groups of individuals at risk for the development of a
+disorder; and indicated interventions are provided to individuals with
+symptoms that have not yet developed into a disorder.
+Research into universal school-based prevention for anxiety and
+depression has increased during the last decade yielding promising
+results (Gladstone & Beardslee, 2009; Neil & Christensen, 2009).
+While several programs have been researched, by and large the most
+extensively researched program designed to promote children´s
+emotional resilience is the FRIENDS for Life program, a brief cognitivebehavioral intervention.
+Studies of the effectiveness of the FRIENDS for Life program have
+been conducted at the universal, selective, and indicated level of
+prevention and most of them by Barrett´s research team. The first
+published study evaluating the program as a universal intervention
+was conducted by Barrett and Turner (2001) with 489 children, ages
+10 to 12 years old. Results showed that children who received the
+program reported a reduction in anxiety symptoms and those
+children considered “at risk for anxiety” also reported a reduction of
+depressive symptoms. Subsequent studies have also reported similar
+results (e.g., Lock & Barrett, 2003; Lowry-Webster, Barrett, & Dadds,
+2001), with gains maintained at 12-month follow-up (LowryWebster, Barrett, & Lock, 2003) and at 24 and 36-month follow-up
+(Barrett, Farrell, Ollendick, & Dadds, 2006).
+Some studies have evaluated the effectiveness of FRIENDS for Life
+as a universal intervention in other parts of the world. The first study
+was conducted in the United Kingdom and evaluated the effectiveness
+of the program implemented by school nurses with 213 children,
+ages 9 to 10 years old (Stallard, Simpson, Anderson, Osborn, & Bush,
+2005). After completing the program, children reported significant
+reductions in anxiety symptoms, an increase in their self-esteem,
+and high levels of satisfaction with the program. The study was
+replicated by Stallard, Simpson, Anderson, Hibbert, and Osborn in
+2007 reporting similar results at posttest with gains being maintained
+after one year (Stallard, Simpson, Anderson, & Goddard, 2008). Essau,
+Conradt, and Ederer (2004) conducted a study with 200 German
+children, ages 9 to 12 years old, and also reported a significant
+reduction in children´s anxiety symptoms and high levels of
+satisfaction with the program.
+The study by Mostert and Loxton (2008) was conducted with
+forty six 12-year old children from South Africa and reported no
+significant differences between the intervention conditions regarding
+children´s anxiety symptoms. For those children receiving the
+program they found a significant decrease of anxiety symptoms over
+time (Mostert & Loxton, 2008). Rose, Miller and Martinez (2009)
+conducted a study with 52 Canadian children, ages 8 to 9 years old,
+and also reported no significant differences for anxiety between
+intervention conditions.
+Although the majority of these studies highlight the potential
+benefit of the FRIENDS for Life program, further pragmatic research is
+required to demonstrate the benefits of the program in other
+countries where the methods of delivery and educational context
+might be different (Stallard, Simpson, Anderson, & Goddard, 2008).
+Particularly for Hispanic populations, there is a dearth of research
+examining anxiety prevention programs. This is the first study that
+evaluates the effectiveness of a prevention program for anxiety and
+depression conducted with Latin American children in Spanish
+language.
+The purpose of this study was to evaluate the effectiveness of the
+Spanish-version of the FRIENDS for Life program [AMISTAD para
+siempre] for increasing proactive coping skills and reducing and
+preventing anxiety and depressive symptoms in Mexican primary
+school children.
+The research question that guided this study was: What is the
+effect of the AMISTAD para siempre program on the coping skills,
+anxiety and depressive symptoms, and risk status for anxiety and
+depression of fourth-and fifth- grade students? It was hypothesized
+that the proactive coping skills of children who participated in the
+intervention would increase and that the children would report less
+anxiety and depressive symptoms and risk when compared to the
+standard curriculum instruction condition.
+Method
+A quasi-experimental nonequivalent comparison group design
+with one between-subject and one within-subject factor was
+employed to address the research questions. There were two betweensubject factor levels: (a) intervention condition and (b) standard
+curriculum instruction condition. There were three within-subject
+factor levels: (a) pretest, (b) posttest, and (c) 6-month follow-up.
+Participants
+A total of 1,030 students from fourth and fifth grade (ages 8-13)
+took part in this study. Students attended schools in a city located in
+the Northern Region of Mexico and one of the three cities in Mexico
+with the highest prevalence rate for anxiety disorders (Medina-Mora
+et al., 2003). This study was implemented as a pilot project of the
+Ministry of Education.
+All schools in the study were categorized as level six, a metric
+used by the Instituto Nacional de Estadística,Geografía e Informática to
+stratify the community by socioeconomic status. Level six
+communities are low SES and account for 70% of the population.
+Characteristics of persons at this level include 91.83% of the
+population being able to read and write, 91.85% of the population
+aged 6 to 14 go to school, 69.82% of the population aged 12 to 17 go
+to school, and 49.91% of the population over 15 years old having a
+post primary education (Instituto Nacional de Estadística, Geografía
+e Informática, 2006). All schools in the study were coeducational,
+had at least two classrooms at each grade 4 and 5, and were served
+J. Gallegos et al. / Psicología Educativa 19 (2013) 37-44 39
+by Gabinetes de Servicios Educativos [Offices of Educational Services],
+a unit within the Special Education Department of the State. Schools,
+rather than students, were selected as the unit of random assignment,
+and the eight public elementary schools were randomly assigned to
+the standard curriculum instruction group (four schools, n = 496
+children) and to the intervention group (n = 534). The eight schools
+yielded 32 classrooms with 533 fourth and 497 fifth graders (mean
+age 9.89 years, range 8-13 years, SD = 0.80). A little over half of the
+students were girls (52.6%). Only one teacher from an intervention
+school withdrew from the study.
+Measures
+The following three measures were administered collectively to
+all children at pretest, posttest, and 6-month follow-up.
+Escala de Ansiedad para Niños de Spence (Spence, 1997) is the
+Spanish version of the Spence Children´s Anxiety Scale (SCAS;
+Spence, 1997), a self-report measure of anxiety designed for use
+with 8-12 year old children. The SCAS consists of 44 items, 38 of
+which assess specific anxiety symptoms (e.g., symptoms of social
+phobia, separation anxiety, panic attack, and agoraphobia). The
+remaining 6 items serve as positive “filter items” in order to reduce
+negative response bias. Children are asked to rate, on a 3-point
+scale ranging from never (0) to always (2), the frequency with
+which they experience each symptom. The total score of this
+measure was used in the current study. Psychometric properties
+have been examined for the Spanish version, reporting a reliability
+coefficient of .91 on the SCAS scores (Bermúdez-Ornelas &
+Hernández- Guzman, 2002).
+Cuestionario de Depresión Infantil (CDI; Kovacs, 1981) is the
+Spanish version of the Children´s Depression Inventory, a self-report
+measure used for depressive symptoms in children aged 7 to 17
+years. The CDI has 27 items related to the cognitive, affective, and
+behavioral signs of depression. Each item contains three statements,
+and children select the one statement that best describes them in the
+past two weeks. Statements within each item are scored according to
+the severity of children´s symptoms: no symptomatology present
+(0), mild symptomatology (1), or severe symptomatology (2). A total
+score is calculated by summing the statements chosen by the
+students. The statement (item 9) that assessed suicidability was
+removed. The Spanish version of the CDI has shown good
+psychometric properties: a Cronbach’s alpha reliability coefficient of
+.94 and a test-retest reliability coefficient of .87 and adequate
+construct and content validity (Del Barrio, Moreno-Rosset, & LópezMartínez, 1999).
+Cuestionario de Afrontamiento (Hernández- Guzman, 2003) is a
+Spanish self-report measure developed and standardized in Mexico
+to assess coping skills in children aged 6 to 12 years. The scale has 12
+items related to child´s interpretation and reactions when facing a
+problem and the things he or she does to cope and/or solve the
+problem. Lower scores reflect a more proactive positive coping.
+Children are asked to rate, on a 3-point scale ranging from never (0)
+to always (2), the frequency with which they experience each
+statement. The questionnaire assesses coping responses to situations
+perceived as stressful and provides information on three factors:
+active coping, emotional coping, and passive or avoidant coping. The
+Cuestionario de Afrontamiento has demonstrated adequate
+psychometric properties including a Cronbach’s alpha reliability
+coefficient of .67 (Hernández- Guzmán, 2003).
+Protocol integrity measures. Single-informant coding of the
+protocol integrity measures was carried out using the Spanish
+translation of the Fidelity of Implementation Checklists (Barrett,
+2005) on 17% of all sessions. These checklists determine the group
+leader’s degree of adherence to the program structure and their
+leaders´ skills (e.g., empathy, reflection). Using a Likert-type scale,
+the checklist provided four response categories: extremely well (1),
+moderately well (2), not very well (3), and not at all (4). Fidelity of
+implementation was calculated by averaging the scores of each form
+across all the observations of the teachers. The mean for treatment
+structure was 2.07 and the mean for teachers´ skills was 1.82,
+indicating that the program was implemented moderately well.
+Procedure
+At pretest, participating children completed the self-report
+questionnaires during the school day. Teachers and psychologists
+from the Gabinetes de Servicios Educativos read the instructions and
+test items aloud to all students and answered questions. Students
+were informed that all responses were confidential. Classroom
+teachers from the participating schools were released from their
+classrooms for a two-day training covering the principles and
+practices of prevention and early intervention. The training provided
+a step-by-step guide to the intervention program.
+Following the pretest phase and the training workshop, the
+prevention program was implemented in the intervention schools.
+Schools from the standard curriculum instruction group continued
+with their regular activities. AMISTAD para siempre (Barrett, 2008a,
+2008b) was implemented for 10 consecutive weeks, with one 75
+minute session completed once per week. Two booster sessions were
+implemented one month and three months after the 10th session.
+Students were tested at the completion of the 10th session and all
+participants were asked to complete the same measures again 6
+months later for follow-up. All children completed the SCAS, CDI, and
+the Cuestionario de Afrontamiento.
+Children who reported clinical anxiety, a SCAS score of 42 or
+above, or clinical depression, a CDI score of 19 or above, were referred
+to the school for outside treatment and it is unknown whether they
+actually received therapy. The “clinical” cut-off scores were
+established before the study began and were suggested by the
+authors of the measures.
+Intervention protocol and materials
+AMISTAD para siempre (Barrett, 2008a, 2008b), the culturally
+adapted Spanish version of the FRIENDS for Life program, is a social
+and emotional program designed to enhance resilience in children. It
+incorporates physiological, cognitive, and behavioral strategies to
+assist children in coping with stress and worry. The behavioral
+component includes the monitoring of feelings and thoughts, out-ofsession and mental imagery exposure and relaxation training. The
+cognitive component teaches children to recognize their feelings and
+thoughts and the link between them. It also teaches students to
+identify faulty cognitions and incompatible self-statements, and to
+elaborate alternative interpretations of difficult situations. Learning
+techniques include group discussion, hands-on activities, and roleplay. Approximately one session is dedicated to learn each of the
+seven steps represented by the FRIENDS acronym. The Spanish
+acronym is parallel to the English in terms of the concepts taught.
+After the introductory session, children start to learn the letter F,
+which stands for “Feeling worried?” followed by the letter R, “Relax
+and feel good; I, “Inner helpful thoughts”; E, “Explore solutions and
+coping plans”; N, “Nice work, reward yourself”; D, “Don´t forget to
+practice”; and S, “Smile and stay calm”. Within each session the
+teacher models the skills and after the skills are taught children have
+opportunities to practice in small groups and debrief with the whole
+classroom. The program encourages the building of social support
+groups and respect for diversity. There are two informational sessions
+for parents of about 1.5 hours each. In these sessions parents learn
+about the skills and techniques taught in the program, the importance
+of family and peer support, and the promotion of the practice of
+problem solving rather than avoidance of anxiety-provoking
+situations.
+40 J. Gallegos et al. / Psicología Educativa 19 (2013) 37-44
+Statistical Analysis
+Questions were addressed separately using one-tailed
+independent sample t-tests (alpha level .05) in order to examine the
+dependent variables of anxiety, depression, and coping skills. To
+further evaluate the effectiveness of the program, chi-square analyses
+were conducted on the SCAS and CDI to examine risk status of
+children at each time point. Participants scoring 41 or above on the
+SCAS were considered to be “at risk” for anxiety. Children scoring 15
+or above on the CDI were considered to be “at risk” for depression.
+These numbers were calculated by adding the mean score to 1 SD of
+the whole sample at pretest. The preventative impact of the
+intervention was measured by a decrease in the severity of symptoms
+and by evaluating the change in status. It should be considered that
+some prevention programs could show an initial treatment effect
+such as a reduction of anxiety and/or depressive symptoms, followed
+by a long-term prevention effect.
+Results
+Preliminary analysis
+Levene’s test of homogeneity of variance indicated that at pretest
+each outcome measure of anxiety, depression, and coping skills met
+the assumption of homogeneity of variance (p > .05, for each). A oneway ANOVA conducted on all outcome measures indicated that the
+standard curriculum instruction and intervention groups were not
+significantly different at pretest. Children’s levels of anxiety, F(1, 970)
+= 3.52, p = .06, depression, F(1, 968) = 0.14, p = .35, and coping skills,
+F(1, 971) = 0.01, p = .47 were comparable. There were no significant
+differences observed at pretest between the standard curriculum
+instruction and intervention groups in their risk for anxiety, χ2(1, n =
+972) = 0.58, p = .48 and their risk for depression, χ2(1, n = 970) = 0.49,
+p = .45.
+Pre-post correlations were calculated for the standard curriculum
+instruction condition on the outcome measures that had not been
+standardized with a Mexican sample to provide measures of testretest reliability. The pre-post correlations were significant for the
+SCAS (r = .66, p = .01) and the CDI (r = .69, p = .01).
+Pearson correlations were performed in order to examine the
+relationships between the pretest scores of the SCAS, CDI, and CA.
+The correlations were positive between the SCAS and the CDI (r = .39,
+p = .01), and between the CA and the CDI (r = .24, p = .01). No
+statistically significant correlation was found between the SCAS and
+CA (r = - .01, p = .77).
+Attrition and Missing Data
+There were no statistically significant differences in the frequency
+of missing data across conditions at posttest (6.82% missing in the
+intervention group, 9.89% missing in the standard curriculum
+instruction group), χ2(1, n = 1.030) = 3.17, p > .05. In the same way,
+there were no statistically significant differences at 6-month followup (17.87% missing in the intervention group, 19.23% missing in the
+standard curriculum instruction), χ2(1, n = 1.030) = .32, p > .05.
+Reasons for attrition at each time point were absenteeism from
+school on the day of assessment, students leaving the school, and
+absenteeism from class due to extracurricular activities.
+Universal Program Effects
+To examine the effect of the intervention for the entire sample
+participants´ scores at posttest and 6-month follow-up were
+compared between experimental conditions. Table 1 displays the
+means and standard deviations of each dependent measure at each
+time point. The one-tailed independent sample t-test revealed no
+significant differences between groups in the SCAS´s mean scores at
+posttest, t (1, 955) = 1.35, p = .09 or at 6-month follow-up, t (1, 850)
+= 1.49, p = .07. From the intervention group, 16% were at risk for
+anxiety at pretest, 13% at posttest, and 9% at 6-month follow-up.
+From the standard curriculum instruction group, 17% were at risk for
+anxiety at pretest, 14% at posttest, and 10% at 6-month follow-up.
+Chi-square analysis revealed no significant differences in the pattern
+of frequencies of children at risk for anxiety at posttest, χ2(1, n = 955)
+= 0.34, p = .85 or at 6-month follow-up χ2(1, n = 855) = 0.02, p = .90.
+At posttest, the one-tailed independent sample t-tests revealed
+significant differences between groups in the CDI mean scores, t (1,
+954) = 4.34, p = .01, which yielded an effect size of d = -0.28, which is
+considered a small magnitude. At 6-month follow-up, no significant
+differences were found between groups on the CDI mean scores, t (1,
+846) = 1.41, p = .08. From the intervention group, 16% were at risk for
+depression at pretest, 13% at posttest, and 12% at 6-month follow-up.
+From the standard curriculum instruction group, 14% were at risk for
+depression at pretest, 20% at posttest, and 12% at 6-month follow-up.
+Differences were shown in the pattern of frequencies of children at
+risk for depression at posttest, χ2(1, n = 954) = 6.76, p = .01 but not at
+6-month follow-up, χ2(1, n = 846) = 0.01, p = .91.
+One-tailed independent sample t-tests revealed a statistically
+significant increase in the proactive coping skills of children from the
+intervention group when compared to the standard curriculum
+instruction group at posttest, t (1, 955) = 3.98, p = .01 and at 6-month
+follow-up t (1, 850) = 2.75, p = .01. The effect size yielded at posttest
+was d = -0.26 and at 6-month follow-up d = -0.19, which are
+considered a small magnitude.
+Discussion
+Prevention of anxiety and depressive disorders is very important
+as these are common problems among children that, if left untreated,
+may lead to a broad range of negative consequences for the child and
+his or her family (Kashani & Orvaschel, 1990; World Health
+Organization, 2004). Findings from this study revealed that at pretest
+almost 2 out of 10 Mexican children were experiencing some
+symptoms of anxiety or depression. A recent study conducted by
+Benjet, Borges, Medina-Mora, Zambrano, and Aguilar-Gaxiola (2009)
+has reported even higher rates of anxiety and depression among
+Mexican youth, suggesting that these problems escalate over time. It
+was estimated that about 40% of Mexican youth had experienced a
+mental health problem, anxiety being the most common, followed
+by impulse-control disorders, affective disorders, and substance
+abuse (Benjet et al., 2009). The latter study also found that only 14%
+Table 1
+Means and SDs for the SCAS, CDI and Cuestionario de Afrontamiento at each time
+point
+Outcome measure/
+Time point
+Standard curriculum
+instruction
+Intervention group
+M SD n M SD n
+SCAS pretest 30.81 10.35 475 29.52 11.15 497
+SCAS posttest 28.39 11.28 463 27.41 11.35 492
+SCAS 6m 25.77 11.12 409 24.61 11.48 441
+CDI pretest 9.44 5.44 475 9.30 5.79 495
+CDI posttest 9.82 5.97 462 8.15 5.98 492
+CDI 6m 8.29 6.10 411 7.70 6.08 435
+Coping pretest 9.60 2.68 476 9.60 2.61 497
+Coping posttest 9.74 2.59 462 9.06 2.68 493
+Coping 6m 9.53 2.55 409 9.01 2.86 441
+J. Gallegos et al. / Psicología Educativa 19 (2013) 37-44 41
+of the adolescents who reported a mental health problem received
+help. Various forms of help were reported, including psychological
+treatment, a visit to a medical doctor, reading a self-help book, selfmedication, herbal medicine, or talking to a priest. Therefore,
+research on the prevention of anxiety and depression in developing
+countries such as Mexico is crucial.
+Children who received the program demonstrated increased
+proactive coping skills and a decrease in depressive symptoms and
+risk for depression. These findings are similar to findings that have
+been reported by other researchers (Barrett, Lock, & Farrell, 2005;
+Lock & Barrett, 2003; Lowry-Webster et al., 2001). This suggests that
+providing a universal prevention program is an effective strategy in
+promoting mental health. The fact that the intervention can be
+delivered by classroom teachers is an added benefit that adds to the
+cost-effectiveness of the strategy since a large number of children
+can be reached over a relatively short period of time (Dozois &
+Westra, 2004).
+However, the non-significant finding for anxiety symptoms was
+unexpected and differed from the findings of other studies (e.g.,
+Lowry-Webster et al., 2001). A recent systematic review conducted
+by Neil and Christensen (2009) on the efficacy and effectiveness of
+school-based prevention and early intervention programs for anxiety
+has reported that three-quarters of the trials that were analyzed
+showed a significant reduction in symptoms of anxiety. There are
+several possible explanations for the lack of significant differences.
+First, it could be the result of a sleeper effect in which significant
+changes appear later in time, similar to what Barrett et al. (2006)
+found. Second, it is possible that the Spanish version of the SCAS
+measure was not sensitive enough to the culture of Mexican children.
+Pretest correlations between the coping skills measure and the SCAS
+were not statistically significant in this study. Previous studies have
+found an increase in participants’ proactive coping skills and a
+decrease in anxiety symptoms after the intervention (e.g., Lock &
+Barrett, 2003), suggesting the possibility that translated scales may
+not be equivalent to original scales.
+The third possibility is that the program was implemented less
+consistently than it was in other studies. This study reported that the
+program was implemented “moderately well”, but it is unknown
+whether this could be the cause as no other published studies of the
+program have included data regarding the fidelity of implementation.
+Results from a meta-analysis conducted by Fisak, Richard, and Mann
+(2011) showed that studies conducted in Australia (most of them
+using the FRIENDS for Life program) yielded higher effect sizes than
+those studies conducted at another location (d = .30 vs. .12). This
+suggests that more research is required to evaluate the degree of
+effectiveness of the FRIENDS for Life program in other countries. Last,
+it could be also that the program in its current format did not work
+for this outcome in the population of Mexican children. This was the
+first adaptation of the program and further aspects related to the
+Mexican culture and manifestations of anxiety will be taken into
+account in order to work towards a better and more culturally
+sensitive adaptation of the program.
+Finally, when interpreting the findings of this study it is necessary
+to take into account the school/teacher differences between Mexico
+and the other countries where the FRIENDS for Life program has been
+tested (e.g., Australia, England, Germany). Differences such as the
+number of children per classroom (40 children vs. typically 25 in
+developed countries), absence of a teacher assistant, classroom
+teachers who usually work two shifts (about 10 -12 hours per day)
+due to economic struggles, and teachers´ limited opportunities for
+continuing professional development, may have influenced the
+results of the program. Classroom teachers who implemented the
+program expressed through informal conversations that for a more
+effective implementation major school changes are needed, starting
+with a greater support for those implementing the program. They
+also pointed the need for assistance with workload management and
+the provision of more information about mental health promotion
+and resilience in communities. This vision of multi-sectorial
+involvement in the promotion of community mental health has also
+been stated as a priority in other implementation studies (Patel &
+Sumathipala, 2001).
+Limitations of the Study
+Although this study attempted to avoid some of the methodological
+shortcomings of previous school-based research, there are still some
+limitations that should be taken into account when interpreting the
+findings. First, the effectiveness of the program was primarily
+evaluated through children´s self-reported measures, which rely on
+their subjective perceptions. Therefore, further studies should
+include multiple informants and qualitative measures such as
+interviews and focus groups. Second, another limitation was the
+dearth of measures that targeted positive or strength-based
+outcomes such as optimism, empathy, quality of peer relationships,
+or social skills. Especially when working at the universal level of
+prevention it is crucial to incorporate more measures of positive
+outcomes, as most of the population is non-clinical.
+Third, due to financial constraints, single informant coding was
+carried out for the protocol integrity measures and no long-term
+evaluation was conducted. For the same reason, the informational
+sessions for parents were no sufficiently promoted. The ideal
+promotion would have included sending several written reminders
+of the sessions, offering some tea/coffee and crackers, and providing
+attendance rewards such as other parental resources or participating
+in raffle (Neil & Christensen, 2009). Fourth, an important limitation
+of this study was not being able to follow-up those cases that scored
+above clinical cut-off and were referred to teachers and parents.
+Thus, caution should be paid when analyzing the results at 6-month
+follow-up.
+Conclusion
+Most of the research on the prevention of anxiety and depression
+has been conducted in developed countries with high SES
+populations. Patel and Sumathipala (2001) reported that “mental
+health research in low and middle income countries contributes
+barely to 3-6% of all published mental health research in the world,
+and research focusing on children is even smaller”. This is the first
+study examining the school-based prevention of mental health
+problems in Mexican children and it is an innovative first step in
+examining how prevention programs might be implemented in
+developing countries that due to their social and financial constraints
+are in urgent need of help.
+Further studies should continue exploring the effects of the
+AMISTAD para siempre program as a tool to promote emotional
+resilience in classrooms. Working towards effective prevention is
+crucial as anxiety and depression can lead to negative consequences
+such as substance abuse and deviant conduct, which may limit
+children from reaching their maximal potential.

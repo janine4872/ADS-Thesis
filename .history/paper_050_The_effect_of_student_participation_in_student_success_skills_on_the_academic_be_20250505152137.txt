@@ -1,0 +1,141 @@
+ABSTRACT
+The purpose of the current outcome study was to determine the impact of Student Success Skills (SSS) classroom guidance lessons on the Academic Behaviors (motivation, social engagement, self-regulation) and Key Learning Skills and Techniques associated with college-career readiness (CCR) indicators for Grade 5 students (ACT, 2008a; Brigman & Webb, 2012; Conley, 2010; Robbins, Allen, Casillas, Peterson, & Le, 2006). School counselors in the treatment schools were trained in the implementation of the SSS classroom program and subsequently taught the material to Grade 5 students. Comparison school counselors conducted business as usual. The study applied a quasi-experimental pre/post1/post2 design utilizing student self-report instruments (Student Engagement in School Success Skills Survey [SESSS], Motivated Strategies for Learning Questionnaire [MSLQ]), and a teacher survey instrument (Student Participation Questionnaire [SPQ]).
+
+INTRODUCTION
+The importance of preparing students for successful participation in the 21stcentury economy lies in the implementation of effective college-career readiness (CCR)
+interventions (Bouffard & Savitz-Romer, 2012; Carnevale, Smith & Strohl, 2010;
+Conley, 2010; U.S. Department of Education [USDOE], 2010). Educational reform
+includes efforts to develop and align core academic standards, PK–12, to insure rigorous
+academic content as well as to meet college-career ready expectations (O’Hara, 2012;
+Adams, 2012; Bureau of Labor Statistics [BLS], 2012; Carnevale et al., 2010; Conley,
+2005; National Office for School Counselor Advocacy [NOSCA], 2010). Discussions of
+“education pipelines,” “K–12 career pathways,” and “P–20 education” (O’Hara, 2012;
+College Board Advocacy & Policy Center [College Board], 2008; Conley, 2010) seek to
+improve the preparation and transition of students into CCR from an early age. However,
+a clear understanding of what an education pipeline looks like prior to entering high
+school is needed. ACT (2008b) addressed the need to monitor the development of
+“academic discipline,” recognized as essential to CCR, in students as early as upper
+elementary school. Therefore, a more complete description of how elementary schoolaged students enter into a college-career trajectory and the role that elementary school
+counselors play in CCR counseling is needed.
+The issue of improving CCR has received attention from a variety of sources.
+Researchers suggest that CCR interventions create a college-going culture in which
+students develop key knowledge, skills, and attitudes, and participate in rigorous
+PREVIEW
+2
+academic content from an early age (Adams, 2012; Bouffard & Savitz-Romer, 2012;
+Educational Policy Improvement Center [EPIC], 2012; Hines, Lemons, & Crews, 2011;
+NOSCA, 2010). The Student Success Skills (SSS) program is a widely researched and
+evidence-based program that teaches and coaches key skills (learning skills, social skills,
+and self-management skills) to students (Brigman & Campbell, 2003; Brigman, Webb, &
+Campbell, 2007; Villares, Frain, Brigman, Webb, & Peluso, 2012; Webb, Brigman, &
+Campbell, 2005). Specific instruction in these skills via the SSS program is intended to
+develop a culture of academic readiness in the elementary school setting by which
+students develop a foundation of key CCR skills and techniques. The current study is
+expected to establish a link between the implementation of the SSS curriculum in Grade 5
+classrooms as a means to teach key learning, social, and self-management skills, thereby
+producing positive academic and social outcomes and leading to an early CCR trajectory.
+Significance of Problem
+The current research study addresses a significant problem for three reasons.
+First, failure to produce students who are college-career ready at the time graduation
+results in negative academic consequences. Underprepared students may not be able to
+participate in wide range of postsecondary, university, college, or training options.
+According to the BLS, 21st-century graduates are more likely to be employed and will
+have higher median weekly earnings based on their level of postsecondary training or
+education (BLS, 2012). Failure to aspire to and complete postsecondary training or
+education results in real financial impact for students. Second, remediation of core
+academic subjects critical for rigorous college-level work occurs at college and university
+levels. Student participation in remedial coursework is associated with a lesser degree of
+PREVIEW
+3
+academic success (Attewell, Lavin, Domina, & Levey, 2006). The cost of remedial
+coursework is high, $58.8 million in the state of Florida, with students paying $113
+million per year. This translates to an average tuition increase of $504 per remedial
+course (Office of Program Policy Analysis & Government Accountability [OPPAGA],
+2006). Third, an extensive amount of work has been done to define CCR at the high
+school and middle school level (ACT, 2012a; Conley, 2010). However, the foundation of
+CCR, originating at the elementary school level, is poorly defined. Addressing CCR is
+important for students (K–12), education systems, and society as a means to improve
+education-career-economic outcomes in the 21st century. Focusing on the role of the
+elementary school counselor in initiating a college-career trajectory through the
+instruction of foundational skills is essential (ACT, 2007; Heckman, 2008; NOSCA,
+2010). A concrete operationalization of what a P–20 education pipeline looks like prior
+to entering high school is needed. A firm foundation in key skills at an early age reduces
+the need for more intense corrections later (Cunha & Heckman, 2008; Cunha, Heckman,
+& Schennach, 2010; Heckman, 2008). Currently, additional outcome research is required
+to directly link the elementary school counselor’s role to the development of student
+outcomes specific to CCR.
+Purpose
+The purpose of the current outcome study is to determine the impact of SSS
+classroom guidance lessons on the early Academic Behaviors (motivation, social
+engagement, self-regulation) and Key Learning Skills and Techniques associated with
+CCR indicators for Grade 5 students (ACT, 2008a; Conley, 2010; Robbins, Allen,
+Casillas, Peterson, & Le, 2006). Research has identified essential factors for successful
+PREVIEW
+4
+CCR, including (a) cognitive strategies, learning skills and techniques, transition
+knowledge and skills, and content knowledge (Conley, 2005, 2010; EPIC, 2012); (b)
+motivation, social engagement, and self-regulation (ACT, 2008a; Robbins et al., 2006);
+(c) noncognitive skills (Farrington et al., 2012); (d) growth mindset (Dweck & Leggett,
+1988; Dweck, Walton, & Cohen, 2011); (e) social-emotional skills (Duckworth, Peterson,
+Matthews, & Kelly, 2007); and (f) assets (Scales, Benson, Roehlkepartain, Sesma, & van
+Dulmen, 2006; Scales & Taccogna, 2000). School counseling oriented professional
+associations and advocacy groups call for a focus on CCR through established career
+development standards (American School Counselor Association [ASCA], 2004;
+National Career Development Association [NCDA], 2004) and systematic approaches to
+CCR counseling (NOSCA, 2010). The recent revision of the ASCA Mindsets and
+Behaviors for Student Success: K-12 College- and Career-Readiness Standards for Every
+Student (ASCA, 2014) confirms this commitment to developing the requisite knowledge,
+attitudes, and skills for student CCR. Additional research in this area has identified the
+later elementary and early middle school years as the sensitive time in which to initiate
+development of these factors (ACT, 2008b, 2012a, 2013; Cunha & Heckman, 2008;
+Farrington et al., 2012; Heckman, 2008).
+Research Questions
+1. Is there an increase in the Academic Behavior—Motivation of Grade 5 students
+who participated in the SSS program compared to those who did not?
+2. Is there an increase in the Academic Behavior—Social Engagement of Grade 5
+students who participated in the SSS program compared to those who did not?
+PREVIEW
+5
+3. Is there an increase in the Academic Behavior—Self-Regulation of Grade 5
+students who participated in the SSS program compared to those who did not?
+4. Is there an increase in the use of Key Learning Skills and Techniques of Grade 5
+students who participated in the SSS program compared to those who did not?
+Hypotheses
+Null Hypothesis 1
+HO 1: There will be no significant difference in Academic Behavior—
+Motivation as measured by the Self-Efficacy for Learning and Performance and Control
+of Learning Beliefs Scales of the Motivated Strategies for Learning Questionnaire
+(MSLQ), the Student Engagement in School Success Skills (SESSS), and the Student
+Participation Questionnaire (SPQ) between Grade 5 students who participated in the SSS
+classroom lessons and those who did not.
+Alternate Hypothesis 1
+Alternative 1: There will be a statistically significant difference in Academic
+Behavior—Motivation as measured by the Self-Efficacy for Learning and Performance
+and Control of Learning Beliefs Scales of the Motivated Strategies for Learning
+Questionnaire (MSLQ), the Student Engagement in School Success Skills (SESSS), and
+the Student Participation Questionnaire (SPQ) between Grade 5 students who participated
+in the SSS classroom lessons and those who did not.
+PREVIEW
+6
+Null Hypothesis 2
+HO 2: There will be no significant difference in Academic Behavior—Social
+Engagement as measured by the Student Engagement in School Success Skills (SESSS)
+between Grade 5 students who participated in the SSS classroom lessons and those who
+did not.
+Alternative Hypothesis 2
+Alternative Hypothesis 2: There will be a statistically significant difference in
+Academic Behavior—Social Engagement as measured by the Student Engagement in
+School Success Skills (SESSS) between Grade 5 students who participated in the SSS
+classroom lessons and those who did not.
+Null Hypothesis 3
+HO 3: There will be no significant difference in Academic Behavior—SelfRegulation as measured by the Student Engagement in School Success Skills (SESSS)
+and the Student Participation Questionnaire (SPQ) between Grade 5 students who
+participated in the SSS classroom lessons and those who did not.
+Alternative Hypothesis 3
+Alternative Hypothesis 3: There will be a statistically significant difference in
+Academic Behavior—Self-Regulation as measured by the Student Engagement in School
+Success Skills (SESSS) and the Student Participation Questionnaire (SPQ) between
+Grade 5 students who participated in the SSS classroom lessons and those who did not.
+Null Hypothesis 4
+HO 4: There will be no significant difference in Key Learning Skills and
+Techniques as measured by the Self-Efficacy for Learning and Performance and Control 

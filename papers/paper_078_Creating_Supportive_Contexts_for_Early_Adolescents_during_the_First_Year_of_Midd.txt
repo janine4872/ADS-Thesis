@@ -1,0 +1,853 @@
+Abstract
+The transition to middle school is recognized as a period of increased risk for students’ adjustment difficulties across the academic, behavioral, and social domains, underscoring the need for developmentally responsive interventions that address these potential vulnerabilities. This study examined the impact of a multi-component intervention on students’ perceived adjustment during the first year of middle school using a cluster randomized controlled trial design. A total of 24 metropolitan schools (12 intervention), 220 teachers (122 intervention), and 2925 students (1537 intervention) participated. Teachers in intervention schools received training and consultation in the Behavioral, Academic, and Social Engagement (BASE) classroom management model. Significant intervention effects, moderated by students’ gender, race/ethnicity, and economic status, were found for self-reported social anxiety, defiance, willingness to protect peers being bullied, and emotional problems. The results suggest that teachers trained in the BASE model were better able to create supportive classroom contexts during the middle school transition which promoted positive adjustment for particular students. This study stresses the importance of using developmentally appropriate strategies across correlated domains to reduce adjustment difficulties during the transition to middle school.
+
+Abstract
+
+The transition to middle school is recognized as a period of increased risk for students’ adjustment difficulties across the academic, behavioral, and social domains, underscoring the need for developmentally responsive interventions that address these potential vulnerabilities. This study examined the impact of a multi-component intervention on students’ perceived adjustment during the first year of middle school using a cluster randomized controlled trial design. A total of 24 metropolitan schools (12 intervention), 220 teachers (122 intervention), and 2925 students (1537 intervention) participated. Teachers in intervention schools received training and consultation in the Behavioral, Academic, and Social Engagement (BASE) classroom management model. Significant intervention effects, moderated by students’ gender, race/ethnicity, and economic status, were found for self-reported social anxiety, defiance, willingness to protect peers being bullied, and emotional problems. The results suggest that teachers trained in the BASE model were better able to create supportive classroom contexts during the middle school transition which promoted positive adjustment for particular students. This study stresses the importance of using developmentally appropriate strategies across correlated domains to reduce adjustment difficulties during the transition to middle school.
+
+Introduction
+For decades, early adolescence has been recognized as a time when youth may be particularly vulnerable to developmental risks in the academic, behavioral, and social domains (Anderman and Mueller 2010). Such risk may reflect adjustment difficulties that occur as youth mature and experience changing abilities, interests, identities, and relationships with both teachers and peers (Vollet et al. 2017). Further, the potential for adjustment difficulties may be exacerbated by changes in the school context as youth transition to middle school (Ryan et al. 2013). In light of the potential vulnerabilities and risks during the first year of middle school, there is a need for intervention programs and supports to help middle school teachers foster supportive classroom contexts by managing the interplay between the academic, behavioral, and social needs of their students. The Behavioral, Academic, and Social Engagement (BASE) program is a multi-factored, multi-component classroom management model that was developed to address this need by providing training and support for teachers that centers on early adolescent development and the transition to middle school (Farmer et al. 2013). The goal of the current study was to examine the impact of the BASE model intervention program on sixth-grade students’ self-reported adjustment and perceptions of their school context.
+The Context of Early Adolescent Middle School Functioning and Adaptation
+From a dynamic systems perspective, the middle school classroom may be viewed as a critical developmental context that reflects the correlated contributions of a variety of factors including: individual and collective characteristics (i.e., composition) of students; peer interactions, networks, and structure of the social system; the classroom/school climate; and teachers’ capacity/resources to promote a supportive context (Eccles and Roeser 2011; Farmer et al. 2018; Wentzel et al. 2018). This perspective suggests that youth develop as an integrated whole (Magnusson and Cairns 1996) with three general domains of school functioning and adaptation (i.e., academic, behavioral, social) operating as a correlated system of bidirectional influence (Farmer et al. 2016). From this perspective, it is important to understand the dynamic interplay between youth and the classroom-school context (Bronfenbrenner 1996). On this count, the first year of middle school may be a time when some students experience a mismatch between their characteristics, the school ecology, and their developmental needs (Eccles et al. 1993). This mismatch may contribute to students’ adjustment difficulties and impact their adaptation across the secondary school years (Roeser and Peck 2003).
+Consistent with these frameworks, a growing body of work indicates a complex relationship between early adolescents’ peer relations and social positions, their behavior, and their academic engagement and achievement. For example, youth’s peer relationships have been shown to play a role in their academic adjustment (Ryan 2011) and certain social positions are linked to the use of aggressive behavior (e.g., Kiefer and Wang 2016). As youth transition to middle school they are likely to experience a social context that includes jockeying for social position and increased risk for involvement in bullying as a victim or perpetrator (Pellegrini and Bartini 2000). They may also experience a social context in which popularity and peer network support is associated with increased aggression (e.g., Bellmore et al. 2011), and decreased academic performance (Dijkstra and Gest 2015). Further, they may perceive a general climate in which they are likely to experience increased social risk and decreased peer support if they engage in academics and positive classroom behavior (Hamm et al. 2012). In turn, when students have positive relations in the classroom and perceive that classmates are supportive of academic effort and achievement they are more likely to engage in productive activities through greater academic effort (Hamm et al. 2011) and behavioral engagement (i.e., participation) in the classroom (Mikami et al. 2017).
+From this backdrop, it is important for teachers to be aware of the dynamic interplay of multiple factors in the school adjustment of early adolescents and to understand that classroom management involves simultaneously addressing the academic, behavioral, and social aspects of the school ecology (Farmer et al. 2014). Recent work aligns with this view. For example, teachers’ instructional practices impact the extent to which students are susceptible to peer influence for disruptive behavior (Mueller et al. 2018). Likewise, the extent to which middle school students feel supported and develop cross-race friendships reflects the behavioral characteristics of students, teachers’ level of differential treatment of students, and students’ perceptions of support in the classroom (Cappella et al. 2017). In addition, how teachers address problem behavior and their degree of differential support impacts how students are perceived and accepted by their classmates (Hendrickx et al. 2016). Further, when teachers are attuned to early adolescents’ social relationships and when they actively manage the academic, behavioral, and social aspects of the classroom ecology, rural students (including those at-risk for adjustment difficulties) are more likely to perceive peers as more protective against bullying (Hamm et al. 2011), to develop affiliations with positive peers (Farmer et al. 2010), and to perceive social benefits for engagement in academic activities (Hamm et al. 2014).
+The Multi-Component Intervention Model
+To assist teachers in addressing the dynamic interplay of multiple factors that contribute to the general functioning of the classroom and corresponding students’ adaptation, the BASE model was created that consists of three complementary components: Academic Engagement Enhancement, Competence Enhancement Behavior Management, and Social Dynamics Management (Farmer et al. 2013). The goal of the academic engagement enhancement component focuses on creating a context where learning is valued, students support each other, and instruction is paced to maintain students’ engagement and to use time efficiently. The competence enhancement behavior management component involves promoting a classroom ecology to reinforce desired behavior while using problems as opportunities to teach new behavior. This includes a range of Evidence-Based Practices (EBPs) tailored to the specific needs of the classroom and the capacities and skills of the teacher. The social dynamics management component involves shaping natural social processes to create peer cultures that foster students’ academic effort and engagement while promoting positive social roles and relationships for struggling students. In addition to the BASE classroom management model, additional training content, activities, and supports are provided that center on helping teachers understand and leverage knowledge about early adolescent development and the transition to middle school.
+Support for the efficacy of the BASE model
+The effects of the BASE program on student adjustment were examined in Project REAL (Rural Early Adolescent Learning) which was a cluster randomized controlled trial involving 36 rural schools located across the U.S. Across several studies, results indicate that students in BASE schools experienced a more positive and supportive social-affective school and peer context than their counterparts in control schools, including a more favorable sense of school belonging, improved perceptions of peer norms for acceptance of academic effort and achievement among peers, less emotional risk for academic participation, less encouragement of and greater peer protection against bullying, and more positive and productive social network affiliations for high-risk students (Farmer et al. 2011; Hamm et al. 2010, 2014). The findings of these studies converge to suggest that teachers who were trained in the BASE model were able to create classroom contexts that fostered productive behaviors and supportive peer cultures that enhanced students’ engagement and academic success, including those who were at-risk for school difficulties. Differential benefits of the program were examined for gender and race/ethnicity and results showed greater benefits for ethnic minority youth (Hamm et al. 2010) but no differences for boys versus girls.
+Extending the efficacy trials to metropolitan schools
+The present study included middle schools serving metropolitan communities to extend support for the program beyond schools serving rural communities. The BASE program was not designed specifically for rural schools, but unique aspects of rural schools may limit the generalizability of findings to metropolitan contexts. In general, locally-delivered and targeted professional development is less likely in rural versus metropolitan or urban schools, because of limited resources and geographic isolation (Vernon-Feagans et al. 2010). The schools in the present study were engaged in a variety of professional development initiatives for teachers, although none focused on helping teachers support early adolescents in the middle school transition. In addition, reflecting characteristics common to rural schools, the schools that participated in the efficacy study of rural schools enrolled small numbers of students per grade level; featured k−8/k−12 grade as well as middle school configurations; and ethnically homogeneous student bodies (Hamm et al. 2014). The rural schools also served economically disadvantaged communities (Hamm et al. 2014). Analyses of the efficacy of the BASE program in rural schools did not differentiate program effects based on students’ economic status given that the majority of students were eligible for the free- or reduced-price lunch program. The metropolitan schools included in the present study served diverse socioeconomic communities; in most schools, the proportion of students eligible for free- or reduced-price lunch did not constitute a majority of the student body. Therefore, in the current study, effects of the program were tested not only for differential effects by student gender and race/ethnicity, but also by economic status.
+Finally, the present study complements and extends the potential student outcomes affected by teachers’ completion of the BASE program. Parallel to efficacy studies in rural schools, the impact of the BASE model was examined for students’ academic outcomes including school valuing and sense of school belonging. Students also rated their perceptions of peer support both for academic effort and achievement, as well as their perceptions of the peer bullying ecology (i.e., do they perceive peers as supportive of bullying). New to the metropolitan schools efficacy trial were self-ratings of behavioral adjustment (i.e., classroom defiance), and aspects of socio-emotional adjustment, including social anxiety and emotional symptoms.
+
+Introduction
+
+For decades, early adolescence has been recognized as a time when youth may be particularly vulnerable to developmental risks in the academic, behavioral, and social domains (Anderman and Mueller 2010). Such risk may reflect adjustment difficulties that occur as youth mature and experience changing abilities, interests, identities, and relationships with both teachers and peers (Vollet et al. 2017). Further, the potential for adjustment difficulties may be exacerbated by changes in the school context as youth transition to middle school (Ryan et al. 2013). In light of the potential vulnerabilities and risks during the first year of middle school, there is a need for intervention programs and supports to help middle school teachers foster supportive classroom contexts by managing the interplay between the academic, behavioral, and social needs of their students. The Behavioral, Academic, and Social Engagement (BASE) program is a multi-factored, multi-component classroom management model that was developed to address this need by providing training and support for teachers that centers on early adolescent development and the transition to middle school (Farmer et al. 2013). The goal of the current study was to examine the impact of the BASE model intervention program on sixth-grade students’ self-reported adjustment and perceptions of their school context.
+The Context of Early Adolescent Middle School Functioning and Adaptation
+From a dynamic systems perspective, the middle school classroom may be viewed as a critical developmental context that reflects the correlated contributions of a variety of factors including: individual and collective characteristics (i.e., composition) of students; peer interactions, networks, and structure of the social system; the classroom/school climate; and teachers’ capacity/resources to promote a supportive context (Eccles and Roeser 2011; Farmer et al. 2018; Wentzel et al. 2018). This perspective suggests that youth develop as an integrated whole (Magnusson and Cairns 1996) with three general domains of school functioning and adaptation (i.e., academic, behavioral, social) operating as a correlated system of bidirectional influence (Farmer et al. 2016). From this perspective, it is important to understand the dynamic interplay between youth and the classroom-school context (Bronfenbrenner 1996). On this count, the first year of middle school may be a time when some students experience a mismatch between their characteristics, the school ecology, and their developmental needs (Eccles et al. 1993). This mismatch may contribute to students’ adjustment difficulties and impact their adaptation across the secondary school years (Roeser and Peck 2003).
+Consistent with these frameworks, a growing body of work indicates a complex relationship between early adolescents’ peer relations and social positions, their behavior, and their academic engagement and achievement. For example, youth’s peer relationships have been shown to play a role in their academic adjustment (Ryan 2011) and certain social positions are linked to the use of aggressive behavior (e.g., Kiefer and Wang 2016). As youth transition to middle school they are likely to experience a social context that includes jockeying for social position and increased risk for involvement in bullying as a victim or perpetrator (Pellegrini and Bartini 2000). They may also experience a social context in which popularity and peer network support is associated with increased aggression (e.g., Bellmore et al. 2011), and decreased academic performance (Dijkstra and Gest 2015). Further, they may perceive a general climate in which they are likely to experience increased social risk and decreased peer support if they engage in academics and positive classroom behavior (Hamm et al. 2012). In turn, when students have positive relations in the classroom and perceive that classmates are supportive of academic effort and achievement they are more likely to engage in productive activities through greater academic effort (Hamm et al. 2011) and behavioral engagement (i.e., participation) in the classroom (Mikami et al. 2017).
+From this backdrop, it is important for teachers to be aware of the dynamic interplay of multiple factors in the school adjustment of early adolescents and to understand that classroom management involves simultaneously addressing the academic, behavioral, and social aspects of the school ecology (Farmer et al. 2014). Recent work aligns with this view. For example, teachers’ instructional practices impact the extent to which students are susceptible to peer influence for disruptive behavior (Mueller et al. 2018). Likewise, the extent to which middle school students feel supported and develop cross-race friendships reflects the behavioral characteristics of students, teachers’ level of differential treatment of students, and students’ perceptions of support in the classroom (Cappella et al. 2017). In addition, how teachers address problem behavior and their degree of differential support impacts how students are perceived and accepted by their classmates (Hendrickx et al. 2016). Further, when teachers are attuned to early adolescents’ social relationships and when they actively manage the academic, behavioral, and social aspects of the classroom ecology, rural students (including those at-risk for adjustment difficulties) are more likely to perceive peers as more protective against bullying (Hamm et al. 2011), to develop affiliations with positive peers (Farmer et al. 2010), and to perceive social benefits for engagement in academic activities (Hamm et al. 2014).
+The Multi-Component Intervention Model
+To assist teachers in addressing the dynamic interplay of multiple factors that contribute to the general functioning of the classroom and corresponding students’ adaptation, the BASE model was created that consists of three complementary components: Academic Engagement Enhancement, Competence Enhancement Behavior Management, and Social Dynamics Management (Farmer et al. 2013). The goal of the academic engagement enhancement component focuses on creating a context where learning is valued, students support each other, and instruction is paced to maintain students’ engagement and to use time efficiently. The competence enhancement behavior management component involves promoting a classroom ecology to reinforce desired behavior while using problems as opportunities to teach new behavior. This includes a range of Evidence-Based Practices (EBPs) tailored to the specific needs of the classroom and the capacities and skills of the teacher. The social dynamics management component involves shaping natural social processes to create peer cultures that foster students’ academic effort and engagement while promoting positive social roles and relationships for struggling students. In addition to the BASE classroom management model, additional training content, activities, and supports are provided that center on helping teachers understand and leverage knowledge about early adolescent development and the transition to middle school.
+Support for the efficacy of the BASE model
+The effects of the BASE program on student adjustment were examined in Project REAL (Rural Early Adolescent Learning) which was a cluster randomized controlled trial involving 36 rural schools located across the U.S. Across several studies, results indicate that students in BASE schools experienced a more positive and supportive social-affective school and peer context than their counterparts in control schools, including a more favorable sense of school belonging, improved perceptions of peer norms for acceptance of academic effort and achievement among peers, less emotional risk for academic participation, less encouragement of and greater peer protection against bullying, and more positive and productive social network affiliations for high-risk students (Farmer et al. 2011; Hamm et al. 2010, 2014). The findings of these studies converge to suggest that teachers who were trained in the BASE model were able to create classroom contexts that fostered productive behaviors and supportive peer cultures that enhanced students’ engagement and academic success, including those who were at-risk for school difficulties. Differential benefits of the program were examined for gender and race/ethnicity and results showed greater benefits for ethnic minority youth (Hamm et al. 2010) but no differences for boys versus girls.
+Extending the efficacy trials to metropolitan schools
+The present study included middle schools serving metropolitan communities to extend support for the program beyond schools serving rural communities. The BASE program was not designed specifically for rural schools, but unique aspects of rural schools may limit the generalizability of findings to metropolitan contexts. In general, locally-delivered and targeted professional development is less likely in rural versus metropolitan or urban schools, because of limited resources and geographic isolation (Vernon-Feagans et al. 2010). The schools in the present study were engaged in a variety of professional development initiatives for teachers, although none focused on helping teachers support early adolescents in the middle school transition. In addition, reflecting characteristics common to rural schools, the schools that participated in the efficacy study of rural schools enrolled small numbers of students per grade level; featured k−8/k−12 grade as well as middle school configurations; and ethnically homogeneous student bodies (Hamm et al. 2014). The rural schools also served economically disadvantaged communities (Hamm et al. 2014). Analyses of the efficacy of the BASE program in rural schools did not differentiate program effects based on students’ economic status given that the majority of students were eligible for the free- or reduced-price lunch program. The metropolitan schools included in the present study served diverse socioeconomic communities; in most schools, the proportion of students eligible for free- or reduced-price lunch did not constitute a majority of the student body. Therefore, in the current study, effects of the program were tested not only for differential effects by student gender and race/ethnicity, but also by economic status.
+Finally, the present study complements and extends the potential student outcomes affected by teachers’ completion of the BASE program. Parallel to efficacy studies in rural schools, the impact of the BASE model was examined for students’ academic outcomes including school valuing and sense of school belonging. Students also rated their perceptions of peer support both for academic effort and achievement, as well as their perceptions of the peer bullying ecology (i.e., do they perceive peers as supportive of bullying). New to the metropolitan schools efficacy trial were self-ratings of behavioral adjustment (i.e., classroom defiance), and aspects of socio-emotional adjustment, including social anxiety and emotional symptoms.
+
+Current Study
+The goal of the current study was to examine the impact of this multi-component intervention program in metropolitan schools by comparing differences in students’ self-reported adjustment and perceptions of the school context during the first year of middle school in schools with teachers trained in the BASE model versus control schools. Students in intervention schools were expected to have more positive adjustment outcomes across the academic, behavioral, and social domains assessed through self-reports of school valuing, peer norms for academic effort, school belonging, perceptions of the peer bullying ecology, defiance, social anxiety, and emotional symptoms. The emphasis on students’ self-reported adjustment and perceptions of their school context is key: this approach helps to establish the extent to which an intervention targeting teacher practices yields more positive experiences of the middle school transition year among students.
+As an important task of intervention work is determining for whom interventions are most effective (Farrell et al. 2013), possible moderators of the intervention effects including gender, race/ethnicity, and economic status were considered. Gender was explored as a possible moderator given research suggesting gender differences in adjustment during early adolescence, particularly when youth transition to middle school (e.g., Chung et al. 1998); however, no concrete hypotheses were made regarding whether boys or girls would benefit more from the intervention, particularly in light of the absence of gender differences in the efficacy study of the BASE program in rural schools (Hamm et al. 2010). Additionally, students with ethnic minority status (e.g., Black, Hispanic) and lower economic status (i.e., those eligible for free- or reduced-price lunch) were expected to demonstrate more positive outcomes in intervention schools compared to their counterparts in control schools. This expectation was based on the assumption that vulnerable youth, who are more likely to experience school difficulties (e.g., Sirin 2005), may specifically benefit from teachers’ management strategies to support students’ academic, behavioral, and social adjustment in intervention versus control schools. Further, prior research on the BASE model suggests the intervention may be particularly beneficial for ethnic minority youth (Hamm et al. 2010).
+
+Current Study
+
+The goal of the current study was to examine the impact of this multi-component intervention program in metropolitan schools by comparing differences in students’ self-reported adjustment and perceptions of the school context during the first year of middle school in schools with teachers trained in the BASE model versus control schools. Students in intervention schools were expected to have more positive adjustment outcomes across the academic, behavioral, and social domains assessed through self-reports of school valuing, peer norms for academic effort, school belonging, perceptions of the peer bullying ecology, defiance, social anxiety, and emotional symptoms. The emphasis on students’ self-reported adjustment and perceptions of their school context is key: this approach helps to establish the extent to which an intervention targeting teacher practices yields more positive experiences of the middle school transition year among students.
+As an important task of intervention work is determining for whom interventions are most effective (Farrell et al. 2013), possible moderators of the intervention effects including gender, race/ethnicity, and economic status were considered. Gender was explored as a possible moderator given research suggesting gender differences in adjustment during early adolescence, particularly when youth transition to middle school (e.g., Chung et al. 1998); however, no concrete hypotheses were made regarding whether boys or girls would benefit more from the intervention, particularly in light of the absence of gender differences in the efficacy study of the BASE program in rural schools (Hamm et al. 2010). Additionally, students with ethnic minority status (e.g., Black, Hispanic) and lower economic status (i.e., those eligible for free- or reduced-price lunch) were expected to demonstrate more positive outcomes in intervention schools compared to their counterparts in control schools. This expectation was based on the assumption that vulnerable youth, who are more likely to experience school difficulties (e.g., Sirin 2005), may specifically benefit from teachers’ management strategies to support students’ academic, behavioral, and social adjustment in intervention versus control schools. Further, prior research on the BASE model suggests the intervention may be particularly beneficial for ethnic minority youth (Hamm et al. 2010).
+
+Method
+This study involved a cluster randomized controlled trial design in which matched pairs of schools were recruited for participation, and one of each pair was randomly assigned to the intervention or control condition. The BASE program was implemented during either the 2013–2014, 2014–2015, or 2015–2016 school year with all sixth-grade teachers in intervention schools (available to teachers in control schools at the conclusion of the study). Data were collected during the fall semester of 6th grade a few months into intervention and in the spring semester after the conclusion of intervention training from teachers and students who consented to participate in the research study.
+School Selection and Matching Procedure
+The majority (n = 22) of schools were located in metropolitan areas of a single state in the Southeastern United States. The remaining pair of schools (n = 2) was located in a single, metropolitan school district in a different, Southeastern state. National Center for Education Statistics Data (NCES) were used to identify school districts located in metropolitan statistical areas of both states. Potential school districts were approached for participation; project staff met with interested district personnel to complete participation and identify specific participating schools and pairings of schools. Within districts, schools were matched on student body size, test score and annual yearly progress status, percentage minority, and free/reduced lunch rates. With one exception, pairs of schools were located within the same district. Schools that constituted a possible match were contacted, informed of the study and its experimental nature (i.e., random assignment to intervention versus control status) and invited to participate.
+Sample
+Participating schools
+Among the 24 schools in the current study, enrollment ranged from 431 to 1235 (M = 756.8, SD = 214.8). Student racial/ethnic minority composition ranged from 16.8 to 76.7%, with a mean of 46.8% (SD = 16.1). On average, 46.8% of students were at or above proficiency for reading; 36.1% were at or above proficiency for math. The proportion of students eligible for free or reduced lunch ranged from 22.8 to 82.8% (M = 51.9, SD = 15.8).
+Participating teachers
+All core academic sixth-grade teachers in participating schools were invited to participate in the research study; 86% consented. The current sample included 220 sixth-grade general education teachers. The majority of participants self-identified as female (84.1%); most self-identified as White (85.0%) or African American (10.9%). All participating teachers reported that they held grade-level certification and at minimum, a four-year post-secondary degree, with 37.3% reporting a graduate-level degree. A modest percentage (15.9%) of teachers were novice (i.e., with three or fewer years of experience) but the majority of teachers were experienced, with 47.3% reporting more than 10 years of teaching experience. Because the focus of this study was on students’ perceptions of their transition experiences, teacher background data are reported for descriptive purposes only.
+Participating students
+All sixth-grade students in regular education classrooms were invited to participate; 49% consented. Most participating students were White (52.2%); the remainder were Black (22.0%), Hispanic (20.4%), Asian (1.8%), or Multi-racial (4.0%). Proportions of males and females were comparable across schools and intervention groups. The flow of participating schools, teachers, and students through the cluster randomized controlled trial are reported in Fig. 1 and the characteristics of intervention and control schools are reported in Table 1.
+Fig. 1
+CONSORT flow diagram of the BASE model
+Full size image
+Table 1 School, teacher, and student characteristics by intervention and control schools
+Full size table
+Procedures
+Consented students were gathered in the cafeteria or similar area and assured of their confidentiality as well as reminded that participation was voluntary and could be withdrawn at any time. Then, adhering to established protocol, a trained staff member led a group administration as students individually responded to survey items about themselves and their schooling experiences. Project staff circulated among participants, answering questions as needed. Students received school supplies for their participation. Teachers completed survey packets that included items about their own experiences and background, as well as about participating students. Teachers were compensated financially for their participation.
+School-Level Measures
+School-level variables included 12 dummy-coded variables for each matched pair of schools (1 = matched) and a dummy-coded variable for intervention condition (1 = intervention) (see Brown et al. 2010). These variables were included to account for the matched pair design.
+Student-Level Measures
+School valuing
+The measure of school valuing used in the current study was adapted from the 16-item Identification with School Questionnaire (Voelkl 1996) and includes seven items that reflect feelings of valuing school and school-related outcomes. Students rate their agreement with statements such as “School is one of the most important things in my life” on a 5-point response scale where 1 = strongly disagree and 5 = strongly agree. Construct validity for the scale has been established through high correlations with academic achievement and class participation (Finn and Frone 2004; Voelkl 1996). Cronbach’s alpha coefficient was 0.72 for the current sample.
+Peer norms for effort and achievement
+Students’ perceptions of the acceptability of achievement and effort among peer affiliates was measured with the Peer Norms for Effort and Achievement scale (Hamm et al. 2011). In response to the prompt, “The kids I hang around with at school think that it is good to:” students rate 11 items (e.g., “offer to help other students if you know the answer to a problem.”) on a 6-point scale (strongly disagree to strongly agree). Responses are averaged as an overall index of peer norms of the acceptability of effort and achievement in school. The Peer Norms for Effort and Achievement scale has demonstrated strong reliability across diverse student groups (α = 0.79–0.84; Hamm et al. 2011). For the current study sample, scale reliability was similarly strong (α = 0.84).
+School belonging
+School belonging was measured using Hagborg’s (1998) Psychological Sense of School Membership-Brief (PSSM-B) scale. Designed as a short version of Goodenow’s (1993) widely-used PSSM, the PSSM-B includes 11 items that focus on the affective connection students feel toward their schools. The PSSM questionnaire was developed to evaluate students’ sense of belonging or psychological membership in the school or classroom, which is defined by Goodenow (1993) as “the extent to which students feel personally accepted, respected, included and supported by others in the school social environment” (pp. 60–61). On a 5-point response scale ranging from 1 (completely false) to 5 (completely true), students rate their agreement with statements such as “I am treated with as much respect as other students.” Responses are averaged as an index of the student’s sense of school belonging, with higher scores indicating higher levels of belonging. Evidence of construct validity was found through contrast-group comparisons and correlations with multiple theoretically related constructs, including social status, motivation, and grades (Goodenow 1993). Cronbach’s alpha for the scale has ranged from 0.71–0.88 across diverse samples of early adolescents (e.g., Hagborg 1998; Hamm and Faircloth 2005). For the current study, Cronbach’s alpha coefficient was 0.82.
+Peer protective ecology
+Student perceptions of the bullying climate in their school was assessed with the Peer Protective Ecology Scale (Song 2005), which yields three subscales: Peer Protector, Peer Protection, and Peer Encouragement. Peer Protector consists of 5 items assessing a student’s inclination to protect others from bullying. In response to the prompt, “If I know that someone in my school is being bullied…,” students are asked the frequency with which they would protect the victimized student (e.g., “I would stick up for them”), with response options ranging from 1 (never) to 5 (always).
+The Peer Protection and Peer Encouragement subscale items similarly ask students to respond to situations they may encounter (with the same response options), but beginning with the prompt, “If I’m being bullied…” The Peer Protection subscale (8 items) assesses the extent to which students feel that peers would intervene if they were being bullied (e.g., “My peers would tell the others to stop the bullying,”). The Peer Encouragement subscale (5 items) assesses the extent to which students feel that their peers would encourage the bullying (e.g., “My peers would laugh”). Responses are averaged within each subscale to derive scores for Peer Protector, Peer Protection, and Peer Encouragement. For the current sample, Cronbach’s alpha was 0.86, 0.92, and 0.81, respectively.
+Defiance
+The Defiance Scale (Midgley et al. 2000) was used to assess students’ perceptions of the extent to which they exhibit defiant behavior in the classroom context. Students are asked, on a 5-point Likert scale (not at all true to very true), to respond to 5 items relating to their behavior (e.g., “I sometimes annoy my teacher during class,” and “I sometimes disturb the lesson that is going on”). Responses are averaged, with higher scores reflecting higher defiance. The Defiance Scale has demonstrated high internal reliability (e.g., Gregory and Ripski 2008), and was similarly strong for the current study (α = 0.89).
+Social anxiety
+Social anxiety was measured with the Screen for Child Anxiety Related Emotional Disorders (SCARED; Birmaher et al. 1999). The original SCARED items were developed based on pilot-testing with a clinical sample of children aged 9 to 18 (Birmaher et al. 1997), and two more social anxiety items were subsequently added to improve the psychometric properties, resulting in the current 7-item scale. Participants are asked to respond to prompts such as, “I feel shy with people I don’t know well” on a 3-point scale, with response options ranging from 0 (not true/hardly true) to 2 (very true/often true). Responses are averaged to derive a social anxiety score, with higher scores indicating more anxiety. A meta-analysis of studies utilizing the SCARED with older children and adolescents across 7 different countries revealed high internal reliability across cultures (mean α = 0.80, range = 0.75–0.89; Hale et al. 2011); for the current sample, Cronbach’s alpha was 0.79.
+Emotional symptoms
+Emotional symptoms were assessed with items from the Strengths and Difficulties Questionnaire (SDQ; Goodman 1997). The full SDQ has 25 items loading onto five subscales, each representing constructs of different psychological attributes. The current study included the five items from the emotional symptoms subscale. Sample items include, “I get a lot of headaches, stomachaches, or sickness,” and “I worry a lot.” Students respond on a 3-point scale (0 = not true, 1 = somewhat true, and 2 = certainly true); responses are averaged to create an overall score for emotional symptoms. Internal reliability coefficients for the SDQ have been reported as 0.76 for the full scale, and 0.61 for the Emotional Symptoms subscale (Goodman and Scott 1999); Cronbach’s alpha for the current sample was 0.70.
+Treatment Implementation and Fidelity
+Prior to the start of the school year, teachers in schools assigned to the intervention condition met in August for a 1.5-day summer institute (9.5 h total) that introduced the major components of the intervention and discussed how to apply the BASE components in the classroom. Following the start of the school year, teachers completed six online modules that covered topics such as classroom management, social dynamics, early adolescent development, motivation, and student cognition. The online modules were approximately 45 min each and were available to teachers to complete at approximately 3-week intervals. After fall data collection, teachers started videoconferencing with intervention staff after they completed each online module. On average, teachers completed 16.61 h (SD = 2.61) of training.
+The fidelity of teacher implementation of the intervention was assessed with the SEALS (Supporting Early Adolescents’ Learning and Social Success) observation instrument (see Hamm et al. 2014 for further details) which parallels other classroom observation measures and protocols (e.g., La Paro et al. 2004; Weiss et al. 2003). The measure assesses teachers’ classroom practices related to the major content domains covered by the online modules (e.g., classroom management, social dynamics). The rating scale for the measure had the following options: 1 (construct is absent and necessary), 2 (construct is present but teacher orientation is negative), 3 (construct is present and used favorably but inconsistently), 4 (teacher behavior directly reinforces construct), and 5 (teacher behavior is not present because it is not necessary). Average score for each content domain were calculated and a total score for the overall observation was calculated and used to compare implementation fidelity between intervention and control schools. Observers were blind to which schools were assigned to the intervention versus control condition. For more than 60% of observations conducted, interrater agreement was calculated with results from paired observations. On average, raters were within one point of each other 96% of the time (i.e., 93–100% across the domains).
+Analytic Plan
+Analyses were conducted using multilevel mixed effects modeling using Stata statistical software (StataCorp 2015) given the nested nature of the data with students (Level 1) nested in schools (Level 2) in accordance with recommendations for analyzing cluster randomized controlled trial designs (e.g., Brown et al. 2010). Level 2 dummy-coded blocking variables representing each matched pair were included in the model with the worst matched pair serving as the reference group to account for the matched pairs design of the intervention. A dummy-coded variable for intervention was also included at Level 2 (0 = control, 1 = intervention). Level 1 dummy-coded variables for gender (0 = girls, 1 = boys), ethnic minority/ majority status (0 = ethnic majority, 1 = ethnic minority: Black, Hispanic), and economic status (i.e., free-/reduced-price lunch status; 0 = ineligible for reduced-price lunch, 1 = eligible for free-/reduced-price lunch) were also included. Cross-level interactions were tested between demographic factors at Level 1 and the intervention at Level 2 to test for moderation effects of the intervention. A series of models were estimated examining differences in students’ self-reported variables in the spring semester following completion of the BASE implementation (post intervention).
+Given specific expectations that student adjustment would be more favorable in BASE compared to control schools, one-tailed significance tests were performed for the main effect analyses. Also, given expectation that the BASE model would be particularly beneficial for more vulnerable youth, one-tailed significance tests were performed for race/ethnicity and economic status moderation effects. Because no a priori hypotheses were formed for specific moderation effects by gender, two-tailed significance tests were performed. Significant interactions were plotted and simple slope analyses were performed to examine whether slopes significantly differed from zero.
+Missing Data
+Of the 2925 students with parental consent in the fall semester, 61 students were no longer enrolled in the spring semester (n = 33 intervention), yielding a total of 2864 students with parental consent and student assent for participation in the spring semester. Of those 2864 students, between 12.0 and 12.6% of students were missing data for the outcomes of interest. A series of chi-square analyses were performed to assess demographic differences in those missing data versus those with complete data. There were gender differences (χ2s > 4.088, ps < 0.043) for two of the nine dependent variables between those missing data versus those with complete data with boys more likely to be missing data than girls. There were also significant race/ethnicity and economic status differences in missing data (χ2s > 8.386, ps < 0.004). Ethnic minority students and students with lower economic status were more likely to be missing data compared to ethnic majority students and students with higher economic status. Giving these patterns, data were not assumed to be missing completely at random (MCAR; Little’s MCAR test, χ2 = 600.298, p < 0.001; Little 1988) but were assumed to be missing at random (MAR). Missing data was handled in analyses with maximum likelihood estimation.
+
+Method
+
+This study involved a cluster randomized controlled trial design in which matched pairs of schools were recruited for participation, and one of each pair was randomly assigned to the intervention or control condition. The BASE program was implemented during either the 2013–2014, 2014–2015, or 2015–2016 school year with all sixth-grade teachers in intervention schools (available to teachers in control schools at the conclusion of the study). Data were collected during the fall semester of 6th grade a few months into intervention and in the spring semester after the conclusion of intervention training from teachers and students who consented to participate in the research study.
+School Selection and Matching Procedure
+The majority (n = 22) of schools were located in metropolitan areas of a single state in the Southeastern United States. The remaining pair of schools (n = 2) was located in a single, metropolitan school district in a different, Southeastern state. National Center for Education Statistics Data (NCES) were used to identify school districts located in metropolitan statistical areas of both states. Potential school districts were approached for participation; project staff met with interested district personnel to complete participation and identify specific participating schools and pairings of schools. Within districts, schools were matched on student body size, test score and annual yearly progress status, percentage minority, and free/reduced lunch rates. With one exception, pairs of schools were located within the same district. Schools that constituted a possible match were contacted, informed of the study and its experimental nature (i.e., random assignment to intervention versus control status) and invited to participate.
+Sample
+Participating schools
+Among the 24 schools in the current study, enrollment ranged from 431 to 1235 (M = 756.8, SD = 214.8). Student racial/ethnic minority composition ranged from 16.8 to 76.7%, with a mean of 46.8% (SD = 16.1). On average, 46.8% of students were at or above proficiency for reading; 36.1% were at or above proficiency for math. The proportion of students eligible for free or reduced lunch ranged from 22.8 to 82.8% (M = 51.9, SD = 15.8).
+Participating teachers
+All core academic sixth-grade teachers in participating schools were invited to participate in the research study; 86% consented. The current sample included 220 sixth-grade general education teachers. The majority of participants self-identified as female (84.1%); most self-identified as White (85.0%) or African American (10.9%). All participating teachers reported that they held grade-level certification and at minimum, a four-year post-secondary degree, with 37.3% reporting a graduate-level degree. A modest percentage (15.9%) of teachers were novice (i.e., with three or fewer years of experience) but the majority of teachers were experienced, with 47.3% reporting more than 10 years of teaching experience. Because the focus of this study was on students’ perceptions of their transition experiences, teacher background data are reported for descriptive purposes only.
+Participating students
+All sixth-grade students in regular education classrooms were invited to participate; 49% consented. Most participating students were White (52.2%); the remainder were Black (22.0%), Hispanic (20.4%), Asian (1.8%), or Multi-racial (4.0%). Proportions of males and females were comparable across schools and intervention groups. The flow of participating schools, teachers, and students through the cluster randomized controlled trial are reported in Fig. 1 and the characteristics of intervention and control schools are reported in Table 1.
+Fig. 1
+CONSORT flow diagram of the BASE model
+Full size image
+Table 1 School, teacher, and student characteristics by intervention and control schools
+Full size table
+Procedures
+Consented students were gathered in the cafeteria or similar area and assured of their confidentiality as well as reminded that participation was voluntary and could be withdrawn at any time. Then, adhering to established protocol, a trained staff member led a group administration as students individually responded to survey items about themselves and their schooling experiences. Project staff circulated among participants, answering questions as needed. Students received school supplies for their participation. Teachers completed survey packets that included items about their own experiences and background, as well as about participating students. Teachers were compensated financially for their participation.
+School-Level Measures
+School-level variables included 12 dummy-coded variables for each matched pair of schools (1 = matched) and a dummy-coded variable for intervention condition (1 = intervention) (see Brown et al. 2010). These variables were included to account for the matched pair design.
+Student-Level Measures
+School valuing
+The measure of school valuing used in the current study was adapted from the 16-item Identification with School Questionnaire (Voelkl 1996) and includes seven items that reflect feelings of valuing school and school-related outcomes. Students rate their agreement with statements such as “School is one of the most important things in my life” on a 5-point response scale where 1 = strongly disagree and 5 = strongly agree. Construct validity for the scale has been established through high correlations with academic achievement and class participation (Finn and Frone 2004; Voelkl 1996). Cronbach’s alpha coefficient was 0.72 for the current sample.
+Peer norms for effort and achievement
+Students’ perceptions of the acceptability of achievement and effort among peer affiliates was measured with the Peer Norms for Effort and Achievement scale (Hamm et al. 2011). In response to the prompt, “The kids I hang around with at school think that it is good to:” students rate 11 items (e.g., “offer to help other students if you know the answer to a problem.”) on a 6-point scale (strongly disagree to strongly agree). Responses are averaged as an overall index of peer norms of the acceptability of effort and achievement in school. The Peer Norms for Effort and Achievement scale has demonstrated strong reliability across diverse student groups (α = 0.79–0.84; Hamm et al. 2011). For the current study sample, scale reliability was similarly strong (α = 0.84).
+School belonging
+School belonging was measured using Hagborg’s (1998) Psychological Sense of School Membership-Brief (PSSM-B) scale. Designed as a short version of Goodenow’s (1993) widely-used PSSM, the PSSM-B includes 11 items that focus on the affective connection students feel toward their schools. The PSSM questionnaire was developed to evaluate students’ sense of belonging or psychological membership in the school or classroom, which is defined by Goodenow (1993) as “the extent to which students feel personally accepted, respected, included and supported by others in the school social environment” (pp. 60–61). On a 5-point response scale ranging from 1 (completely false) to 5 (completely true), students rate their agreement with statements such as “I am treated with as much respect as other students.” Responses are averaged as an index of the student’s sense of school belonging, with higher scores indicating higher levels of belonging. Evidence of construct validity was found through contrast-group comparisons and correlations with multiple theoretically related constructs, including social status, motivation, and grades (Goodenow 1993). Cronbach’s alpha for the scale has ranged from 0.71–0.88 across diverse samples of early adolescents (e.g., Hagborg 1998; Hamm and Faircloth 2005). For the current study, Cronbach’s alpha coefficient was 0.82.
+Peer protective ecology
+Student perceptions of the bullying climate in their school was assessed with the Peer Protective Ecology Scale (Song 2005), which yields three subscales: Peer Protector, Peer Protection, and Peer Encouragement. Peer Protector consists of 5 items assessing a student’s inclination to protect others from bullying. In response to the prompt, “If I know that someone in my school is being bullied…,” students are asked the frequency with which they would protect the victimized student (e.g., “I would stick up for them”), with response options ranging from 1 (never) to 5 (always).
+The Peer Protection and Peer Encouragement subscale items similarly ask students to respond to situations they may encounter (with the same response options), but beginning with the prompt, “If I’m being bullied…” The Peer Protection subscale (8 items) assesses the extent to which students feel that peers would intervene if they were being bullied (e.g., “My peers would tell the others to stop the bullying,”). The Peer Encouragement subscale (5 items) assesses the extent to which students feel that their peers would encourage the bullying (e.g., “My peers would laugh”). Responses are averaged within each subscale to derive scores for Peer Protector, Peer Protection, and Peer Encouragement. For the current sample, Cronbach’s alpha was 0.86, 0.92, and 0.81, respectively.
+Defiance
+The Defiance Scale (Midgley et al. 2000) was used to assess students’ perceptions of the extent to which they exhibit defiant behavior in the classroom context. Students are asked, on a 5-point Likert scale (not at all true to very true), to respond to 5 items relating to their behavior (e.g., “I sometimes annoy my teacher during class,” and “I sometimes disturb the lesson that is going on”). Responses are averaged, with higher scores reflecting higher defiance. The Defiance Scale has demonstrated high internal reliability (e.g., Gregory and Ripski 2008), and was similarly strong for the current study (α = 0.89).
+Social anxiety
+Social anxiety was measured with the Screen for Child Anxiety Related Emotional Disorders (SCARED; Birmaher et al. 1999). The original SCARED items were developed based on pilot-testing with a clinical sample of children aged 9 to 18 (Birmaher et al. 1997), and two more social anxiety items were subsequently added to improve the psychometric properties, resulting in the current 7-item scale. Participants are asked to respond to prompts such as, “I feel shy with people I don’t know well” on a 3-point scale, with response options ranging from 0 (not true/hardly true) to 2 (very true/often true). Responses are averaged to derive a social anxiety score, with higher scores indicating more anxiety. A meta-analysis of studies utilizing the SCARED with older children and adolescents across 7 different countries revealed high internal reliability across cultures (mean α = 0.80, range = 0.75–0.89; Hale et al. 2011); for the current sample, Cronbach’s alpha was 0.79.
+Emotional symptoms
+Emotional symptoms were assessed with items from the Strengths and Difficulties Questionnaire (SDQ; Goodman 1997). The full SDQ has 25 items loading onto five subscales, each representing constructs of different psychological attributes. The current study included the five items from the emotional symptoms subscale. Sample items include, “I get a lot of headaches, stomachaches, or sickness,” and “I worry a lot.” Students respond on a 3-point scale (0 = not true, 1 = somewhat true, and 2 = certainly true); responses are averaged to create an overall score for emotional symptoms. Internal reliability coefficients for the SDQ have been reported as 0.76 for the full scale, and 0.61 for the Emotional Symptoms subscale (Goodman and Scott 1999); Cronbach’s alpha for the current sample was 0.70.
+Treatment Implementation and Fidelity
+Prior to the start of the school year, teachers in schools assigned to the intervention condition met in August for a 1.5-day summer institute (9.5 h total) that introduced the major components of the intervention and discussed how to apply the BASE components in the classroom. Following the start of the school year, teachers completed six online modules that covered topics such as classroom management, social dynamics, early adolescent development, motivation, and student cognition. The online modules were approximately 45 min each and were available to teachers to complete at approximately 3-week intervals. After fall data collection, teachers started videoconferencing with intervention staff after they completed each online module. On average, teachers completed 16.61 h (SD = 2.61) of training.
+The fidelity of teacher implementation of the intervention was assessed with the SEALS (Supporting Early Adolescents’ Learning and Social Success) observation instrument (see Hamm et al. 2014 for further details) which parallels other classroom observation measures and protocols (e.g., La Paro et al. 2004; Weiss et al. 2003). The measure assesses teachers’ classroom practices related to the major content domains covered by the online modules (e.g., classroom management, social dynamics). The rating scale for the measure had the following options: 1 (construct is absent and necessary), 2 (construct is present but teacher orientation is negative), 3 (construct is present and used favorably but inconsistently), 4 (teacher behavior directly reinforces construct), and 5 (teacher behavior is not present because it is not necessary). Average score for each content domain were calculated and a total score for the overall observation was calculated and used to compare implementation fidelity between intervention and control schools. Observers were blind to which schools were assigned to the intervention versus control condition. For more than 60% of observations conducted, interrater agreement was calculated with results from paired observations. On average, raters were within one point of each other 96% of the time (i.e., 93–100% across the domains).
+Analytic Plan
+Analyses were conducted using multilevel mixed effects modeling using Stata statistical software (StataCorp 2015) given the nested nature of the data with students (Level 1) nested in schools (Level 2) in accordance with recommendations for analyzing cluster randomized controlled trial designs (e.g., Brown et al. 2010). Level 2 dummy-coded blocking variables representing each matched pair were included in the model with the worst matched pair serving as the reference group to account for the matched pairs design of the intervention. A dummy-coded variable for intervention was also included at Level 2 (0 = control, 1 = intervention). Level 1 dummy-coded variables for gender (0 = girls, 1 = boys), ethnic minority/ majority status (0 = ethnic majority, 1 = ethnic minority: Black, Hispanic), and economic status (i.e., free-/reduced-price lunch status; 0 = ineligible for reduced-price lunch, 1 = eligible for free-/reduced-price lunch) were also included. Cross-level interactions were tested between demographic factors at Level 1 and the intervention at Level 2 to test for moderation effects of the intervention. A series of models were estimated examining differences in students’ self-reported variables in the spring semester following completion of the BASE implementation (post intervention).
+Given specific expectations that student adjustment would be more favorable in BASE compared to control schools, one-tailed significance tests were performed for the main effect analyses. Also, given expectation that the BASE model would be particularly beneficial for more vulnerable youth, one-tailed significance tests were performed for race/ethnicity and economic status moderation effects. Because no a priori hypotheses were formed for specific moderation effects by gender, two-tailed significance tests were performed. Significant interactions were plotted and simple slope analyses were performed to examine whether slopes significantly differed from zero.
+Missing Data
+Of the 2925 students with parental consent in the fall semester, 61 students were no longer enrolled in the spring semester (n = 33 intervention), yielding a total of 2864 students with parental consent and student assent for participation in the spring semester. Of those 2864 students, between 12.0 and 12.6% of students were missing data for the outcomes of interest. A series of chi-square analyses were performed to assess demographic differences in those missing data versus those with complete data. There were gender differences (χ2s > 4.088, ps < 0.043) for two of the nine dependent variables between those missing data versus those with complete data with boys more likely to be missing data than girls. There were also significant race/ethnicity and economic status differences in missing data (χ2s > 8.386, ps < 0.004). Ethnic minority students and students with lower economic status were more likely to be missing data compared to ethnic majority students and students with higher economic status. Giving these patterns, data were not assumed to be missing completely at random (MCAR; Little’s MCAR test, χ2 = 600.298, p < 0.001; Little 1988) but were assumed to be missing at random (MAR). Missing data was handled in analyses with maximum likelihood estimation.
+
+Fig. 1
+CONSORT flow diagram of the BASE model
+Full size image
+
+Fig. 1
+
+CONSORT flow diagram of the BASE model
+
+CONSORT flow diagram of the BASE model
+
+Results
+Implementation Fidelity
+Intervention versus control schools were compared on implementation fidelity by comparing teachers’ total scores on the classroom observation fidelity instrument in the spring semester once all intervention activities were complete. To partition the variance in the total scores into between- versus within-school variance, an unconditional model was estimated which yielded an intraclass correlation coefficient (ICC) of 0.00, indicating that no variance was between schools. School blocking variables were next entered into the model, followed by the intervention variable. Results demonstrate a significant coefficient for the intervention variable (β = 0.148, SE = 0.084, p = 0.039), indicating that teachers in intervention schools had classroom environments and instructional practices more in line with the BASE model compared to teachers in control schools.
+Descriptive Statistics and Correlation Analyses
+Means and standard deviations of the study variables are listed in Table 2 for both fall and spring semesters, split by intervention and control schools. Results from the correlation analyses are presented in Table 3. Looking at demographic patterns, there was a positive correlation between race/ethnicity and economic status (r= 0.43, p < 0.001) meaning that ethnic minority youth were more likely to have lower economic status. Boys had lower school valuing, perceived lower peer norms for effort and reported less social anxiety and emotional symptoms across both semesters (rs > −0.07, ps < 0.001). Boys were also more likely to have negative perceptions of the bullying ecology compared to girls: boys were less willing to protect peers being bullied, expected less protection from peers, and perceived more peer encouragement for bullying in both semesters (rs > −0.10, ps < 0.001 and rs > 0.08, ps < 0.001 respectively). Ethnic minority students reported higher school valuing (r = 0.05, p = 0.018) but lower sense of school belonging in the spring semester (r= −0.06, p < 0.01). Both ethnic minority students and students with lower economic status were more likely to self-report greater defiance towards teachers, higher perceptions of peer encouragement for bullying, and greater social anxiety in both semesters (rs > 0.06, ps < 0.01).
+Table 2 Means and standard deviations of key variables by intervention and control schools
+Full size table
+Table 3 Correlations among study variables
+Full size table
+Within and across both semesters, students’ sense of school belonging was positively related to school valuing, perceptions of peer norms for effort, willingness to be a peer protector against bullies and perceptions that peers would protect them if they were bullied, rs > 0.19, ps < 0.001. There was a negative correlation between school belonging and defiance, social anxiety, and emotional symptoms within and across both semesters (rs > −0.13, ps < 0.001), indicating that as students’ self-reported defiance towards teachers, social anxiety, and emotional symptoms increased, their sense of school belonging decreased. Lastly, within each semester, defiance, social anxiety, and emotional problems were negatively related to perceptions of peer protection from bullying (rs > −0.05, ps < 0.05) but positively related to perceptions of peer encouragement for bullying (rs > 0.10, ps < 0.001), suggesting that students’ perceptions of the peer bullying ecology were related to their behavioral and socio-emotional adjustment.
+Main and Moderation Effects
+A series of unconditional models were estimated for all dependent variables in the spring to partition the variances into between- versus within-school variances. ICCs ranged from 0.003 to 0.040, meaning that 0.3 to 4% of the variances was between schools. Next, the school blocking variables and the intervention variable were entered into the model to test the main effect of the intervention. There was no main effect of the intervention on any of the dependent variables (βs < 0.036, SEs > 0.019, ps > 0.124) but there were significant moderation effects. The cross-level interaction between intervention and gender was significant for social anxiety, β = 0.083, SE = 0.040, p = 0.040. A plot of the interaction (see Fig. 2) reveals that girls in intervention schools reported significantly less social anxiety compared to girls in control schools (simple slopes test z = 2.51, p = 0.012).
+Fig. 2
+Moderation effects of the BASE intervention program by gender. *p < 0.05
+Full size image
+Significant moderation by ethnicity was also found. Ethnic minority youth reported less defiance towards teachers (β = −0.199, SE = 0.089, p = 0.013; simple slope ns; see Fig. 3). Ethnic minority youth also reported greater willingness to protect peers being bullied compared to ethnic minority youth in control schools (β = 0.129, SE = 0.073, p = 0.038; simple slope ns). Lastly, results demonstrated significant moderation effects by students’ economic status. Students with lower economic status reported lower emotional problems in intervention schools compared to students with lower economic status in control schools (β = −0.069, SE = 0.037, p = 0.032; simple slope z = 2.05, p = 0.040, see Fig. 4).
+Fig. 3
+Moderation effects of the BASE intervention program by race/ethnicity
+Full size image
+Fig. 4
+Moderation effects of the BASE intervention program by economic status. *p < 0.05
+Full size image
+Alternative Analyses
+A series of sensitivity analyses were conducted predicting spring semester variables while controlling for fall semester levels. Only one of the moderation effects remained significant: even after controlling for the fall semester, students with lower economic status in intervention schools reported lower emotional problems compared to their counterparts in control schools (β = −0.066, SE = 0.030, p = 0.015). The other moderation effects by gender and ethnic minority on intervention effects in the spring semester were no longer significant after controlling for the fall semester (βs < −0.104, SEs < 0.069, p > 0.096). This conservative model (spring measures controlling for fall measures) is not presented for two reasons. First, the fall semester cannot be considered a true baseline as the data collection did not occur pre-intervention. As such, results for the fall can be interpreted as effects of the initial months of intervention. Second, had analyses controlled for fall levels, the results for models predicting the spring semester would only reflect intervention effects between the two data collection points rather than the overarching question of whether the intervention after full implementation affected student outcomes. Lastly, models were estimated that controlled for implementation fidelity. The results were similar: all moderation effects presented above remained significant after controlling for implementation fidelity (βs > −0.069, SEs < 0.089, ps < 0.048). For the sake of parsimony, the spring semester models are presented without the fidelity control.
+
+Results
+
+Implementation Fidelity
+Intervention versus control schools were compared on implementation fidelity by comparing teachers’ total scores on the classroom observation fidelity instrument in the spring semester once all intervention activities were complete. To partition the variance in the total scores into between- versus within-school variance, an unconditional model was estimated which yielded an intraclass correlation coefficient (ICC) of 0.00, indicating that no variance was between schools. School blocking variables were next entered into the model, followed by the intervention variable. Results demonstrate a significant coefficient for the intervention variable (β = 0.148, SE = 0.084, p = 0.039), indicating that teachers in intervention schools had classroom environments and instructional practices more in line with the BASE model compared to teachers in control schools.
+Descriptive Statistics and Correlation Analyses
+Means and standard deviations of the study variables are listed in Table 2 for both fall and spring semesters, split by intervention and control schools. Results from the correlation analyses are presented in Table 3. Looking at demographic patterns, there was a positive correlation between race/ethnicity and economic status (r= 0.43, p < 0.001) meaning that ethnic minority youth were more likely to have lower economic status. Boys had lower school valuing, perceived lower peer norms for effort and reported less social anxiety and emotional symptoms across both semesters (rs > −0.07, ps < 0.001). Boys were also more likely to have negative perceptions of the bullying ecology compared to girls: boys were less willing to protect peers being bullied, expected less protection from peers, and perceived more peer encouragement for bullying in both semesters (rs > −0.10, ps < 0.001 and rs > 0.08, ps < 0.001 respectively). Ethnic minority students reported higher school valuing (r = 0.05, p = 0.018) but lower sense of school belonging in the spring semester (r= −0.06, p < 0.01). Both ethnic minority students and students with lower economic status were more likely to self-report greater defiance towards teachers, higher perceptions of peer encouragement for bullying, and greater social anxiety in both semesters (rs > 0.06, ps < 0.01).
+Table 2 Means and standard deviations of key variables by intervention and control schools
+Full size table
+Table 3 Correlations among study variables
+Full size table
+Within and across both semesters, students’ sense of school belonging was positively related to school valuing, perceptions of peer norms for effort, willingness to be a peer protector against bullies and perceptions that peers would protect them if they were bullied, rs > 0.19, ps < 0.001. There was a negative correlation between school belonging and defiance, social anxiety, and emotional symptoms within and across both semesters (rs > −0.13, ps < 0.001), indicating that as students’ self-reported defiance towards teachers, social anxiety, and emotional symptoms increased, their sense of school belonging decreased. Lastly, within each semester, defiance, social anxiety, and emotional problems were negatively related to perceptions of peer protection from bullying (rs > −0.05, ps < 0.05) but positively related to perceptions of peer encouragement for bullying (rs > 0.10, ps < 0.001), suggesting that students’ perceptions of the peer bullying ecology were related to their behavioral and socio-emotional adjustment.
+Main and Moderation Effects
+A series of unconditional models were estimated for all dependent variables in the spring to partition the variances into between- versus within-school variances. ICCs ranged from 0.003 to 0.040, meaning that 0.3 to 4% of the variances was between schools. Next, the school blocking variables and the intervention variable were entered into the model to test the main effect of the intervention. There was no main effect of the intervention on any of the dependent variables (βs < 0.036, SEs > 0.019, ps > 0.124) but there were significant moderation effects. The cross-level interaction between intervention and gender was significant for social anxiety, β = 0.083, SE = 0.040, p = 0.040. A plot of the interaction (see Fig. 2) reveals that girls in intervention schools reported significantly less social anxiety compared to girls in control schools (simple slopes test z = 2.51, p = 0.012).
+Fig. 2
+Moderation effects of the BASE intervention program by gender. *p < 0.05
+Full size image
+Significant moderation by ethnicity was also found. Ethnic minority youth reported less defiance towards teachers (β = −0.199, SE = 0.089, p = 0.013; simple slope ns; see Fig. 3). Ethnic minority youth also reported greater willingness to protect peers being bullied compared to ethnic minority youth in control schools (β = 0.129, SE = 0.073, p = 0.038; simple slope ns). Lastly, results demonstrated significant moderation effects by students’ economic status. Students with lower economic status reported lower emotional problems in intervention schools compared to students with lower economic status in control schools (β = −0.069, SE = 0.037, p = 0.032; simple slope z = 2.05, p = 0.040, see Fig. 4).
+Fig. 3
+Moderation effects of the BASE intervention program by race/ethnicity
+Full size image
+Fig. 4
+Moderation effects of the BASE intervention program by economic status. *p < 0.05
+Full size image
+Alternative Analyses
+A series of sensitivity analyses were conducted predicting spring semester variables while controlling for fall semester levels. Only one of the moderation effects remained significant: even after controlling for the fall semester, students with lower economic status in intervention schools reported lower emotional problems compared to their counterparts in control schools (β = −0.066, SE = 0.030, p = 0.015). The other moderation effects by gender and ethnic minority on intervention effects in the spring semester were no longer significant after controlling for the fall semester (βs < −0.104, SEs < 0.069, p > 0.096). This conservative model (spring measures controlling for fall measures) is not presented for two reasons. First, the fall semester cannot be considered a true baseline as the data collection did not occur pre-intervention. As such, results for the fall can be interpreted as effects of the initial months of intervention. Second, had analyses controlled for fall levels, the results for models predicting the spring semester would only reflect intervention effects between the two data collection points rather than the overarching question of whether the intervention after full implementation affected student outcomes. Lastly, models were estimated that controlled for implementation fidelity. The results were similar: all moderation effects presented above remained significant after controlling for implementation fidelity (βs > −0.069, SEs < 0.089, ps < 0.048). For the sake of parsimony, the spring semester models are presented without the fidelity control.
+
+Fig. 2
+Moderation effects of the BASE intervention program by gender. *p < 0.05
+Full size image
+
+Fig. 2
+
+Moderation effects of the BASE intervention program by gender. *p < 0.05
+
+Moderation effects of the BASE intervention program by gender. *p < 0.05
+
+Fig. 3
+Moderation effects of the BASE intervention program by race/ethnicity
+Full size image
+
+Fig. 3
+
+Moderation effects of the BASE intervention program by race/ethnicity
+
+Moderation effects of the BASE intervention program by race/ethnicity
+
+Fig. 4
+Moderation effects of the BASE intervention program by economic status. *p < 0.05
+Full size image
+
+Fig. 4
+
+Moderation effects of the BASE intervention program by economic status. *p < 0.05
+
+Moderation effects of the BASE intervention program by economic status. *p < 0.05
+
+Discussion
+The combination of developmental changes and a new school context following the transition to middle school can heighten early adolescents’ vulnerabilities to adjustment difficulties across the academic, behavioral, and social domains. The BASE program was created in response to a need for intervention programs that support youth’s correlated adjustment risks by providing teachers with classroom management strategies as they strive to create supportive classroom contexts. The results of the present study suggest that a multi-component intervention program for teachers is associated with more positive adjustment indices for certain students in metropolitan schools. Although analyses did not detect that the program was beneficial broadly to all students, moderation analyses revealed specific benefits for girls, students from ethnic minority backgrounds and those eligible for free- or reduced-price lunch.
+Enhancing Behavioral, Academic, and Social Adjustment
+The instructional and social changes youth experience during the transition to middle school can negatively impact students’ academic engagement and success (Anderman and Mueller 2010). The BASE program was designed to mitigate the negative impacts of these changes in ways that not only reduce problems but also promote positive adjustment. The findings from this study provide evidence that, particularly for vulnerable subgroups such as ethnic minority students and students with lower economic status, the BASE program was successful in this regard.
+Given the significant changes that occur during the middle school transition, it is unsurprising that past research finds that students experience heightened anxiety during the early adolescent developmental period, particularly girls (e.g., Grills-Taquechel et al. 2010). In the present study, girls in intervention schools reported less social anxiety compared to girls in control schools. The potential for adverse long-term effects of early anxiety cannot be overstated (see Grills-Taqechel et al. 2010 for discussion). As such, it is encouraging to see that teachers trained to be sensitive to the developmental challenges associated with the transition may be better able to establish classroom contexts that reduce feelings of anxiety for girls during this time of school change.
+Ethnic minority students reported less defiance toward teachers in intervention schools compared to ethnic minority youth in control schools. Defiant behavior can generate conflict between teachers and students and lead to disciplinary action that further jeopardizes students’ academic success (see Gregory et al. 2016) as well as jeopardize the smooth functioning of a classroom (e.g., Waschbusch et al. 2018). Defiant behavior displayed by ethnic minority youth may be particularly worrisome given findings that minority youth disproportionately receive more punitive school policies for behavior that teachers and school personnel interpret as problematic (U.S. Department of Education Office of Civil Rights 2012) which can set them on a trajectory that increases the likelihood of negative outcomes (i.e., contact with juvenile justice system) and decreases the likelihood of positive outcomes (e.g., educational attainment and success; Gregory et al. 2010).
+Further, problematic or defiant behavior can increase the likelihood of teacher burnout (Aloe et al. 2014) which, in turn, can increase teacher attrition, a problem that has become critical in the past few decades (Ingersoll 2003). Thus, as part of multifaceted efforts to reduce the “revolving door” of teachers leaving the profession (Ingersoll 2003), one important avenue is to reduce problematic student-teacher interactions and problem behavior that can stem from a mismatch between early adolescents’ capabilities and needs and the demands of the classroom context (Farmer et al. 2010). On this score, these results suggest that teachers trained in the BASE model may be better able to create classroom environments that are developmentally appropriate, characterized by more positive student-teacher interactions, and where students feel accepted and supported, thereby reducing some students’ self-reported engagement in defiant behavior.
+Ethnic minority youth also reported greater willingness to protect peers being bullied compared to ethnic minority students in control schools. Greater willingness to intervene can lead to better outcomes for victims and school peers in general according to the burgeoning research on bystander interventions (e.g., Kӓrnӓ et al. 2010; Salmivalli 2014). The social-ecological perspective (Swearer and Espelage 2004) suggests that victimization does not occur in a social vacuum; it often occurs in social setting, such as the classroom, with peers being involved in various participant roles (Salmivalli 2010). Having even one peer intervene on behalf of a victimized youth can mitigate the detrimental outcomes associated with victimization (Sainio et al. 2011). Yet, a key step before students get to the point of intervening is to admit a willingness to do so. The fact that ethnic minority students in intervention schools indicated such willingness to protect peers suggest that intervention teachers were able to establish classroom expectations such that bystander behavior was promoted and encouraged. This may be attributed to the social dynamics component of the BASE model in which teachers were given strategies to create classroom climates that discouraged bullying and encouraged support for victims which can positively impact all students in the classroom, not just those involved in peer victimization.
+Lastly, results suggest that teachers in intervention schools created positive classroom climates that reduced emotional problems for students from lower economic backgrounds. In line with the dynamic systems perspective, youth who experience problems with social anxiety or emotional problems may be at increased risk for spill-over effects into other domains such as behavior or academics (developmental cascades; Masten and Cicchetti 2010). Indeed, the developmental science perspective suggests that functioning in one domain will dynamically and bidirectionally interact with functioning in other domains (Magnusson and Cairns 1996). This growing recognition of the importance of healthy emotional and social adjustment to students’ overall success in school is evident in recent research (e.g., Corcoran et al. 2018) and is helping redefine what it means to successfully adjust in the school context. These results suggest that teachers trained in the BASE model to recognize the interconnectedness of students’ academic, behavioral, and social functioning and to apply developmentally appropriate strategies are better able to set up classrooms which foster positive emotional adjustment for youth from lower economic backgrounds who may be particularly vulnerable to experiencing school difficulties (e.g., Sirin 2005).
+Although results did show significant gender, ethnic, and economic status moderation effects of the intervention, it is important to note that these effects did not emerge for all of the outcomes of interest. It is interesting that of the moderation effects that did emerge, the majority were evident for indices of students’ self-reported socio-emotional adjustment (i.e., social anxiety, emotional problems), and behavior (i.e., defiance). The peer protector variable, while considered to be part of the overall peer bullying ecology, specifically indicates what students themselves would be willing to do (i.e., protect peers being bullied) and does not reflect their perceptions of what peers would do (e.g., support them if they were bullied or encourage the bully). Granted, students’ own willingness to protect victims will likely be influenced by their perceptions of peer norms around bystander behavior (i.e., is it acceptable or expected that they intervene; Kollerová et al. 2018), but it is worth noting the distinction between students’ self-reported willingness to intervene versus their perceptions of peers’ attitudes toward bullying. One would hope that each student’s increasing willingness to intervene will eventually lead to collective change in perceptions of peer norms but these effects may take longer to materialize than the time frame of this current investigation. All told, the findings for measures focused on students’ own adjustment suggest that it may take longer for the intervention to change the peer ecology enough to be reflected in students’ perceptions of their peers.
+Moderation effects were also not found for school valuing and school belonging. It may be that in order for meaningful change in these outcomes to occur, change in perceptions of the peer ecology must occur first. In the present study, school valuing and school belonging in the spring semester were significantly and positively related to perceptions of peer norms for effort (rs > 0.42, ps < 0.001) and perceptions for peer protection (rs > 0.26, ps < 0.001). This suggest that students’ perceptions of the peer ecology relate to whether they value school and feel like they belong at school. Existing research examining peer influence on students’ school adjustment indicate that perceptions of peers may play a contributing role in students’ sense of belonging and valuing for school. For example, Norwalk et al. (2016) found that teacher attunement to victimization was indirectly related to school belonging via student perceptions of their middle school’s bullying culture. Similarly, Wentzel and colleagues found that perceived expectations for social behavior from peers was directly related to internalized value of academic activities in middle and high school (Wentzel et al. 2017). Additionally, even though trajectories of school belonging and school valuing have been shown to decrease across adolescence, students who reported increased support from peers experienced less of a decrease than those that reported lower levels of support (Wang and Eccles 2012). All combined, research suggests that perceptions of one’s peers may play a powerful role in the extent to which students value school and feel like they belong at school. Thus, given that there were no significant intervention effects on outcomes related to peer perceptions (i.e., peer norms, peer protection and peer encouragement), this may be related to the lack of significant intervention effects for school valuing and school belonging.
+Counter to expectations, results revealed only moderation effects, not main effects of the intervention on students’ self-reported perceptions of the school context or adjustment indices. This suggests that intervention effects are nuanced in that there may be particular benefits to more vulnerable youth in metropolitan school settings such as ethnic minority students and students with lower economic status. Prior research on the BASE model found main effects of the intervention (Hamm et al. 2010, 2014) but there is an important contextual difference between prior studies and the current one: previous efficacy studies of the BASE model were conducted in rural locales in low-resourced schools and communities whereas the current investigation focused on metropolitan school districts which have considerably higher resources than rural locales (Hamm et al. 2010, 2014). Main effects may have been more pronounced in the rural schools because the vast majority of students in those schools would be considered vulnerable given the low-resourced community environment.
+Another possible explanation for the lack of main effects may be the complexity of large metropolitan schools. The schools in the current study were all involved in a number of professional development initiatives. While none focused specifically on helping teachers support early adolescents during the transition to middle school, it is worth considering whether there was a saturation effect with multiple initiatives being undertaken at once that may have diluted the specific effects of the BASE model. The larger number of teachers and students in metropolitan schools versus rural schools may also contribute to the lack of significant main effects. Implementation science research suggests that school characteristics, particularly school size, matter in the implementation process (e.g., Molloy et al. 2013). Larger schools may require more buy-in and support from the numerous members of the school staff (e.g., principals, teachers) and as such, it may take longer for positive results at the student level to be seen (Flannery et al. 2014). Thus, while the lack of main effects was surprising, it may be attributed to aspects of the metropolitan school context. In sum, this current study in combination with prior work on the BASE model underscores the need to examine the efficacy of interventions in various school and community settings as results may differ.
+Strengths and Limitations
+There are several strengths to this current study. One notable strength was the use of a randomized controlled trial design in which schools were first matched based on key criteria before they were randomly assigned to the intervention or control condition. This design increases confidence that outcomes are the result of intervention effects (Hsieh et al. 2005). A second strength was the inclusion of moderation analyses which aided in the identification of which subgroups benefit from intervention work, which is a task critical for the field (Farrell et al. 2013). Despite these strengths, this study included limitations that warrant discussion. First, although meaningful intervention effects were found, the analyses do not identify the specific mechanisms through which the intervention promoted positive adjustment indices for students in BASE schools. There are various mechanisms that might explain how teachers’ strategies impacted students’ adjustment including teachers’ attunement to peer social dynamics or more positive student-teacher relationships. For example, teachers’ attunement (i.e., awareness of) to youth being victimized positively impacted victim’s sense of school belonging via more positive expectations for protection from peers from bullying (Norwalk et al. 2016). Future research should examine these mechanisms to identify meaningful processes that mediate the relationship between teachers’ academic, behavioral, and social dynamic management strategies with student outcomes. A second limitation is that the schools were drawn from metropolitan areas in two Southeastern states. Thus far the BASE program has shown promising results in rural and now metropolitan settings but the generalizability to urban settings is unknown. Future work should expand into urban settings to assess the effectiveness of the BASE program intervention on students living in cities. A third limitation is that the study only assessed intervention effects over a relatively short period from the beginning to the end of students’ 6th grade year. As such, this study cannot speak to longer term changes in students’ outcomes as a result of the BASE program. However, given how pivotal the 6th grade year can be for students, the results of this study still provide insight into a possible intervention that can help teachers as they seek to create positive classroom environments that promote their students’ socio-emotional and behavioral adjustment following the transition to middle school. A fourth and related limitation is that this study did not assess effects of the intervention on changes to student outcomes, as true baseline measures were not available from students in the 5th grade year prior to their transition to middle school and the implementation of the BASE intervention model. Ideally, baseline data should be gathered whenever possible but it is worth noting that for some of the key variables of interest, specifically perceptions of the peer ecology, assessing these perceptions in students’ 5th grade year would reflect classroom ecologies from completely different schools with different teachers who were not involved in the intervention and therefore would be excluded from analyses. Additionally, despite the lack of baseline data, the rigorous cluster randomized controlled design increases the confidence that the findings reflected in the analyses reflect intervention effects (Hsieh et al. 2005). A final limitation is that only using student self-report measures may have introduced a shared reporter bias. Although the goal of the study was to assess the impact of the BASE professional development program on students’ perceived experiences and self-reported adjustment in the school environment, future research should include additional reporters (e.g., teachers, peer-reports) to fully elucidate how the intervention impacts the school ecology from multiple perspectives.
+
+Discussion
+
+The combination of developmental changes and a new school context following the transition to middle school can heighten early adolescents’ vulnerabilities to adjustment difficulties across the academic, behavioral, and social domains. The BASE program was created in response to a need for intervention programs that support youth’s correlated adjustment risks by providing teachers with classroom management strategies as they strive to create supportive classroom contexts. The results of the present study suggest that a multi-component intervention program for teachers is associated with more positive adjustment indices for certain students in metropolitan schools. Although analyses did not detect that the program was beneficial broadly to all students, moderation analyses revealed specific benefits for girls, students from ethnic minority backgrounds and those eligible for free- or reduced-price lunch.
+Enhancing Behavioral, Academic, and Social Adjustment
+The instructional and social changes youth experience during the transition to middle school can negatively impact students’ academic engagement and success (Anderman and Mueller 2010). The BASE program was designed to mitigate the negative impacts of these changes in ways that not only reduce problems but also promote positive adjustment. The findings from this study provide evidence that, particularly for vulnerable subgroups such as ethnic minority students and students with lower economic status, the BASE program was successful in this regard.
+Given the significant changes that occur during the middle school transition, it is unsurprising that past research finds that students experience heightened anxiety during the early adolescent developmental period, particularly girls (e.g., Grills-Taquechel et al. 2010). In the present study, girls in intervention schools reported less social anxiety compared to girls in control schools. The potential for adverse long-term effects of early anxiety cannot be overstated (see Grills-Taqechel et al. 2010 for discussion). As such, it is encouraging to see that teachers trained to be sensitive to the developmental challenges associated with the transition may be better able to establish classroom contexts that reduce feelings of anxiety for girls during this time of school change.
+Ethnic minority students reported less defiance toward teachers in intervention schools compared to ethnic minority youth in control schools. Defiant behavior can generate conflict between teachers and students and lead to disciplinary action that further jeopardizes students’ academic success (see Gregory et al. 2016) as well as jeopardize the smooth functioning of a classroom (e.g., Waschbusch et al. 2018). Defiant behavior displayed by ethnic minority youth may be particularly worrisome given findings that minority youth disproportionately receive more punitive school policies for behavior that teachers and school personnel interpret as problematic (U.S. Department of Education Office of Civil Rights 2012) which can set them on a trajectory that increases the likelihood of negative outcomes (i.e., contact with juvenile justice system) and decreases the likelihood of positive outcomes (e.g., educational attainment and success; Gregory et al. 2010).
+Further, problematic or defiant behavior can increase the likelihood of teacher burnout (Aloe et al. 2014) which, in turn, can increase teacher attrition, a problem that has become critical in the past few decades (Ingersoll 2003). Thus, as part of multifaceted efforts to reduce the “revolving door” of teachers leaving the profession (Ingersoll 2003), one important avenue is to reduce problematic student-teacher interactions and problem behavior that can stem from a mismatch between early adolescents’ capabilities and needs and the demands of the classroom context (Farmer et al. 2010). On this score, these results suggest that teachers trained in the BASE model may be better able to create classroom environments that are developmentally appropriate, characterized by more positive student-teacher interactions, and where students feel accepted and supported, thereby reducing some students’ self-reported engagement in defiant behavior.
+Ethnic minority youth also reported greater willingness to protect peers being bullied compared to ethnic minority students in control schools. Greater willingness to intervene can lead to better outcomes for victims and school peers in general according to the burgeoning research on bystander interventions (e.g., Kӓrnӓ et al. 2010; Salmivalli 2014). The social-ecological perspective (Swearer and Espelage 2004) suggests that victimization does not occur in a social vacuum; it often occurs in social setting, such as the classroom, with peers being involved in various participant roles (Salmivalli 2010). Having even one peer intervene on behalf of a victimized youth can mitigate the detrimental outcomes associated with victimization (Sainio et al. 2011). Yet, a key step before students get to the point of intervening is to admit a willingness to do so. The fact that ethnic minority students in intervention schools indicated such willingness to protect peers suggest that intervention teachers were able to establish classroom expectations such that bystander behavior was promoted and encouraged. This may be attributed to the social dynamics component of the BASE model in which teachers were given strategies to create classroom climates that discouraged bullying and encouraged support for victims which can positively impact all students in the classroom, not just those involved in peer victimization.
+Lastly, results suggest that teachers in intervention schools created positive classroom climates that reduced emotional problems for students from lower economic backgrounds. In line with the dynamic systems perspective, youth who experience problems with social anxiety or emotional problems may be at increased risk for spill-over effects into other domains such as behavior or academics (developmental cascades; Masten and Cicchetti 2010). Indeed, the developmental science perspective suggests that functioning in one domain will dynamically and bidirectionally interact with functioning in other domains (Magnusson and Cairns 1996). This growing recognition of the importance of healthy emotional and social adjustment to students’ overall success in school is evident in recent research (e.g., Corcoran et al. 2018) and is helping redefine what it means to successfully adjust in the school context. These results suggest that teachers trained in the BASE model to recognize the interconnectedness of students’ academic, behavioral, and social functioning and to apply developmentally appropriate strategies are better able to set up classrooms which foster positive emotional adjustment for youth from lower economic backgrounds who may be particularly vulnerable to experiencing school difficulties (e.g., Sirin 2005).
+Although results did show significant gender, ethnic, and economic status moderation effects of the intervention, it is important to note that these effects did not emerge for all of the outcomes of interest. It is interesting that of the moderation effects that did emerge, the majority were evident for indices of students’ self-reported socio-emotional adjustment (i.e., social anxiety, emotional problems), and behavior (i.e., defiance). The peer protector variable, while considered to be part of the overall peer bullying ecology, specifically indicates what students themselves would be willing to do (i.e., protect peers being bullied) and does not reflect their perceptions of what peers would do (e.g., support them if they were bullied or encourage the bully). Granted, students’ own willingness to protect victims will likely be influenced by their perceptions of peer norms around bystander behavior (i.e., is it acceptable or expected that they intervene; Kollerová et al. 2018), but it is worth noting the distinction between students’ self-reported willingness to intervene versus their perceptions of peers’ attitudes toward bullying. One would hope that each student’s increasing willingness to intervene will eventually lead to collective change in perceptions of peer norms but these effects may take longer to materialize than the time frame of this current investigation. All told, the findings for measures focused on students’ own adjustment suggest that it may take longer for the intervention to change the peer ecology enough to be reflected in students’ perceptions of their peers.
+Moderation effects were also not found for school valuing and school belonging. It may be that in order for meaningful change in these outcomes to occur, change in perceptions of the peer ecology must occur first. In the present study, school valuing and school belonging in the spring semester were significantly and positively related to perceptions of peer norms for effort (rs > 0.42, ps < 0.001) and perceptions for peer protection (rs > 0.26, ps < 0.001). This suggest that students’ perceptions of the peer ecology relate to whether they value school and feel like they belong at school. Existing research examining peer influence on students’ school adjustment indicate that perceptions of peers may play a contributing role in students’ sense of belonging and valuing for school. For example, Norwalk et al. (2016) found that teacher attunement to victimization was indirectly related to school belonging via student perceptions of their middle school’s bullying culture. Similarly, Wentzel and colleagues found that perceived expectations for social behavior from peers was directly related to internalized value of academic activities in middle and high school (Wentzel et al. 2017). Additionally, even though trajectories of school belonging and school valuing have been shown to decrease across adolescence, students who reported increased support from peers experienced less of a decrease than those that reported lower levels of support (Wang and Eccles 2012). All combined, research suggests that perceptions of one’s peers may play a powerful role in the extent to which students value school and feel like they belong at school. Thus, given that there were no significant intervention effects on outcomes related to peer perceptions (i.e., peer norms, peer protection and peer encouragement), this may be related to the lack of significant intervention effects for school valuing and school belonging.
+Counter to expectations, results revealed only moderation effects, not main effects of the intervention on students’ self-reported perceptions of the school context or adjustment indices. This suggests that intervention effects are nuanced in that there may be particular benefits to more vulnerable youth in metropolitan school settings such as ethnic minority students and students with lower economic status. Prior research on the BASE model found main effects of the intervention (Hamm et al. 2010, 2014) but there is an important contextual difference between prior studies and the current one: previous efficacy studies of the BASE model were conducted in rural locales in low-resourced schools and communities whereas the current investigation focused on metropolitan school districts which have considerably higher resources than rural locales (Hamm et al. 2010, 2014). Main effects may have been more pronounced in the rural schools because the vast majority of students in those schools would be considered vulnerable given the low-resourced community environment.
+Another possible explanation for the lack of main effects may be the complexity of large metropolitan schools. The schools in the current study were all involved in a number of professional development initiatives. While none focused specifically on helping teachers support early adolescents during the transition to middle school, it is worth considering whether there was a saturation effect with multiple initiatives being undertaken at once that may have diluted the specific effects of the BASE model. The larger number of teachers and students in metropolitan schools versus rural schools may also contribute to the lack of significant main effects. Implementation science research suggests that school characteristics, particularly school size, matter in the implementation process (e.g., Molloy et al. 2013). Larger schools may require more buy-in and support from the numerous members of the school staff (e.g., principals, teachers) and as such, it may take longer for positive results at the student level to be seen (Flannery et al. 2014). Thus, while the lack of main effects was surprising, it may be attributed to aspects of the metropolitan school context. In sum, this current study in combination with prior work on the BASE model underscores the need to examine the efficacy of interventions in various school and community settings as results may differ.
+Strengths and Limitations
+There are several strengths to this current study. One notable strength was the use of a randomized controlled trial design in which schools were first matched based on key criteria before they were randomly assigned to the intervention or control condition. This design increases confidence that outcomes are the result of intervention effects (Hsieh et al. 2005). A second strength was the inclusion of moderation analyses which aided in the identification of which subgroups benefit from intervention work, which is a task critical for the field (Farrell et al. 2013). Despite these strengths, this study included limitations that warrant discussion. First, although meaningful intervention effects were found, the analyses do not identify the specific mechanisms through which the intervention promoted positive adjustment indices for students in BASE schools. There are various mechanisms that might explain how teachers’ strategies impacted students’ adjustment including teachers’ attunement to peer social dynamics or more positive student-teacher relationships. For example, teachers’ attunement (i.e., awareness of) to youth being victimized positively impacted victim’s sense of school belonging via more positive expectations for protection from peers from bullying (Norwalk et al. 2016). Future research should examine these mechanisms to identify meaningful processes that mediate the relationship between teachers’ academic, behavioral, and social dynamic management strategies with student outcomes. A second limitation is that the schools were drawn from metropolitan areas in two Southeastern states. Thus far the BASE program has shown promising results in rural and now metropolitan settings but the generalizability to urban settings is unknown. Future work should expand into urban settings to assess the effectiveness of the BASE program intervention on students living in cities. A third limitation is that the study only assessed intervention effects over a relatively short period from the beginning to the end of students’ 6th grade year. As such, this study cannot speak to longer term changes in students’ outcomes as a result of the BASE program. However, given how pivotal the 6th grade year can be for students, the results of this study still provide insight into a possible intervention that can help teachers as they seek to create positive classroom environments that promote their students’ socio-emotional and behavioral adjustment following the transition to middle school. A fourth and related limitation is that this study did not assess effects of the intervention on changes to student outcomes, as true baseline measures were not available from students in the 5th grade year prior to their transition to middle school and the implementation of the BASE intervention model. Ideally, baseline data should be gathered whenever possible but it is worth noting that for some of the key variables of interest, specifically perceptions of the peer ecology, assessing these perceptions in students’ 5th grade year would reflect classroom ecologies from completely different schools with different teachers who were not involved in the intervention and therefore would be excluded from analyses. Additionally, despite the lack of baseline data, the rigorous cluster randomized controlled design increases the confidence that the findings reflected in the analyses reflect intervention effects (Hsieh et al. 2005). A final limitation is that only using student self-report measures may have introduced a shared reporter bias. Although the goal of the study was to assess the impact of the BASE professional development program on students’ perceived experiences and self-reported adjustment in the school environment, future research should include additional reporters (e.g., teachers, peer-reports) to fully elucidate how the intervention impacts the school ecology from multiple perspectives.
+
+Conclusion
+The transition to middle school has been identified as a time of heightened vulnerability and risk for adjustment difficulties for early adolescents. To address these risks and better support youth during the transition to middle school, the BASE program was developed to assist teachers as they promote positive adjustment in their students across the academic, behavioral, and social domains. Previous efficacy trials of the BASE model suggested benefits of the intervention for students in rural schools. The results of the current study provide promising evidence that the BASE model has the potential to likewise help sixth-grade teachers in metropolitan schools create classroom contexts that promote more positive adjustment for students following the transition to middle school, particularly for students who may be especially vulnerable to adjustment difficulties (e.g., ethnic minority youth, students with low economic status). Broadly, these results demonstrate the efficacy of the BASE universal program for some youth and suggest that helping teachers implement evidence-based strategies that foster academic engagement and positive classroom behavior can promote students’ positive adjustment to the middle school environment.
+
+Conclusion
+
+The transition to middle school has been identified as a time of heightened vulnerability and risk for adjustment difficulties for early adolescents. To address these risks and better support youth during the transition to middle school, the BASE program was developed to assist teachers as they promote positive adjustment in their students across the academic, behavioral, and social domains. Previous efficacy trials of the BASE model suggested benefits of the intervention for students in rural schools. The results of the current study provide promising evidence that the BASE model has the potential to likewise help sixth-grade teachers in metropolitan schools create classroom contexts that promote more positive adjustment for students following the transition to middle school, particularly for students who may be especially vulnerable to adjustment difficulties (e.g., ethnic minority youth, students with low economic status). Broadly, these results demonstrate the efficacy of the BASE universal program for some youth and suggest that helping teachers implement evidence-based strategies that foster academic engagement and positive classroom behavior can promote students’ positive adjustment to the middle school environment.
+
+References
+Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker, T. W. (2014). A multivariate meta-analysis of student misbehavior and teacher burnout. Educational Research Review, 12, 30–44. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.edurev.2014.05.003.
+Article
+  Google Scholar
+  Anderman, E. M., & Mueller, C. (2010). Middle school transitions and early adolescent development. In J. L. Meece & J. S. Eccles (Eds), Handbook of research on schools, schooling, and human development (pp. 198–215). New York, NY: Routledge.
+Google Scholar
+  Bellmore, A., Villarreal, V. M., & Ho, A. Y. (2011). Staying cool across the first year of middle school. Journal of Youth and Adolescence, 40, 776–785. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-010-9590-x.
+Article
+  PubMed
+  Google Scholar
+  Birmaher, B., Brent, D. A., Chiappetta, L., Bridge, J., Monga, S., & Baugher, M. (1999). Psychometric properties of the screen for child anxiety related emotional disorders (SCARED): a replication study. Journal of the American Academy of Child & Adolescent Psychiatry, 38, 1230–1236. https://doi-org.utrechtuniversity.idm.oclc.org/10.1097/00004583-199910000-00011.
+Article
+  Google Scholar
+  Birmaher, B., Khetarpal, S., Brent, D., Cully, M., Balach, L., & Kaufman, J., et al. (1997). The screen for child anxiety related emotional disorders (SCARED): scale construction and psychometric characteristics. Journal of the American Academy of Child & Adolescent Psychiatry, 36, 545–553. https://doi-org.utrechtuniversity.idm.oclc.org/10.1097/00004583-199704000-00018.
+Article
+  Google Scholar
+  Bronfenbrenner, U. (1996). Foreward. In R. B. Cairns, G. H. Elder & E. J. Costello (Eds), Developmental science. New York, NY: Cambridge University Press.
+Google Scholar
+  Brown, J. L., Jones, S. M., LaRusso, M. D., & Aber, J. L. (2010). Improving classroom quality: Teacher influences and experimental impacts of the 4Rs program. Journal of Educational Psychology, 102(1), 153. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/a0018160.
+Article
+  Google Scholar
+  Cappella, E., Hughes, D. L., & McCormick, M. P. (2017). The hidden role of teachers: child and classroom predictors of change in interracial friendships. Journal of Early Adolescence, 37, 1093–1124. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431616648454.
+Article
+  Google Scholar
+  Chung, H., Elias, M., & Schneider, K. (1998). Patterns of individual adjustment changes during middle school transition. Journal of School Psychology, 36, 83–101. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/S0022-4405(97)00051-4.
+Article
+  Google Scholar
+  Corcoran, R. P., Cheung, A. C., Kim, E., & Xie, C. (2018). Effective universal school-based social and emotional learning programs for improving academic achievement: a systematic review and meta-analysis of 50 years of research. Educational Research Review, 25, 56–72. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.edurev.2017.12.001.
+Article
+  Google Scholar
+  Dijkstra, J. K., & Gest, S. D. (2015). Peer norm salience for academic achievement, prosocial behavior, and bullying: implications for adolescent school experiences. Journal of Early Adolescence, 35, 79–96. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431614524303.
+Article
+  Google Scholar
+  Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C., Reuman, D., Flanagan, C., & MacIver, D. (1993). Development during adolescence: the impact of stage-environment fit on young adolescents’ experiences in schools and families. American Psychologist, 48, 90–101. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0003-066X.48.2.90.
+Article
+  PubMed
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2011). Schools as developmental contexts during adolescence. Journal of Research on Adolescence, 21, 225–241. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1532-7795.2010.00725.x.
+Article
+  Google Scholar
+  Farmer, T. W., Farmer, E. M. Z., & Brooks, D. S. (2010). Recasting the ecological and developmental roots of intervention for students with emotional and behavior problems: the promise of strength-based perspectives. Exceptionality, 18, 53–57. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/09362831003673051.
+Article
+  Google Scholar
+  Farmer, T. W., Gatzke-Kopp, L. M., Lee, D. L., Dawes, M., & Talbott, E. (2016). Research and policy on disability: linking special education to developmental science. Policy Insights from the Behavioral and Brain Sciences, 3, 138–145. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/2372732215624217.
+Article
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Lee, D., Lane, K. L., Sutherland, K. S., Hall, C. M., et al. (2013). Conceptual foundations and components of a contextual intervention to promote student engagement during early adolescence: the supporting early adolescent learning and social success (SEALS) model. Journal of Educational and Psychological Consultation, 23, 115–139. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/10474412.2013.785181.
+Article
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Leung, M.-C., Lambert, K., & Gravelle, M. (2011). Early adolescent peer ecologies in rural communities: bullying in schools that do and do not have a transition during the middle grades. Journal of Youth and Adolescence, 40, 1106–1117. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-011-9684-0.
+Article
+  PubMed
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Petrin, R. A., Robertson, D. L., Murray, R. A., Meece, J. L., & Brooks, D. S. (2010). Supporting early adolescent learning and social strengths: promoting productive contexts for students at-risk for EBD during the transition to middle school. Exceptionality, 18, 94–106. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/09362831003673192.
+Article
+  Google Scholar
+  Farmer, T. W., Reinke, W., & Brooks, D. S. (2014). Managing classrooms and challenging behavior: theoretical considerations and critical issues. Journal of Emotional and Behavioral Disorders, 22, 67–73. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/1063426614522693.
+Article
+  Google Scholar
+  Farmer, T. W., Talbott, B., Dawes, M., Huber, H. B., Brooks, D. S., & Powers, E. (2018). Social dynamics management: what is it and why is it important for intervention? Journal of Emotional and Behavioral Disorders, 26, 1–10. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/1063426617752139.
+Article
+  Google Scholar
+  Farrell, A. D., Henry, D. B., & Bettencourt, A. (2013). Methodological challenges examining subgroup differences: examples from universal school-based youth violence prevention trials. Prevention Science, 14, 121–133. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s11121-011-0200-2.
+Article
+  PubMed
+  Google Scholar
+  Finn, K. V., & Frone, M. R. (2004). Academic performance and cheating: moderating role of school identification and self-efficacy. The Journal of Educational Research, 97, 115–121. https://doi-org.utrechtuniversity.idm.oclc.org/10.3200/JOER.97.3.115-121.
+Article
+  Google Scholar
+  Flannery, K. B., Fenning, P., Kato, M. M., & McIntosh, K. (2014). Effects of school-wide positive behavioral interventions and supports and fidelity of implementation on problem behavior in high schools. School Psychology Quarterly, 29, 111–124. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/spq0000039.
+Article
+  PubMed
+  Google Scholar
+  Goodenow, C.(1993). The psychological sense of school membership among adolescents: scale development and educational correlates. Psychology in the Schools, 30, 79–90. https://doi-org.utrechtuniversity.idm.oclc.org/10.1002/1520-6807(199301)30:13.0.CO;2-X.
+Article
+  Google Scholar
+  Goodman, R. (1997). The strengths and difficulties questionnaire: a research note. Journal of Child Psychology and Psychiatry, 38, 581–586. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1469-7610.1997.tb01545.x.
+Article
+  Google Scholar
+  Goodman, R., & Scott, S. (1999). Comparing the strengths and difficulties questionnaire and the child behavior checklist: is small beautiful? Journal of Abnormal Child Psychology, 27, 17–24. https://doi-org.utrechtuniversity.idm.oclc.org/10.1023/A:1022658222914.
+Article
+  PubMed
+  Google Scholar
+  Gregory, A., Hafen, C. A., Ruzek, E., Mikami, A. Y., Allen, J. P., & Pianta, R. C. (2016). Closing the racial discipline gap in classrooms by changing teacher practice. School Psychology Review, 45, 171–191. https://doi-org.utrechtuniversity.idm.oclc.org/10.17105/SPR45-2.171-191.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Gregory, A., & Ripski, M. B. (2008). Adolescent trust in teachers: implications for behavior in the high school classroom. School Psychology Review, 37, 337–355.
+Google Scholar
+  Gregory, A., Skiba, R., & Noguera, P. (2010). The achievement gap and the discipline gap: two sides of the same coin. Educational Researcher, 39, 59–68. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/0013189X09357621.
+Article
+  Google Scholar
+  Grills-Taquechel, A. E., Norton, P., & Ollendick, T. H. (2010). A longitudinal examination of factors predicting anxiety during the transition to middle school. Anxiety, Stress, and Coping, 23, 493–513. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/10615800903494127.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Hagborg, W. J. (1998). An investigation of a brief measure of school membership. Adolescence, 33, 461–468.
+PubMed
+  Google Scholar
+  Hale, W. W., Crocetti, E., Raaijmakers, Q. A., & Meeus, W. H. (2011). A meta‐analysis of the cross‐cultural psychometric properties of the Screen for Child Anxiety Related Emotional Disorders (SCARED). Journal of Child Psychology and Psychiatry, 52, 80–90. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1469-7610.2010.02285.x.
+Article
+  PubMed
+  Google Scholar
+  Hamm, J. V., & Faircloth, B. S. (2005). Peer context of mathematics classroom belonging. Journal of Early Adolescence, 25, 345–366. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431605276932.
+Article
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Dadisman, K., Gravelle, M., & Murray, R. A. (2011). Teachers’ attunement to students’ peer group affiliations as a source of improved student experiences of the school social-affective context following the middle school transition. Journal of Applied Developmental Psychology, 32, 267–277. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2010.06.003.
+Article
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Lambert, K., & Gravelle, M. (2014). Enhancing peer cultures of academic effort and achievement in early adolescence: promotive effects of the SEALS intervention. Developmental Psychology, 50, 216–228. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/a0032979.
+Article
+  PubMed
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Robertson, D. R., Dadisman, K., Meece, J. L., & Song, S. Y. (2010). Effects of a developmentally-based intervention with teachers, on Native American and White early adolescents in rural schools. Journal of Experimental Education, 78, 343–377. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/00220970903548038.
+Article
+  Google Scholar
+  Hamm, J. V., Hoffman, A., & Farmer, T. W. (2012). Peer cultures of academic success in adolescence: why they matter and what teachers can do to promote them. In A. Ryan & G. Ladd (Eds), Peer relationships and adjustment at school. New York, NY: Information Age Publishing.
+Google Scholar
+  Hamm, J. V., Schmid, L., Farmer, T. W., & Locke, B. L. (2011). The influence of injunctive and descriptive peer group norms on the academic adjustment of rural early adolescents. Journal of Early Adolescence, 31, 41–73. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431610384486.
+Article
+  Google Scholar
+  Hendrickx, M. M., Mainhard, M. T., Boor-Klip, H. J., Cillessen, A. H., & Brekelmans, M. (2016). Social dynamics in the classroom: teacher support and conflict and the peer ecology. Teaching and Teacher Education, 53, 30–40. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.tate.2015.10.004.
+Article
+  Google Scholar
+  Hsieh, P., Acee, T., Chung, W.-H., Hsieh, Y.-P., Kim, H., Thomas, G. D., et al. (2005). Is educational intervention research on the decline? Journal of Educational Psychology, 97, 523–529. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0022-0663.97.4.523.
+Article
+  Google Scholar
+  Ingersoll, R. (2003). Is there really a teacher shortage?. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington. http://depts.washington.edu/ctpmail/PDFs/LimitsPolicy-RI-09-2003.pdf.
+Kӓrnӓ, A., Voeten, M., Poskiparta, E., & Salmivalli, C. (2010). Vulnerable children in varying classroom contexts: Bystanders’ behavior moderate the effects of risk factors on victimization. Merrill-Palmer Quarterly, 56, 261–282. https://doi-org.utrechtuniversity.idm.oclc.org/10.1353/mpq.0.0052.
+Article
+  Google Scholar
+  Kiefer, S. M., & Wang, J. H. (2016). Associations of coolness and social goals with aggression and engagement during adolescence. Journal of Applied Developmental Psychology, 44, 52–62. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2016.02.007.
+Article
+  Google Scholar
+  Kollerová, L., Yanagida, T., Mazzone, A., Soukup, P., & Strohmeier, D. (2018). “They think that I should defend”: effects of peer and teacher injunctive norms on defending victimized classmates in early adolescents. Journal of Youth and Adolescence, 47(11), 2424–2439. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-018-0918-2.
+Article
+  PubMed
+  Google Scholar
+  La Paro, K. M., Pianta, R. C., & Stuhlman, M. (2004). The classroom assessment scoring system: findings from the prekindergarten year. The Elementary School Journal, 104, 409–426. https://doi-org.utrechtuniversity.idm.oclc.org/10.1086/499760.
+Article
+  Google Scholar
+  Little, R. J. A. (1988). A test of missing completely at random for multivariate data with missing values. Journal of the American Statistical Association, 83, 1198–1202. https://doi-org.utrechtuniversity.idm.oclc.org/10.2307/2290157.
+Article
+  Google Scholar
+  Magnusson, D., & Cairns, R. B. (1996). Developmental science: principles and illustrations. In R. B. Cairns, G. H. Elder, Jr. & J. Costello (Eds), Developmental Science (pp. 7–30). New York, NY: Cambridge University Press.
+Chapter
+  Google Scholar
+  Masten, A. S., & Cicchetti, D. (2010). Developmental cascades. Development and Psychopathology, 22, 491–495. https://doi-org.utrechtuniversity.idm.oclc.org/10.1017/S0954579410000222.
+Article
+  PubMed
+  Google Scholar
+  Midgley, C., Maehr, M., Hruda, L., Anderman, E., Anderman, L., Freeman, K., et al. (2000). Manual for patterns of adaptive learning. Ann Arbor, MI: University of Michigan.
+Google Scholar
+  Mikami, A. Y., Ruzek, E. A., Hafen, C. A., Gregory, A., & Allen, J. P. (2017). Perceptions of relatedness with classroom peers promote adolescents’ behavioral engagement and achievement in secondary school. Journal of Youth and Adolescence, 46, 2341–2354. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-017-0724-2.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Molloy, L. E., Moore, J. E., Trail, J., Van Epps, J. J., & Hopfer, S. (2013). Understanding real world implementation quality and “active ingredients” of PBIS. Prevention Science, 14, 593–605. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s11121-012-0343-9.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Mueller, C. M., Hofrnann, V., Begert, T., & Cillessen, A. H. N. (2018). Peer influence on disruptive classroom behavior depends on teachers’ instructional practice. Journal of Applied Developmental Psychology, 99–108. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2018.04.001
+Norwalk, K. E., Hamm, J. V., Farmer, T. W., & Barnes, K. L. (2016). Improving the school context of early adolescence through teacher attunement to victimization: effects on school belonging. Journal of Early Adolescence, 36, 989–1009. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431615590230.
+Article
+  PubMed
+  Google Scholar
+  Pellegrini, A. D., & Bartini, M. (2000). A longitudinal study of bullying, victimization, and peer affiliation during the transition from primary school to middle school. American Educational Research Journal, 37, 699–725. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/00028312037003699.
+Article
+  Google Scholar
+  Roeser, R. W., & Peck, S. C. (2003). Patterns and pathways of educational achievement across adolescence: A holistic-developmental perspective. New Directions for Child and Adolescent Development, 101, 39–62. https://doi-org.utrechtuniversity.idm.oclc.org/10.1002/cd.81.
+Article
+  Google Scholar
+  Ryan, A. M. (2011). Peer relationships and academic adjustment during early adolescence. Journal of Early Adolescence, 31, 5–12. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431610387605.
+Article
+  Google Scholar
+  Ryan, A. M., Shim, S. S., & Makara, K. A. (2013). Changes in academic adjustment and relational self-worth across the transition to middle school. Journal of Youth and Adolescence, 42, 1372–1384. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-013-9984-7.
+Article
+  PubMed
+  Google Scholar
+  Sainio, M., Veenstra, R., Huitsing, G., & Salmivalli, C. (2011). Victims and their defenders: a dyadic approach. International Journal of Behavioral Development, 35, 144–151. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0165025410378068.
+Article
+  Google Scholar
+  Salmivalli, C. (2010). Bullying and the peer group: a review. Aggression and Violent Behavior, 15(2), 112–120. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.avb.2009.08.007.
+Article
+  Google Scholar
+  Salmivalli, C. (2014). Participant roles in bullying: how can peer bystanders be utilized in interventions? Theory Into Practice, 53(4), 286–292. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/00405841.2014.947222.
+Article
+  Google Scholar
+  Sirin, S. R. (2005). Socioeconomic status and academic achievement: a meta-analytic review of research. Review of Educational Research, 75, 417–453. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/00346543075003417.
+Article
+  Google Scholar
+  Song, S. Y. (2005). Protective peer ecology scale—middle school. Unpublished Measure. New Haven, CT: Yale Child Study Center.
+Google Scholar
+  StataCorp. (2015). Stata Statistical Software: Release 14. College Station, TX: StataCorp LP.
+Google Scholar
+  Swearer, S. M., & Espelage, D. L. (2004). Introduction: a social-ecological framework of bullying among youth. In D. L. Espelage & S. M. Swearer (Eds), Bullying in American schools: a social-ecological perspective on prevention and intervention (pp. 1–12). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
+Google Scholar
+  U.S. Department of Education Office for Civil Rights. (2012). Helping to ensure equal access to education. http://www2.ed.gov/about/reports/annual/ocr/report-to-president-2009-12.pdf
+Vernon-Feagans, L., Gallagher, K. C., & Kainz, K. (2010). The transition to school in rural America. In J. L. Meece & J. S. Eccles (Eds), Handbook of research on schools, schooling, and human development (pp. 163–184). New York, NY: Routledge.
+Google Scholar
+  Voelkl, K. E. (1996). Measuring students’ identification with school. Educational and Psychological Measurement, 56, 760–770. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0013164496056005003.
+Article
+  Google Scholar
+  Vollet, J. W., Kindermann, T. A., & Skinner, E. A. (2017). In peer matters, teachers matter: Peer group influences on students’ engagement depend on teacher involvement. Journal of Educational Psychology, 109, 635–652. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/edu0000172.
+Article
+  Google Scholar
+  Wang, M. T., & Eccles, J. S. (2012). Social support matters: Longitudinal effects of social support on three dimensions of school engagement from middle to high school. Child Development, 83, 877–895. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1467-8624.2012.01745.x.
+Article
+  PubMed
+  Google Scholar
+  Waschbusch, D. A., Breaux, R. P., & Babinski, D. E. (2018). School-based interventions for aggression and defiance in youth: a framework for evidence-based practice. School Mental Health, 1–14. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s12310-018-9269-0.
+Wentzel, K. R., Muenks, K., McNeish, D., & Russell, S. (2017). Peer and teacher supports in relation to motivation and effort: a multi-level study. Contemporary Educational Psychology, 49, 32–45. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.cedpsych.2016.11.002.
+Article
+  Google Scholar
+  Wentzel, K. R., Muenks, K., McNeish, D., & Russell, S. (2018). Emotional support, social goals, and classroom behavior: a multilevel, multisite study. Journal of Educational Psychology, 110, 611–627. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/edu0000239.
+Article
+  Google Scholar
+  Weiss, I. R., Pasley, J., Smith, P. S., Banilower, E. R., & Heck, D. J. (2003). Looking inside the classroom: A study of K-12 mathematics and science education in the United States. Chapel Hill, NC: Horizon Research.
+Download references
+
+References
+
+Aloe, A. M., Shisler, S. M., Norris, B. D., Nickerson, A. B., & Rinker, T. W. (2014). A multivariate meta-analysis of student misbehavior and teacher burnout. Educational Research Review, 12, 30–44. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.edurev.2014.05.003.
+Article
+  Google Scholar
+  Anderman, E. M., & Mueller, C. (2010). Middle school transitions and early adolescent development. In J. L. Meece & J. S. Eccles (Eds), Handbook of research on schools, schooling, and human development (pp. 198–215). New York, NY: Routledge.
+Google Scholar
+  Bellmore, A., Villarreal, V. M., & Ho, A. Y. (2011). Staying cool across the first year of middle school. Journal of Youth and Adolescence, 40, 776–785. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-010-9590-x.
+Article
+  PubMed
+  Google Scholar
+  Birmaher, B., Brent, D. A., Chiappetta, L., Bridge, J., Monga, S., & Baugher, M. (1999). Psychometric properties of the screen for child anxiety related emotional disorders (SCARED): a replication study. Journal of the American Academy of Child & Adolescent Psychiatry, 38, 1230–1236. https://doi-org.utrechtuniversity.idm.oclc.org/10.1097/00004583-199910000-00011.
+Article
+  Google Scholar
+  Birmaher, B., Khetarpal, S., Brent, D., Cully, M., Balach, L., & Kaufman, J., et al. (1997). The screen for child anxiety related emotional disorders (SCARED): scale construction and psychometric characteristics. Journal of the American Academy of Child & Adolescent Psychiatry, 36, 545–553. https://doi-org.utrechtuniversity.idm.oclc.org/10.1097/00004583-199704000-00018.
+Article
+  Google Scholar
+  Bronfenbrenner, U. (1996). Foreward. In R. B. Cairns, G. H. Elder & E. J. Costello (Eds), Developmental science. New York, NY: Cambridge University Press.
+Google Scholar
+  Brown, J. L., Jones, S. M., LaRusso, M. D., & Aber, J. L. (2010). Improving classroom quality: Teacher influences and experimental impacts of the 4Rs program. Journal of Educational Psychology, 102(1), 153. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/a0018160.
+Article
+  Google Scholar
+  Cappella, E., Hughes, D. L., & McCormick, M. P. (2017). The hidden role of teachers: child and classroom predictors of change in interracial friendships. Journal of Early Adolescence, 37, 1093–1124. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431616648454.
+Article
+  Google Scholar
+  Chung, H., Elias, M., & Schneider, K. (1998). Patterns of individual adjustment changes during middle school transition. Journal of School Psychology, 36, 83–101. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/S0022-4405(97)00051-4.
+Article
+  Google Scholar
+  Corcoran, R. P., Cheung, A. C., Kim, E., & Xie, C. (2018). Effective universal school-based social and emotional learning programs for improving academic achievement: a systematic review and meta-analysis of 50 years of research. Educational Research Review, 25, 56–72. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.edurev.2017.12.001.
+Article
+  Google Scholar
+  Dijkstra, J. K., & Gest, S. D. (2015). Peer norm salience for academic achievement, prosocial behavior, and bullying: implications for adolescent school experiences. Journal of Early Adolescence, 35, 79–96. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431614524303.
+Article
+  Google Scholar
+  Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C., Reuman, D., Flanagan, C., & MacIver, D. (1993). Development during adolescence: the impact of stage-environment fit on young adolescents’ experiences in schools and families. American Psychologist, 48, 90–101. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0003-066X.48.2.90.
+Article
+  PubMed
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2011). Schools as developmental contexts during adolescence. Journal of Research on Adolescence, 21, 225–241. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1532-7795.2010.00725.x.
+Article
+  Google Scholar
+  Farmer, T. W., Farmer, E. M. Z., & Brooks, D. S. (2010). Recasting the ecological and developmental roots of intervention for students with emotional and behavior problems: the promise of strength-based perspectives. Exceptionality, 18, 53–57. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/09362831003673051.
+Article
+  Google Scholar
+  Farmer, T. W., Gatzke-Kopp, L. M., Lee, D. L., Dawes, M., & Talbott, E. (2016). Research and policy on disability: linking special education to developmental science. Policy Insights from the Behavioral and Brain Sciences, 3, 138–145. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/2372732215624217.
+Article
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Lee, D., Lane, K. L., Sutherland, K. S., Hall, C. M., et al. (2013). Conceptual foundations and components of a contextual intervention to promote student engagement during early adolescence: the supporting early adolescent learning and social success (SEALS) model. Journal of Educational and Psychological Consultation, 23, 115–139. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/10474412.2013.785181.
+Article
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Leung, M.-C., Lambert, K., & Gravelle, M. (2011). Early adolescent peer ecologies in rural communities: bullying in schools that do and do not have a transition during the middle grades. Journal of Youth and Adolescence, 40, 1106–1117. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-011-9684-0.
+Article
+  PubMed
+  Google Scholar
+  Farmer, T. W., Hamm, J. V., Petrin, R. A., Robertson, D. L., Murray, R. A., Meece, J. L., & Brooks, D. S. (2010). Supporting early adolescent learning and social strengths: promoting productive contexts for students at-risk for EBD during the transition to middle school. Exceptionality, 18, 94–106. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/09362831003673192.
+Article
+  Google Scholar
+  Farmer, T. W., Reinke, W., & Brooks, D. S. (2014). Managing classrooms and challenging behavior: theoretical considerations and critical issues. Journal of Emotional and Behavioral Disorders, 22, 67–73. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/1063426614522693.
+Article
+  Google Scholar
+  Farmer, T. W., Talbott, B., Dawes, M., Huber, H. B., Brooks, D. S., & Powers, E. (2018). Social dynamics management: what is it and why is it important for intervention? Journal of Emotional and Behavioral Disorders, 26, 1–10. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/1063426617752139.
+Article
+  Google Scholar
+  Farrell, A. D., Henry, D. B., & Bettencourt, A. (2013). Methodological challenges examining subgroup differences: examples from universal school-based youth violence prevention trials. Prevention Science, 14, 121–133. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s11121-011-0200-2.
+Article
+  PubMed
+  Google Scholar
+  Finn, K. V., & Frone, M. R. (2004). Academic performance and cheating: moderating role of school identification and self-efficacy. The Journal of Educational Research, 97, 115–121. https://doi-org.utrechtuniversity.idm.oclc.org/10.3200/JOER.97.3.115-121.
+Article
+  Google Scholar
+  Flannery, K. B., Fenning, P., Kato, M. M., & McIntosh, K. (2014). Effects of school-wide positive behavioral interventions and supports and fidelity of implementation on problem behavior in high schools. School Psychology Quarterly, 29, 111–124. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/spq0000039.
+Article
+  PubMed
+  Google Scholar
+  Goodenow, C.(1993). The psychological sense of school membership among adolescents: scale development and educational correlates. Psychology in the Schools, 30, 79–90. https://doi-org.utrechtuniversity.idm.oclc.org/10.1002/1520-6807(199301)30:13.0.CO;2-X.
+Article
+  Google Scholar
+  Goodman, R. (1997). The strengths and difficulties questionnaire: a research note. Journal of Child Psychology and Psychiatry, 38, 581–586. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1469-7610.1997.tb01545.x.
+Article
+  Google Scholar
+  Goodman, R., & Scott, S. (1999). Comparing the strengths and difficulties questionnaire and the child behavior checklist: is small beautiful? Journal of Abnormal Child Psychology, 27, 17–24. https://doi-org.utrechtuniversity.idm.oclc.org/10.1023/A:1022658222914.
+Article
+  PubMed
+  Google Scholar
+  Gregory, A., Hafen, C. A., Ruzek, E., Mikami, A. Y., Allen, J. P., & Pianta, R. C. (2016). Closing the racial discipline gap in classrooms by changing teacher practice. School Psychology Review, 45, 171–191. https://doi-org.utrechtuniversity.idm.oclc.org/10.17105/SPR45-2.171-191.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Gregory, A., & Ripski, M. B. (2008). Adolescent trust in teachers: implications for behavior in the high school classroom. School Psychology Review, 37, 337–355.
+Google Scholar
+  Gregory, A., Skiba, R., & Noguera, P. (2010). The achievement gap and the discipline gap: two sides of the same coin. Educational Researcher, 39, 59–68. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/0013189X09357621.
+Article
+  Google Scholar
+  Grills-Taquechel, A. E., Norton, P., & Ollendick, T. H. (2010). A longitudinal examination of factors predicting anxiety during the transition to middle school. Anxiety, Stress, and Coping, 23, 493–513. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/10615800903494127.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Hagborg, W. J. (1998). An investigation of a brief measure of school membership. Adolescence, 33, 461–468.
+PubMed
+  Google Scholar
+  Hale, W. W., Crocetti, E., Raaijmakers, Q. A., & Meeus, W. H. (2011). A meta‐analysis of the cross‐cultural psychometric properties of the Screen for Child Anxiety Related Emotional Disorders (SCARED). Journal of Child Psychology and Psychiatry, 52, 80–90. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1469-7610.2010.02285.x.
+Article
+  PubMed
+  Google Scholar
+  Hamm, J. V., & Faircloth, B. S. (2005). Peer context of mathematics classroom belonging. Journal of Early Adolescence, 25, 345–366. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431605276932.
+Article
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Dadisman, K., Gravelle, M., & Murray, R. A. (2011). Teachers’ attunement to students’ peer group affiliations as a source of improved student experiences of the school social-affective context following the middle school transition. Journal of Applied Developmental Psychology, 32, 267–277. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2010.06.003.
+Article
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Lambert, K., & Gravelle, M. (2014). Enhancing peer cultures of academic effort and achievement in early adolescence: promotive effects of the SEALS intervention. Developmental Psychology, 50, 216–228. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/a0032979.
+Article
+  PubMed
+  Google Scholar
+  Hamm, J. V., Farmer, T. W., Robertson, D. R., Dadisman, K., Meece, J. L., & Song, S. Y. (2010). Effects of a developmentally-based intervention with teachers, on Native American and White early adolescents in rural schools. Journal of Experimental Education, 78, 343–377. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/00220970903548038.
+Article
+  Google Scholar
+  Hamm, J. V., Hoffman, A., & Farmer, T. W. (2012). Peer cultures of academic success in adolescence: why they matter and what teachers can do to promote them. In A. Ryan & G. Ladd (Eds), Peer relationships and adjustment at school. New York, NY: Information Age Publishing.
+Google Scholar
+  Hamm, J. V., Schmid, L., Farmer, T. W., & Locke, B. L. (2011). The influence of injunctive and descriptive peer group norms on the academic adjustment of rural early adolescents. Journal of Early Adolescence, 31, 41–73. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431610384486.
+Article
+  Google Scholar
+  Hendrickx, M. M., Mainhard, M. T., Boor-Klip, H. J., Cillessen, A. H., & Brekelmans, M. (2016). Social dynamics in the classroom: teacher support and conflict and the peer ecology. Teaching and Teacher Education, 53, 30–40. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.tate.2015.10.004.
+Article
+  Google Scholar
+  Hsieh, P., Acee, T., Chung, W.-H., Hsieh, Y.-P., Kim, H., Thomas, G. D., et al. (2005). Is educational intervention research on the decline? Journal of Educational Psychology, 97, 523–529. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/0022-0663.97.4.523.
+Article
+  Google Scholar
+  Ingersoll, R. (2003). Is there really a teacher shortage?. Seattle, WA: Center for the Study of Teaching and Policy, University of Washington. http://depts.washington.edu/ctpmail/PDFs/LimitsPolicy-RI-09-2003.pdf.
+Kӓrnӓ, A., Voeten, M., Poskiparta, E., & Salmivalli, C. (2010). Vulnerable children in varying classroom contexts: Bystanders’ behavior moderate the effects of risk factors on victimization. Merrill-Palmer Quarterly, 56, 261–282. https://doi-org.utrechtuniversity.idm.oclc.org/10.1353/mpq.0.0052.
+Article
+  Google Scholar
+  Kiefer, S. M., & Wang, J. H. (2016). Associations of coolness and social goals with aggression and engagement during adolescence. Journal of Applied Developmental Psychology, 44, 52–62. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2016.02.007.
+Article
+  Google Scholar
+  Kollerová, L., Yanagida, T., Mazzone, A., Soukup, P., & Strohmeier, D. (2018). “They think that I should defend”: effects of peer and teacher injunctive norms on defending victimized classmates in early adolescents. Journal of Youth and Adolescence, 47(11), 2424–2439. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-018-0918-2.
+Article
+  PubMed
+  Google Scholar
+  La Paro, K. M., Pianta, R. C., & Stuhlman, M. (2004). The classroom assessment scoring system: findings from the prekindergarten year. The Elementary School Journal, 104, 409–426. https://doi-org.utrechtuniversity.idm.oclc.org/10.1086/499760.
+Article
+  Google Scholar
+  Little, R. J. A. (1988). A test of missing completely at random for multivariate data with missing values. Journal of the American Statistical Association, 83, 1198–1202. https://doi-org.utrechtuniversity.idm.oclc.org/10.2307/2290157.
+Article
+  Google Scholar
+  Magnusson, D., & Cairns, R. B. (1996). Developmental science: principles and illustrations. In R. B. Cairns, G. H. Elder, Jr. & J. Costello (Eds), Developmental Science (pp. 7–30). New York, NY: Cambridge University Press.
+Chapter
+  Google Scholar
+  Masten, A. S., & Cicchetti, D. (2010). Developmental cascades. Development and Psychopathology, 22, 491–495. https://doi-org.utrechtuniversity.idm.oclc.org/10.1017/S0954579410000222.
+Article
+  PubMed
+  Google Scholar
+  Midgley, C., Maehr, M., Hruda, L., Anderman, E., Anderman, L., Freeman, K., et al. (2000). Manual for patterns of adaptive learning. Ann Arbor, MI: University of Michigan.
+Google Scholar
+  Mikami, A. Y., Ruzek, E. A., Hafen, C. A., Gregory, A., & Allen, J. P. (2017). Perceptions of relatedness with classroom peers promote adolescents’ behavioral engagement and achievement in secondary school. Journal of Youth and Adolescence, 46, 2341–2354. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-017-0724-2.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Molloy, L. E., Moore, J. E., Trail, J., Van Epps, J. J., & Hopfer, S. (2013). Understanding real world implementation quality and “active ingredients” of PBIS. Prevention Science, 14, 593–605. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s11121-012-0343-9.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Mueller, C. M., Hofrnann, V., Begert, T., & Cillessen, A. H. N. (2018). Peer influence on disruptive classroom behavior depends on teachers’ instructional practice. Journal of Applied Developmental Psychology, 99–108. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.appdev.2018.04.001
+Norwalk, K. E., Hamm, J. V., Farmer, T. W., & Barnes, K. L. (2016). Improving the school context of early adolescence through teacher attunement to victimization: effects on school belonging. Journal of Early Adolescence, 36, 989–1009. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431615590230.
+Article
+  PubMed
+  Google Scholar
+  Pellegrini, A. D., & Bartini, M. (2000). A longitudinal study of bullying, victimization, and peer affiliation during the transition from primary school to middle school. American Educational Research Journal, 37, 699–725. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/00028312037003699.
+Article
+  Google Scholar
+  Roeser, R. W., & Peck, S. C. (2003). Patterns and pathways of educational achievement across adolescence: A holistic-developmental perspective. New Directions for Child and Adolescent Development, 101, 39–62. https://doi-org.utrechtuniversity.idm.oclc.org/10.1002/cd.81.
+Article
+  Google Scholar
+  Ryan, A. M. (2011). Peer relationships and academic adjustment during early adolescence. Journal of Early Adolescence, 31, 5–12. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0272431610387605.
+Article
+  Google Scholar
+  Ryan, A. M., Shim, S. S., & Makara, K. A. (2013). Changes in academic adjustment and relational self-worth across the transition to middle school. Journal of Youth and Adolescence, 42, 1372–1384. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-013-9984-7.
+Article
+  PubMed
+  Google Scholar
+  Sainio, M., Veenstra, R., Huitsing, G., & Salmivalli, C. (2011). Victims and their defenders: a dyadic approach. International Journal of Behavioral Development, 35, 144–151. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0165025410378068.
+Article
+  Google Scholar
+  Salmivalli, C. (2010). Bullying and the peer group: a review. Aggression and Violent Behavior, 15(2), 112–120. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.avb.2009.08.007.
+Article
+  Google Scholar
+  Salmivalli, C. (2014). Participant roles in bullying: how can peer bystanders be utilized in interventions? Theory Into Practice, 53(4), 286–292. https://doi-org.utrechtuniversity.idm.oclc.org/10.1080/00405841.2014.947222.
+Article
+  Google Scholar
+  Sirin, S. R. (2005). Socioeconomic status and academic achievement: a meta-analytic review of research. Review of Educational Research, 75, 417–453. https://doi-org.utrechtuniversity.idm.oclc.org/10.3102/00346543075003417.
+Article
+  Google Scholar
+  Song, S. Y. (2005). Protective peer ecology scale—middle school. Unpublished Measure. New Haven, CT: Yale Child Study Center.
+Google Scholar
+  StataCorp. (2015). Stata Statistical Software: Release 14. College Station, TX: StataCorp LP.
+Google Scholar
+  Swearer, S. M., & Espelage, D. L. (2004). Introduction: a social-ecological framework of bullying among youth. In D. L. Espelage & S. M. Swearer (Eds), Bullying in American schools: a social-ecological perspective on prevention and intervention (pp. 1–12). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
+Google Scholar
+  U.S. Department of Education Office for Civil Rights. (2012). Helping to ensure equal access to education. http://www2.ed.gov/about/reports/annual/ocr/report-to-president-2009-12.pdf
+Vernon-Feagans, L., Gallagher, K. C., & Kainz, K. (2010). The transition to school in rural America. In J. L. Meece & J. S. Eccles (Eds), Handbook of research on schools, schooling, and human development (pp. 163–184). New York, NY: Routledge.
+Google Scholar
+  Voelkl, K. E. (1996). Measuring students’ identification with school. Educational and Psychological Measurement, 56, 760–770. https://doi-org.utrechtuniversity.idm.oclc.org/10.1177/0013164496056005003.
+Article
+  Google Scholar
+  Vollet, J. W., Kindermann, T. A., & Skinner, E. A. (2017). In peer matters, teachers matter: Peer group influences on students’ engagement depend on teacher involvement. Journal of Educational Psychology, 109, 635–652. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/edu0000172.
+Article
+  Google Scholar
+  Wang, M. T., & Eccles, J. S. (2012). Social support matters: Longitudinal effects of social support on three dimensions of school engagement from middle to high school. Child Development, 83, 877–895. https://doi-org.utrechtuniversity.idm.oclc.org/10.1111/j.1467-8624.2012.01745.x.
+Article
+  PubMed
+  Google Scholar
+  Waschbusch, D. A., Breaux, R. P., & Babinski, D. E. (2018). School-based interventions for aggression and defiance in youth: a framework for evidence-based practice. School Mental Health, 1–14. https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s12310-018-9269-0.
+Wentzel, K. R., Muenks, K., McNeish, D., & Russell, S. (2017). Peer and teacher supports in relation to motivation and effort: a multi-level study. Contemporary Educational Psychology, 49, 32–45. https://doi-org.utrechtuniversity.idm.oclc.org/10.1016/j.cedpsych.2016.11.002.
+Article
+  Google Scholar
+  Wentzel, K. R., Muenks, K., McNeish, D., & Russell, S. (2018). Emotional support, social goals, and classroom behavior: a multilevel, multisite study. Journal of Educational Psychology, 110, 611–627. https://doi-org.utrechtuniversity.idm.oclc.org/10.1037/edu0000239.
+Article
+  Google Scholar
+  Weiss, I. R., Pasley, J., Smith, P. S., Banilower, E. R., & Heck, D. J. (2003). Looking inside the classroom: A study of K-12 mathematics and science education in the United States. Chapel Hill, NC: Horizon Research.
+Download references
+
+Acknowledgements
+The authors gratefully acknowledge the students, teachers, and schools who participated in this study. We also thank the members of the research team involved in data collection and processing. This research was supported by a grant from the Institute of Education Sciences (R305A120812). The views expressed in this paper are those of the authors’ and do not represent the granting agency.
+Authors’ Contributions
+M.D. participated in study conception, performed the statistical analyses, and drafted the manuscript; T.F. conceived of the study, participated in the design and coordination, and drafted the manuscript; J.H. conceived of the study, participated in the design and coordination, advised on the methodology and statistical analyses, and helped draft the manuscript; D.L. conceived of the study, participated in the design and coordination, and advised on the manuscript; K.N. participated in the study design and coordination and helped draft the manuscript; B.S. assisted in study conception and helped draft the manuscript; K.L. coordinated data processing, assisted with statistical analyses, and helped draft the manuscript. All authors read and approved the final manuscript.
+Funding
+This research was supported in part by grants from the Institute of Educational Sciences (R305A120812) awarded to Thomas W. Farmer, Jill V. Hamm, and David Lee (PIs). The views expressed in this article are those of the authors and do not necessarily reflect the views of the granting agency.
+Data Sharing and Declaration
+The datasets analyzed during the current study are not publicly available but are available from the corresponding author on reasonable request.
+
+Acknowledgements
+
+The authors gratefully acknowledge the students, teachers, and schools who participated in this study. We also thank the members of the research team involved in data collection and processing. This research was supported by a grant from the Institute of Education Sciences (R305A120812). The views expressed in this paper are those of the authors’ and do not represent the granting agency.
+Authors’ Contributions
+M.D. participated in study conception, performed the statistical analyses, and drafted the manuscript; T.F. conceived of the study, participated in the design and coordination, and drafted the manuscript; J.H. conceived of the study, participated in the design and coordination, advised on the methodology and statistical analyses, and helped draft the manuscript; D.L. conceived of the study, participated in the design and coordination, and advised on the manuscript; K.N. participated in the study design and coordination and helped draft the manuscript; B.S. assisted in study conception and helped draft the manuscript; K.L. coordinated data processing, assisted with statistical analyses, and helped draft the manuscript. All authors read and approved the final manuscript.
+Funding
+This research was supported in part by grants from the Institute of Educational Sciences (R305A120812) awarded to Thomas W. Farmer, Jill V. Hamm, and David Lee (PIs). The views expressed in this article are those of the authors and do not necessarily reflect the views of the granting agency.
+Data Sharing and Declaration
+The datasets analyzed during the current study are not publicly available but are available from the corresponding author on reasonable request.
+
+Author information
+Authors and Affiliations
+College of Education, University of South Carolina, Columbia, SC, USA
+Molly Dawes
+School of Education, University of Pittsburg, Pittsburg, PA, USA
+Thomas Farmer
+School of Education, The University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+Jill Hamm & Kerrylin Lambert
+College of Education, The Pennsylvania State University, State College, PA, USA
+David Lee
+Department of Psychology, North Carolina State University, Raleigh, NC, USA
+Kate Norwalk
+School of Education, Virginia Commonwealth University, Richmond, VA, USA
+Brittany Sterrett
+Corresponding author
+Correspondence to Molly Dawes.
+
+Author information
+
+Authors and Affiliations
+College of Education, University of South Carolina, Columbia, SC, USA
+Molly Dawes
+School of Education, University of Pittsburg, Pittsburg, PA, USA
+Thomas Farmer
+School of Education, The University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+Jill Hamm & Kerrylin Lambert
+College of Education, The Pennsylvania State University, State College, PA, USA
+David Lee
+Department of Psychology, North Carolina State University, Raleigh, NC, USA
+Kate Norwalk
+School of Education, Virginia Commonwealth University, Richmond, VA, USA
+Brittany Sterrett
+Corresponding author
+Correspondence to Molly Dawes.
+
+Ethics declarations
+Conflict of Interest
+The authors declare that they have no conflict of interest.
+Ethical Approval
+All procedures performed in the current study were in accordance with the ethical standards of the institutional and/ or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+Informed Consent
+Informed consent was obtained for all participants in the study.
+
+Ethics declarations
+
+Conflict of Interest
+The authors declare that they have no conflict of interest.
+Ethical Approval
+All procedures performed in the current study were in accordance with the ethical standards of the institutional and/ or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+Informed Consent
+Informed consent was obtained for all participants in the study.
+
+Additional information
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Additional information
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Dawes, M., Farmer, T., Hamm, J. et al. Creating Supportive Contexts for Early Adolescents during the First Year of Middle School: Impact of a Developmentally Responsive Multi-Component Intervention. J Youth Adolescence 49, 1447–1463 (2020). https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-019-01156-2
+Download citation
+Received
+20 June 2019
+Accepted
+19 October 2019
+Published
+08 November 2019
+Issue Date
+July 2020
+DOI
+https://doi.org/10.1007/s10964-019-01156-2
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Early adolescence
+School-based intervention
+Middle schoolers
+Socio-emotional adjustment
+Behavioral adjustment
+Classroom management
+
+About this article
+
+Cite this article
+Dawes, M., Farmer, T., Hamm, J. et al. Creating Supportive Contexts for Early Adolescents during the First Year of Middle School: Impact of a Developmentally Responsive Multi-Component Intervention. J Youth Adolescence 49, 1447–1463 (2020). https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s10964-019-01156-2
+Download citation
+Received
+20 June 2019
+Accepted
+19 October 2019
+Published
+08 November 2019
+Issue Date
+July 2020
+DOI
+https://doi.org/10.1007/s10964-019-01156-2
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Early adolescence
+School-based intervention
+Middle schoolers
+Socio-emotional adjustment
+Behavioral adjustment
+Classroom management

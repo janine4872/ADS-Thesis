@@ -1,0 +1,2831 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+International Journal of Gender and Entrepreneurship
+
+ISSN: 1756-6266
+
+Article publication date: 19 May 2021 Permissions
+
+Issue publication date: 21 June 2021
+
+Women are underrepresented in most university entrepreneurship education (EE) programmes and less likely than men to pursue business venturing as a career. One reason may be the “entrepreneurial identity gap”, whereby female students do not see themselves as successful entrepreneurs. This paper aims to explore the nature of this identity gap and its relationship to entrepreneurial intent and entrepreneurship education.
+
+A set of contemporary, gender-inclusive entrepreneurial attributes was developed using entrepreneurial subject matter experts and tested with 591 university students to explore the nature of the gendered entrepreneurial identity gap.
+
+While masculine stereotypes persist and the entrepreneurial identity gap is larger for female students, results suggest that a more gender-inclusive vocabulary of entrepreneurship is emerging among the student population and an androgynous perception of the idealized entrepreneur. Entrepreneurship education had a positive influence on entrepreneurial intent.
+
+Study findings advance the conversation about entrepreneurial identity, the nature of the gendered identity gap and the role of education in closing that gap. The questionnaire and set of gender-inclusive attributes should continue to be tested beyond student samples.
+
+Based on this study, entrepreneurship education could benefit from more gender-inclusive instructional practices and vocabulary and a broadened definition of what it means to be entrepreneurial. More students – both men and women – will see themselves as entrepreneurs and be inspired to participate in the innovation economy.
+
+This study takes a novel approach to the study of entrepreneurial identity, developing a new set of attributes and contemporary vocabulary around business venturing.
+
+Elliott, C., Mantler, J. and Huggins, J. (2021), "Exploring the gendered entrepreneurial identity gap: implications for entrepreneurship education", International Journal of Gender and Entrepreneurship, Vol. 13 No. 1, pp. 50-74. https://doi.org/10.1108/IJGE-04-2020-0048
+
+Emerald Publishing Limited
+
+Copyright © 2020, Emerald Publishing Limited
+
+Women make a substantial contribution to entrepreneurship around the world. The Global Entrepreneurship Monitor (GEM) reports that in 2016 there were an estimated 274 million women starting or running new or established businesses in 74 economies internationally (Kelley et al., 2017). In the USA alone, 8 million women-owned enterprises have an annual economic impact of nearly US$3tn (Fetsch et al., 2015). Increasingly, the social and economic benefits of women’s participation are recognized: despite significant financial, technological, legal and cultural constraints, women entrepreneurs create new jobs, contribute globally to poverty reduction and positively influence their children’s education, health and nutrition (Elam et al., 2019; Kelley et al., 2017; World Bank, 2019).
+
+To amplify the effect of women’s entrepreneurship on social and economic outcomes, it is critical to developing a robust pipeline of future business owners. Research suggests, however, that the pipeline is weak. In the USA, for example, women are half as likely as men to start a new venture (Fetsch et al., 2015). Similarly in Canada (Lawrence, 2018) and among other “innovation” economies, the average startup ratio of women to men is lower still (Kelley et al., 2012; Kelley et al., 2017). In addition, studies on the career aspirations of adolescents and young adults – future business owners – report significantly lower interest in entrepreneurial careers among women than men (Wilson et al., 2009; Wilson et al., 2007). In a meta-analysis of entrepreneurial intent (EI) across 30 studies (both student and non-student samples), Haus et al. (2013) found that women reported significantly lower scores than men.
+
+In Canada, for example, women continue to be underrepresented in entrepreneurship education (EE) in university business schools. Despite the fact that they constitute approximately 50% of enrollments, they are less likely to concentrate on entrepreneurship, do graduate work in this area (Menzies and Tatroff, 2006) or pursue business ownership (Menzies and Paradi, 2002). This phenomenon is magnified across the globe and as EE and entrepreneurial thinking is being promoted and popularized as an engine for economic prosperity, it is critical to examine our current EE assumptions (Fayolle and Gailly, 2015; Hahn et al., 2017) and develop new gender-sensitive approaches (Wilson et al., 2007) to facilitate entrepreneurial motivation and learning for both men and women.
+
+One explanation as to why fewer women choose to become entrepreneurs could be the masculine language that is used to portray the successful entrepreneur (Carter et al., 2001; Greer and Greene, 2003; Gupta and Fernandez, 2009; Marlow, 2002). Male stereotypes are embedded within the construct of the entrepreneur and, consequently, women entrepreneurs are compared to a male norm which is masked as neutral (Ahl, 2004). At an individual level, this creates a perceived “identity gap”, whereby a woman’s perception of self does not match her conception of a successful entrepreneur (Orser and Elliott, 2015). This misalignment can discourage young women from pursuing entrepreneurship, weakening their intention and subsequent action.
+
+This study examines the entrepreneurial identity gap among university students using a novel approach. Drawing from theoretical perspectives on identity (Burke, 2006) and gender role incongruity (Eagly and Karau, 2002), this research seeks to explore the gendered nature of the identity gap by developing, from the ground up, a set of contemporary, gender-inclusive entrepreneurial attributes and “identity standard”. Students (n = 591) then rate themselves and entrepreneurs against this identity standard to determine the extent to which there is a gendered entrepreneurial identity gap. The identity gap is then measured along two axes: exposure to entrepreneurship education and entrepreneurial intent.
+
+The results make several contributions to the literature. Firstly, they add a new methodology, perspective and vocabulary to the literature about gendered stereotypes (Goktan and Gupta, 2015; Meyer et al., 2017; Perez-Quintana et al., 2017). Young adults are “pioneers of change” and their perceptions may signal changing attitudes about the stereotypical nature of entrepreneurship (Meyer et al., 2017, p. 320); hence, a student sample was selected as an appropriate starting place to gain insights into these perceptions and to develop a contemporary, gender-inclusive vocabulary that might better resonate with university students. Secondly, understanding the relationship of the gendered entrepreneurial identity gap to entrepreneurial intent and entrepreneurship education (EE) is important because it can inform educational practices, curricula and institutional support. For instance, research has exposed the gendered nature of EE textbooks (Jaber, 2014), syllabi (Jones and Warhuus, 2018) and students’ university learning experiences (Cochran, 2019). Knowledge of the identity gap is integral to improving EE outcomes (Nabi et al., 2017). More broadly speaking, this knowledge can assist university educators in designing strategies for a more inclusive and relevant group of learning experiences to reduce the size of the identity gap for all students, of all intersectional gender identities.
+
+Following Burke’s perspective on identity theory (Burke, 2006; Burke and Reitzes, 1981; Burke and Stets, 2009; Stets and Burke, 2000), individuals construct identities by creating sets of meaning as they compare themselves to standards of behaviour in a social context. These sets of meaning can be related to any group-, role- or person-based identity (Burke, 2006) such as a spouse, professor, woman, European or entrepreneur. Over time, the expectations associated with these standards are incorporated into the self and serve to guide behaviour. While individuals derive certain identities at birth (i.e. we are born into a structured society, with existing levels of power and status, etc.), identities are dynamic and change over time (Stets and Burke, 2000). If, for instance, there is a large discrepancy perceived between one’s self-identity and a perceived standard, individuals experience distress. They will be motivated to reduce this distress by modifying their identity and the strength of this effort increases in direct relation to the degree of commitment to, or salience of, the identity in question.
+
+Like other occupational roles, entrepreneurship is a salient identity category. In constructing one’s entrepreneurial identity, individuals compare themselves to an entrepreneurship standard (Burke, 2006; Ridgeway, 2006). Hoang and Gimeno (2010) define entrepreneurial identity as an “individual’s thoughts, feelings and beliefs about oneself in the founder role” (p. 42). Unless one knows an entrepreneur personally (e.g. parent, close friend), this standard will be influenced by the media and by stereotypical images of entrepreneurs. Invariably, the standard will be male. Scholars contend that traditional masculine gender role stereotypes and characterizations, (e.g. aggressive, confident and ambitious), are embedded within the construct of entrepreneurship through a masculine discourse, including common verbiage, metaphors, images, media representations, clichés and linguistic structures (Carter et al., 2001; Down and Warren, 2008; Greer and Greene, 2003; Gupta et al., 2009; Hamilton, 2013; Hechavarría et al., 2018; Marlow, 2002; Smith, 2014). Often described as a heroic, Darwinian figure (Hytti and Heinonen, 2013; Bird and Brush, 2002; Bruni et al., 2004), the prototypical entrepreneur is a self-made man who is daring and conquering (Ahl, 2006). In contrast, female enterprising archetypes are portrayed as nurturing and struggling to balance domestic responsibilities with business (Bruni et al., 2004).
+
+Role congruity theory (Eagly and Karau, 2002) proposes that prejudice against women results when women act in a manner that is contrary to expectations about how they should act in a particular role. Applied to the role of entrepreneur, women will be perceived unfavourably because their behaviour is viewed as deviating from entrepreneurial gender role expectations, (e.g. entrepreneur = male, who is aggressive, tough, competitive), as well as deviating from traditional gender expectations (e.g. woman = caregiver/mother, who is nurturing, kind, polite). This places women in a double bind: because the discourse about being a woman conflicts with the discourse about entrepreneurs, they must position themselves between these two discourses to be considered legitimate (Garcia and Welter, 2011). Such role incongruity (Eagly and Karau, 2002) creates tension or conflict – an entrepreneurial identity gap – whereby a women’s self-identity (who am I?) does not match that of their occupational choice (Who do I want to be?), producing a schism between that which is personified as female and that which is seen to be entrepreneurial, as defined by masculine practice (Orser and Elliott, 2015).
+
+As a result, women business owners engage in ongoing identity work to negotiate their entrepreneurial identities in a socio-cultural context of conflicting discourses about womanhood and entrepreneurship (Garcia and Welter, 2011). A number of scholars have documented this process. Fenwick and Hutton (2000), for example, applied adult learning theory to describe how female business owners learned to reconcile tensions around relinquishing control (as they grow their ventures) and defying traditional gender expectations (being female, work/family balance, motherhood and what constitutes a success). Warren (2004) used life histories to explore the ways in which women legitimize multiple identities including gender, being a professional and being an entrepreneur. Some participants expressed negative feelings about the term entrepreneur, as it was associated with behaviours such as “game-playing” (Warren, 2004, p. 43). In the higher education domain, Hytti and Heinonen (2013) found that female postdoctoral students constructed alternative identities to the dominant “heroic” male prototype, allowing them to visualize success as “humane” entrepreneurs (either intrapreneurs or running a modest enterprise).
+
+For young women who aspire to become entrepreneurs, this gendered identity gap may be daunting. However, identity standards – including that of the entrepreneur – can change over time, although they tend to change slowly (Burke, 2006). There are some signs that this shift may be starting to happen. While much empirical research supports the persistence of stereotypes (Gupta and Fernandez, 2009; Gupta et al., 2009), others show slight shifts in students’ perceptions of entrepreneurial roles and gender. Mueller and Conway Dato-on (2013) for instance, studied the relationship of sex, socialized gender-roles and culture on entrepreneurial self-efficacy and motivation to become an entrepreneur. Comparing student samples in the USA and Spain, they concluded that in the USA, a new entrepreneurial concept may be emerging, which balances feminine and masculine characteristics. Similarly, Perez-Quintana et al. (2017) discovered that, among students in Spain (Catalan), overall, the androgynous gender role orientation exerts a more positive influence on entrepreneurial intention both for women and for men than does masculine or feminine gender role orientation. While their results point to the persistence of gender stereotypes (i.e. many instrumental-agentic traits are still desirable for men and expressive-communal traits for women), five of the androgynous traits are commonly linked to entrepreneurship (innovative, creative, analytical, optimistic, active/energetic/capable of sustained effort). This is consistent with Goktan and Gupta’s (2015) findings that the androgynous identity contributes more to individual entrepreneurial orientation than does masculine, feminine or undifferentiated gender identities across four countries and to Meyer et al.’s (2017) findings that “typical characteristics” for men or women were not judged to be “typical characteristics” for entrepreneurs by German students. Rather, there was more accordance with “untypical characteristics” of entrepreneurs, using Schein’s (1975) descriptive index.
+
+This prompts our first research question:
+
+To what extent is the entrepreneurial identity gap gendered (i.e. what is the difference between the entrepreneurial identity gaps of male and female students)?
+
+A reduction in the size of the identity gap would mean less role conflict between an individual’s perception of self and that of the entrepreneur (Burke, 2006), which could have a positive influence on the individual’s motivation towards business venturing or entrepreneurial identity (EI) – a conscious decision to start a new venture, leading in many cases to an entrepreneurial activity or the entrepreneurial event (Aldrich, 1999). Many researchers have examined the relationship between EI and other antecedents to entrepreneurial action, including self-efficacy, desirability (Shapero, 1975; Shapero and Sokol, 1982), subjective norms (Ajzen, 1988, 1991) and family background, age and employment experience (Kolvereid, 1996; Krueger and Brazeal, 1994). Others have studied the relationship to traits such as the need for achievement (Brockhaus, 1982; McClelland, 1961), internal locus of control (Rotter, 1966) and risk-taking propensity (McClelland, 1961). While there is an agreement that making the entrepreneurial decision is a complex mix of many factors, research is inconclusive on the relationships between these variables (strength, directionality) and how intent should be measured (Sweida and Reichard, 2013).
+
+How does gender play into this equation? Multiple studies have found that entrepreneurial intent is lower among women entrepreneurs and students (Chen et al., 1998; Haus et al., 2013; Wilson et al., 2007; Zhao et al., 2005). For instance, in parallel studies of over 5,000 American students, Wilson et al. (2007) found lower entrepreneurial intent in female middle-school and high-school students but also in female MBA students at top-ranked schools. Zhao et al. (2005) also reported, across five universities (265 MBA students), that women had lower entrepreneurial career intentions. This is consistent with Gupta et al. (2009) and Perez-Quintana et al. (2017), who both found that business students with masculine gender identification had higher intent than did those with feminine gender identity. This is important because higher EI has been linked to a greater likelihood of having entrepreneurial career aspirations and subsequent entrepreneurial behaviour (Wilson et al., 2007). This leads to our second research question:
+
+What is the relationship between entrepreneurial intent, gender and the entrepreneurial identity gap?
+
+Entrepreneurship education (EE) has been heralded as a means of increasing EI among students and developing an entrepreneurial spirit among the next generation of nascent entrepreneurs. To this end, there has been an upsurge of EE programmes at universities and schools across the globe. However, the research to date is inconclusive (Bae et al., 2014; Fayolle and Gailly, 2015; Hahn et al., 2017). Few studies have focused on gender effects specifically (Nabi et al., 2017) and while there is a growing literature on EE and identity construction (Donnellon et al., 2014; Hytti and Heinonen, 2013), we are unaware of any large scale research on EE, EI and the identity gap per se. Early evidence, though, is promising (Cox et al., 2002). Wilson et al. (2007) found, for example, that EE for MBA students was related to increased entrepreneurial intent for all students but that targeted education made more of a positive difference on self-efficacy for female students than for a male. Westhead and Solesvik (2016) found that business students (both male and female) who participated in EE modules had higher intensity of EI than a comparison group of engineers without and Feder and Nitu-Antonie (2017) found EE significantly increased female, but not male, Romanian students’ intent. Schott et al. (2015) found that young people who received business training were 1.5 times more likely to be entrepreneurs than those without and these positive effects were amplified for young women (1.8 times more likely to be entrepreneurs vs 1.5 for men). In contrast, in Norway, the participation of upper-year secondary school students in a Company Programme (CP) was positively correlated to start-up activity, but the impact, however, was less for women (Johansen, 2013). This leads to our third research question:
+
+What is the relationship between entrepreneurship education, gender, EI and the entrepreneurial identity gap?
+
+To investigate these three research questions, we conducted two studies. In the preliminary study, we established an entrepreneurial identity standard by developing and testing a set of entrepreneurial descriptors or attributes. In the primary study, a questionnaire with this set of attributes was administered to a Canadian university student sample to explore the nature of the entrepreneurial identity gap and its relationship to gender, entrepreneurship education and entrepreneurial intent. The rationale was severalfold: the presence of a large student participant pool, significant university entrepreneurship programmeming and the fact that Canada is a world leader in women’s university participation rates (OECD, 2020) with institutional support for women’s “opportunity” entrepreneurship and positive perceptions of entrepreneurship as a career (Elam et al., 2019). As such, Canadian students were considered to be a good choice for a study of this type.
+
+To generate an inclusive set of entrepreneurial attributes that would constitute the identity standard, individual interviews were held with 18 entrepreneurship subject matter experts. A purposive (snowball) sampling technique was used to select experts for their relevance to the research questions (Schwandt, 2001). Participants were identified by a University “Entrepreneur in residence” and two professors of entrepreneurship at the same university. The sample of subject matter experts represented a diverse group of individuals who were experienced entrepreneurs (15) and/or scholars of entrepreneurship (3). All were based in Canada, primarily in the national capital region. Several were “serial entrepreneurs”. Of this group, 28% were men and 72% were women. Age was reported in categories: two participants were over 60, one was 51–60, four were 41–50, two were 31–41 and nine were 19–30. For the 83% who had started their own business(es), their ventures were operating at different stages of development (start-up to divestiture), in different sectors (high technology, retail, food services), different sizes (self-employed to over 100 employees) and following different business models (social enterprises, not for profit and for-profit ventures).
+
+In individual interviews, the experts were asked to visualize a successful entrepreneur, to list the top 10 attributes of that entrepreneur and to identify the gender of the entrepreneur they were visualizing. Finally, they were asked to review a pre-established, inclusive set of 70 entrepreneurial attributes derived from Orser et al., (2011) and identify those attributes that are most representative and least representative of successful entrepreneurs.
+
+The top 10 attributes listed by our participants were rank-ordered by frequency and were compared to the set of 70 pre-established attributes to determine if any were missing and to validate those identified as most representative. This assessment resulted in the addition of five new attributes. In total, 27 attributes were then eliminated on the basis of the following criteria: items deemed to be the least represented by two or more experts and those considered to be synonymous or ambiguous. This resulted in a set of 48 attributes (Table 1), which we consider to be the entrepreneurial identity standard.
+
+A survey was administered to diverse student samples at two Canadian universities. At the first university, 96 students in entrepreneurship classes volunteered to complete questionnaires either at the beginning or end of class and received no remuneration. At the second university, 501 students self-selected through an advertisement to an undergraduate participant pool, completed the survey on-line and received 0.25% credit towards their final grade. Based on a series of t-tests comparing the two samples on the measured variables revealed no significant differences between the groups, which were then combined for the subsequent analyses.
+
+Of the 597 participants, four responded with a gender of “other” and two did not indicate their gender, which left 591 responses with 43% self-identified as male and 57% as female and a mean age of 20 (SD = 3.59). Participants from the first university were primarily (94%) in their third or fourth year and all had participated in one or more entrepreneurship courses. Students from the second university were primarily (80%) in their first or second year, representing all faculties from the university. Of this group, 10% (n = 59) had taken entrepreneurship courses.
+
+Participants were asked to first-rate themselves on each of the 48 entrepreneurs attributes on a 5-point Likert-type scale ranging from “not characteristic” to “characteristic”, which resulted in the 48-item Entrepreneurial Attribute Set–Self (EAS-Self). Participants were then asked to rate the same items while thinking about successful entrepreneurs, according to the following instructions: Now we would like you to use this same list to tell us what you think successful entrepreneurs are like. In making your judgements, it may be helpful to imagine you are about to meet a person for the first time and the only thing you know in advance is that the person is a successful entrepreneur. Please rate each attribute in terms of how characteristic it is of successful entrepreneurs. Ratings were made on the same 5-point scale (1 – not characteristic, 5 – characteristic), which resulted in the Entrepreneurial Attribute Set–Entrepreneurs (EAS-Entrepreneurs). The difference for each participant between their EAS-Entrepreneurs and EAS-Self yielded the entrepreneurial identity gap.
+
+Next, participants were asked:
+
+When you were answering the questions [about an entrepreneur] above, were you thinking of a particular gender? (male; female; other; I was not thinking of a particular gender);
+
+When you were answering the questions above, were you thinking of a particular person? (yes/no); and
+
+Briefly describe. Responses to these items contributed to our understanding of the gendered nature of the entrepreneurial identity gap.
+
+Entrepreneurial intent was assessed by asking participants to rate themselves on two questions adapted from Kolvereid (1996) using a five-point response scale (very unlikely; unlikely; neutral; likely; very likely):
+
+How likely are you to pursue a career as an entrepreneur in the next five years? And
+
+If you were to choose between running your own business venture (self-employment) and being employed by someone else right in the next five years, how likely are you to choose self-employment?
+
+To identify the attributes that participants perceived to be characteristic of entrepreneurs (EAS-Entrepreneur), a mean rating of four on a five-point Likert scale was considered to be characteristic (Stivers and Campbell, 1995). In total, 45 of the 48 entrepreneurial attributes met the 4.00 criterion; the three items below this cut-off (inclusive, shares leadership, empathetic) had scores ranging from 3.86 to 3.99. Hence, there was support that the EAS-Entrepreneurs are highly reflective of entrepreneurs. The top 10 highest ranked attributes by both men and women were hardworking, determined, dedicated, driven, communicator, passionate, resourceful, confident, opportunistic and persistent, whereas some of the traditional entrepreneurial attributes such as innovative and risk-taker were ranked lower (15 and 27, respectively).
+
+Although women rated all of the items somewhat higher than did men (Table 1, which lists the 48 attributes in rank order beginning with those considered to be most similar to entrepreneurs), the relative strength and pattern of ratings were consistent for both genders, indicating that men and women agreed on which attributes are most characteristic of entrepreneurs. This suggests that female and male students have a similar set of expectations and language around what constitutes an entrepreneur (the entrepreneurial identity standard). Furthermore, the top attributes appear to be androgynous and the remaining attributes seem balanced between agentic and communal attributes, indicating that many university students view entrepreneurs as having both traditionally male and female attributes.
+
+However, this finding is qualified by student responses to the next question, when they were asked if they were visualizing a particular gender and/or person when thinking about the EAS-Entrepreneur. The results indicate that male respondents were significantly more likely to be thinking of a male prototype, χ2 (3, 561) = 42.98, p < 0.001, with 49% visualizing a male, 50% not visualizing a particular gender and 1% thinking of a female. The majority of female participants (63%) were not thinking of a particular gender when they visualized an entrepreneur, with 27% thinking of a male and 10% thinking of a female. Among those who identified a particular person, the most commonly mentioned were high profile male business owners such as Mark Zuckerberg, Bill Gates, Steve Jobs, Richard Branson, Tim O’Leary (of Dragon’s Den) and Elon Musk. Relatives and “myself” were cited, albeit much less frequently. Although female prototypes were sometimes identified (mom; friend), Beyoncé was the only female celebrity entrepreneur identified, by one female out of 591 participants. This indicates that, despite the fact that entrepreneurial attributes can be ascribed to men or women, students typically visualize men in this role and few think of women. As such, the identity standard remains skewed towards the masculine.
+
+The entrepreneurial identity gap is defined as the difference in students’ attribute ratings between themselves (EAS-Self) and the identity standard (EAS-Entrepreneur). The results indicate that participants rate themselves as significantly lower than entrepreneurs on the majority of the attributes (Table 1). Although the absolute values of the gaps were larger for women than for men, 8 of the 10 attributes with the largest gaps were the same attributes for both genders. These were well connected, innovative, risk-taker, opportunistic, communicator, assertive, persistent and resourceful. It is notable that four of the largest gaps for both genders were not among the top 10 attributes – well connected (ranked 20), innovative (15), risk-taker (27) and assertive (21). There was no significant difference between students’ self-perceptions and the entrepreneurial standard for open-minded, recognizes others, integrity and inclusive, which are attributes lower on the list. Students were more likely to view themselves as being more curious and empathetic than the entrepreneurial standard.
+
+The entrepreneurial gender identity gap is the difference between the entrepreneurial identity gaps for women and men. To assess this gap, we conducted a series of independent samples t-tests on the gender identity gaps for each attribute (Table 1). For 13 out of the 14 attributes with significant differences, men reported having a smaller gap between perceptions of self and entrepreneurs, viewing themselves to be significantly more similar to a successful entrepreneur for opportunistic, innovative, bold, confident, risk-taker, assertive, resourceful, shares leadership, persuasive, facilitator, builds team, problem solver and communicator. The only attribute with a smaller gap for women was organized.
+
+When we asked students about their entrepreneurial intent, 141 participants (24%) indicated that they were likely or very likely to pursue a career as an entrepreneur. More respondents (270; 45%) felt that they would be likely or very likely to pursue self-employment. Men were significantly more likely than women to indicate they would choose entrepreneurship as a career, t (588) = 5.49, p < 0.001 or to be self-employed, t (588) = 2.04, p < 0.05.
+
+To compare students with high and low entrepreneurial intent, we created a dichotomous variable combining the responses to the questions of entrepreneurship and self-employment such that high entrepreneurial intent was a score of 4 or 5 and low EI was a score of 1 or 2 on both items. There were fewer women in the high category, with 49 female participants scoring high on entrepreneurial intent, compared to 63 male participants, χ2 (1, 265) = 13.05, p < 0.001.
+
+To explore whether EI relates to the entrepreneurial identity gap, we ran a series of independent samples t-tests (Table 2), which identified only six significant differences for which the identity gap between EAS-S and EAS-E was significantly smaller for those with high entrepreneurial intent versus those with low entrepreneurial intent, including (from largest to smallest difference) innovative, seeks to make a contribution, opportunistic, assertive, risk-taker and adventurous. Participants with greater EI rated themselves most like the entrepreneurial standard for these six attributes.
+
+A series of 2 x 2 (EI x gender) ANOVA on these six attributes revealed no EI by gender interactions. There was, however, a main effect of gender in addition to the main effect of EI for opportunistic and for innovative, F (1, 257) = 4.21, p < 0.05, ηp2 = 0.02 and F (1, 259) = 8.32, p < 0.01, ηp2 = 0.03, respectively, indicating the women with high entrepreneurial intent had a greater gap on these attributes compared to men with high entrepreneurial intent.
+
+To answer our final question about the relationship between entrepreneurship education (EE), gender, EI and the entrepreneurial identity gap, we conducted two ANOVAs to look at the interaction of gender with students who had taken at least one entrepreneurship course and those who had not. In the first ANOVA, there was no interaction of gender and EE, F (3, 590) = 0.56, p = n.s., ηp2 = 0.001, for intention to pursue entrepreneurship as a career, but there were main effects of gender and of EE. Men, F (1, 590) = 13.50, p < 0.001, ηp2 = 0.02 and those with EE, F (1, 590) = 44.26, p < 0.001, ηp2 = 0.07, were more likely to see themselves as an entrepreneur in five years. The results were similar for the ANOVA examining the interaction of gender and EE for expectations to be self-employed in five years. There was no significant interaction of gender and EE, F (3, 590) = 0.08, p = n.s., ηp2 = 0.00 and no main effect for gender, but there was a main effect for EE. Students with EE were more likely to see themselves as self-employed in five years, F (1, 590) = 11.08, p < 0.01, ηp2 = 0.02. Hence, there was a significant association between having greater exposure to entrepreneurship through entrepreneurial education and intention to seek entrepreneurship or self-employment opportunities.
+
+It was expected that students who had taken entrepreneurship courses would have smaller identity gaps particularly for the most defining attributes of entrepreneurs. Based on a series of t-tests (Table 3) comparing the identity gap on each attribute by EE, it appears, however, that simply having entrepreneurship education did not increase these participants’ sense of being more like an entrepreneur (i.e. higher entrepreneurial identity). Having entrepreneurship education was associated with a smaller gap between oneself and an ideal entrepreneur only for the attributes of smart, assertive and detail-oriented. To balance this, those with entrepreneurship education had larger gaps for the attributes of motivator, inclusive and empathic, attributes which tended to be less defining of entrepreneurs (ranked 38, 46 and 48).
+
+In this study, we posed three research questions to determine whether there is a gender identity gap in the way that students view themselves as entrepreneurs, how this is related to entrepreneurial intent and what role education might play in closing this identity gap. Firstly, we developed an Entrepreneurial Attributes Set (EAS-E), which was found to be highly characteristic of entrepreneurs and gender-inclusive. There was agreement among men and women about the relative importance of the attributes; few of the attributes mirror traditional masculine attributes identified in previous studies (Ahl, 2006; Gupta et al., 2009; Orser et al., 2011). The attributes deemed most characteristic (hardworking, determined, dedicated, driven, communicator) challenge the traditional entrepreneurial archetype and dominant masculine discourse about the “heroic alpha-male” as a champion of industry (Smith, 2014, p. 466), “aggressive, forceful [and] competitive” (Schein, 1975, p. 342), wanting “to fight and conquer” and “prove superiority” (Ahl, 2006, p. 600). They more closely resemble some of the androgynous attributes (e.g. “active, energetic and capable of sustained effort”) identified by Perez-Quintana et al. (2017, p. 20).
+
+We also noted convergence among male and female students in the attributes (e.g. collaborative, supportive, develops people, facilitator and flexible) that are deemed to be important for entrepreneurship, but were ranked less highly. These are attributes that are typically considered to be more feminine (expressive-communal), which provides further support that the traditional entrepreneurial stereotype may be shifting – albeit slowly – away from one of masculinity towards a more androgynous model, particularly in certain cultures (Goktan and Gupta, 2015; Mueller and Conway Dato-on, 2013; Perez-Quintana et al., 2017). We believe that the entrepreneurial attribute set (EAS-E), developed through this study, represents this contemporary view and provides a more gender-inclusive vocabulary of entrepreneurship. As such, it contributes to the current literature by establishing a new entrepreneurial identity “standard” and set of attributes, which complements those which have been commonly used to date (e.g. scales such as Bem (1974, 1981) and Schein (1975), which were developed several decades ago and focus on managerial attributes).
+
+Our investigation contributes to a greater understanding of the gendered nature of the entrepreneurial identity gap. Results showed that the largest identity gaps, although less highly ranked overall, related to attributes that were somewhat stereotypical – innovative, risk-taker, opportunistic and assertive – which are reminiscent of traditional entrepreneurial attributes observed by Gupta and Fernandez (2009) and others (Brockhaus, 1982; McClelland, 1961; Rotter, 1966) and reflect the classic “American entrepreneurship archetype” of innovation, proactiveness and risk-taking (Beugelsdijk and Noorderhaven, 2005; Brockhaus, 1982; Gupta and Fernandez, 2009; McClelland, 1961; Mueller and Thomas, 2001). These same attributes also feature prominently in the entrepreneurial gender identity gap. That is, male students, perceive themselves to be significantly more similar to successful entrepreneurs than female students, according to these attributes. Correspondingly, students with high entrepreneurial intent, (more of whom were men), rated themselves more highly on these attributes. Perhaps, these results are not surprising, given that this archetype aligns with masculine descriptors and media images most commonly associated with being entrepreneurial – innovativeness, risk-taking and opportunity recognition (Gartner, 1990; Gupta and Fernandez, 2009; Gupta et al., 2013; Verheul et al., 2005). As well, undergraduate students (even those who have taken entrepreneurship classes), may not have been exposed to different notions of being entrepreneurial (Vesper, 1999) nor to the different stages and types of venture creation (e.g. startup versus growth; for-profit versus non-profit or social enterprise; intrapreneurship versus traditional ownership).
+
+Nonetheless, we believe that findings from the visualization exercise also suggest that the image of the traditional archetype is undergoing modifications. The older, male “captain of industry” seems to be morphing into a newer, younger, image–one that is created and reinforced through the media–that of an innovative, high technology “celebrity” entrepreneur. He is typically male, so it is not surprising that the largest identity gap was innovative and opportunistic, particularly for women, even among those with high intent. The implications are significant: with a dearth of female role models in high tech, young women are less likely to “see themselves” as entrepreneurs and they are less likely to see themselves as innovative. The term “innovative” is highly gendered, typically referring to technological innovation, thereby limiting alternative perspectives that might appeal to nascent female entrepreneurs (e.g. innovation in different sectors such as marketing, retail or health; or different types of innovation such as marketing innovations or process innovations) (Pouragheli and Beckton, 2013; Rowe, 2016). Instead, Smith (2014) contends that contemporary female entrepreneurs are forced into conforming to socially acceptable, universal archetypes as they construct their entrepreneurial identities (e.g. the Pink-Ghetto Girl, the Diva).
+
+Our findings align with role congruity theory (Eagly and Karau, 2002), which helps to explain the gendered nature of the entrepreneurial identity gap. While identity standards are dynamic and can change over time (Burke, 2006; Stets and Burke, 2000), these changes are very slow because they challenge deeply held socio-cultural values about gender roles, including entrepreneurship. As noted by Eagly and Karau (2002), women face significant pressure to conform to traditional gender role expectations (e.g. woman = caregiver/mother, who is nurturing, kind, polite) and are viewed unfavourably when they deviate. This role incongruity causes contradictions that are difficult to navigate: aspiring female entrepreneurs must position themselves between these two discourses (womanhood versus entrepreneur) to be considered legitimate and taken seriously (Garcia and Welter, 2011; Warren, 2004).
+
+The results of this study show a significant positive correlation between entrepreneurship education and entrepreneurial intent, particularly with male students. These results reinforce other studies that have documented the positive relationship between students’ motivation to pursue an entrepreneurial career and entrepreneurship education (DeTienne and Chandler, 2004; García and Jiménez-Moreno, 2010; Menzies and Paradi, 2002; Wilson et al., 2007) or training programmes (Fayolle and Gailly, 2015) although this association may simply reflect an increased interest in and awareness of, entrepreneurship as a potential career choice due to EE.
+
+Despite the positive correlation of EI to EE, our study did not find a relationship between EE and a reduction in the size of the entrepreneurial identity gap for male or female students. This suggests that while students may be more informed about and open-minded towards an entrepreneurial career after exposure to EE, they have not yet constructed an entrepreneurial identity whereby they truly see themselves as successful entrepreneurs. In fact, EE may increase learning to the point at which students are more aware of the obstacles and practical realities associated with entrepreneurship. Hahn et al. (2017), among others (Mueller and Anderson, 2014), report that EE can only increase learning to a threshold, after which students can no longer construct their entrepreneurial knowledge and they become critically aware of their knowledge gaps. In the case of young women, it is more complex: EE may illuminate some of the inherent tensions and gender-role incongruities that business venturing could bring as a career choice. It may thereby increase their awareness of conflicting discourses that they will have to negotiate to succeed in their own entrepreneurial identity work (Garcia and Welter, 2011) and this could create the perception that the identity gap is too large a gulf to navigate.
+
+Celuch et al. (2017) recommend that educational strategies should focus on entrepreneurial identity – this is the “missing link” in entrepreneurship education. We concur. If the next generation of women students cannot see themselves as successful entrepreneurs, then they will not view entrepreneurship as a viable career. However, how can we close the gendered identity gap? Systemic change should begin with collaboration among multiple partners – educational leaders, policymakers, instructors and curriculum developers to advocate for, develop and promote gender-inclusive programmeming that will help to close the gendered entrepreneurial identity gap. This starts with a broader definition of entrepreneurship and gender-inclusive language that appeals to all students, at all levels of the education system. It also means critically examining our current EE epistemologies (Byrne and Fayolle, 2010) and assumptions (Fayolle, 2013; Fayolle and Gailly, 2015; Hahn et al., 2017; Wilson et al., 2007), including the new stereotype of the male, high tech entrepreneur; and debunking the notion that innovation only relates to technology. Women entrepreneurs need to be part of changing the overall conversation – deliberately re-creating images, clichés and role models and proposing alternative business models that appeal to different values, motivations and interests (e.g. classical, non-traditional, cooperative, social enterprises, non-profit organizations). By broadening the scope and range of gender-inclusive instructional practices, more students – both men and women – can see themselves as entrepreneurs and be inspired to participate.
+
+This study identified the lack of women role models in entrepreneurship, yet we know that role modelling is critical in the formulation of entrepreneurial identity (Burke, 2006; Ridgeway, 2006) and career aspirations (Chen et al., 1998; Gibson, 2003; Scherer et al., 1989; Verheul et al., 2005). How can educators have a positive influence in this regard? Firstly, they can adopt a gender lens in critically assessing classroom materials to ensure that positive female role models are represented in all content – cases, activities and textbooks. Many textbooks reinforce traditional gender roles (Jaber, 2014) and university syllabi have been found to be predominantly masculine in their language (Jones and Warhuus, 2018). Both can be replaced with more relevant, current, gender-inclusive content, while avoiding pejorative pink-ghetto representations of women entrepreneurs (Smith, 2014). Instructors can also introduce students to diverse entrepreneurial women leaders by inviting them into the classroom to speak, to be mentors and/or members of entrepreneurship events, clubs and pitching competitions. Such role models can help young students visualize success and construct their entrepreneurial identities. These interactions can also promote the development of inclusive social networks, whereby students see themselves as members of an entrepreneurial community – a key ingredient to entrepreneurial success (Stam et al., 2014). Women business owners can share personal stories also and coach students through some of the challenges and practical realities of being a woman entrepreneur, including strategies for resolving gender-role conflicts that may arise. They can describe different conceptions, as well, of what it means to be entrepreneurial – through social enterprise, feminist entrepreneurship, intrapreneurship or corporate entrepreneurship (CE). Hytti and Heinonen (2013), for instance, in their study of gendered identity construction through EE, found that CE “acted as an emancipatory tool” (p. 894) allowing female participants to construct an alternative, more authentic, “humane” entrepreneurial identity, free of the “heroic”(which was relatively easily accepted by the male students). Frederiksen and Berglund (2020) propose new “rules” for teacher-student interactions, to ensure that alternative identities can be cultivated (rather than the reproduction of traditional, neoliberal notions of entrepreneurship). Donnellon et al. (2014) emphasize the importance of active learning through entrepreneurship, (as opposed to education that is conducted about, in or for entrepreneurship); and they identify four main methods of facilitating entrepreneurial identity construction: socialization and collectivity, strategic positioning, visual and oral symbols and storytelling.
+
+Using gender-inclusive language is another way that instructors can create a positive learning environment. For students to see themselves as entrepreneurs, they need to relate to the language being used, including pronouns, entrepreneurial attributes and examples. The EAS-E provides a contemporary list of entrepreneurial attributes that pertain to all students; attributes that represent the largest (gender) identity gaps can be specifically targeted for discussion in class. For instance, words such as “risk”, “risk-taker” or “risk-averse” are loaded terms that featured prominently in the identity gap and are laden with gendered preconceptions. “Unpacking” risk could be advantageous for all students, but particularly for young women who perceive themselves or are perceived by others, to be risk-averse or “not good at math” (Amatucci and Crawley, 2011).
+
+A final suggestion relates to the attribute of “seeks to make a contribution”, which emerged as a differentiating attribute for students with high intent. We believe this reflects a growing interest in social entrepreneurship among the next generation of students. Research suggests that women, in particular, may be incented to social entrepreneurship goals (Lortie et al., 2017) and by incorporating social, environmental and/or feminist perspectives into the course curricula a broader group of diverse students could be motivated towards business venturing (those who may not otherwise self-identify as entrepreneurial).
+
+Several limitations are associated with this study. Firstly, there were geographical limitations in terms of our sample groups. The subject matter experts were recruited from a geographically constrained network, the national capital region of Canada and our survey sample was derived primarily from Canadian undergraduate students, whose perceptions are largely reflective of North American liberal democratic values around the “American archetype of the entrepreneur” (Ahl, 2006; Gupta and Fernandez, 2009; Gupta et al., 2013; Mueller and Thomas, 2001), as well as dominant values espoused in Canadian culture. Self-selection bias was another potential limitation, with a greater percentage of survey respondents being interested in entrepreneurial careers than the general population; this may have increased the EI scores and their positive characterization of entrepreneurship. A considerable proportion of our sample had taken at least one entrepreneurship course, which was associated with higher entrepreneurial intent. Furthermore, there has been a greater push towards entrepreneurship, in general, on university campuses and on popular (social) media, which may have led students to rate themselves more highly on EI scores.
+
+Our research has moved forward in terms of developing a contemporary set of gender-neutral entrepreneurial attributes; however, additional research is required to validate this set of attributes with a larger sample of practising entrepreneurs across a variety of different contexts and cultures, as national culture has a strong influence on social expectations for women entrepreneurs (Bönte and Jarosch, 2011; Goktan and Gupta, 2015; Gupta and Fernandez, 2009). Furthermore, the methodological limitations of a large-scale survey did not enable us to probe more deeply into the socio-cultural forces that shape the construction of language and entrepreneurial identity. We, therefore, encourage the use of other, more qualitative approaches to uncover the complexities of gender and identity construction as a discursive, ongoing practice.
+
+Another limitation of this study was the lack of detailed information about the pedagogical approaches being used in the university entrepreneurship classrooms. Suffice it to say that we are unaware of any gender-sensitive approaches being employed; we are also unaware of any deliberate attention to students’ identity construction; but most of the classrooms did include some experiential elements (active learning through entrepreneurship approach). Nabi et al. (2017), in their systematic review of the impact of EE in higher education, (n = 159) draw attention to this issue in EE research: a “lack of detail on the pedagogical interventions” and they propose a teaching model framework to “rigorously assess the relationship between pedagogical methods and specific outcomes” (p. 277–8).
+
+We also challenge future researchers to explore the concept of the identity gap more broadly by looking beyond the entrepreneurship domain. While this study followed a social psychological perspective (Burke, 2006), there is a significant body of research within the communications field that conceptualizes identity gap(s) in a slightly different way (Jung and Hecht, 2004, 2008). According to the Communications Theory of Identity, for example, there are four different layers of identity – personal, relational, enacted and communal and the identity gap refers to the perceived difference between these layers (Jung, 2011). Bridging these domains could help to extend and clarify the concept of the entrepreneurial identity gap proposed in this study and also add new insights into strategies of managing these gaps (Daniels and Rittenour, 2018) and negotiating the inherent tensions which arise (Wagner et al., 2016).
+
+We also believe that the business stage may be an important aspect that helps to explain our results and provide further insights into the conversation around the entrepreneurial identity gap and entrepreneurial attributes. It is possible that many of the most strongly endorsed attributes relate to the initial start-up stage of venture creation [Vesper’s (1999)] founder, innovator or take-off artist), which is the stereotype that springs to mind for a group of students who have been exposed to entrepreneurship primarily through media representations rather than through experience. It is possible that some of the less endorsed attributes relate to a later stage in the venture creation process such as marshalling or implementing (McGee et al., 2009). It is likely that our set of entrepreneurial attributes may be multi-factored and we propose that additional testing be undertaken with a larger sample of practicing entrepreneurs to determine whether there are two or more distinct factors that map onto different stages of entrepreneurship.
+
+To fully realize the social and economic power of women’s entrepreneurship, it is important to establish a vibrant pipeline of entrepreneurs. Across the globe, entrepreneurship education has been heralded as one such method. To inspire students to pursue their entrepreneurial dreams, however, they must learn to see themselves as enterprising and successful. Our findings suggest that change is underway. While masculine entrepreneurial stereotypes persist, a more gender-inclusive androgynous language and vocabulary of entrepreneurship are slowly emerging and this has been captured by a new set of entrepreneurial attributes – the EAS-E. Male and female students agree on the most salient attributes of an entrepreneur, as well as the main enterprising attributes they need to develop (the entrepreneurial identity gap). Many of these attributes – risk-taker, innovative, opportunistic, assertive, communicator, well connected – are related to entrepreneurial skills and competencies that can be taught. By creating gender-inclusive curricula and broadening the definition of entrepreneurship, entrepreneurship education has significant potential to close the identity gap and inspire the next generation of entrepreneurs.
+
+Entrepreneurial identity gaps by gender and gender identity gaps
+
+Female gap n = 333; Male gap n = 248.
+
+p < 0.05;
+
+p < 0.01;
+
+p < 0.001
+
+Comparison of ratings of entrepreneurs and self for participants with high and low entrepreneurial intention
+
+High intent n = 111; low intent n = 148.
+
+p < 0.05;
+
+p < 0.01;
+
+p < 0.001
+
+Identity gap by exposure to entrepreneurship
+
+No exposure n = 431; Exposure n = 153.
+
+p < 0.05;
+
+p < 0.01;
+
+p < 0.001
+
+Ahl, H. (2004), The Scientific Reproduction of Gender Inequality: A Discourse Analysis of Research Texts on Women's Entrepreneurship, Liber.
+
+Ahl, H. (2006), “Why research on women entrepreneurs needs new directions”, Entrepreneurship Theory and Practice, Vol. 30 No. 5, pp. 595-621, doi: 10.1111/j.1540-6520.2006.00138.
+
+Ajzen, I. (1988), Attitudes, Personality, and Behaviour, Open University Press.
+
+Ajzen, I. (1991), “The theory of planned behavior”, Organizational Behavior and Human Decision Processes, Vol. 50 No. 2, pp. 179-211, doi: 10.1016/0749-5978(91)90020-t.
+
+Aldrich, H.E. (1999), Organizations Evolving, Sage.
+
+Amatucci, F. and Crawley, D. (2011), “Financial self-efficacy among women entrepreneurs”, International Journal of Gender and Entrepreneurship, Vol. 3 No. 1, pp. 23-37, doi: 10.1108/17566261111114962.
+
+Orser, B. and Elliott, C. (2015), Feminine Capital, Stanford University Press, Stanford.
+
+Orser, B.J., Elliott, C.J. and Leck, J. (2011), “Feminist attributes and entrepreneurial identity”, Gender in Management, Vol. 26 No. 8, pp. 561-589.
+
+Bae, T.J., Qian, S., Miao, C. and Fiet, J. (2014), “The relationship between entrepreneurship education and entrepreneurial ententions: a meta–analytic review”, Entrepreneurship Theory and Practice, Vol. 38 No. 2, pp. 217-254, doi: 10.1111/etap.12095.
+
+Bem, S.L. (1974), “The measurement of psychological androgyny”, Journal of Consulting and Clinical Psychology, Vol. 42 No. 2, pp. 155-162, doi: 10.1037/h0036215.
+
+Bem, S.L. (1981), “Gender schema theory: a cognitive account of sex typing”, Psychological Review, Vol. 88 No. 4, pp. 354-364, doi: 10.1037/0033-295X.88.4.354.
+
+Beugelsdijk, S. and Noorderhaven, N. (2005), “Personality characteristics of self-employed: an empirical study”, Small Business Economics, Vol. 24 No. 2, pp. 159-167, doi: 10.1007/s11187-003-3806-3.
+
+Bird, B. and Brush, C. (2002), “A gendered perspective on organizational creation”, Entrepreneurship Theory And Practice, Vol. 26 No. 3, pp. 41-65.
+
+Bönte, W. and Jarosch, M. (2011), “Gender differences in competitiveness, risk tolerance, and other personality traits: do they contribute to the gender gap in entrepreneurship?”, Schumpeter Discussion Papers.
+
+Brockhaus, R.H. (1982), “The psychology of the entrepreneur”, Encyclopedia of Entrepreneurship, Prentice-Hall, Englewood Cliffs, NJ, pp. 39-57.
+
+Bruni, A., Gherardi, S. and Poggio, B. (2004), “Entrepreneur-mentality, gender and the study of women entrepreneurs”, Journal of Organizational Change Management, Vol. 17 No. 3, pp. 256-268, doi: 10.1108/09534810410538315.
+
+Burke, P. (2006), “Identity change”, Social Psychology Quarterly, Vol. 69 No. 1, pp. 81-96.
+
+Burke, P.J. and Reitzes, D.C. (1981), “The link between identity and role performance”, Social Psychology Quarterly, Vol. 44 No. 2, pp. 83-92, doi: 10.2307/3033704.
+
+Burke, P. and Stets, J. (2009), Identity Theory, Oxford University Press.
+
+Byrne, J. and Fayolle, A. (2010), “A feminist inquiry into entrepreneurship training”, in Smallbone, D. Leitao, J. Raposo, M. and Welter, F. (Eds), The Theory and Practice of Entrepreneurship: Frontiers in Entrepreneurship Research, Edward Elgar, pp. 76-100.
+
+Carter, S., Anderson, S. and Shaw, E. (2001), “Women's business ownership: a review of the academic, iopular and internet literature with a UK policy focus”, Annual Review of Progress in Entrepreneurship, Vol. 1 No. 66.
+
+Celuch, K., Bourdeau, B. and Winkel, D. (2017), “Entrepreneurial identity: the missing link for entrepreneurship education”, Entrepreneurship Education, Vol. 20 No. 2, pp. 1-20.
+
+Chen, C., Greene, P. and Crick, A. (1998), “Does entrepreneurial self-efficacy distinguish entrepreneurs from managers?”, Journal of Business Venturing, Vol. 13 No. 4, pp. 295-316, doi: 10.1016/S0883-9026(97)00029-3.
+
+Cochran, S.L. (2019), “What's gender got to do with it? The experiences of U.S: women entrepreneurship students”, Journal of Small Business Management, Vol. 57 No. sup1, pp. 111-129, doi: 10.1111/jsbm.12508.
+
+Cox, L., Mueller, S. and Moss, S. (2002), “The impact of entrepreneurship education on entrepreneurial self-efficacy”, International Journal of Entrepreneurship Education, No. 1, pp. 2-23.
+
+Daniels, R. and Rittenour, C.E. (2018), “Negotiating identities in the United States: female international students' identity gaps and management strategies”, Intercultural Communication Studies, Vol. 27 No. 1, pp. 37-54.
+
+DeTienne, D. and Chandler, G. (2004), “Opportunity identification and its role in the entrepreneurial classroom: a pedagogical approach and empirical test”, Academy of Management Learning and Education, Vol. 3 No. 3, pp. 242-257.
+
+Donnellon, A., Ollila, S. and Middleton, K.W. (2014), “Constructing entrepreneurial identity in entrepreneurship education”, The International Journal of Management Education, Vol. 12 No. 3, pp. 490-499.
+
+Down, S. and Warren, L. (2008), “Constructing narratives of enterprise: clichés and entrepreneurial self-identity”, International Journal of Entrepreneurial Behavior and Research, Vol. 14 No. 1, pp. 4-23, doi: 10.1108/13552550810852802.
+
+Eagly, A. and Karau, S. (2002), “Role congruity theory of prejudice toward female leaders”, Psychological Review, Vol. 109 No. 3, pp. 573, doi: 10.1037/0033-295X.109.3.573.
+
+Elam, A., Brush, C., Greene, P., Baumer, B., Dean, M. and Heavlow, R. (2019), GEM Women’s Entrepreneurship Report 2018/2019, Babson College, Smith College, and the Global Entrepreneurship Research Association (GERA).
+
+Fayolle, A. (2013), “Personal views on the future of entrepreneurship education”, Entrepreneurship and Regional Development, Vol. 25 Nos 7/8, pp. 692-701.
+
+Fayolle, A. and Gailly, B. (2015), “The impact of entrepreneurship education on entrepreneurial attitudes and intention: Hysteresis and persistence”, Journal of Small Business Management, Vol. 53 No. 1, pp. 75-93, doi: 10.1111/jsbm.12065.
+
+Feder, E.S. and Nitu-Antonie, R.D. (2017), “Connecting gender identity, entrepreneurial training, role models and intentions”, International Journal of Gender and Entrepreneurship, Vol. 9 No. 1, pp. 88-108, doi: 10.1108/IJGE-08-2016-0028.
+
+Fenwick, T. and Hutton, S. (2000), “Women crafting new work: the learning of women entrepreneurs”, Proceedings of the 41st Adult Education Research Conference, Vancouver,, pp. 111-117.
+
+Fetsch, E., Jackson, C. and Weins, J. (2015), Women Entrepreneurs Are Key to Accelerating Growth, Ewing Marion Kauffman Foundation, Kaufman.org (accessed 17 June 2018).
+
+Frederiksen, S.H. and Berglund, K. (2020), “Identity work in entrepreneurship education: activating, scripting and resisting the entrepreneurial self”, International Small Business Journal: Researching Entrepreneurship, Vol. 38 No. 4, pp. 271-292.
+
+García, M.C. and Jiménez-Moreno, J. (2010), “Entrepreneurial intention: the role of gender”, International Entrepreneurship and Management Journal, Vol. 6 No. 3, pp. 261-283, doi: 10.1007/s11365-008-0103-2.
+
+Garcia, M.C. and Welter, F. (2011), “Gender identities and practices: interpreting women entrepreneurs’ narratives”, International Small Business Journal: Researching Entrepreneurship, Vol. 31 No. 4, pp. 384-404, doi: 10.1177/0266242611422829.
+
+Gartner, W.B. (1990), “What are we talking about when we talk about entrepreneurship?”, Journal of Business Venturing, Vol. 5 No. 1, pp. 15-28, doi: 10.1016/0883-9026(90)90023.
+
+Gibson, D. (2003), “Developing the professional self-concept: role model construals in early, middle and late career stages”, Organization Science, Vol. 14 No. 5, pp. 591-610, doi: 10.1287/orsc.14.5.591.16767.
+
+Goktan, B. and Gupta, V. (2015), “Sex, gender, and individual entrepreneurial orientation: evidence from four countries”, International Entrepreneurship and Management Journal, Vol. 11 No. 1, pp. 95-112, doi: 10.1007/s11365-013-0278.
+
+Greer, M. and Greene, P. (2003), “Feminist theory and the study of entrepreneurship”, in Butler, J. (Ed.), New Perspectives on Women Entrepreneurs, Information Age Publishing, Charlotte, pp. 1-24.
+
+Gupta, V. and Fernandez, C. (2009), “Cross-cultural similarities and differences in characteristics attributed to entrepreneurs: a three-nation study”, Journal of Leadership and Organizational Studies, Vol. 15 No. 3, pp. 304-318, doi: 10.1177/1548051808326036.
+
+Gupta, V., Turban, D. and Pareek, A. (2013), “Differences between men and women in opportunity evaluation as a function of gender stereotypes and stereotype activation”, Entrepreneurship Theory and Practice, Vol. 37 No. 4, pp. 771-788, doi: 10.1111/j.1540-6520.2012.00512.
+
+Gupta, V., Turban, D., Wasti, A. and Sikdar, A. (2009), “The role of gender stereotypes in perceptions of entrepreneurs and intentions to become an entrepreneur”, Entrepreneurship Theory and Practice, Vol. 33 No. 2, pp. 397-417, doi: 10.1111/j.1540-6520.2009.00296.
+
+Hahn, D., Minola, T., Van Gils, A. and Huybrechts, J. (2017), “Entrepreneurial education and learning at universities: exploring multilevel contingencies”, Entrepreneurship and Regional Development, Vol. 29 Nos 9/10, pp. 945-974, doi: 10.1080/08985626.2017.1376542.
+
+Hamilton, E. (2013), “The discourse of entrepreneurial masculinities (and femininities)”, Entrepreneurship and Regional Development, Vol. 25 Nos 1/2, pp. 90-99, doi: 10.1080/08985626.2012.746879.
+
+Haus, I., Steinmetz, H., Isidor, R. and Kabst, R. (2013), “Gender effects on entrepreneurial intention: a meta-analytical structural equation model”, International Journal of Gender and Entrepreneurship, Vol. 5 No. 2, pp. 130-156.
+
+Hechavarría, D., Terjesen, S., Stenholm, P., Brännback, M. and Lång, S. (2018), “More than words: do gendered linguistic structures widen the gender gap in entrepreneurial activity?”, Entrepreneurship Theory and Practice, Vol. 42 No. 5, pp. 797-817, doi: 10.1177/1042258718795350.
+
+Hoang, H. and Gimeno, J. (2010), “Becoming a founder: how founder role identity affects entrepreneurial transitions and persistence in founding”, Journal of Business Venturing, Vol. 25 No. 1, pp. 41-53.
+
+Hytti, U. and Heinonen, J. (2013), “Heroic and humane entrepreneurs: identity work in entrepreneurship education”, Education + Training, Vol. 55 Nos 8/9, pp. 886-898.
+
+Jaber, M.A. (2014), Breaking through Glass Doors: A Gender Analysis of Womenomics in the Jordanian National Curriculum, Center for Universal Education, Brookings Institution.
+
+Johansen, V. (2013), “Entrepreneurship education and start-up activity: a gender perspective”, International Journal of Gender and Entrepreneurship, Vol. 5 No. 2, pp. 216-231.
+
+Jones, S. and Warhuus, J.P. (2018), “This class is not for you’ an investigation of gendered subject construction in entrepreneurship course descriptions”, Journal of Small Business and Enterprise Development, Vol. 25 No. 2, pp. 182-200.
+
+Jung, E. (2011), “Identity gap: mediator between communication input and outcome variables”, Communication Quarterly, Vol. 59 No. 3, pp. 315-338.
+
+Jung, E. and Hecht, M.L. (2004), “Elaborating the communication theory of identity: identity gaps and communication outcomes”, Communication Quarterly, Vol. 52 No. 3, pp. 265-283, doi: 10.1080/01463370409370197.
+
+Jung, E. and Hecht, M.L. (2008), “Identity gaps and level of depression among Korean American iimmigrants”, Health Communication, Vol. 23 No. 4, pp. 313-325.
+
+Kelley, D., Baumer, B., Brush, C., Greene, P., Mahdavi, M., Majbouri, M., Cole, M., Dean, M. and Heavlow, R. (2017), Global Entrepreneurship Monitor Report on Women’s Entrepreneurship, Global Entrepreneurship Research Association.
+
+Kelley, D., Brush, C., Greene, P. and Litvosky, Y. (2012), Global Entrepreneurship Monitor: 2012 Women’s Report, Global Entrepreneurship Research Association.
+
+Kolvereid, L. (1996), “Organisational employment versus self employment: reasons for career choice intentions”, Entrepreneurship Theory and Practice, Vol. 20 No. 3, pp. 23-31, doi: 10.1177/104225879602000302.
+
+Krueger, N. and Brazeal, D. (1994), “Entrepreneurial potential and potential entrepreneurs”, Entrepreneurship Theory and Practice, Vol. 18 No. 3, pp. 91-104, doi: 10.1177/104225879401800307.
+
+Lawrence, L. (2018), “Women entrepreneurs: think big”, Business Development Bank, available at: www.bdc.ca/en/about/mediaroom/public_statements/pages/women-entrepreneurs-think-big.aspx (accessed 17 June 2018).
+
+Lortie, J., Castrogiovanni, G. and Cox, K. (2017), “Gender, social salience, and social performance: how women pursue and perform in social ventures”, Entrepreneurship and Regional Development, Vol. 29 Nos 1/2, pp. 155-173, doi: 10.1080/08985626.2016.1255433.
+
+McClelland, D. (1961), The Achieving Society, D Van Nostrand Co, Princeton.
+
+McGee, J., Peterson, M., Mueller, S. and Sequeira, J. (2009), “Entrepreneurial self–efficacy: refining the measure”, Entrepreneurship Theory and Practice, Vol. 33 No. 4, pp. 965-988, doi: 10.1111/j.1540-6520.2009.00304.
+
+Marlow, S. (2002), “Women and self-employment: a part of or apart from theoretical construct?”, The International Journal of Entrepreneurship and Innovation, Vol. 3 No. 2, pp. 83-91, doi: 10.1111/j.1540-6520.2005.00105.
+
+Menzies, T.V. and Paradi, J.C. (2002), “Encouraging technology-based ventures: entrepreneurship education and engineering graduates”, New England Journal of Entrepreneurship, Vol. 5 No. 2, pp. 57-64, doi: 10.1108/NEJE-05-02-2002-B008.
+
+Menzies, T. and Tatroff, H. (2006), “The propensity of male vs female students to take courses and degree concentrations in entrepreneurship”, Journal of Small Business and Entrepreneurship, Vol. 19 No. 2, pp. 203-223, doi: 10.1080/08276331.2006.10593367.
+
+Meyer, V., Tegtimeirer, S. and Pakura, S. (2017), “Revisited: how gender role stereotypes affect the image of entreprneeurs among young adults”, International Journal of Gender and Entrepreneurship, Vol. 9 No. 4, pp. 319-337, doi: 10.1108/IFGE-07-2017-0031.
+
+Mueller, S. and Anderson, A. (2014), “Understanding the entrepreneurial learning process and its impact on students’ personal development: a European perspective”, The International Journal of Management Education, Vol. 12 No. 3, pp. 500-511, doi: 10.1016/j.ijme.2014.05.003.
+
+Mueller, S. and Conway Dato-On, M. (2013), “A cross cultural study of gender-role orientation and entrepreneurial self-efficacy”, International Entrepreneurship and Management Journal, Vol. 9 No. 1, pp. 1-20, doi: 10.1007/s11365-011-0187.
+
+Mueller, S. and Thomas, A. (2001), “Culture and entrepreneurial potential: a nine country study of locus of control and innovativeness”, Journal of Business Venturing, Vol. 16 No. 1, pp. 51-75, doi: 10.1016/S0883-9026(99)00039-7.
+
+Nabi, G., Liñán, F., Fayolle, A., Krueger, N. and Walmsley, A. (2017), “The impact of entrepreneurship education in higher education: a systematic review and research agenda”, Academy of Management Learning and Education, Vol. 16 No. 2, pp. 277-299.
+
+OECD (2020), “Population with tertiary education”, Retrieved January 16, 2021, available at: https://data.oecd.org/eduatt/population-with-tertiary-education.htm and https://read.oecd-ilibrary.org/education/education-at-a-glance-2020_43439e03-en#page2
+
+Perez-Quintana, A., Hormiga, E., Carles Martori, J. and Madariaga, R. (2017), “The influence of sex and gender-role orientation in the decision to become an entrepreneur”, International Journal of Gender and Entrepreneurship, Vol. 9 No. 1, pp. 8-30, doi: 10.1108/IJGE-12-2015-0047.
+
+Pouragheli, N. and Beckton, C. (2013), “Where are the women in Canada’s innovation strategy?”, M.A Thesis, Carleton University.
+
+Ridgeway, C. (2006), “Linking social structure and interpersonal behavior: a theoretical perspective on cultural schemas and social relations”, Social Psychology Quarterly, Vol. 69 No. 1, pp. 5-16, doi: 10.1177/019027250606900102.
+
+Rotter, J. (1966), “Generalized expectancies for internal versus external control of reinforcement”, Psychological Monographs: General and Applied, Vol. 80 No. 1, pp. 1-28, doi: 10.1037/h0092976.
+
+Rowe, A. (2016), “Designing equality of opportunity in national innovation systems: moving towards gender conscious policy, performance measurement, and resource allocation”, PhD dissertation, McMaster University.
+
+Schein, V. (1975), “Relationships between sex role stereotypes and requisite management characteristics among female managers”, Journal of Applied Psychology, Vol. 60 No. 3, pp. 340, doi: 10.1037/h0076637.
+
+Scherer, R., Adams, J., Carley, S. and Wiebe, F. (1989), “Role model performance effects on development of entrepreneurial career preference”, Entrepreneurship Theory and Practice, Vol. 13 No. 3, pp. 53-72, doi: 10.1177/104225878901300306.
+
+Schott, T., Kew, P. and Cheragi, M. (2015), Future Potential: A GEM Perspective on Youth Entrepreneurship, GEM Consortium.
+
+Schwandt, T. (2001), Dictionary of Qualitative Inquiry, Sage, Thousand Oaks.
+
+Shapero, A. (1975), “The displaced, uncomfortable entrepreneur”, Psychology Today, Vol. 9 No. 6, pp. 83-88.
+
+Shapero, A. and Sokol, L. (1982), “The social dimensions of entrepreneurship”, in Karl V. (Ed.), Encyclopedia of Entrepreneurship, Prentice Hall, Englewood Cliffs, pp. 72-90.
+
+Smith, R. (2014), “Images, forms and presence outside and beyond the pink ghetto”, Gender in Management: An International Journal, Vol. 29 No. 8, pp. 466-486, doi: 10.1108/GM-02-2014-0012.
+
+Stam, W., Arzlanian, S. and Elfring, T. (2014), “Social capital of entrepreneurs and small firm performance: a meta-analysis of contextual and methodological moderators”, Journal of Business Venturing, Vol. 29 No. 1, pp. 152-173.
+
+Stets, J. and Burke, P. (2000), “Identity theory and social identity theory”, Social Psychology Quarterly, Vol. 63 No. 3, pp. 224-237, doi: 10.2307/2695870.
+
+Stivers, B.P. and Campbell, J.E. (1995), “Characterizing accounting consultants: gender does make a difference”, Journal of Organizational Change Management, Vol. 8 No. 1, pp. 23-31, doi: 10.1108/09534819510077128.
+
+Sweida, G. and Reichard, R. (2013), “Gender stereotyping effects on entrepreneurial self-growth and high-growth entrepreneurial intention”, Journal of Small Business and Enterprise Development, Vol. 20 No. 2, pp. 296-313, doi: 10.1108/14626001311326743.
+
+Verheul, I., Uhlaner, L. and Thurik, R. (2005), “Business accomplishments, gender and entrepreneurial self-image”, Journal of Business Venturing, Vol. 20 No. 4, pp. 483-518, doi: 10.1016/j.jbusvent.2004.03.002.
+
+Vesper, K. (1999), “Unfinished business (entrepreneurship) of the 20th century”, Paper presented at USASBE Conference, San Diego.
+
+Wagner, P.E., Kunkel, A. and Compton, B.L. (2016), “(Trans) lating identity: exploring discursive strategies for navigating the tensions of identity gaps”, Communication Quarterly, Vol. 64 No. 3, pp. 251-272.
+
+Warren, L. (2004), “Negotiating entrepreneurial identity: communities of practice and changing discourses”, The International Journal of Entrepreneurship and Innovation, Vol. 5 No. 1, pp. 25-35, doi: 10.5367/000000004772913764.
+
+Westhead, P. and Solesvik, M. (2016), “Entrepreneurship education and entrepreneurial intention: do female students benefit?”, International Small Business Journal: Researching Entrepreneurship, Vol. 34 No. 8, pp. 979-1003, doi: 10.1177/0266242615612534.
+
+Wilson, F., Kickul, J. and Marlino, D. (2007), “Gender, entrepreneurial self-efficacy, and entrepreneurial career intentions: implications for entrepreneurship education”, Entrepreneurship Theory and Practice, Vol. 31 No. 3, pp. 387-406, doi: 10.1111/j.1540-6520.2007.00179.
+
+Wilson, F., Kickul, J., Marlino, D., Barbosa, S. and Griffiths, M. (2009), “An analysis of the role of gender and self-efficacy in developing female entrepreneurial interest and behavior”, Journal of Developmental Entrepreneurship, Vol. 14 No. 2, pp. 105-119, doi: 10.1142/S1084946709001247.
+
+World Bank (2019), “Female entrepreneurship resource point - introduction and module 1: why gender matters”, available at: www.worldbank.org/en/topic/gender/publication/female-entrepreneurship-resource-point-introduction-and-module-1-why-gender-matters (accessed December 14, 2019).
+
+Zhao, H., Seibert, S.E. and Hills, G.E. (2005), “The mediating role of self-efficacy in the development of entrepreneurial intentions”, Journal of Applied Psychology, Vol. 90 No. 6, pp. 1265-1272, doi: 10.1037/0021-9010.90.6.1265.
+
+Exploring the gendered entrepreneurial identity gap: implications for entrepreneurship education
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Entrepreneurial identity
+
+Role congruity theory
+
+Change in gendered entrepreneurial identity standards
+
+Entrepreneurial intent, gender and the identity gap
+
+Education, the identity gap and entrepreneurial intent
+
+Method
+
+Results
+
+The gendered nature of the entrepreneurial identity gap
+
+Entrepreneurial identity gap, gender and entrepreneurial intent
+
+Entrepreneurship education, gender, entrepreneurial intent and the entrepreneurial identity gap
+
+Discussion
+
+Conclusion
+
+Table 1.
+
+Table 2.
+
+Table 3.
+
+References
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+International Journal of Gender and Entrepreneurship
+
+Volume 13 Issue 1
+
+Exploring the gendered entrepreneurial identity gap: implications for entrepreneurship education
+
+Abstract
+
+Introduction
+
+Entrepreneurial identity
+
+Role congruity theory
+
+Change in gendered entrepreneurial identity standards
+
+Entrepreneurial intent, gender and the identity gap
+
+Education, the identity gap and entrepreneurial intent
+
+Method
+
+Results
+
+The gendered nature of the entrepreneurial identity gap
+
+Entrepreneurial identity gap, gender and entrepreneurial intent
+
+Entrepreneurship education, gender, entrepreneurial intent and the entrepreneurial identity gap
+
+Discussion
+
+Conclusion
+
+Entrepreneurship education and training
+
+Gender
+
+Women’s entrepreneurship
+
+Stereotypes
+
+Entrepreneurial intent
+
+Entrepreneurial identity
+
+When you were answering the questions [about an entrepreneur] above, were you thinking of a particular gender? (male; female; other; I was not thinking of a particular gender);
+
+When you were answering the questions above, were you thinking of a particular person? (yes/no); and
+
+Briefly describe. Responses to these items contributed to our understanding of the gendered nature of the entrepreneurial identity gap.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+1. Hardworking
+
+4.72 (0.63)
+
+4.34 (0.84)
+
+8.70***
+
+4.60 (0.73)
+
+4.13 (0.84)
+
+7.52***
+
+0.39 (0.81)
+
+0.46 (0.97)
+
+−1.04
+
+2. Determined
+
+4.67 (0.66)
+
+4.29 (0.82)
+
+8.12***
+
+4.58 (0.74)
+
+4.17 (0.81)
+
+6.83***
+
+0.38 (0.84)
+
+0.42 (0.96)
+
+−0.53
+
+3. Dedicated
+
+4.64 (0.70)
+
+4.24 (0.79)
+
+9.02***
+
+4.50 (0.75)
+
+4.08 (0.82)
+
+7.69***
+
+0.40 (0.80)
+
+0.42 (0.86)
+
+−0.33
+
+4. Driven
+
+4.64 (0.70)
+
+4.09 (0.92)
+
+10.87***
+
+4.48 (0.84)
+
+3.96 (0.93)
+
+8.11***
+
+0.55 (0.92)
+
+0.52 (1.00)
+
+0.40
+
+5. Communicator
+
+4.62 (0.74)
+
+3.77 (1.08)
+
+14.00***
+
+4.46 (0.81)
+
+3.81 (1.04)
+
+8.63***
+
+0.85 (1.12)
+
+0.65 (1.18)
+
+2.13*
+
+6. Passionate
+
+4.58 (0.75)
+
+4.31 (0.83)
+
+5.78***
+
+4.51 (0.78)
+
+4.14 (0.90)
+
+5.63***
+
+0.28 (0.87)
+
+0.37 (1.04)
+
+−1.21
+
+7. Resourceful
+
+4.60 (0.73)
+
+3.84 (0.92)
+
+13.29***
+
+4.46 (0.82)
+
+3.95 (0.88)
+
+8.29***
+
+0.76 (1.04)
+
+0.51 (0.98)
+
+2.86**
+
+8. Confident
+
+4.57 (0.71)
+
+3.79 (0.99)
+
+12.63***
+
+4.51 (0.76)
+
+4.03 (0.98)
+
+7.51***
+
+0.78 (1.12)
+
+0.48 (1.00)
+
+3.33***
+
+9. Opportunistic
+
+4.57 (0.79)
+
+3.70 (0.99)
+
+15.72***
+
+4.47 (0.81)
+
+3.94 (0.91)
+
+8.35***
+
+0.87 (1.01)
+
+0.53 (0.99)
+
+4.09***
+
+10. Persistent
+
+4.57 (0.73)
+
+3.93 (0.94)
+
+12.16***
+
+4.47 (0.78)
+
+3.94 (0.84)
+
+8.60***
+
+0.64 (0.96)
+
+0.52 (0.96)
+
+1.45
+
+11. Responsible
+
+4.55 (0.80)
+
+4.42 (0.74)
+
+2.75**
+
+4.43 (0.80)
+
+4.15 (0.84)
+
+4.24***
+
+0.13 (0.86)
+
+0.28 (1.04)
+
+−1.90
+
+12. Perseverance
+
+4.55 (0.75)
+
+3.97 (0.95)
+
+10.98***
+
+4.42 (0.88)
+
+3.91 (0.89)
+
+7.35***
+
+0.58 (0.97)
+
+0.50 (1.08)
+
+0.90
+
+13. Problem solver
+
+4.55 (0.77)
+
+4.07 (0.83)
+
+9.43***
+
+4.42 (0.85)
+
+4.12 (0.86)
+
+4.69***
+
+0.48 (0.93)
+
+0.30 (1.00)
+
+2.22*
+
+14. Innovative
+
+4.53 (0.78)
+
+3.57 (0.98)
+
+16.15***
+
+4.40 (0.82)
+
+3.81 (0.97)
+
+8.50***
+
+0.96 (1.08)
+
+0.59 (1.09)
+
+4.02***
+
+15. Organized
+
+4.55 (0.78)
+
+4.06 (1.06)
+
+8.10***
+
+4.41 (0.81)
+
+3.67 (1.16)
+
+8.89***
+
+0.49 (1.10)
+
+0.74 (1.31)
+
+−2.50*
+
+16. Build team
+
+4.52 (0.80)
+
+3.82 (1.03)
+
+11.65***
+
+4.39 (0.87)
+
+3.91 (0.96)
+
+6.54***
+
+0.71 (1.11)
+
+0.48 (1.16)
+
+2.40*
+
+17. Visionary
+
+4.49 (0.86)
+
+3.72 (1.07)
+
+11.15***
+
+4.43 (0.87)
+
+3.76 (1.02)
+
+9.11***
+
+0.77 (1.26)
+
+0.67 (1.16)
+
+0.91
+
+18. Energetic
+
+4.47 (0.76)
+
+3.98 (0.94)
+
+9.00***
+
+4.41 (0.82)
+
+3.99 (0.89)
+
+6.64***
+
+0.49 (1.00)
+
+0.42 (1.00)
+
+0.85
+
+19. Smart
+
+4.48 (0.77)
+
+4.07 (0.85)
+
+8.33***
+
+4.38 (0.88)
+
+4.09 (0.89)
+
+4.69***
+
+0.41 (0.90)
+
+0.30 (1.00)
+
+1.42
+
+20. Well connected
+
+4.51 (0.77)
+
+3.55 (1.06)
+
+14.81***
+
+4.36 (0.91)
+
+3.58 (1.06)
+
+9.74***
+
+0.96 (1.18)
+
+0.77 (1.25)
+
+1.78
+
+21. Assertive
+
+4.46 (0.88)
+
+3.56 (1.09)
+
+13.14***
+
+4.39 (0.83)
+
+3.77 (0.98)
+
+8.91***
+
+0.90 (1.26)
+
+0.62 (1.09)
+
+2.87**
+
+22. Persuasive
+
+4.50 (0.83)
+
+3.89 (0.98)
+
+10.38***
+
+4.32 (0.87)
+
+3.92 (0.91)
+
+5.83***
+
+0.61 (1.08)
+
+0.40 (1.07)
+
+2.42*
+
+23. Enthusiastic
+
+4.43 (0.81)
+
+4.08 (0.86)
+
+6.67***
+
+4.31 (0.83)
+
+3.94 (0.90)
+
+5.71***
+
+0.35 (0.97)
+
+0.38 (1.03)
+
+−0.25
+
+24. Creative
+
+4.39 (0.89)
+
+3.89 (1.04)
+
+7.73***
+
+4.34 (0.90)
+
+3.79 (1.04)
+
+7.59***
+
+0.50 (1.18)
+
+0.55 (1.14)
+
+−0.53
+
+25. Detail oriented
+
+4.42 (0.87)
+
+4.10 (0.91)
+
+5.52***
+
+4.29 (0.94)
+
+3.83 (0.95)
+
+6.00***
+
+0.32 (1.07)
+
+0.46 (1.20)
+
+−1.39
+
+26. Lead by example
+
+4.41 (0.88)
+
+4.09 (0.89)
+
+5.62***
+
+4.30 (0.91)
+
+4.02 (0.91)
+
+3.82***
+
+0.32 (1.03)
+
+0.28 (1.16)
+
+0.37
+
+27. Risk taker
+
+4.38 (0.93)
+
+3.38 (1.22)
+
+13.52***
+
+4.33 (0.95)
+
+3.65 (1.04)
+
+9.43***
+
+1.00 (1.35)
+
+0.69 (1.14)
+
+2.94**
+
+28. Clear sighted
+
+4.38 (0.82)
+
+3.85 (0.93)
+
+9.63***
+
+4.31 (0.86)
+
+3.84 (0.86)
+
+7.48***
+
+0.53 (1.01)
+
+0.47 (0.99)
+
+0.76
+
+29. Collaborative
+
+4.39 (0.84)
+
+4.06 (0.91)
+
+6.16***
+
+4.22 (0.97)
+
+3.95 (0.85)
+
+3.87***
+
+0.33 (0.99)
+
+0.27 (1.09)
+
+0.76
+
+30. Develops people
+
+4.37 (0.86)
+
+3.72 (0.99)
+
+10.33***
+
+4.24 (0.95)
+
+3.67 (0.99)
+
+7.56***
+
+0.65 (1.15)
+
+0.57 (1.19)
+
+0.83
+
+31. Seeks to make a contribution
+
+4.41 (0.84)
+
+4.07 (0.90)
+
+6.04**
+
+4.19 (0.95)
+
+4.00 (0.92)
+
+2.79**
+
+0.34 (1.02)
+
+0.19 (1.09)
+
+1.62
+
+32. Facilitator
+
+4.39 (0.83)
+
+3.75 (0.95)
+
+10.73***
+
+4.21 (0.92)
+
+3.79 (0.85)
+
+5.98***
+
+0.64 (1.09)
+
+0.42 (1.10)
+
+2.41*
+
+33. Bold
+
+4.38 (0.88)
+
+3.45 (1.09)
+
+13.65***
+
+4.16 (0.96)
+
+3.63 (1.01)
+
+7.02***
+
+0.93 (1.24)
+
+0.53 (1.18)
+
+3.89***
+
+34. Flexible
+
+4.29 (0.94)
+
+4.05 (0.94)
+
+3.82***
+
+4.27 (0.86)
+
+3.89 (0.95)
+
+5.19***
+
+0.24 (1.15)
+
+0.38 (1.14)
+
+−1.43
+
+35. Independent
+
+4.40 (0.88)
+
+4.22 (0.94)
+
+2.96**
+
+4.15 (1.09)
+
+4.09 (0.86)
+
+0.67
+
+0.18 (1.13)
+
+0.05 (1.23)
+
+1.32
+
+36. Motivator
+
+4.32 (0.90)
+
+4.08 (0.95)
+
+3.99***
+
+4.23 (0.96)
+
+3.88 (0.98)
+
+4.72***
+
+0.24 (1.11)
+
+0.35 (1.17)
+
+−1.14
+
+37. Optimistic
+
+4.33 (0.83)
+
+3.99 (1.01)
+
+5.83**
+
+4.23 (0.92)
+
+4.04 (0.90)
+
+2.69**
+
+0.34 (1.06)
+
+0.18 (1.07)
+
+1.75
+
+38. Open-minded
+
+4.32 (0.87)
+
+4.34 (0.85)
+
+−0.26
+
+4.21 (0.90)
+
+4.14 (0.82)
+
+1.03
+
+−0.02 (1.05)
+
+0.07 (1.05)
+
+−0.95
+
+39. Friendly
+
+4.36 (0.90)
+
+4.47 (0.80)
+
+−1.96
+
+4.11 (0.94)
+
+4.34 (0.81)
+
+−3.25**
+
+−0.11 (1.04)
+
+−0.23 (1.13)
+
+1.36
+
+40. Recognizes others
+
+4.31 (0.87)
+
+4.25 (0.86)
+
+1.03
+
+4.21 (0.91)
+
+4.11 (0.80)
+
+1.61
+
+0.06 (1.01)
+
+0.11 (1.03)
+
+−0.56
+
+41. Inspirational
+
+4.28 (0.90)
+
+3.64 (0.98)
+
+10.63***
+
+4.19 (0.95)
+
+3.58 (1.01)
+
+7.49***
+
+0.65 (1.10)
+
+0.61 (1.27)
+
+0.40
+
+42. Adventurous
+
+4.26 (0.95)
+
+3.98 (1.05)
+
+4.29***
+
+4.17 (0.97)
+
+4.02 (0.94)
+
+1.93
+
+0.29 (1.22)
+
+0.14 (1.15)
+
+1.45
+
+43. Supportive
+
+4.25 (0.89)
+
+4.36 (0.77)
+
+−2.00*
+
+4.13 (0.96)
+
+4.11 (0.81)
+
+0.18
+
+−0.11 (1.02)
+
+0.01 (1.04)
+
+−1.43
+
+44. Integrity
+
+4.23 (0.98)
+
+4.18 (0.86)
+
+0.83
+
+4.04 (1.07)
+
+4.00 (0.94)
+
+0.53
+
+0.05 (1.06)
+
+0.04 (1.20)
+
+0.08
+
+45. Curious
+
+4.04 (0.96)
+
+4.13 (0.90)
+
+−1.48
+
+4.00 (0.98)
+
+4.19 (0.82)
+
+−2.72**
+
+−0.09 (1.15)
+
+−0.19 (1.12)
+
+1.06
+
+46. Inclusive
+
+4.04 (1.04)
+
+4.02 (0.95)
+
+0.34
+
+3.93 (1.09)
+
+3.83 (0.93)
+
+1.34
+
+0.02 (1.13)
+
+0.10 (1.19)
+
+−0.83
+
+47. Shares leadership
+
+4.07 (1.06)
+
+3.82 (1.09)
+
+3.53**
+
+3.84 (1.09)
+
+3.86 (0.94)
+
+−0.26
+
+0.25 (1.29)
+
+−0.02 (1.22)
+
+2.54*
+
+48. Empathetic
+
+3.92 (1.08)
+
+4.23 (0.95)
+
+−4.59**
+
+3.78 (1.15)
+
+3.94 (0.90)
+
+−2.08*
+
+−0.32 (1.25)
+
+−0.16 (1.23)
+
+−1.47
+
+1. Hardworking
+
+4.70 (0.62)
+
+4.71 (0.68)
+
+−0.11
+
+4.23 (0.84)
+
+4.32 (0.85)
+
+−0.81
+
+0.49 (0.82)
+
+0.40 (0.80)
+
+0.91
+
+2. Determined
+
+4.60 (0.72)
+
+4.79 (0.51)
+
+−2.43*
+
+4.29 (0.73)
+
+4.32 (0.92)
+
+−0.26
+
+0.31 (0.82)
+
+0.48 (0.93)
+
+−1.51
+
+3. Dedicated
+
+4.64 (0.65)
+
+4.65 (0.76)
+
+−0.08
+
+4.20 (0.78)
+
+4.23 (0.84)
+
+−0.24
+
+0.44 (0.87)
+
+0.42 (0.80)
+
+0.15
+
+4. Driven
+
+4.59 (0.75)
+
+4.63 (0.75)
+
+−0.38
+
+4.01 (0.96)
+
+4.20 (0.94)
+
+−1.61
+
+0.59 (0.91)
+
+0.43 (1.01)
+
+1.30
+
+5. Communicator
+
+4.59 (0.75)
+
+4.59 (0.78)
+
+0.09
+
+3.82 (1.09)
+
+4.02 (0.96)
+
+−1.54
+
+0.77 (1.20)
+
+0.57 (1.07)
+
+1.41
+
+6. Passionate
+
+4.62 (0.70)
+
+4.64 (0.71)
+
+−0.20
+
+4.23 (0.86)
+
+4.39 (0.86)
+
+−1.48
+
+0.39 (0.88)
+
+0.25 (0.83)
+
+1.30
+
+7. Resourceful
+
+4.49 (0.87)
+
+4.64 (0.71)
+
+−1.45
+
+3.83 (0.87)
+
+3.99 (0.93)
+
+−1.48
+
+0.66 (1.10)
+
+0.65 (0.93)
+
+0.10
+
+8. Confident
+
+4.59 (0.69)
+
+4.63 (0.67)
+
+−0.42
+
+3.89 (1.01)
+
+4.14 (0.92)
+
+−2.04*
+
+0.72 (1.06)
+
+0.50 (1.01)
+
+1.69
+
+9. Opportunistic
+
+4.62 (0.70)
+
+4.65 (0.66)
+
+−0.32
+
+3.74 (0.87)
+
+4.08 (0.89)
+
+−3.08**
+
+0.88 (0.99)
+
+0.57 (0.95)
+
+2.59**
+
+10. Persistent
+
+4.55 (0.75)
+
+4.62 (0.68)
+
+−0.75
+
+3.93 (0.95)
+
+4.05 (0.86)
+
+−1.04
+
+0.62 (1.00)
+
+0.58 (0.94)
+
+0.37
+
+11. Responsible
+
+4.48 (0.80)
+
+4.58 (0.72)
+
+−0.97
+
+4.41 (0.76)
+
+4.40 (0.78)
+
+0.09
+
+0.08 (1.01)
+
+0.18 (1.00)
+
+−0.77
+
+12. Perseverance
+
+4.54 (0.81)
+
+4.56 (0.81)
+
+−0.18
+
+3.95 (0.93)
+
+4.21 (0.86)
+
+−2.25*
+
+0.59 (0.98)
+
+0.35 (1.10)
+
+1.82
+
+13. Problem solver
+
+4.46 (0.85)
+
+4.67 (0.65)
+
+−2.14*
+
+4.16 (0.75)
+
+4.28 (0.85)
+
+−1.22
+
+0.30 (0.89)
+
+0.40 (0.87)
+
+−0.93
+
+14. Innovative
+
+4.48 (0.85)
+
+4.59 (0.77)
+
+−1.12
+
+3.49 (1.00)
+
+4.09 (0.89)
+
+−5.00***
+
+0.99 (1.12)
+
+0.50 (1.09)
+
+3.46**
+
+15. Organized
+
+4.44 (0.84)
+
+4.52 (0.71)
+
+−0.85
+
+3.83 (1.13)
+
+3.95 (1.14)
+
+−0.88
+
+0.64 (1.22)
+
+0.57 (1.15)
+
+0.51
+
+16. Build team
+
+4.47 (0.88)
+
+4.58 (0.72)
+
+−1.02
+
+3.77 (0.99)
+
+4.14 (0.94)
+
+−3.12**
+
+0.71 (1.21)
+
+0.43 (1.02)
+
+1.95
+
+17. Visionary
+
+4.39 (0.95)
+
+4.67 (0.62)
+
+−2.65**
+
+3.57 (1.12)
+
+4.11 (0.93)
+
+−4.11***
+
+0.82 (1.36)
+
+0.56 (0.89)
+
+1.79
+
+18. Energetic
+
+4.45 (0.79)
+
+4.55 (0.80)
+
+−1.05
+
+3.93 (0.92)
+
+4.14 (0.94)
+
+−1.79
+
+0.52 (0.98)
+
+0.41 (1.02)
+
+0.84
+
+19. Smart
+
+4.47 (0.80)
+
+4.47 (0.80)
+
+0.01
+
+4.11 (0.85)
+
+4.30 (0.84)
+
+−1.72
+
+0.37 (1.02)
+
+0.17 (0.77)
+
+1.71
+
+20. Well connected
+
+4.39 (0.88)
+
+4.55 (0.78)
+
+−1.55
+
+3.47 (1.11)
+
+3.83 (0.98)
+
+−2.71**
+
+0.91 (1.27)
+
+0.72 (1.11)
+
+1.27
+
+21. Assertive
+
+4.44 (0.98)
+
+4.48 (0.81)
+
+−0.34
+
+3.51 (1.15)
+
+3.92 (0.99)
+
+−3.02**
+
+0.95 (1.37)
+
+0.56 (1.13)
+
+2.46*
+
+22. Persuasive
+
+4.42 (0.93)
+
+4.51 (0.71)
+
+−0.90
+
+3.92 (0.92)
+
+4.12 (0.92)
+
+−1.71
+
+0.49 (1.18)
+
+0.40 (1.01)
+
+0.65
+
+23. Enthusiastic
+
+4.41 (0.80)
+
+4.51 (0.72)
+
+−1.12
+
+3.95 (0.91)
+
+4.20 (0.86)
+
+−2.20*
+
+0.45 (1.05)
+
+0.32 (0.91)
+
+1.10
+
+24. Creative
+
+4.30 (0.93)
+
+4.61 (0.75)
+
+−2.93**
+
+3.83 (1.08)
+
+4.17 (0.88)
+
+−2.76**
+
+0.47 (1.10)
+
+0.44 (0.92)
+
+0.19
+
+25. Detail oriented
+
+4.32 (0.99)
+
+4.47 (0.85)
+
+−1.23
+
+4.09 (0.89)
+
+3.98 (1.04)
+
+0.88
+
+0.24 (1.19)
+
+0.49 (1.18)
+
+−1.62
+
+26. Lead by example
+
+4.30 (0.96)
+
+4.36 (1.00)
+
+−0.50
+
+4.00 (0.96)
+
+4.27 (0.84)
+
+−2.37*
+
+0.32 (1.14)
+
+0.09 (1.13)
+
+1.57
+
+27. Risk taker
+
+4.39 (0.92)
+
+4.48 (0.89)
+
+−0.75
+
+3.36 (1.20)
+
+3.85 (1.06)
+
+−3.38**
+
+1.03 (1.44)
+
+0.63 (1.04)
+
+2.46*
+
+28. Clear sighted
+
+4.33 (0.85)
+
+4.41 (0.82)
+
+−0.70
+
+3.93 (0.90)
+
+3.86 (0.88)
+
+0.63
+
+0.41 (1.06)
+
+0.55 (1.04)
+
+−1.09
+
+29. Collaborative
+
+4.24 (0.96)
+
+4.45 (0.78)
+
+−1.86
+
+4.00 (0.93)
+
+4.18 (0.87)
+
+−1.59
+
+0.24 (1.18)
+
+0.27 (0.99)
+
+−0.20
+
+30. Develops people
+
+4.25 (0.98)
+
+4.46 (0.82)
+
+−1.81
+
+3.61 (1.04)
+
+3.84 (0.89)
+
+−1.85
+
+0.65 (1.33)
+
+0.62 (0.93)
+
+0.17
+
+31. Contribution
+
+4.33 (0.92)
+
+4.38 (0.93)
+
+−0.41
+
+3.98 (0.98)
+
+4.41 (0.72)
+
+−3.94***
+
+0.34 (1.19)
+
+−0.04 (1.05)
+
+2.63**
+
+32. Facilitator
+
+4.32 (0.90)
+
+4.39 (0.83)
+
+−0.64
+
+3.77 (0.84)
+
+3.88 (0.94)
+
+−1.00
+
+0.54 (1.13)
+
+0.50 (1.03)
+
+0.26
+
+33. Bold
+
+4.38 (0.85)
+
+4.30 (0.94)
+
+0.70
+
+3.45 (1.15)
+
+3.65 (1.06)
+
+−1.46
+
+0.93 (1.27)
+
+0.65 (1.23)
+
+1.77
+
+34. Flexible
+
+4.29 (0.91)
+
+4.48 (0.72)
+
+−1.83
+
+4.01 (0.89)
+
+4.02 (1.00)
+
+−0.10
+
+0.28 (1.20)
+
+0.47 (0.99)
+
+−1.34
+
+35. Independent
+
+4.32 (0.95)
+
+4.36 (0.99)
+
+−0.30
+
+4.16 (0.94)
+
+4.17 (0.94)
+
+−0.09
+
+0.17 (1.19)
+
+0.18 (1.14)
+
+−0.08
+
+36. Motivator
+
+4.32 (0.98)
+
+4.36 (0.90)
+
+−0.36
+
+3.93 (0.95)
+
+4.12 (0.99)
+
+−1.58
+
+0.39 (1.21)
+
+0.24 (1.07)
+
+1.00
+
+37. Optimistic
+
+4.18 (0.92)
+
+4.44 (0.82)
+
+−2.33*
+
+3.92 (1.01)
+
+4.17 (0.98)
+
+−2.01*
+
+0.27 (1.06)
+
+0.27 (1.06)
+
+−0.04
+
+38. Open-minded
+
+4.22 (0.92)
+
+4.42 (0.79)
+
+−1.79
+
+4.35 (0.81)
+
+4.32 (0.80)
+
+0.34
+
+−0.12 (1.09)
+
+0.09 (0.89)
+
+−1.67
+
+39. Friendly
+
+4.15 (1.00)
+
+4.37 (0.86)
+
+−1.86
+
+4.35 (0.80)
+
+4.52 (0.69)
+
+−1.81
+
+−0.19 (1.14)
+
+−0.15 (0.97)
+
+−0.28
+
+40. Recognizes others
+
+4.24 (0.95)
+
+4.46 (0.77)
+
+−1.97
+
+4.24 (0.81)
+
+4.29 (0.81)
+
+−0.51
+
+0.01 (1.01)
+
+0.17 (1.00)
+
+−1.25
+
+41. Inspirational
+
+4.24 (0.90)
+
+4.39 (0.84)
+
+−1.31
+
+3.50 (1.02)
+
+3.82 (0.98)
+
+−2.54*
+
+0.75 (1.25)
+
+0.56 (1.11)
+
+1.24
+
+42. Adventurous
+
+4.20 (0.94)
+
+4.31 (1.00)
+
+−0.86
+
+3.84 (1.11)
+
+4.27 (0.86)
+
+−3.41**
+
+0.36 (1.32)
+
+0.04 (1.13)
+
+2.08*
+
+43. Supportive
+
+4.22 (0.92)
+
+4.25 (0.95)
+
+−0.19
+
+4.28 (0.76)
+
+4.24 (0.84)
+
+0.39
+
+−0.06 (0.97)
+
+0.00 (1.17)
+
+−0.46
+
+44. Integrity
+
+4.18 (1.04)
+
+4.34 (0.90)
+
+−1.30
+
+4.22 (0.84)
+
+4.27 (0.85)
+
+−0.51
+
+−0.03 (1.30)
+
+0.07 (1.03)
+
+−0.71
+
+45. Curious
+
+4.00 (1.00)
+
+4.23 (0.92)
+
+−1.93
+
+4.17 (0.84)
+
+4.30 (0.91)
+
+−1.13
+
+−0.18 (1.17)
+
+−0.06 (1.22)
+
+−0.75
+
+46. Inclusive
+
+3.95 (1.13)
+
+4.16 (1.00)
+
+−1.56
+
+4.00 (0.90)
+
+4.01 (1.01)
+
+−0.08
+
+−0.05 (1.24)
+
+0.15 (1.18)
+
+−1.31
+
+47. Shares leadership
+
+3.85 (1.11)
+
+4.13 (1.01)
+
+−2.06*
+
+3.74 (1.11)
+
+4.07 (0.85)
+
+−2.59*
+
+0.11 (1.29)
+
+0.05 (1.06)
+
+0.36
+
+48. Empathetic
+
+3.76 (1.21)
+
+3.98 (1.09)
+
+−1.50
+
+4.11 (0.98)
+
+4.20 (0.92)
+
+−0.75
+
+−0.35 (1.40)
+
+−0.22 (1.20)
+
+−0.79
+
+1. Hardworking
+
+0.43 (0.86)
+
+0.39 (0.93)
+
+0.46
+
+2. Determined
+
+0.40 (0.87)
+
+0.37 (0.96)
+
+0.32
+
+3. Dedicated
+
+0.42 (0.78)
+
+0.36 (0.94)
+
+0.81
+
+4. Driven
+
+0.55 (0.96)
+
+0.49 (0.93)
+
+0.67
+
+5. Communicator
+
+0.81 (1.16)
+
+0.64 (1.10)
+
+1.58
+
+6. Passionate
+
+0.30 (0.92)
+
+0.35 (1.02)
+
+−0.56
+
+7. Resourceful
+
+0.68 (1.03)
+
+0.58 (0.98)
+
+1.02
+
+8. Confident
+
+0.70 (1.09)
+
+0.51 (1.04)
+
+1.82
+
+9. Opportunistic
+
+0.76 (1.02)
+
+0.63 (1.01)
+
+1.28
+
+10. Persistent
+
+0.58 (0.98)
+
+0.61 (0.91)
+
+−0.35
+
+11. Responsible
+
+0.19 (0.97)
+
+0.19 (0.84)
+
+0.02
+
+12. Perseverance
+
+0.58 (1.02)
+
+0.46 (1.01)
+
+1.29
+
+13. Problem solver
+
+0.45 (0.95)
+
+0.28 (0.99)
+
+1.82
+
+14. Innovative
+
+0.86 (1.10)
+
+0.65 (1.10)
+
+1.97
+
+15. Organized
+
+0.65 (1.19)
+
+0.43 (1.20)
+
+1.93
+
+16. Build team
+
+0.62 (0.1.15)
+
+0.57 (1.09)
+
+0.53
+
+17. Visionary
+
+0.72 (1.25)
+
+0.75 (1.13)
+
+−0.22
+
+18. Energetic
+
+0.51 (0.99)
+
+0.34 (1.01)
+
+1.71
+
+19. Smart
+
+0.41 (0.95)
+
+0.23 (0.92)
+
+2.07*
+
+20. Well connected
+
+0.93 (1.23)
+
+0.73 (1.15)
+
+1.82
+
+21. Assertive
+
+0.86 (1.23)
+
+0.57 (1.06)
+
+2.58*
+
+22. Persuasive
+
+0.54 (1.06)
+
+0.45 (1.11)
+
+0.86
+
+23. Enthusiastic
+
+0.40 (0.99)
+
+0.25 (1.01)
+
+1.63
+
+24. Creative
+
+0.53 (1.21)
+
+0.49 (0.99)
+
+0.36
+
+25. Detail oriented
+
+0.44 (1.13)
+
+0.20 (1.11)
+
+2.25*
+
+26. Lead by example
+
+0.34 (1.09)
+
+0.18 (1.08)
+
+1.56
+
+27. Risk taker
+
+0.88 (1.33)
+
+0.81 (1.12)
+
+0.61
+
+28. Clear sighted
+
+0.47 (0.98)
+
+0.59 (1.04)
+
+−1.26
+
+29. Collaborative
+
+0.32 (1.03)
+
+0.26 (1.04)
+
+0.65
+
+30. Develops people
+
+0.65 (1.19)
+
+0.53 (1.09)
+
+1.09
+
+31. Contribute
+
+0.30 (1.06)
+
+0.20 (1.01)
+
+1.07
+
+32. Facilitator
+
+0.60 (1.11)
+
+0.40 (1.07)
+
+1.94
+
+33. Bold
+
+0.77 (1.27)
+
+0.73 (1.12)
+
+0.31
+
+34. Flexible
+
+0.28 (1.12)
+
+0.36 (1.21)
+
+−0.79
+
+35. Independent
+
+0.13 (1.21)
+
+0.13 (1.08)
+
+−0.07
+
+36. Motivator
+
+0.23 (1.12)
+
+0.45 (1.19)
+
+−2.02*
+
+37. Optimistic
+
+0.29 (0.1.04)
+
+0.22 (1.13)
+
+0.74
+
+38. Open-minded
+
+0.01 (1.04)
+
+0.05 (1.08)
+
+−0.44
+
+39. Friendly
+
+−0.14 (1.03)
+
+−0.22 (1.21)
+
+0.71
+
+40. Recognizes others
+
+0.06 (1.00)
+
+0.13 (1.08)
+
+−0.77
+
+41. Inspirational
+
+0.63 (1.19)
+
+0.61 (1.15)
+
+0.22
+
+42. Adventurous
+
+0.21 (1.24)
+
+0.26 (1.04)
+
+−0.40
+
+43. Supportive
+
+−0.10 (1.01)
+
+0.06 (1.07)
+
+−1.65
+
+44. Integrity
+
+0.02 (1.07)
+
+0.13 (1.24)
+
+−1.04
+
+45. Curious
+
+−0.17 (1.12)
+
+−0.04 (1.19)
+
+−1.22
+
+46. Inclusive
+
+−0.01 (1.16)
+
+0.23 (1.13)
+
+−2.18*
+
+47. Shares leadership
+
+0.11 (1.25)
+
+0.21 (1.30)
+
+−0.80
+
+48. Empathetic
+
+−0.33 (1.19)
+
+−0.03 (1.35)
+
+−2.50*

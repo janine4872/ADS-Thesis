@@ -1,0 +1,122 @@
+We use some essential cookies to make this service work.
+
+We would like to use additional cookies to remember your settings and so we can better understand what content our visitors find useful and what content needs to be improved. By allowing cookies onto your device you are helping us continually improve the NIHR websites for everyone.
+
+We also use cookies set by other sites to help us deliver content via their services.
+
+Youth bullying and other aggressive behaviours are a major public health concern owing to their impact on adolescent physical and mental health and well-being. Whole-school restorative approaches have been identified as a promising method of addressing aggressive behaviour but there have been no randomised trials undertaken to examine their effects.
+
+To examine the feasibility and acceptability of implementing and trialling the INCLUSIVE (initiating change locally in bullying and aggression through the school environment) intervention in English secondary schools.
+
+Cluster randomised controlled pilot trial in eight schools (1 : 1 computer-generated random allocation post baseline by a statistician blind to the identity of clusters) and process evaluation.
+
+Secondary schools in England (purposively sampled to ensure diversity).
+
+Year 8 students (aged 12–13 years), teachers, other school staff and intervention providers.
+
+Whole-school restorative approach to address bullying and aggression, involving the following standard processes: school action group formation and external facilitation to review needs assessment data, identify priorities, and plan and monitor school-level actions; staff training in restorative practices; and a new social and emotional skills curriculum.
+
+Standard practice.
+
+(1) The primary outcome of interest was the feasibility and acceptability of delivering and trialling the intervention according to prespecified criteria; (2) process data were analysed to explore participants’ experiences of implementing and trialling the intervention and how these varied according to school context; and (3) indicative primary outcomes (aggressive behaviour measures), secondary outcomes, intermediate outcomes and economic evaluation methods were piloted.
+
+Students (n = 1144 baseline; n = 1114 follow-up) and teachers (n = 387 baseline; n = 336 follow-up) were surveyed at the start and end of the 2011–12 academic year (baseline September 2011; follow-up June–July 2012). A total of 1017 students surveyed at baseline remained in the study at follow-up (89%). Other quantitative data were collected via intervention provider checklists (n = 4) and action group surveys (n = 44); qualitative data were collected via interviews (n = 34), focus groups (n = 20) and observations of action group meetings (n = 16).
+
+(1) All prespecified feasibility and acceptability criteria were met. (2) Qualitative data indicated that all intervention components and the trial design were feasible and acceptable to students and staff, including in more disadvantaged school contexts. Qualitative data also suggested that student participation may be a core component in improving relationships and engagement across the school. The later-than-planned project start (July) and the timing of the baseline surveys (September), which needed to be completed pre allocation, caused delays in launching the intervention, staff training and other intervention outputs. (3) Three pilot primary outcomes were examined (completion rate at follow-up range: 91.7–94.2%) and the Gatehouse Bullying Scale and the Edinburgh Study of Youth Transitions and Crime school misbehaviour subscale were acceptable, discriminating and reliable measures of bullying and aggression in this context. Our pilot economic analyses support the use of the Child Health Utility 9D scale with this population and the feasibility of cost–utility analysis, although this should be supplemented with a cost–consequence analysis. There was no evidence of harm.
+
+It is feasible and acceptable to implement and trial the INCLUSIVE intervention in English secondary schools, although a longer lead-in time is required to enable timely intervention outputs to occur. A Phase III cluster randomised controlled trial is required to examine the effectiveness and cost-effectiveness over a 3-year period of implementation for reducing aggressive behaviours, promoting mental health and well-being, and reducing health inequalities.
+
+Current Controlled Trials ISRCTN88527078.
+
+The National Institute for Health Research Health Technology Assessment programme (research), the Paul Hamlyn Foundation, the Big Lottery Fund and the Coutts Charitable Trust (intervention). The report will be published in full in Health Technology Assessment; Vol. 19, No. 53. See the NIHR Journals Library website for further project information.
+
+Initiating change locally in bullying and aggression through the school environment (INCLUSIVE): pilot randomised controlled trial
+
+Cookies on NIHR
+
+Toolkit
+
+Background
+
+Aim
+
+Design
+
+Setting
+
+Participants
+
+Intervention
+
+Comparison group
+
+Main outcome measures
+
+Data sources
+
+Results
+
+Conclusions
+
+Trial registration
+
+Funding
+
+Journals
+
+For Authors
+
+For Reviewers
+
+About Journals Library
+
+Journals Library
+
+Health Technology Assessment
+
+Initiating change locally in bullying and aggression through the school environment (INCLUSIVE): pilot randomised controlled trial
+
+Type:
+Extended Research Article
+Our publication formats
+
+Headline:
+This pilot study found that the INCLUSIVE (initiating change locally in bullying and aggression through the school environment) intervention is feasible and acceptable to implement in English secondary schools. A Phase III cluster randomised controlled trial, intiated in February of the first study year, is required to assess the effectiveness and cost-effectiveness of implementation of the intervention over a 3-year period.
+
+Authors:
+Chris Bonell, Adam Fletcher, Natasha Fitzgerald-Yau, Daniel Hale, Elizabeth Allen, Diana Elbourne, Rebecca Jones, Lyndal Bond, Meg Wiggins, Alec Miners, Rosa Legood, Stephen Scott, Deborah Christie, Russell Viner
+Detailed Author information
+
+Funding:
+Health Technology Assessment programme
+
+Journal:
+Health Technology Assessment
+
+Issue:
+Volume: 19, Issue: 53
+
+Published:
+July 2015
+
+Citation:
+Bonell C, Fletcher A, Fitzgerald-Yau N, Hale D, Allen E, Elbourne D, et al. Initiating change locally in bullying and aggression through the school environment (INCLUSIVE): a pilot randomised controlled trial. Health Technol Assess 2015;19(53). https://doi.org/10.3310/hta19530
+
+DOI:
+https://doi.org/10.3310/hta19530
+
+Abstract
+
+Article Content
+
+Plain English Summary
+
+Scientific Summary
+
+Responses to this Article
+
+Accessibility
+
+Cookie policy
+
+Report a problem

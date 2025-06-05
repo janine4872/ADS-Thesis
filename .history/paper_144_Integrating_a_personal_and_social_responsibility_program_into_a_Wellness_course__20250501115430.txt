@@ -1,0 +1,547 @@
+Full access
+
+The present study used a program-evaluation framework and multiple methods to evaluate the implementation and educational outcomes associated with a Teaching for Personal and Social Responsibility (TPSR) program. The 18-lesson program was integrated into a required Wellness course in an inner-city high school in the USA. Individual participants were 122 (57 males and 65 females; ages 14–18) African-American students divided among four co-educational class sections (two treatment and two comparison). Findings indicated the TPSR program goals were effectively delivered, received and enacted by participants in the treatment condition. Descriptive statistical analysis of pre- and post-program educational outcomes indicated students in the treatment condition had more positive gain scores on truancy, tardiness, grades and conduct than peers in a valid comparison condition. It is concluded that TPSR programs can be effectively integrated into the high school curriculum. Further, given robust implementation, it appears that such programs have the potential to positively impact educational outcomes. To explore this potential, a group-randomized trial is suggested.
+
+Keywords:
+
+In the USA, children and youth living in impoverished urban areas are routinely exposed to risk factors including violence, substance abuse and criminal activity (US Department of Health and Human Services [USDHHS],
+2000). These children and youth often attend low-performing schools and are at increased risk of academic failure. In many urban districts, extra-curricular programs are provided to address these disparities. These programs vary widely in their goals and objectives. After-school programs with an academic focus are commonly offered to bolster achievement (Peterson,
+2005; Weisbud,
+2005; Viadero,
+2007). While such programs are popular, research findings are mixed regarding their impact on achievement (Fashola,
+2003; Mahoney et al.,
+2005; Viadero,
+2007; Wright et al.,
+2007). Some programs address broader aspects of development such as motivation and character education in their attempts to improve academic performance (Skaggs & Bodenhorn,
+2006; Grolnick et al.,
+2007).
+
+A third category is youth development programs. These programs generally focus on engaging youth, connecting them with caring adult figures, creating a sense of belonging, developing specific competencies, promoting generalizable life skills, fostering resiliency and empowering youth (McLaughlin et al.,
+1994; Flay,
+2002; Ginwright & Cammarota,
+2002; Greenberg et al.,
+2003; Lerner,
+2004). Research indicates that effective youth development programs can have a positive impact on social, emotional and physical health as well as educational outcomes even if their focus is not on academic content (Catalano et al.,
+1998). These benefits may be related to the transfer of positive behaviors, attitudes and life skills promoted in effective youth development programs.
+
+Within the field of youth development, there is a growing interest in sport and physical activity programming (Hellison et al.,
+2000; Danish et al.,
+2002). Petitpas et al. (
+2005) define youth development through sport this way:
+
+Youth sport programs that promote psychosocial development are those that use sport as a vehicle to provide experiences that promote self-discovery and teach participants life skills in an intentional and systematic manner. In addition, these programs have clearly defined goals and strategies to enhance the generalizability and transfer of life skills to other important life domains. (p. 66)
+
+The current study examines a program based in the Teaching for Personal and Social Responsibility (TPSR) model. This model has been developed through more than 30 years of fieldwork (Hellison,
+2003). It is recognized as an exemplary approach to promoting youth development (Petitpas et al.,
+2005) and is regarded as one of the most influential instructional models in physical education pedagogy (Metzler,
+2005; Parker & Steihl,
+2005; Kirk et al.,
+2006). In this model, students are encouraged to take responsibility for respecting the rights and feelings of others, participate and give good effort, direct their own progress and care for others. Students are given opportunities to practice these responsibilities in the physical activity setting. However, the ultimate aim is that students transfer these responsibilities, or life skills, to other settings (Hellison,
+2003).
+
+The early development of the TPSR was driven primarily by Don Hellison's own practice and reflective inquiry (Hellison & Martinek,
+2006). It should also be noted that most TPSR programs are designed and evaluated around service and outreach agendas (Martinek & Hellison,
+1997; Martinek et al.,
+2004). Therefore, while many TPSR evaluations have been useful in program development and improvement efforts, relatively few have met the standards of methodological rigor to be disseminated through peer-reviewed publication. Nonetheless, a recent article that reviewed these small-scale evaluation studies, suggested TPSR is effective in creating a positive learning environment, engaging participants and increasing responsible behavior in the program setting (Hellison & Walsh,
+2002). Empirical support for TPSR's alignment with youth development principles can be found in a study by Kahne et al. (
+2001), in which qualitative and quantitative methods indicated a TPSR program outperformed other sport programs and most non-sport extended-day programs on several indicators of youth development related to the affective climate, opportunities for youth to take on responsible roles and support from program leaders. Regarding transfer and potential impact on educational outcomes, some evaluations and qualitative studies have explored the impact that TPSR participation might have in the classroom setting. Some have attributed improvements in effort, self-control, leadership and goal-setting abilities to TPSR (DeBusk & Hellison,
+1989; Martinek et al.,
+2001; Hellison & Wright,
+2003).
+
+While many physical education teachers embrace TPSR, most of the literature highlights examples of programs delivered in alternative settings such as extended-day programs (see Hellison et al.,
+2000; Hellison,
+2003; Hellison & Martinek,
+2006). With the strong interest in promoting transfer of TPSR life skills to the school setting, it seems that integrating a TPSR program in the school curriculum is a strategy worthy of exploration. Such a program may present a unique opportunity to connect TPSR goals with the school experience. Seizing on this opportunity and placing special emphasis on educational goals may lead to measurable improvements in educational outcomes. Following this rationale, the first author designed and piloted the Tai Chi Tiger Program, a TPSR program delivered through a required Wellness class in an inner-city high school. A detailed description of the program and its first implementation is provided in a separate study (Wright & Burton,
+2008). Findings from that qualitative study indicated the program presented a relevant and valued curriculum that effectively promoted TPSR responsibility goals in the program setting and beyond. The current study extends previous findings by assessing educational outcomes relative to a valid comparison group. Hence, the twofold purpose of this study was to assess the implementation and educational outcomes associated with this particular TPSR program.
+
+The physical activity content in this program was tai chi. Eighteen lessons were taught by members of the research team between the first and last six-week grading periods of the nine-month academic year. It has been argued that tai chi content is appropriate for physical education at the secondary level (Chen & Sherman,
+2002). Tai chi is a martial art that incorporates slow, graceful movements with mental focus and deep breathing. Related self-defense techniques such as punches and kicks performed at a faster pace were also taught in this program. One member of the research team, the TPSR program leader, is a certified tai chi instructor and highly experienced with the TPSR. Another member of the research team, also experienced with tai chi, served as an assistant TPSR program leader. The other two members of the research team were not involved in program delivery. The students’ regular Wellness teacher was present for all TPSR lessons but had no direct role in delivering the Tai Chi Tiger Program. Most lessons took place in the school's gymnasium, but a classroom setting was used occasionally for discussions.
+
+Through the 18-lesson program, five core TPSR goals or responsibility levels were integrated into the physical activity lessons. The first TPSR goal is respect for the rights and feelings of others. This is a fundamental social responsibility that involves including everyone, resolving conflicts peacefully and doing no harm to others. The second TPSR goal relates to self-motivation. This is a fundamental personal responsibility that involves participating in all activities, persisting through challenges and putting forth effort. The third TPSR goal is self-direction. This is a more advanced personal responsibility that involves making decisions, working independently and setting goals for oneself. The fourth TPSR goal relates to caring. This is a more advanced social responsibility that could involve supporting or helping others, leading or teaching, as well as demonstrating empathy or concern. The fifth TPSR goal, referred to as Outside the gym, deals with transfer. The focus of this goal is taking the other responsibilities and life skills promoted in the TPSR model and applying them in other settings to the betterment of one's own life and the lives of others.
+
+A number of pedagogical strategies were used intentionally and systematically to promote the TPSR goals. Some of these strategies are fundamental to good teaching. For example, the program leaders modeled respectful communication, provided explicit behavioral expectations and gave consistent feedback relative to student behavior. In designing and delivering lessons, program leaders structured lessons so that all participants could be included and experience success. Beyond these fundamental strategies, program leaders regularly allowed participants to take on roles of responsibility such as leading the class in warm up exercises or being in charge of a small group station. Participants also had opportunities not only to work as partners but also to engage in formal self- and peer-assessment. Participants were given chances to make group and individual decisions about which skills or drills to practice. They were guided through structured reflections and discussions of life circumstances. They were also invited on a regular basis to give feedback on the program and the program leaders. In summary, a range of pedagogical strategies was employed in this program to systematically promote responsibility and provide empowering experiences. These strategies were integrated throughout the program to help participants better understand and enact the TPSR goals.
+
+A novel goal-setting component was integrated into the second half of the Tai Chi Tiger Program. This component was piloted in the previous year and is described in more detail elsewhere (Wright & Burton,
+2008). Toward the middle of the program, the program leader spoke to the participants about the goal-setting process. Long-term goals were defined as something participants might want to do or become later in life. Short-term goals were described as stepping-stones toward those larger goals that participants could work on in the near future. It was also explained that choices and life circumstances often present obstacles that prevent individuals from achieving their goals. After demonstrating sufficient understanding as evidenced by sharing their own examples, participants wrote short reflections related to long- and short-term goals as well as perceived obstacles to achieving those goals. Participants were encouraged to reflect on their true aspirations and not to worry about what the program leader or others might think of them. The program leader collected these reflections, reviewed them over the next week and then provided individualized, written feedback to each participant in the following lesson.
+
+As a next step, all of the long- and short-term goals as well as obstacles provided by participants in the two treatment classes were analyzed inductively, categorized and presented back to the groups in terms of common patterns and typical responses. The twofold reason for doing this was to continue individual reflection on goals and to give participants a greater understanding of their peers’ aspirations and concerns. In the final step, participants were asked to set a specific, measurable academic goal that aligned with their broader goals. They were directed to set a goal that could be attained by the end of the program. Students were reminded about this in the remaining weeks of the program and in the final program evaluation they reported whether or not they had worked on their goals.
+
+To assess program fidelity and adaptations in a variety of evidence-based interventions, one must first establish a reference point or define a ‘model program’ (Cummins et al.,
+2003). Using Hellison's recent work as the reference point, it can be argued that the Tai Chi Tiger Program had a moderately high degree of fidelity to the model given a number of adaptations. The Tai Chi Tiger Program met 18 times, once per week for an hour, throughout the academic year. The program was delivered by a university professor and a graduate assistant to a group of poor, minority adolescents living in an impoverished urban setting (Hellison,
+2003). In these ways, the program was similar to Hellison's recent work (Martinek & Hellison,
+1997; Martinek et al.,
+2004).
+
+Choosing tai chi as the core activity represented a content adaptation because it is quite different from team sports such as basketball that are a common focus in TPSR studies (DeBusk & Hellison,
+1989; Cutforth & Puckett,
+1999; Martinek et al.,
+2001; Schilling,
+2001; Hellison & Wright,
+2003). Other adaptations related to the context and recruitment/retention methods. Hellison generally teaches extended-day programs (Hellison,
+2003). While his programs may take place on school grounds, they are outside of the standard curriculum, participation is voluntary and student numbers are relatively low (often fewer than 15). Because the Tai Chi Tiger Program was offered through required Wellness classes and incorporated into the school curriculum, participation in the lessons was not voluntary and class sizes were larger (often 30 or more). These adaptations may have hampered TPSR implementation. For instance, compared to a model program, it was difficult to provide individualized feedback and keep all participants motivated. Challenges stemming from these adaptations are explored in further detail in a previous study of the Tai Chi Tiger Program (Wright & Burton,
+2008).
+
+The current design addressed both program implementation and educational outcomes. Of the major contemporary approaches to formal program evaluation described by Greene (
+2000), the current study is most aligned with utilitarian pragmatism insofar as it made use of eclectic methods to assess program effectiveness relative to stated goals as well as impact on a series of concrete and practical outcomes.
+
+Our study of implementation focused on the 62 students who participated in the Tai Chi Tiger Program. Following Lichstein et al. (
+1994), we assessed three aspects of implementation: delivery, receipt and enactment. This three-part framework was originally developed to assess implementation of psychotherapy and therefore the original meaning of enactment was the extent to which the ‘client’ applied concepts from the therapy sessions in other settings. For our purposes, we looked at two aspects of enactment: (1) enactment of the TPSR responsibility goals in the activity lessons, and (2) self-reported enactment of the same responsibility goals outside of the program setting. A number of qualitative and process-oriented data sources were used to assess these various aspects of implementation and the overall fidelity of the program to the model. To assess educational outcomes, a descriptive comparison group design involving 122 students was used. Early in the school year, the Wellness teacher reported no meaningful differences between his four Wellness class sections. Therefore, researchers assigned two class sections to the treatment condition and two to the comparison condition based on scheduling convenience.
+
+Participants were 122 (57 males and 65 females) African-American students enrolled in one of four Wellness classes at a public high school located in a mid-size Southern city. Participants’ age ranged from 14 to 18 years with a mean age of 14.8. The school was on the state's failing list for achievement, graduation and attendance rates. The student population was 100% African-American with approximately 99% receiving free or reduced price lunch. All four classes were normally taught by the same teacher, an African-American man with over 20 years of teaching experience. The Wellness class included physical education activities in the gymnasium and health education in the classroom. The regular Wellness teacher consistently used the district's curriculum in all four of his classes with the only adaptation being the integration of the Tai Chi Tiger Program for the two classes in the treatment condition. While all students in the treatment condition received these lessons, not all were formal research participants. Active parental consent was obtained for all research participants. Pseudonyms were used to ensure anonymity.
+
+The TPSR instructor prepared a written plan before each lesson that specific lesson content, learning objectives and specific TPSR implementation strategies. Immediately following each lesson, a post-teaching reflection was written. These reflections described the planned lesson, documented the actual events, assessed TPSR implementation and noted personal reactions and reflections. Periodic field notes were taken after observations of the comparison condition class sections and conversations with the Wellness teacher to confirm they were not receiving treatment-specific strategies or activities. These field notes were structured so that details (Who was observed? When? Where? What were they doing?) were documented and described first. Next, comments were made regarding similarities or differences to what was occurring in the treatment classes. Personal reactions, reflections on the research process, as well as theoretical notes were also made on occasion.
+
+At the end of the program, participants completed a customized evaluation consisting of five forced choice items. These items were: (1) Have you worked on the short-term goals you set in this program?; (2) Do you think your behavior in this program has improved?; (3) Do you think this program helped you do better in school?; (4) Would you take another class like this if you had the chance?; and (5) Do you think this program is a good thing for students in your school? These items were rated yes, no, or not sure. This evaluation included the following three open response items: (1) What did you like the most about this program?; (2) What did you dislike about this program?; and (3) Do you have any suggestions to improve this program?
+
+At the end of the program, participants completed an 11-item checklist, identifying which indicators of effective TPSR implementation they had witnessed. Six items referenced the TPSR instructor's approach, asking if he expected participants to demonstrate self-control, participate, improve, make choices, lead others and think about transferring life skills to other settings. The remaining five items asked participants to report whether their class overall had demonstrated self-control, participated, tried to improve, taken on leadership roles and thought of ways to transfer TPSR goals. For each item, participants marked yes or no.
+
+Two semi-structured focus groups (one in each treatment class) were conducted toward the end of the program by the program leader. These focus groups were conducted in a classroom setting with selected participants while their peers were under the supervision of their regular Wellness instructor. In all, 11 (six males and five females) participants were purposefully selected. These selections were made to represent gender and different levels of observed engagement in the program. To avoid sampling bias, some participants were specifically chosen because they had not shown great interest in the program and/or had been problematic. An open discussion format was used organized around key prompts such as, ‘Tell me what you liked about this program’, ‘Tell me what aspects of the program you didn't like’ and ‘Tell me how you think this program could be improved.’ Similar prompts and the strategy of having the program leader guide the discussion have proven effective in previous TPSR studies (Schilling,
+2001; Wright & Burton,
+2008). Each focus group lasted approximately 30 minutes.
+
+Educational outcomes from the first and last six-week grading periods (pre- and post-treatment) were secured directly from participants’ academic records to reflect their performance in the Wellness class and the overall school experience.
+
+At the end of each six-week grading period, participants were assigned one of four conduct ratings (excellent, satisfactory, needs improvement or unsatisfactory) in each of their classes. For the purpose of our study, positive behavior was defined as the total number of excellent and satisfactory ratings and negative behavior was defined as the total number of needs improvement and unsatisfactory ratings. For the overall school experience, the mean and standard deviation were calculated based on the total number of conduct ratings recorded for each student. For the Wellness class, data were presented in terms of frequency and percentage of participants with ratings in the two categories.
+
+The number of times students were absent (truancy) and the number of times students were late (tardiness) were reported in terms of means and standard deviations both in the Wellness class and overall truancy and tardiness.
+
+Grades in the Wellness class were reported as the participants’ percentage of accumulated points for the grading period whereas a grade point average (GPA) was used to represent the overall school experience. In both cases, means and standard deviations were generated for analysis and presentation purposes.
+
+Implementation data were analyzed in two phases. In the first phase, each data source was analyzed individually using the most appropriate procedure. Responses to TPSR program evaluation and TPSR implementation checklist items were analyzed using frequencies and percentages. Document and focus group data were analyzed using a combination of inductive (data-driven) and deductive (theory-driven) analysis strategies, an approach frequently employed in evaluation research (Miles & Huberman,
+1994; Patton,
+2002). In the second phase, findings from across the various data sources were considered holistically and examined for points of consistency or inconsistency before final interpretations were made. Also in this second phase, a framework to assess program fidelity and adaptations to a ‘model’ TPSR program was applied to the implementation findings (Cummins et al.,
+2003).
+
+Following Denzin (
+1978), our assessment of implementation incorporated several types of triangulation. Data triangulation was achieved through the varied data sources including the evaluation, checklist, documentation and focus groups. Methodological triangulation was achieved through our integration of quantitative and qualitative methods. Investigator triangulation was relevant because two of the researchers had direct roles in program delivery and the others did not. These different perspectives allowed for a balanced interpretation of the data. The two researchers involved in program delivery engaged in critical self-reflection to ensure their connection to the program did not bias their interpretations. For instance, they debriefed for approximately 20 minutes after every lesson regarding the successes and struggles of the day as well as their personal reactions. These topics were further examined and documented in their post-teaching reflections where personal reactions were documented but teased out from more descriptive notes. After all data were collected, the other two researchers conducted an audit trail to ensure that the data were complete, comprehensive and free from bias. Throughout the analysis process, the two researchers who were not involved directly in the program often challenged those who were to support all assertions with empirical arguments. These strategies ensured that the level of investment in the program did not exert an unintended influence.
+
+Regarding the analysis of educational outcome variables, we began with important preliminary analyses. To establish the validity of the comparison group and justify the aggregation of data from different class sections within the same condition, a multivariate analysis of variance (MANOVA) was used to investigate any baseline differences between the four class sections relative to GPA, tardiness, truancy, positive behavior and negative behavior. With these assumptions tested, gain scores on academic outcome variables from the first to the last six-week grading period were analyzed to assess change.
+
+Although the option was considered, no inferential analyses were conducted in the present study. The main reason for this decision was that the appropriate unit of analysis would have been class (N=4) since the intervention was implemented at the class level (Silverman & Solomon,
+1998; Silverman,
+2004). Because of this small sample size, there would not have been sufficient statistical power to detect any significant differences. Treating individuals (N=122) as the unit of analysis would have artificially inflated our sample and yielded potentially misleading results.
+
+The delivery, receipt and enactment of TPSR goals were often intertwined and supported by multiple data sources. These findings were integrated to describe implementation relative to each of the five TPSR responsibility goals. Also, general attitudes and participant perceptions of impact in the program setting and beyond are summarized.
+
+Several participants the Tai Chi Tiger Program presented difficult behaviors such as making fun of other students, interrupting others, being loud and disruptive at inappropriate times and being verbally aggressive toward one another. These behaviors are antithetical to the notion of respect as defined in the current national standards for physical education and TPSR (Hellison,
+2003; National Association for Sport and Physical Education [NASPE], 2004). Nonetheless, such issues are commonly reported in the literature on inner-city physical education programs (Cothran & Ennis,
+1999; Ennis,
+1999; Wright & Li,
+2009). The program leaders addressed these issues by modeling respectful communication, stating clear expectations, discussing the importance of respect and providing verbal reinforcement. On the implementation checklist, the majority of respondents reported the TPSR instructor had promoted self-control (97.9%). These ratings were consistent with the TPSR instructor's field notes. After Lesson 13, he wrote, ‘I told them I was proud and pleased with what they did with respect, responsibility, and self-control.’ Approximately, three-fourths of checklist respondents (74.4%) felt their class consistently did a good job with self-control, i.e. controlling their mouths and their tempers. According to TPSR instructor field notes, these issues never went away completely. However, he did see improvement over the 18 lessons. After Lesson 17, he wrote, ‘No issues with self-control as far as fighting, but just with silliness. Some students are always trying to push it, but overall not too bad.’ In a focus group, Lavoose, indicated she had taken lessons about self-control and peaceful conflict resolution to heart and changed her behavior accordingly, ‘Usually, before the class, if somebody said something to us we would just react suddenly. But now since the tai chi, we don't react suddenly—at least I calm myself down.’
+
+Another common issue in urban physical education programs is student apathy and disengagement (Cothran & Ennis,
+1999; Sandford et al.,
+2006). Program leaders tried to address this by focusing students on personal bests, improvement and skill mastery rather than comparison or competition with others. These TPSR strategies are consistent the current literature and best practices related to achievement motivation in physical education (Li & Lee,
+2004). Because of the slow and precise nature of tai chi movements, a great deal of focus is required. The TPSR instructor sometimes struggled to keep participants engaged and once noted, ‘At the end, I just reinforced that they had done a good job on focusing and paying attention.’ Nearly all checklist respondents agreed the instructor encouraged everyone to participate (95.7%) and felt the TPSR instructor encouraged all students to improve their skills (97.9%). In rating how well their class had taken responsibility in this area, 89.4% of checklist respondents felt their class had participated regularly and 97.9% felt their class had improved their skills. In a focus group, Dee stated ‘We had to concentrate on the moves and stuff.’ After Lesson 13, the TPSR instructor observed, ‘Their focus is better, and technically they're better.’
+
+Research indicates that in large urban public schools, many teachers rely heavily on direct instruction and focus more on the management rather than the empowerment of their students (Ennis,
+1999; McCaughtry et al.,
+2006; Wright & Li, 2009). In this program, participants were frequently given chances to make decisions, offer their opinions and even to assess their own progress. On the implementation checklist, 83.0% of respondents agreed the TPSR instructor let students make choices. Other key strategies used to implement self-direction included self- and peer-administered skill assessments. After facilitating peer-assessments in Lesson 15, the TPSR instructor noted the success of one of these experiences, ‘They are working without direct supervision and they're having fun with it.’ In a focus group, Billy confirmed the peer-assessment activity differed from the norm, ‘Yes, sometimes we grade each others papers and stuff like that in class, but we never worked like that one on one with someone and graded them.’ In the same group, Marcus conveyed a sense of empowerment in describing what he gained from these processes, ‘It gave you a chance to stay out of the crowd and be your own self—to step up.’ Self-direction was also promoted in the goal-setting activities that are described more fully in the section titled Outside the gym.
+
+The academic literature supports the importance of the socio-emotional climate, especially in urban schools (Ennis,
+1999; Ennis et al.,
+1999; Wright & Li, 2009). This literature stresses that feelings of caring and belonging are important ingredients in a successful physical education program. Such feelings were fostered in this program primarily through leadership opportunities. All participants were asked to lead their class in warm up exercises at least once and those who expressed interest and demonstrated sufficient responsibility had opportunities to lead small group stations. At various points, all participants worked with partners and were asked to practice giving specific constructive feedback. Nearly all (97.9%) of the checklist respondents agreed the TPSR instructor had given participants leadership opportunities and 89.4% felt students in their class had taken on these roles. Regarding the strategies used to integrate leadership roles in the program, the TPSR instructor wrote the following after Lesson 14:
+
+With both groups we had planned for students to come out and do leadership—where I start going down the roster and pulling five students alphabetically to come out and lead warm-ups. We did that with each group and in each case it was still a little rough. The students are still hesitant to get out there. I just explained that everybody has to do it just one time. I won't make students lead stations, but I want everyone to try this at least once.
+
+As in many TPSR programs, the notion of transfer was promoted through discussion, structured reflection and self-report (Hellison et al.,
+2000; Hellison,
+2003). To enhance these typical strategies, the goal-setting component described earlier was integrated to add another layer of structure and specificity to these discussions. A majority (87.2%) of checklist respondents affirmed the TPSR instructor had discussed the application of life skills in school and even more (93.6%) reported they had thought of ways to achieve this. On goal-setting worksheets, most students demonstrated an understanding of the concept and took the process seriously. Most long-term goals related to careers, athletics and college. The majority of students were able to identify short-term goals that connected in a logical way to their long-term goals. The TPSR instructor reviewed these worksheets and returned them with written, individualized feedback. After Lesson 12, he noted:
+
+I started off with a huddle up so I could talk to them and give them some feedback on their goal-setting stuff. I thanked them for being honest with me and willing to share—trusting me with the actual thoughts that were in their heads.
+
+In the TPSR program evaluation, 93.3% of respondents felt their behavior had improved in the program and 80% reported they had worked on their short-term goals. Despite these encouraging results, only 51.1% of evaluation respondents said they would like to take another class like this. Due to the general nature of the question, it is impossible to know the degree to which these responses reflect on the tai chi content vs. the TPSR model. Regardless, this finding might raise concerns about the program's effectiveness. However, 77.8% felt the program was a good thing for students in their school. These seemingly contradictory findings suggest the majority of participants, whether they personally enjoyed the program or not, could see its value and relevance.
+
+Also in the TPSR program evaluation, 42.2% of respondents reported the program helped them do better in school. In the focus groups, some participants reported changes in behavior and attitude. Jimmy stated, ‘It [the program] helped me change in school.’ Marcus was more specific about what behaviors changed and how these lessons might impact his future, ‘Stopped talkin’ and playin’ in school—just go on and try to get my education and get out and be somebody.’ Alexa also indicated the program had been important in her life, ‘It helped me change too. At one time I was talking about dropping out of school.’ According to Shawna, the program may have helped her by addressing the stress she was feeling due to her life circumstances, ‘Yes, it changed me because I had a lot of stress and I had no, uh, if I didn't have this class then I would still be in the predicament I was in.’ Not all participants felt the program had a major impact on them. Dee said, ‘It turned my attitude, but it didn't turn the way I did in class or nothing.’ Another participant, LeTroy, indicated that the program had failed to capture his interest and had no impact on him. When asked in a focus group to explain what could have been done differently to change this, he replied frankly, ‘Nothin,’ it just wasn't for me.’
+
+To establish the validity of the comparison group, MANOVA was conducted on all participants’ academic outcome variables from the first six-week grading period. These baseline outcomes included overall GPA, tardiness, truancy, positive behaviors and negative behaviors. No significant differences were found among the four class sections. This also provided a rationale for collapsing data from the different class sections within the same condition.
+
+Table 1 presents educational outcomes from participants’ Wellness class. It was reasoned that if the program had an impact on educational outcomes, this would be the first and most likely setting. From the first grading period to the last, the mean percentage of accumulated points toward participants’ grade for both groups decreased. However, the decrease in the treatment group (−4.55) was less than in the comparison group (−6.89). The mean number of absences increased in both groups. However, the increase was smaller in the treatment group (4.03) contrasted with the comparison group (4.79). The mean for tardiness slightly decreased in the treatment group (−0.05) and increased slightly in comparison group (0.49). Regarding conduct, the percentage of positive ratings slightly increased in the treatment group (2.2%) and decreased (−14.1%) in the comparison group. The mean percentage of negative ratings decreased (−3.0%) in the treatment group, but increased in the comparison group (14.1%).
+
+Table 2 presents educational outcomes for participants overall school experience. From the first grading period to the last, the mean GPA for both groups decreased. However, the decrease in the treatment group (−0.05) was less than in the comparison group (−0.15). The mean number of absences increased in both groups. However, the increase was smaller in the treatment group (25.27) contrasted with the comparison group (33.85). The same situation was seen in tardiness, where the mean increase in tardiness was lower for the treatment group (1.4) relative to the comparison group (1.67). The mean number of positive ratings increased more in the treatment group (0.37) than in the comparison group (0.17). In terms of negative conduct, both group means increased from pre to post, but again, the increase was lower for the treatment group (0.34) relative to the comparison group (0.80).
+
+The twofold purpose of this study was to assess the implementation and educational outcomes associated with the Tai Chi Tiger Program. According to Petitpas et al. (
+2005, p. 74), implementation studies are needed in physical activity programs that support youth development because, ‘It is important to describe in detail the specific elements of a program and how they were delivered in order to understand and interpret the results of any outcome analysis.’ Hellison and his colleagues concede that several evaluations of TPSR programs have failed to adequately address fidelity and implementation (Hellison & Walsh,
+2002; Hellison,
+2003; Hellison & Martinek,
+2006; Wright,
+2009). This shortcoming pervades the physical education and sport pedagogy literature (Rink,
+2001). The evaluation design employed in this study, along with the frameworks for assessing fidelity (Cummins et al.,
+2003) and implementation (Lichstein et al.,
+1994), introduced a new level of structure and rigor to the study of TPSR implementation.
+
+The detailed program description and empirical findings presented in the current study indicate the program had a moderately high degree of fidelity to the TPSR model. There were some adaptations, such as delivering the program through a physical education program and the addition of a goal-setting component. Nonetheless, the specific goals and pedagogical strategies of the TPSR model provided the foundation for the program and responsibility was intentionally and systematically promoted in ways that were consistent with Hellison's (2003) description of TPSR. Using an adapted form of the Lichstein et al. (
+1994) conceptualization of implementation, we found multiple data sources to support successful delivery, receipt and enactment of the key TPSR goals. Field notes, implementation checklists, and focus group interviews consistently indicated the TPSR instructor had explicitly promoted the various goals through discussion, structured reflection and concrete pedagogical strategies such as leadership, decision making, peer-assessment and goal setting. Regarding enactment, the data sources noted above as well as the TPSR program evaluation results indicated that students did accept higher levels of responsibility in the program and explored the application of the model outside of the program as well. Not only did participants benefit from their own successful experiences with responsibility but also these lessons were reinforced as they saw their peers taking on responsible roles. Perceptions of the program were generally positive, especially regarding the relevance and self-reported impact on participants. Some of these findings may seem self-fulfilling but this is to be expected, as the primary function of many data sources was to confirm that implementation occurred as planned. In summary, multiple data sources support assertions about implementation and findings are consistent with the model program, the planned program and several other TPSR studies (see Hellison & Walsh,
+2002; Hellison & Martinek,
+2006 for reviews). Therefore, the case for fidelity and implementation appears strong enough help us understand and interpret the objective educational outcome data presented in this study.
+
+Martinek et al. (
+2001) have demonstrated that goal-setting strategies can be an effective way to help TPSR program participants transfer lessons to other settings. Earlier studies have suggested some TPSR participants transfer life skills to the school setting (DeBusk & Hellison,
+1989; Martinek et al.,
+2001; Hellison & Wright,
+2003). However, because of the small scale of these studies, it has been difficult to assess the overall impact on educational outcomes. Using pre- and post-program outcome measures and a valid comparison group, the present study advances this line of inquiry. Although the differences were often small, these consistently positive trends further support the notion that a well-implemented TPSR program may have a positive impact on educational outcomes for some participants. However, it should be noted that the current study was restricted to one school site and did not control for a number of variables that may have had an impact on educational outcomes, such as participation in after-school tutoring programs. Gender differences were not assessed in the current study because of the decision to use descriptive statistics and designate class as the unit of analysis. Implementation findings presented here as well as previous studies (Wright & Burton,
+2008; Wright et al.,
+2008) indicate effectively implemented TPSR programs are not gender biased. Nonetheless, future studies that employ inferential analyses should include gender as a factor. Given these limitations and arguments presented earlier regarding appropriate units of analysis, it is suggested that a group-randomized trial (Murray,
+1998) may be the next logical step in this line of inquiry. A power analysis could be conducted using the current findings to estimate the number of groups and individuals that would be required to achieve statistical significance in such a trial.
+
+Despite limitations that came with integrating a TPSR program in a physical education program, this adaptation is certainly worthy of further exploration. Consider, for example, the fact that one of the current national standards in physical education in the USA (NASPE,
+2004) calls for the promotion of ‘personally and socially responsible behavior.’ A recent study highlights the relevance of this standard by demonstrating that intrinsic motivation in physical education among urban middle-school students has significant positive relationships with self-reported personally and socially responsible behaviors (Li et al.,
+2008). This case is further supported by findings that a youth development orientation is significantly correlated with positive attitudes and perceived effort in physical education among urban high school students (Wright & Li, 2009). Moreover, it has been argued that many physical education teachers lack effective strategies to promote and assess behavior that is personally and socially responsible (Parker et al.,
+1999; Parker & Hellison,
+2001; Parker & Steihl,
+2005). We posit the integration of TPSR strategies in physical education would be appropriate and relevant given current content standards. Hellison (
+2003) cautions teachers to ‘start small’ by introducing a few TPSR strategies or goals at a time because the structure of physical education can hamper the implementation of TPSR.
+
+Although implementing TPSR in the physical education curriculum may require some adaptations and challenges to fidelity as compared to alternative settings, this strategy may provide more direct in-roads for individuals who wish to bridge responsible behavior in activity settings with the broader school experience (Wright & Burton,
+2008). Mitra (
+2004) has demonstrated the feasibility of integrating youth development activities and concepts into the school experience. Her findings demonstrate the potential of such activities, if embraced by the school community, to enhance youth development assets such as agency, belonging and competence among high school students. The goal-setting component described in the current study, for example, could be expanded and conducted as a participatory action research project to extend the reach of TPSR beyond the gymnasium and align more with youth development practices.
+
+There is a long tradition of rhetoric concerning the benefits of sport and physical activity programs, but increasingly policy makers want to make data-driven decisions about what programs to support (Sandford et al.,
+2006). Findings presented here add to a growing body of evidence suggesting well-implemented TPSR programs can be effective in creating a positive learning environment and engaging students in responsible roles in the program setting (Hellison & Walsh,
+2002; Hellison & Martinek,
+2006). Consistent with the notion of youth development through sport and physical activity, the specific goals and pedagogical strategies connected with this program appear to have stimulated participants’ thinking about their attitudes and behavior outside of the program setting (Hellison et al.,
+2000; Danish et al.,
+2002; Petitpas et al.,
+2005). While the current design does not support claims of causality, it appears that program participation may be connected to improved educational outcomes. This is consistent with patterns reported by Catalano et al. (
+1998) that youth development programs, even those that do not present academic material, are often associated with stronger educational performance. Based on the current findings, we hypothesize that a number of participants were motivated by the program experiences and goal-setting exercises to change school behaviors related to conduct, studying, being on time and not skipping classes. Future studies should explore these links and assess causality using inferential statistics. It should also be noted that the current study documented enactment of TPSR goals but did not systematically assess impact in this area. Future studies should address this topic using valid and reliable measures created for this purpose (Li et al.,
+2008).
+
+While the current findings related to educational outcomes are promising and may be compelling in the current educational policy climate (particularly in the USA), it should be noted that the school setting is just one important life domain where TPSR goals may be enacted. Reducing the notion of transfer to a single domain and a limited number of variables presents a slippery slope. As we saw in this study, some participants may not transfer life skills directly to the school setting or set personal goals that involve academics. However, they may experience changes in the way they view themselves or their life circumstances. They might also change their behavior at home or in their community. Admittedly, the Tai Chi Tiger Program was restricted in terms of the experiences it could provide. Voluntary programs in alternative settings with smaller numbers of participants would not fit well with the design employed here but they do lend themselves more readily to democratic processes, relationship building and civic engagement. Therefore, a reductionist approach to studying transfer may simultaneously narrow the implementation of TPSR and result in a failure to capture the full impact of a program. Accordingly, other methods that examine individualized outcomes and lived experience remain important in this line of research (Hellison & Walsh,
+2002; Petitpas et al.,
+2005; Wright,
+2009).
+
+Registered in England & Wales No. 01072954
+5 Howick Place | London | SW1P 1WG
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+List of Partners (vendors)
+
+Integrating a personal and social responsibility program into a Wellness course for urban high school students: assessing implementation and educational outcomes
+
+Abstract
+
+Tai Chi Tiger Program
+
+Method
+
+Results
+
+Discussion
+
+Related Research Data
+
+References
+
+Related research
+
+We Care About Your Privacy
+
+Browse
+
+Search
+
+Publish
+
+Home
+
+All Journals
+
+Education
+
+Sport, Education and Society
+
+List of Issues
+
+Volume 15, Issue 3
+
+Integrating a personal and social respon ....
+
+Cite this article
+
+https://doi.org/10.1080/13573322.2010.493309
+
+Tai Chi Tiger Program
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Full Article
+
+Figures & data
+
+References
+
+Citations
+
+Metrics
+
+Reprints & Permissions
+
+View PDF
+Share
+
+Personal and social responsibility
+
+Educational outcomes
+
+Tai chi
+
+Urban youth
+
+High school physical education
+
+Catalano , R. F. , Berglund , M. L. , Ryan , J. A. M. , Lonczak , H. S. and Hawkins , J. D. 1998 . Positive youth development in the United States: research findings on evaluations of positive youth development programs , Seattle, WA : Social Development Research Group, University of Washington .
+ Google Scholar
+
+Chen , D. and Sherman , C. 2002 . Teaching balance with tai chi: strategies for college and secondary school instruction . Journal of Physical Education, Recreation & Dance , 73 : 31 – 37 .
+ Google Scholar
+
+Cothran , D. J. and Ennis , C. D. 1999 . Alone in a crowd: meeting students’ needs for relevance and connection in urban high school physical education . Journal of Teaching in Physical Education , 18 : 234 – 247 .
+ Web of Science ®
+Google Scholar
+
+Cummins , M. , Goddard , C. , Formica , S. , Cohen , D. and Harding , W. 2003 . Assessing program fidelity and adaptations toolkit , Newton, MA : Health and Human Development Programs, Educational Development Center .
+ Google Scholar
+
+Cutforth , N. and Puckett , K. 1999 . An investigation into the organization, challenges, and impact of an urban apprentice teacher program . The Urban Review , 31 : 153 – 172 .
+ Google Scholar
+
+Danish , S. J. , Fazio , R. J. , Nellen , V. C. and Owens , S. S. 2002 . “ Teaching life skills through sport: community-based programs to enhance adolescent development ” . In Exploring sport and exercise psychology , 2nd edn , Edited by: Van Raalte , J. L. and Brewer , B. W. 269 – 288 . Washington, DC : American Psychological Association .
+ Google Scholar
+
+DeBusk , M. and Hellison , D. 1989 . Implementing a physical education self responsibility model for delinquency prone youth . Journal of Teaching in Physical Education , 8 : 104 – 112 .
+ Google Scholar
+
+Denzin , N. K. 1978 . The research act: a theoretical introduction to sociological methods , 2nd edn , New York : McGraw-Hill .
+ Google Scholar
+
+Ennis , C. D. 1999 . Communicating the value of active, healthy lifestyles to urban students . Quest , 51 : 164 – 169 .
+ Web of Science ®
+Google Scholar
+
+Ennis , C. D. , Solmon , M. A. , Satina , B. , Loftus , S. J. , Mensch , J. and McCauley , M. T. 1999 . Creating a sense of family in urban schools using the “sport for peace” curriculum . Research Quarterly for Exercise and Sport , 70 : 273 – 285 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Fashola , O. S. 2003 . Developing the talents of African American male students during nonschool hours . Urban Education , 38 : 398 – 430 .
+ Web of Science ®
+Google Scholar
+
+Flay , B. R. 2002 . Positive youth development requires comprehensive health promotion programs . American Journal of Health Behavior , 26 : 407 – 424 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Ginwright , S. and Cammarota , J. 2002 . New terrain in youth development: the promise of a social justice approach . Social Justice , 29 : 82 – 95 .
+ Google Scholar
+
+Greenberg , M. T. , Weissberg , R. P. , O'Brien , M. U. , Zins , J. E. , Fredericks , L. , Resnik , H. and Elias , M. J. 2003 . Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning . American Psychologist , 58 : 466 – 474 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Greene , J. C. 2000 . “ Understanding social programs through evaluation ” . In Handbook of qualitative research , 2nd edn , Edited by: Denzin , N. K. and Lincoln , Y. S. 981 – 1000 . Thousand Oaks : CA, Sage .
+ Google Scholar
+
+Grolnick , W. S. , Farkas , M. S. , Sohmer , R. , Michaels , S. and Valsiner , J. 2007 . Facilitating motivation in young adolescents: effects of an after-school program . Journal of Applied Developmental Psychology , 28 : 332 – 344 .
+ Web of Science ®
+Google Scholar
+
+Hellison , D. 2003 . Teaching responsibility through physical activity , 2nd edn , Champaign, IL : Human Kinetics .
+ Google Scholar
+
+Hellison , D. , Cutforth , N. , Martinek , T. , Kallusky , J. , Parker , M. and Steihl , J. 2000 . Youth development and physical activity: linking universities and communities , Champaign, IL : Human Kinetics .
+ Google Scholar
+
+Hellison , D. and Martinek , T. 2006 . “ Social and individual responsibility programs ” . In The handbook of physical education , Edited by: Kirk , D. , Macdonald , D. and O'Sullivan , M. 610 – 626 . Thousand Oaks, CA : Sage .
+ Google Scholar
+
+Hellison , D. and Walsh , D. 2002 . Responsibility-based youth programs evaluation: investigating the investigations . Quest , 54 : 292 – 307 .
+ Web of Science ®
+Google Scholar
+
+Hellison , D. and Wright , P. M. 2003 . Retention in an urban extended day program: a process-based assessment . Journal of Teaching in Physical Education , 22 : 369 – 381 .
+ Web of Science ®
+Google Scholar
+
+Kahne , J. , Nagaoka , J. , Brown , A. , O'Brien , J. , Quinn , T. and Thiede , K. 2001 . Assessing after-school programs as contexts for youth development . Youth and Society , 32 : 421 – 446 .
+ Web of Science ®
+Google Scholar
+
+Kirk , D. , Macdonald , D. and O'Sullivan , M. 2006 . The handbook of physical education , 610 – 626 . Thousand Oaks, CA : Sage .
+ Google Scholar
+
+Lerner , R. M. 2004 . Liberty: thriving and civic engagement among American youth , Thousand Oaks, CA : Sage .
+ Google Scholar
+
+Li , W. and Lee , A. M. 2004 . A review of conceptions of ability and related motivational constructs in achievement motivation . Quest , 56 : 439 – 461 .
+ Web of Science ®
+Google Scholar
+
+Li , W. , Wright , P. M. , Rukavina , P. and Pickering , M. 2008 . Measuring students’ perceptions of personal and social responsibility and its relationship to intrinsic motivation in urban physical education . Journal of Teaching in Physical Education , 27 : 167 – 178 .
+ Web of Science ®
+Google Scholar
+
+Lichstein , K. L. , Riedel , B. W. and Grieve , R. 1994 . Fair tests of clinical trials: a treatment implementation model . Advances in Behavioral Research Therapies , 16 : 1 – 29 .
+ Web of Science ®
+Google Scholar
+
+Mahoney , J. L. , Lord , H. and Carryl , E. 2005 . An ecological analysis of after-school program participation and the development of academic performance and motivational attributes for disadvantaged children . Child Development , 76 : 811 – 825 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Martinek , T. and Hellison , D. 1997 . Service-bonded inquiry: the road less traveled . Journal of Teaching in Physical Education , 17 : 107 – 121 .
+ Web of Science ®
+Google Scholar
+
+Martinek , T. , Hellison , D. and Walsh , D. 2004 . Service-bonded inquiry revisited: a research model for the community-engaged professor . Quest , 56 : 397 – 412 .
+ Web of Science ®
+Google Scholar
+
+Martinek , T. , Schilling , T. and Johnson , D. 2001 . Evaluation of a sport and mentoring program designed to foster personal and social responsibility in underserved youth . The Urban Review , 33 : 29 – 45 .
+ Google Scholar
+
+McCaughtry , N. , Barnard , S. , Martin , J. , Shen , B. and Kulinna , P. H. 2006 . Teachers’ perspectives on the challenges of teaching physical education in urban schools: the student emotional filter . Research Quarterly for Exercise and Sport , 77 : 486 – 497 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+McLaughlin , M. W. , Irby , M. A. and Langman , J. 1994 . Urban sanctuaries: neighborhood organizations in the lives and futures of inner city youth , San Francisco, CA : Jossey-Bass .
+ Google Scholar
+
+Metzler , M. 2005 . Instructional models for physical education , Boston, MA : Allyn & Bacon .
+ Google Scholar
+
+Miles , M. B. and Huberman , A. M. 1994 . Qualitative data analysis: an expanded sourcebook , 2nd edn , Thousand Oaks, CA : Sage .
+ Google Scholar
+
+Mitra , D. L. 2004 . The significance of students: can increasing student voice in schools lead to gains in youth development? . Teachers College Record , 106 : 651 – 688 .
+ Web of Science ®
+Google Scholar
+
+Murray , D. M. 1998 . Design and analysis of group-randomized trials , New York : Oxford University Press .
+ Google Scholar
+
+National Association for Sport and Physical Education (NASPE) 2004 Moving into the future. National standards for physical education , (2nd edn) Reston, VA NASPE
+ Google Scholar
+
+Parker , M. and Hellison , D. 2001 . Teaching responsibility in physical education: standards, outcomes, and beyond . Journal of Physical Education, Recreation, and Dance , 72 : 25 – 36 .
+ Google Scholar
+
+Parker , M. , Kallusky , J. and Hellison , D. 1999 . High impact, low risk: ten strategies to teach responsibility . Journal of Physical Education, Recreation, and Dance , 70 : 26 – 28 .
+ Google Scholar
+
+Parker , M. and Steihl , J. 2005 . “ Personal and social responsibility ” . In Standards-based physical education curriculum development , Edited by: Lund , J. and Tannehill , D. 131 – 153 . Boston, MA : Jones and Bartlett .
+ Google Scholar
+
+Patton , M. Q. 2002 . Qualitative evaluation and research methods , 3rd edn , Newbury Park, CA : Sage .
+ Google Scholar
+
+Peterson , T. K. 2005 . Leveraging the after-school value added . School Administrator , 62 : 14 – 17 .
+ Google Scholar
+
+Petitpas , A. J. , Cornelius , A. E. , Van Raalte , J. L. and Jones , T. 2005 . A framework for planning youth sport programs that foster psychosocial development . The Sport Psychologist , 19 : 63 – 80 .
+ Web of Science ®
+Google Scholar
+
+Rink , J. E. 2001 . Investigating the assumptions of pedagogy . Journal of Teaching in Physical Education , 20 : 112 – 128 .
+ Web of Science ®
+Google Scholar
+
+Sandford , R. A. , Armour , K. M. and Warmington , P. C. 2006 . Re-engaging disaffected youth through physical activity programmes . British Educational Research Journal , 32 ( 2 ) : 251 – 271 .
+ Web of Science ®
+Google Scholar
+
+Schilling , T. A. 2001 . An investigation of commitment among participants in an extended day physical activity program . Research Quarterly for Exercise and Sport , 72 : 355 – 365 .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Silverman , S. 2004 . Analyzing data from field research: the unit of analysis issue . Research Quarterly for Exercise and Sport , 75 : iii – iv .
+ PubMed
+Web of Science ®
+Google Scholar
+
+Silverman , S. and Solomon , M. 1998 . The unit of analysis in field research: issues and approaches to design and data analysis . Journal of Teaching in Physical Education , 17 : 270 – 284 .
+ Web of Science ®
+Google Scholar
+
+Skaggs , G. and Bodenhorn , N. 2006 . Relationships between implementing character education, student behavior, and student achievement . Journal of Advanced Academics , 18 : 82 – 114 .
+ Google Scholar
+
+U.S. Department of Health and Human Services (USDHHS) 2000 Healthy People 2010 Washington, DC US Department of Health and Human Services
+ Google Scholar
+
+Viadero D. 2007 High-quality after-school programs tied to test score gains Education Week Retrieved from http://www.edweek.org/ew/articles/2007/11/28/13afterschool.h27.html?r=1529237044
+ Google Scholar
+
+Weisbud , C. 2005 . Academics after-school style . School Administrator , 62 : 22 – 23 .
+ Google Scholar
+
+Wright , P. M. 2009 . “ Research on the teaching personal and social responsibility model: is it really in the margins? ” . In Historic traditions and future directions of research on teaching and teacher education in physical education , Edited by: Housner , L. , Metzler , M. , Schempp , P. and Templin , T. 289 – 296 . Morgantown, WV : Fitness Information Technology .
+ Google Scholar
+
+Wright , P. M. and Burton , S. 2008 . Examining the implementation and immediate outcomes of a personal–social responsibility model program for urban high school students . Journal of Teaching in Physical Education , 27 : 138 – 154 .
+ Web of Science ®
+Google Scholar
+
+Wright P. M. Li W. 2009 Exploring the relevance of a youth development orientation in urban physical education Physical Education and Sport Pedagogy 14 241 251
+ Google Scholar
+
+Wright , P. M. , Lowther , D. L. , Ross , S. M. and Strahl , J. D. 2007 . Youth education through sports (YES) 2006–07 implementation study , Memphis, TN : The University of Memphis, Center for Research in Educational Policy .
+ Google Scholar
+
+Wright , P. M. , Stockton , M. and Hays , N. L. 2008 . “ The personal–social responsibility model: exploring a novel approach to promoting gender equity and increasing relevance for adolescent females in physical education ” . In Progress in exercise and women's health research , Edited by: Coulter , J. 159 – 175 . Hauppauage, NY : Nova Science .
+ Google Scholar
+
+People also read
+
+Recommended articles
+
+Cited by
+36
+
+Authors
+
+R&D professionals
+
+Editors
+
+Librarians
+
+Societies
+
+Overview
+
+Open journals
+
+Open Select
+
+Dove Medical Press
+
+F1000Research
+
+Reprints and e-prints
+
+Advertising solutions
+
+Accelerated publication
+
+Corporate access solutions
+
+Help and contact
+
+Newsroom
+
+All journals
+
+Books

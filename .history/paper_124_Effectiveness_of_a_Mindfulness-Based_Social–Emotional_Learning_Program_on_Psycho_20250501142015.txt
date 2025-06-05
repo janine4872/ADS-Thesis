@@ -1,0 +1,534 @@
+Abstract
+The aim of the present study was to assess the effectiveness of a mindfulness-based social–emotional learning program (MindKinder) on the psychosocial adjustment and neuropsychological development of kindergarten children. The experimental cohort comprised 74 kindergarten children, a cohort obtained through an incidental non-probability sampling method or by accessibility. The children were randomly assigned to control (n = 26; 35.14%) or experimental groups (n = 48; 65.86%). The age of children ranged from 4 to 6 years (M = 5.08, SD = .37). The study followed a quasi-experimental design with repeated pre-test, post-test, and follow-up (after 6 months) measurements with a control group. The MindKinder program was implemented during school time. Results confirmed that the program produced a significant improvement in the psychosocial adjustment and neuropsychological variables in the experimental group. Results showed a significant reduction in the scores of some global maladaptive dimensions among the experimental group: behavioral symptoms index and externalized and academic problems. Likewise, the results show a significant increase in the scores for the experimental group in the dimensions of global development, non-verbal development, visual perception, and attention. Our findings suggest that mindfulness programs may be effective in promoting psychosocial adjustment and improving neuropsychological variables in young children. Implications are discussed, and recommendations are made for future research.
+
+Abstract
+
+The aim of the present study was to assess the effectiveness of a mindfulness-based social–emotional learning program (MindKinder) on the psychosocial adjustment and neuropsychological development of kindergarten children. The experimental cohort comprised 74 kindergarten children, a cohort obtained through an incidental non-probability sampling method or by accessibility. The children were randomly assigned to control (n = 26; 35.14%) or experimental groups (n = 48; 65.86%). The age of children ranged from 4 to 6 years (M = 5.08, SD = .37). The study followed a quasi-experimental design with repeated pre-test, post-test, and follow-up (after 6 months) measurements with a control group. The MindKinder program was implemented during school time. Results confirmed that the program produced a significant improvement in the psychosocial adjustment and neuropsychological variables in the experimental group. Results showed a significant reduction in the scores of some global maladaptive dimensions among the experimental group: behavioral symptoms index and externalized and academic problems. Likewise, the results show a significant increase in the scores for the experimental group in the dimensions of global development, non-verbal development, visual perception, and attention. Our findings suggest that mindfulness programs may be effective in promoting psychosocial adjustment and improving neuropsychological variables in young children. Implications are discussed, and recommendations are made for future research.
+
+Introduction
+Over the last decade, mindfulness-based interventions (MBI) have become an increasingly important area of scientific research (Felver et al. 2016). Mindfulness involves a series of practices aimed at focusing attention on meditation in order to live in the present moment, avoid judgment, and to promote a non-reactive conscious state that can modify automatic behavior in the long-term (Kabat-Zinn 2003). Mindfulness-based interventions are secular programs that employ practices adapted primarily from Buddhist contemplative traditions (Kabat-Zinn 2017).
+In contrast, the aim of social–emotional learning (SEL) is to pursue comprehensive development of the personality and dampen an individual’s maladaptive behavior (Durlak et al. 2011; Greenberg et al. 2003; Gueldner and Feuerborn 2016). In this sense, mindfulness-based programs (MBPs) can theoretically be incorporated into SEL interventions in education, as they both address common core contents like emotional self-control, understanding emotions and empathy (Bakosh et al. 2016; Felver et al. 2013; Lawlor 2016; Sampaio-de-Carvalho et al. 2017; Weare 2013). Similarly, both approaches aim to enhance the academic, social, and emotional development of children and adolescents (Gueldner and Feuerborn 2016). In education, both SEL and MBP strive to develop positive self, moral, social, and emotional understanding (Lawlor 2016). Moreover, Durlak et al. (2011) suggested that the development of SEL competencies leads to greater attention for the care of others, the optimization of decision-making processes, and the improvement of self-awareness processes.
+In this context, there has been a recent proliferation of MBPs in education (Harnett and Dawe 2012; Poehlmann-Tynan et al. 2016; Shapiro et al. 2014; Zelazo and Lyons 2011), although more empirical studies are needed to assess and scientifically substantiate the effectiveness of this emerging approach (Davidson and Kaszniak 2015; Felver et al. 2016; Greenberg and Harris 2012; Meiklejohn et al. 2012). Nevertheless, MBPs have generally been shown to be broadly effective when evaluated with a wide range of psychosocial adjustment indicators (Parker et al. 2014; Schonert-Reichl and Lawlor 2010).
+The evidence available has augmented the interest in studying the impact of MBPs with children and adolescents (Burke 2010; Greco et al. 2005). MBPs can dissipate the symptoms of anxiety in children (Napoli et al. 2005; Semple et al. 2010; Singh et al. 2016), decrease stress (Biegel et al. 2009; Mendelson et al. 2010), enhance children’s capacity for self-control (Zoogman et al. 2014), augment their self-esteem, promote their adaptation at school (Gyeong and Lee 2013), improve their emotional control, and prevent risky behaviors (Broderick and Jennings 2014). In addition, MBPs can increase the self-esteem and emotional competence of adolescents (Soriano-Ayala and Franco-Justo 2010), improve their academic performance (Bakosh et al. 2016), help overcome alexithymia and enhance their social skills (De la Fuente et al. 2010), and improve cognitive processing (Beaucheim et al. 2008). Thus, this preliminary empirical evidence viewed as a whole suggests that MBPs could provide a complementary approach to enhance SEL.
+The benefits of MBPs in children and adolescents have encouraged further research in this field (Baer et al. 2006; Felver et al. 2013), including experiments with scientific assessment tools aimed at defining the influence of these programs to support the empirical evidence (Greenberg and Harris 2012; Felver et al. 2016). Nevertheless, few such programs are aimed at kindergarten children, defined as students aged from 3 to 6 years, despite the importance of this stage in the general development of individuals and in the acquisition of attention skills in particular (Chiesa et al. 2011; Kim et al. 2010; Sampaio-de-Carvalho et al. 2017; Tang et al. 2015). It is important to note that MBPs are not only remedial interventions used to address specific social and emotional problems in children but rather, they can also be implemented as preventive measures. For this reason, they should be taken into account when designing the educational curricula to support children’s psychosocial adjustment (Jones et al. 2003). These programs promote the development of social and emotional skills (National Research Council and Institute of Medicine 2009). In this context, psychosocial adjustment refers to an individual’s ability to respond to the demands and nature of their social environment, including their personal adjustment and the social adaptation to the scholastic milieu (Reynolds and Kamphaus 2004).
+Among the examples where MBP has been successfully employed during the early years of education, an improvement in the attention and self-regulation skills of children from disadvantaged social environments was noted (Poehlmann-Tynan et al. 2016). Likewise, a short mindfulness program was seen to produce an increase in attention control in kindergarten children (Lim and Qu 2017), and positive effects in self-regulation, empathy, and pro-social behavior were demonstrated among 4-year-olds (Flook et al. 2010). Improvement in classroom behavior has also been seen, i.e., increased attention in class, improved self-control behavior and engagement in activities, and respect for others (Black and Fernando 2013). Preliminary results also suggest that MBPs can improve executive function in young children (Razza et al. 2013). These results further stimulate interest in studying the repercussions of MBPs on the development of cognitive processes in children. Neuropsychological maturity is another concept associated with children’s cognitive development, defined as the degree of organization and maturity required to perform cognitive functions, and to behave in line with chronological age. Important milestones of neuropsychological maturity can be established during development and particularly, during infancy (Portellano et al. 2000).
+A series of recommendations have been issued to ensure the quality of MBPs (e.g., Felver et al. 2016) and these include the following: (1) the random allocation of participants; (2) the use of active control conditions; (3) the recording of the participants’ socio-economic context; (4) the inclusion of children with special educational needs (SEN), in order to assess the impact on this population; (5) the identification of MBP components key to the intervention; (6) an estimate of the amount and quality of preparation necessary to carry out the MBP; (7) the use of multi-informant and multimethod techniques; (8) maintaining a record of the participants’ academic performance; and (9) the collection of follow-up data. In this sense, as emphasized by Greenberg and Harris (2012), well-designed studies that evaluate multiple variables and indicators over time will increase the quality and consolidation of this field of research. In addition, adopting an evolutionary perspective may facilitate the understanding of the underlying mechanisms of possible changes in these interventions (Felver et al. 2016).
+Accordingly, this study intended to assess the effect of a new mindfulness-based program (MindKinder) on the psychosocial adjustment and neuropsychological maturity of kindergarten children. Bearing in mind previous studies, we postulated distinct hypotheses that the MindKinder program is likely to significantly improve psychosocial adjustment (H1) and that it will positively affect the children’s psychosocial adjustment 6 months after the program’s implementation (H2), as well as their neuropsychological maturity (H3), relative to the control group.
+
+Introduction
+
+Over the last decade, mindfulness-based interventions (MBI) have become an increasingly important area of scientific research (Felver et al. 2016). Mindfulness involves a series of practices aimed at focusing attention on meditation in order to live in the present moment, avoid judgment, and to promote a non-reactive conscious state that can modify automatic behavior in the long-term (Kabat-Zinn 2003). Mindfulness-based interventions are secular programs that employ practices adapted primarily from Buddhist contemplative traditions (Kabat-Zinn 2017).
+In contrast, the aim of social–emotional learning (SEL) is to pursue comprehensive development of the personality and dampen an individual’s maladaptive behavior (Durlak et al. 2011; Greenberg et al. 2003; Gueldner and Feuerborn 2016). In this sense, mindfulness-based programs (MBPs) can theoretically be incorporated into SEL interventions in education, as they both address common core contents like emotional self-control, understanding emotions and empathy (Bakosh et al. 2016; Felver et al. 2013; Lawlor 2016; Sampaio-de-Carvalho et al. 2017; Weare 2013). Similarly, both approaches aim to enhance the academic, social, and emotional development of children and adolescents (Gueldner and Feuerborn 2016). In education, both SEL and MBP strive to develop positive self, moral, social, and emotional understanding (Lawlor 2016). Moreover, Durlak et al. (2011) suggested that the development of SEL competencies leads to greater attention for the care of others, the optimization of decision-making processes, and the improvement of self-awareness processes.
+In this context, there has been a recent proliferation of MBPs in education (Harnett and Dawe 2012; Poehlmann-Tynan et al. 2016; Shapiro et al. 2014; Zelazo and Lyons 2011), although more empirical studies are needed to assess and scientifically substantiate the effectiveness of this emerging approach (Davidson and Kaszniak 2015; Felver et al. 2016; Greenberg and Harris 2012; Meiklejohn et al. 2012). Nevertheless, MBPs have generally been shown to be broadly effective when evaluated with a wide range of psychosocial adjustment indicators (Parker et al. 2014; Schonert-Reichl and Lawlor 2010).
+The evidence available has augmented the interest in studying the impact of MBPs with children and adolescents (Burke 2010; Greco et al. 2005). MBPs can dissipate the symptoms of anxiety in children (Napoli et al. 2005; Semple et al. 2010; Singh et al. 2016), decrease stress (Biegel et al. 2009; Mendelson et al. 2010), enhance children’s capacity for self-control (Zoogman et al. 2014), augment their self-esteem, promote their adaptation at school (Gyeong and Lee 2013), improve their emotional control, and prevent risky behaviors (Broderick and Jennings 2014). In addition, MBPs can increase the self-esteem and emotional competence of adolescents (Soriano-Ayala and Franco-Justo 2010), improve their academic performance (Bakosh et al. 2016), help overcome alexithymia and enhance their social skills (De la Fuente et al. 2010), and improve cognitive processing (Beaucheim et al. 2008). Thus, this preliminary empirical evidence viewed as a whole suggests that MBPs could provide a complementary approach to enhance SEL.
+The benefits of MBPs in children and adolescents have encouraged further research in this field (Baer et al. 2006; Felver et al. 2013), including experiments with scientific assessment tools aimed at defining the influence of these programs to support the empirical evidence (Greenberg and Harris 2012; Felver et al. 2016). Nevertheless, few such programs are aimed at kindergarten children, defined as students aged from 3 to 6 years, despite the importance of this stage in the general development of individuals and in the acquisition of attention skills in particular (Chiesa et al. 2011; Kim et al. 2010; Sampaio-de-Carvalho et al. 2017; Tang et al. 2015). It is important to note that MBPs are not only remedial interventions used to address specific social and emotional problems in children but rather, they can also be implemented as preventive measures. For this reason, they should be taken into account when designing the educational curricula to support children’s psychosocial adjustment (Jones et al. 2003). These programs promote the development of social and emotional skills (National Research Council and Institute of Medicine 2009). In this context, psychosocial adjustment refers to an individual’s ability to respond to the demands and nature of their social environment, including their personal adjustment and the social adaptation to the scholastic milieu (Reynolds and Kamphaus 2004).
+Among the examples where MBP has been successfully employed during the early years of education, an improvement in the attention and self-regulation skills of children from disadvantaged social environments was noted (Poehlmann-Tynan et al. 2016). Likewise, a short mindfulness program was seen to produce an increase in attention control in kindergarten children (Lim and Qu 2017), and positive effects in self-regulation, empathy, and pro-social behavior were demonstrated among 4-year-olds (Flook et al. 2010). Improvement in classroom behavior has also been seen, i.e., increased attention in class, improved self-control behavior and engagement in activities, and respect for others (Black and Fernando 2013). Preliminary results also suggest that MBPs can improve executive function in young children (Razza et al. 2013). These results further stimulate interest in studying the repercussions of MBPs on the development of cognitive processes in children. Neuropsychological maturity is another concept associated with children’s cognitive development, defined as the degree of organization and maturity required to perform cognitive functions, and to behave in line with chronological age. Important milestones of neuropsychological maturity can be established during development and particularly, during infancy (Portellano et al. 2000).
+A series of recommendations have been issued to ensure the quality of MBPs (e.g., Felver et al. 2016) and these include the following: (1) the random allocation of participants; (2) the use of active control conditions; (3) the recording of the participants’ socio-economic context; (4) the inclusion of children with special educational needs (SEN), in order to assess the impact on this population; (5) the identification of MBP components key to the intervention; (6) an estimate of the amount and quality of preparation necessary to carry out the MBP; (7) the use of multi-informant and multimethod techniques; (8) maintaining a record of the participants’ academic performance; and (9) the collection of follow-up data. In this sense, as emphasized by Greenberg and Harris (2012), well-designed studies that evaluate multiple variables and indicators over time will increase the quality and consolidation of this field of research. In addition, adopting an evolutionary perspective may facilitate the understanding of the underlying mechanisms of possible changes in these interventions (Felver et al. 2016).
+Accordingly, this study intended to assess the effect of a new mindfulness-based program (MindKinder) on the psychosocial adjustment and neuropsychological maturity of kindergarten children. Bearing in mind previous studies, we postulated distinct hypotheses that the MindKinder program is likely to significantly improve psychosocial adjustment (H1) and that it will positively affect the children’s psychosocial adjustment 6 months after the program’s implementation (H2), as well as their neuropsychological maturity (H3), relative to the control group.
+
+Methods
+Participants
+The experimental cohort comprised 74 kindergarten children obtained through an incidental non-probability sampling method or by accessibility. The children were assigned randomly to the control group (n = 26; 35.14%) or to the experimental group (n = 48; 65.86%). The age of the children ranged from 4 to 6 years (M = 5.08, SD = .37), with no significant difference in age between the two groups (χ2 = .28, p > .05): 7.5% of the children were 4 years old, 67.5% were 5 years old, and 26% were 6. The gender distribution was relatively uniform: 35 (47.30%) were boys and 39 (52.70%) were girls.
+The criteria for inclusion in the study were (a) regular school attendance and (b) informed written consent from the family and voluntary participation by the child. The exclusion criteria were (a) children with more than 30% school absenteeism and (b) failure to obtain the signed informed written consent of the family or a child who did not wish to take part in the program.
+Procedure
+The study followed a quasi-experimental design of repeated pre-test (T1), post-test (T2), and follow-up (T3; after 6 months) measurements with a control group. The MindKinder program was the independent variable, while the dependent variables were psychosocial adjustment and neuropsychological maturity.
+A request for permission was issued to the School Council in order to implement the program, and subsequently, an information letter that included the informed consent form was sent to the families of all the participants. The experimental group then received the MindKinder program. The control participants were to be included in the program during the following academic year. The sessions were held at the beginning of the classes in both shifts, that is, first thing in the morning and first thing after lunch break. All the sessions were conducted by kindergarten teachers with the aid of an external assistant from the research team. The functions of the external assistant were tutor training, counseling, and coordinating the development of MindKinder sessions. The assistant had undertaken personal mindfulness practice for 15 years and had been a trainer in mindfulness for 10 years. Two teachers were trained to implement the MindKinder program according to the published recommendations (Bakosh et al. 2016). The training course dealt with mindfulness techniques (e.g., attention, breathing, etc.), as well as the establishment of routines and postural methods. Training lasted for a total of 4 h and was delivered over 2 weeks. The study complied with all the ethical standards for research on human beings: informed written consent and the right to information, personal data protection and confidentiality, and no discrimination.
+Characteristics of the MindKinder Program
+Based on the framework suggested by Feagans-Gould et al. (2016), the MindKinder program was implemented in the real context of a classroom during school time, ensuring ecological validity. The teaching team administered the program with the support of an external assistant (Greenberg and Harris 2012; Meiklejohn et al. 2012). All the sessions were carried out as planned. The specific aims of the MindKinder program are (1) to improve behavioral problems (aggression, hyperactivity), (2) to reduce symptoms of anxiety and depression, (3) to enhance interpersonal skills, (4) to improve attention and concentration spans, and (5) to foster a positive classroom environment to reduce academic problems.
+The MindKinder program has been designed as a psycho-educational group intervention that lasts 6 months, following a series of methodological recommendations regarding the program’s framework (Garaigordobil 2000). The following variables were held constant during the execution of the MindKinder program: (1) intersession consistency: the program involves six weekly sessions of 15 min each (144 sessions); (2) time and place consistency: the sessions were scheduled at the same time each week and held in the same place; (3) teacher consistency: interventions were always led by a kindergarten teacher with the assistance of an external expert; and (4) consistency in the structure of each session.
+The program was organized into four content blocks (see Table 1): (1) mindfulness meditation techniques according to Gueldner and Feuerborn (2016) and Kabat-Zinn (2003); (2) work with mandalas based on studies from Carsley et al. (2015); (3) visualization techniques such as those described by Garth (2010) and Gueldner and Feuerborn (2016); and (4) body awareness as suggested by Poehlmann-Tynan et al. (2016).
+Table 1 Content, learning objectives, and number of sessions in the MindKinder program
+Full size table
+To illustrate one of the content blocks, the structure of mindfulness meditation is presented. Each meditation session was guided by audiotapes pre-recorded by the program’s authors. At the start of each session, the teacher explains the activities for the day in an assembly with the children under the guidance of the external assistant. After the assembly, the meditation work starts. The mindfulness meditation routine is as follows: (1) Music is played and the children take off their shoes, leaving them under their chairs and walking to the place for meditation; (2) the children then take part in the guided meditation for the corresponding block; (3) at the end, the participants say thank you and there is a short communal gathering; and (4) the music is played again and the children return to their desks, put on their shoes, and begin their everyday classwork.
+Measures
+Two assessment tools with demonstrated psychometric reliability and validity were employed to evaluate the study’s end-points.
+The Behavioral Assessment System for Children, second edition (BASC-2; Reynolds and Kamphaus 2004), assesses children’s psychosocial adjustment. Specifically, it uses a questionnaire for teachers (BASC-T1) that includes 149 items to describe the behavior of children. Items are scored using a four-point Likert-type scale (a = never; b = sometimes; c = frequently, d = most of the time) where teachers are asked to choose the option that best describes the child’s behavior over the last 6 months. In addition, the BASC-T2 questionnaire covers five global dimensions or compound indices appraised in this study. These dimensions are calculated by grouping sub-scales into the following categories: externalized problems (EXP), comprising the sub-scales aggression, hyperactivity, atypical behavior, and behavioral problems; internalized problems (INP), comprising the sub-scales anxiety, depression and somatization; academic problems (AP), consisting of the sub-scales attention deficit, and learning problems; adaptive skills (AS), including the sub-scales adaptability, and social and leadership skills; and the behavioral symptoms index (BSI), comprising the sub-scales aggression, hyperactivity, attention deficit, atypical behavior, anxiety, and depression. At pre-test (T1), the questionnaire’s internal consistency was evaluated by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .95; INP, α = .85; AP, α = .94; AS, α = .78; BSI, α = .95. At post-test (T2), the questionnaire’s internal consistency was evaluated by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .89; INP, α = .82; AP, α = .91; AS, α = .82; BSI, α = .89. At follow-up (T3; after 6 months), the questionnaire’s internal consistency was tested by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .92; INP, α = .86; AP, α = .90; AS, α = .80; BSI, α = .92.
+Children’s Neuropsychological Maturity Questionnaire (CUMANIN; Portellano et al. 2000). This is a neuropsychological maturity test designed for children between 3 and 6 years of age which is administered to the child by the teacher. A large repertoire of tests are used to assess the child’s degree of neuropsychological maturity and hence, their neuropsychological development. The questionnaire consists of 83 items grouped into 13 sub-scales. Each item is rated as success (1) or failure (0), and the eight main sub-scales are motor skills, language articulation, language comprehension, expressive language, spatial structuring, visual perception, memory, and rhythm. The instrument includes another five additional sub-scales not intended to measure neuropsychological development. Two of them test the areas of attention and verbal fluency, and for children older than 5 years of age, two additional written language scales test their reading and writing. Finally, information about hand, eye, and foot laterality is also recorded.
+A global development index is obtained from all eight main sub-scales, and the questionnaire also provides information on the child’s verbal and non-verbal development. At pre-test (T1), internal consistency of the questionnaire was calculated by measuring Cronbach’s alpha for each sub-scale: motor skills, α = .71; language articulation, α = .88; language comprehension, α = .82; expressive language, α = .78; spatial structuring, α = .79; visual perception, α = .77; memory α = .81; and rhythm, α = .80; attention, α = .89; verbal fluency, α = .72; reading, α = .71; writing, α = .73; and global development, α = .88. At post-test (T2), the questionnaire’s internal consistency was tested by calculating Cronbach’s alpha for each of these sub-scales: motor skills, α = .69; language articulation, α = .82; language comprehension, α = .81; expressive language, α = .80; spatial structuring, α = .80; visual perception, α = .79; memory α = .79; and rhythm, α = .81; attention, α = .90; verbal fluency, α = .76; reading, α = .72; writing, α = .71; and global development, α = .85.
+Data Analyses
+First, the assumptions of variance analysis and multivariate analysis of the (co) variance assumptions were verified. In order to identify any potential differences between the pre-test variables from the experimental and control group, an initial multivariate analysis of variance (MANOVA) was performed with all the pre-test scores for the distinct variables. In order to establish the program’s effect, a descriptive analysis was carried out (means and standard deviations), and analysis of variance (ANOVAs) with each score from the tools applied pre-test. After confirming a priori homogeneity between both the groups, a multivariate analysis of co-variance (MANCOVA) of all the study variables was performed to determine if there were any significant differences between the experimental and control groups. Finally, a descriptive analysis and an analysis of covariance were performed on the post-test scores (post-test ANCOVAs co-varying with the pre-test) to demonstrate the program’s impact on each variable. Effect size was measured using Cohen’s d (1992).
+
+Methods
+
+Participants
+The experimental cohort comprised 74 kindergarten children obtained through an incidental non-probability sampling method or by accessibility. The children were assigned randomly to the control group (n = 26; 35.14%) or to the experimental group (n = 48; 65.86%). The age of the children ranged from 4 to 6 years (M = 5.08, SD = .37), with no significant difference in age between the two groups (χ2 = .28, p > .05): 7.5% of the children were 4 years old, 67.5% were 5 years old, and 26% were 6. The gender distribution was relatively uniform: 35 (47.30%) were boys and 39 (52.70%) were girls.
+The criteria for inclusion in the study were (a) regular school attendance and (b) informed written consent from the family and voluntary participation by the child. The exclusion criteria were (a) children with more than 30% school absenteeism and (b) failure to obtain the signed informed written consent of the family or a child who did not wish to take part in the program.
+Procedure
+The study followed a quasi-experimental design of repeated pre-test (T1), post-test (T2), and follow-up (T3; after 6 months) measurements with a control group. The MindKinder program was the independent variable, while the dependent variables were psychosocial adjustment and neuropsychological maturity.
+A request for permission was issued to the School Council in order to implement the program, and subsequently, an information letter that included the informed consent form was sent to the families of all the participants. The experimental group then received the MindKinder program. The control participants were to be included in the program during the following academic year. The sessions were held at the beginning of the classes in both shifts, that is, first thing in the morning and first thing after lunch break. All the sessions were conducted by kindergarten teachers with the aid of an external assistant from the research team. The functions of the external assistant were tutor training, counseling, and coordinating the development of MindKinder sessions. The assistant had undertaken personal mindfulness practice for 15 years and had been a trainer in mindfulness for 10 years. Two teachers were trained to implement the MindKinder program according to the published recommendations (Bakosh et al. 2016). The training course dealt with mindfulness techniques (e.g., attention, breathing, etc.), as well as the establishment of routines and postural methods. Training lasted for a total of 4 h and was delivered over 2 weeks. The study complied with all the ethical standards for research on human beings: informed written consent and the right to information, personal data protection and confidentiality, and no discrimination.
+Characteristics of the MindKinder Program
+Based on the framework suggested by Feagans-Gould et al. (2016), the MindKinder program was implemented in the real context of a classroom during school time, ensuring ecological validity. The teaching team administered the program with the support of an external assistant (Greenberg and Harris 2012; Meiklejohn et al. 2012). All the sessions were carried out as planned. The specific aims of the MindKinder program are (1) to improve behavioral problems (aggression, hyperactivity), (2) to reduce symptoms of anxiety and depression, (3) to enhance interpersonal skills, (4) to improve attention and concentration spans, and (5) to foster a positive classroom environment to reduce academic problems.
+The MindKinder program has been designed as a psycho-educational group intervention that lasts 6 months, following a series of methodological recommendations regarding the program’s framework (Garaigordobil 2000). The following variables were held constant during the execution of the MindKinder program: (1) intersession consistency: the program involves six weekly sessions of 15 min each (144 sessions); (2) time and place consistency: the sessions were scheduled at the same time each week and held in the same place; (3) teacher consistency: interventions were always led by a kindergarten teacher with the assistance of an external expert; and (4) consistency in the structure of each session.
+The program was organized into four content blocks (see Table 1): (1) mindfulness meditation techniques according to Gueldner and Feuerborn (2016) and Kabat-Zinn (2003); (2) work with mandalas based on studies from Carsley et al. (2015); (3) visualization techniques such as those described by Garth (2010) and Gueldner and Feuerborn (2016); and (4) body awareness as suggested by Poehlmann-Tynan et al. (2016).
+Table 1 Content, learning objectives, and number of sessions in the MindKinder program
+Full size table
+To illustrate one of the content blocks, the structure of mindfulness meditation is presented. Each meditation session was guided by audiotapes pre-recorded by the program’s authors. At the start of each session, the teacher explains the activities for the day in an assembly with the children under the guidance of the external assistant. After the assembly, the meditation work starts. The mindfulness meditation routine is as follows: (1) Music is played and the children take off their shoes, leaving them under their chairs and walking to the place for meditation; (2) the children then take part in the guided meditation for the corresponding block; (3) at the end, the participants say thank you and there is a short communal gathering; and (4) the music is played again and the children return to their desks, put on their shoes, and begin their everyday classwork.
+Measures
+Two assessment tools with demonstrated psychometric reliability and validity were employed to evaluate the study’s end-points.
+The Behavioral Assessment System for Children, second edition (BASC-2; Reynolds and Kamphaus 2004), assesses children’s psychosocial adjustment. Specifically, it uses a questionnaire for teachers (BASC-T1) that includes 149 items to describe the behavior of children. Items are scored using a four-point Likert-type scale (a = never; b = sometimes; c = frequently, d = most of the time) where teachers are asked to choose the option that best describes the child’s behavior over the last 6 months. In addition, the BASC-T2 questionnaire covers five global dimensions or compound indices appraised in this study. These dimensions are calculated by grouping sub-scales into the following categories: externalized problems (EXP), comprising the sub-scales aggression, hyperactivity, atypical behavior, and behavioral problems; internalized problems (INP), comprising the sub-scales anxiety, depression and somatization; academic problems (AP), consisting of the sub-scales attention deficit, and learning problems; adaptive skills (AS), including the sub-scales adaptability, and social and leadership skills; and the behavioral symptoms index (BSI), comprising the sub-scales aggression, hyperactivity, attention deficit, atypical behavior, anxiety, and depression. At pre-test (T1), the questionnaire’s internal consistency was evaluated by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .95; INP, α = .85; AP, α = .94; AS, α = .78; BSI, α = .95. At post-test (T2), the questionnaire’s internal consistency was evaluated by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .89; INP, α = .82; AP, α = .91; AS, α = .82; BSI, α = .89. At follow-up (T3; after 6 months), the questionnaire’s internal consistency was tested by calculating Cronbach’s alpha for each of these dimensions: EXP, α = .92; INP, α = .86; AP, α = .90; AS, α = .80; BSI, α = .92.
+Children’s Neuropsychological Maturity Questionnaire (CUMANIN; Portellano et al. 2000). This is a neuropsychological maturity test designed for children between 3 and 6 years of age which is administered to the child by the teacher. A large repertoire of tests are used to assess the child’s degree of neuropsychological maturity and hence, their neuropsychological development. The questionnaire consists of 83 items grouped into 13 sub-scales. Each item is rated as success (1) or failure (0), and the eight main sub-scales are motor skills, language articulation, language comprehension, expressive language, spatial structuring, visual perception, memory, and rhythm. The instrument includes another five additional sub-scales not intended to measure neuropsychological development. Two of them test the areas of attention and verbal fluency, and for children older than 5 years of age, two additional written language scales test their reading and writing. Finally, information about hand, eye, and foot laterality is also recorded.
+A global development index is obtained from all eight main sub-scales, and the questionnaire also provides information on the child’s verbal and non-verbal development. At pre-test (T1), internal consistency of the questionnaire was calculated by measuring Cronbach’s alpha for each sub-scale: motor skills, α = .71; language articulation, α = .88; language comprehension, α = .82; expressive language, α = .78; spatial structuring, α = .79; visual perception, α = .77; memory α = .81; and rhythm, α = .80; attention, α = .89; verbal fluency, α = .72; reading, α = .71; writing, α = .73; and global development, α = .88. At post-test (T2), the questionnaire’s internal consistency was tested by calculating Cronbach’s alpha for each of these sub-scales: motor skills, α = .69; language articulation, α = .82; language comprehension, α = .81; expressive language, α = .80; spatial structuring, α = .80; visual perception, α = .79; memory α = .79; and rhythm, α = .81; attention, α = .90; verbal fluency, α = .76; reading, α = .72; writing, α = .71; and global development, α = .85.
+Data Analyses
+First, the assumptions of variance analysis and multivariate analysis of the (co) variance assumptions were verified. In order to identify any potential differences between the pre-test variables from the experimental and control group, an initial multivariate analysis of variance (MANOVA) was performed with all the pre-test scores for the distinct variables. In order to establish the program’s effect, a descriptive analysis was carried out (means and standard deviations), and analysis of variance (ANOVAs) with each score from the tools applied pre-test. After confirming a priori homogeneity between both the groups, a multivariate analysis of co-variance (MANCOVA) of all the study variables was performed to determine if there were any significant differences between the experimental and control groups. Finally, a descriptive analysis and an analysis of covariance were performed on the post-test scores (post-test ANCOVAs co-varying with the pre-test) to demonstrate the program’s impact on each variable. Effect size was measured using Cohen’s d (1992).
+
+Results
+Initially, the psychosocial adjustment at both pre- and post-test (short-term effects) were evaluated, and then the pre-test follow-up was assessed as a mid-term effect. Subsequently, neuropsychological maturity was evaluated at pre- and post-test (short-term effects) stages.
+Short-Term Effects
+The results of the pre-test MANOVA (T1) did not reveal any significant differences between the groups before the intervention: Wilks’ lambda, Λ = .597, F (5, 69) = 1.213, p = .112, with a small effect size (η2 = .112, r = .14). Similarly, the univariate variance for the pre-test phase (see Tables 2 and 3) failed to identify significant differences between the children in the experimental and control groups for any of the study variables analyzed prior to the interventions.
+Table 2 Pre- and post-test analysis of the psychosocial adjustment variables in the experimental and control groups
+Full size table
+Table 3 Pre- and post-test analysis of the psychosocial adjustment variables in the experimental and control groups
+Full size table
+By contrast, the post-test MANCOVA results (T2) revealed significant differences between these two conditions relative to those at the pre-test stage (T1): Wilks’ lambda, Λ = .783, F (5, 69) = 6.142, p = .012, with an intermediate effect size (η2 = .412, r = .36). When covariance analyses for each psychosocial adjustment variable were subsequently analyzed in the control and experimental groups (Table 3), the ANCOVA post-test results confirmed a significant reduction in the scores of some global maladaptive dimensions among the experimental group: Behavioral Symptoms Index (BSI), Externalized Problems (EXP), and Academic Problems (AP). The effect size was moderate for BSI (d = .41) and AP (d = .45), while EXP (d = .26) was associated with a small effect size.
+Similarly, the ANCOVA results confirmed that the children who followed the experimental program scored significantly lower in the following sub-scales: aggression, hyperactivity, anxiety, attention deficit, and learning problems. In these cases, the effect size was moderate for aggression (d = .41) and hyperactivity (d = .38), while it was small for anxiety (d = .23), attention deficit (d = .24), and learning problems (d = .22). In addition, the mean gains in the global AS dimension were greater in the experimental group than in the controls, confirming simply a trend in the anticipated direction.
+Follow-up Effects
+When comparing the follow-up (T3) and pre-test (T1) data, the MANCOVA analysis revealed significant differences between both these conditions: Wilks’ lambda, Λ = 1.213, F (5, 69) = 5.428, p < .001, with a moderate effect size (η2 = .395, r = .41). Subsequent covariance analyses (ANCOVAs) were carried out with each of the psychosocial adjustment variables in the experimental and control groups (Table 3). Accordingly, the post-test ANCOVA confirmed a significant reduction in the scores of the program’s participants for the following maladaptive dimensions: Behavioral Symptoms Index (BSI), Externalized Problems (EXP), and Academic Problems (AP). The effect size was moderate for BSI (d = .48) and AP (d = .49), while for EXP, the effect size was small (d = .21). Similarly, the ANCOVA results confirmed the decrease in the scores of the program’s participants in the following sub-scales: aggression, hyperactivity, anxiety, attention deficit, learning problems, and social skills. The effect size was moderate for aggression (d = .41) and hyperactivity (d = .38), while for anxiety (d = .22), attention deficit (d = .21), learning problems (d = .25), and social skills (d = .33), the effect size was small.
+Neuropsychological Maturity Effects
+In terms of neuropsychological maturity, the MANOVA pre-test analysis did not reveal any significant differences between the two groups under study prior to the intervention: Wilks’ lambda, Λ = .428, F (4, 70) = .589, p = .183, with a small effect size (η2 = .121, r = .15). The univariate variance analysis of the results obtained in the pre-test phase (see Table 4) also failed to identify significant differences between the children who subsequently underwent the experimental program and the controls prior to the intervention for any of the variables studied.
+Table 4 Effects on neuropsychological maturity of the MindKinder program
+Full size table
+Similarly, the post-test (T2) and pre-test (T1) MANCOVA analysis did not reveal any significant difference between the groups prior to the intervention: Wilks’ lambda, Λ = .345, F (4, 70) = .275, p = .198, with a small effect size (η2 = .116, r = .12). Subsequent covariance analyses (ANCOVAs) were carried out for each variable in the two groups, experimental and control (Table 4), and the post-test ANCOVA confirmed that there was a significant increase in the scores for the experimental group in the dimensions of global development, non-verbal development, visual perception, and attention. The effect size was large in terms of visual perception (d = .66), and moderate for non-verbal development (d = .51) and attention (d = .47), whereas a small effect size was associated with the global development index (d = .29). In addition, when the differences in the mean gains of all the neuropsychological maturity variables were compared, these were larger in the experimental group than for the controls, with the exception of language articulation and comprehension.
+
+Results
+
+Initially, the psychosocial adjustment at both pre- and post-test (short-term effects) were evaluated, and then the pre-test follow-up was assessed as a mid-term effect. Subsequently, neuropsychological maturity was evaluated at pre- and post-test (short-term effects) stages.
+Short-Term Effects
+The results of the pre-test MANOVA (T1) did not reveal any significant differences between the groups before the intervention: Wilks’ lambda, Λ = .597, F (5, 69) = 1.213, p = .112, with a small effect size (η2 = .112, r = .14). Similarly, the univariate variance for the pre-test phase (see Tables 2 and 3) failed to identify significant differences between the children in the experimental and control groups for any of the study variables analyzed prior to the interventions.
+Table 2 Pre- and post-test analysis of the psychosocial adjustment variables in the experimental and control groups
+Full size table
+Table 3 Pre- and post-test analysis of the psychosocial adjustment variables in the experimental and control groups
+Full size table
+By contrast, the post-test MANCOVA results (T2) revealed significant differences between these two conditions relative to those at the pre-test stage (T1): Wilks’ lambda, Λ = .783, F (5, 69) = 6.142, p = .012, with an intermediate effect size (η2 = .412, r = .36). When covariance analyses for each psychosocial adjustment variable were subsequently analyzed in the control and experimental groups (Table 3), the ANCOVA post-test results confirmed a significant reduction in the scores of some global maladaptive dimensions among the experimental group: Behavioral Symptoms Index (BSI), Externalized Problems (EXP), and Academic Problems (AP). The effect size was moderate for BSI (d = .41) and AP (d = .45), while EXP (d = .26) was associated with a small effect size.
+Similarly, the ANCOVA results confirmed that the children who followed the experimental program scored significantly lower in the following sub-scales: aggression, hyperactivity, anxiety, attention deficit, and learning problems. In these cases, the effect size was moderate for aggression (d = .41) and hyperactivity (d = .38), while it was small for anxiety (d = .23), attention deficit (d = .24), and learning problems (d = .22). In addition, the mean gains in the global AS dimension were greater in the experimental group than in the controls, confirming simply a trend in the anticipated direction.
+Follow-up Effects
+When comparing the follow-up (T3) and pre-test (T1) data, the MANCOVA analysis revealed significant differences between both these conditions: Wilks’ lambda, Λ = 1.213, F (5, 69) = 5.428, p < .001, with a moderate effect size (η2 = .395, r = .41). Subsequent covariance analyses (ANCOVAs) were carried out with each of the psychosocial adjustment variables in the experimental and control groups (Table 3). Accordingly, the post-test ANCOVA confirmed a significant reduction in the scores of the program’s participants for the following maladaptive dimensions: Behavioral Symptoms Index (BSI), Externalized Problems (EXP), and Academic Problems (AP). The effect size was moderate for BSI (d = .48) and AP (d = .49), while for EXP, the effect size was small (d = .21). Similarly, the ANCOVA results confirmed the decrease in the scores of the program’s participants in the following sub-scales: aggression, hyperactivity, anxiety, attention deficit, learning problems, and social skills. The effect size was moderate for aggression (d = .41) and hyperactivity (d = .38), while for anxiety (d = .22), attention deficit (d = .21), learning problems (d = .25), and social skills (d = .33), the effect size was small.
+Neuropsychological Maturity Effects
+In terms of neuropsychological maturity, the MANOVA pre-test analysis did not reveal any significant differences between the two groups under study prior to the intervention: Wilks’ lambda, Λ = .428, F (4, 70) = .589, p = .183, with a small effect size (η2 = .121, r = .15). The univariate variance analysis of the results obtained in the pre-test phase (see Table 4) also failed to identify significant differences between the children who subsequently underwent the experimental program and the controls prior to the intervention for any of the variables studied.
+Table 4 Effects on neuropsychological maturity of the MindKinder program
+Full size table
+Similarly, the post-test (T2) and pre-test (T1) MANCOVA analysis did not reveal any significant difference between the groups prior to the intervention: Wilks’ lambda, Λ = .345, F (4, 70) = .275, p = .198, with a small effect size (η2 = .116, r = .12). Subsequent covariance analyses (ANCOVAs) were carried out for each variable in the two groups, experimental and control (Table 4), and the post-test ANCOVA confirmed that there was a significant increase in the scores for the experimental group in the dimensions of global development, non-verbal development, visual perception, and attention. The effect size was large in terms of visual perception (d = .66), and moderate for non-verbal development (d = .51) and attention (d = .47), whereas a small effect size was associated with the global development index (d = .29). In addition, when the differences in the mean gains of all the neuropsychological maturity variables were compared, these were larger in the experimental group than for the controls, with the exception of language articulation and comprehension.
+
+Discussion
+There is growing empirical evidence in the scientific literature about the benefits of MBPs in education (Felver et al. 2016). Thus, the aim of this study was to provide further evidence to confirm the benefits of MBPs by assessing the impact of the MindKinder program on the psychosocial adjustment and neuropsychological maturity of kindergarten children. In addition, the study also aimed to test whether potential improvements in psychosocial adjustment are maintained for 6 months after the program’s implementation. Overall, the results show that the MindKinder program can improve short and medium-term psychosocial adjustment and promote neuropsychological maturity among kindergarten children.
+Regarding the short-term effects on psychosocial adjustment, the data obtained from the experimental group confirm that the MindKinder program drives: (1) a significant dampening of externalized problems (EXP), particularly in terms of aggressive and hyperactive behavior; (2) a significant decrease in the anxiety sub-scale contained in the internalized problems dimension (INP); (3) a significant decline in academic problems (AP) specifically with regard to attention deficit and learning problems; and (4) a significant reduction in the behavioral symptoms index (BSI). No improvements were observed in the remaining sub-scales, including the internalization of problems (INP) as a whole or any sub-scale from the adaptive skills dimension (AS).
+These results confirm our initial hypothesis (H1) and are also consistent with other studies that show the efficacy of MBPs in improving the psychosocial adjustment and social adaptation of kindergarten children (e.g., Black and Fernando 2013; Flook et al. 2010; Poehlmann-Tynan et al. 2016, Razza et al. 2013). It is possible that the mindfulness techniques learned during the MindKinder program could enhance self-control and consequently decrease maladaptive behaviors like aggression, hyperactivity, anxiety, attention deficit, academic problems, and disruptive behavior, ultimately leading to a decline in children’s problematic behaviors. Admittedly, the results show that teachers mainly observed an improvement in externalized conducts (e.g., aggression, hyperactivity) and less so in internalized behavior (e.g., anxiety), as seen elsewhere (Napoli et al. 2005; Semple et al. 2010; Singh et al. 2016). This may reflect the fact that internalized behaviors may be harder to observe by an external evaluator as they involve emotional and internal facets of an individual. By contrast, externalized conducts involve aspects that are easier for an external observer to detect as they involve disruptive behaviors beyond the norm.
+With regard to the follow-up effects of the MindKinder program on psychosocial adjustment, the results show a continuation of the effects on psychosocial adjustment in the experimental group. Moreover, a significant enhancement of the children’s social skills was evident among experimental groups (De la Fuente et al. 2010; Flook et al. 2010; Poehlmann-Tynan et al. 2016), partially confirming our second hypothesis (H2). The improvement in social skills observed could be due to enhanced regulation of the intra- and inter-personal emotions fostered by the program, refining the personal resources involved in social relationships (Zoogman et al. 2014). The fact that these improvements in social skills emerge 6 months after program implementation may reflect the time that behaviors related to social adaptation require to be internalized into the child’s behavioral repertoire.
+Regarding the short-term effects on neuropsychological maturity, the MindKinder program produced an improvement in the global development of the experimental group reflected in the positive impact observed on cognitive development (Beaucheim et al. 2008; Chiesa et al. 2011; Razza et al. 2013), partially confirming our third hypothesis (H3). These improvements were largely centered on non-verbal development and visual perception. Likewise, an improvement in attention processes was also observed, as seen elsewhere (Jones et al. 2003; Lim and Qu 2017; Kim et al. 2010). In essence, the MindKinder program fostered the ability to recognize, discriminate, and interpret stimuli based on acquired knowledge in the school children that participated. Thus, the preliminary results presented here are particularly important for kindergarten children, as this is a crucial stage in the development of most cognitive functions.
+The key strengths of this study are (1) the random distribution of the participants, (2) the definition of the intervention’s main MBP components, (3) the use of multi-informant and multimethod techniques, and (4) the collection and assessment of follow-up data.
+Limitations and Future Research
+Despite the promising results, there are limitations to the present study that must be borne in mind.
+In this regard, a thorough evaluation of the implementation of the program would have been beneficial. This study did not assess treatment fidelity. Future studies could include a simple fidelity measurement to improve the interpretation of results. In addition, results regarding psychosocial adjustment are based solely on the teacher’s perceptions of the child’s behavior (BASC-T2). Thus, it would be useful to complement this with reports from the family. Likewise, the BASC-2 is a broad band measure of symptomatology. Certainly, using additional tools would be more helpful to measure more precisely. In the same way, interrater reliability should be calculated/considered in future studies.
+Finally, all the general recommendations to ensure the quality of MBPs (Felver et al. 2016) have not been followed. When evaluating intervention programs in the educational field, following all these recommendations is complex for different reasons such as difficulty in the random allocation of participants and the use of active control conditions. Future research could focus on the effect of the MindKinder program on other variables, such as empathy, resilience, or self-esteem. Another line of research would be on the impact of the program on students’ academic performance. In addition, the research sample in our study was too small for results to be generalized to the population. We suggest that the program should have been developed using a larger sample and children from different origins.
+In conclusion, the results of this study suggest that implementation of the MindKinder program in schools has strong potential to improve the psychosocial adjustment and neuropsychological maturity of kindergarten children. This study also enriches the existing scientific literature demonstrating that MBP may be a viable and adequate intervention strategy for education systems (Felver et al. 2016). As indicated previously (Arguís 2014), MBPs can counteract daily stress in the context of education, allowing the individual to more attentively experience the activities in which they participate, with greater awareness. Such programs allow individuals to assimilate new information in a more relaxed and serene way, learning better and avoiding the risk of information overload. They also offer children support for their personal and social development, and promote well-being in schools, complementing more traditional academic learning. Accordingly, the need to include interventions that aim to improve and promote full consciousness based on educational psychology should be stressed. The benefits of such interventions reside in their contribution to the ultimate aim of education, which is to nurture the comprehensive development of the individual.
+
+Discussion
+
+There is growing empirical evidence in the scientific literature about the benefits of MBPs in education (Felver et al. 2016). Thus, the aim of this study was to provide further evidence to confirm the benefits of MBPs by assessing the impact of the MindKinder program on the psychosocial adjustment and neuropsychological maturity of kindergarten children. In addition, the study also aimed to test whether potential improvements in psychosocial adjustment are maintained for 6 months after the program’s implementation. Overall, the results show that the MindKinder program can improve short and medium-term psychosocial adjustment and promote neuropsychological maturity among kindergarten children.
+Regarding the short-term effects on psychosocial adjustment, the data obtained from the experimental group confirm that the MindKinder program drives: (1) a significant dampening of externalized problems (EXP), particularly in terms of aggressive and hyperactive behavior; (2) a significant decrease in the anxiety sub-scale contained in the internalized problems dimension (INP); (3) a significant decline in academic problems (AP) specifically with regard to attention deficit and learning problems; and (4) a significant reduction in the behavioral symptoms index (BSI). No improvements were observed in the remaining sub-scales, including the internalization of problems (INP) as a whole or any sub-scale from the adaptive skills dimension (AS).
+These results confirm our initial hypothesis (H1) and are also consistent with other studies that show the efficacy of MBPs in improving the psychosocial adjustment and social adaptation of kindergarten children (e.g., Black and Fernando 2013; Flook et al. 2010; Poehlmann-Tynan et al. 2016, Razza et al. 2013). It is possible that the mindfulness techniques learned during the MindKinder program could enhance self-control and consequently decrease maladaptive behaviors like aggression, hyperactivity, anxiety, attention deficit, academic problems, and disruptive behavior, ultimately leading to a decline in children’s problematic behaviors. Admittedly, the results show that teachers mainly observed an improvement in externalized conducts (e.g., aggression, hyperactivity) and less so in internalized behavior (e.g., anxiety), as seen elsewhere (Napoli et al. 2005; Semple et al. 2010; Singh et al. 2016). This may reflect the fact that internalized behaviors may be harder to observe by an external evaluator as they involve emotional and internal facets of an individual. By contrast, externalized conducts involve aspects that are easier for an external observer to detect as they involve disruptive behaviors beyond the norm.
+With regard to the follow-up effects of the MindKinder program on psychosocial adjustment, the results show a continuation of the effects on psychosocial adjustment in the experimental group. Moreover, a significant enhancement of the children’s social skills was evident among experimental groups (De la Fuente et al. 2010; Flook et al. 2010; Poehlmann-Tynan et al. 2016), partially confirming our second hypothesis (H2). The improvement in social skills observed could be due to enhanced regulation of the intra- and inter-personal emotions fostered by the program, refining the personal resources involved in social relationships (Zoogman et al. 2014). The fact that these improvements in social skills emerge 6 months after program implementation may reflect the time that behaviors related to social adaptation require to be internalized into the child’s behavioral repertoire.
+Regarding the short-term effects on neuropsychological maturity, the MindKinder program produced an improvement in the global development of the experimental group reflected in the positive impact observed on cognitive development (Beaucheim et al. 2008; Chiesa et al. 2011; Razza et al. 2013), partially confirming our third hypothesis (H3). These improvements were largely centered on non-verbal development and visual perception. Likewise, an improvement in attention processes was also observed, as seen elsewhere (Jones et al. 2003; Lim and Qu 2017; Kim et al. 2010). In essence, the MindKinder program fostered the ability to recognize, discriminate, and interpret stimuli based on acquired knowledge in the school children that participated. Thus, the preliminary results presented here are particularly important for kindergarten children, as this is a crucial stage in the development of most cognitive functions.
+The key strengths of this study are (1) the random distribution of the participants, (2) the definition of the intervention’s main MBP components, (3) the use of multi-informant and multimethod techniques, and (4) the collection and assessment of follow-up data.
+Limitations and Future Research
+Despite the promising results, there are limitations to the present study that must be borne in mind.
+In this regard, a thorough evaluation of the implementation of the program would have been beneficial. This study did not assess treatment fidelity. Future studies could include a simple fidelity measurement to improve the interpretation of results. In addition, results regarding psychosocial adjustment are based solely on the teacher’s perceptions of the child’s behavior (BASC-T2). Thus, it would be useful to complement this with reports from the family. Likewise, the BASC-2 is a broad band measure of symptomatology. Certainly, using additional tools would be more helpful to measure more precisely. In the same way, interrater reliability should be calculated/considered in future studies.
+Finally, all the general recommendations to ensure the quality of MBPs (Felver et al. 2016) have not been followed. When evaluating intervention programs in the educational field, following all these recommendations is complex for different reasons such as difficulty in the random allocation of participants and the use of active control conditions. Future research could focus on the effect of the MindKinder program on other variables, such as empathy, resilience, or self-esteem. Another line of research would be on the impact of the program on students’ academic performance. In addition, the research sample in our study was too small for results to be generalized to the population. We suggest that the program should have been developed using a larger sample and children from different origins.
+In conclusion, the results of this study suggest that implementation of the MindKinder program in schools has strong potential to improve the psychosocial adjustment and neuropsychological maturity of kindergarten children. This study also enriches the existing scientific literature demonstrating that MBP may be a viable and adequate intervention strategy for education systems (Felver et al. 2016). As indicated previously (Arguís 2014), MBPs can counteract daily stress in the context of education, allowing the individual to more attentively experience the activities in which they participate, with greater awareness. Such programs allow individuals to assimilate new information in a more relaxed and serene way, learning better and avoiding the risk of information overload. They also offer children support for their personal and social development, and promote well-being in schools, complementing more traditional academic learning. Accordingly, the need to include interventions that aim to improve and promote full consciousness based on educational psychology should be stressed. The benefits of such interventions reside in their contribution to the ultimate aim of education, which is to nurture the comprehensive development of the individual.
+
+References
+Arguís, R. (2014). Mindfulness y Educación. In A. Cebolla, J. García-Campayo, & M. Demarzo (Eds.), Mindfulness y Ciencia. De la tradición a la modernidad (pp. 129–149). Madrid: Alianza Editorial.
+Google Scholar
+  Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. Assessment, 13(1), 27–45. https://doi.org/10.1177/1073191105283504.
+Article
+  PubMed
+  Google Scholar
+  Bakosh, L. S., Snow, R. M., Tobias, J. M., Houlihan, J. L., & Barbosa-Leiker, C. (2016). Maximizing mindful learning: mindful awareness intervention improves elementary school students’ quarterly grades. Mindfulness, 7(1), 59–67. https://doi.org/10.1007/s12671-015-0387-6.
+Article
+  Google Scholar
+  Beaucheim, J., Hutchins, T., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety, promote social skills and improve academic performance among adolescents with learning disabilities. Complementary Health Practice Review, 13, 34–35.
+Article
+  Google Scholar
+  Biegel, G. M., Brown, K. W., Shauna, L., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77(5), 855–806.
+Article
+  Google Scholar
+  Black, D. S., & Fernando, R. (2013). Mindfulness training and classroom behavior among lower-income and ethnic minority elementary school children. Journal of Child and Family Studies, 23(7), 1242–1246. https://doi.org/10.1007/s10826-013-9784-4.
+Article
+  Google Scholar
+  Broderick, P. C., & Jenning, P. A. (2014). Mindfulness for adolescents: a promising approach to supporting emotion regulation and preventing risky behavior. New Directions for Youth Development, 136, 111–126. https://doi.org/10.1002/yd.20042.
+Article
+  Google Scholar
+  Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: a preliminary review of current research in an emergent field. Journal of Child and Family Studies, 19, 133–144. https://doi.org/10.1007/s10826-009-9282-x.
+Article
+  Google Scholar
+  Carsley, D., Heath, N. L., & Fajnerova, S. (2015). Effectiveness of a classroom mindfulness coloring activity for test anxiety in children. Journal of Applied School Psychology, 31(3), 239–255. https://doi.org/10.1080/15377903.2015.1056925.
+Article
+  Google Scholar
+  Chiesa, A., Calati, R., & Serretti, A. (2011). Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings. Clinical Psychology Review, 31, 449–464. https://doi.org/10.1016/j.cpr.2010.11.003.
+Article
+  PubMed
+  Google Scholar
+  Cohen, J. (1992). Quantitative methods in psychology: a power primer. Psychological Bulletin, 112(1), 155–159. https://doi.org/10.1037/0033-2909.112.1.-155.
+Article
+  Google Scholar
+  Davidson, R. J., & Kaszniak, A. W. (2015). Conceptual and methodological issues in research on mindfulness and meditation. American Psychologist, 70(7), 581–592. https://doi.org/10.1037/a0039512.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82, 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  PubMed
+  Google Scholar
+  Feagans-Gould, L., Dariotis, J. K., Greenberg, M. T., & Mendelson, T. (2016). Assessing fidelity of implementation (FOI) for school-based mindfulness and yoga interventions: a systematic review. Mindfulness, 7(1), 5–33. https://doi.org/10.1007/s12671-015-0395-6.
+Article
+  Google Scholar
+  Felver, J. C., Doerner, E., Jones, J., Kaye, N. C., & Merrell, K. W. (2013). Mindfulness in school psychology: applications for intervention and professional practice. Psychology in the Schools, 50, 531–547. https://doi.org/10.1002/pits.21695.
+Article
+  Google Scholar
+  Felver, J. C., Celis de Hoyos, C. E., Tezanos, K., & Singh, N. N. (2016). A systematic review of mindfulness-based interventions for youth in school settings. Mindfulness, 7(1), 34–45.
+Article
+  Google Scholar
+  Flook, L., Smalley, S. L., Kitil, M., Galla, B. M., Kaiser-Greenland, S., Locke, J., . . . Kasari, C. (2010). Effects of mindful awareness practices on executive functions in elementary school children. Journal of Applied School Psychology, 26, 70–95. https://doi.org/10.1080/15377900903379125.
+Article
+  Google Scholar
+  De la Fuente, M., Franco-Justo, C., & Salvador-Granados, M. S. (2010). Efectos de un programa de meditación (mindfulness) en la medida de la alexitimia y las habilidades sociales. Psicothema, 22(3), 369–375.
+Google Scholar
+  Garaigordobil, M. (2000). Intervención psicológica con adolescentes: Un programa para el desarrollo de la personalidad y la educación en derechos humanos. Madrid: Pirámide.
+Google Scholar
+  Garth, M. (2010). Luz de estrellas: Meditaciones para niños I. Madrid: Oniro.
+Google Scholar
+  Greco, L. A., Blackledge, J. T., Coyne, L. W., & Ehrenreich, J. T. (2005). Integrating acceptance and mindfulness into treatments for child and adolescent anxiety disorders: acceptance and commitment therapy as an example. In S. M. Orsillo & L. Roemer (Eds.), Acceptance and mindfulness-based approaches to anxiety: conceptualization and treatment (pp. 301–322). New York: Spring Science.
+Chapter
+  Google Scholar
+  Greenberg, M. T., & Harris, A. R. (2012). Nurturing mindfulness in children and youth: current state of research. Child Development Perspectives, 6(2), 161–166.
+Article
+  Google Scholar
+  Greenberg, M., Weissberg, R., O’Brien, M., Zins, J., Fredericks, L., Resnik, H., & Elias, M. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58(6), 466–474.
+Article
+  Google Scholar
+  Gueldner, B. A., & Feuerborn, L. L. (2016). Integrating mindfulness-based practice’s into social and emotional learning: a case application. Mindfulness, 7(1), 164–175. https://doi.org/10.1007/s12671-015-0423-6.
+Article
+  Google Scholar
+  Gyeong, Y., & Lee, S. (2013). The effects of school-based Maum meditation program on the self-esteem and school adjustment in primary school students. Global Journal of Health Science, 5(4), 14–27. https://doi.org/10.5539/gjhs.v5n4p14.
+Article
+  Google Scholar
+  Harnett, P. H., & Dawe, S. (2012). The contribution of mindfulness-based therapies for children and families and proposed conceptual integration. Child and Adolescent Mental Health, 17, 195–208. https://doi.org/10.1111/j.1475-3588.2011.00643.x.
+Article
+  Google Scholar
+  Jones, L., Rothbart, M. K., & Posner, M. I. (2003). Development of executive attention in preschool children. Developmental Science, 6, 498–504. https://doi.org/10.1111/1467-7687.00307.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past, present, and future. Clinical Psychology: Science and Practice, 10(2), 144–156. https://doi.org/10.1093/clipsy/bpg016.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (2017). Too early to tell: the potential impact and challenges—ethical and otherwise—inherent in the mainstreaming of dharma in an increasingly dystopian world. Mindfulness, 8(5), 1125–1135. https://doi.org/10.1007/s12671-017-0758-2.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kim, J., Deater-Deckard, K., Mullineaux, P. Y., & Allen, B. (2010). Longitudinal studies of anger and attention span: context and informant effects. Journal of Personality, 78, 419–440. https://doi.org/10.1111/j.1467-6494.2010.00621.x.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Lawlor, M. S. (2016). Mindfulness and social emotional learning (SEL): a conceptual framework. Handbook of Mindfulness in Education, 65–80. https://doi.org/10.1007/978-1-4939-3506-2_5.
+Lim, X., & Qu, L. (2017). The effect of single-session mindfulness training on preschool children’s attentional control. Mindfulness, 8(2), 300–310. https://doi.org/10.1007/s12671-016-0600-2.
+Article
+  Google Scholar
+  Meiklejohn, J., Phillips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach, A., et al. (2012). Integrating mindfulness training into K-12 education: fostering the resilience of teachers and students. Mindfulness, 3(4), 291–307. https://doi.org/10.1007/s12671-012-0094-5.
+Mendelson, T., Greenberg, M. T., Dariotis, J. K., Gould, L. F., Rhoades, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38(7), 985–994.
+Article
+  Google Scholar
+  Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: the attention academy. Journal of Applied School Psychology, 21(1), 99–125. https://doi.org/10.1300/J370v21n01_05.
+Article
+  Google Scholar
+  National Research Council & Institute of Medicine. (2009). Preventing mental, emotional, and behavioral disorders among young people: Progress and possibilities. Committee on the prevention of mental disorders and substance abuse among children, youth, and young adults: Research advances and promising interventions. In M. E. O’Connell, T. Boat, & K. E. Warner (Eds.), Board on children, youth, and families, Division of behavioral and social sciences and education. Washington, DC: National Academies Press.
+Google Scholar
+  Parker, A. E., Kupersmidt, J. B., Mathis, E. T., Scull, T. M., & Sims, C. (2014). The impact of mindfulness education on elementary school students: evaluation of the master mind program. Advances in School Mental Health Promotion, 7(3), 184–204. https://doi.org/10.1080/1754730X.2014.916497.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Poehlmann-Tynan, J., Vigna, A. B., Weymotuh, L. A., Gerstein, E. D., Burnson, C., Zabransky, M., Lee, P., & Zahn-Waxler, C. (2016). A pilot study of contemplative practices with economically disadvantaged prescholers: children’s empathic and self-regulatory behaviors. Mindfulness, 7(1), 46–58. https://doi.org/10.1007/s12671-015-0426-3.
+Article
+  Google Scholar
+  Portellano, J. A., Mateos, R., Martínez, R., Granados, M., & Tapia, A. (2000). Cuestionario de Neuropysychological maturity Infantil (CUMANIN). Madrid: Tea Ediciones.
+Google Scholar
+  Razza, R. A., Bergen-Cico, D., & Raymond, K. (2013). Enhancing preschoolers’ self-regulation via mindful yoga. Journal of Child and Family Studies, 1062–1024. https://doi.org/10.1007/s10826-013-9847-6.
+Reynolds, C. R., & Kamphaus, R. W. (2004). Behavior assessment system for children (second ed.). Circle Pines, MN: AGS.
+Sampaio-de-Carvalho, J., Marques-Pinto, A., & Marôco, J. (2017). Results of a mindfulness-based social-emotional learning program on Portuguese elementary students and teachers: a quasi-experimental study. Mindfulness, 8(2), 337–350. https://doi.org/10.1007/s12671-016-0603-z.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., & Lawlor, M. S. (2010). The effects of a mindfulness-based education program on pre- and early adolescents’ well-being and social and emotional competence. Mindfulness, 1(3), 137–151. https://doi.org/10.1007/s12671-010-0011.
+Article
+  Google Scholar
+  Semple, R. J., Lee, J., Rosa, D., & Miller, L. F. (2010). A randomized trial of mindfulness-based cognitive therapy for children: promoting mindful attention to enhance social-emotional resiliency in children. Journal of Child and Family Studies, 19(2), 218–229. https://doi.org/10.1007/s10826-009-9301-y.
+Article
+  Google Scholar
+  Shapiro, S. L., Lyons, K. E., Miller, R. C., Butler, B., Vieten, C., & Zelazo, P. D. (2014). Contemplation in the classroom: a new direction for improving childhood education. Educational Psychology Review, 27, 1–30. https://doi.org/10.1007/s10648-014-9265-3.
+Article
+  Google Scholar
+  Singh, N. N., Lancioni, G. E., Karazsia, B. T., Felver, J. C., Myers, R. E., & Nugent, K. (2016). Effects of Samatha meditation on active academic engagement and math performance of students with attention deficit/hyperactivity disorder. Mindfulness, 7(1), 68–75. https://doi.org/10.1007/s12671-015-0424-5.
+Article
+  Google Scholar
+  Soriano-Ayala, E., & Franco-Justo, C. (2010). Mejora de la autoestima y de la competencia emocional en adolescentes inmigrantes residentes en España a través de un programa psicoeducativo de Mindfulness (conciencia plena). Revista de Investigación Educativa, 28(2), 297–312.
+Google Scholar
+  Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. Nature Reviews Neuroscience, 16, 213–225. https://doi.org/10.1038/nrn3916.
+Article
+  PubMed
+  Google Scholar
+  Weare, K. (2013). Developing mindfulness with children and young people: A review of the evidence and policy context. Journal of Children’s Services, 8, 141–153. https://doi.org/10.1108/JCS-12-2012-0014.
+Article
+  Google Scholar
+  Zelazo, P. D., & Lyons, K. E. (2011). Mindfulness training in childhood. Human Development, 54, 61–65. https://doi.org/10.1159/00327548.
+Article
+  Google Scholar
+  Zoogman, S., Goldberg, S. B., Hoyt, W. T., & Miller, L. (2014). Mindfulness interventions with youth: a meta-analysis. Mindfulness, 6(2), 290–302. https://doi.org/10.1007/s12671-013-0260-4.
+Article
+  Google Scholar
+  Download references
+
+References
+
+Arguís, R. (2014). Mindfulness y Educación. In A. Cebolla, J. García-Campayo, & M. Demarzo (Eds.), Mindfulness y Ciencia. De la tradición a la modernidad (pp. 129–149). Madrid: Alianza Editorial.
+Google Scholar
+  Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. Assessment, 13(1), 27–45. https://doi.org/10.1177/1073191105283504.
+Article
+  PubMed
+  Google Scholar
+  Bakosh, L. S., Snow, R. M., Tobias, J. M., Houlihan, J. L., & Barbosa-Leiker, C. (2016). Maximizing mindful learning: mindful awareness intervention improves elementary school students’ quarterly grades. Mindfulness, 7(1), 59–67. https://doi.org/10.1007/s12671-015-0387-6.
+Article
+  Google Scholar
+  Beaucheim, J., Hutchins, T., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety, promote social skills and improve academic performance among adolescents with learning disabilities. Complementary Health Practice Review, 13, 34–35.
+Article
+  Google Scholar
+  Biegel, G. M., Brown, K. W., Shauna, L., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77(5), 855–806.
+Article
+  Google Scholar
+  Black, D. S., & Fernando, R. (2013). Mindfulness training and classroom behavior among lower-income and ethnic minority elementary school children. Journal of Child and Family Studies, 23(7), 1242–1246. https://doi.org/10.1007/s10826-013-9784-4.
+Article
+  Google Scholar
+  Broderick, P. C., & Jenning, P. A. (2014). Mindfulness for adolescents: a promising approach to supporting emotion regulation and preventing risky behavior. New Directions for Youth Development, 136, 111–126. https://doi.org/10.1002/yd.20042.
+Article
+  Google Scholar
+  Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: a preliminary review of current research in an emergent field. Journal of Child and Family Studies, 19, 133–144. https://doi.org/10.1007/s10826-009-9282-x.
+Article
+  Google Scholar
+  Carsley, D., Heath, N. L., & Fajnerova, S. (2015). Effectiveness of a classroom mindfulness coloring activity for test anxiety in children. Journal of Applied School Psychology, 31(3), 239–255. https://doi.org/10.1080/15377903.2015.1056925.
+Article
+  Google Scholar
+  Chiesa, A., Calati, R., & Serretti, A. (2011). Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings. Clinical Psychology Review, 31, 449–464. https://doi.org/10.1016/j.cpr.2010.11.003.
+Article
+  PubMed
+  Google Scholar
+  Cohen, J. (1992). Quantitative methods in psychology: a power primer. Psychological Bulletin, 112(1), 155–159. https://doi.org/10.1037/0033-2909.112.1.-155.
+Article
+  Google Scholar
+  Davidson, R. J., & Kaszniak, A. W. (2015). Conceptual and methodological issues in research on mindfulness and meditation. American Psychologist, 70(7), 581–592. https://doi.org/10.1037/a0039512.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82, 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  PubMed
+  Google Scholar
+  Feagans-Gould, L., Dariotis, J. K., Greenberg, M. T., & Mendelson, T. (2016). Assessing fidelity of implementation (FOI) for school-based mindfulness and yoga interventions: a systematic review. Mindfulness, 7(1), 5–33. https://doi.org/10.1007/s12671-015-0395-6.
+Article
+  Google Scholar
+  Felver, J. C., Doerner, E., Jones, J., Kaye, N. C., & Merrell, K. W. (2013). Mindfulness in school psychology: applications for intervention and professional practice. Psychology in the Schools, 50, 531–547. https://doi.org/10.1002/pits.21695.
+Article
+  Google Scholar
+  Felver, J. C., Celis de Hoyos, C. E., Tezanos, K., & Singh, N. N. (2016). A systematic review of mindfulness-based interventions for youth in school settings. Mindfulness, 7(1), 34–45.
+Article
+  Google Scholar
+  Flook, L., Smalley, S. L., Kitil, M., Galla, B. M., Kaiser-Greenland, S., Locke, J., . . . Kasari, C. (2010). Effects of mindful awareness practices on executive functions in elementary school children. Journal of Applied School Psychology, 26, 70–95. https://doi.org/10.1080/15377900903379125.
+Article
+  Google Scholar
+  De la Fuente, M., Franco-Justo, C., & Salvador-Granados, M. S. (2010). Efectos de un programa de meditación (mindfulness) en la medida de la alexitimia y las habilidades sociales. Psicothema, 22(3), 369–375.
+Google Scholar
+  Garaigordobil, M. (2000). Intervención psicológica con adolescentes: Un programa para el desarrollo de la personalidad y la educación en derechos humanos. Madrid: Pirámide.
+Google Scholar
+  Garth, M. (2010). Luz de estrellas: Meditaciones para niños I. Madrid: Oniro.
+Google Scholar
+  Greco, L. A., Blackledge, J. T., Coyne, L. W., & Ehrenreich, J. T. (2005). Integrating acceptance and mindfulness into treatments for child and adolescent anxiety disorders: acceptance and commitment therapy as an example. In S. M. Orsillo & L. Roemer (Eds.), Acceptance and mindfulness-based approaches to anxiety: conceptualization and treatment (pp. 301–322). New York: Spring Science.
+Chapter
+  Google Scholar
+  Greenberg, M. T., & Harris, A. R. (2012). Nurturing mindfulness in children and youth: current state of research. Child Development Perspectives, 6(2), 161–166.
+Article
+  Google Scholar
+  Greenberg, M., Weissberg, R., O’Brien, M., Zins, J., Fredericks, L., Resnik, H., & Elias, M. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58(6), 466–474.
+Article
+  Google Scholar
+  Gueldner, B. A., & Feuerborn, L. L. (2016). Integrating mindfulness-based practice’s into social and emotional learning: a case application. Mindfulness, 7(1), 164–175. https://doi.org/10.1007/s12671-015-0423-6.
+Article
+  Google Scholar
+  Gyeong, Y., & Lee, S. (2013). The effects of school-based Maum meditation program on the self-esteem and school adjustment in primary school students. Global Journal of Health Science, 5(4), 14–27. https://doi.org/10.5539/gjhs.v5n4p14.
+Article
+  Google Scholar
+  Harnett, P. H., & Dawe, S. (2012). The contribution of mindfulness-based therapies for children and families and proposed conceptual integration. Child and Adolescent Mental Health, 17, 195–208. https://doi.org/10.1111/j.1475-3588.2011.00643.x.
+Article
+  Google Scholar
+  Jones, L., Rothbart, M. K., & Posner, M. I. (2003). Development of executive attention in preschool children. Developmental Science, 6, 498–504. https://doi.org/10.1111/1467-7687.00307.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past, present, and future. Clinical Psychology: Science and Practice, 10(2), 144–156. https://doi.org/10.1093/clipsy/bpg016.
+Article
+  Google Scholar
+  Kabat-Zinn, J. (2017). Too early to tell: the potential impact and challenges—ethical and otherwise—inherent in the mainstreaming of dharma in an increasingly dystopian world. Mindfulness, 8(5), 1125–1135. https://doi.org/10.1007/s12671-017-0758-2.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kim, J., Deater-Deckard, K., Mullineaux, P. Y., & Allen, B. (2010). Longitudinal studies of anger and attention span: context and informant effects. Journal of Personality, 78, 419–440. https://doi.org/10.1111/j.1467-6494.2010.00621.x.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Lawlor, M. S. (2016). Mindfulness and social emotional learning (SEL): a conceptual framework. Handbook of Mindfulness in Education, 65–80. https://doi.org/10.1007/978-1-4939-3506-2_5.
+Lim, X., & Qu, L. (2017). The effect of single-session mindfulness training on preschool children’s attentional control. Mindfulness, 8(2), 300–310. https://doi.org/10.1007/s12671-016-0600-2.
+Article
+  Google Scholar
+  Meiklejohn, J., Phillips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach, A., et al. (2012). Integrating mindfulness training into K-12 education: fostering the resilience of teachers and students. Mindfulness, 3(4), 291–307. https://doi.org/10.1007/s12671-012-0094-5.
+Mendelson, T., Greenberg, M. T., Dariotis, J. K., Gould, L. F., Rhoades, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38(7), 985–994.
+Article
+  Google Scholar
+  Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: the attention academy. Journal of Applied School Psychology, 21(1), 99–125. https://doi.org/10.1300/J370v21n01_05.
+Article
+  Google Scholar
+  National Research Council & Institute of Medicine. (2009). Preventing mental, emotional, and behavioral disorders among young people: Progress and possibilities. Committee on the prevention of mental disorders and substance abuse among children, youth, and young adults: Research advances and promising interventions. In M. E. O’Connell, T. Boat, & K. E. Warner (Eds.), Board on children, youth, and families, Division of behavioral and social sciences and education. Washington, DC: National Academies Press.
+Google Scholar
+  Parker, A. E., Kupersmidt, J. B., Mathis, E. T., Scull, T. M., & Sims, C. (2014). The impact of mindfulness education on elementary school students: evaluation of the master mind program. Advances in School Mental Health Promotion, 7(3), 184–204. https://doi.org/10.1080/1754730X.2014.916497.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Poehlmann-Tynan, J., Vigna, A. B., Weymotuh, L. A., Gerstein, E. D., Burnson, C., Zabransky, M., Lee, P., & Zahn-Waxler, C. (2016). A pilot study of contemplative practices with economically disadvantaged prescholers: children’s empathic and self-regulatory behaviors. Mindfulness, 7(1), 46–58. https://doi.org/10.1007/s12671-015-0426-3.
+Article
+  Google Scholar
+  Portellano, J. A., Mateos, R., Martínez, R., Granados, M., & Tapia, A. (2000). Cuestionario de Neuropysychological maturity Infantil (CUMANIN). Madrid: Tea Ediciones.
+Google Scholar
+  Razza, R. A., Bergen-Cico, D., & Raymond, K. (2013). Enhancing preschoolers’ self-regulation via mindful yoga. Journal of Child and Family Studies, 1062–1024. https://doi.org/10.1007/s10826-013-9847-6.
+Reynolds, C. R., & Kamphaus, R. W. (2004). Behavior assessment system for children (second ed.). Circle Pines, MN: AGS.
+Sampaio-de-Carvalho, J., Marques-Pinto, A., & Marôco, J. (2017). Results of a mindfulness-based social-emotional learning program on Portuguese elementary students and teachers: a quasi-experimental study. Mindfulness, 8(2), 337–350. https://doi.org/10.1007/s12671-016-0603-z.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., & Lawlor, M. S. (2010). The effects of a mindfulness-based education program on pre- and early adolescents’ well-being and social and emotional competence. Mindfulness, 1(3), 137–151. https://doi.org/10.1007/s12671-010-0011.
+Article
+  Google Scholar
+  Semple, R. J., Lee, J., Rosa, D., & Miller, L. F. (2010). A randomized trial of mindfulness-based cognitive therapy for children: promoting mindful attention to enhance social-emotional resiliency in children. Journal of Child and Family Studies, 19(2), 218–229. https://doi.org/10.1007/s10826-009-9301-y.
+Article
+  Google Scholar
+  Shapiro, S. L., Lyons, K. E., Miller, R. C., Butler, B., Vieten, C., & Zelazo, P. D. (2014). Contemplation in the classroom: a new direction for improving childhood education. Educational Psychology Review, 27, 1–30. https://doi.org/10.1007/s10648-014-9265-3.
+Article
+  Google Scholar
+  Singh, N. N., Lancioni, G. E., Karazsia, B. T., Felver, J. C., Myers, R. E., & Nugent, K. (2016). Effects of Samatha meditation on active academic engagement and math performance of students with attention deficit/hyperactivity disorder. Mindfulness, 7(1), 68–75. https://doi.org/10.1007/s12671-015-0424-5.
+Article
+  Google Scholar
+  Soriano-Ayala, E., & Franco-Justo, C. (2010). Mejora de la autoestima y de la competencia emocional en adolescentes inmigrantes residentes en España a través de un programa psicoeducativo de Mindfulness (conciencia plena). Revista de Investigación Educativa, 28(2), 297–312.
+Google Scholar
+  Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. Nature Reviews Neuroscience, 16, 213–225. https://doi.org/10.1038/nrn3916.
+Article
+  PubMed
+  Google Scholar
+  Weare, K. (2013). Developing mindfulness with children and young people: A review of the evidence and policy context. Journal of Children’s Services, 8, 141–153. https://doi.org/10.1108/JCS-12-2012-0014.
+Article
+  Google Scholar
+  Zelazo, P. D., & Lyons, K. E. (2011). Mindfulness training in childhood. Human Development, 54, 61–65. https://doi.org/10.1159/00327548.
+Article
+  Google Scholar
+  Zoogman, S., Goldberg, S. B., Hoyt, W. T., & Miller, L. (2014). Mindfulness interventions with youth: a meta-analysis. Mindfulness, 6(2), 290–302. https://doi.org/10.1007/s12671-013-0260-4.
+Article
+  Google Scholar
+  Download references
+
+Acknowledgments
+We thank Michelle Pascoe, PhD, from Edanz Group (www.edanzediting.com/ac) for editing a draft of this manuscript.
+
+Acknowledgments
+
+We thank Michelle Pascoe, PhD, from Edanz Group (www.edanzediting.com/ac) for editing a draft of this manuscript.
+
+Author information
+Authors and Affiliations
+Department of Language and Literature, School “San Gabriel”, C/ Eugenia de Montijo 92, 28025, Madrid, Spain
+Alfonso-José Moreno-Gómez
+Department of Psychology, Faculty of Education of Ciudad Real, University of Castilla La Mancha, Ronda de Calatrava 3, 13071, Ciudad Real, Spain
+Javier Cejudo
+Contributions
+JC conceived of the study, participated in the data collection, analyzed the data, led preparation, and wrote the first draft of the manuscript. AM-G conceived of the study, analyzed the data, and contributed to writing the manuscript. All authors contributed to the interpretation of data, helped to draft and revise the manuscript, and have read and approved the final manuscript.
+Corresponding author
+Correspondence to Javier Cejudo.
+
+Author information
+
+Authors and Affiliations
+Department of Language and Literature, School “San Gabriel”, C/ Eugenia de Montijo 92, 28025, Madrid, Spain
+Alfonso-José Moreno-Gómez
+Department of Psychology, Faculty of Education of Ciudad Real, University of Castilla La Mancha, Ronda de Calatrava 3, 13071, Ciudad Real, Spain
+Javier Cejudo
+Contributions
+JC conceived of the study, participated in the data collection, analyzed the data, led preparation, and wrote the first draft of the manuscript. AM-G conceived of the study, analyzed the data, and contributed to writing the manuscript. All authors contributed to the interpretation of data, helped to draft and revise the manuscript, and have read and approved the final manuscript.
+Corresponding author
+Correspondence to Javier Cejudo.
+
+Ethics declarations
+Conflict of Interest
+The authors declare that they have no conflicts of interest.
+Ethical Approval
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. The University of Castilla La-Mancha (Spain) provided approval for the study.
+
+Ethics declarations
+
+Conflict of Interest
+The authors declare that they have no conflicts of interest.
+Ethical Approval
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. The University of Castilla La-Mancha (Spain) provided approval for the study.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Moreno-Gómez, AJ., Cejudo, J. Effectiveness of a Mindfulness-Based Social–Emotional Learning Program on Psychosocial Adjustment and Neuropsychological Maturity in Kindergarten Children. Mindfulness 10, 111–121 (2019). https://doi.org/10.1007/s12671-018-0956-6
+Download citation
+Published
+19 May 2018
+Issue Date
+January 2019
+DOI
+https://doi.org/10.1007/s12671-018-0956-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Meditation
+Mindfulness
+Psychosocial adjustment
+Neuropsychological maturity
+Kindergarten
+
+About this article
+
+Cite this article
+Moreno-Gómez, AJ., Cejudo, J. Effectiveness of a Mindfulness-Based Social–Emotional Learning Program on Psychosocial Adjustment and Neuropsychological Maturity in Kindergarten Children. Mindfulness 10, 111–121 (2019). https://doi.org/10.1007/s12671-018-0956-6
+Download citation
+Published
+19 May 2018
+Issue Date
+January 2019
+DOI
+https://doi.org/10.1007/s12671-018-0956-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Meditation
+Mindfulness
+Psychosocial adjustment
+Neuropsychological maturity
+Kindergarten

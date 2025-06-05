@@ -1,0 +1,174 @@
+ABSTRACT
+Through this study we tried to evaluate and improve the level of emotional competence of the students of a primary school. Emotional competence was evaluated by the teacher in 135 students using the Teacher Child Rating Scale of Hightower et al. [1986. The Teacher- Child Rating Scale: A brief objective measure of elementary children’s school problem behaviors and competencies. School Psychology Review, 15]. A programme to improve the emotional competence of the students was designed based on the data obtained in the initial evaluation and implemented with an experimental group (n = 72, 35 girls and 37 boys). Sessions were given one hour per week for 20 weeks. Using a quasi-experimental design with non-equivalent control group and pre-test post-test measures, the effectiveness of the programme for the improvement of emotional competence was checked. The results showed improvements in the variables of Sociability and Disturbing Behaviours within the experimental group. In addition, assessment of the participants’ satisfaction yielded very positive results.
+
+KEYWORDS:
+
+Emotional intelligenceemotional competenceemotional educationaffective and social education
+Previous article
+View issue table of contents
+Next article
+Introduction
+Although the concept of Emotional Education is relatively recent, several documents, such as the Delors Report (Citation1998) and the most recent current legislation (LOE, Citation2006; LOMCE, Citation2013), give special consideration to this aspect and make reference to its importance.
+
+Since it has been found that intelligence does not evolve independently of a person’s emotional and social aspects, a task of schools is to promote these aspects of the student’s development. School can and should be a happy and satisfying experience that helps us understand our relationships with others.
+
+The purpose of education is the full development of the individual’s integral personality. However, in this development we can distinguish two major aspects: cognitive and emotional development. The traditional role of the teacher, focused on the transmission of knowledge, is changing. To educate, teachers must not only have good knowledge of the curricular contents and the ability to teach them, but also skills, strategies, and collaborative work are required to manage the affective and relational life of the class and their positive coexistence while learning. The need to address the emotional lives of students and orient them to know and improve their emotional management skills entails teacher training.
+
+Enabling children to manage their own emotional life is a key factor in their socialization and well-being (Billings, Downey, Lomas, Lloyd, & Stough, Citation2014; Hen & Goroshit, Citation2014; Romero, Master, Paunesku, Dweck, & Gross, Citation2014). A large part of antisocial and aggressive behaviours stem from emotional problems. Theorists agree on the value of emotions in the motivation and organization of behaviour (Carpena, Citation2003). However, learning to manage emotions properly is not something that occurs exclusively in the school setting. Every day adults have to face anxiety and practice anger management, the ability to say what we do not like without offending, while being assertive, expressing their feelings, etc. Emotional education programmes address these skills and many others. If it is in childhood that learning and habits are acquired and consolidated that are to be maintained throughout life, we in the schools are ideally situated to work on them. Developing emotional education in the school environment means preparing students for life as individuals and as citizens.
+
+From another perspective, emotions are directly related to the learning process. If students are not motivated or have problems of self-esteem or in their peer relationship, this could adversely affect their performance. Such important aspects as attitudes, motivations, and expectations have been less studied or given secondary importance. However, they currently play a fundamental role since problems detected in the school have a marked emotional component, and only by combining the Intellectual Quotient with the Emotional Quotient can good results be achieved (Elías, Arnold, & Hussey, Citation2003). Bandura (Citation1997) states that self-efficacy is the best predictor of academic performance. Something similar holds for self-concept, which has been linked to the idea of the possibility of self-development and therefore to its effectiveness and performance since James (Citation1890) until modern times (Schmidt, Messoulam, & Molina, Citation2008). Emotional control would help to find the balance between the child’s performance and involvement in school (Skinner, Wellborn, & Connell, Citation1990).
+
+Taking all of the aforementioned into account, it would be necessary to impress on educational centres the need to address the affective and relational climate of the centre and classroom in order to achieve the adequate learning and integral development of the students. It is fundamental that the centres not overlook the importance of the affective and relational world in the integral development of people or in learning. The school environment offers an ideal framework for social interactions that promote the learning of coexistence, emotional competences, and sociability.
+
+An appropriate measure to achieve this goal is the development of emotional education programmes in schools. A necessary first step in the application of these programmes is training the teachers who will teach them (Bisquerra, Citation2005; Obiols, Citation2005; Palomera, Gil-Olarte, & Brackett, Citation2006), since the data indicate that while teachers are very sensitive to the need to include emotional education in the classroom, they generally do not receive the necessary training and instruction (Abarca, Marzo, & Sala, Citation2002; Hué, Citation2007).
+
+However, the implementation of emotional education programmes not based on models with scientific rigour, together with a lack of rigour in the evaluation of these programmes has resulted in a lack of data on the effectiveness of these programmes. According to Pérez-González (Citation2008), it is not enough to design and apply educational programmes to develop EI or socio-emotional skills, but it is also necessary to evaluate these interventions to obtain data about their validity and determine the aspects of such interventions that are susceptible to improvement. Therefore, preliminary evaluation of the students is necessary to verify where to start and what should be improved. A final evaluation is also important to verify the effectiveness of the programme.
+
+Although many programmes related to Emotional Education have been developed at all educational stages (Repetto, Pena, Mudarra, & Uribarri, Citation2007), as these programmes have not generally undergone validation, it is difficult to find published studies of their application and results (Pena & Repetto, Citation2008). Currently, in the field of research on Emotional Intelligence, the task of designing good educational programmes and systematically evaluating them is still pending (Pérez-González, Citation2008). Any practice or programme of Emotional or Socio-Emotional Education should be based on evidence yielded by such evaluations. (Zins, Bloodworth, Weissberg, & Walberg, Citation2004; Zins, Payton, Weissberg, & ÓBrien, Citation2007). Zeidner, Roberts, and Matthews (Citation2002) concluded that the majority of studies of Socio-Emotional Education programmes published in the USA show that they have not been specifically designed to improve Emotional Intelligence, and in addition, very few of them have been evaluated through rigorous research.
+
+In our country, of the 14 Socio-Emotional Education programmes included in the review of Vallés and Vallés (Citation2003), we can only confirm the existence of validation studies of one of them, consisting of a communication presented at a conference (Capote, Hernández, García, & Hernández, Citation1995). It is thus worrying that a large number of educational programmes have been applied each year or are intended to be generalized without rigorous evaluation (Expósito, Olmedo, & Fernández-Cano, Citation2004).
+
+In a study to determine problems in the evaluation of Emotional Competences and Emotional Education programmes, it was concluded that the usual instruments and strategies are incomplete and insufficient (Bisquerra, Martínez, Obiols, & Pérez, Citation2006). These authors point out that the problem is common to all types of competences, which is why alternatives to traditional instruments are being sought to assess competences more objectively. Certain exhaustive works (Agulló, Filella, Soldevila, & Ribes, Citation2011; Filella, Pérez-Escoda, Agulló, & Oriol, Citation2014) evaluated programmes of Emotional Education in Primary Education in this regard and found significant improvements after the application of said programmes.
+
+With respect to the present work, we point out that in the centre where the research was carried out, issues related to the application of Affective-Social Education in Values ⁣⁣for Coexistence (EASVC) in various formats have been studied for more than a decade by working groups, training projects in centres, talks to parents, etc. From the work experiences obtained by carrying out several courses, a group of teachers was systematically gathered that met weekly to reflect and prepare materials, with monthly meetings of all the teachers held in cycles at which the materials and proposals were presented for use in the classrooms. In some courses, meetings have been held with all the teachers at least bimonthly to practice and experience the dynamics and techniques prepared by the working group (group dynamics). Different work formats have also been used with families, from lecture series and coffee workshops to document delivery, debates, and roundtable discussions. Said centre has proposed to integrate curricular programmes of socio-emotional education and values in the life of classrooms and the centre. Thus, we have worked on the implementation of resources and integrated tutorial programmes, the dimensions we considered most effective in enhancing coexistence, focusing on:
+
+The socio-emotional climate of the centre and the classroom and the group development that most favours it.
+
+The channels of student participation in the life of the classroom and centre and their roles in the elaboration and implementation of norms and in following up on the issue of coexistence.
+
+The discussion of problems in a climate of trust and mutual respect, and training in skills for the peaceful resolution of conflicts (methods of conflict resolution).
+
+Values, solidarity, and help inside and outside the classroom. Move towards an educational environment in which cooperative learning takes a leading role through the use of a mutual-help learning style and cooperative teaching-learning methods, as well as help and solidarity outside the classroom (planetary solidarity: The Earth Charter).
+
+Including contributions from various programmes (Carpena, Citation2003; Cascón & Marín, Citation2005, Citation2006; Moreno, Citation2001; Segura & Arques, Citation2006), a programme was proposed to improve the emotional and social competence of the students. Its implementation and the evaluation of its effectiveness are analyzed in the present work.
+
+Objectives
+The main objective of this study was to verify the effectiveness of the proposed programme in the improvement of the emotional and social competence of a group of primary school students.
+
+This general objective can be broken down into the following:
+
+To provide a preliminary evaluation of the participants.
+
+To determine and analyze improvements in the emotional competence of the participants using a controlled study design.
+
+To determine the degree of satisfaction of all participants, both students and teachers, with the programme.
+
+The hypothesis tested in this paper, therefore, is as follows: Students who participate in a programme to improve their emotional and social skills will experience a significant improvement in these skills compared to the students in the control group.
+
+Method
+Participants
+The centre in which this programme was implemented is located in an urban environment in a central neighbourhood of a city in the southeast of Spain. The sociocultural level of the school population is medium to medium-high and the students’ academic performance is generally satisfactory.
+
+The participating teachers were volunteers, and the final sample consisted of three teachers from the experimental group and three from the control group, as well as their students. We sought to include representatives of each year of primary school in the sample. Therefore, one teacher in the control group and one in the experimental group taught at each level of primary school (1st, 2nd, and 3rd years). The participating students were the 135 children enrolled in the courses taught by the selected teachers (experimental group: n = 72, 35 girls and 37 boys; control group: n = 63, 33 girls and 30 boys). Thus, this study used non-random convenience sampling (Cardona, Citation2002). The teachers of the experimental group received emotional skills training from the actions carried out in the EASVC group, while the teachers of the control group did not.
+
+Measures
+Questionnaire for the evaluation of the emotional competence of students
+To assess the emotional competence of the students, the teachers completed the Teacher Child Rating Scale (Hightower et al., Citation1986), which includes the following factors: (a) Shyness-Anxiety; (b) Tolerance of Frustration; (c) Sociability; (d) Academic Motivation; (e) Follow-Up of Standards; (f) Disturbing Behaviours.
+
+Hightower et al. (Citation1986) found that the Cronbach’s alpha coefficient ranged from 0.85 to 0.95 for the subscales of the TCRS. The test-retest coefficients at 10 and 20-week intervals ranged from 0.61 to 0.91. The authors also reported the correlations between the TCRS subscales and achievement, anxiety, self-control, and report card measures as measures of validity.
+
+In order to measure the emotional competence of a particular group, teachers recorded student behaviours using an estimation scale with numbers from 1 to 5 according to the severity of the registered behaviour. Thus, 1 indicates ‘without problems’ and 5 ‘very serious problems’. We then conducted a survey of the teachers on their degree of satisfaction with the programme that consisted of a series of open questions such as: What do you like most about the programme? What do you like least? Why?
+
+These issues were assessed through quantitative and qualitative analysis, the latter highlighting the most representative categories. We then constructed categories based on the answers to the open questions and calculated the percentage of responses in each category.
+
+Student questionnaire on the degree of satisfaction with the programme
+The structure of this instrument was similar to that of the teacher questionnaire with the necessary changes to measure student satisfaction. It was subject to similar quantitative and qualitative analyses to highlight the most representative or highly scored categories.
+
+Procedure
+The procedure was as follows:
+
+At the beginning of the first quarter of the school calendar, the project was presented to the management team and the faculty of the educational centre.
+
+Each of the participating teachers completed the scale on the emotional competence of their students (Hightower et al., Citation1986).
+
+Based on the results of this preliminary evaluation, an intervention programme to improve emotional competence was elaborated.
+
+During the months of January to May, the teacher-tutors of the experimental group took charge of including the sessions of the programme within the weekly schedule of tutoring activities. The methodology used was playful, active, and participatory, and the duration of the programme was 20 weeks.
+
+In the month of June, after the programme was completed, the teachers completed the post-test evaluation using the evaluation scale of the emotional competence of the students. Similarly, the degree of participant satisfaction with the programme was evaluated through a series of questions posed to both teachers and students.
+
+The teachers completed the teacher satisfaction questionnaire and then provided their students with the student satisfaction questionnaire.
+
+Design and data analysis
+This study adopted a pretest-posttest control group design (Cook & Campbell, Citation1979), in which the control group is not equivalent (García Gallego, Citation2001). This type of design is quasi-experimental because the groups are formed naturally, not randomly, which latter characterises an experimental design; that is, in an experimental design, participants would be assigned to the control group and the experimental group in a completely randomized manner. In a design such as the one we have used, we cannot control all the factors that might influence the dependent variables. As we applied a pretest to measure the initial equivalence of the groups, this study has a design with repeated measures of a single factor (the presence of an alternative ‘treatment’).
+
+The data were analyzed as follows. First, we analyzed the study variables in the pretest condition with an independent sample t-test (which compares the means of two groups of cases) to determine whether the control and experimental groups were equivalent. Second, we applied a repeated-measure GLM (General Linear Model, which analyses groups of related dependent variables that represent different measures of the same attribute) to the data through multivariate variance analysis (MANOVA) and a repeated-measure univariate analysis of variance (ANOVA), in which the measures of the variables were same-subject variables and the groups (experimental and control) were between-subject variables. Next, we graphically represent the differences between the experimental and control groups in the pretest and posttest situations to interpret the differences. Finally, categories for teacher satisfaction with the programme were constructed according to the answers to the open questions and the percentages of responses in each category was calculated. The analysis and graphical representation of the data were performed using SPSS v.19 with a license for the University of Alicante.
+
+Results
+Preliminary analysis: similarity of the experimental and control groups
+When conducting a study of this design in which a certain procedure is applied to an experimental group to determine the resultant changes compared to a control group, it is necessary that both groups (experimental and control) be similar in the variables being investigated. As the changes in the experimental group might be attributed to the ‘treatment’ while actually being due to initial differences between the groups, this would constitute a Type 1 error, rejecting the null hypothesis when it is true. To avoid making this type of error, the first step in our study was to apply an independent sample t-test to test the null hypothesis (H0) that the samples come from two subpopulations with the same mean X (Ferrán Aranaz, Citation2001):
+𝐻0:
+`
+I
+1=
+`
+I
+2
+
+The results are shown in Table 1.
+
+Table 1. Results of the independent sample t-test. Pretest phase.
+Download CSVDisplay Table
+With reference to these data, we note that some variables showed significant pretest differences between the two groups:
+
+Shyness-Anxiety (experimental group, M = 11.38, SD = 4.83; control group, M = 9.44, SD = 3.18)
+
+Sociability (experimental group, M = 9.97, SD = 3.25; control group, M = 8.51, SD = 3.04)
+
+Follow-Up of Standards (experimental group, M = 4.21, SD = 1.90, control group, M = 3.44, SD = 0.96)
+
+We note that on the established scale, 1 = no problems, 5 = very serious problems, the experimental group showed greater problems in the aforementioned variables on the pretest phase.
+
+Analysis of the effects of the programme
+The results for the variables of Sociability (Table 2) and Disruptive Behaviours are presented in Tables 2 and 3, as they are the two variables significant in the repeated-measure MLG analysis. As can be seen in Tables 2 and 3, the interaction between the evaluation time (pretest and posttest) and the programme is significant (p ≤ .05) in both variables. Therefore, repeated measures of variance (ANOVA) indicates that the level of competence of the participants of the experimental group showed significant differences after the intervention on both Sociability and Disturbing Behaviour scores.
+
+Table 2. Tests of intra-subject effects: sociability.
+Download CSVDisplay Table
+Table 3. Test of intra-subject effects: disturbing behaviour.
+Download CSVDisplay Table
+In both Figure 1 for the variable of Sociability and Figure 2 for Disturbing Behaviours, we observe that the experimental group started from a situation of greater problems at the pretest time than the control group. Although problems decreased in both groups by the time of the post-test, this decrease was much more pronounced in the experimental group than in the control group for both variables.
+
+Figure 1. Sociability.
+
+Figure 1. Sociability.
+Display full size
+Figure 2. Disturbing behaviour.
+
+Figure 2. Disturbing behaviour.
+Display full size
+Analysis of teacher satisfaction
+These questions were assessed through a quantitative analysis highlighting the most representative, most highly selected categories. Regarding the degree of satisfaction of the teachers participating in the programme, all the respondents found that ‘The program we have developed contributes to the training of students as people’ (100% responded ‘A lot’), while the item that received the lowest score was ‘I consider that the rest of the teachers were also involved in an important way’ (66% responded ‘In part’). Finally, all teachers participating in the experimental group indicated that the programme deserves to be recommended to other centres.
+
+As discussed above, the answers to the open questions on the qualitative evaluation were grouped into categories and the most representative categories (those with higher response rates by teachers). The aspect of the programme that teachers viewed most positively was ‘Has developed emotional aspects of the students’ (66% of the answers), while for the aspects viewed most negatively or least liked, 66% of the answers concerned aspects of time organization, both of the activities themselves and of the class schedule, and 33% of the answers referenced ‘the lack of time to elaborate materials’.
+
+Analysis of student satisfaction
+Likewise, the student satisfaction questionnaires were assessed quantitatively to highlight the most representative (most commonly selected) categories. It was found that 80% of the students participating in the experimental group would recommend this programme to other classmates who have not done so, 60% thought that their relations with classmates improved after completing the programme, and 58% believed that they knew how to recognize and express their emotions better than before the programme. On the qualitative assessment, what students liked most about the programme was its playful and fun aspect; contrarily, what they liked the least was receiving criticism from their classmates in the ‘I propose, congratulate, and criticise’ activity.
+
+Discussion and conclusions
+In order to determine possible improvements in the emotional competence of the participants by treatment group, the results for the variable of Sociability showed improvements in the experimental group over the control group. Specifically, they improved in such aspects as acceptance by peers, respectful treatment, and communication skills, while the levels of dominant attitude, isolation, and dependence on classmates decreased. Also, within the variable of Disturbing Behaviours, statistically significant differences appeared that indicated an improvement in the experimental group versus the control group. This implied lower rates of disruption during class, difficulties remaining still or seated, bothering others while they worked, demands for attention, fighting with peers, defiant attitudes, obstinacy, negativism and opposition, and impulsivity.
+
+As previously noted, most emotional education programmes have been implemented in Spain without sufficient systematisation, and the lack of rigour in their evaluation has left us with insufficient data on their effectiveness. Therefore, there are few published results with which we can compare our study. However, we note that the results of this study are in line with those of Alonso (Citation2004), who found improvements in both students’ emotional awareness and their dispositions towards good moral maturity after the application of a programme of emotional growth. Our results can also be compared with those of Agulló et al. (Citation2011) in the evaluation of a Programme for the Middle Years of Primary Education. The significant differences found in the posttest in favour of the experimental group show that the application of the programme increased students’ knowledge of emotional education.
+
+Internationally, other studies have found positive effects of the application of social and emotional programmes. Durlak, Weissberg, Dymnicki, Taylor, and Schellinger (Citation2011) presented the results of a meta-analysis of 213 school-based universal social and emotional learning (SEL) programmes involving 270,034 students from preschool through high school. The SEL participants demonstrated significantly better social, emotional, behavioural, and academic performance than the control group, with performance gains of 11 percentage points. Similarly, a study by Lösel and Beelmann (Citation2003) performed a meta-analysis of the training of social skills as a measure to prevent antisocial behaviour in children and young people.
+
+On the other hand, turning to the satisfaction of the participants (teachers and students) with the programme, both the qualitative and quantitative analyses showed a high level of participant satisfaction with the programme. These results are in line with the evaluation by Obiols (Citation2005) of teachers participating in an emotional education programme, where the evaluation was very positive on the part of the tutors and tutees and the effects of the programme were valued highly.
+
+Implications for practice
+Our results show the importance to schools of the possibility of creating quality educational environments for the socialization and emotional development of children, both individually and in groups, as well as more traditional curricular learning. Therefore, we urge the progressive implementation of these techniques in the classroom. The results clearly indicate the classroom effectiveness of methodological resources like that tested in this study. There is no doubt that improving the sociability and communication skills of the class group and decreasing disruptive behaviours will improve the climate of the class. This last aspect is key, both in the general operation of the centre and in the teaching-learning process.
+
+With this study we seek to make good the lack of scientific research in our country evaluating socio-emotional competency programmes indicated by Guil and Gil-Olarte (Citation2007), Muñoz de Morales and Bisquerra (Citation2006), and Repetto, Pena, and Lozano (Citation2007), who have indicated deficits in their validation, and the great lack of published studies evaluating their effectiveness.
+
+Limitations of this study
+This study has a number of possible limitations. First, on the one hand, the data collected are based on teacher observations, which might cause some inaccuracies. The terminology used may also have caused bias. Although the poorly comprehended terms and unfamiliar expressions were explained to the participants, the possibility that they expressed themselves in an insecure or impulsive way in some cases cannot be ruled out. Another possible bias of our study that might have influenced the results is considerations of social desirability in both teachers and students when responding to the questionnaires.
+
+On the other hand, we must bear in mind that the teachers carried out evaluations using a Likert scale ranging from 0 to 5, which might have influenced the results. This aspect is corroborated by Bisquerra and Pérez-Escoda (Citation2015), who point out that the fewer the response options in a Likert questionnaire, the lower the sensitivity of the instrument, which is especially important in the analysis of pretest-posttest designs. They continue that when applying the usual tests (Student’s t-tests and analysis of variance), the differences observed may not be statistically significant due to the lack of sensitivity of the instrument rather than the absence of real changes.
+
+Finally, we must point out the high levels of emotional competence that most students showed before implementing the programme as a conditioning factor of this programme. Therefore, it would be advisable to conduct similar studies with representative samples from a wider geographical area.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Notes on contributors
+Sonia López Díaz-Villabella received a doctorate in Educational Research: Teaching and Learning from the University of Alicante with a qualification of summa cum laude. She works as a special education teacher and head of studies at C.E.I.P Enric Valor de Alicante and has presented papers in various national and international conferences related to emotional education.
+
+Raquel Gilar-Corbí received her PhD in educational psychology in 2002 and has been a lecturer in the Department of Developmental Psychology and Didactics at the University of Alicante, Spain, since 2003. She is currently the director of the Department of Developmental Psychology and Didactics. Dr Gilar has managed and participated in numerous research projects, both national and international. Her research interests are focused on intelligence, underachievement, high abilities, emotional intelligence, and teacher training.

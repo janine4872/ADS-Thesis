@@ -1,0 +1,441 @@
+This pilot study aims at evaluating the effectiveness and feasibility of the
+SMART-Resilience program for secondary school students. The control trial
+experiment design conducted involved a total of 72 secondary school students
+in the Province of Bali. Resilience data was obtained using the 14 items of
+Indonesian resilience scale. The six items of acceptability and feasibility
+questions on the Likert’s model was used to conduct the experimental group
+participant perception to the program, and an interview with the counsellor
+facilitator of the program. Data of the effectiveness of the SMART-Resilience
+intervention were analysed with ANCOVA and was performed by the JASP
+program. The results of this study showed that: (1) the SMART-Resilience
+of psycho-education showed consistent effectiveness in increasing the
+students resilience in one week and for weeks after these sessions were
+terminated; and (2) the program was positive and high feasibility from
+students and counsellor facilitator.
+Keywords: resilience; strengths based CBT; school counselling; innovation in counselling.
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+41
+INTRODUCTION
+The study of the factors that have contributed to student success in academia and life over the
+past few decades, has led to an understanding that in addition to preparing the students to be
+academically smart and to succeed optimally, students need skills beyond the academic
+substance learned in various subjects. During the previous decades, education in schools was
+considered too busy taking care of the cognitive side of students. Until finally several theories
+popped up and research results show the existence of other factors outside of cognitive or noncognitive factors that contribute more to success (Glewwe, Huang, & Park, 2011; Goleman,
+2001; Quieng, Lim, & Lucas, 2015). The cognitive aspects require students to acquire new
+knowledge, and the non-cognitive factors contribute significantly to student success in both
+life and academia (Durlak, Weissberg, Dymnicki, Taylor, & Schellinger, 2011).
+There are many of the various non-cognitive aspects that have been studied; resilience is one
+of them, whose existence is important for all students and young people (Boon et al., 2017;
+Campbell & Narayan, 2017; Castro-Olivo et al., 2013; Dray et al., 2011). Resilience basically
+over all aspects of social psychosocial and emotional is needed by students to develop healthy
+and have positive responses in dealing with various stressor situations (Suranata, Atmoko,
+Hidayah, Rangka, & Ifdil, 2017). Students are resilient at a good level, capable of dealing with
+all difficulties, stresses, even accustomed to turning difficulties into opportunities for success
+(Luthar, Cicchetti, & Becker, 2015; Mlcek & Pulla, 2014; Suranata, Atmoko, & Hidayah, 2017;
+Troy & Mauss, 2011). The concept of resilience that has developed over decades has provided
+a way to understand the positive development of children under difficulties, and the factors and
+processes that help children avoid dangerous, self-destructive or antisocial behaviour, mental
+disorders, and threats to welfare of their physicality (Ungar, 2015).
+The world of education and life that develops rapidly has an impact on changing situations and
+environmental demands that put pressure on students. Research by Lewinsohn, Hops, Roberts,
+Seeley, & Andrews (1993) show that there has been an increase in cases of depression about
+ten times more than in the last decade. More than 20% of adolescents were experiencing
+depression. The rise of news coverage in various media about teenagers and students showing
+inappropriate and destructive behavior shows that this phenomenon also occurs in Indonesia.
+This fact is inversely proportional to the prediction based on greater access to a more
+established and developed environment, more food, transportation, school facilities, and
+availability of entertainment and more support the mental health of students (Mongrain &
+Anselmo-Matthews, 2012), these factors would help.
+The highest prevalence for mental health problems tends to be among young people including
+the student population. Mental health problems which include depression, anxiety, and other
+emotional disorders can cause behavioural problems both at school and at home, increased risk
+behaviors, such as tobacco use, alcohol and drug use, underachievement at school, even
+criminal problems (Venkateswaran & Vincent, 2018). The low level of mental health shown
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+42
+by students in schools is related to the low success of the school in developing resilience and
+helping the psychological well-being of students (Sagone & Caroli, 2013). Dray et al (2011)
+stated that one of the highest risks that could threaten students' academic success was stress
+and depression. In carrying out academic tasks, students often face various difficulties that
+cause psychological obstacles and stress. Cutuli et al (2013) found that students who failed to
+overcome these difficulties and obstacles were students who were unable to actualise their
+resilience. Jiboye, Salaudeen, Adejumo, & Aikomo (2019) found that psychological resilience
+has correlation with the creativity and achievement of students in middle schools.
+The school program has a important role to support students developing the potential to achieve
+optimal self-development and independence in decision-making, overcome from stress and
+depression and to achieve resilience and well being (Ranatunga & Pagliano, 2017; Suranata,
+Atmoko, Hidayah, et al., 2017; Waters, 2011). The review of literature study by Moir, Yielder,
+Dixon, & Hawken (2018) noted that the model of developing well being in schools requires
+the support of all parties, from school administrators or principals, educators (teachers),
+including students as well as parents and the community. The study by Moir and his team
+suggested that collaboration between students and school staff was the key to the success of
+the well-being development program. In line with these findings, Mulloy (2011) in his study
+concluded that the fundamental thing that must happen in schools to develop resilience for
+students is to reduce the impact of risk on their lives, and to embed students in a supportive
+social network that increases their willingness to seek help from others, by growing students'
+self-awareness and ability to regulate their emotions, and by instilling students with selfconfidence and intrinsic motivation to achieve academic and life success.
+Several intervention models to improve mental health and wellbeing targeting adolescents and
+adults in the resilience paradigm have been developed. These models implemented in various
+countries in the world on a variety of interventions, excluded or integrated school curriculum
+education (Leppin et al., 2014; Waters, 2011). These interventions were focused on developing
+a variety of skills that could be used to avoid stress and depression to support students
+developing resilience and well-being. Empirical research summarised in a meta-analysis study
+found that resilience programs gained acceptance as part of the school curriculum to develop
+psychological resilience and well-being (VicHealth, 2015). This program is also used in
+overcoming problems with addiction to alcohol, tobacco, and cannabis (narcotics) among
+students (Hodder et al., 2011).
+Cognitive behavioral therapy (CBT) is a model that dominates the resilience intervention in the
+latest research (Lee, Cheung, & Kwong, 2012; VicHealth, 2015). CBT is the counselling and
+psychotherapy that focuses on thoughts and experiences that emphasise changing negative
+thoughts and maladaptive beliefs, developed by Beck (Suranata, Atmoko, & Hidayah, 2017).
+There are several resilience programs that have been developed and implemented in schools
+based on the CBT, such as the PRP: Penn Resilience Program (Brunwasser, Gillham, & Kim,
+2009a; Jane E Gillham, Brunwasser, & Freres, 2008a), through stress and depression
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+43
+intervention; the READY: Resilience And Activity For Every Day (Burton, Pakenham, &
+Brown, 2010), based on Acceptance and Commitment Therapy (ACT), which is an empirically
+based third generation of CBT; that is oriented to promote subjective well-being, and reduce
+symptoms associated with depression and stress that obtain high effectiveness from a recent
+study. The other model, FRIENDS (Barrett & Turner, 2001; Iizuka, Barrett, Gillies, Cook, &
+Marinovic, 2015), is also a CBT-based resilience intervention, that focuses on overcoming
+anxiety in promoting the psychological well-being of students. The adaptation of PENN
+Resiliency, READY, and FRIENDS each shows consistent results about the feasibility of the
+intervention program in helping students develop social and emotional abilities and overcome
+emotional disorders and other psychological problems.
+In contrast to the resilience interventions mentioned above, the SMART-Resilience Program
+evaluated in this study is a psycho-educational program that integrates CBT reliability with
+principles and procedures in strengths-based counselling. The development of SMARTResilience was inspired by the paradigm of positive psychology (Seligman, Ernst, Gillham,
+Reivich, & Linkins, 2009), which calls for the paradigm of psychotherapy and counselling that
+focuses on the problem, is no longer relevant, because the importance of seeing that each
+individual has a positive side can be the basis and focus of intervention. The strengths based
+counselling model (E. J. Smith, 2006; Elsie J Smith, 1973), which formulates how to help
+individuals recognise and empower individual sources of strength and external sources of
+social support to be the focus of assistance, rather than starting from the side of individual
+problems. Contribution of thoughts about Positive based CBT (F. P. Bannink, 2014; Fredrike
+P Bannink, 2013), inspired the integration of CBT with the paradigm of positive psychology.
+Our previous research recommendations note that there are broad opportunities to combine
+CBT with strengths based counseling for resilience interventions in school settings (Suranata,
+Atmoko, & Hidayah, 2017). This pilot study aims to evaluate the effectiveness and feasibility
+of the SMART-Resilience program for middle school students.
+METHOD
+The subject of the study
+A total of 435 high school students from four different schools were invited to fill in the
+resilience questionnaire. Using the matching sampling method, 72 students were selected to
+participate in the experiment; every 36 students were students at SMA N 4 Denpasar as a
+waiting list control group, and 36 students at SMA N 4 Singaraja as an experimental group.
+Experimental Design
+This pilot study conducted by the control trial experiment involved two groups, namely the
+experimental group that received treatment and the waiting list control was the group that
+waited for treatment after the experimental program was terminated. Involving a waiting list
+control in this design is related to the ethics of experimental research as mentioned by Elliott
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+44
+& Brown (2002). The experimental group participated in a counselling activity using the
+SMART-Resilience model for 10 sessions and was facilitated by two trained counsellors.
+While students in the waiting list control group during the experimental program did not receive
+special treatment, they waited to attend the SMART-Resilience counselling program in the
+following school semester. One week after ten SMART-Resilience sessions, i.e. in the eleventh
+week, both the experimental group and the waiting list control group were invited back to fill
+out the resilience questionnaire. The completion of the questionnaire for the follow-up test was
+given again in the fifteenth week or 4 weeks after the SMART-Resilience session ended. The
+recruitment and retention of participants in this study are shown in Figure 1.
+Figure 1. The experimental Procedure
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+45
+Instrumentation
+The assessment sessions were conducted in the classroom, in the week before, the week after
+for posttest, and the follow up test conducted in four week after the session, by the independent
+research assistants. Students are measured by 14 items of paper and pencil based on the
+Indonesian version of the resilience scale that is adapted from the Resilience Youth
+Development Module (Hanson & Kim, 2007). The property of the Indonesian version
+resilience scale reported by Suranata, Atmoko, & Hidayah (2017b) did well in validation and
+reliability for items and factors. There were five dimensions that were measured, namely: selfefficacy; self-awareness; problem solving skills; social skills; and goals. Respondents chose
+one of four alternative answers provided for each item, (1) absolutely not true, (2) slightly
+correct, (3) quite correct, and (4) very true.
+The participants in the experimental group filled out a questionnaire about the acceptability
+and feasibility of the SMART-Resiliency at the end of the session in six questionnaire items,
+namely as many as three items evaluating the acceptability and the other three evaluating
+feasibility. The statement was used to measure acceptability, namely; (1) all stages and
+procedures of the program can be understood properly; (2) the stages and techniques of
+counseling in the program are easily implemented; and (3) the techniques trained in the
+program can be repeated without the guidance of the facilitator. While statements to measure
+program feasibility include; (4) I am able to develop a better mindset after participating in the
+program; (5) I am able to develop more comfortable feelings and emotions after participating
+in the program; and (6) I am able to develop more effective behaviour after participating in the
+program. This questionnaire was developed with a Likert’s Scale model with five response
+choices; from strongly agree (5) to strongly disagree (1). At the end of the session, the
+counsellor who facilitated the SMART-Resilience program was involved in an interview to
+reflect on how the program responded to it, as well as the difficulties or constraints experienced
+during the program.
+Intervention Procedure
+The Smart Resiliency developed by integrating CBT and strengths-based counseling : The
+Smart-Resilience program is taken from five stages of implementation of this model, namely
+(1) Source your strength, which trains students to identify and find the resources they have
+(internal and external); (2) Manage yourself, which is a step to manage the resources of students
+including thoughts, time and so on; (3) Actuating Potential, is a step to implement the resources
+of students to achieve psychological well-being; (4) Remember The God, is steps to train
+students to improve their spiritual side; and (5) Take your dream, is the last step to develop
+optimism, hope, and motivation to achieve goals and aspiration.
+The program contains 10 modules, and sessions including psycho-education, discussion,
+experiential exercises, and structured learning and practice activities. Session topics include an
+introduction to the SMART-Resilience model and the implementation of the technique. There
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+46
+are seven techniques used in this model, which include: (1) drawing and stories, students paint
+themselves by highlighting their self-strengths or potential from inside and from their
+environmental social support; (2) the cognitive restructuring and positive affirmation, in which
+students manage their beliefs and emotions, through recognising and discovering negative
+thoughts and emotions, stopping negative thoughts and emotions, and replacing them with
+more adaptive forms of thoughts and emotions (Pelusi, 2016); (3) self-management, in which
+students manage themselves as a whole, from the time and facilities owned, including their
+social support and finance. Self-management is implemented by students with a personal
+logbook and they noted their activities, in use of time, infrastructure, social support and finance.
+The logbook was discussed and evaluated weekly with a peers group and their school
+counsellors; (4) the problem solving training is a technique intended to teach students to make
+the right decision based on the best solution they have; (5) the social skills training is a
+technique to improve the quality of problem solving related to social conflict. This technique
+is implemented using the socio-drama method; (6) the miracles questions, and success chair
+are techniques adapted from solution focused brief therapy (Dameron, 2016; Kim & Franklin,
+2009); and (7) the mindfulness techniques was integrated in the tradition of cognitive behaviour
+therapy (Cherkin et al., 2016).
+Data Analysed Procedure
+A descriptive analysis of each questionnaire item about acceptability and feasibility is
+presented in a percentage, and the results of interviews with counsellor facilitators and students
+are presented with narratives. The description and narrative focus on the level of acceptability
+and feasibility of the SMART-Resiliency program based on the perceptions of students and the
+program facilitator counsellors. Testing the effect of the SMART-Resilience Intervention was
+done by comparing the results of the measurement of resilience variables in the experimental
+group that followed the SMART-Resilience program with the waiting list control. The impact
+was observed at two savings, or often referred to as repeated observations (Field, 2009), which
+was one week after the intervention session in the experimental group and was complete four
+weeks after the intervention. The test used the formulation of the General Linear Model (GLM)
+2 x 2 repeated measures analysis of covariance. This RM-ANCOVA analysis used 2 groups
+(the experimental group and the waiting list control group) and 2 observation times (posttest
+and follow-up), while the pretest score was used as a control variable (covariate). The
+Sphericity correction value, through Greenhouse-Geisser, was seen to assess the impact of the
+treatment between time, posttest, and follow-up. As covariates, the effect of pretest interaction
+with groups was also considered in considering the homogeneity of regression slopes. The
+effective size of the partial eta squared was reported for each effect and each parameter estimate
+(Chien, 2008). Comparisons of adjusted mean resilience in the two groups were corrected by
+the Bonferroni test. All of the analysis was conducted using JASP V. 0.10. Analysis program
+(Goss-Sampson, 2019), and the significance level used was 0.05 (Hair, Black, Babin, &
+Anderson, 2010).
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+47
+RESULTS AND DISCUSSION
+The Acceptability and Feasibility
+Of the 36 students assigned to take part in the SMART-Resilience program, only 31 students
+took part in full. Two students only took part in six out of ten sessions because of health care,
+and the other three only took part in seven activities because they took part in the competition
+to become a school representative. The response of students who filled the acceptability and
+feasibility questionnaires was very positive. As many as 29 out of 31 (93.50%) responded
+strongly agree on the first item about acceptability, which meant that all stages and procedures
+of the program could be understood very well. While the other two (6.50%) responded by
+agreeing, which means they understood all the stages and procedures of the program quite well.
+As many as 26 out of 31 (83.87%) students agreed strongly that the stages and counselling
+techniques in the program were easy to implement, two people (6%) stated that they were quite
+easy to implement, and three others (10%) stated that they were difficult to implement. In the
+third item, 25 (81%) students stated that they could repeat the techniques that were trained quite
+well without the facilitator, while six (19%) were unable to repeat themselves without the
+guidance of the facilitator (counsellor). While three other items about feasibility also received
+a positive response. In the fourth, fifth and sixth items in a row as many as 24 (77%) stated that
+they strongly agreed that after joining the SMART-Resilience program, thoughts, feelings,
+emotions and new behaviour were better and more effective. The other four (13%) stated that
+they had been able to obtain more positive thoughts and feelings or emotions, and the other
+three (10%) stated that they agreed after taking part in the program to get better thoughts. Two
+counsellors who became facilitators of the activity also gave positive responses. They stated
+that some technical procedures were quite complicated for high school students, such as
+cognitive restructuring and reframing techniques, mindfulness techniques, also miracle
+questions and success chairs that needed repeated explanation and simulation for each
+participant. The facilitator also stated that ten sessions for 45 minutes for the whole program,
+by implementing the seven techniques, was limited time. For better understanding for
+participants, they suggested the need for more sessions and longer periods.
+The effect of SMART-Resilience to Psychosocial Resilience
+The descriptive statistical results of the measurement in an overall group in table 1 showed a
+consistent increase in the experimental group, from measurement pretest, posttest and follow
+up test. While in the waiting list control group, their average resilience moved lucratively,
+increasing slightly from pretest to posttest, but returned to the follow-up test.
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+48
+Table 1. Descriptive of Resilience before and after Intervention
+Time Group M (Sd)
+Pretest Experiment (n=31) 29.77(3.02)
+Waiting list control (n=36) 29.08(1.71)
+Posttest
+Experiment (n=31) 45.77(3.06)
+Waiting list control (n=36) 31.81(2.90)
+Follow up
+Experiment (n=31) 47.97(1.33)
+Waiting list control (n=36) 29.83(1.83)
+Table 2 showed the results of effect and interaction effect of every factor sources in this study.
+The between subject comparison results showed the main effect of group was significant F
+(1,64)=1363.01, p< .05, with very large effect size on Ƞ2partial= .96. The main effect of the
+pretest was also significant but really low in effect size. These results indicated that there are
+differences in resilience between groups of students who take the SMART-Resilience program
+and the waiting list control group. The difference in initial resilience scores turned out to be
+chaotic, but weak when seen from the size of the effect size. Nevertheless, the influence of the
+pretest score was still taken into account, so it was very appropriate to involve it as covariates.
+So that the bias of differences that occurred due to differences in pretest could be controlled
+(Field, 2009).
+
+Table 2 also showed that the main effects of time (posttest and follow up test) was significant
+by F (1,64)=10.61, p<0.05, with effect sizes on Ƞ2partial =0.14 was medium. Interaction effect
+of time and group was also significant by F (1,64)= 37.99,p<0.05, with large effect size by
+Ƞ2partial = 0.37. The Interaction effect on time and pretest was also significant at F (1,64)=
+10.52, p<0.05, with medium effect size Ƞ2partial=0.14. These results indicated that there were
+differences in resilience between groups of students who took the SMART-Resilience program
+and the waiting list control group. The difference in initial resilience scores turned out to be
+chaotic, but weak when seen from the size of the effect size. Nevertheless, the influence of the
+pretest score was still taken into account, so it was very appropriate to involve it as covariates.
+So that the bias of differences that occurred due to differences in pretest could be controlled.
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+49
+Table 2. Repeated Measure ANCOVA Results on Within and Between Subjects Effects
+Sources Sum of
+Squares df MNSQ F p η²p
+Within Subjects Effects
+Time 46.25 1 46.25 10.61 < .05 .14
+Time*Group 165.66 1 165.66 37.99 < .05 .37
+Time*Pretest 45.85 1 45.85 10.52 < .05 .14
+Residual 279.06 64 4.36
+Between Subjects Effect
+Group 8255.98 1 8255.98 1363.01 < .05 .96
+Pretest 32.46 1 32.46 5.36 < .05 .08
+Residual 387.66 64 6.06
+Note. Type III Sum of Squares.
+In table 3, the post hoc comparisons between posttest and follow up test of resiliency
+measurement was not significant by Bonferroni correction test, t = .10, >.05. But the
+comparison between the experiment and waiting list control group showed the significant
+difference, the mean deference = 15.91, on t = 36.92, p< .05, and effect size by Cohen’s d =
+4.51, was strengths (Goss-Sampson, 2019). The results of this comparison showed that after
+being controlled by the pretest, the experimental group that had participated in 10 SMARTResilience sessions had a higher resilience rate than the waiting list control. The comparison
+of posttest and follow-up test was significant but with a very small effect size which showed
+that from the measurement (posttest), i.e. a week after the session ended until four weeks after
+the session ended (follow up test), the resilience of the experimental group students consistently
+increased, but not the groups’ waiting list control. The analysis results in Tables 1, 2 and 3
+proved that the SMART-Resilience intervention had the effect of increasing student resilience,
+both immediately after the session had ended and some time after the session had ended.
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+50
+Table 3. Post Hoc Comparisons on Time and Groups
+Comparisons
+sources
+Mean
+Difference SE t Cohens’s d P bonf
+95% Confidence
+interval for
+Difference
+lower (upper)
+Posttest Vs.
+Follow up test
+.04 .46 .10 .01 > .05 -.88 (.96)
+Experiment
+Vs. Waiting
+list control
+15.91 .43 36.92 4.51 < .05 15.05 (16.77)
+Before being implemented in a wider population, the effectiveness and feasibility of the
+SMART-Resilience program of this model needed to be evaluated, so it could be seen whether
+this technique was very important. By the points of this examination, the results confirmed that
+the Smart-Resilience program fulfilled it as a feasible and effective program. The results of this
+study proved that SMART-Resiliency showed the effectiveness and feasibility that was
+adequate for secondary school students. Students consistently maintained high resilience even
+after four weeks of school sessions under the guidance of a facilitator (counsellor). This
+happened because most of them continued to implement the techniques that had been trained
+during the session without the guidance of the facilitator. Most of the students who participated
+in the session stated that they were able to understand and apply the stages and techniques of
+SMART-Resilience, both during the session and after the session was ended. They could do
+the techniques themselves without the guidance of the counsellor facilitator. In terms of
+feasibility, most students had stated that they could obtain more positive thoughts, feelings, and
+emotions that were more comfortable and healthier, and have more productive behavior.
+Although some students, who were very small in number (around 10%), stated that there had
+been a change in thinking and emotional patterns. These students are those who were less than
+optimal in understanding and applying the stages and techniques of SMART-Resilience. This
+was in line with the statement of two counsellors who facilitated the activity and also gave a
+positive response, in line with the responses given by students. The facilitator provided some
+meaningful input on improving the implementation of this intervention program further.
+Among them, it was necessary to consider more time, as well as caution in providing
+simulations individually for participants.
+The results of this study are consistent with several past investigations that have shown the
+adequacy of the psycho-education counselling model used to build strength among successful
+students or young people. Among them are studies of PRP in several countries which have
+generally been proven effective (Brunwasser & Gillham, 2016; Brunwasser, Gillham, & Kim,
+2009b; Cardemil, Reivich, Beevers, Seligman, & James, 2007; Cutuli, Chaplin, Gillham,
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+51
+Reivich, & Seligman, 2006; J E Gillham et al., 2007; Jane E. Gillham et al., 2012; Jane E
+Gillham, Brunwasser, & Freres, 2008b; Peng et al., 2014; Sankaranarayanan & Cycil, 2014)
+the efficacy of the READY Program (Burton et al., 2010), and efficacy of th Friends Program
+(Cooley-Strickland, Griffin, Darney, Otte, & Ko, 2011; Essau, Conradt, Sasagawa, &
+Ollendick, 2012; Matsumoto & Shimizu, 2016; Pereira, Marques, Russo, Barros, & Barrett,
+2014; Ruttledge et al., 2016; Stallard, 2010). The series of studies have shown that socioemotional oriented PRP, Ready and Friends psycho-education programs with a focus on
+handling stress, depression, and forms of emotional disturbances in students and youth as an
+established model, have been tested longitudinally in several years and with populations in
+some countries.
+Instead of modifying established psycho-educational and socio-emotional learning programs,
+the SMART-Resilience program focuses on understanding the improvement of positive
+attributes of students' psychological conditions. Therefore the findings of this study can be used
+as support to build appropriate counselling or therapeutic models in the psychology of cognitive
+behavior that is strength-oriented. Compared with only managing psychological problems or
+difficulties, but also developing positive aspects of students, for example, resilience, happiness,
+and psychological well-being (F. P. Bannink, 2014; Padesky & Mooney, 2012; Seligman et al.,
+2009). The SMART-Resilience Model provides answers to questions that have arisen from the
+results of previous studies about comparing the effectiveness of cognitive-behavioral
+counseling and strengths-based counseling by Suranata et al. (Suranata, Atmoko, & Hidayah,
+2017b). Although both models are equally effective, the study recommends integration
+between the two models as an eclectic model. Based on the recommendations of the research
+results, to complete each of the two limitations, both models need to be completed. This can be
+seen from the good acceptance of this SMART-Resilience model from participating students
+and also school advisors who facilitate students to implement the program. Involving a wider
+population with a more diverse distribution of characteristics and demographics needs further
+testing of the SMART-Resilience model. Future studies need to pay attention to some
+limitations of the results of this study, such as limited respondents, and with less diverse
+characteristics from demographic dimensions and age levels. Testing students in various levels
+of education, including in tertiary institutions, will be very useful in evaluating whether all the
+techniques used in the SMART-Resilience model are feasible at all levels of students. It also
+includes looking at gender factors that are very important in psychological interventions. It is
+very important and will be more beneficial for the development of this model if further studies
+are to test each procedure and technique separately, instead of evaluating only the whole
+program.
+CONCLUSION
+The results of this study indicate that SMART-Resilience is an effective model and receives
+positive acceptability and feasibility as a psycho-education model for students. The results of
+testing the impact of this program showed an effect, with a high and consistent effect size after
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+52
+the session was terminated and four weeks after the session was terminated. Students
+participating in the program showed positive responses. Most of them stated that they were
+able to understand and implement the procedures and stages of the SMART-Resilience module
+during ten meeting sessions. Most of them also claimed to be able to independently practise
+the techniques in this model outside of session meetings. By joining the program, students state
+their ability to change less rational thinking into more positive ones and disturbed emotions
+into a more comfortable and healthier form of emotions, and patterns of positive and productive
+behaviour. The program facilitator counsellor also conveyed a response that was in line with
+that. To implement this program in other wider populations, it is important to note some
+findings related to obstacles in implementing the program experienced by the facilitator, which
+are related to the need for more time and sessions, as well as giving wider opportunities for
+each participant to simulate each technique being trained. Testing the impact of other factors
+that can affect the results also needs to be investigated in further research.
+International Journal of Innovation, Creativity and Change. www.ijicc.net
+Volume 5, Issue 5, Special Edition: ICET Malang City, 2019
+53
+REFERENCES
+Bannink, F. P. (2014). Positive CBT: From reducing distress to building success. Journal of
+Contemporary Psychotherapy, 44(1), 1–8. https://doi.org/10.1007/s10879-013-9239-7
+Bannink, Fredrike P. (2013). Are you ready for positive cognitive behavioral therapy? Pozitif
+bilişsel davranışçı terapiye hazır mısınız? The Journal of Happiness & Well-Being, 1(2),
+65–73. Retrieved from
+http://www.journalofhappiness.net/frontend/articles/pdf/v01i02/A

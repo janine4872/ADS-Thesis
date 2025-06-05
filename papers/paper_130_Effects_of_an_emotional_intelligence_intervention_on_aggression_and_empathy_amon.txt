@@ -1,0 +1,203 @@
+ABSTRACT
+The aim of this study was to explore the effects of a two-year intervention grounded in the ability model of emotional intelligence (EI) on aggression and empathy among adolescents. Eight Spanish public schools volunteered to participate in the research. A total of 590 adolescents (46% boys) were randomly assigned to either the EI training group or control group conditions. Students in the EI training group reported lower levels of physical/verbal aggression, anger, hostility, personal distress and fantasy compared to students in the control group. Additionally, the EI program was particularly effective for males' empathic abilities. These findings confirm the effectiveness of social and emotional learning interventions in Spanish academic contexts and extend the literature of gender-related differences during adolescence. Study limitations and future research directions are also considered.
+
+Highlights
+
+We examine the effect of an EI program in Spanish high school settings.
+The EI program decreases aggressive behavior among adolescents.
+The EI program enhances empathy among adolescent males.
+Results on empathy vary according to gender.
+Introduction
+Aggressive behavior and interpersonal conflicts among children and youth continue to be common problems in educational systems across the globe (Dinkes, Kemp, & Baum, 2009). Aggression is widely defined as “a response that delivers noxious stimuli to another organism” (Buss, 1961). Manifestations of aggression are linked to several aspects of psychosocial maladjustment or mental disorders and are negatively associated with prosocial behavior and adaptive social functioning, especially during adolescence (Card, Stucky, Sawalani, & Little, 2008; Kaltiala-Heino, Rimpelä, Rantanen, & Rimpelä, 2000; Loeber & Hay, 1997). As a result, aggressive behavior in high school settings leads to a significant decline in school climate and, consequently, reduces the quality of teaching and learning therein (Furrer & Skinner, 2003; Kaplan, Peck, & Kaplan, 1997).
+
+During adolescence, one factor that buffers against aggression is empathy, defined as both the cognitive and affective substrates of “sharing” others' negative experiences (Davis, 1983). Associations between aggression and empathy are well documented, especially among the young population (Escrivá, García, & Navarro, 2002; Gini, Albiero, Benelli, & Altoe, 2007; Kaukiainen et al., 1999; Mehrabian, 1997; Miller & Eisenberg, 1988; Richardson, Hammock, Smith, & Gardner, 1994; Sanmartín, Carbonell, & Baños, 2011). In addition, adolescents' empathic abilities have been negatively associated with relational peer victimization, social problems, and internalizing disorders, such as depression (Gleason, Jensen-Campbell, & Ickes, 2009). Therefore, empathy plays an important role in the promotion of psychological and social adjustment in youth.
+
+Emotional intelligence
+Adolescents who frequently engage in different forms of aggressive behavior may lack the ability to identify and regulate the negative emotions that are often central to aggression (Peled & Moretti, 2007). These abilities fall under the umbrella of emotional intelligence (EI). EI, as defined by Mayer and Salovey (1997), is composed of the following four component abilities: a) the ability to perceive, appreciate and express emotions accurately; b) the ability to access and/or generate feelings that facilitate thought; c) the ability to understand emotions and emotion-related knowledge; d) the ability to regulate emotions to promote emotional and intellectual growth. EI influences the development of socially competent behaviors (Mayer, Roberts, & Barsade, 2008). EI is negatively associated with aggressive and disruptive behaviors in youth (Brackett, Mayer, & Warner, 2004; Davis & Humphrey, 2012; Kokkinos & Kipritsi, 2012; Lomas, Stough, Hansen, & Downey, 2012; Mayer et al., 2008; Moriarty, Stough, Tidmarsh, Eger, & Dennison, 2001) and positively related to empathy, the establishment of personal relationships and satisfaction with one's social network (Ciarrochi, Chan, & Caputi, 2000; Mayer, Caruso, & Salovey, 1999). Hence, students who are better able to perceive, understand and manage their emotions are less likely to engage in aggressive behaviors and show more emotional awareness, which may elicit a better understanding of self and others' emotions and consequences of their behaviors.
+
+Bearing these findings in mind, EI may play an important role in the reduction of aggression and the promotion of empathic abilities. Indeed, the abilities to recognize, understand and regulate one's own and others' emotions enhance the development of conflict resolution skills and are related to more positive and healthy social relationships (Brackett, Rivers, & Salovey, 2011).
+
+Benefits of emotional intelligence interventions
+There is a growing literature supporting the effectiveness of programs that promote emotion-related abilities among youth (see Durlak, Weissberg, Dymnicki, Taylor, & Schellinger, 2011, for a recent meta-analysis). These initiatives are commonly called Socio-Emotional Learning (SEL) interventions and appear to offer promising benefits, including the reduction of aggressive behaviors and the fostering of socio-emotional skills and mental health. Regarding initiatives grounded in the ability model of EI (Mayer & Salovey, 1997), previous work has reported that students who received EI instruction had a more positive classroom climate (Rivers, Brackett, Reyes, Elbertson, & Salovey, 2012) and fewer clinical symptoms, including anxiety, social stress, and depression, than students in the control group (Ruiz-Aranda, Castillo, Salguero, Cabello, Fernández-Berrocal, & Balluerka, 2012; Ruiz-Aranda, Salguero, Cabello, Palomera, & Fernández-Berrocal, 2012).
+
+The role of gender
+Given the documented influence of gender on social, cognitive, and emotional development, gender differences on aggressive behaviors and empathy should be considered (Baxendale, Cross, & Johnston, 2012). Past research suggests that boys tend to express more anger and display more direct aggressive behaviors (e.g., physical fighting), whereas females tend to demonstrate aggression in indirect ways, such as social rejection (Card et al., 2008). With regard to empathy, adolescent girls appear to possess more of the cognitive and emotional components of empathy than boys (Brown & Gilligan, 1992; Davis, 1983; Eisenberg, Miller, Shell, McNalley, & Shea, 1991; Escrivá, Navarro, & García, 2004; Pérez-Albéniz, de Paúl, Etxeberría, Montes, & Torres, 2003). In addition, recent evidence has shown that adolescent males engage in more bullying behaviors because they are less empathic than females (Topcu & Erdur-Baker, 2012). Based on documented gender differences, it is expected that the benefits of SEL interventions vary depending on students' individual characteristics (Durlak et al., 2011; Taylor, Liang, Tracy, Williams, & Seigle, 2002). Thus, the benefits that these interventions confer on students may depend on gender vulnerability to certain outcomes.
+
+The present study
+According to the literature, SEL interventions have a positive influence on several indicators and predictors of social functioning. However, the most recent meta-analysis on SEL interventions (Durlak et al., 2011) raises several questions in the literature. First, there is a lack of results for the adolescent population; only 13% of studies examined the effectiveness among secondary students with interventions implemented in high school settings. Second, there is a lack of SEL evidence outside of the US; most SEL evidence is based on American studies (83% of the existing literature), which makes it difficult to test their generality worldwide. To fill these important gaps in SEL initiatives, we aimed to test the effectiveness of a two-year EI training in Spanish settings with the INTEMO program on adolescents' outcomes and examine the degree to which the intervention's effectiveness differed by gender. We hypothesized the following: (1) the INTEMO program would contribute to the reduction of various indicators of aggression, including instrumental and emotional components of aggression, enhance the empathic abilities positively related to social competence (empathic concern and perspective taking), and reduce the abilities negatively associated with such competence (fantasy and personal distress); (2) given the documented differences favoring socio-emotional development among adolescent girls, benefits from the INTEMO program would be higher among adolescent boys because they have more room for improvement in socio-emotional aspects of empathy than their female counterparts.
+
+Material and methods
+Participants
+The participants were middle and high school students from eight public schools located in three Spanish cities with complete and valid data on self-report aggression and empathy. The research team organized several meetings with school principals to present the project. Eight public schools voluntarily participated in the research. First, location was taken into account. Then, at least two schools within each city served as experimental or control group. During the two academic years of the project, we lost 15.75% of the sample because several students changed their classroom or left the school (8.38% were in the experimental condition and 7.29% were in the control condition). Therefore, this study included a total of 590 adolescents (269 males and 321 females) aged between 11 and 17, with a mean age of 13.83 years (SD = 1.50). From this sample, 361 students were randomly assigned to the EI training group and 229 students were assigned to the control group (school regular tutoring lessons). School administrators and staff were informed of the nature and purpose of the study. The research study protocol was approved by the Technical Council of the Ethical Committee of the University of Malaga.
+
+Design
+This study was carried out using a quasi-experimental, pre-test–post-test design with a control group. Baseline data were collected in September 2008 in 1-h sessions during regularly scheduled classes for both the EI training and control groups. The two-year EI training (INTEMO program) was applied from January to June of the 2009 and 2010 academic years. For each year, the INTEMO program consisted of twelve 1-h class sessions distributed across six months. Finally, post-test data were collected in December 2010, approximately six months after the final INTEMO session (see Appendix A for the study timeline).
+
+Instruments
+Aggression: The Spanish version (Rodríguez, Fernandez, & Gomez, 2002) of the Aggression Questionnaire (AQ; Buss & Perry, 1992) is a well-validated self-report technique for measuring aggression among adolescents. Students rated the 29 items of the AQ on a five-point Likert scale (1 = extremely uncharacteristic of me to 5 = extremely characteristic of me), which is broken down into four subscale/factor scores. The physical and verbal aggression factors, composed of nine and five items, respectively, measure the instrumental/behavioral component of aggression, such as hurting or harming others. The anger factor, composed of seven items, assesses physiological arousal and preparation for aggression, the emotional component of aggression. The hostility factor, composed of eight items, evaluates feelings of ill and injustice, the cognitive component of aggression. In Spanish samples, physical aggression, verbal aggression, anger and hostility have shown moderate to strong internal consistency, with values ranging from α = .68 to .86 (Rodríguez et al., 2002). In the current sample, alpha reliability levels for both pre-test and post-test evaluations ranged from α = .64 to .85.
+
+Empathy: The Spanish version (Pérez-Albéniz et al., 2003) of the Interpersonal Reactivity Index (IRI; Davis, 1983) measures empathy under a multidimensional perspective. The measure is composed of 28 items, with two cognitive and two emotional scales. The two cognitive scales are perspective taking, which assesses the tendency to adopt others' point of views, and fantasy, which assesses the tendency to transport oneself imaginatively into fictitious characters and experience their emotions. The two emotional scales are empathic concern, which measures feelings of sympathy and concern for others, and personal distress, which measures feelings of fear, apprehension and discomfort at witnessing the negative experiences of others. The items are rated on a five-point Likert scale (1 = does not describe me at all to 5 = describes me very well). The alpha coefficients for Spanish adolescent samples range from α = .56 to .70 (Escrivá et al., 2004). In the present sample, the reliability for both pre-test and post-test evaluations ranged from α = .43 to .68.
+
+EI training: the INTEMO program
+The EI training used in this research is called the INTEMO program (Ruíz-Aranda et al., 2013). The INTEMO program is based on a body of evidence that the development of skills associated with perceiving, facilitating, understanding and regulating emotions are important for positive development in both students and adults (Brackett et al., 2011; Mayer et al., 2008). In the current research, the EI training lasted two years and involved 12 sessions of 1 h for each academic year. The INTEMO program was carried out in academic hours officially designated for tutorial lessons. The primary objective of the training was to enhance the following EI abilities: (1) accurate perception, appraisal, and expression of emotions; (2) awareness of feelings and ability to generate emotions to facilitate thought; (3) understanding of emotions including the ability to label them with a rich emotional vocabulary; (4) regulation of emotions in order to promote emotional and intellectual growth (see Table 1). The INTEMO program was designed in accordance with current classroom instruction techniques. Students were asked to participate in work groups. For each EI class session, students were divided into groups and asked to engage in emotion-focused activities, including games, role-playing, art projects, film forums, and reflective activities. The students within each group differed from one class session to the next. This procedure was intentionally chosen to create opportunities for all students to interact with the whole class and to promote cooperation and positive peer interactions. The complexity of the program activities varied according to grade level such that the program was adapted to students' maturation and allowed for the gradual introduction of more complex emotional content at each successive grade level (see Appendix B).
+
+Table 1. Overview of four examples activities in the INTEMO program.
+Perception, appraisal and expression of emotion
+Activity: “guess who”
+Description: this activity aims to improve the accuracy of perceiving one's and others' emotions.
+Procedure: students are asked to work in groups to identify the emotions shown in specific pictures and deducing some emotional clues in hypothetical scenarios, according to theoretical evidences.
+Supplementation activities: stories, theater, human sculptures or art, learning to recognize emotional expressions through images, art, music or play cards. Students are asked to collect pictures, landscapes, news, articles, etc. representing emotions that we previously assigned to every group. Groups can create artworks, scenarios or newspapers in which each student exemplifies specific emotions and explains why it is represented. This lesson is completed with a debate of specific cues of emotional expression related to the full range of emotions.
+ 
+Emotional facilitation of thinking
+Activity: “the power of feelings”
+Description: knowing about the emotions' function and effectively using them according to our goals
+Procedure: in this activity, we induce different type of emotions through music, poems, stories, etc. The classroom is divided into two teams. Then, they debate and brainstorm the meaning of several uncertain questions or abstract designs. We score the number of responses and show them how useful emotions are in our daily life activities. We create structured debates to discuss how emotions are useful and why.
+Supplementation activities: reflective activities, learning how emotions drive attention, learning, decision-making and creativity. Students are given a sheet with different hypothetical scenarios and they must choose what emotions can encourage the effective resolution of a determined situation. We end the lessons by introducing the comprehension of causes and consequences of emotions.
+ 
+Understanding and analyzing emotions and employing emotional knowledge
+Activity: “emotional party”
+Description: improvement of effective emotional communication and understanding of emotional processes
+Procedure: for this activity, the trainer displays a great amount of emotional vocabulary according to seven emotional families (e.g., happiness, sadness, fear, anger, disgust and shame). Students must match every emotional word according to its meaning into the appropriate emotional family.
+Supplementation activities: Password, Taboo, Scrabble, Bingo or creativity tasks, Following literacy-based games instructions, students are asked to guess different emotional words according to their definition/antonyms/syllable or vice versa. Additionally, students are given different emotional words according to their age (e.g., proud, guilt, jealousy, frustration, curiosity, etc.) and are requested to create a short-film, poem or literacy-work and explain why characters in the story feel that way, the evolution of their emotions, distinguish between simple and complex emotions, and the consequences of particular emotions.
+ 
+Reflective regulation of emotion to promote emotional and intellectual growth
+Activity: “matching emotion regulation strategies”
+Description: building a repertory of effective regulation strategies and encouraging optimal social interactions
+Procedure: for this activity, we debate with our students the full range of effective and ineffective regulation strategies and discuss how and why effective regulation is important. Students are assigned an emotion and they are asked to think about situations that have made them feel well and note what strategies have been used to reduce, avoid or increase such emotions. Then, they are asked to fit the regulation strategies into four quadrants composed of two axes (Axe1: Coping–Avoidance; Axe2: Thought–Behavior)
+Supplementation activities: regulation box, video forum or role-playing. For every classroom, we create a “box” where students should organize everyday regulation strategies according to different criteria. Then, we brainstorm and discuss effective regulation strategies according to different situations and characters represented in different films or role-playing. Additionally, every week, we choose different students to be in charge of notifying real challenging situations in the classroom along the week and explain/discuss how these situations have been managed and why.
+Control condition
+During the two academic years of the intervention, students in the control group received the usual tutorial lessons that are officially designed by Spanish Government for the whole academic community in the country. These lessons are mandatory and aim to provide a comprehensive education for secondary students. In every classroom, a tutor is assigned to guide the lessons during each academic year with specific curricular materials. These tutorial programs are composed of several lessons that require students' personal and group reflections on the structured issues. Contents that typically compose these tutorials include classroom organization and climate, coordination with students' families, study techniques, self-assessment, self-esteem development, drug-use prevention, education in moral values, affective-sexual education, academic and professional counseling, and development of social skills. For the present study, we randomly selected students from the same school and a different school for the control condition. The control students received the regular tutorials during the EI intervention period.
+
+Quality assurance
+Because we were at a first stage of validation of the EI program and to ensure that the program was implemented with highest fidelity, a total of 13 psychologists who were not staff at the participating schools instructed the program. Overall, every trainer received 16 h of formal instruction of the INTEMO program and 6 h of coaching per academic year. Trainers participated in a two-day course (8 h/day) in which they received program materials and learned how to conduct program activities. All of the trainers were psychologists and were provided with detailed lesson plans and literature related to EI theory to ensure a consistent approach in the implementation of the lessons. The first day of the trainer course focused on the program implementation and development, and the second day focused on practicing different activities through role-playing and problem-solving forums to address concerns about the program's execution. Each trainer was assigned to conduct the program in the same school for the entire academic year. To ensure a high quality of implementation, trainers' attendance at the schools was tracked. The coordinator of the project had 10–12 weekly meetings (30 min each) with every trainer throughout the year to provide support for any difficulties encountered and ensure optimal and reliable implementation of the training. Additionally, classroom teachers were asked to remain in the classroom during the implementation of the INTEMO program.
+
+Satisfaction with INTEMO
+Student reports were used to assess the level of satisfaction with the program during the first academic year. Students in the EI training group rated their interest in the contents, their beliefs about what they and their classmates had learned, their satisfaction with the lessons and the trainer, and the extent to which they enjoyed the program using a seven-point Likert scale (1 = not at all to 7 = a lot). Finally, students provided an overall opinion of the program, indicating how much they enjoyed each of the program activities. This information was used to continue developing the second year of the INTEMO program intervention.
+
+Data analysis
+To examine the effects of EI training and gender on student outcomes, data were analyzed using SPSS software (version 18.0). Multivariate Analysis of Covariance (MANCOVA) tests were conducted separately for aggression and empathy, with the EI training and gender as independent variables and age and pre-test scores as covariates. Aggression contained four indicators, physical, verbal aggression, anger and hostility. Empathy also had four indicators, fantasy, perspective taking, empathic concern and personal distress. Effects sizes for mean comparisons between EI training and control groups were computed for each of the dependent variables using r index. Furthermore, paired sample t-tests were conducted for aggression and empathy variables to analyze the change from pre-test to post-test in each sample (EI training group and control group).
+
+Results
+Descriptive analyses and randomization
+Table 2 summarizes the means and standard deviations at each time point (pre-test and post-test) for both groups (EI training and control). To ensure that randomization was effective, baseline data from the two groups were compared. At pre-test, results of multivariate analyses of variance yielded no significant group differences in aggression, Wilk's lambda (4, 586) = .68, p = .607, or empathy scores, Wilk's lambda (4, 586) = .85, p = .495.
+
+Table 2. Pre- and post-test means and standard deviations for the EI training and control groups and paired sample t-tests.
+Pre-test	Post-test	t (df)	r
+M	SD	M	SD
+Control group
+Aggression
+Physical aggression	2.47	.84	2.53	.85	−2.26 (228)	.14
+Verbal aggression	2.58	.78	2.71	.77	−2.54* (228)	.16
+Hostility	2.77	.74	2.75	.71	.51 (228)	.03
+Anger	2.72	.73	2.72	.70	.01 (228)	.01
+Empathy
+Fantasy	2.82	.67	3.06	.66	−5.15** (228)	.32
+Perspective taking	3.14	.60	3.19	.64	−.99 (228)	.06
+Emphatic concern	3.60	.55	3.54	.59	1.48 (228)	.10
+Personal distress	2.71	.63	2.70	.60	.16 (228)	.01
+ 
+EI training group
+Aggression
+Physical aggression	2.36	.84	2.29	.85	1.58 (360)	.08
+Verbal aggression	2.50	.81	2.57	.71	−1.50 (360)	.09
+Hostility	2.70	.75	2.49	.72	4.72** (360)	.24
+Anger	2.66	.72	2.56	.71	2.61** (360)	.14
+Empathy
+Fantasy	2.87	.68	2.97	.65	−2.40* (360)	.12
+Perspective taking	3.11	.58	3.26	.63	−3.90** (360)	.20
+Empathic concern	3.59	.62	3.59	.57	−.3 (360)	.01
+Personal distress	2.66	.68	2.59	.65	1.69 (360)	.09
+*p ≤ .05; **p ≤ .01.
+Satisfaction with INTEMO
+On average, students reported that they were highly interested in the contents of the lessons (M = 5.33, SD = 1.50), (M = 5.35, SD = 1.56). They also rated that their classmates learned from the program (M = 4.63, SD = 1.66). They reported that they were satisfied with the lessons (M = 5.48, SD = 1.55) and the trainer who implemented the lessons in their classrooms (M = 6.27, SD = 1.28). Finally, they reported that they enjoyed the program (M = 5.63, SD = 1.55).
+
+Post-intervention differences in aggression and empathy for the total sample
+The results obtained in the MANCOVA showed a main effect of condition (EI training group versus control group) on aggression, Wilk's lambda (4, 578) = 4.99, p = .001. The condition × gender interaction was not statistically significant, showing no gender differences in the effect of the EI training on aggression, Wilk's lambda (4, 578) = .61, p = .658. The univariate tests showed that after controlling for the pre-test differences between EI training and control groups and age differences, there was a statistically significant effect of the INTEMO program. Students involved in the EI training group showed significantly lower levels of physical aggression, F(1, 581) = 7.67, p = .006, r = .11, verbal aggression, F(1, 581) = 5.82, p = .021, r = .10, hostility, F(1, 581) = 18.08, p = .001, r = .17, and anger, F(1, 581) = 7.15, p = .008, r = .11 (see Table 3).
+
+Table 3. Group differences in the dependent variables at post-test for the total sample and divided by gender in empathy.
+Total sample
+Control group (n = 229)	EI group (n = 361)	p	r
+M	SD	M	SD
+Aggression
+Physical aggression	2.53	.85	2.29	.85	.006	.11
+Verbal aggression	2.71	.77	2.57	.71	.016	.10
+Hostility	2.75	.71	2.49	.72	.001	.17
+Anger	2.72	.70	2.56	.71	.008	.11
+ 
+Empathy
+Fantasy	3.06	.66	2.97	.65	.028	.09
+Perspective taking	3.19	.64	3.26	.63	.291	.04
+Emphatic concern	3.54	.59	3.59	.57	.337	.04
+Personal distress	2.70	.60	2.59	.65	.036	.09
+ 
+Males
+Control group (n = 111)	EI group (n = 158)	p	r
+M	SD	M	SD
+Empathy
+Fantasy	2.98	.64	2.80	.59	.008	.11
+Perspective taking	3.07	.62	3.15	.56	.276	.04
+Emphatic concern	3.27	.53	3.43	.53	.028	.09
+Personal distress	2.70	.58	2.52	.62	.019	.10
+ 
+Females
+Control group (n = 118)	EI group (n = 203)	p	r
+M	SD	M	SD
+Empathy
+Fantasy	3.13	.67	3.10	.67	.680	.02
+Perspective taking	3.31	.63	3.33	.67	.693	.02
+Emphatic concern	3.80	.52	3.72	.57	.349	.04
+Personal distress	2.70	.62	2.64	.67	.561	.02
+Note: age and pre-test scores were included as covariates in all analyses.
+Regarding empathy, the results obtained in the MANCOVA showed a significant effect for condition (EI training group versus control group), Wilk's lambda (4, 579) = 2.37, p = .05. The condition × gender interaction was statistically significant, showing gender differences in the effect of the EI training on empathy, Wilk's lambda (4, 579) = 2.63, p = .031. Therefore, we analyzed the effect for males and females separately. Univariate tests revealed that after controlling for age and pre-test scores, males in the EI training group reported significantly lower levels of fantasy, F(1, 581) = 7.409, p = .008, r = .11, and personal distress, F(1, 581) = 5.53, p = .019, r = .10, and higher levels of empathic concern, F(1, 581) = 4.86, p = .028, r = .09. However, there were no significant differences in empathy scores at post-test among females in the EI training and control groups (see Table 3).
+
+Changes between pre-test and post-test
+We employed paired t-tests to analyze the change in aggression and empathy scores from pre-test to post-test in each group (EI training and control groups). Concerning aggression, students in the EI training group significantly decreased their levels of anger and hostility, as predicted. There was no significant change in physical and verbal aggression indicators in the EI training group (see Table 2). Regarding empathy, given the abovementioned interaction effect between gender and condition, we examined changes from pre-test to post-test in each group separately for males and females (see Table 4). Whereas males in the control group significantly increased their levels of fantasy and decreased their levels of empathic concern, these changes were not found in the EI training group. In the EI training group, marginally significant differences between pre-test and post-test scores were found in perspective taking (which increased) and personal distress (which decreased). On the other hand, females in both control and EI training groups significantly increased their levels of fantasy. Changes in the levels of perspective taking were also found. Females in the EI training group significantly increased their levels, whereas these changes were only marginally significant for females in the control group (see Table 4).
+
+Table 4. Pre- and post-test means and standard deviations for males and females on the EI training and control groups and paired sample t-tests in empathy.
+Males
+Pre-test	Post-test	t (df)	r
+M	SD	M	SD
+Control group
+Fantasy	2.71	.62	2.98	.64	−3.83** (110)	.34
+Perspective taking	3.10	.54	3.10	.62	.51 (110)	.05
+Emphatic concern	3.43	.53	3.27	.53	2.78** (110)	.26
+Personal distress	2.64	.60	2.70	.58	−.85 (110)	.08
+ 
+EI training group
+Fantasy	2.79	.64	2.80	.59	−.16 (157)	.01
+Perspective taking	3.06	.59	3.15	.56	−1.81+ (157)	.14
+Emphatic concern	3.50	.63	3.43	.53	1.28 (157)	.10
+Personal distress	2.65	.71	2.52	.62	1.78+ (157)	.14
+ 
+Females
+Pre-test	Post-test	t (df)	r
+M	SD	M	SD
+Control group
+Fantasy	2.91	.71	3.13	.67	−3.43** (117)	.30
+Perspective taking	3.18	.64	3.31	.63	−1.71+ (117)	.16
+Emphatic concern	3.76	.52	3.80	.52	−.81 (117)	.07
+Personal distress	2.77	.66	2.70	.62	1.05 (117)	.10
+ 
+EI training group
+Fantasy	2.93	.07	3.10	.67	−3.05** (202)	.21
+Perspective taking	3.14	.57	3.33	.67	−3.58** (202)	.24
+Emphatic concern	3.66	.60	3.72	.57	−1.18 (202)	.08
+Personal distress	2.68	.66	2.64	.67	.61 (202)	.04
++p ≤ .10; *p ≤ .05; **p ≤ .01.
+Discussion
+This study supports the effectiveness of the current EI intervention, the INTEMO program, as a change agent in the reduction of aggression-related outcomes and effective promotion of empathic abilities among adolescents. This research also offers additional evidence regarding two main questions in the SEL literature (Durlak et al., 2011). The present results support the impact of SEL programs implemented in high school settings with adolescents and confirm their effectiveness in academic contexts outside of American countries, where much SEL research has been conducted. The effect sizes obtained in the current study are in line with previous meta-analyses of school-based interventions outcomes, such as conduct problems and positive social behaviors (range = .15–.24) (DuBois, Holloway, Valentine, & Cooper, 2002; Durlak et al., 2011; Wilson, Gottfredson, & Najaka, 2001).
+
+Effects of the INTEMO program on aggression
+Overall, the present work suggests that the INTEMO program decreased instructional and emotional aspects of aggression, regardless of gender. These results support our hypothesis and suggest that the EI intervention potentially moderated negative dispositions associated with aggression among adolescents by providing strategies to manage thoughts and physical changes that arouse hostility and anger. In addition, the EI program helped students solve challenging situations more peacefully and effectively by decreasing the likelihood of engaging in direct aggressive behavior. These results are consistent with previous literature supporting the effectiveness of SEL interventions in promoting positive youth development (Durlak et al., 2011) and providing evidence of the negative relation between EI abilities and aggression in youth (Brackett et al., 2004; Davis & Humphrey, 2012; Kokkinos & Kipritsi, 2012; Lomas et al., 2012; Mayer et al., 2008; Moriarty et al., 2001).
+
+Effects of the INTEMO program on empathy
+In partial support of our hypothesis, the INTEMO program facilitated the promotion of empathic responses, especially among adolescent boys. First, it reduced male fantasy scores, which is consistent with previous evidence suggesting that the fantasy dimension is related to social dysfunction (e.g., shyness, loneliness, social anxiety, and interestingly, certain violent behaviors) (Davis, 1983; Varker & Devilly, 2007). Second, it enhanced empathic concern, a skill strongly related to prosocial and altruistic behavior. Finally, it decreased personal distress, a dimension that has been negatively associated with prosocial behavior (Eisenberg & Miller, 1987). There were no statistical differences in perspective taking. It is possible that this dimension of empathy, which includes cognitive aspects of adopting others' point of views, might be less susceptible to change in EI training. The absence of results among the young female sample may be explained by girls' greater scores on measures of empathy (Davis, 1983; Escrivá et al., 2004; Pérez-Albéniz et al., 2003; Topcu & Erdur-Baker, 2012), especially during adolescence (Eisenberg et al., 1991). Thus, because females had less to gain from the intervention's focus on emotional ability-building (Taylor et al., 2002), the gender differences found in the current study might be expected.
+
+Limitations and future directions
+Despite the promising results, we acknowledge several limitations in the present study. First, we were not able to assess EI in the adolescent sample to confirm that the program's effectiveness was due to the development of EI abilities. To the best of our knowledge, there are no tests for Spanish adolescent samples that assess EI skills according to the ability model of EI (Mayer & Salovey, 1997). Future research should focus on developing such a test so that researchers in Spanish-speaking countries can perform research on EI and its effects on students' outcomes. Second, findings from this study are based on students' self-report of direct aggression and empathy. Given the documented evidence of certain gender differences in aggression (Baxendale et al., 2012; Buss & Perry, 1992; Card et al., 2008), future studies should focus on the impact that SEL initiatives may have on covert forms of aggression using teacher-report of social interactions, observation and evaluation of indirect forms of aggression among adolescents (e.g., exclusion, gossip, or manipulation). Third, we were not able to compare the current findings with another evidence-based intervention or control the type of activities and contents that were implemented in control classrooms during their regular tutorial lessons. Fourth, we were not able to obtain complete data from both the EI training and control group in the eight participating schools following the intervention to assess the impact of immediate effects. Therefore, future research should examine interventions over time, including a follow-up period of at least twelve months, to provide evidence of the results' sustainability. Finally, the EI intervention was implemented by outside psychologists. Future studies should involve school teachers to integrate EI programs into the academic curriculum. In this sense, we suggest comparing the effects of the current EI program as implemented by psychologist trainers versus school teachers and test the impact when different approaches are used. Despite this, there are notable strengths in the current study. The program was implemented over two years in European school settings, with long-term results from a large sample of adolescents. Furthermore, the intervention program was grounded in a scientific-based model of EI.
+
+Conclusions
+The present work has important implications for the reduction of aggression and development of empathy during adolescence. The present findings extend the evidence of the effectiveness of SEL interventions, showing their impact in different academic contexts from those traditionally tested. Results also suggest gender differences should be considered in the evaluation of SEL interventions' effectiveness to ensure programs target and improve outcomes unique to each gender. Ultimately, this study provides empirical support for the current EI program as an effective way to enhance social functioning among adolescents and, subsequently, encourage optimal relationships in high school settings.
+
+Acknowledgments
+We thank the Laboratorio de Emociones from University of Málaga for participating in the data collection and trainings in all the schools participating in the research. We also thank the Health, Emotion and Behavior Laboratory from Yale University and especially Dr. Marc Brackett for the scientific advice. Additionally, we thank all the students, trainers, and school staff for their involvement in this study.

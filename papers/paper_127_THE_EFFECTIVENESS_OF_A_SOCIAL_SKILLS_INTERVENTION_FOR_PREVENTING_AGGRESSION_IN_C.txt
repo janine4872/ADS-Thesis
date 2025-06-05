@@ -1,0 +1,745 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Young Consumers
+
+ISSN: 1747-3616
+
+Article publication date: 30 June 2020 Permissions
+
+Issue publication date: 31 August 2020
+
+The marketing of immersive and competitive online gaming products has proliferated in recent times. Consumption has also shown a substantial increase, especially among children. Such elevated levels of gaming have adversely affected children’s overall well-being. This paper aims to examine the role of parental attachment variables in enhancing children’s self-control behavior in counteracting the adverse effects of excessive gaming. The role of gender in excessive gaming is also studied.
+
+A conceptual framework is tested that examines the direct relationship of features of parental attachment with excessive online gaming behavior and an indirect effect through the mediation of a child’s self-control construct using structural equation modeling.
+
+The findings indicate that parental attachment through self-control can play a significant role in limiting excessive gaming behavior among vulnerable young gamers. Excessive gaming behavior was more pronounced for boys than girls. Alienation explained excessive gaming behavior among girls, while communication was significant for boys, but in a reversed direction.
+
+All possible antecedent variables from the literature, like parental rearing style, that may further contribute to developing a comprehensive theoretical framework could not be studied.
+
+The study suggests that the priming of children achieved through parental attachment relationships may help prevent excessive gaming behavior among vulnerable young gamers.
+
+This study addresses the gap in the understanding of parental attachment features related to excessive gaming among different genders. It also establishes the role of the intervening mechanism of a child’s self-control in regulating behavior in relation to excessive gaming in the Indian context.
+
+Malik, A., Nanda, A.P. and Kumra, R. (2020), "Children in the digital world: exploring the role of parental–child attachment features in excessive online gaming", Young Consumers, Vol. 21 No. 3, pp. 335-350. https://doi.org/10.1108/YC-01-2020-1090
+
+Emerald Publishing Limited
+
+Copyright © 2020, Emerald Publishing Limited
+
+Online gaming has evolved into the most preferred and all-pervasive leisure activity in many parts of the world today. The worldwide online gaming industry, which had a turnover of “merely” US$7.98bn in 2000 (Statista, 2019), is expected to generate turnover of US$196bn by 2022, engaging 2.5 billion active gamers (Newzoo, 2019). E-marketers are using various immersive and competitive gaming techniques such as ranking lists, scoring systems, and other incentives to keep gamers hooked to these sites. Such marketing tactics seem to be working, as an average young gamer in 2019 spent seven hours a week playing online games, which represents a 25% increase in playing duration compared to the previous year (Statista, 2019). Not surprisingly, researchers have identified that young gamers are entirely unaware of the time spent gaming, with more than half missing their sleep, and more than one-third skipping meals (Limelight, 2019). Young gamers are a vulnerable group as their cognitive abilities related to information processing are not yet fully developed; they cannot rationalize their behavior, they are susceptible to impulsive stimuli, and they keep playing without thinking (Bassiouni and Hackley, 2016; Gunter et al., 2004).
+
+Excessive time spent playing online games not only results in adverse consequences on academic performance, social well-being and sense of belonging, it also affects psychological well-being in the long term (Malik and Kumra, 2016; Tur-porcar, 2017). Therefore, we should be concerned about the influence of these games on children, as they may fail to self-check their behavior. There is growing concern among various stakeholders and calls for action related to the protection of these vulnerable groups of young gamers from gaming products, and e-marketer action is increasing (Nevskaya and Albuquerque, 2019). If we want children to grow up as responsible functioning adults, it will likely require parental intervention (Quilliam and Rifon, 2009), which will make them identify marketing ploys and limit their compulsion to play games excessively. This paper suggests that positive parent–child attachment relationships could have a regulatory function on children’s gaming behavior (Pallini et al., 2018). Parent–child attachment involves an ever-lasting psychological connection between parent and child (Bowlby, 1982, p. 194), and children tend to seek contact with their parents for comfort whenever anxious or vulnerable (Bowlby, 1982). Negative parent–child relationships are correlated to children’s antisocial behavior, dysfunctional emotions and other behavioral issues (Frick and White, 2008).
+
+Schneider et al.’s (2017) systematic literature reviews of the role of family factors in problematic internet gaming among children found that even though most studies are focused on parent–child relationships, only a few (Choo et al., 2015; Da Charlie et al., 2011; Kim and Kim, 2015) have focused on the importance of attachment or connectedness. Some studies have cast doubt about the direct effect of parent–child attachment and urged examination of the intervening mechanism between parental attachment and gamers’ behavior outcomes (King and Delfabbro, 2017). As parental permissiveness has been found to be linked to the development of children’s self-control (Patock-Peckham et al., 2001), it may help to mitigate the adverse impact of excessive gaming. Nevertheless, the literature is mostly inadequate in the area of the role of a child’s gender in relation parent–child attachment, given that the gender of the gamer may also have pronounced differences in terms of outcomes (Jia and Jia, 2016). Moreover, these few parental attachment studies have been in the context of East Asian nations including Singapore (Choo et al., 2015; Da Charlie et al., 2011), China (Liau et al., 2015) and South Korea (Kim and Kim, 2015), with none in India. There has been a call from researchers to examine parental attachment in culturally diverse samples to provide an international perspective (Pearson and Child, 2007; Trees, 2006).
+
+Notwithstanding, the abovementioned research in the parental attachment domain are related to pathological gaming behavior and not specifically to excessive gaming. These studies are apt for the field of addiction and their results may be adequate for diagnosis, counseling and treatment of pathological gaming symptoms (Lemmens et al., 2011). However, this paper argues that these results may not be generalized to widespread excessive gaming phenomenon primarily emanating from e-marketers’ actions targeted at young gamers and immersive game features. Furthermore, excessive gamers lack pathological symptoms; thus, such research may be inadequate for the marketing area to undertake preventive actions, through different stakeholders, to arrest the spread of the phenomenon.
+
+This study, therefore, attempts explicitly to answer the following questions:
+
+What specific features of the parental-attachment relationship (i.e. trust, communication and alienation) are related to excessive gaming in a sample of children?
+
+Does children’s self-control mediate parent–child attachment and excessive gaming among children?
+
+What is the role of a gamer’s gender in the context of parent–child attachment and excessive gaming?
+
+This study aims to explore these three research questions in the Indian context. The remainder of the paper is organized as follows. Section 2 covers the background and hypothesis, while Section 3 explains the methodology used for the study including sample, sampling technique and analysis technique. Section 4 presents and analyzes the results of the empirical study. Section 5 presents the discussion and conclusions of the study followed by implications in Section 6. Final section is on limitations and directions for future research in Section 7.
+
+India, with the world’s largest youth population (median age 27 years) and with a base of around 222 million gamers, is one of the leading markets for the gaming industry. In 2019, many online games, in terms of total time spent playing, have shown a dramatic increase of over 427% in India (Dataquest, 2019). India’s online gaming industry had a turnover of US$290m in 2019 and this is expected to reach US$1bn by 2021 (KPMG and Google, 2017). This growth in the Indian market is expected because of multiple factors, including affordable new technologies, the proliferation of low-cost smartphones, and game content based on local themes (KPMG and Google, 2017).
+
+Parental attachment is defined as an enduring emotional bond that forms between the parent and the child that endures throughout their life (Kenny and Rice, 1995). Attachment theory propounds that relationships based on secure attachments help children develop a positive view of self and also nurture the behavior of seeking positive and supportive interactions with others (Griffin and Bartholomew, 1994). Research in the domain of parent–child attachment has suggested that communication, as well as sensitivity to care, varies across cultures (Huiberts et al., 2006). In particular, discernable differences such as parental attachment are found in collectivist versus individualistic cultures, which exhibits as differences in children’s behavioral outcomes (Zha et al., 2006). Differences arise due to culture-specific concepts, such independence being more valued in individualistic cultures, whereas collectivistic cultures promote interdependence and family values more (Greenfield et al., 2007). Therefore, parents take different development pathways in these cultures to ensure desired outcomes. India is a collectivist culture and this study expects a similar positive relationship between parent–child attachments and reduced excessive gaming, as has been found in other Asian studies (Greenfield et al., 2007; Zha et al., 2006), albeit in a pathological gaming context. The three key features of parental attachment are trust; verbal communication; and alienation (Gullone and Robinson, 2005).
+
+Regarding alienation, the literature demonstrates that high alienation in parent–child attachment leads to impulsive behaviors like excessive gambling, sex and excessive internet usage. These factors have been associated with lower levels of family functioning, i.e. lack of discipline, ineffective parenting styles or family abuse and violence (Ko et al., 2007; Park and Kim, 2008). Alternatively, high academic achievement, emotional maturity and cognitive competence are associated with children who have a significantly positive and cordial parent–child relationship (Chen and Ho, 2012).
+
+Regarding trust, a study by Cicchettt and Garmezy (1993) demonstrated that a stronger parental trust bond enhances resilience in individuals, which helps them cope in adverse situations. The trust bond is manifested in the symbolism of internet media use more for grown-up children (Lei et al., 2007). Furthermore, trust in attachment relationships brings a sense of security and well-being to children through parents’ availability as a source of support (Kobak and Sceery, 1988). Trust can be transferred to an online medium when the child has less faith in his or her abilities but simultaneously holds a firm belief that parents hold superior powers in deciding the course of their life (Chak and Leung, 2004).
+
+Finally, regarding verbal communication, the extent and quality of spoken communication in a parent–child relationship determines the strength of parent–child attachment. Marchant et al. (2001) demonstrated that a supportive parent–child attachment relationship facilitates a child’s internalization process of parents’ values and attitude through effective communication. When a parent–child relationship is characterized by high warmth, support, responsiveness and bi-directional communication, a child is found to be more open and conscious of internet safety and evaluates situations and content more critically (Chng et al., 2015). Therefore, the following hypothesis is proposed:
+
+Parental attachment will be negatively related to excessive online gaming among young gamers in India: (a) alienation is positively associated with excessive online gaming among young gamers; (b) communication is negatively associated with excessive online gaming among young gamers; (c) trust is negatively associated with excessive online gaming among young gamers.
+
+In general, higher parental restriction is exerted in the case of girls than boys when using digital media (van den Eijnden et al., 2010); thus, the effect of parent alienation is perceived as unequal between genders. In contrast, it is also reported that parent–child relationships will have a similar effect on both genders (Choo et al., 2015; Kim and Kim, 2015). Wallenius and Punamäki (2008) reported that parent–son communication had a profound impact on decreasing sons’ aggression in comparison to daughters’ in the context of game violence. However, other research has asserted that higher parents’ trust, depicted by co-playing video games, has a more profound effect on girls than boys (Coyne et al., 2011). Thus, we see that empirical evidence between parent-attachment features and gender differences is still inconclusive, albeit in the context of problematic gaming. Extending the above argument in the context of excessive online gaming, this study expects that, given the Indian culture, the relationship between parental-attachment features and excessive gaming will differ between the two genders. Therefore, the following hypothesis is proposed:
+
+There are statistical differences in the relationship between parental attachment and excessive online gaming based on the gamer’s gender (boys/girls).
+
+Self-control refers to one’s ability to adapt and bring about a better, more optimal fit between self and others (Rothbaum et al., 1982). To address the question of how parenting helps develop self-regulation among children, Bandura (1986) found that uncontrolled people come from chaotic and conflict-ridden households where parents neglect socializing responsibilities. One way in which parental-attachment relationships are theorized to affect children’s well-being is by contributing to their enhanced competence for independently interacting with the world. Self-control is a conscious effort to alter inner responses to regulate undesirable behavioral tendencies (Baumeister, 2002). In exploring excessive gaming behavior, through this study’ model that has parental attachment as an antecedent, the mediating role of self-control is conceptually related to the development self-theory. The development self-theory propounds that gaining self-control begins during the pre-school years and is related to having an inner locus of control (Bandura, 1986). Without inner locus of control, very little self-efficacy or ability to self-regulate behavior would exist, and individuals would become vulnerable to the moment and give in to hedonic impulses (Baumeister, 2002). Later, Roberts et al. (2015) stated that, by strengthening the mediating power of self-control, individuals can learn to resist many temptations. Thus, children with developed self‐control skills will refrain from acting on under-controlled impulsive behavior (Cole et al., 1999). In the gaming context, self-control operates like a muscle, and its diminishing strength may compel a child to lose control of self and succumb to impulses (Baumeister, 2002). Therefore, self-control should contribute to a reduction in excessive online gaming among young consumers.
+
+Positive and secure attachment relationships strengthen the internal working models of self-confidence among children to cope with stress, thus reducing their vulnerability to compulsions. Conversely, negative and insecure parental attachment increases vulnerability to compulsive and risky behaviors (Waters and Cummings, 2000) such as excessive gaming. Thus, the hypothesized contribution of secure parental attachment is its influence in the development of self-control, equipping children with effective skills to regulate their behavior so that when they independently interact with the world, they can resist compulsions. The study proposes that the underlying reason for the relationship between parental attachment and excessive online gaming might stem from low self-control due to individuals’ lack of self-regulation, which leads to the following hypothesis:
+
+Children’s self-control mediates the relationship between parent–child attachment and excessive online gaming among young gamers.
+
+This study measured excessive gaming behavior and parental attachment via a self-developed questionnaire. The questionnaire comprised three parts: measurement of excessive online gaming using the Internet Gaming Disorder (IGD) scale (short form); the Inventory of Parent and Peer Attachment (IPPA-R) scale to measure parent attachment features; and the Self-Control by Brief Self-Control Scale (BSCS) to measure self-control. Necessary demographic data was also collected.
+
+To assess whether gamers fell in to the category of excessive online gaming, a nine-item short-form scale (IGDS – SF9), developed and validated by Pontes et al. (2014) to assess internet gaming disorders, was used. This scale is not used for clinical diagnosis purposes (Ko, 2014); this instrument, which is a short psychometric tool to screen participants for gaming disorders, is valid only to classify gamers as excessive or non-excessive by considering only those gamers that obtained over 30 out of 45 in the cumulative score (i.e. those who choose two top-box scores on all nine questions). The criteria were operationalized as a nine-item scale. Example measurement items include “During the last year, have you felt unsatisfied because you wanted to play more?” and “During the last year, were you unable to reduce your time playing games?” The scale had an acceptable Cronbach’s alpha value (α = 0.78) (at this reported value, the analysis found sensitivity to be 92% and specificity to be 97%).
+
+Regarding the IPPA-R (to measure internet gaming habits), based on Bowlby’s (1982) evolutional ethological attachment theory, Armsden and Greenberg (1987) developed the original 28-item scale to assess the affective attachment of infants and pre-schoolers to their parents. The scale has found applications in early development research and has been found to have higher reliability for studies in adolescent behaviors (Gullone and Robinson, 2005). Minor modifications were made to the original 28-item scale to make it applicable for Indian adolescents; its reliability and validity were found to be acceptable. Specifically, the IPPA-R measures three features of attachment: trust (measured by a ten-item scale); verbal communication (measured by a ten-item scale); and alienation (measured by an eight-item scale). The trusted scale measures the degree of mutual understanding and respect in the parent–child relationship. The verbal-communication scale measures the verbal-communication quality between gamer and parent. The alienation scale measures inter-personal alienation and feelings of anger between parent and gamer (Gullone and Robinson, 2005). Each of subscale reported acceptable Cronbach’s alpha values [trust (α = 0.82); communication (α = 0.78); and alienation (α = 0.80)].
+
+Regarding self-control, the present research operationalized self-control via a self-regulatory model that proposes that self-control is a strength that gets depleted as people resist temptations or engage in a desirable behavior. Tangney et al. (2004) developed the BSCS to assess this using 36 items. A short version of the BSCS (13 items) was used in this research. The scale showed an acceptable Cronbach’s alpha value (α = 0.77).
+
+The study was conducted in Mumbai, the financial capital of India. Mumbai is a large metropolitan city on the west coast of India with seamless broadband connectivity. The largest English medium education board of India, namely, the Central board of Secondary Education (CBSE), reported in 2019 that, in Mumbai, 46 schools were affiliated to CBSE. One school from the CBSE affiliated schools’ database was selected based on convenience to administer the questionnaire. The instrument was first discussed with the class teachers, and their informed consent was requested. The teachers verbally notified the parents of the survey; the option to withdraw from the survey was available. In this theoretical framing of young consumers, the present study selected the target group of participants through purposive sampling (participants were aged 13–16 years and in school standard 8–10). Because between 11 and 16 years of age child shape their own identity, conform to group expectations and make their own choices (John, 1999). They make “adult-like” decisions in the online marketplace (i.e. playing online games leading to excessive behavior). Finally, 450 students were administered the survey, with an option not to disclose their names to maintain the absolute confidentiality of the survey. A total of 426 responses were obtained, indicating a good response rate of 94.6%. Of these responses, 31 were found to be not usable due to incomplete responses or extreme answer patterns; these were removed from further analysis. The final sample set of 395 responses were used for analysis (87% of the original audience). The children’s gender was evenly split, with 52.4% (n = 207) participants male and 47.6% (n = 188) participants female.
+
+Mediation inquiry into which parental attachment features, excessive online gaming, and self-control constructs were measured with a multi-item scale, which achieves a stronger measurement instrument from the reliability perspective. Both theoretically and empirically, structural equation modeling (SEM) is a superior method for determining such multi-item mediation structure in comparison to regression (Iacobucci et al., 2007). SEM is a potent technique that directly tests all the relevant paths, with none omitted, in comparison to ANOVA (Baron and Kenny, 1986). SEM captures correlated measurement error, complications due measurement error and feedback directly in model (Baron and Kenny, 1986). The present study conducted statistical analysis in three steps. The first step involved analyzing the qualified samples for their descriptive statistics in three areas: number of hours children were playing online games on weekdays and weekends; Spearman’s rank correlations showing bivariate correlations between various constructs; and student t-tests to find if there was a difference in dependent variable scores between boys and girls. In the second step, confirmatory factor analysis (CFA) was conducted to ascertain measurement models fit indices, which demonstrated the statistical sufficiency of the measurement model. Assuming normality in the multivariate data, a structural model was used in the last step to verify the hypotheses.
+
+The collected data were analysed using SPSS for Windows (v23.0). First, descriptive statistics were conducted on the qualified responses and the results are given in Table 1. Among participants, those who scored 30 or less in excessive gaming scores (95.7% of N = 395) are in “No Risk” category. However, those participants who scored more than 30 (out of a maximum excessive gaming score of 45) are in “excessive” online gaming behavior. In total, 4.3% of participants who are found in the “excessive” category (N = 395). On a typical weekday, 6.6% of child participants spend >4 h on the internet playing games which increases to 13.9% at the weekend (Saturdays and Sundays are typically weekends). In our sample, maximum participants were living with both parents (61%) or extended families (26.1% lived typically with grandparents).
+
+Table 2 represents the spearman’s Ω correlations to measure bivariate relations between parameters for which descriptive statistics were obtained. Assuming equal variances, a student t-test revealed there is a significant difference in excessive gaming behavior between the boy and girl participants (t = 3.86; p < 0.001). Furthermore, the total number of hours spent on the internet showed a significant correlation (p < 0.01) with excessive gaming behavior. Further, excessive gaming behavior is examined with parental attachment scores after controlling for gender and total gaming hours spent on the internet.
+
+Next, we proceed to develop the parental attachment CFA model using IBM AMOS v26, in two steps. First, we developed the first order model of trust, communication and alienation with three constructs covarying with each other. We found significant correlation (p < 0.001) between trust and communication (= 0.92), communication and alienation (= −0.77) and trust and alienation (= 0.82). These high correlation results are not surprising as all three latent constructs are part of the larger construct called parental attachment. Subsequently, the second-order factor model of parental attachment was developed from trust, alienation and verbal communication constructs. All the 28 measurement items are retained, and the attachment measurement model gave fit indices χ2 (343) = 560.04, χ2/df = 1.63, CFI = 0.936, NNFI = 0.929, GFI = 0.907, RMSEA = 0.040, SRMR = 0.045, which suggests that second-order model with three latent constructs is a reasonably good fit for the observed data. Next, we proceeded to build the rest of the model with parental attachment, child self-control and excessive online gaming as latent constructs retaining a total of 24 measurement items for parental attachment, 11 items for Child’s Self-control and nine items for excessive gaming behavior. These three constructs showed adequate fit for the observed data with χ2 (882) = 1345.676, χ2/df = 1.52, CFI = 0.870, NNFI = 0.902, GFI = 0.870, RMSEA = 0.037, SRMR = 0.054. Assuming normality in multivariate data, we use a covariance-based structural equation modelling (SEM) to obtain hypothesis support as mentioned in H1–H3. For H1 and H2, gender and number of gaming hours per week are used as covariates. As all the participants identified themselves as 13–15 age group, age was not considered as a covariate in the SEM model. Next, three models are described, and the results are tabulated in Table 3.
+
+Model-1 path diagram had a second-order construct of attachment explaining the excessive gaming behavior, with gender and number of gaming hours as co-variates. The model showed adequate fit for the observed data with χ2 (549) = 932.947, χ2/df = 1.69, CFI = 0.907, NNFI = 0.899, GFI = 0.882, RMSEA = 0.042, SRMR = 0.063. The attachment construct did not explain the excessive gaming behavior (p = 0.134) rejecting H1. Hence, our research looked further into the features of the attachment, namely, trust, communication and alienation as explained in Model-2.
+
+Model-2 path diagram had trust, communication and alienation as first-order constructs, explaining the excessive gaming behavior, with gender and number of gaming hours as co-variates. As expected, the model showed poor fit of observed data with χ2 (550) = 1535.754, χ2/df = 2.79, CFI = 0.76, NNFI = 0.741, GFI = 0.827, RMSEA = 0.067, SRMR = 0.178. The Alienation first-order construct explained excessive gaming behavior (p < 0.001) confirming H1-(A), trust failed to explain excessive gaming behavior (p = −0.023) rejecting H1-(B) and communication construct failed to explain excessive gaming behavior (p = 0.006) rejecting H1-(C). The communication construct to excessive gaming behavior was statistically significant with the sign reversed when compared to hypothecated direction as mentioned in H1-(C).
+
+Model-3 path tested the mediating effect of child self-control, it had second-order construct of attachment explaining the excessive gaming behavior, with gender and number of gaming hours as co-variates. In addition to the direct path, an indirect path of attachment explaining excessive gaming behavior via child self-control was presented. The model showed reasonably good fit of observed data with χ2 (973) = 1623.058, χ2/df = 2.79, CFI = 0.876, NNFI = 0.868, GFI = 0.876, RMSEA = 0.041, SRMR = 0.067. The model showed significant indirect path between attachment and excessive gaming behavior via child self-control, with Attachment → Child Self-control (β = 0.373; p < 0.001) and Child Self-control → excessive gaming behavior (β = −0.347; p < 0.001). The indirect effect has been confirmed by 500 bootstrap sample (β = −0.129) with 95% CI [−0.217; −0.059] showing mediation effect. The direct path Attachment → excessive gaming behavior remained insignificant (β = 0.092; p = 0.142) demonstrating total mediation effect.
+
+As Model 1 results showed gender to be a significant indicator in explaining excessive gaming behavior, in the next step, Models 1–3 were run both for boys and girls separately. All three models pooled for boy/girl participants separately, with all the constructs intact and the number of gaming hours as covariates. For both boy and girl participants, Model 1 showed no significant path relationship between parental attachment and excessive gaming behavior. When the relationship of individual features of attachment (i.e. trust, communication and alienation) to excessive gaming behavior was tested, it was found that the relationship of alienation to excessive gaming behavior was significant for girls (β = 0.33; p = 0.006) but not for boys (β = 0.135; p = 0.114). The relationship of communication to excessive gaming behavior was significant for boys (β = 0.238; p = 0.007) but not for girls (β = 0.138; p = 0.121). The trust factor of attachment had no explanatory power for either boys or girls. It is important to note that the hypothesized direction was retained for the relationship of alienation to excessive gaming behavior in the case of girls, but the direction was reversed for communication to excessive gaming behavior in the case of boys. This shows that differences between boys and girls exist in the relationship of attachment (or one of its constituent factors) to excessive gaming behavior, confirming H2. The authors repeated Model 3 for both boys and girls separately and found the mediation effect of a child’s self-control on the relationship of parental attachment to excessive gaming behavior. However, minor differences were found between the two groups in the strength of significance, as shown in Table 3.
+
+This paper explored the role of three parental attachment features (trust, communication and alienation) in relation to excessive gaming behavior among young gamers. The study further sheds light on the attachment pattern of children with their parents and their relationship with excessive gaming behavior habits in the Indian context. This is, to the best of the authors’ knowledge, the first study to establish the mediating role played by children’s self-control between parental attachment and excessive gaming. Gender differences were also explored among gamers, and it was found that the incidence rate of excessive gaming was different for both genders. The study analyzed excessive online gaming behavior among young gamers rather than extrapolating the results obtained from problematic internet use studies.
+
+The current research empirically establishes the engagement of young gamers with online games by estimating the excessive online gaming incidence rate in India. Predictably, the results revealed that the total number of hours spent playing online games corelates to scores for excessive gaming. In this study, 4.56% of participants were found to be engaged in excessive gaming on self-reported measures, which is consistent with findings in other Asian countries, such as 6% in China (Jie et al., 2014). Contrary to this, studies from Western countries have reported higher incidence rates, such as 10% in Norway (Johansson and Gotestam, 2004) and 8.5% in USA (Gentile, 2009). When compared to scores for other countries, the incidence rate of 4.56% in the present study seems low, but a population of with around 235 million children in India, this is a large number that cannot be ignored in absolute terms. Thus, this study also points out that the incidence rate of “excessive gaming” cannot be generalized among young gamers of different nationalities.
+
+Overall, total parental attachment scores did not significantly predict excessive gaming habits in the Indian context, after controlling for gender and gaming activity. This result points to the possibility of a mediation variable between parental attachment and excessive gaming. The results of the present study differ from the direct main effect found in studies conducted in similar collectivist cultures in other Asian countries (Choo et al., 2015; Da Charlie et al., 2011; Kim and Kim, 2015). The results are, however, similar to a study performed in the individualistic culture of Australia, which failed to reproduce the main effect of parental attachment on excessive gaming (King and Delfabbro, 2017). This casts doubt on the individualistic versus collectivist culture specificities proposed by some researchers to explain the parent-attachment effect and depict the complexity of the construct (King and Delfabbro, 2017). A possible explanation is that the children who are playing excessively are spending most of their time with their parents at home, unlike the non-gamers, resulting in difficulty in detecting the decreasing strength of the parent–child relationship (King and Delfabbro, 2017). Non-excessive gaming peers might prefer to socialize and seek entertainment in outdoor contexts, such as engaging in physical sports, visiting shopping centers or going to the cinema. Additionally, even though, potentially, parents’ control in reducing a child’s excessive time spent on gaming may have resulted in parent–child conflict, the child may not perceive this as a problematic relationship.
+
+This study further investigated direct relationships by decomposing parent–child attachment into different features (trust, verbal communication and alienation) in relation to excessive gaming behavior. The relationship between parental alienation and parental communication and young consumers’ excessive online gaming was found to be significant (p < 0.001). This finding is consistent with earlier studies, which have demonstrated that father–adolescent alienation contributes significantly, albeit in the different context of problematic internet use (Lei et al., 2007) and “frequent drug users” (Shedler and Block, 1990). The plausible cause for such results may be that alienation might trigger a psychological distance from parents and that children may not feel comfortable discussing issues that bother them. Children’s sense of detachment from family can lead to looking for a more supportive environment in massive multiplayer online games (especially among older gamers). A young gamer may discuss issues, challenges or frustrations of their life with other online gamers, increasing their involvement in excessive gaming. Unlike past studies, verbal communication was significant in explaining parent–child attachment in relation to excessive gaming, but in the reverse direction. A plausible explanation is that young gamers may develop a resistance to the persistent communication efforts of parents directed at reducing excessive gaming. Similarly, past research has demonstrated that socially desirable consumption activities are less prevalent among children from families that indulge in infrequent communication compared to continual communication (Moore and Moschis, 1981). Thus, the present study maintains that verbal communication is necessary to develop strong parental attachment, but when parental communication crosses a certain threshold, the child may react adversely to parental verbal communication, which should be the subject of further research.
+
+Gender differences between boys and girls existed in the relationship between parental attachment and excessive online gaming at a decomposed sub-scale level. Consistent with past studies (Tur-porcar, 2017), a significantly higher incidence rate of 6.76% was found for boys compared to 2.13% girls, demonstrating pronounced gender-based differences toward excessive game playing. Interestingly, parental alienation explained significant excessive gaming behavior for girls but not for boys in this study. A plausible reason for this is the well-documented parental discrimination in favor of boys compared to girls (Tisdell and Regmi, 2005) in the Indian cultural context. Thus, girls’ unwarranted hostility toward parental discrimination and supervision might make it difficult for girls to develop closeness or attachment with parents, resulting in parental alienation. In the context of boys, parental communication was found to be significantly associated with excessive gaming behavior, but in a negative direction. Thus, boys might develop adverse reactions to parental attempts to communicate with them. It can be argued that excessive use of communication with boys may motivate them to find greater control and peace in the virtual environment by playing online games.
+
+Finally, this study attempted to examine the intervening mechanism between parental attachment and excessive gaming behavior through children’s self-control. The central role of children’s self-control as a mediating variable with full mediation effect received statistical support. This finding extends the excessive gaming literature in several ways, and the current paper has highlighted the prominence of parental attachment in strengthening children’s self-control behavior, which leads to the development of self-regulation mechanisms to limit excessive gaming among this vulnerable group of young gamers. This study has provided empirical evidence that young gamers’ online gaming behavior may be regulated by enhancing self-control behavior by improving parent–child attachment relationships. When the child’s perception of parental attachment is strong, the child seems to develop stronger self-control, which results in regulating his/her gaming behavior. This is in agreement with past findings that self-control reflects one’s capacity to override desires and urges (Roberts et al., 2015) and that, in a situation when self-control fails, individuals succumb to their desire and engage in unwarranted behavior (Hofmann et al., 2012).
+
+Considering the severity of increased usage of gaming among vulnerable group of children and its far-reaching adverse consequences on individuals, family and society, this study’s findings become relevant for managers of online game companies, which until now have focused on increasing their revenues and have been spending significant marketing resources to increase product usage through frequent reward systems, customized messages, content, etc. This study argues that marketers should recognize the phenomena of excessive gaming among young gamers and introduce some harm-minimization interventions. Gaming companies can also benefit by managing product usage through improving the in-game reward schedules and imposing time limits, which might result in shorter usage sessions but longer product subscriptions (Nevskaya and Albuquerque, 2019).
+
+The social implications of this research extend to the realm of policymaking. In 2018, WHO recognized “gaming disorder” as a clinically significant syndrome, wherein the nature and intensity of gaming may result in marked distress among gamers (WHO, 2018). The use of technologies and media, to a large extent, cannot be restricted in today’s gaming context, but policies should consider sensitizing parents and parental intervention may prevent adolescents from excessive gaming. This study should hopefully help in expanding the conceptual framework in ways that can inform counselling practices for parents in understanding ways and means of developing better and more secure relationships with children. Furthermore, these collective efforts from parents, marketers and society might extend beyond excessive gaming to habit forming in general and to self-regulating behavior toward excessive/compulsive use of any technology.
+
+Despite the study’s contributions in the area of excessive online gaming, it has limitations that may provide several avenues for further exploration. First, the current study is limited by the self-reporting measures and self-selected sample of young consumers, which may affect the generalizability of the results. Future studies can focus on triangulating these findings by collating parents’ reports on parental-attachment measures and children’s online gaming usage. This study focused only on the “family factor” parental-attachment variable, but future studies may seek to identify more variables, such as parental rearing style and parental involvement, to more clearly delineate the parent–child relationship.
+
+Path diagram and relationships
+
+Demographic profile and gaming habits of participants
+
+Spearman’s Ω correlations
+
+** Correlation is significant at the 0.01 level (2-tailed); * Correlation is significant at the 0.05 level (2-tailed)
+
+Results of hypothesis testing
+
+Statistical significance (* p < 0.05; ** p < 0.01; *** p < 0.001) (a) opposite to hypothesized direction
+
+Armsden, G.C. and Greenberg, M.T. (1987), “The inventory of parent and peer attachment: individual differences and their relationship to psychological well-being in adolescence”, Journal of Youth and Adolescence, Vol. 16 No. 5, pp. 427-454.
+
+Bandura, A. (1986), Social Foundations of Thought and Action: A Social Cognitive Theory, Prentice Hall, Englewood Cliffs, NJ.
+
+Baron, R.M. and Kenny, D.A. (1986), “The moderator-mediator variable distinction in social psychological research: conceptual, strategic, and statistical considerations”, Journal of Personality and Social Psychology, Vol. 51 No. 6, pp. 1173-1182, doi: 10.1037/0022-3514.51.6.1173.
+
+Bassiouni, D.H. and Hackley, C. (2016), “Video games and young children’s evolving sense of identity: a qualitative study”, Young Consumers, Vol. 17 No. 2, pp. 127-142, doi: 10.1108/YC-08-2015-00551.
+
+Baumeister, R.F. (2002), “Yielding to temptation: self-control failure, impulsive purchasing, and consumer behavior”, Journal of Consumer Research, Vol. 28 No. 4, pp. 670-676, doi: 10.1086/338209.
+
+Bowlby, J. (1982), Attachment and Loss: Vol. 1. Attachment, Basic Books, New York, NY.
+
+Chak, K. and Leung, L. (2004), “Shyness and locus of control as predictors of internet addiction and internet use”, CyberPsychology & Behavior, Vol. 7 No. 5, pp. 559-570, doi: 10.1089/1094931042403073.
+
+Chen, W. and Ho, H. (2012), “The relation between perceived parental involvement and academic achievement: the roles of Taiwanese students’ academic beliefs and filial piety”, International Journal of Psychology, Vol. 47 No. 4, pp. 315-324, doi: 10.1080/00207594.2011.630004.
+
+Chng, G.S., Li, D., Liau, A.K. and Khoo, A. (2015), “Moderating effects of the family environment for parental mediation and pathological internet use in youths”, CyberPsychology, Behaviour, and Social Networking, Vol. 18 No. 1, pp. 30-36, doi: 10.1089/cyber.2014.0368.
+
+Choo, H., Sim, T., Liau, A.K.F., Gentile, D.A. and Khoo, A. (2015), “Parental influences on pathological symptoms of video-gaming among children and adolescents: a prospective study”, Journal of Child and Family Studies, Vol. 24 No. 5, pp. 1429-1441, doi: 10.1007/s10826-014-9949-9.
+
+Cicchettt, D. and Garmezy, N. (1993), “Prospects and promises in the study of resilience”, Development and Psychopathology, Vol. 5 No. 4, pp. 497-502.
+
+Cole, D.A., Peeke, L., Dolezal, S., Murray, N. and Canzoniero, A. (1999), “A longitudinal study of negative affect and self-perceived competence in young adolescents”, Journal of Personality and Social Psychology, Vol. 77 No. 4, pp. 851-862.
+
+Coyne, S.M., Padilla-Walker, L.M., Stockdale, L., Day, R.D. (2011), “Game on… girls: associations between co-playing video games and adolescent behavioral and family outcomes”, Journal of Adolescent Health, Vol. 49 No. 2, pp. 160-165, doi: 10.1016/j.jadohealth.2010.11.249.
+
+Da Charlie, C.W., HyeKyung, C. and Khoo, A. (2011), “Role of parental relationships in pathological gaming”, Procedia - Social and Behavioral Sciences, Vol. 30 No. 2011, pp. 1230-1236, doi: 10.1016/j.sbspro.2011.10.238.
+
+DataQuest (2019), “The gaming industry in India: a boom waiting to happen”, available at: https://www.dqindia.com/gaming-industry-india-boom-waiting-happen/ (accessed 10 January 2020).
+
+Frick, P.J. and White, S.F. (2008), “Research review: the importance of callous‐unemotional traits for developmental models of aggressive and antisocial behavior”, Journal of Child Psychology and Psychiatry, Vol. 49 No. 4, pp. 359-375.
+
+Gentile, D. (2009), “Pathological video-game use among youth ages 8 to 18: a national study”, Psychological Science, Vol. 20 No. 5, pp. 594-602.
+
+Greenfield, P.M., Suzuki, L.K. and Rothstein-Fisch, C. (2007), Cultural Pathways through Human Development, John Wiley & Sons.
+
+Griffin, D. and Bartholomew, K. (1994), “Models of the self and other: fundamental dimensions underlying measures of adult attachment”, Journal of Personality and Social Psychology, Vol. 67 No. 3, pp. 430-445.
+
+Gullone, E. and Robinson, K. (2005), “The inventory of parent and peer attachment – revised (IPPA-R) for children: a psychometric investigation”, Clinical Psychology & Psychotherapy, Vol. 12 No. 1, pp. 67-79.
+
+Gunter, B., Oates, C. and Blades, M. (2004), Advertising to Children on TV: Content, Impact, and Regulation, Routledge, Abingdon.
+
+Hofmann, W., Vohs, K. and Baumeister, R. (2012), “What people desire, feel conflicted about, and try to resist in everyday life”, Psychological Science, Vol. 23 No. 6, pp. 582-588, doi: 10.1177/0956797612437426.
+
+Huiberts, A., Oosterwegel, A., VanderValk, I., Vollebergh, W. and Meeus, W. (2006), “Connectedness with parents and behavioural autonomy among Dutch and Moroccan adolescents”, Ethnic and Racial Studies, Vol. 29 No. 2, pp. 315-330, doi: 10.1080/01419870500465553.
+
+Iacobucci, D., Saldanha, N. and Deng, X. (2007), “A meditation on mediation: evidence that structural equations models perform better than regressions”, Journal of Consumer Psychology, Vol. 17 No. 2, pp. 139-153, doi: 10.1016/S1057-7408(07)70020-7.
+
+Jia, R. and Jia, H.H. (2016), “Maybe you should blame your parents: parental attachment, gender, and problematic internet use”, Journal of Behavioral Addictions, Vol. 5 No. 3, pp. 524-528, doi: 10.1556/2006.5.2016.059.
+
+Jie, T., Yizhen, Y., Yukai, D., Ying, M., Dongying, Z. and Jiaji, W. (2014), “Prevalence of internet addiction and its association with stressful life events and psychological symptoms among adolescent internet users”, Addictive Behaviors, Vol. 39 No. 3, pp. 744-747, doi: 10.1016/j.addbeh.2013.12.010.
+
+Johansson, A. and Gotestam, K.G. (2004), “Problems with computer games without monetary reward: similarity to pathological gambling”, Psychological Reports, Vol. 95 No. 6, pp. 641-650.
+
+John, D.R. (1999), “Consumer socialization of children: a retrospective look at twenty‐five years of research”, Journal of Consumer Research, Vol. 26 No. 3, pp. 183-213, doi: 10.1086/209559.
+
+Kenny, M.E. and Rice, K.G. (1995), “Attachment to parents and adjustment in late adolescent college students: current status, applications, and future considerations”, The Counseling Psychologist, Vol. 23 No. 3, pp. 433-456, doi: 10.1177/0011000095233003.
+
+Kim, K. and Kim, K. (2015), “Internet game addiction, parental attachment, and parenting of adolescents in South Korea”, Journal of Child & Adolescent Substance Abuse, Vol. 24 No. 6, pp. 366-371, doi: 10.1080/1067828X.2013.872063.
+
+King, D.L. and Delfabbro, P.H. (2017), “Features of parent-child relationships in adolescents with internet gaming disorder”, International Journal of Mental Health and Addiction, Vol. 15 No. 6, pp. 1270-1283, doi: 10.1007/s11469-016-9699-6.
+
+Ko, C.-H. (2014), “Internet gaming disorder”, Current Addiction Reports, Vol. 1 No. 3, pp. 177-185, doi: 10.1007/s40429-014-0030-y.
+
+Ko, C., Yen, J., Yen, C., Lin, H.C. and Yang, M. (2007), “Factors predictive for incidence and remission of internet addiction in young adolescents: a prospective study”, CyberPsychology & Behavior, Vol. 10 No. 4, pp. 545-551, doi: 10.1089/cpb.2007.9992.
+
+Kobak, R.R. and Sceery, A. (1988), “Attachment in late adolescence: working models, affect regulation, and representations of self and others”, Child Development, Vol. 59 No. 1, pp. 135-146.
+
+KPMG and Google (2017), “Online gaming in India: reaching a new pinnacle a study by KPMG in India and Google”, available at: https://assets.kpmg/content/dam/kpmg/in/pdf/2017/05/online-gaming.pdf
+
+Lei, L.I., Ph, D. and Wu, Y. (2007), “Adolescents ‘paternal attachment and internet use”, CyberPsychology & Behavior, Vol. 10 No. 5, pp. 633-639, doi: 10.1089/cpb.2007.9976.
+
+Lemmens, J.S., Valkenburg, P.M. and Peter, J. (2011), “The effects of pathological gaming on aggressive behavior”, Journal of Youth and Adolescence, Vol. 40 No. 1, pp. 38-47.
+
+Liau, A.K., Choo, H., Li, D., Gentile, D.A., Sim, T. and Khoo, A. (2015), “Pathological video-gaming among youth: a prospective study examining dynamic protective factors”, Addiction Research & Theory, Vol. 23 No. 4, pp. 301-308.
+
+Limelight (2019), “The state of online gaming – 2019”, available at: https://www.limelight.com/resources/white-paper/state-of-online-gaming-2019/ (accessed 24 December 2019).
+
+Malik, A. and Kumra, R. (2016), “Gaming dependency among Indian adolescents: a phenomenological study”, International Journal of Indian Culture and Business Management, Vol. 12 No. 3, pp. 361-375.
+
+Marchant, G.J., Paulson, S.E. and Rothlisberg, B.A. (2001), “Relations of Middle school students’ perceptions of family and school contexts with academic achievement”, Psychology in the Schools, Vol. 38 No. 6, pp. 505-519.
+
+Moore, R.L. and Moschis, G.P. (1981), “The role of family communication in consumer learning”, Journal of Communication, Vol. 31 No. 4, pp. 42-51.
+
+Nevskaya, Y. and Albuquerque, P. (2019), “How should firms manage excessive product use? A continuous-time demand model to test reward schedules, notifications, and time limits”, Journal of Marketing Research, Vol. 56 No. 3, pp. 379-400, doi: 10.1177/0022243718821698.
+
+Newzoo (2019), “Newzoo global games market report 2019”, available at: https://newzoo.com/insights/trend-reports/newzoo-global-games-market-report-2019-light-version/ (accessed 24 December 2019).
+
+Pallini, S., Chirumbolo, A., Morelli, M., Baiocco, R., Laghi, F. and Eisenberg, N. (2018), “The relation of attachment security status to effortful self-regulation: a meta-analysis”, Psychological Bulletin, Vol. 144 No. 5, pp. 501-531.
+
+Park, S.K. and Kim, J.Y.C.C. (2008), “Prevalence of internet addiction and correlations with family factors among South Korean adolescents”, Adolescence, Vol. 36 No. 3, pp. 895-909.
+
+Patock-Peckham, J.A., Cheong, J.W., Balhorn, M.E. and Nagoshi, C.T. (2001), “A social learning perspective: a model of parenting styles, self-regulation, perceived drinking control, and alcohol use and problems”, Alcoholism: Clinical and Experimental Research, Vol. 25 No. 9, pp. 1284-1292, doi: 10.1111/j.1530-0277.2001.tb02349.x.
+
+Pearson, J.C. and Child, J.T. (2007), “A cross-cultural comparison of parental and peer attachment styles among adult children from the United States, Puerto Rico, and India”, Journal of Intercultural Communication Research, Vol. 36 No. 1, pp. 15-32, doi: 10.1080/17475750701265258.
+
+Pontes, H.M., Király, O., Demetrovics, Z. and Griffiths, M.D. (2014), “The conceptualisation and measurement of DSM-5 internet gaming disorder: the development of the IGD-20 test”, PloS One, Vol. 9 No. 10, pp. e110137, doi: 10.1371/journal.pone.0110137.
+
+Quilliam, E.T. and Rifon, N.J. (2009), “Trick or treat: children, advertising, and social responsibility”, American Academy of Advertising. Conference Proceedings (Online), American Academy of Advertising, pp. 30-32.
+
+Roberts, J.A., Yaya, P., Honore, L. and Gwin, C. (2015), “Yielding to temptation in buying: is it simply a matter of self-control?”, Atlantic Marketing Journal, Vol. 4 No. 2, pp. 73-108.
+
+Rothbaum, F., Weisz, J.R. and Snyder, S.S. (1982), “Changing the world and changing the self: a two-process model of perceived control”, Journal of Personality and Social Psychology, Vol. 42 No. 1, pp. 5-37, doi: 10.1037/0022-3514.42.1.5.
+
+Schneider, L.A., King, D.L. and Delfabbro, P.H. (2017), “Family factors in adolescent problematic internet gaming: a systematic review”, Journal of Behavioral Addictions, Vol. 6 No. 3, pp. 321-333, doi: 10.1556/2006.6.2017.035.
+
+Shedler, J. and Block, J. (1990), “Adolescent drug use and psychological health: a longitudinal inquiry”, American Psychologist, Vol. 45 No. 5, pp. 612-630.
+
+Statista (2019), “Total revenues of the video game industry from 2000 to 2014 (in billion US dollars)”, available at: https://www.statista.com/statistics/268954/revenues-of-global-video-games-industry/ (accessed 24 December 2019).
+
+Tangney, J.P., Baumeister, R.F. and Boone, A.L. (2004), “High self-control predicts good better grades, and interpersonal success”, Journal of Personality, Vol. 72 No. 2, pp. 271-322.
+
+Tisdell, C. and Regmi, G. (2005), “Prejudice against female children: economics and cultural explanations and Indian evidence”, International Journal of Social Economics, Vol. 32 No. 6, pp. 541-553.
+
+Trees, A.R. (2006), “Attachment theory: the reciprocal relationship between family communication and attachment patterns”, Engaging Theories in Family Communication: Multiple Perspectives, pp. 165-180.
+
+Tur-Porcar, A. (2017), “Parenting styles and internet use”, Psychology & Marketing, Vol. 34 No. 11, pp. 1016-1022, doi: 10.1002/mar.21040.
+
+van Den Eijnden, R.J., Spijkerman, R., Vermulst, A.A., van Rooij, T.J. and Engels, R.C. (2010), “Compulsive internet use among adolescents: bidirectional parent-child relationships”, Journal of Abnormal Child Psychology, Vol. 38 No. 1, pp. 77-89, doi: 10.1007/s10802-009-9347-8.
+
+Wallenius, M. and Punamäki, R.L. (2008), “Digital game violence and direct aggression in adolescence: a longitudinal study of the roles of sex, age, and parent-child communication”, Journal of Applied Developmental Psychology, Vol. 29 No. 4, pp. 286-294, doi: 10.1016/j.appdev.2008.04.010.
+
+Waters, E. and Cummings, E.M. (2000), “A secure base from which to explore close relationships”, Child Development, Vol. 71 No. 1, pp. 164-172, doi: 10.1111/1467-8624.00130.
+
+WHO (2018), “Inclusion of ‘gaming disorder’ in ICD-11”, available at: https://www.who.int/news-room/detail/16-01-2018-inclusion-of-%E2%80%9Cgaming-disorder%E2%80%9D-in-icd-11
+
+Zha, P., Walczyk, J.J., Griffith-Ross, D.A., Tobacyk, J.J. and Walczyk, D.F. (2006), “The impact of culture and individualism–collectivism on the creative potential and achievement of American and Chinese adults”, Creativity Research Journal, Vol. 18 No. 3, pp. 355-356, doi: 10.1207/s15326934crj1803.
+
+Baumeister, R.F., Vohs, K.D. and Tice, D.M. (2007), “The strength model of self-control”, Current Directions in Psychological Science, Vol. 16 No. 6, pp. 351-355, doi: 10.1111/j.1467-8721.2007.00534.x.
+
+Anjali Malik is based at the School of Management, Bennett University, Greater Noida, India.
+
+Ambika Prasad Nanda is Doctoral Student based at the SP Jain Institute of Management and Research, Mumbai, India.
+
+Rajeev Kumra is based at the Department of Marketing, Indian Institute of Management Lucknow, Lucknow, India.
+
+Children in the digital world: exploring the role of parental–child attachment features in excessive online gaming
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+1. Introduction
+
+2. Background and hypotheses
+
+3. Methodology
+
+4. Results and analysis
+
+5. Discussion and conclusion
+
+6. Implications
+
+7. Limitations and further research
+
+Figures
+
+Table 1
+
+Table 2
+
+Table 3
+
+References
+
+Further reading
+
+Corresponding author
+
+About the authors
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Young Consumers
+
+Volume 21 Issue 3
+
+Children in the digital world: exploring the role of parental–child attachment features in excessive online gaming
+
+Abstract
+
+1. Introduction
+
+2. Background and hypotheses
+
+3. Methodology
+
+4. Results and analysis
+
+5. Discussion and conclusion
+
+6. Implications
+
+7. Limitations and further research
+
+Children
+
+Online gaming
+
+Excessive gaming behavior
+
+Parental attachment
+
+Self-control
+
+India
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Gender
+
+Male
+
+52.4
+
+Female
+
+47.6
+
+Excessive online gaming scores
+
+Non-excessive gaming category
+
+95.7
+
+Excessive gaming category
+
+4.3
+
+No of gaming hours weekday (daily)
+<1  to 1–2 h
+
+73.2
+
+2–4 h
+
+20.2
+
+4–8 h
+
+4.3
+
+>8 h
+
+2.3
+
+Weekend (daily)
+<1  to 1–2 h
+
+50.1
+
+2–4 h
+
+35.9
+
+4–8 h
+
+10.3
+
+>8 h
+
+3.6
+
+Family structure
+
+Both parents
+
+61
+
+Single parent
+
+1.8
+
+Joint family (typically with grandparents)
+
+26.1
+
+Both parents (and one or more unmarried/widowed relatives)
+
+8.4
+
+Chose not to disclose
+
+2.5
+
+Father education
+
+12th standard or less
+
+5.1
+
+Didn’t complete graduation
+
+15.2
+
+Graduate
+
+27.2
+
+Post-graduate
+
+52.5
+
+Mother education
+
+12th standard or less
+
+9.1
+
+Didn’t complete graduation
+
+14.8
+
+Graduate
+
+28.0
+
+Post-graduate
+
+48.1
+
+POG score
+
+1
+
+Trust
+
+−0.109*
+
+1
+
+Communication
+
+−0.017
+
+0.736**
+
+1
+
+Alienation
+
+−0.204**
+
+0.650**
+
+0.613**
+
+1
+
+PPA total score
+
+−0.120*
+
+0.900**
+
+0.898**
+
+0.846**
+
+1
+
+Gender
+
+−0.191**
+
+0.009
+
+0.018
+
+−0.022
+
+0.003
+
+1
+
+Weekday
+
+0.262**
+
+−0.152**
+
+−0.201**
+
+−0.278**
+
+−0.237**
+
+−0.043
+
+1
+
+Weekend
+
+0.250**
+
+−0.146**
+
+−0.155**
+
+−0.262**
+
+−0.211**
+
+−0.010
+
+0.698**
+
+1
+
+Total gaming hours
+
+0.278**
+
+−0.161**
+
+−0.193**
+
+−0.292**
+
+−0.242**
+
+−0.028
+
+0.915**
+
+0.928**
+
+1
+
+Family
+
+0.015
+
+−0.064
+
+−0.108*
+
+−0.034
+
+−0.080
+
+−0.072
+
+0.001
+
+0.012
+
+0.007
+
+1
+
+Father Edu
+
+−0.107*
+
+0.037
+
+−0.009
+
+−0.010
+
+0.006
+
+−0.012
+
+−0.019
+
+0.031
+
+0.007
+
+0.020
+
+1
+
+Mother Edu
+
+−0.126*
+
+−0.003
+
+−0.045
+
+0.010
+
+−0.016
+
+0.048
+
+−0.053
+
+0.004
+
+−0.026
+
+0.063
+
+0.752**
+
+1
+
+Covariates
+
+Gender (Boys = 0; Girls = 1)
+
+−0.132*
+
+−0.139*
+
+−0.147*
+
+Boys
+
+Girls
+
+No of gaming hours
+
+0.284***
+
+0.257***
+
+0.239***
+
+0.323***
+
+0.187*
+
+Independent variables
+
+Parental attachment
+
+−0.02
+
+0.092
+
+Trust
+
+−0.023
+
+−0.08
+
+0.053
+
+Communication
+
+0.17 (a)**
+
+0.238**
+
+0.138
+
+Alienation
+
+0.215***
+
+0.135
+
+0.33**
+
+Mediation
+
+Parental attachment → child self-control
+
+0.373***
+
+Child self-control → POG
+
+−0.347***

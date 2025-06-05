@@ -1,0 +1,739 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Educational Administration
+
+ISSN: 0957-8234
+
+Article publication date: 13 September 2021 Permissions
+
+Issue publication date: 25 January 2022
+
+The purpose of this paper is to present the successful school and principal (SSP) model, which has developed over 13 years of Israeli involvement in the ISSPP study.
+
+This is a conceptual paper summarizing the findings of more than 20 case studies of successful, coasting and low-performing schools and their principals, into the SSP model. In all the cases, ISSPP protocols were used to collect the data, and the findings were analyzed in accordance with the organizational approach and organizational routine theory.
+
+The explanatory SSP model comprises three cyclical phases that explain cause–effect relationships and presents intervention points for school improvement toward success. The first phase is an organizational restructuring of two core routines: the school schedule routine and the school tracking routine, which shape and affect school staff behavior. The second phase is the priorities and values revealed in these behaviors and which shape the school as a learning environment. The third phase in school improvement is the institutional legitimacy derived from and reflecting the school’s priorities and values. All these phases are based on the principal as a crucial key player who turns the wheel.
+
+Theoretically, the SSP model explains cause–effect relationships and indicates possible interventions and improvements. Practically, the SSP model can influence principal preparation programs, novice principal mentoring and serve as a roadmap for school improvement.
+
+Tubin, D. and Farchi, T.R. (2022), "Successful, coasting and low-performing school principals in Israel: an explanatory model", Journal of Educational Administration, Vol. 60 No. 1, pp. 56-71. https://doi.org/10.1108/JEA-04-2021-0089
+
+Emerald Publishing Limited
+
+Copyright © 2021, Emerald Publishing Limited
+
+Since its inception, the ISSPP has been dedicated to increasing knowledge on successful school principalship using a multi-method design, case studies and standard protocols. We joined the project in 2008 after some insights about successful school principalship had already been gained (Day and Leithwood, 2007; Gurr et al., 2006). Since then, we have conducted more than 20 case studies on successful, coasting and low-performing schools and their principals, with the aim of broadening our understanding of school principalship, school organization and the principal’s role in promoting school effectiveness.
+
+In this paper, we present our 13-year journey, the questions we have asked and answered, the successful school and principal (SSP) model we propose and future directions in successful school principalship research. We begin with a brief description of our research, followed by the SSP model and conclude with theoretical and practical implications. Before we begin, some clarification is needed concerning the significance of successful schools and principals.
+
+The concept of “successful school principal” assumes that principalship is evaluated by school success. Occasionally, a charismatic principal can bring their school to temporary success by means of exceptional standards or a high-achieving school can keep its good reputation despite the short service of a mediocre principal. In Pashiardis and Johansson's (2020) terms, the first might be successful in the short term and ineffective in the long run, and the second might be efficient but less focused on how children learn successfully. Overall, and as found in the literature (González-Falcón et al., 2020; Grissom et al., 2021; Helal and Coelli, 2016; Qadach et al., 2020), we hold on to the basic assumption that a principal’s success should be evaluated by their school’s success and effectiveness. The principal’s formal authority, their significant impact on the school, the organization’s flat hierarchy and public expectations for principals to lead their schools toward meeting success standards, support this assumption.
+
+School success is more complex to define. All countries set specific criteria for successful schools, but these criteria are differently determined in each country (Leithwood and Day, 2007). In the USA, for example, success is measured by academic achievement in reading and mathematics (Murphy and Bleiberg, 2019), in Germany, by achievement in educational, financial and personnel matters (Huber and Gördel, 2006), in China, by school facilities, leadership and teaching quality (Liu, 2017), and in Israel, school success is measured by academic achievements and school climate (Ministry of Education, 2019).
+
+In Israel, high schools are ranked by the matriculation examination eligibility rate and the scores required to attend higher education institutions. Elementary schools and junior high schools undergo periodic national testing of academic achievement (math, language, English, science and technology), climate and pedagogical environment and teacher and student values, such as trust, care, safety, bullying, exciting teaching methods and curiosity in learning. In the past, a school’s achievements were open to public review; for the past two years, however, they are only open to the principal due to an unresolved public debate. Our studies also found that school prestige and reputation play an essential part in school evaluation, which we measured by asking the school superintendent, representatives of the municipality and parents for their opinion. Thus, in the Israeli ISSPP study, we use indicators of students’ academic achievements, school climate and school reputation as measures of school success.
+
+The State of Israel was established in 1948, and currently has a population of 9.1 million, with 1.82 million students studying in 5,163 schools, and 182,000 teachers (Israel Central Bureau of Statistics, 2019a, b). Israel’s centralized education system is governed by the Ministry of Education (MoE), which controls nine geographical and administrative districts, and four educational sectors: state-secular, state-religious, Arab and ultra-Orthodox. All schools are public and funded to varying degrees by the MoE. The MoE determines educational policy in all aspects, such as school buildings, curriculum, teacher employment and principal preparation and development and grants varying degrees of autonomy to the districts and sectors, who implement the policy in collaboration with the municipalities and schools in their jurisdiction (Yogev, 1996). The schools consist of elementary schools (1st–6th grade, 6–12-year-olds) and secondary schools (7th–12th grade and 13–18-year-olds), which are usually divided into junior high (7th–9th grade) and high schools (10th–12th grade). Participants in this study were Israeli elementary and secondary schools from the Hebrew-speaking sector, which constitutes 57% of Israel’s school system (Israeli Central Bureau of Statistics, 2019a, b).
+
+Several studies were conducted using ISSPP protocols (Day, 2007), which imply a case study methodology, purposeful school sampling according to each study goal, and interviews, observations and document analysis as research tools. All the studies received approval from the Ben-Gurion University Ethics Committee and the Chief Scientist at the Ministry of Education. All the interviewees signed an informed consent and were advised that they could leave the study at any stage without consequence, and all personal data were disguised to maintain the interviewees’ privacy.
+
+The studies include five successful schools in 2010, four innovative learning environment schools in 2010–2012, four large effective high schools in 2012–2014, four coasting schools in 2014–2017, three case studies of successful, coasting and failing school principals in 2017–2019 and one low-performing high schools that is still ongoing (The schools, students and principals are presented in Table 1). Over the years, this body of research has earned three research grants from the Chief Scientist at the Ministry of Education and the Israel Science Foundation and has served as a research field for more than 12 MA and PhD research students. To date, the research results have been published in 20 articles, book chapters and research reports (11 of them in Hebrew). Each study and case study added further insights to our knowledge.
+
+In our studies, we used the organizational perspective as a framework for analysis. This means that we looked for the organizational structure, which “can be defined simply as the sum total of the ways in which it divides its labor into distinct tasks and then achieves coordination among them” (Mintzberg, 1979, p. 2). To understand success or failure, we not only described leadership practices but traced its impacts and embeddedness in the organizational processes. Based on theories such as institutional theory (Meyer and Rowan, 1992; Scott, 2013; Tal and Tubin, 2021), the structuration approach (Giddens, 1986) and organizational routine theory (Pentland and Feldman, 2005), we asked how principals motivate (or not) others to accomplish their tasks, how they construct (or destroy) organizational routines and what kind of relationships they create with the school’s stakeholders.
+
+From 13 cases of successful school principals, we learned how complicated the school organizational structure is, and how significant the principal’s impact is on this structure (Tubin, 2011, 2015; Tubin and Pinyan-Weiss, 2015). We found that although a principal’s impact is indirect, it is dramatic. Allocating insufficient teaching hours to a subject, for example, interferes with student learning; creating a grouping system influenced by student background reduces equality in educational opportunities; and appointing young and inexperienced teachers as department heads impedes professional development.
+
+We also learned that Israeli principals share the same practices as principals in other countries. For example, as found elsewhere (Leithwood and Riehl, 2003; Leithwood and Day, 2007), successful Israeli school principals present four categories of leadership practices: building a vision and setting directions, developing people, shaping the organization and managing the teaching and learning program. These findings were further validated in a recent meta-analysis of 6 studies involving more than 22,000 principals in 4 US states and 2 urban school districts. The study reported four leadership behaviors: engaging in instructionally focused interactions with teachers, building a productive school climate, facilitating productive collaboration and professional learning communities and managing personnel and resources strategically (Grissom et al., 2021).
+
+While successful Israeli principals presented such practices, the cause–effect relationships and hierarchical order between these practices remained ambiguous. In other words, what is the principal’s primary concern; what is built on top of it; and how does one action influence and intertwine with other actions. It could be argued that principals should be engaged in all these practices simultaneously since they are all essential and interdependent. This might be true, of course, but we assumed that there is a hierarchy within the organization, and some practices have more impact than others. This assumption is based on the organizational perspective that sees the organization as a tool to achieve certain goals according to institutional expectations (Scott, 2013); the organizational routines as a source of stability and change (Feldman and Pentland, 2003); and the interaction between agent and system as combining individual and organizational interests (Giddens, 1986). With this assumption in mind, we moved onto a study of coasting schools, hoping to discover what leadership practices their principals use, and what in their structure prevents them from achieving success or suffering failure.
+
+Coasting schools, also known as “cruising” or “strolling” schools (Fullan, 2006; Hopkins, 2001; Stoll and Fink, 1998), are moderately effective schools that are stuck at average performance with low-added value: although they demonstrate respectable academic outcomes, they fail to fulfill the potential of students from above-average SES backgrounds. To study these schools, we conducted a multi-case study of four coasting school principals, using organizational routine theory for data analysis (Tubin and Farchi, 2017). Organizational routines are defined as “repetitive, recognizable patterns of interdependent actions, carried out by multiple actors” (Feldman and Pentland, 2003, p. 95). A routine’s internal structure comprises three aspects: the ostensive aspect, which refers to abstract goals; the performative aspect, which refers to the actual performance of specific people, at specific times, in a specific place; and the artifacts aspect, which takes many forms, from written rules to the general physical setting (Pentland and Feldman, 2005). Organizational routine theory enables us to analyze a routine’s internal structure and timeline (Pentland and Feldman, 2005), identify the owner of the routine, distinguish between core and peripheral routines (Howard-Grenville, 2005), and, thus, explain cause–effect relationships between the principal’s behavior and the school’s structure and outcomes (Tubin, 2017).
+
+From the coasting school study, we learned that schools operate two core routines: school schedule and school tracking, and several peripheral routines that support them, such as department teamwork, which supports teaching in accordance with the curriculum and school schedule, and student assessment, which feeds decisions about student tracking. These findings helped us to answer the above questions thus: A principal should focus first on restructuring and maintaining the core routines. This conclusion differs from the first leadership practice of building a vision and setting directions as proposed by Leithwood and Day (2007) or engaging in instructionally focused interactions with teachers, as suggested by Grissom et al. (2021). While principals use these leadership practices, they are often distorted due to the routine’s design. In other words, we found coasting school principals with an articulated vision. Yet, the school routines present a loosely coupled internal structure and disorganized alignment, which prevent them from realizing the school’s vision. To better understand the meaning of a core routine’s design, the role of pedagogical vision and what in the school’s routines the principal can improve or destroy, we moved on to low-performing school principals.
+
+Low-performing schools are schools at the bottom of the ranking scale, which applies to about 10% of Israeli schools (Ministry of Education, 2019) and 5% of American schools (Childs and Russell, 2017). There are several explanations for a school’s underperformance, such as unattainable goals (Murphy and Bleiberg, 2019), lack of resources and supportive context (Herman, 2012), poor leadership, lack of focus on student learning (Duke, 2008; Murphy, 2010) and inexperienced teachers (Childs and Russell, 2017). However, organizational aspects, such as role definitions, routine structure, reward system and feedback loop, with reference to school failure are under-researched. Our research question was: How does the principal design the structure within which people carry out their work (Leithwood and Riehl, 2003). In this research phase, we have completed three case studies (Farchi, 2019), and one is still ongoing.
+
+Preliminary findings show that these low-performing schools present a broken routine structure, both in core and peripheral routines. A broken routine structure means there is no consistency or close connection between the routine’s three aspects. Although these schools operate routines with the same ostensive goals and titles as other schools, the performative aspect is inconsistent with the ostensive goal, such as declaring a track-free choice but limiting it in accordance with student achievements. The artifact aspect presents excessive resources, such as two heads in one department, or insufficient resources, such as no computers in the middle leaders’ offices. These findings suggest that a principal’s primary efforts, whether in a low-performing or other school, should be invested in restructuring the performative and artifact aspects of school routines. This means appointing suitable mid-level leaders and rewarding them appropriately, defining roles, authority and responsibility with clear jurisdiction, allocating the right resources in accordance with transparent priorities and establishing an accountability process (Farchi and Tubin, 2019).
+
+These findings of our ISSPP journey led us to develop the SSP model, which joins previous models (e.g. Day and Sammons, 2016; Gurr, 2017; Pashiardis et al., 2011). The SSP model emphasizes the cyclic causality explanation, which begins with restructuring the school’s organizational routines that affect staff behaviors, continues with these behaviors to create priorities and values and achieves environmental legitimacy and support, which in turn strengthens the school. All this with the principal as a key player who turns the wheel, as presented in Figure 1.
+
+This explanatory model seeks to explain what SSP do, compared to less SSP, and traces the pathways of influence and the areas with the most significant effect. Like others (Grissom et al., 2021), we are no longer interested in the question of the principal’s direct–indirect effects, but rather in the steps, the principal takes toward developing or destroying, the school as an organization. In Figure 1, the number of each step reflects its order, and the one-way arrows present the direction of influence. The cause–effect relationships are probably more complex, with environmental expectations affecting school values, and the principal’s history, values and habitus affecting their behavior (Farchi, 2019). The model does not attempt to capture all these intertwined relationships, but rather to extract cause–effect relationships that are within the principal’s control: there is no point in formulating values without applying them in the organizational structure or in seeking institutional legitimacy without appropriate priorities. For school improvement, the model presents a cycle with a starting point, order of actions and direction of influence, that if successful reinforces itself. It begins with the first step of restructuring the organization which affects behavior, continues with behavior that establishes priorities and values, which in turn achieves environmental legitimacy and support.
+
+School organization is a product of history, and the result of multiple forces that shaped public education, and creates a taken-for-granted structure, or grammar, that does not “need to be consciously understood to operate smoothly” (Tyack and Cuban, 1995, p. 85). The structure perceived as the “real school” is based on two cornerstones: the curriculum, which is divided into yearlong batches taught by an individual teacher in 45–55-min lessons, and the students, who are sorted according to academic proficiency, age and subjects. This structure is ingrained in resources, legislation, physical conditions, teacher accreditation, working conditions, standard national exams and student graduation requirements. This structure, which has endured for more than a century, manages to provide millions of students with educational services and effectively resists reforms, innovations and changes (Cuban, 1990; Fullan, 2020).
+
+As mentioned earlier, we found two core routines to characterize the grammar of schooling: school schedule and school tracking (Tubin, 2015; Tubin and Farchi, 2017). The school schedule routine, or timetabling, arranges the time (lessons) according to subjects, teachers, students and classes (Barr and Dreeben, 1983; Pillay, 2014). The findings reveal that the school schedule is a routine cluster (Kremser and Schreyögg, 2016) composed of two interrelated routines of schedule planning and schedule maintenance. In successful schools, planning starts early in the school year; pedagogical goals are considered; a fixed weekly time is allocated for department staff meetings; and the needs of individual teachers are taken into consideration, while in less successful schools, planning is carried out later and reproduces the previous year without drawing conclusions or outsourced to an external vendor with minimum guidelines. As one coasting-school principal relates: “Our schedule coordinator knows that he does not get a summer break … it's a full-time summer job.” The results were revealed in the maintenance routine, which begins at the start of the school year, with a low rate of teacher lateness and absence, and regular time for teamwork in the successful schools, compared to high rates of teacher lateness and absence, and irregular team meetings in the less successful schools.
+
+While the notion that routines and regularities affect teachers’ behaviors are not new (Sarason, 1996), we discovered how fundamental it is. For example, in one coasting school, the time slot for staff meetings in the school schedule was the same for all the departments, so teachers who belong to more than one team (which frequently happens) have to miss one meeting or the other. In one low-performing school, we found that department team meetings were scheduled early in the morning, 40 min before the students arrive, which resulted in some teachers being late, and others leaving early for classes, sparing insufficient time for any real teamwork.
+
+Making the school schedule the principal’s focus does not mean giving up the school’s pedagogical vision but rather realizing it in the school schedule and aligning it with national success criteria. For example, in one low-performing high school, the principal created a new multidisciplinary subject titled “humanism,” comprising language, literature and history, all of which are assessed in the matriculation examinations. He prioritized teaching hours for the new subject at the expense of compulsory subjects and asked the teachers to develop a new curriculum while abandoning their traditional teaching plan. Within five years, the school’s matriculation examination eligibility rate fell from about 80% to 45% (compared to the national average of 50%). The main reason was student failure in language, literature and history (humanism is not one of the national exam subjects). In the restructuring process, the principal failed to control the changes from year to year, supervise the middle leaders, investigate the program’s strengths and limitations and align it with the national standard. As a result, the school “earned” the title of “failing school” from the Ministry of Education and the local municipality.
+
+To sum up, the principal’s role in shaping the school schedule routine cluster is crucial. They need to appoint the right teacher for the role of schedule coordinator (as it is called in Israel), who helps to develop the school schedule. They should also start planning early (in March–April for the following school year), ask their middle leaders (department heads and grade coordinators) to collect data about their programs, curriculums and teachers’ needs and allocate teaching hours according to pedagogical priorities, while respecting teachers’ working conditions. All this concurrently with the principal’s ongoing monitoring of the maintenance of the current schedule and future planning processes. By these two interrelated routines of planning and maintenance that make up the cluster of school schedule, the organization’s structure affects the behaviors of the actors. Similar attention should also be given to the other core routine – school tracking.
+
+School tracking, also known as “streaming,” “grouping,” “sorting” and “classifying”, is “the process of differentiating individuals' school experiences through the grouping of students for instructional purposes based on actual or assumed differences in academic development or interests” (Schiller, 2007, p. 5030). In Israel, the tracking routine occurs in its entirety during high school (6th to 12th grade, ages 13–18). In a study of four large successful comprehensive high schools, we found that the tracking routine was performed throughout the six years of high school, with specific time points for the students to choose from limited options. We also found that this is another routine cluster with three interrelated routines, in which each routine’s output serves as the next routine’s input. The “achievement-based grouping routine” in English and math in sixth grade limits student choice at the “track choice happening routine” in eighth grade. The outputs of these two interrelated routines serve as input for the “grade placement routine” in 10th grade. Each routine is conducted differently, in different grades, it is known by a different name and executed by diverse participants; consequently, teachers and students hardly recognize or identify it as a routine cluster. Moreover, the tracking routine overlaps with routines such as student assessment, pedagogical council (a forum comprising the school principal, school counselor and department heads, which deals with student placement), and professional development.
+
+The tracking routine impacts teacher behavior in several ways – first, the frequency and systematic method of student assessments. While teachers in successful schools conducted regular tests to track their students’ achievements and reinforce them as much as needed, in the coasting schools, tests were only conducted according to external demands.
+
+Tests are rare in low-performing schools, as one teacher related: “I do not need assessments to know where my students stand with the studied material. I look them in the eyes, and it's enough.” Another teachers’ behavior impacted by the tracking routine is their response to students who want to change tracks. In successful schools, teachers help students to make up the material required in order to move upward and try to contain and help them if they choose to leave a challenging learning group. In less successful schools, teachers are less flexible and hold the students accountable for their choice. If students want to move up, it is their responsibility to make up the material with a private tutor, after school hours, at their family’s expense, as one teacher explains: “I told the student, ‘You can study on your own during the summer break, and take a pass test’ … Our condition was that he'd continue with a private tutor after school if he wanted to stay in the higher math group.”
+
+Finally, the professional development routine affects the tracking routine by means of the teachers’ ability to help students achieve and fulfill their potential. In one successful school’s math department meeting, we observed the large team (16 teachers) split according to age groups to improve student understanding and learning while referring to existing teaching methods and their benefits and weaknesses. In less successful schools, we observed short and chaotic meetings focusing on administrative issues (Farchi and Tubin, 2019). Such practices affect professional development, teaching quality, student achievements and the students’ ability to improve their track choices.
+
+The principals’ role is to strengthen the students’ ability to choose a track according to their interests, and not only based on previous academic achievement, in order to promote student satisfaction, achievements and prospects (Loveless, 2009, 2016). In a study on coasting school principals, we found that while the core routines presented the same coupled structure, with clear role definitions, division of labor and communication channels, the peripheral routines presented considerable variation. In general, the less control the principal has over performance of the routines, the more varied they are, and the lower their contribution to the school’s overall success. For example, if the math department has a good head who leads it toward professional teamwork and high achievement, it is averaged by the language department’s low achievements, a weak head and poor teamwork. We conclude that the principals affected these core routines by means of the middle leaders they appointed, the accountability they demanded and the resources they allocated.
+
+To sum up, the principal can influence teacher behaviors by restructuring the two core routines of school schedule and school tracking. This means they have to manage personnel, which might lead to confrontations with some of the teachers, but, at the same time, it enables them to set school priorities and realize their values.
+
+According to the famous adage, “actions speak louder than words,” and they also reveal values. Knowingly or unknowingly, the principal’s actions and interactions reveal, create and establish the school’s values, climate and culture. It begins when novice principals enter the office and start to develop their leadership identity by direct/indirect and verbal/non-verbal leadership-claiming practices, engaging in claiming-granting positive spirals for enhancing their leadership function (DeRue et al., 2009; Tubin, 2017). It continues with the principals’ behaviors in appointing middle leaders, developing them professionally, empowering their leadership and providing them with the right resources.
+
+For example, in a comparison between middle leaders in successful and less successful schools (Farchi and Tubin, 2019), we found that the successful principals appointed middle leaders based on professional abilities, while providing them with clear role definitions, regular meeting times, decent rewards and constant support. Less SSP, on the other hand, provided their middle leaders with fewer resources, and appointed young, inexperienced and loyal teachers, as one principal related:
+
+Loyalty is very important to me, and I'm not ashamed to say so. I will not choose a middle leader who has wonderful relationships with the students, a nice personality, and intelligence, if I know she'll comment on every other word I say. I will not choose her because I do not want to waste my time on endless arguments … (Farchi and Tubin, 2019, p. 380)
+
+Another less successful principal understaffed her midlevel positions with obedient teachers and overloaded them with too many responsibilities, which they were unable to handle. She undermined their authority by interfering, or giving redundant instructions, such as asking three middle leaders to perform the same task, and, when they ignored her, doing it herself. Such less successful principals’ behavior creates a climate of distrust, worry and dependency, in which the teachers are stuck with compliance to the principal’s norms, avoiding new teaching methods that can improve student learning.
+
+A similar picture emerged with regard to professional development practices. Successful principals were found to make time and space for departmental teamwork, ask for collaborative data-based inquiry that focuses on diagnosing each student’s strengths and weaknesses and for teaching plans adapted to each student’s needs to be developed and to follow through (Jäppinen et al., 2016). The less successful principals favored uniformity, asking all the teachers to attend a general professional development course at the expense of department team meetings. As one middle leader explained: “While our team meetings are supposed to take place every week, many other meetings are scheduled for the same time … so we meet, but not regularly.”
+
+In general, the less successful principals are unaware of their practices and their implications. As vividly described by DuFour and Reeves “Educators rename their traditional faculty or department meetings as PLC meetings, engage in book studies that result in no action, or devote collaborative time to topics that have no effect on student achievement – all in the name of the PLC process” (DuFour and Reeves, 2016, p. 69).
+
+Behavior that creates value was also found in authority delegation and middle-leader empowerment practices. Successful principals trust their middle leaders, define their duties and help them to achieve their goals. Less successful principals “distribute leadership” by appointing too many teachers to the same middle leader role, surprising them with unannounced inspections and taking the lead when they do not like what they see. As one principal related: “My teachers are always ready, they know I can come into their class or join their meeting by surprise”. A successful principal tells a different story: “Why should I surprise my teachers with unexpected visits? If I have to surprise them, I've already lost. I prepare them for my class observations because I want them to succeed.”
+
+Leadership practices reveal the principal’s values and create a school climate of conformity, obedience and cover-up in the less successful schools or values of organizational learning in which the staff are committed to checking the data, choosing solutions collaboratively and following them through (Argyris and Schön, 1996) in the successful schools. However, values do not only affect educational staff behavior but also the school’s ability to achieve environmental legitimacy.
+
+Achieving legitimacy is the process of attaining environmental acknowledgment for the organization for adhering to institutional logic and expectations, which in turn provides it with the necessary resources for its survival (Suchman, 1995; Thornton and Ocasio, 2008). The education system is a mature, institutionally controlled field composed of a variety of agents, each holding diverse interests and ideologies, who can grant different types of legitimacy and provide various kinds of resources (Scott, 2013). There are three kinds of legitimacy: Cognitive legitimacy for the fit between school values and field values, regulative legitimacy for following the field’s laws and regulations and normative legitimacy for presenting appropriate qualities. In the case of Israeli schools, the state and local authorities provide schools with a license, accreditation and additional resources (buildings, personnel, equipment, etc.), while parents, the community and the media provide cognitive and normative legitimacy by approving it as “real school” (Tal and Tubin, 2021; Tyack and Cuban, 1995). Thus, to achieve the needed legitimacy, principals need to differentiate their vision to meet each of the stakeholders, according to the different kinds of legitimacy they can provide.
+
+In one of our studies (Tubin, 2012), we found that successful principals’ values appear in their relationships with school stakeholders and enhance the school’s reputation. Like Molière’s protagonist, who has unwittingly been speaking prose all his life, successful principals create and maintain school legitimacy in their ongoing relationships with stakeholders. They apply their values to solve teachers’ problems in a way that also satisfies parents, as one principal related:
+
+We have a teacher that parents complain about all the time … ten years ago, they tried to fire her but failed … so eventually, I tried different methods – to embrace and support her. Maybe it reduces her behavior that results from fear and stress … For years I've been working with her this way, and I'm getting a lot more from her than before … she comes in on her own time to help the students and gives her heart and soul … (Tubin, 2012, p. 13)
+
+As found elsewhere (Day et al., 2009), successful leaders serve as role models for school staff. Thus, creating good relationships with parents becomes a common habit, enhances school reputation and gains normative and cognitive legitimacy. A finding supported by other studies is that school–parent communication has the most potent effect on improving a positive school image, and school image has a strong influence on parents’ loyalty (Li and Hung, 2009). The principals’ values and behavior also achieve regulative legitimacy, which provides the school with resources, as in the following example:
+
+One of the successful high schools we studied belongs to a network that handles all the school’s financial matters and expects the principals to maintain very accurate bookkeeping. This required the principal to be in a constant working relationship with the network’s officials, as she related: “I have a very good relationship with the woman in charge, and if she has surplus funds, she gives them to me. It could be that in October there's nothing, and a month later ten thousand dollars suddenly arrive” (Tubin, 2012, p. 15).
+
+Less successful principals were found to be less aware of the importance of environmental legitimacy in several ways. First, they consider stakeholders a burden and prefer to spend time with their teachers and students, as one of the less successful school principals related:
+
+I believe that the principal should hang around, so the students see me, say “good morning” to me, and I'll ask them “how are you today” … I like to hang around and joke with them … Since the last reform, I have no time for this. I'm busy with paperwork, bureaucracy, student assessments, always assessing one group or another, and lots of projects that someone at the top [Ministry of Education] believes will build the future (Tubin and Farchi, 2017, p. 48).
+
+Second, the less successful principals simply do not acknowledge the educational field’s standards and expectations, as one principal explained their school’s attitude toward the matriculation examination – one of the most crucial success standards in Israel:
+
+Our school does not speak about matriculation examinations. There's no discussion on achievements. I do not sit with department heads about their students' achievements, nothing. Once, a superintendent wanted to know how many students study math at the highest level. It was the first time I'd seen the data. I simply did not know how many students we have at the highest level (Tubin and Farchi, 2017, p. 53).
+
+Third, the less successful principals focus on one central issue, while neglecting others, and have difficulty understanding how this affects teacher behavior and environmental legitimacy. Another study (Farchi, 2019), for example, found that the principal ignored infrastructure problems, such as an Internet connection, and avoided addressing it with the relevant agent, assuming that controlling her teachers was sufficient. Apparently, it was not, as one teacher related: “She [the principal] says ‘yeah, the teachers whine, they like to postpone their duties’, but you can't work in a school without Internet … you can't expect us to work at home, in our free time.” Ultimately, the principal’s practices affect teachers, students and stakeholders, who, with their responses, enhance the principal’s standing and vice versa.
+
+The three phases in the SSP model explain the cause–effect relationships between leadership practices and school success indicators. It is important to note that these practices overlap considerably and are used simultaneously by the principals every day; however, for the sake of simplicity and the model’s clarity, we have presented them separately. Some of our conclusions, such as appointing the right teachers for middle leader roles, and focusing on learning and instruction, are not new (Grootenboer et al., 2015; Harris et al., 2019). However, the SSP model proposes order, or hierarchy, in leadership practices and implications, emphasizing their cyclical nature.
+
+In real life, restructuring school routines, establishing priorities and values and stakeholder maintenance are never a one-time effort. All are ongoing processes challenged by constant changes in school staff, stakeholders and other internal and external circumstances. As we have claimed in the past, school success is a process of structuration in which “it is never too early to be aware of a school deteriorating toward low performance, just as it is never too late to start improving a school toward success” (Tubin, 2015, p. 31). However, it is still unclear what prevents less successful principals from becoming successful.
+
+It is important to note that less successful school principals are just as devoted and hardworking as successful school principals. At the same time, they present several differences: difficulties in leading people, low self-awareness and limited systems thinking. Difficulty in leading people was found, for example, in avoiding confrontation and justifying it as ideology, as one coasting school principal explained: “I believe in my teachers, so I never check their teaching plans, I just file them … I also trust them to do what they need to do, and do not worry if they're late for class”.
+
+Sometimes, less successful principals seek confrontation to make a point. One coasting principal founded her relationships with the teachers on personal favors, such as sending flowers on a birthday or giving a day off, and was surprised when they refused her requests despite her special treatment:
+
+What did I ask of her? To replace a teacher who was absent. So, what if it's for free?! How dare she settle accounts with me after I gave her a day off to spend with her husband?! When I ask for something, I expect them to say “yes” and to obey … I do not ask them for personal things.
+
+Low self-awareness was manifested in inappropriate expectations from the educational staff, and efforts to compensate by doing everything herself, as one department head said about her underperforming principal: “She wants to know everything and to be involved in everything … a million tasks come to her desk every day, and it's terribly difficult.” The limited systems thinking was reflected in missing the connection between related events, such as an overloaded middle leader with too many duties, and complaints about her poor functioning. Other condition prevent principal from improving themselves is when the school community accept good-enough schools as good schools (Hopkins, 2007) and settle for mediocre principals.
+
+We conclude that three actions are required to improve less successful principals and their schools: select the principal better, prepare them better and mentor them better in their first years in office. Focusing on the three abilities of leading people, self-awareness and systems thinking can serve as a guideline for all these actions, while emphasizing the professional skills of diagnosing a complex situation, choosing the proper intervention and drawing inferences from the outcomes for the principal’s leadership practices and biases.
+
+Our SSP model has theoretical and practical implications. It has two theoretical contributions. The first is the principal’s crucial position in the cyclic cause–effect relationship between organization, behavior, values and legitimacy. While principals have the power to destroy everyone else’s changes and innovations, only they can sustainably restructure school organization. Therefore, they are marked as “1” in the model (Figure 1), to reflect that the improvement process begins with the principal, not expert advisers, or external specialists. When restructuring organizational routines, the successful principals presented appropriate priorities, acknowledged environmental expectations and enhanced their school’s success and reputation. Less successful principals engaged in a chaotic or partial cycle, in which they partially fulfilled their tasks, which weakened the teachers’ ability to teach, and impacted student achievements. This is a relationship that exists with or without the principal’s awareness and needs to be the primary goal of any principal professional development program.
+
+The second theoretical contribution is the key intervention point. With the SSP model, we argue that the principal should begin by restructuring organizational routines, especially the core routines of school schedule and school tracking. This is no easy task, since these routines overlap with other routines, and must be aligned in order to achieve their maximal effect. Future research in this direction can deepen understanding of the connection between principal behaviors, aspects of the routines and school values, toward gaining a better understanding of the principal’s practices that support or prevent a school restructuring.
+
+There are also three practical implications. First, the SSP model can serve as a guideline for improving school processes and structure, especially in turnaround schools (Tubin, 2019). In an ongoing design-based study of a low-performing school principal and a university researcher, we are applying the process of diagnosis, intervention and inference to design the next steps (Abbott, 1988). To date, after 18 months, the SSP model has considerably helped in understanding the situation of organizational restructuring and acting upon it. It is also becoming clear that, like any abstract model, the SSP model requires many hours of dialogue to make sense of it and translate it to the specific context. One result of this study is that the principal becoming aware of the cause–effect relationship between his thoughts, actions and structure.
+
+The second practical implication pertains to principal preparation programs. The SSP model can help to prioritize the dozens of subjects and issues in the program according to their contribution to principal development. For example, after studying important subjects, such as the climate crisis or emotional learning, the candidate principals have to discuss how they can introduce such subjects into the school schedule, at the expense of what, how teachers will learn to teach this subject and how it can be aligned with the national standard. Third, the SSP model can serve as a guideline for principal mentoring, enabling novice principals to acknowledge their biases, reveal their strengths and weaknesses and learn how to use them to successfully restructure the school organization (Pariente and Tubin, 2021).
+
+The theoretical and practical implications point to the next phase of the ISSPP study in Israel. The first is to continue developing the SSP model, and especially to discern the reciprocal effect, to find out when the principal becomes the generator who turns the wheel (the cause) of the school’s improvement (the effect) and when other processes work the other way around, and their implications. The second is to better understand what can help principals to become successful in their restructuring odyssey. This leads to three additional sub-questions: What are the main professional skills of principalship? How can such skills be developed? And how do these skills connect with and improve the school’s organizational structure? Our two initiatives of design-based research on two low-performing schools, and the new MA program in organizational consulting for schools, are steps in this direction.
+
+Some final words. This paper is being written as Israel is slowly recovering from the Covid-19 pandemic. After a year of determined struggle, life is starting to get back on track. We do not have sufficient knowledge about the implications of the past year, but we do know that it did not favor education. After three rounds of months-long lockdowns, a partial return to school in pods and hybrid teaching, it seems that the SSP model is even more relevant. The model deals with restructuring school organization to serve as a solid foundation not only in regular times but also in times of crisis. The past year has revealed the importance of school schedule for maintaining school-day stability, the significance of midlevel leaders working with the principal to realize the school’s values and the legitimacy schools achieve by functioning under the chaos of a pandemic. All this motivates us to go on studying and improving the SSP model.
+
+The Successful School and Principal model
+
+The studies by main characteristics of students, schools and principals
+
+Abbott, A. (1988), The System of Professions, The University of Chicago Press, Chicago.
+
+Argyris, C. and Schön, D.A. (1996), Organizational Learning II: Theory, Method, and Practice, Addison-Wesley, Reading, MA.
+
+Barr, R. and Dreeben, R. (1983), How Schools Work, University of Chicago Press, Chicago.
+
+Childs, J. and Russell, J.L. (2017), “Improving low-achieving schools: building state capacity to support school improvement through Race to the Top”, Urban Education, Vol. 52 No. 2, pp. 236-266.
+
+Cuban, L. (1990), “Reforming again, again, and again”, Educational Researcher, Vol. 19 No. 1, pp. 3-13.
+
+Day, C., Sammons, P., Hopkins, D., Harris, A., Leithwood, K., Gu, Q., Brown, E., Ahtaridou, E. and Kington, A. (2009), The Impact of School Leadership on Pupil Outcomes (Research Report RR108), DCSF, London.
+
+Day, C.W. (2007), International Successful School Principals Project (ISSPP). Conducting Research on Successful School Principals: Associate Members Guide, School of Education, University of Nottingham, Nottingham.
+
+Day, C. and Leithwood, K. (Eds) (2007), Successful Principal Leadership in Times of Change: An International Perspective, Springer Science & Business Media, Vol. 5.
+
+Day, C. and Sammons, P. (2016), Successful School Leadership, Education Development Trust, Reading, Berkshire.
+
+DeRue, D.S., Ashford, S.J. and Cotton, N. (2009), “Assuming the mantle: unpacking the process by which individuals internalize a leader identity”, in Roberts, L.M. and Dutton, J.E. (Eds), Exploring Positive Identities and Organizations: Building a Theoretical and Research Foundation, Taylor & Francis, New York, pp. 213-232.
+
+DuFour, R. and Reeves, D. (2016), “The futility of PLC lite”, Phi Delta Kappan, Vol. 97 No. 6, pp. 69-71.
+
+Duke, D.L. (2008), “Diagnosing school decline”, Phi Delta Kappan, Vol. 89 No. 9, pp. 667-671.
+
+Farchi, T.R. (2019), “The interactions between habitus, leadership practices, and organizational routines among school principals”, Thesis Submitted in Partial Fulfillment of the Requirements for the Degree of ‘Doctor of Philosophy’, Ben Gurion University of the Negev, (Hebrew).
+
+Farchi, T. and Tubin, D. (2019), “Middle leaders in successful and less successful schools”, School Leadership and Management, Vol. 39 Nos 3-4, pp. 372-390, .
+
+Feldman, M.S. and Pentland, B.T. (2003), “Reconceptualizing organizational routines as a source of flexibility and change”, Administrative Science Quarterly, Vol. 48 No. 1, pp. 94-118.
+
+Fullan, M. (2006), “Leading professional learning”, The School Administrator, Vol. 63 No. 10, pp. 10-14, available at: http://www.michaelfullan.ca/Articles_06/Articles_06b.pdf.
+
+Fullan, M. (2020), “System change in education”, American Journal of Education, Vol. 126 No. 4, pp. 653-663.
+
+Giddens, A. (1986), The Constitution of Society: Outline of the Theory of Structuration, University of California Press, Berkeley.
+
+González-Falcón, I., García-Rodríguez, M.P., Gómez-Hurtado, I. and Carrasco-Macías, M.J. (2020), “The importance of principal leadership and context for school success: insights from ‘(in) visible school’”, School Leadership and Management, Vol. 40 No. 4, pp. 248-265, .
+
+Grissom, J.A., Egalite, A.J. and Lindsay, C.A. (2021), How Principals Affect Students and Schools: A Systematic Synthesis of Two Decades of Research, The Wallace Foundation, New York, available at: http://www.wallacefoundation.org/principalsynthesis.
+
+Grootenboer, P., Edwards-Groves, C. and Rönnerman, K. (2015), “Leading practice development: voices from the middle”, Professional Development in Education, Vol. 41 No. 3, pp. 508-526.
+
+Gurr, D. (2017), “A model of successful school leadership from the international successful school principalship project”, How School Leaders Contribute to Student Success, Springer, Cham, pp. 15-29.
+
+Gurr, D., Drysdale, L. and Mulford, B. (2006), “Models of successful principal leadership”, School Leadership and Management, Vol. 26 No. 4, pp. 371-395.
+
+Harris, A., Jones, M., Ismail, N. and Nguyen, D. (2019), “Middle leaders and middle leadership in schools: exploring the knowledge base (2003–2017)”, School Leadership and Management, Vol. 39 Nos 3-4, pp. 255-277.
+
+Helal, M. and Coelli, M.B. (2016), “How principals affect schools”, Melbourne Institute of Applied Economic and Social Research, Paper No. 18/16. The University of Melbourne.
+
+Herman, R. (2012), “Scaling school turnaround”, Journal of Education for Students Placed at Risk, Vol. 17 Nos 1-2, pp. 25-33.
+
+Hopkins, D. (2001), School Improvement for Real, Rutledge Falmer, London.
+
+Hopkins, D. (2007), Every School a Great School: Realizing the Potential of System Leadership, Open University Press.
+
+Howard-Grenville, J.A. (2005), “The persistence of flexible organizational routines: the role of agency and organizational context”, Organization Science, Vol. 16 No. 6, pp. 618-636, .
+
+Huber, S.G. and Gördel, B. (2006), “Quality assurance in the German school system”, European Educational Research Journal, Vol. 5 Nos 3-4, pp. 196-209.
+
+Israel Central Bureau of Statistics (2019a), “Internal mobility and leaving the system among teaching staff, 2000-2018”, Jerusalem, Israel, (Hebrew), available at: https://www.cbs.gov.il/he/mediarelease/DocLib/2019/171/06_19_171b.pdf.
+
+Israel Central Bureau of Statistics (2019b), “Projections of students for the education system, 2020–2024”, Jerusalem, Israel. (Hebrew), available at: https://www.cbs.gov.il/he/mediarelease/DocLib/2019/266/06_19_266b.pdf.
+
+Jäppinen, A.K., Leclerc, M. and Tubin, D. (2016), “Collaborativeness as the core of professional learning communities beyond culture and context: evidence from Canada, Finland, and Israel”, School Effectiveness and School Improvement, Vol. 27 No. 3, pp. 315-332.
+
+Kremser, W. and Schreyögg, G. (2016), “The dynamics of interrelated routines: introducing the cluster level”, Organization Science, Vol. 27 No. 3, pp. 698-721, .
+
+Leithwood, K. and Day (2007), “Starting with what we know”, in C Day, C. and Leithwood, K. (Eds), Successful Principal Leadership in Times of Change: An International Perspective, Springer Science & Business Media, Vol. 5, pp. 1-16.
+
+Leithwood, K. and Riehl, C. (2003), What do We Already Know about Successful School Leadership. AERA Division a Task Force on Developing Research in Educational Leadership, pp. 1-60.
+
+Li, C.K. and Hung, C.H. (2009), “The influence of transformational leadership on workplace relationships and job performance”, Social Behavior and Personality: An International Journal, Vol. 37 No. 8, pp. 1129-1142.
+
+Liu, P. (2017), “Transforming turnaround schools in China: a review”, School Effectiveness and School Improvement, Vol. 28 No. 1, pp. 74-101.
+
+Loveless, T. (2009), Tracking and Detracking: High Achievers in Massachusetts Middle Schools, Thomas B. Fordham Institute.
+
+Loveless, T. (2016), How Well are American Students Learning? with Sections on Reading and Math in the Common Core Era, Tracking and Advanced Placement (AP) and Principals as Instructional Leaders. The 2016 Brown Center Report on American Education, The Brookings Institution.
+
+Meyer, J.W. and Rowan, B. (1992), “The structure of educational organizations”, in Meyer, W.J. and Scott, W.R. (Eds), Organizational Environments: Ritual and Rationality, Sage Publications.
+
+Ministry of Education (2019), “Merom program – policy and principles, schools Portal”, (Hebrew), available at: https://mosdot.education.gov.il/content/enrichment_programs/marom/intervention-process.
+
+Mintzberg, H. (1979), “Patterns in strategy formation”, International Studies of Management and Organization, Vol. 9 No. 3, pp. 67-86.
+
+Murphy, J. (2010), “Turning around failing organizations: insights for educational leaders”, Journal of Educational Change, Vol. 11 No. 2, pp. 157-176.
+
+Murphy, J.F. and Bleiberg, J.F. (2019), “Why school turnaround failed: lethal problems”, School Turnaround Policies and Practices in the US, Springer, Cham, pp. 75-117.
+
+Pariente, N. and Tubin, D. (2021), “Novice principal mentoring and professional development”, International Journal of Mentoring and Coaching in Education, Vol. 10 No. 3, pp. 370-386, doi: 10.1108/IJMCE-01-2021-0015.
+
+Pashiardis, P. and Johansson, O. (2020), “Successful and effective schools: bridging the gap”, Educational Management Administration and Leadership, 1741143220932585.
+
+Pashiardis, P., Brauckmann, S., Mulford, B. and Silins, H. (2011), “Revised models and conceptualization of successful school principalship for improved student outcomes”, International Journal of Educational Management, Vol. 25 No. 1, pp. 61-82, .
+
+Pentland, B.T. and Feldman, M.S. (2005), “Organizational routines as a unit of analysis”, Industrial and Corporate Change, Vol. 14 No. 5, pp. 793-815.
+
+Pillay, N. (2014), “A survey of school timetabling research”, Annals of Operations Research, Vol. 218 No. 1, pp. 261-293.
+
+Qadach, M., Schechter, C. and Da'as, R.A. (2020), “From principals to teachers to students: exploring an integrative model for predicting students' achievements”, Educational Administration Quarterly, Vol. 56 No. 5, pp. 736-778, .
+
+Sarason, S.B. (1996), “Programmatic and behavioral regularities”, Revisiting the Culture of the School and the Problem of Change, Teachers College Press.
+
+Schiller, K.S. (2007) “Tracking”, in Ritzer, G. (Ed.), The Blackwell Encyclopedia of Sociology, Blackwell Publishing, Malden, MA, Vol. 1479, pp. 5030-5034.
+
+Scott, W.R. (2013), Institutions and Organizations: Ideas, Interests, and Identities, Sage Publications.
+
+Stoll, L. and Fink, D. (1998), “The cruising school: the unidentified ineffective school”, in Stoll, L. and Myers, K. (Eds), No Quick Fixes, Perspectives on Schools in Difficulty, Falmer Press, London, pp. 189-206.
+
+Suchman, M.C. (1995), “Managing legitimacy: strategic and institutional approaches”, Academy of Management Review, Vol. 20 No. 3, pp. 571-610, .
+
+Tal, H. and Tubin, D. (2021), “Institutional legitimacy and de-legitimacy: insights from the case of an innovative school”, International Studies in Sociology of Education, pp. 1-23.
+
+Thornton, P.H. and Ocasio, W. (2008), “Institutional logics”, The Sage Handbook of Organizational Institutionalism, pp. 99-128, .
+
+Tubin, D. (2011), “From principals' actions to students' outcome: an explanatory narrative approach to successful Israeli schools”, Leadership and Policy in Schools, Vol. 10 No. 4, pp. 395-411.
+
+Tubin, D. (2012), “Relationship marketing and school success”, in Oplatka, I. and Hemsley-Brown, J. (Eds), The Management and Leadership of Educational Marketing: Research, Practice and Applications, Advances in Educational Administration, Emerald, Vol. 15, pp. 159-181.
+
+Tubin, D. (2015), “School success as a process of structuration”, Educational Administration Quarterly, Vol. 51 No. 4, pp. 640-674.
+
+Tubin, D. (2017), “Leadership identity construction practices: the case of successful Israeli school principals”, Educational Management Administration and Leadership, Vol. 45 No. 5, pp. 790-805, .
+
+Tubin, D. (2019), “The secondary school turnaround model”, in Meyers, C. and Darwin, M. (Eds), School Turnaround in Secondary Schools: Possibilities, Complexities and Sustainability, IAP-Information Age Publishing, pp. 7-22.
+
+Tubin, D. and Farchi, T. (2017), School Effectiveness - the Organizational Routines Theory Perspective, A research Report Submitted to the ISF, September 2017, p. 75, (Hebrew).
+
+Tubin, D. and Pinyan-Weiss, M. (2015), “Distributing positive leadership: the case of team counseling”, Educational Management Administration and Leadership, Vol. 43 No. 4, pp. 507-525.
+
+Tyack, D. and Cuban, L. (1995), Tinkering toward Utopia - a Century of Public-School Reform, Harvard University Press, Cambridge.
+
+Yogev, A. (1996), “Practice without policy: pluralist teacher education in Israel”, in Craft, M. (Ed.), Teacher Education in Plural Societies: An International Review, Palmer Press, Bristol, PA, pp. 57-71.
+
+The authors would like to thank the Israel Science Foundation (Grant No. 1478/14) and Avney Rosha, the Israeli Institute for School Leadership (Grant No. 10/2011), which funded some of the studies mentioned in this paper.
+
+Successful, coasting and low-performing school principals in Israel: an explanatory model
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Successful principal, successful school
+
+The Israeli ISSPP
+
+The Successful School and Principal (SSP) model
+
+Discussion
+
+Figures
+
+Table 1
+
+References
+
+Acknowledgements
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Educational Administration
+
+Volume 60 Issue 1
+
+Successful, coasting and low-performing school principals in Israel: an explanatory model
+
+Abstract
+
+Successful principal, successful school
+
+The Israeli ISSPP
+
+The Successful School and Principal (SSP) model
+
+Discussion
+
+SSP model
+
+ISSPP
+
+School principal
+
+School organization
+
+Restructuring
+
+Organizational routine
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Successful schools 2008–2010
+
+1
+
+1,500
+
+Medium-high
+
+Secular, regional council
+
+7–12
+
+Male
+
+9 years
+
+14 years
+
+2
+
+380
+
+Low
+
+Secular, city
+
+1–6
+
+Female
+
+11 years
+
+20 years
+
+3
+
+570
+
+Medium-low
+
+Secular, city
+
+1–6
+
+Female
+
+9 years
+
+11 years
+
+4
+
+1,300
+
+Medium-low
+
+Secular, city
+
+7–12
+
+Female
+
+18 years
+
+14 years
+
+5
+
+1,300
+
+Low
+
+Religious, city
+
+7–12
+
+Female
+
+23 years
+
+7 years
+
+Innovative learning environment 2010–2012
+
+6
+
+360
+
+Medium-low
+
+Secular, city
+
+1–6
+
+Female
+
+10 years
+
+16 years
+
+7
+
+350
+
+Low
+
+Secular, town
+
+1–6
+
+Female
+
+18 years
+
+5 years
+
+8
+
+1,400
+
+Medium-low
+
+Secular, city
+
+7–12
+
+Female
+
+23 years
+
+10 years
+
+9
+
+930
+
+Medium
+
+Secular, regional council
+
+7–12
+
+Female
+
+26 years
+
+9 years
+
+Large effective high-schools 2012–2014
+
+10
+
+1,600
+
+Medium-low
+
+Secular, city
+
+7–12
+
+Female
+
+17 years
+
+21 years
+
+11
+
+1,800
+
+Medium
+
+Secular, regional council
+
+7–12
+
+Male
+
+2 years
+
+17 years
+
+12
+
+1,600
+
+Medium
+
+Secular, city
+
+7–12
+
+Female
+
+23 years
+
+10 years
+
+13
+
+1,100
+
+High
+
+Secular, city
+
+10–12
+
+Female
+
+21 years
+
+15 years
+
+Coasting schools 2014–2017
+
+14
+
+1,300
+
+Medium
+
+Secular, regional council
+
+7–12
+
+Male
+
+9 years
+
+19 years
+
+15
+
+1,700
+
+Low
+
+Secular, city
+
+7–12
+
+Female
+
+18 years
+
+22 years
+
+16
+
+900
+
+High
+
+Secular, town
+
+7–12
+
+Female
+
+24 years
+
+14 years
+
+17
+
+1,300
+
+High
+
+Secular, city
+
+7–12
+
+Male
+
+10 years
+
+7 years
+
+Principals identity 2017–2019
+
+18
+
+700
+
+Low
+
+Secular, town
+
+7–12
+
+Female
+
+10 years
+
+8 years
+
+19
+
+1,400
+
+Medium-low
+
+Secular, city
+
+7–12
+
+Female
+
+23 years
+
+15 years
+
+20
+
+900
+
+High
+
+Secular, town
+
+7–12
+
+Female
+
+24 years
+
+18 years
+
+Low performing school 2019–2021
+
+21
+
+1,500
+
+Medium-high
+
+Secular, regional council
+
+7–12
+
+Male
+
+10 years
+
+2 years

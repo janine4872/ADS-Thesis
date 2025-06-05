@@ -1,0 +1,1169 @@
+We use essential cookies to make sure the site can function. We, and our 95 partners, also use optional cookies and similar technologies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to allowing us and our partners to store and access personal data on your device, such as browsing behaviour and unique identifiers. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our privacy policy for more information on the use of your personal data. Your consent choices apply to springer.com and applicable subdomains.
+
+You can find further information, and change your preferences via 'Manage preferences'.
+You can also change your preferences or withdraw consent at any time via 'Your privacy choices', found in the footer of every page.
+
+We use cookies and similar technologies for the following purposes:
+
+Advertisement
+
+Access provided by SURF B.V.
+
+749 Accesses
+
+15 Citations
+
+9 Altmetric
+
+1 Mention
+
+Explore all metrics
+
+Research has indicated that living in an environment involving poverty and violence can have negative effects on young children. Forgiveness may be an important predictor of well-being among these children. Forgiveness education programs aim to heal these by increasing forgiveness, hope, and by being prosocial while decreasing anger and depression, which appear after deep hurt. The main aim of the study was to assess and evaluate the effectiveness of a forgiveness education program in classroom settings with fourth-grade Turkish students living in an impoverished environment. Two studies were conducted to evaluate the forgiveness education program, based on Enright’s process model of forgiveness. In the first study, students from impoverished backgrounds were found to exhibit significantly greater anger and depression than students representing an average socioeconomic status. In the second study, with 122 fourth-grade students (N = 74 experimental, 48 control) in five primary schools, the forgiveness education program was implemented by school teachers with support from psychologists. Analysis reveals a significant increase in forgiveness and hope and a decrease in anger in the first posttest for the experimental group compared with the control group, although follow-up results indicate no significant differences between the two groups. Significant findings and the forgiveness education program are discussed.
+
+In Turkey, 27.7 % of children (5.6 million) under the age of 15 live in poverty, and in rural areas this rate is 40.6 % (Saatci and Akpinar 2007). Although per capita income has increased in recent years, it is still under the European Union standardized level (Adaman and Keyder 2006). Migration from rural areas to the cities in Turkey began in the 1950s, and poverty remains endemic among this (urban migrant) population (Duyar 2010). Since 2000, there has been immigration from nearby regions to the city of Isparta, Turkey (Celik 2007), the site of this study. Immigrant children and their families are categorized as being of a lower socioeconomic status and at a higher poverty rate (Suarez-Orozco and Suarez-Orozco 2001). Poverty is associated with experience of violence (Wasylenki 2001), with children living in poverty and exposure to violence being at risk of mental health problems, such as internalizing behaviors—including hopelessness, anger, and depression—and externalizing behaviors—including antisocial behavior (Brooks-Gunn and Duncan 1997; Margolin and Gordis 2000; McLeod and Shanahan 1996; Ozmen et al. 2008). Furthermore, the mental health disadvantages of poverty that children experience increase through the duration of family poverty (Duncan et al. 1994; Malat et al. 2005). Studies investigating the effects of poverty on the mental health of adolescents in Turkey have found perceived family income and perceived poverty to be significantly associated with depression, hopelessness, and anger (Ozmen et al. 2008). Taken together, these studies point out that the protection of children from the negative effects of poverty is extremely important. The development of effective coping strategies can be suggested as a means of protecting children.
+
+When children suffer hurtful actions forgiveness may play a role in promoting effective coping strategies (Gassin et al. 2005). Forgiveness education programs for children based on Enright’s process model of forgiveness (Enright 2001; Enright and the Human Development Study Group 1991) are designed to alter the harmful effects of experience of an impoverished environment by focusing on the anger that results from this. Based on these findings, a forgiveness education program was tested on school-aged children in Turkey, assessing and evaluating the effectiveness of the program on mental health of fourth grade children, primarily in relation to anger and depression. This study explores this subject in classroom settings with school teachers.
+
+Forgiveness, hope, anger, depression, and social behavior were used as indicators of mental health in this study. These constructs seem to be important, measurable, and malleable indicators for child well-being, and have been used in different investigations to assess the mental health of children and adolescents (e.g., Baskin and Enright 2004; Hui and Chau 2009). Forgiveness is one of the psychological processes that have been analyzed as a moral virtue or a beneficial psychological process (Enright and Fitzgibbons 2000; Murphy 1988). Measuring child well-being with these indicators may add new understanding to children’s worlds and help to design policies and practices for them.
+
+The main object of the current study was to improve the mental health of children living in impoverished environments by reducing their anger and depression levels while increasing forgiveness, hope, and prosocial behavior through a forgiveness education program. The first phase of the study was designed to determine the levels of anger and depression of fourth-grade children in order to assign experimental and control groups for the second phase, in which a forgiveness education program was implemented in the experimental group by school teachers and, subsequently, the effectiveness of the program was determined.
+
+Children living in impoverished environments are more likely to experience many forms of injustice, including violence, which lead to heightened levels of anger and hopelessness (Greene 1993) and may predispose them to behavioral problems (Gassin et al. 2005; Mcleod and Shanahan 1996). Anger is a strong feeling following a perceived transgression (Fitzgibbons 1986) and can be seen as an impediment to establishing positive relationships (Price and Dodge 1989; Zeman et al. 2002). Feeling angry is also associated with depressive symptoms, including among children (Carey et al. 1991; Taysi et al. 2015), and depressed children endeavor to take cognitive control over their anger (Kashani et al. 1995). Depression symptoms (Goodwin 2006; Miller-Johnson et al. 1998) and feelings of anger (Schultz et al. 2000) have been linked with antisocial behavior. Children who successfully control their emotions show more prosocial behavior, while those who cannot manage negative emotions are more likely to display antisocial behavior (Eisenberg et al. 1998). Prosocial behavior leads to various desirable traits involving positive relationships and communication with peers (Eisenberg and Fabes 1998).
+
+Anger is particularly connected with forgiveness (Baskin and Enright 2004; Enright et al. 1992), which has benefits in relation to depression (Enright et al. 2007; Gassin et al. 2005; Holter et al. 2008), peaceful social behavior (Gambaro et al. 2008; Gassin et al. 2005), and hope (Hui and Chau 2009; Hui and Ho 2004). Indeed, hope, a main protective element in adolescent psychological development (Snyder 2002), is another important concept related to mental health (Marques et al. 2009). People with high hope protect themselves efficiently against the results of negative life experiences (Valle et al. 2006). Forgiveness and hope thus forming the focus of a positive psychology have been described as character strengths (Peterson and Seligman 2004) that help to improve well-being (Seligman 2002). Additionally, Ripke et al. (2007) suggested that low anxiety and lack of depression are among the specific positive indicators of psychological well-being in middle childhood.
+
+There are different definitions of forgiveness, and thus there is no agreement on what ‘forgiveness’ specifically is in most research (Wade and Worthington 2005). Some theorists have defined forgiveness as reducing the negative affect toward the offender (e.g., McCullough et al. 1998), while others propose that forgiveness involves a decrease in negative feelings, thoughts, and behavior and an increase in positive emotions, thoughts, and behavior (Enright and the Human Development Study Group 1991). However, Worthington (2005) suggested there is a consensus about what forgiveness is: When the offender is a stranger with whom no continuing relationship exists, forgiveness is defined as the reduction of negative affect. In the case of a continuing relationship with a significant other, forgiveness is conceptualized as replacing negative feelings with positive affect. Forgiveness is a choice freely chosen by the victim. Transgression severity may also determine how easily an offended person forgives the wrongdoer. Long-lasting transgressions seem to be forgiven more reluctantly than minor transgressions (McCullough et al. 1998). In addition to this generalized agreement on what forgiveness is, there is also a consensus on what forgiveness is not: Forgiveness is differentiated from condoning, excusing, and forgetting (Rye et al. 2001), and is also different from reconciliation (Enright 2011; Worthington 2006).
+
+Forgiveness definitions are mostly associated with adult forgiveness, so it is also important to find out whether children experience forgiveness as adults do. Enright et al. (1989) investigated conditions for forgiveness from a developmental perspective to discover whether children understand forgiveness as adults do. Forgiveness is likely when a sense of injustice has developed in the early years of life (Enright and the Human Development Study Group 1991). Enright’s cognitive developmental model of forgiveness suggests that some conditions make forgiveness easier and the concept of forgiveness develops from late childhood (Enright and Fitzgibbons 2000). In their model, forgiveness emerges from the lowest level corresponding to cognitive abilities. As children’s cognitive abilities increase with age, more abstract thinking about forgiveness is developed. That is, in the early stages of forgiveness, the victim relinquishes egocentric feelings and begins to take the offender’s perspective and accept their worth. Primitive feelings of anger and resentment are replaced by mature feelings of compassion and benevolence.
+
+Enright et al. (1989) found that younger children reason forgiveness as avoiding punishment, gaining rewards, and gaining social approval. Revenge and cancelation of consequences are crucial for younger children. Research shows that for many children an apology is the most important requirement to forgive a wrongdoer (Darby and Schlenker 1982; Neal et al. 2004). Children forgive more when the hurt is unintentional and the offender expresses his/her feelings of regret concerning the offense (Denham et al. 2005).
+
+A lack of construct clarity of forgiveness in the psychological arena has also affected the measuring of forgiveness. Most research operationalized forgiveness as offense specific (e.g., McCullough 2000) and as dispositional (e.g., Berry et al. 2001). Forgiveness is also measured according to the direction of forgiveness, including the perspective of the forgiver and the perspective of the transgressor, and the methods used in forgiveness measures involve self reporting, partner reporting, and observer reporting (McCullough et al. 2000). How forgiveness is to be operationalized would seem to be important in the progress of forgiveness education. If forgiveness is operationalized as the reduction of negative affect, then forgiveness and negative affect should be measured at the same level of analysis, the offense specific, or the dispositional, which could say much more about the link between these variables. The most important aspects of forgiveness can, though, be studied with existing measures. In the present paper, forgiveness is measured by self report at the offense-specific level. In order to determine the students in need of forgiveness education, first the levels of anger and depression in fourth-grade students were assessed.
+
+Educators have paid less attention to forgiveness compared with that given to the concept of punishment (Rodden 2004). Forgiveness, defined as changing from negative feelings (anger, resentment), thoughts, and behavior (revenge) to positive feelings (compassion, love), thoughts, and behavior (helpfulness), has two moral dimensions (Enright 2001). One dimension concerns virtues and involves compassion, generosity, and love. The second dimension concerns whether moral reasoning through the forgiveness process is closely related to perspective taking. Forgiveness education programs have been based on these dimensions and have been shown to lead to greater gains in forgiveness and a greater decline in anger and depression (e.g., Enright et al. 2007). Forgiveness as a construct does not include any level of anger; thus, forgiveness education programs target the basic emotions of anger and depression related to personal hurt (Holter et al. 2008). The benefits of measuring forgiveness may help to assess those who mostly need to forgive and to what extent forgiveness education programs are effective. That is, measuring forgiveness and other constructs enables the determining of significant improvements in mental health, such as the reduction of anger and depression and the increase in hope, perspective taking and forgiveness through forgiveness education programs.
+
+Forgiveness education programs teach children and adolescents to understand the offender who is unfairly hurt, as well as the injury itself, from a different perspective and foster behavior with benevolence and compassion (Enright and Fitzgibbons 2000). Forgiveness education programs involve the concept of unconditionality based on Piaget’s view on conservation (Enright and the Human Development Study Group 1994). This concept represents the understanding that human beings are all equal, despite their personal characteristics. When children learn about unconditionality through forgiveness education, this leads them to a moral principle called inherent worth, meaning that all people have value.
+
+Forgiveness education may lead children to accept their anger at the offender and help them to release it. In the short term, forgiveness education programs aim to reduce negative affect and restore peace at school. Gassin et al. (2005) asserted that the prime benefit of forgiveness education is anger reduction, triggering less depression and more peaceful behavior. In the long term, forgiveness education implemented on children living in poverty enables them to develop the skill of eliminating the intensity of negative affect and fosters the capacity for struggling with this throughout their lives (Enright 2011). Although forgiveness cannot establish justice by itself, it can contribute to sustainable recovery and the rebuilding of relationships (Enright and Fitzgibbons 2000; Holter et al. 2006).
+
+For these reasons, Enright and his team began to use school instructors to teach forgiveness in classroom settings, to which end they developed a teacher curriculum to implement their education programs (Magnuson and Enright 2008). Taking into account children’s social-cognitive development, these programs introduce children to five moral virtues (inherent worth, moral love, kindness, respect, and generosity) in order to understand and practice forgiveness (Knutson and Enright 2008a, b).
+
+Forgiveness education was initiated with first-grade children in Belfast, Ireland, a city troubled by economic difficulty and intergroup conflict (Knutson and Enright 2008a, b). In a subsequent study conducted on fifth graders, participants in the experimental group showed significantly less anger than those in the control group (Holter 2007). In another forgiveness education study, first grade children in the experimental group showed a significant decline in anger, while third grade students in the experimental group improved in forgiveness and reduced in depression (Enright et al. 2007). Holter et al. (2008) examined the effect of forgiveness education on negative affect; they found that first- and fifth-grade students reduced significantly in anger but not in depression. These findings indicate that school teachers can help children by implementing forgiveness programs.
+
+Consequently, research has shown that forgiveness education helps to decrease anger and depression (Enright et al. 2007; Gassin et al. 2005; Holter et al. 2008) and increase hope and positive relationships (May and Jones 2007). Decreased anger and depression helps to ameliorate negative mental health. Based on findings in the literature, the current study aimed to assess and evaluate whether school-based forgiveness education implemented by school teachers had a positive effect on the mental health of fourth-grade children, in the city of Isparta, Turkey. Two sub-studies are presented. In the first sub-study, the levels of anger and depression in fourth-grade students are described across socioeconomic status. Three different socioeconomic districts were determined in Isparta in order to compare children’s anger and depression levels. The objective of exploring these children’s anger and depression levels was to determine the necessity for forgiveness education to reduce their anger and depression. In the second sub-study, fourth-grade children were exposed in an experimental group to a ten-week forgiveness education program by school teachers.
+
+The overall research hypotheses are as follows:
+
+Hypothesis 1. Fourth-grade children from low socioeconomic status will show higher anger and depression levels than children from middle and high socioeconomic status.
+
+Hypothesis 2. The experimental group when compared with the control group will show a significant decline from pretest to posttest and pretest to follow-up in levels of anger and depression.
+
+Hypothesis 3. The experimental group when compared with the control group will show a significant improvement from pretest to posttest and pretest to follow-up in levels of forgiveness, hope, and prosocial behavior.
+
+The present study was designed to assess and evaluate the effectiveness of a forgiveness education program for children living in impoverished environments. The study includes two sub-studies: (1) Identification and assignment of fourth-grade students to an experimental and a control group according to their levels of anger and depression. As anger reduction seems to reveal the impact of forgiveness on mental health, the first sub-study was conducted in order to determine those children who were in need of anger reduction. (2) Pretest assessment of the experimental and control groups for all dependent variables; the implementation of the forgiveness education program with the experimental group; posttest and follow-up assessment of the experimental and control groups for all dependent variables.
+
+Sub-study 1 was conducted to examine the first hypothesis—that fourth-grade children from low socioeconomic status would show higher anger and depression levels than children from middle and high socioeconomic status—determining who would be assigned to either the experimental or the control group of the forgiveness education program. Nine schools were identified in the city of Isparta, Turkey and distinguished according to three socioeconomic classes. The socioeconomic status of schools was estimated using data from the National Education Directorate of Isparta and from school directors. Based on sub-study 1’s results, six fourth-grade classes were selected from five schools for participation in sub-study 2.
+
+Sub-study 2 was conducted to investigate the second and third hypotheses—that the experimental group when compared with the control group would show a significant decline from pretest to posttest and pretest to follow-up in levels of anger and depression, and would show a significant improvement from pretest to posttest and pretest to follow-up in levels of forgiveness, hope, and prosocial behavior. Six classes, identified in sub-study 1, were randomized using a table of random numbers. Three classes from low socioeconomic schools and one class from a middle socioeconomic school were assigned to the experimental groups. The control group consisted of one class from a low socioeconomic school and one from a high socioeconomic school. After the assignment of classes, school teachers of the experimental groups were trained in forgiveness education. The forgiveness education curriculum, translated into Turkish by three bilinguals, was implemented by school teachers only with the experimental groups. The children in the experimental and control groups were given a pretest 1 week before the program. A posttest (questionnaire) was administrated to the children in the experimental and control groups at the end of the program (around 11 weeks after the pretest) and a follow-up test 4 months later (a little over 6 months after the pretest).
+
+The teachers of the six classes in the experimental groups were given the opportunity to participate in the forgiveness program; all of them accepted voluntarily. Each teacher from the experimental classrooms attended a forgiveness education workshop with a social psychologist (6 years of experience). The workshop comprised two sessions, each lasting nearly 2 h, held on consecutive days. Basic concepts of forgiveness were emphasized during the workshop, and the (translated) forgiveness curriculum, books, and related materials were distributed.
+
+(Knutson and Enright 2008a, b) is a forgiveness education manual for children aged 9 to 11. The manual provides a course of ten lessons, to be implemented over 10 weeks. Each lesson is designed to last about 45 min. At the end of each lesson, additional activities are found and can be applied optionally by teachers. The forgiveness curriculum is based on moral virtues (inherent worth, moral love, kindness, respect, and generosity), closely related to forgiveness. Children learn these virtues with stories, discussions, and classroom activities. These concepts are first introduced to children, and then, in the second phase, children learn these concepts in the context of forgiveness. Throughout the course, children are informed about the distinction between forgiving and reconciling, that there is no need to reconcile with someone who behaves in an abusive way.
+
+In sub-study 1, participants comprised 699 fourth-grade students (339 girls, 360 boys; M = 10.00 years, SD = .26, age range 9–11 years), recruited from 21 fourth-grade classes in nine different public schools. In sub-study 2, the experimental groups consisted of 74 students (29 girls, 45 boys; M = 10.01, SS = 0.26). The control group consisted of 48 students (18 girls, 30 boys; M = 10.00, SS = 0.21).
+
+A convenience method was employed. The students—all Turkish speaking and of Turkish nationality—were identified from school registers. The students absent from school on the survey day were given the opportunity to participate on subsequent days. Data were completed by the fourth-graders in all nine schools.
+
+The children were given the questionnaires individually and orally by one of two trained assistants educated in the process of testing within the school setting. The interview lasted nearly 20 min in sub-study 1 and 30–40 min in sub-study 2. Children participated voluntarily and were informed that there were no good or bad answers.
+
+The Beck Anger Inventory for Youth (BANI-Y) and the Children’s Depression Inventory (CDI) were administered in both sub-studies. In sub-study 2, beside these two inventories, the Enright Forgiveness Inventory for Children (EFI-C), the Children’s Hope Scale (CHS), and the Social Behavior Questionnaire (SBQ) were also used.
+
+The BANI-Y (Beck et al. 2001) was designed to measure child anger affect and cognition for children aged between seven and 14 years. It contains 20 questions, which are scored using a 0 (never) to 3 (always) scale. Examples of scale items are: “I think people try to cheat me,” “People make me mad,” and “I think people bother me.” The inventories can be administered individually or in a group. The Cronbach alpha of internal consistency is stated as .91 in the manual. The Cronbach alpha for the sub-study 1 sample was .89. In sub-study 2, Cronbach alphas for the BANI-Y for the pretest, posttest, and follow-up were .86, .89, and .92, respectively. The parallel back translation procedure (Brislin 1986) was used for this scale. Confirmatory factor analysis was conducted and the one-factor structure was confirmed.
+
+The CDI was created by Kovacs (1985) for children and adolescents aged six to 17 years and adapted for Turkey by Oy (1991). The CDI has 27 items, assessing cognitive, affective, and behavioral symptoms of depression in youth. Each item is scored on a three-point Likert scale: 0 (never) to 2 (always). Sample items are “I am sad all the time” and “I feel like crying every day.” Row scores are converted to T-scores, and the summing of each gives the total depression score. Internal consistency in the sub-study 1 sample was good, with a Cronbach alpha of .83. In sub-study 2, Cronbach alphas for the CDI for the pretest, posttest, and follow-up were .83, .75, and .70, respectively.
+
+The EFI-C is a version of the Enright Forgiveness Inventory (Enright 2005), administered to measure forgiveness. The measure has 30 items, with a maximum score ranging from 30 to 120. The EFI-C employs three factors for forgiveness: emotional, cognitive, and behavioral. Responses to the questions are scored on a four-point Likert scale: (1) Yes, (2) A little bit yes, (3) A little bit no, and (4) No. A high score represents high forgiveness. The measure contains 15 positive items (“Would you be a friend to him/her?” “Would you do a favor for him/her?”) and 15 negative items (“Would you stay away from him/her?” “Do you think [name] is not nice?”). Internal consistency for the pretest, posttest, and follow-up was good, with Cronbach alphas of .93, .93, and .97, respectively. The scale was translated into Turkish and back-translated by two bilinguals (Brislin 1986). Confirmatory factor analysis was conducted and the one-factor structure was confirmed.
+
+Developed by Snyder et al. (1997), the CHS has six items. Three items represent agency thinking (e.g., “I think the things I have done in the past will help me in the future”) and three reflect pathway thinking (e.g., “When I have a problem, I can come up with lots of ways to solve it”). The CHS items are rated using a Likert scale from 1 (none of the time) to 6 (all of the time). The total score thus ranges from 6 to 36, with higher scores representing higher levels of hope. Used with children aged seven to 14, this scale was adapted for Turkey by Atik and Kemer (2009). Findings regarding the construct validity of the adapted scale were consistent with the original scale’s two-factor structure. The Cronbach alpha coefficient for the overall scale was .74. Internal consistency for the pretest, posttest, and follow-up was moderately good, with Cronbach alphas of .67, .66, and .72, respectively.
+
+This questionnaire was developed by Warden and Mackinnon (2003) to reflect the definition of prosocial and antisocial child behaviors developed by Warden and Christie (1997). The SBQ consists of 12 items, including prosocial behaviors (four items) (e.g., “Offered to share your things with another child”), relational antisocial (four items) (e.g., “Tried to stop your friends being friends with another child you didn’t like”), and physical antisocial (also four items) (e.g., “Broke or damaged another child’s things, meaning to upset them”) behaviors. The SBQ is used for children aged between 9 and 10 years. Each item is rated using a Likert scale, from 1 (something you never do) to 5 (something you always do).
+
+In the present study, relational antisocial and physical antisocial subscales were included as one factor, termed the “antisocial subscale.” The parallel back translation procedure (Brislin 1986) was used for this scale. Cronbach alphas for the prosocial subscale for the pretest, posttest, and follow-up were .70, .71, and .70, respectively. Cronbach alphas for the relational antisocial subscale for the pretest, posttest, and follow-up were .72, .71, and .70, respectively, and for the physical antisocial subscale, .72, .73, and .71, respectively. Confirmatory factor analysis was conducted and the three-factor structure confirmed.
+
+At the end of each week’s lesson, teachers were instructed to fill out a questionnaire in the manual, intended to ensure that all the teachers worked as per the manual directions. These questions focused on whether the students found the activities meaningful, responded well to the questions or activities, and found the activities, concepts, or questions difficult. An assistant presented, observed, and took notes in each classroom for every lesson throughout the duration of the program. Teachers were supported throughout the process by telephone and email whenever they needed.
+
+In determining anger and depression levels of fourth-grade students (sub-study 1), two-way ANOVA analyses were conducted to find out whether depression and anger levels of students differ according to gender and socioeconomic status of the schools (see Table 1). Both depression (F(2, 685) = 9.68, p = .00, eta2 = .03) and anger (F(2, 685) = 14.68, p = .00, eta2 = .04) levels differed significantly between socioeconomic status. As hypothesized, mean depression scores of students from low socioeconomic schools (M = 11.51, SD = 6.92) were higher than those of students from middle (M = 7.67, SD = 5.33) and high (M = 7.51, SD = 5.99) socioeconomic schools. Similarly, as expected, anger scores of students from low socioeconomic schools (M = 13.91, SD = 7.64) were also higher than those of students from middle (M = 8.34, SD = 7.30) and high (M = 7.88, SD = 7.57) socioeconomic schools. It was also found that depression (F(1, 685) = 4.73, p = .03, eta2 = .01) and anger (F(1, 685) = 10.39, p = .001, eta2 = .01) levels differed according to gender. Boys reported significantly higher depression (M = 8.19, SD = 6.22) and anger (M = 9.60, SD = 8.07) levels than girls’ depression (M = 7.70, SD = 5.61) and anger (M = 7.62, SD = 7.07) levels. The interaction between gender and socioeconomic status of the school was also found to be significant for both depression (F(2, 685) = 3.93, p = .02, eta2 = .01) and anger (F(2, 685) = 3.23, p = .04, eta2 = .01).
+
+These results reveal that depression and anger scores of students from low socioeconomic schools are higher than those of students from the middle and high socioeconomic schools. These findings support the first hypothesis—that children living in poverty suffer mental health problems such as anger and depression (e.g., Brooks-Gunn and Duncan 1997; Margolin and Gordis 2000). Additionally, these analyses provided a basis for the sampling of the second sub-study. Since the target population for forgiveness education was children at high risk in terms of mental health, all fourth-grade classes in the three schools from low socioeconomic status were enrolled in the second study. In addition, two fourth-grade classes were selected for sub-study 2; one class from a middle socioeconomic school and the other from a high socioeconomic school. These fourth-grade classes, either in the middle or high socioeconomic schools, were selected for the second study since depression and anger scores of the students in these classes did not differ significantly from the scores of low socioeconomic status students. This result may seem to be in opposition to the first hypothesis, but in fact the socioeconomic status of students was identified only by considering their schools. However, schools’ socioeconomic levels did not seem to be related to the poverty status of classes. The majority of students in the high socioeconomic school class who were selected for the study were living in an orphanage.
+
+In forgiveness education (sub-study 2), one-way ANOVA analyses were conducted to assess and evaluate the effectiveness of the forgiveness education given to the experimental groups. Since forgiveness education was hypothesized to be effective for anger, depression, forgiveness, hope, and prosocial behavior, tests were conducted before the program (pretest), after the program (first posttest), and after 4 months (follow-up) (see Table 2).
+
+Contrary to expectations, the results of the one-way ANOVA analyses for the experimental group revealed that there was no significant difference between pretests and posttests for depression (F(2, 112) = .78, p = .46, eta2 = .01) and social behavior, represented by the prosocial behavior subscale (Greenhouse-Geisser F(1.97, 138.31) = 1.92, p = .15, eta2 = .03), the relational antisocial subscale (Greenhouse-Geisser (F(1.94, 135.87) = 2.45, p = .09, eta2 = .03), and the physically antisocial subscale (F(2, 140) = .99, p = .36, eta2 = .01).
+
+On the other hand, as hypothesized, it was found that the anger variable differed significantly between the tests (F(2126) = 9.06, p = .00, eta2 = .13). According to pairwise comparisons, pretest (M = 11.83, SD = 7.51) and posttest scores (M = 12.92, SD = 10.86) did not differ, whereas the follow-up scores (M = 7.97, SD = 8.08) were significantly lower than both pretest and posttest. This finding revealed that forgiveness intervention had a positive effect on anger. According to the ANOVA results, there were no significant differences between the three tests for forgiveness (F(2134) = 2.66, p = .07, eta2 = .04). However, posttest scores (M = 76.34, SD = 16.64) were significantly higher than pretest scores (M = 70.47, SD = 16.02). This finding is also parallel to expectations.
+
+For hope, scores were found to differ (Greenhouse-Geisser (F(1.95, 136.56) = 5.87, p < .01, eta2 = .08). Posttest scores (M = 27.75, SD = 5.52) were significantly higher than pretest scores (M = 26.19, SD = 6.09), a finding also parallel to expectations. However, the follow-up scores (M = 25.58, SD = 4.95) were found to be significantly lower than those of the posttest. There was no difference between the pretest and the follow-up. These results show that the positive effect of forgiveness education on hope did not last for a long time. The subscale scores, termed “agency,” were found to be different according to time (Greenhouse-Geisser F(1.94, 135.87) = 6.54, p < .01, eta2 = .08). Posttest scores (M = 14.24, SD = 2.88) were significantly higher than pretest scores (M = 12.87, SD = 3.33). However, contrary to expectations, the scores were lower in the follow-up test (M = 13.18, SD = 2.64) and did not differ from the pretest scores. The scores in the “pathways” subscale were also found to differ significantly (Greenhouse-Geisser F(1.99, 139.61) = 4.50, p < .05, eta2 = .06). Although, there was no difference between the pretest (M = 13.32, SD = 3.34) and posttest scores (M = 13.51, SD = 3.49), contrary to expectations, the follow-up scores (M = 12.39, SD = 3.01) were found to be significantly lower than both.
+
+Similar to the experimental group, the tests for anger, depression, forgiveness, hope, and prosocial behavior were also conducted before the program (pretest), after the program (posttest), and 4 months after (follow-up) (see Table 3). According to the results of one-way ANOVA for depression, there was a difference between the scores (F(2, 88) = 6.15, p < .01, eta2 = .12). Although a significant difference between the pretest (M = 11.24, SD = 6.96) and posttest (M = 10.78, SD = 5.14) was not recorded, follow-up (M = 8.6, SD = 4.11) scores were found to be lower. Additionally, anger scores were also found to differ significantly between the tests (F(2, 88) = 6.15, p < .01, eta2 = .07). According to pairwise comparisons, pretest (M = 14.19, SD = 10.08) and posttest scores (M = 15.21, SD = 7.43) did not differ from each other, whereas the follow-up scores (M = 11.78, SD = 7.43) were significantly lower than both pretests. Similarly, the subscale scores of social behavior, “physically antisocial,” were also found to differ (F(2, 92) = 4.28, p < .05, eta2 = .08). According to pairwise comparisons, pretest (M = 4.74, SD = 1.21) and posttest scores (M = 5.04, SD = 1.74) did not differ from each other, whereas the follow-up scores (M = 4.32, SD = .89) were significantly lower than both pretests.
+
+In contrast, as hypothesized, no difference was found among the three tests concerning (1) forgiveness (Greenhouse-Geisser F(1.86, 85.8) = 1.25, p = .29, eta2 = .03); (2) hope (Greenhouse-Geisser F(2, 92) = 2.11, p = .13, eta2 = .04); subscales of hope—“agency” (Greenhouse-Geisser F(1.92, 88.37) = 2.70, p = .07, eta2 = .06) and “pathways” (Greenhouse-Geisser F(1.84, 84.74) = .48, p = .61, eta2 = .01); (3) subscales of social behavior—“prosocial behavior” (F(2, 92) = .27, p = .77, eta2 = .01) and “relational antisocial” (F(2, 92) = 3.01, p = .054, eta2 = .06) variables.
+
+The results of sub-study 2 are promising. It is important to emphasize that forgiveness education did have a general and positive effect on fourth-grade children. The first posttest data revealed a significant increase in forgiveness and hope and a decrease in anger for the experimental group compared with the control group. However, the results of the follow-up showed that the participants’ anger, hope, and forgiveness reduced to pretest levels. Unexpectedly, the control group’s depression, anger, and physical antisocial levels were found to be lower in the follow-up.
+
+The study reported here comprises a first attempt to implement a forgiveness education program with poor children in an educational setting in Turkey. The main aim of the study was to assess and evaluate the effectiveness of a school-based forgiveness education, implemented by school teachers, on the mental health of children in fourth grade in Isparta, Turkey. To accomplish this goal, three hypotheses were proposed.
+
+The first hypothesis—that fourth-grade children from low socioeconomic status would show higher anger and depression levels than children from middle and high socioeconomic status—was supported. Fourth-grade children exposed to poverty in Isparta did show significantly higher levels of anger and depression than children from schools in high and middle socioeconomic status areas. This finding is consistent with the literature (e.g., Holter et al. 2008; Samaan 2000). The present finding highlights the effect of poverty on children’s mental health, especially on anger. Poverty is obviously a risk factor for children’s poor health and well-being.
+
+The second hypothesis—that the experimental group when compared with the control group would show a significant decline from pretest to posttest and pretest to follow-up in levels of anger and depression—was partially supported. It is not surprising to find a significant decrease in anger after forgiveness education. This result in the present study also supports previous research (Baskin and Enright 2004; Enright et al. 2007; Gambaro et al. 2008; Holter et al. 2008) that showed anger decreased as participants learned about forgiveness. This result may show that anger is a more crucial element than depression in the forgiveness process. Gassin et al. (2005) stressed that the most beneficial effect of forgiveness is anger reduction. However, no significant between-group differences were found for depression. The duration of anger reduction did not last long. This result may emphasize the importance of giving participants sufficient time to forgive. No significant between-group differences were found for depression, a result consistent with some (Holter et al. 2008) but inconsistent with other research (Enright et al. 2007; Gassin et al. 2005; Hui and Chau 2009). The mixed results may be the result of different limitations of the studies: small sample sizes, the assessment of depression or offense-specific measures. Besides correlational studies, no significant causal relationship was found between forgiveness and depression among children and adolescents (Taysi et al. 2015).
+
+The third hypothesis of the present study was that the experimental group when compared with the control group would show a significant improvement from pretest to posttest and pretest to follow-up in levels of forgiveness, hope, and prosocial behavior. Although significant changes were not found for all dependent variables in the experimental group, statistically significant differences were found for forgiveness and hope. This finding confirms other studies indicating that forgiveness education or other interventions promote forgiveness levels (e.g., Gambaro et al. 2008; Hepp-Dax 1996; Hui and Chau 2009). Given that prosocial change is an indicator of forgiveness, in the present study the participants’ responses toward the offender did not change. Although children in the experimental group learned what forgiveness is rather than how to practice it, they reported greater forgiveness toward the offender.
+
+Furthermore, as predicted, the experimental group showed a statistically significant increase in hope in the posttest. This finding supports other studies that found a significant improvement in participants’ hope (Al-Mabuk et al. 1995; Hui and Chau 2009). As forgiveness increased through the forgiveness education, the level of hope of the participants also increased. This result supports two common components of the definitions of forgiveness and hope proposed by Enright and the Human Development Study Group (1996) and Snyder et al. (1997). That is, forgiveness and hope have both agency and pathways that include reaching that goal (Sandage et al. 2000). Children’s hope may affect their expectancies about themselves, their relationships, and their future in a positive way.
+
+Yet, these gains were not maintained at the 16-week follow-up. This may have been the result of insufficient time spent by participants in the forgiveness program. In this study, the forgiveness education program lasted for 10 weeks, so it seems reasonable to posit that children need a longer period of training—and/or more intense input—for it to have a significant effect on their mental health. Worthington et al. (2000) emphasized that forgiveness takes time and does not happen immediately. If anything, this suggests that the obtained results are important, because only a once-weekly, ten-week program was employed, and, moreover, it was the first time that the teachers had implemented such a thing. Besides, the forgiveness education program focused on what forgiveness is rather than how to practice it. The level of forgiveness can be malleable (Karremans and Van Lange 2008). That is, one can change one’s view of a past transgression and forgive the offender after a period of time or vice versa. The result of the follow-up may depend on participants’ school changes. At the time of the follow-up, participants changed their schools because of beginning secondary school. Starting a new school meant starting new friendships. Their old friendships might thus no longer be important to forgive.
+
+Although the students in the control group demonstrated no significant differences in the posttest, in the follow-up there were significant reductions in depression, anger, and physically antisocial behavior. There is no clear explanation for these obtained results, but it can be speculated that the timing of the experiment was pertinent since during the follow-up period the students changed their schools and began secondary education. Tests were administered at the beginning of the school year, the time at which important life changes were occurring in the lives of the students, and this may have had a positive impact on them.
+
+Regarding the study limitations, one is that only fourth-grade students were included. In fact, this study is a pioneering study with poor children in Isparta, Turkey, so the results certainly cannot be generalized to all children in Turkey. Future research could replicate this study by including different age groups, from different (urban and rural) sites in the country. A second limitation of this study is the duration of the forgiveness education. As stated, the period of the forgiveness program could be extended for children to internalize the forgiveness process. A third limitation lies in the use only of classroom teachers to implement the forgiveness curriculum. Future studies may employ a professional psychologist to implement a forgiveness education program. Also, the sample size was not large enough to categorically determine differences between the groups, so future studies should use larger sample sizes. Nevertheless, measuring forgiveness among a small group of children is important in understanding whether children practice forgiveness according to scholars’ conceptualizations. This study also showed that measuring forgiveness in a small group is important to understanding whether it contributes to children’s well-being and whether there are cultural differences in practicing forgiveness. Measuring forgiveness in large-scale research can demonstrate much about the forgiveness process in childhood. Lastly, the present study was performed in Turkey where, although both individual and collectivist cultural patterns are seen (Cukur et al. 2004), children in primary and middle schools have predominantly collectivist values (Kumru et al. 2004). Although this research did not focus on cultural patterns, it is the first study to use a forgiveness education program with children living in poverty in a collectivist culture, so this limitation may be informative.
+
+With these limitations, this research suggests that forgiveness could be a very important instrument to cope with negative affect, such as anger. The path to forgiveness is a long way to walk and requires patience, but the school setting appears to be an appropriate environment to assist in this process. As forgiveness has been conceptualized as a coping strategy (Worthington and Scherer 2004), it could be used in reaction to transgressions between peers and help to bring peace to the school environment, as well as act as a more generalized level of social intervention. In recent years, a new psychological perspective has stated that children are social actors who actively build their own childhood (Christensen and Prout 2002; Qvortrup et al. 1994). That is, children have the potential to influence the quality of their lives (Mayall 2002). In light of this perspective, if a forgiveness education program is included in the education curriculum, it could be used to produce desired change in children’s mental health in the long run. In the present study, short-term forgiveness education was shown to have a temporary effect on children’s mental health. If children learn more about forgiveness through long-term education, as social actors they may alter the negative outcomes of poverty and break the vicious circle they are in. Therefore, it can be concluded that schools should be viewed not only as the place of formal education but also a place considering the well-being of children (e.g., Vreeman and Carroll 2007; Weissberg et al. 2003). This study thus offers empirical information on how forgiveness could be used in schools to form and maintain peace in the local environment and contribute to psycho-social healing in the broader context.
+
+Several measures have been mentioned in this present study to assess the concerned constructs. Given the risk factors of anger and depression, and encouraging findings of forgiveness education, these constructs should be assessed in school settings to give educators and psychologists more opportunity to understand what conditions or motives are behind children’s and adolescents’ negative affect or forgiveness. Besides, by assessing these constructs the level of threat of violence could be determined and students who are in need of effective coping strategies for interpersonal conflicts could easily reach forgiveness education programs or interventions, even in rural locations that have no clinical services. In the long term, early diagnosis assessing negative affect or unforgiveness may help to discipline and ensure safety in school settings and contribute to peace in communities and in nations.
+
+Adaman, F., & Keyder, C. (2006). Poverty in social exclusion in the slum areas of large cities in Turkey. Report for the European Commission Employment, Social Affairs and Equal Opportunities. DG, Brussels.
+
+Al-Mabuk, R. H., Enright, R. D., & Cardis, P. A. (1995). Forgiveness education with parentally love-deprived late adolescents. Journal of Moral Education, 24, 427–444.
+
+Article
+  Google Scholar
+ 
+
+Atik, G., & Kemer, G. (2009). Cocuklarda Umut Olcegi’nin psikometrik ozellikleri: Gecerlik ve guvenirlik calısması [Psychometric properties of the Children’s Hope Scale: Validity and reliability study]. Elementary Education Online, 8, 379–390.
+
+Google Scholar
+ 
+
+Baskin, T. W., & Enright, R. D. (2004). Intervention studies on forgiveness: a meta-analysis. Journal of Counseling & Development, 82, 79–90.
+
+Article
+  Google Scholar
+ 
+
+Beck, S., Beck, A. T., & Jolly, J. (2001). Beck youth inventory. New York, NY: Psychological Corporation.
+
+Google Scholar
+ 
+
+Berry, J. W., Worthington, E. L., Jr., Parrott, L., III, O’Connor, L. E., & Wade, N. G. (2001). Dispositional forgiveness: development and construct validity of the transgression narrative test of forgiveness (TNTF). Personality and Social Psychology Bulletin, 27, 1277–1290.
+
+Article
+  Google Scholar
+ 
+
+Brislin, R. W. (1986). The wording and translation of research instruments. In W. Lonner & J. Berry (Eds.), Field methods in cross-cultural research (pp. 137–164). Beverly Hills, CA: Sage.
+
+Google Scholar
+ 
+
+Brooks-Gunn, J., & Duncan, G. (1997). The effects of poverty on children. The Future of Children, 7, 58–71.
+
+Article
+  Google Scholar
+ 
+
+Carey, T. C., Finch, A. J., & Carey, M. P. (1991). Relation between differential emotions and depression in emotionally disturbed children and adolescents. Journal of Consulting and Clinical Psychology, 59, 594–597.
+
+Article
+  Google Scholar
+ 
+
+Celik, F. (2007). Türkiye’de İç Göçler: 1980–2000 [Interior migration in Turkey: 1980–2000]. Erciyes Universitesi Sosyal Bilimler Enstitüsü Dergisi, 22, 87–109.
+
+Google Scholar
+ 
+
+Christensen, P., & Prout, A. (2002). Working with ethical symmetry in social research with children. Childhood, 9, 477–497.
+
+Article
+  Google Scholar
+ 
+
+Cukur, C. S., de Guzman, M. R. T., & Carlo, G. (2004). Religiosity, values and horizontal and vertical individualism–collectivism: a study of Turkey, the United States and the Philippines. Journal of Social Psychology, 144, 613–663.
+
+Article
+  Google Scholar
+ 
+
+Darby, B. W., & Schlenker, B. R. (1982). Children’s reactions to transgressions: effects of the actor’s apology, reputation, and remorse. British Journal of Social Psychology, 28, 353–364.
+
+Article
+  Google Scholar
+ 
+
+Denham, S., Neal, K., Wilson, B., Pickering, S., & Boyatzis, C. (2005). Emotional development and forgiveness in children: Emerging evidence. In E. L. Worthington Jr. (Ed.), Handbook of forgiveness (pp. 127–142). New York: Routledge.
+
+Google Scholar
+ 
+
+Duncan, J. D., Brooks-Gunn, J., & Klebanov, P. D. (1994). Economic deprivation and early childhood development. Child Development, 65, 296–318.
+
+Article
+  Google Scholar
+ 
+
+Duyar, I. (2010). Relationship between school facility conditions and the delivery of instruction: evidence from a national survey of school principals. Journal of Facilities Management, 8, 8–25.
+
+Article
+  Google Scholar
+ 
+
+Eisenberg, N., & Fabes, R. A. (1998). Prosocial development. In W. Damon (series Ed.) N. Eisenberg (vol. Ed.), Handbook of child psychology, Vol. 3: Social, emotional, and personality development (5th ed., pp. 701–778). New York: Wiley.
+
+Eisenberg, N., Wentzel, M., & Harris, J. D. (1998). The role of emotionality and regulation in empathy-related responding. School Psychology Review, 27, 506–521.
+
+Google Scholar
+ 
+
+Enright, R. D. (2001). Forgiveness is a choice: A step-by-step process for resolving anger and restoring hope. Washington, DC: American Psychological Association.
+
+Google Scholar
+ 
+
+Enright, R. (2005). Enright forgiveness inventory and annual. Redwood City, CA: Mind Garden.
+
+Google Scholar
+ 
+
+Enright, R. D. (2011). Psychological science of forgiveness: Implications for psychotherapy and education. Paper presented at the conference Neuroscience and Moral Action: Neurological Conditions of Affectivity, Decisions, and Virtue, Rome, Italy.
+
+Enright, R. D., & Fitzgibbons, R. P. (2000). Helping clients forgive: An empirical guide for resolving anger and restoring hope. Washington, DC: American Psychological Association.
+
+Book
+  Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1991). The moral development of forgiveness. In W. M. Kurtines & J. Gewirtz (Eds.), Moral behavior and development (Vol. 1, pp. 123–152). Hilsdale, NJ: Erlbaum.
+
+Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1994). Piaget on the moral development of forgiveness. Human Development, 37, 63–80.
+
+Article
+  Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1996). Counseling within the forgiveness triad: on forgiving, receiving forgiveness, and self-forgiveness. Counseling and Values, 40, 107–146.
+
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Santos, M. J., & Al-Mabuk, R. (1989). The adolescent as forgiver. Journal of Adolescence, 12, 99–110.
+
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Gassin, E. A., & Wu, C. (1992). Forgiveness: a developmental view. Journal of Moral Education, 21, 99–114.
+
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Knutson Enright, J. A., Holter, A. C., Baskin, T., & Knutson, C. (2007). Waging peace through forgiveness in Belfast, Northern Ireland, II: Educational programmes for mental health improvement of children. Journal of Research in Education, 63–78.
+
+Fitzgibbons, R. P. (1986). The cognitive and emotional uses of forgiveness in the treatment of anger. Psychotherapy, 23, 629–633.
+
+Article
+  Google Scholar
+ 
+
+Gambaro, M. E., Enright, R. D., Baskin, T. W., & Klatt, J. (2008). Can school-based forgiveness counseling improve conduct and academic achievement in academically at-risk adolescents? Journal of Research in Education, 18, 16–27.
+
+Google Scholar
+ 
+
+Gassin, E. A., Enright, R. D., & Knutson, J. A. (2005). Bringing peace to the central city: forgiveness education in Milwaukee. Theory Into Practice, 44(4), 319–328.
+
+Article
+  Google Scholar
+ 
+
+Goodwin, R. D. (2006). Association between coping with anger and feelings of depression among youths. American Journal of Public Health, 96, 664–669.
+
+Article
+  Google Scholar
+ 
+
+Greene, M. B. (1993). Chronic exposure to violence and poverty: interventions that work for youth. Crime and Delinquency, 39, 106–124.
+
+Article
+  Google Scholar
+ 
+
+Hepp-Dax, S. H. (1996). Forgiveness as an educational goal with fifth-grade inner-city children. Unpublished doctoral dissertation, Fordham University, New York.
+
+Holter, A. C. (2007). The forgiving child: The impact of forgiveness education on mental health variables for elementary-aged children. Unpublished doctoral dissertation, University of Wisconsin–Madison.
+
+Holter, A. C., Martin, J., & Enright, R. D. (2006). Restoring justice through forgiveness: The case of children in Northern Ireland. In D. Sullivan & L. Tifft (Eds.), Handbook of restorative justice: A global perspective. London: Taylor and Francis.
+
+Google Scholar
+ 
+
+Holter, A. C., Magnuson, C. M., Knutson, C., Knutson Enright, J., & Enright, R. D. (2008). The forgiving child: the impact of forgiveness education on excessive anger for elementary-aged children in Milwaukee’s central city. Journal of Research in Education, 18, 82–93.
+
+Google Scholar
+ 
+
+Hui, E. K. P., & Chau, T. S. (2009). The impact of a forgiveness intervention with Hong Kong Chinese children hurt in interpersonal relationships. British Journal of Guidance and Counselling, 37, 141–156.
+
+Article
+  Google Scholar
+ 
+
+Hui, E. K. P., & Ho, D. K. Y. (2004). Forgiveness in the context of developmental guidance: implementation and evaluation. British Journal of Guidance & Counseling, 32, 477–492.
+
+Article
+  Google Scholar
+ 
+
+Karremans, J. C., & Van Lange, P. A. M. (2008). Forgiveness in personal relationships: its malleability and powerful consequences. European Review of Social Psychology, 19, 202–241.
+
+Article
+  Google Scholar
+ 
+
+Kashani, J. H., Dahlmeier, J. M., Borduin, C. M., Soltys, S., & Reid, J. C. (1995). Characteristics of anger expression in depressed children. Journal of the American Academy of Child and Adolescent Psychiatry, 34, 322–326.
+
+Article
+  Google Scholar
+ 
+
+Knutson, J. A., & Enright, R. D. (2008a). The adventure of forgiveness: A guided curriculum for children, ages 6–8 [First-Grade Curriculum]. Madison, WI: International Forgiveness Institute.
+
+Google Scholar
+ 
+
+Knutson, J. A., & Enright, R. D. (2008b). Joyful forgiving: A guided curriculum for children, ages 9–11 [fourth-grade curriculum]. Madison: International Forgiveness Institute.
+
+Google Scholar
+ 
+
+Kovacs, M. (1985). Children’s depression inventory. Psychopharmacology Bulletin, 21, 995–998.
+
+Google Scholar
+ 
+
+Kumru, A., Carlo, G., & Edwards, C. P. (2004). Olumlu sosyal davranısların iliskisel, kulturel, bilissel ve duyussal bazı degiskenlerle iliskisi [Relational, cultural, cognitive, and affective predictors of prosocial behaviors]. Turk Psikoloji Dergisi, 19, 109–129.
+
+Google Scholar
+ 
+
+Magnuson, C. M., & Enright, R. D. (2008). The church as forgiving community: an initial model. Journal of Psychology and Theology, 36, 104–113.
+
+Google Scholar
+ 
+
+Malat, J., Oh, H. J., & Hamilton, M. A. (2005). Poverty experience, race, and child health. Public Health Reports, 120(4), 442–447.
+
+Google Scholar
+ 
+
+Margolin, G., & Gordis, E. (2000). The effects of family and community violence on children. Annual Reviews Psychology, 51, 445–479.
+
+Article
+  Google Scholar
+ 
+
+Marques, S. C., Pais-Ribeiro, J. L., & Lopez, S. J. (2009). Validation of a Portuguese version of the children’s hope scale. School Psychology International, 30, 538–551.
+
+Article
+  Google Scholar
+ 
+
+May, L. N., & Jones, W. H. (2007). Does hurt linger? Exploring the nature of hurt feelings over time. Current Psychology: Developmental, Learning, Personality, Social, 25(4), 245–256.
+
+Google Scholar
+ 
+
+Mayall, B. (2002). Towards a sociology for childhood: Thinking from children’s lives. Buckingham: Open University Press.
+
+Google Scholar
+ 
+
+McCullough, M. E. (2000). Forgiveness as a human strength: theory, measurement, and links to well-being. Journal of Social and Clinical Psychology, 19, 43–55.
+
+Article
+  Google Scholar
+ 
+
+McCullough, M. E., Rachal, K. C., Sandage, S. J., Worthington, E. L., Jr., Brown, S. W., & Hight, T. L. (1998). Interpersonal forgiving in close relationships II: theoretical elaboration and measurement. Journal of Personality and Social Psychology, 75, 1586–1603.
+
+Article
+  Google Scholar
+ 
+
+McCullough, M. E., Hoyt, W. T., & Rachal, K. C. (2000). What we know (and need to know) about assessing forgiveness constructs. In M. E. McCullough, K. I. Pargament, & C. E. Thoresen (Eds.), Forgiveness: Theory, research, and practice (pp. 65–88). New York: Guilford.
+
+Google Scholar
+ 
+
+McLeod, J. D., & Shanahan, M. J. (1996). Trajectories of poverty and children’s mental health. Journal of Health and Social Behavior, 37, 207–220.
+
+Article
+  Google Scholar
+ 
+
+Miller-Johnson, S., Lochman, J. E., Coie, J. D., Terry, R., & Hyman, C. (1998). Comorbidity of conduct and depressive symptoms at sixth grade: substance abuse outcomes across adolescents. Journal of Abnormal Child Psychology, 26, 221–232.
+
+Article
+  Google Scholar
+ 
+
+Murphy, J. G. (1988). Forgiveness and resentment. In J. G. Murphy & J. Hampton (Eds.), Forgiveness and mercy (pp. 14–33). Cambridge: Cambridge University Press.
+
+Chapter
+  Google Scholar
+ 
+
+Neal, K., Bassett, H. H., & Denham, S. A. (2004). Affective processes and children’s propensity to forgive. Paper presented at the biennial meeting of the Conference on Human Development, Washington, DC.
+
+Oy, B. (1991). Cocuklar icin depresyon olcegi: Gecerlik ve guvenirlik calısması [Depression rating scale for children: validity and reliability study]. Turkish Journal of Psychiatry, 2, 132–137.
+
+Google Scholar
+ 
+
+Ozmen, D., Dundar, P. E., Cetinkaya, A. C., Taskın, O., & Ozmen, E. (2008). Lise ogrencilerinde umutsuzluk ve umutsuzluk duzeyini etkileyen etkenler [Hopelessness and factors affecting hopelessness in high school students]. Anadolu Psikiyatri Dergisi, 9, 8–15.
+
+Google Scholar
+ 
+
+Peterson, C., & Seligman, M. E. P. (2004). Character strengths and virtues: A classification and handbook. New York: Oxford University Press.
+
+Google Scholar
+ 
+
+Price, J. M., & Dodge, K. A. (1989). Reactive and proactive aggression in childhood: relations to peer status and social context dimensions. Journal of Abnormal Child Psychology, 17, 455–471.
+
+Article
+  Google Scholar
+ 
+
+Qvortrup, J., Bardy, M., Sgritta, G., & Wintersberger, H. (1994). Childhood matters: Social theory, practices and politics. Aldershot, UK: Avebury Press.
+
+Google Scholar
+ 
+
+Ripke, M., Huston, A. C., Eccles, J., & Templeton, J. (2007). The assessment of psychological, emotional, and social development indicators in middle childhood. In B. Brown (Ed.), Key indicators of child and youth well-being: Completing the picture (pp. 131–165). New York: Lawrence Erlbaum Associates.
+
+Google Scholar
+ 
+
+Rodden, J. (2004). Forgiveness, education, public policy: The road not yet taken. Modern Age, 333–341
+
+Rye, M. S., Loiacono, D. M., Folck, C. D., Olszewski, B. T., Heim, T. A., & Madia, B. P. (2001). Evaluation of the psychometric properties of two forgiveness scales. Current Psychology: Developmental, Learning, Personality, Social, 20, 260–277.
+
+Article
+  Google Scholar
+ 
+
+Saatci, E., & Akpinar, E. (2007). Assessing poverty and related factors in Turkey. Croatian Medical Journal, 48, 628–635.
+
+Google Scholar
+ 
+
+Samaan, R. A. (2000). The influences of race, ethnicity, and poverty on the mental health of children. Journal of Health Care for the Poor and Understand, 11, 100–110.
+
+Article
+  Google Scholar
+ 
+
+Sandage, S., Worthington, E., & Calvert-Minor, D. (2000). Hope and forgiveness: Initial correlations, directions for future research, and an intervention with couples. Paper presented at the meeting of the American Psychological Association, Washington, DC.
+
+Schultz, D., Izard, C. E., & Ackerman, B. P. (2000). Children’s anger attribution bias: relations to family environment and social adjustment. Social Development, 9, 284–301.
+
+Article
+  Google Scholar
+ 
+
+Seligman, M. E. P. (2002). Authentic happiness. New York: Free Press.
+
+Google Scholar
+ 
+
+Snyder, C. R. (2002). Hope theory: rainbows in the mind. Psychological Inquiry, 13, 249–275.
+
+Article
+  Google Scholar
+ 
+
+Snyder, C. R., Hoza, B., Pelham, W. E., Rapoff, M., Ware, L., Danovsky, M., . . . Stahl, K. J. (1997). The development and validation of the Children’s Hope Scale. Journal of Pediatric Psychology, 22, 399–421.
+
+Suarez-Orozco, C., & Suarez-Orozco, M. M. (2001). Children and immigration. Cambridge, Mass: Harvard University Press.
+
+Google Scholar
+ 
+
+Taysi, E., Curun, F., & Orcan, F. (2015). Hope, anger, and depression as mediators for forgiveness and social behavior in Turkish children. The Journal of Psychology: Interdisciplinary and Applied, 149, 379–393.
+
+Article
+  Google Scholar
+ 
+
+Valle, M. F., Huebner, E. S., & Suldo, S. M. (2006). An analysis of hope as a psychological strength. Journal of School Psychology, 44, 393–406.
+
+Article
+  Google Scholar
+ 
+
+Vreeman, R. C., & Carroll, A. E. (2007). A systematic review of school-based interventions to prevent bullying. Archives of Pediatrics & Adolescent Medicine, 161, 78–88.
+
+Article
+  Google Scholar
+ 
+
+Wade, N. G., & Worthington, E. L., Jr. (2005). In search of a common core: a content analysis of interventions to promote forgiveness. Psychotherapy: Theory, Research, Practice, Training, 42, 160–177.
+
+Article
+  Google Scholar
+ 
+
+Warden, D., & Christie, D. (1997). Teaching social behaviour. London: David Fulton.
+
+Google Scholar
+ 
+
+Warden, D., & Mackinnon, S. (2003). Prosocial children, bullies, and victims: an investigation of their sociometric status, empathy, and social problem-solving strategies. British Journal of Developmental Psychology, 21, 367–385.
+
+Article
+  Google Scholar
+ 
+
+Wasylenki, D. (2001). Inner city health. Canadian Medical Association Journal, 164, 214–215.
+
+Google Scholar
+ 
+
+Weissberg, R. P., Kumpfer, K., & Seligman, M. E. P. (2003). Prevention that works for children and youth: an introduction. American Psychologist, 58, 425–432.
+
+Article
+  Google Scholar
+ 
+
+Worthington, E. L., Jr. (2005). More questions about forgiveness: Research agenda for 2005–2015. In E. L. Worthington Jr. (Ed.), Handbook of forgiveness (pp. 557–574). New York: Brunner-Routledge.
+
+Google Scholar
+ 
+
+Worthington, E. L., Jr. (2006). Forgiveness and reconciliation: Theory and application. New York, NY: Brunner-Routledge.
+
+Google Scholar
+ 
+
+Worthington, E. L., Jr., & Scherer, M. (2004). Forgiveness as an emotion focused coping strategy that can reduce health risks and promote health resilience: theory, review and hypotheses. Psychology and Health, 19, 385–405.
+
+Article
+  Google Scholar
+ 
+
+Worthington, E. L., Jr., Kurusu, T. A., Collins, W., Berry, J., Ripley, J., & Baier, S. (2000). Forgiving usually takes time: a lesson learned by studying interventions to promote forgiveness. Journal of Psychology and Theology, 28, 3–20.
+
+Google Scholar
+ 
+
+Zeman, J., Shipman, K., & Suveg, C. (2002). Anger and sadness regulation: predictions to internalizing and externalizing symptoms in children. Journal of Clinical Child and Adolescent Psychology, 31, 393–398.
+
+Article
+  Google Scholar
+ 
+
+Download references
+
+Faculty of Arts and Sciences, Department of Psychology, Süleyman Demirel University, Isparta, Turkey
+
+Ebru Taysi
+
+Rehabilitation- Education Research and Application Center for Disabled Children, Ege University, İzmir, Turkey
+
+Demet Vural
+
+Correspondence to Ebru Taysi.
+
+This research was supported by grant number 110K429 from the Scientific and Technological Research Council of Turkey, awarded to the first author.
+
+Reprints and permissions
+
+Taysi, E., Vural, D. Forgiveness Education for Fourth Grade Students in Turkey. Child Ind Res 9, 1095–1115 (2016). https://doi.org/10.1007/s12187-015-9364-9
+
+Download citation
+
+Accepted
+27 December 2015
+
+Published
+30 December 2015
+
+Issue Date
+December 2016
+
+DOI
+https://doi.org/10.1007/s12187-015-9364-9
+
+Anyone you share the following link with will be able to read this content:
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Avoid common mistakes on your manuscript.
+
+Advertisement
+
+145.136.143.95
+
+SURF B.V. (3000174899) - Utrecht University Library DV E-collection (4500011134) - SURF B.V. (3001974408) - Utrecht University (2000323035)
+
+© 2025 Springer Nature
+
+Forgiveness Education for Fourth Grade Students in Turkey
+
+Your privacy, your choice
+
+Abstract
+
+1 Anger, Depression, Hope, and Social Behavior
+
+2 Definition of Forgiveness
+
+3 Operationalizing Forgiveness
+
+4 Forgiveness Education Programs
+
+5 Method
+
+6 Results
+
+7 Discussion
+
+References
+
+Author information
+
+Ethics declarations
+
+Rights and permissions
+
+About this article
+
+Home
+
+Child Indicators Research
+
+Article
+
+Published: 30 December 2015
+
+Volume 9, pages 1095–1115, (2016)
+
+Cite this article
+
+Ebru Taysi &
+
+Demet Vural 
+
+749 Accesses
+
+15 Citations
+
+9 Altmetric
+
+1 Mention
+
+Explore all metrics
+
+Hypothesis 1. Fourth-grade children from low socioeconomic status will show higher anger and depression levels than children from middle and high socioeconomic status.
+
+Hypothesis 2. The experimental group when compared with the control group will show a significant decline from pretest to posttest and pretest to follow-up in levels of anger and depression.
+
+Hypothesis 3. The experimental group when compared with the control group will show a significant improvement from pretest to posttest and pretest to follow-up in levels of forgiveness, hope, and prosocial behavior.
+
+Adaman, F., & Keyder, C. (2006). Poverty in social exclusion in the slum areas of large cities in Turkey. Report for the European Commission Employment, Social Affairs and Equal Opportunities. DG, Brussels.
+
+Al-Mabuk, R. H., Enright, R. D., & Cardis, P. A. (1995). Forgiveness education with parentally love-deprived late adolescents. Journal of Moral Education, 24, 427–444.
+Article
+  Google Scholar
+ 
+
+Atik, G., & Kemer, G. (2009). Cocuklarda Umut Olcegi’nin psikometrik ozellikleri: Gecerlik ve guvenirlik calısması [Psychometric properties of the Children’s Hope Scale: Validity and reliability study]. Elementary Education Online, 8, 379–390.
+Google Scholar
+ 
+
+Baskin, T. W., & Enright, R. D. (2004). Intervention studies on forgiveness: a meta-analysis. Journal of Counseling & Development, 82, 79–90.
+Article
+  Google Scholar
+ 
+
+Beck, S., Beck, A. T., & Jolly, J. (2001). Beck youth inventory. New York, NY: Psychological Corporation.
+Google Scholar
+ 
+
+Berry, J. W., Worthington, E. L., Jr., Parrott, L., III, O’Connor, L. E., & Wade, N. G. (2001). Dispositional forgiveness: development and construct validity of the transgression narrative test of forgiveness (TNTF). Personality and Social Psychology Bulletin, 27, 1277–1290.
+Article
+  Google Scholar
+ 
+
+Brislin, R. W. (1986). The wording and translation of research instruments. In W. Lonner & J. Berry (Eds.), Field methods in cross-cultural research (pp. 137–164). Beverly Hills, CA: Sage.
+Google Scholar
+ 
+
+Brooks-Gunn, J., & Duncan, G. (1997). The effects of poverty on children. The Future of Children, 7, 58–71.
+Article
+  Google Scholar
+ 
+
+Carey, T. C., Finch, A. J., & Carey, M. P. (1991). Relation between differential emotions and depression in emotionally disturbed children and adolescents. Journal of Consulting and Clinical Psychology, 59, 594–597.
+Article
+  Google Scholar
+ 
+
+Celik, F. (2007). Türkiye’de İç Göçler: 1980–2000 [Interior migration in Turkey: 1980–2000]. Erciyes Universitesi Sosyal Bilimler Enstitüsü Dergisi, 22, 87–109.
+Google Scholar
+ 
+
+Christensen, P., & Prout, A. (2002). Working with ethical symmetry in social research with children. Childhood, 9, 477–497.
+Article
+  Google Scholar
+ 
+
+Cukur, C. S., de Guzman, M. R. T., & Carlo, G. (2004). Religiosity, values and horizontal and vertical individualism–collectivism: a study of Turkey, the United States and the Philippines. Journal of Social Psychology, 144, 613–663.
+Article
+  Google Scholar
+ 
+
+Darby, B. W., & Schlenker, B. R. (1982). Children’s reactions to transgressions: effects of the actor’s apology, reputation, and remorse. British Journal of Social Psychology, 28, 353–364.
+Article
+  Google Scholar
+ 
+
+Denham, S., Neal, K., Wilson, B., Pickering, S., & Boyatzis, C. (2005). Emotional development and forgiveness in children: Emerging evidence. In E. L. Worthington Jr. (Ed.), Handbook of forgiveness (pp. 127–142). New York: Routledge.
+Google Scholar
+ 
+
+Duncan, J. D., Brooks-Gunn, J., & Klebanov, P. D. (1994). Economic deprivation and early childhood development. Child Development, 65, 296–318.
+Article
+  Google Scholar
+ 
+
+Duyar, I. (2010). Relationship between school facility conditions and the delivery of instruction: evidence from a national survey of school principals. Journal of Facilities Management, 8, 8–25.
+Article
+  Google Scholar
+ 
+
+Eisenberg, N., & Fabes, R. A. (1998). Prosocial development. In W. Damon (series Ed.) N. Eisenberg (vol. Ed.), Handbook of child psychology, Vol. 3: Social, emotional, and personality development (5th ed., pp. 701–778). New York: Wiley.
+
+Eisenberg, N., Wentzel, M., & Harris, J. D. (1998). The role of emotionality and regulation in empathy-related responding. School Psychology Review, 27, 506–521.
+Google Scholar
+ 
+
+Enright, R. D. (2001). Forgiveness is a choice: A step-by-step process for resolving anger and restoring hope. Washington, DC: American Psychological Association.
+Google Scholar
+ 
+
+Enright, R. (2005). Enright forgiveness inventory and annual. Redwood City, CA: Mind Garden.
+Google Scholar
+ 
+
+Enright, R. D. (2011). Psychological science of forgiveness: Implications for psychotherapy and education. Paper presented at the conference Neuroscience and Moral Action: Neurological Conditions of Affectivity, Decisions, and Virtue, Rome, Italy.
+
+Enright, R. D., & Fitzgibbons, R. P. (2000). Helping clients forgive: An empirical guide for resolving anger and restoring hope. Washington, DC: American Psychological Association.
+Book
+  Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1991). The moral development of forgiveness. In W. M. Kurtines & J. Gewirtz (Eds.), Moral behavior and development (Vol. 1, pp. 123–152). Hilsdale, NJ: Erlbaum.
+Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1994). Piaget on the moral development of forgiveness. Human Development, 37, 63–80.
+Article
+  Google Scholar
+ 
+
+Enright, R. D., & the Human Development Study Group. (1996). Counseling within the forgiveness triad: on forgiving, receiving forgiveness, and self-forgiveness. Counseling and Values, 40, 107–146.
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Santos, M. J., & Al-Mabuk, R. (1989). The adolescent as forgiver. Journal of Adolescence, 12, 99–110.
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Gassin, E. A., & Wu, C. (1992). Forgiveness: a developmental view. Journal of Moral Education, 21, 99–114.
+Article
+  Google Scholar
+ 
+
+Enright, R. D., Knutson Enright, J. A., Holter, A. C., Baskin, T., & Knutson, C. (2007). Waging peace through forgiveness in Belfast, Northern Ireland, II: Educational programmes for mental health improvement of children. Journal of Research in Education, 63–78.
+
+Fitzgibbons, R. P. (1986). The cognitive and emotional uses of forgiveness in the treatment of anger. Psychotherapy, 23, 629–633.
+Article
+  Google Scholar
+ 
+
+Gambaro, M. E., Enright, R. D., Baskin, T. W., & Klatt, J. (2008). Can school-based forgiveness counseling improve conduct and academic achievement in academically at-risk adolescents? Journal of Research in Education, 18, 16–27.
+Google Scholar
+ 
+
+Gassin, E. A., Enright, R. D., & Knutson, J. A. (2005). Bringing peace to the central city: forgiveness education in Milwaukee. Theory Into Practice, 44(4), 319–328.
+Article
+  Google Scholar
+ 
+
+Goodwin, R. D. (2006). Association between coping with anger and feelings of depression among youths. American Journal of Public Health, 96, 664–669.
+Article
+  Google Scholar
+ 
+
+Greene, M. B. (1993). Chronic exposure to violence and poverty: interventions that work for youth. Crime and Delinquency, 39, 106–124.
+Article
+  Google Scholar
+ 
+
+Hepp-Dax, S. H. (1996). Forgiveness as an educational goal with fifth-grade inner-city children. Unpublished doctoral dissertation, Fordham University, New York.
+
+Holter, A. C. (2007). The forgiving child: The impact of forgiveness education on mental health variables for elementary-aged children. Unpublished doctoral dissertation, University of Wisconsin–Madison.
+
+Holter, A. C., Martin, J., & Enright, R. D. (2006). Restoring justice through forgiveness: The case of children in Northern Ireland. In D. Sullivan & L. Tifft (Eds.), Handbook of restorative justice: A global perspective. London: Taylor and Francis.
+Google Scholar
+ 
+
+Holter, A. C., Magnuson, C. M., Knutson, C., Knutson Enright, J., & Enright, R. D. (2008). The forgiving child: the impact of forgiveness education on excessive anger for elementary-aged children in Milwaukee’s central city. Journal of Research in Education, 18, 82–93.
+Google Scholar
+ 
+
+Hui, E. K. P., & Chau, T. S. (2009). The impact of a forgiveness intervention with Hong Kong Chinese children hurt in interpersonal relationships. British Journal of Guidance and Counselling, 37, 141–156.
+Article
+  Google Scholar
+ 
+
+Hui, E. K. P., & Ho, D. K. Y. (2004). Forgiveness in the context of developmental guidance: implementation and evaluation. British Journal of Guidance & Counseling, 32, 477–492.
+Article
+  Google Scholar
+ 
+
+Karremans, J. C., & Van Lange, P. A. M. (2008). Forgiveness in personal relationships: its malleability and powerful consequences. European Review of Social Psychology, 19, 202–241.
+Article
+  Google Scholar
+ 
+
+Kashani, J. H., Dahlmeier, J. M., Borduin, C. M., Soltys, S., & Reid, J. C. (1995). Characteristics of anger expression in depressed children. Journal of the American Academy of Child and Adolescent Psychiatry, 34, 322–326.
+Article
+  Google Scholar
+ 
+
+Knutson, J. A., & Enright, R. D. (2008a). The adventure of forgiveness: A guided curriculum for children, ages 6–8 [First-Grade Curriculum]. Madison, WI: International Forgiveness Institute.
+Google Scholar
+ 
+
+Knutson, J. A., & Enright, R. D. (2008b). Joyful forgiving: A guided curriculum for children, ages 9–11 [fourth-grade curriculum]. Madison: International Forgiveness Institute.
+Google Scholar
+ 
+
+Kovacs, M. (1985). Children’s depression inventory. Psychopharmacology Bulletin, 21, 995–998.
+Google Scholar
+ 
+
+Kumru, A., Carlo, G., & Edwards, C. P. (2004). Olumlu sosyal davranısların iliskisel, kulturel, bilissel ve duyussal bazı degiskenlerle iliskisi [Relational, cultural, cognitive, and affective predictors of prosocial behaviors]. Turk Psikoloji Dergisi, 19, 109–129.
+Google Scholar
+ 
+
+Magnuson, C. M., & Enright, R. D. (2008). The church as forgiving community: an initial model. Journal of Psychology and Theology, 36, 104–113.
+Google Scholar
+ 
+
+Malat, J., Oh, H. J., & Hamilton, M. A. (2005). Poverty experience, race, and child health. Public Health Reports, 120(4), 442–447.
+Google Scholar
+ 
+
+Margolin, G., & Gordis, E. (2000). The effects of family and community violence on children. Annual Reviews Psychology, 51, 445–479.
+Article
+  Google Scholar
+ 
+
+Marques, S. C., Pais-Ribeiro, J. L., & Lopez, S. J. (2009). Validation of a Portuguese version of the children’s hope scale. School Psychology International, 30, 538–551.
+Article
+  Google Scholar
+ 
+
+May, L. N., & Jones, W. H. (2007). Does hurt linger? Exploring the nature of hurt feelings over time. Current Psychology: Developmental, Learning, Personality, Social, 25(4), 245–256.
+Google Scholar
+ 
+
+Mayall, B. (2002). Towards a sociology for childhood: Thinking from children’s lives. Buckingham: Open University Press.
+Google Scholar
+ 
+
+McCullough, M. E. (2000). Forgiveness as a human strength: theory, measurement, and links to well-being. Journal of Social and Clinical Psychology, 19, 43–55.
+Article
+  Google Scholar
+ 
+
+McCullough, M. E., Rachal, K. C., Sandage, S. J., Worthington, E. L., Jr., Brown, S. W., & Hight, T. L. (1998). Interpersonal forgiving in close relationships II: theoretical elaboration and measurement. Journal of Personality and Social Psychology, 75, 1586–1603.
+Article
+  Google Scholar
+ 
+
+McCullough, M. E., Hoyt, W. T., & Rachal, K. C. (2000). What we know (and need to know) about assessing forgiveness constructs. In M. E. McCullough, K. I. Pargament, & C. E. Thoresen (Eds.), Forgiveness: Theory, research, and practice (pp. 65–88). New York: Guilford.
+Google Scholar
+ 
+
+McLeod, J. D., & Shanahan, M. J. (1996). Trajectories of poverty and children’s mental health. Journal of Health and Social Behavior, 37, 207–220.
+Article
+  Google Scholar
+ 
+
+Miller-Johnson, S., Lochman, J. E., Coie, J. D., Terry, R., & Hyman, C. (1998). Comorbidity of conduct and depressive symptoms at sixth grade: substance abuse outcomes across adolescents. Journal of Abnormal Child Psychology, 26, 221–232.
+Article
+  Google Scholar
+ 
+
+Murphy, J. G. (1988). Forgiveness and resentment. In J. G. Murphy & J. Hampton (Eds.), Forgiveness and mercy (pp. 14–33). Cambridge: Cambridge University Press.
+Chapter
+  Google Scholar
+ 
+
+Neal, K., Bassett, H. H., & Denham, S. A. (2004). Affective processes and children’s propensity to forgive. Paper presented at the biennial meeting of the Conference on Human Development, Washington, DC.
+
+Oy, B. (1991). Cocuklar icin depresyon olcegi: Gecerlik ve guvenirlik calısması [Depression rating scale for children: validity and reliability study]. Turkish Journal of Psychiatry, 2, 132–137.
+Google Scholar
+ 
+
+Ozmen, D., Dundar, P. E., Cetinkaya, A. C., Taskın, O., & Ozmen, E. (2008). Lise ogrencilerinde umutsuzluk ve umutsuzluk duzeyini etkileyen etkenler [Hopelessness and factors affecting hopelessness in high school students]. Anadolu Psikiyatri Dergisi, 9, 8–15.
+Google Scholar
+ 
+
+Peterson, C., & Seligman, M. E. P. (2004). Character strengths and virtues: A classification and handbook. New York: Oxford University Press.
+Google Scholar
+ 
+
+Price, J. M., & Dodge, K. A. (1989). Reactive and proactive aggression in childhood: relations to peer status and social context dimensions. Journal of Abnormal Child Psychology, 17, 455–471.
+Article
+  Google Scholar
+ 
+
+Qvortrup, J., Bardy, M., Sgritta, G., & Wintersberger, H. (1994). Childhood matters: Social theory, practices and politics. Aldershot, UK: Avebury Press.
+Google Scholar
+ 
+
+Ripke, M., Huston, A. C., Eccles, J., & Templeton, J. (2007). The assessment of psychological, emotional, and social development indicators in middle childhood. In B. Brown (Ed.), Key indicators of child and youth well-being: Completing the picture (pp. 131–165). New York: Lawrence Erlbaum Associates.
+Google Scholar
+ 
+
+Rodden, J. (2004). Forgiveness, education, public policy: The road not yet taken. Modern Age, 333–341
+
+Rye, M. S., Loiacono, D. M., Folck, C. D., Olszewski, B. T., Heim, T. A., & Madia, B. P. (2001). Evaluation of the psychometric properties of two forgiveness scales. Current Psychology: Developmental, Learning, Personality, Social, 20, 260–277.
+Article
+  Google Scholar
+ 
+
+Saatci, E., & Akpinar, E. (2007). Assessing poverty and related factors in Turkey. Croatian Medical Journal, 48, 628–635.
+Google Scholar
+ 
+
+Samaan, R. A. (2000). The influences of race, ethnicity, and poverty on the mental health of children. Journal of Health Care for the Poor and Understand, 11, 100–110.
+Article
+  Google Scholar
+ 
+
+Sandage, S., Worthington, E., & Calvert-Minor, D. (2000). Hope and forgiveness: Initial correlations, directions for future research, and an intervention with couples. Paper presented at the meeting of the American Psychological Association, Washington, DC.
+
+Schultz, D., Izard, C. E., & Ackerman, B. P. (2000). Children’s anger attribution bias: relations to family environment and social adjustment. Social Development, 9, 284–301.
+Article
+  Google Scholar
+ 
+
+Seligman, M. E. P. (2002). Authentic happiness. New York: Free Press.
+Google Scholar
+ 
+
+Snyder, C. R. (2002). Hope theory: rainbows in the mind. Psychological Inquiry, 13, 249–275.
+Article
+  Google Scholar
+ 
+
+Snyder, C. R., Hoza, B., Pelham, W. E., Rapoff, M., Ware, L., Danovsky, M., . . . Stahl, K. J. (1997). The development and validation of the Children’s Hope Scale. Journal of Pediatric Psychology, 22, 399–421.
+
+Suarez-Orozco, C., & Suarez-Orozco, M. M. (2001). Children and immigration. Cambridge, Mass: Harvard University Press.
+Google Scholar
+ 
+
+Taysi, E., Curun, F., & Orcan, F. (2015). Hope, anger, and depression as mediators for forgiveness and social behavior in Turkish children. The Journal of Psychology: Interdisciplinary and Applied, 149, 379–393.
+Article
+  Google Scholar
+ 
+
+Valle, M. F., Huebner, E. S., & Suldo, S. M. (2006). An analysis of hope as a psychological strength. Journal of School Psychology, 44, 393–406.
+Article
+  Google Scholar
+ 
+
+Vreeman, R. C., & Carroll, A. E. (2007). A systematic review of school-based interventions to prevent bullying. Archives of Pediatrics & Adolescent Medicine, 161, 78–88.
+Article
+  Google Scholar
+ 
+
+Wade, N. G., & Worthington, E. L., Jr. (2005). In search of a common core: a content analysis of interventions to promote forgiveness. Psychotherapy: Theory, Research, Practice, Training, 42, 160–177.
+Article
+  Google Scholar
+ 
+
+Warden, D., & Christie, D. (1997). Teaching social behaviour. London: David Fulton.
+Google Scholar
+ 
+
+Warden, D., & Mackinnon, S. (2003). Prosocial children, bullies, and victims: an investigation of their sociometric status, empathy, and social problem-solving strategies. British Journal of Developmental Psychology, 21, 367–385.
+Article
+  Google Scholar
+ 
+
+Wasylenki, D. (2001). Inner city health. Canadian Medical Association Journal, 164, 214–215.
+Google Scholar
+ 
+
+Weissberg, R. P., Kumpfer, K., & Seligman, M. E. P. (2003). Prevention that works for children and youth: an introduction. American Psychologist, 58, 425–432.
+Article
+  Google Scholar
+ 
+
+Worthington, E. L., Jr. (2005). More questions about forgiveness: Research agenda for 2005–2015. In E. L. Worthington Jr. (Ed.), Handbook of forgiveness (pp. 557–574). New York: Brunner-Routledge.
+Google Scholar
+ 
+
+Worthington, E. L., Jr. (2006). Forgiveness and reconciliation: Theory and application. New York, NY: Brunner-Routledge.
+Google Scholar
+ 
+
+Worthington, E. L., Jr., & Scherer, M. (2004). Forgiveness as an emotion focused coping strategy that can reduce health risks and promote health resilience: theory, review and hypotheses. Psychology and Health, 19, 385–405.
+Article
+  Google Scholar
+ 
+
+Worthington, E. L., Jr., Kurusu, T. A., Collins, W., Berry, J., Ripley, J., & Baier, S. (2000). Forgiving usually takes time: a lesson learned by studying interventions to promote forgiveness. Journal of Psychology and Theology, 28, 3–20.
+Google Scholar
+ 
+
+Zeman, J., Shipman, K., & Suveg, C. (2002). Anger and sadness regulation: predictions to internalizing and externalizing symptoms in children. Journal of Clinical Child and Adolescent Psychology, 31, 393–398.
+Article
+  Google Scholar
+ 
+
+Faculty of Arts and Sciences, Department of Psychology, Süleyman Demirel University, Isparta, Turkey
+Ebru Taysi
+
+Rehabilitation- Education Research and Application Center for Disabled Children, Ege University, İzmir, Turkey
+Demet Vural
+
+Accepted
+27 December 2015
+
+Published
+30 December 2015
+
+Issue Date
+December 2016
+
+DOI
+https://doi.org/10.1007/s12187-015-9364-9
+
+Forgiveness
+
+Anger
+
+Depression
+
+Hope
+
+Social behavior
+
+Education
+
+Children
+
+Sections
+
+References
+
+Abstract
+
+Anger, Depression, Hope, and Social Behavior
+
+Definition of Forgiveness
+
+Operationalizing Forgiveness
+
+Forgiveness Education Programs
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Author information
+
+Ethics declarations
+
+Rights and permissions
+
+About this article
+
+Journals A-Z
+
+Books A-Z
+
+Journal finder
+
+Publish your research
+
+Open access publishing
+
+Our products
+
+Librarians
+
+Societies
+
+Partners and advertisers
+
+Springer
+
+Nature Portfolio
+
+BMC
+
+Palgrave Macmillan
+
+Apress
+
+Discover
+
+Your privacy choices/Manage cookies
+
+Your US state privacy rights
+
+Accessibility statement
+
+Terms and conditions
+
+Privacy policy
+
+Help and support
+
+Legal notice
+
+Cancel contracts here

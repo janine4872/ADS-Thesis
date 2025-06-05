@@ -1,0 +1,677 @@
+We use essential cookies to make sure the site can function. We, and our 95 partners, also use optional cookies and similar technologies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to allowing us and our partners to store and access personal data on your device, such as browsing behaviour and unique identifiers. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our privacy policy for more information on the use of your personal data. Your consent choices apply to springer.com and applicable subdomains.
+
+You can find further information, and change your preferences via 'Manage preferences'.
+You can also change your preferences or withdraw consent at any time via 'Your privacy choices', found in the footer of every page.
+
+We use cookies and similar technologies for the following purposes:
+
+Advertisement
+
+Access provided by SURF B.V.
+
+12k Accesses
+
+128 Citations
+
+69 Altmetric
+
+9 Mentions
+
+Explore all metrics
+
+Our objective was to conduct the first randomized controlled trial of the efficacy of a group mindfulness program aimed at reducing and preventing depression in an adolescent school-based population. For each of 12 pairs of parallel classes with students (age range 13–20) from five schools (N = 408), one class was randomly assigned to the mindfulness condition and one class to the control condition. Students in the mindfulness group completed depression assessments (the Depression Anxiety Stress Scales) prior to and immediately following the intervention and 6 months after the intervention. Control students completed the questionnaire at the same times as those in the mindfulness group. Hierarchical linear modeling showed that the mindfulness intervention showed significantly greater reductions (and greater clinically significant change) in depression compared with the control group at the 6-month follow-up. Cohen's d was medium sized (>.30) for both the pre-to-post and pre-to-follow-up effect for depressive symptoms in the mindfulness condition. The findings suggest that school-based mindfulness programs can help to reduce and prevent depression in adolescents.
+
+Mindfulness refers to a compassionate and nonjudgmental moment-to-moment awareness of one's experiences. An often-cited definition is that of Kabat-Zinn (1994, p. 4), who describes mindfulness as the awareness that emerges through “paying attention in a particular way: on purpose, in the present moment, and nonjudgmentally.” In the last three decades, interventions have been developed to teach mindfulness skills to reduce physical and emotional complaints. Two predominant mindfulness-based approaches, both using mindfulness meditation, are Mindfulness-Based Stress Reduction (MBSR; Kabat-Zinn 1990) and Mindfulness-Based Cognitive Therapy (MBCT; Segal et al. 2002). Other influential approaches within the family of “mindfulness-oriented interventions” (Keng et al. 2011, p. 1043), such as Dialectical Behavior Therapy (Linaehan 1993) and Acceptance and Commitment Therapy (Hayes et al. 1999), also teach mindfulness but with less focus on meditation. The success of these mindfulness-based approaches suggests that mindfulness skills may help to prevent and reduce emotional distress.
+
+In both clinical and non-clinical samples, mindfulness-based interventions have generally been effective at reducing physical and psychological problems (e.g., anxiety and depression) and increasing health and well-being (for reviews, see: Hofmann et al. 2010; Keng et al. 2011). Most studies that provide support for mindfulness-based interventions have been conducted in adults. Recently, however, there have been more efforts to develop and to examine the effectiveness of mindfulness-based interventions for children and adolescents (Burke 2010; Meiklejohn et al. 2012).
+
+Burke (2010) concludes that there are clear indications now that mindfulness-based programs with children and youth are feasible and acceptable (e.g., Mendelson et al. 2010). There is also emerging evidence on the efficacy and effectiveness of such interventions for children and adolescents, both in clinical and in normative or community samples (for reviews, see Black et al. 2009; Burke 2010; Meiklejohn et al. 2012).
+
+The results of a randomized controlled trial (RCT) by Biegel et al. (2009), for example, reported positive effects of MBSR in an adolescent outpatient psychiatric sample, in terms of decreases in anxiety and depression and increases in self-esteem. Other promising findings on the benefits of mindfulness-based approaches for adolescents and children with clinical problems are reported, for example, for ADHD (e.g., Singh et al. 2010; Van de Weijer-Bergsma et al. 2012) and anxiety (Semple et al. 2005).
+
+Preliminary studies examining mindfulness-based approaches in community children and adolescents suggest that such interventions might also be beneficial for non-clinical individuals for reducing stress, depression, and anxiety, as well as helping to improve attention and emotion regulation (see Meiklejohn et al. 2012, for a review). Positive effects have been reported for school-based mindfulness approaches for elementary- and middle school-aged children (e.g., Napoli et al. 2005; Schonert-Reichl and Lawlor 2010; Van de Weijer-Bergsma et al. 2013) as well as for high-school-aged adolescents (e.g., Broderick and Metz 2009; Huppert and Johnson 2010).
+
+Although the findings to date on mindfulness interventions for children and adolescents are promising, further empirical work is clearly needed. This is particularly so for community samples because existing studies are typically limited either by small sample sizes, lack of adequate control groups, or nonrandomized designs (Burke 2010; also see: Keng et al. 2011; Meiklejohn et al. 2012). Thus, there is a need to advance research on mindfulness for youth using larger scale group RCTs.
+
+This article reports the effects of a mindfulness group program on reducing and preventing depression in adolescents, using a group RCT design with a large school-based sample. The mindfulness program was developed specifically for adolescents (Dewulf 2009, 2013) and integrates components of MBCT (Segal et al. 2002) and MBSR (Kabat-Zinn 1990).
+
+Fifty schools were invited to participate. The schools were located in Flanders—the northern, Dutch-speaking region of Belgium. Fifteen schools expressed interest in participating, but ten were unable to participate due to practical difficulties that mainly had to do with course timetable incompatibilities. Four of the five schools each offered two or three pairs of parallel classes, spread over two school years (2009–2010; 2010–2011), resulting in nine pairs of classes (n = 315). Within pairs, one class was randomized to the mindfulness condition, the other to the (no intervention) control condition. In the fifth school, classes were too small to be used as mindfulness or control groups. For that particular school, half of the students of each class were randomized to the mindfulness condition, the other half to the control condition, which led to an additional three pairs of mindfulness and control groups (n = 93). This randomization resulted in a total of 12 pairs of mindfulness and 12 control groups (N = 408; mindfulness n = 201; control n = 207). Randomization, using an online random number generator, was done by the first author who did not participate in the assessments and who had no contact with schools, classes, or students. Participating classes were from years 3 to 6 in secondary school, a time that is characterized by the highest percentage of age at onset of first major depressive episode (Zisook et al. 2007). Years 3 to 6 in Flemish secondary schools, roughly referring to ages 14 to 17, correspond to grades 9 to 12 (or high school) in the American educational system. To be more precise, there were three pairs of groups from year 3 (mean age 14), four pairs of groups from year 4 (mean age 15), four pairs of groups of year 5 (mean age 16), and one pair of groups of year 6 (mean age 17). Group size ranged from 10 to 24 (M = 16.8; SD = 4.9) for the mindfulness condition; for the control groups, group size ranged from 12 to 24 (M = 17.3; SD = 4.8), t < 1.
+
+The DASS-21 (Lovibond and Lovibond 1995) consists of three 7-item scales designed to assess depression (DASS-21-D), anxiety (DASS-21-A), and stress symptoms (DASS-21-S). In this study, the depression scale was the main outcome. Items were scored on a four-point scale, ranging from 1 (did not apply to me at all) to 4 (applied to me very much or most of the time), for the past week. Good psychometric properties are reported for the original as well as the Dutch version that we used (Beurs et al. 2001; Willemsen et al. 2011). To aid in questionnaire interpretation, all subscales of the DASS were converted to percent-of-maximum-possible (POMP) scores, in which a scale is converted to a 0–100 % metric with 0 being the minimum value of the scale and 100 being the maximum possible value of the scale (Cohen et al. 1999). For the depression scale, a raw score of 14 or above (POMP score of 33.3) was considered clinically significant. Reliability for this scale was good in this study; Cronbach's alphas were >.80 across all three time points.
+
+We included several measures in this study that are not reported in this manuscript. For example, we had initially wanted to use the 15-item Five-Factor Mindfulness Questionnaire (Baer et al. 2012) as a mindfulness measure, but the internal consistency for this measure was too low to be trusted (Cronbach's α = .47). We suspect that this was because this measure was not developed for secondary school students. Thus, we do not report this measure. We also included a Mood Disorders Questionnaire (Van der Does et al. 2003), which is an experimental questionnaire that is intended to yield a yes/no diagnosis of major depressive disorder. However, the sensitivity and specificity of this measure are not well known at this time in English or Dutch. Thus, we did not use this questionnaire as an endpoint.
+
+All students gave written assent or informed consent if they were already legal adults. For those below age 16, passive parental informed consent was also obtained using a letter in which parents were asked to complete and return an attached form if they did not want their child to participate. Students in the mindfulness condition attended the mindfulness program during school hours for 8 weeks, replacing religious studies, physical education, or another academic course, depending on the class's timetable. One school was a boarding school, so the mindfulness sessions were organized on a weekday evening. Each mindfulness session lasted 100 min. Students were not graded on any aspect of the mindfulness course. Participants in the control groups followed their regular school program; no intervention or attention was provided to them. Mindfulness and control groups of each pair were conducted at the same time. Students in the mindfulness groups completed the questionnaire before the mindfulness program (baseline; T1), after the mindfulness program (post-intervention; T2), and at a 6-month follow-up point (T3). Control students completed the questionnaire at the same times as those in the mindfulness group. All assessments were administered during regular school hours by the third author who was not involved as a mindfulness trainer in any of the groups. Students were provided with help-seeking contacts (e.g., helpline numbers, mental health centers) at each assessment point. The ethical committee of the University of Leuven approved the study.
+
+The intervention was a mindfulness group training specifically developed for adolescents (Dewulf 2009, 2013). It integrated elements of MBCT (Segal et al. 2002) and MBSR (e.g., Kabat-Zinn 1990). The program was delivered by an instructor in eight weekly 100-min sessions, which include guided experiential mindfulness exercises (e.g., mindfulness of breathing, breathing space, body scan), sharing of experience of these exercises; reflections in small groups, inspiring stories; psycho-education (e.g., stress, depression, self-care), and review of homework. Homework assignments were 15 min of mindfulness practice each day, suggested reading, and weekly tips on how to bring mindfulness into daily life. Each session focused on a specific theme, and some exercises are repeated throughout the program. Sessions thematically focus on “attention to the breath and the moment” (session 1), “attention to the body and pleasant moments” (session 2), “attention to your inner boundaries and to unpleasant moments” (session 3), “attention to stress and space” (session 4), “attention to thoughts and emotion” (session 5), “attention to interpretations and communication” (session 6), “attention to your attitudes and your moods” (session 7), and “attention to yourself and your heartfulness” (session 8). Participants in this program received the book Mindfulness voor jongeren [Mindfulness for adolescents] (Dewulf 2009) for reviewing the material at home. For formal practice, the book comes with a double CD with mindfulness exercises and several sitting meditations. Participants were also encouraged to apply mindfulness throughout their daily lives. They received a workbook for making notes on their home practice; these notes are then used as input for discussion during the next group session.
+
+The three instructors, two men and one woman, were experienced mindfulness trainers; two of them were psychologists; one was a medical doctor. One of them, D. Dewulf, developed the mindfulness intervention and is the founder and chairman of the Institute for Attention and Mindfulness (I AM). The other two completed their mindfulness training at I AM. They had extensive experience with delivering the program to adults and adolescents and also have an ongoing personal mindfulness meditation practice. The three instructors regularly met eight times during the course of the first mindfulness groups to discuss their experience with the sessions and to evaluate and to maximize or ensure close adherence to the protocol, but no formal adherence measure was used.
+
+For each of the three DASS subscales, if fewer than 20 % of the items were missing (i.e., not more than one item missing), the score was prorated. Ten participants did not provide sufficient data on the DASS-21-D to compute baseline scores. Those participants who did not complete the pre-intervention assessment were excluded from analyses. Our analysis plan was as follows: We first compared the mindfulness versus control groups to ensure that they were comparable at baseline; we predicted that there would be no meaningful differences. We next used hierarchical linear modeling (e.g., Raudenbush and Bryk 2002) to examine the differential trajectories of depression. Hierarchical linear modeling allowed us to determine individual trajectories in individual change while accounting for the fact that individuals within groups might show dependencies by virtue of the fact that they are in the same group. Cases with missing data at T2 or T3 were still included in the analyses, which still allows for estimation of change over time with full maximum likelihood estimation. We hypothesized that mindfulness would result in larger reductions in depression at T2 and T3 above and beyond gender and school as covariates, relative to the control condition. We also used Cohen's d statistic (Cohen 1988) to calculate within-group effect sizes. In addition, we examined the clinical significance of the effects using a normative cutoff point for our primary outcome measure (DASS-21-D).
+
+Figure 1 presents the flowchart of the recruitment and retention of participants in the trial. None of the students from the classes involved in the project declined to participate.
+
+Flowchart of the recruitment and retention of participants in the trial. Note: For four schools, classes were randomized (a). For one school, because of classes being too small, individuals were randomized (for more details, see “Participants and Design” section)
+
+Four participants had missing data at the T1 in the mindfulness condition versus one in the control group. Table 1 presents the percentage of missing data across the follow-ups. The main reason for missing data was participants being absent from school on the day of testing. No students formally withdrew from the study. There were significantly higher rates of missing data for the control group versus the mindfulness group at T2 (12 versus 6 %; Table 1), but rates of missing data were not significantly different at T3 (16 versus 14 %; Table 1). The average age in the sample was 15.4 years (SD = 1.2, range 13–20). In terms of year in school, 20 % were in their third year of secondary school (typically age 14), 40 % were in their fourth year, 29 % were in their fifth year, and 10 % were in their sixth year.
+
+Table 1 shows comparisons of the mindfulness versus control groups at baseline. Clinical significance of depression was assessed using the DASS-21-D scores of moderate depression or greater (Lovibond and Lovibond 1995). Rates of clinically significant depression are shown in Table 2. No significant differences were observed between the two groups at baseline.
+
+Hierarchical linear modeling was used to conduct the analyses of the DASS-21-D. The model is presented in Table 3 and the overall results are presented in Fig. 2. We first examined a “null model,” in HLM parlance, to estimate intraclass correlations (ICCs) for level 2 and level 3 variabilities. These ICCs represent the proportion of variance in the dependent variable (DASS-21-D) that is accounted for by level 2 (subject level, e.g., gender) and level 3 (e.g., school) factors. The ICCs for levels 2 and 3 were .35 and .08, respectively.
+
+Depression Anxiety Stress Scales (DASS)-21 Depression Scale over T1 (baseline), T2 (posttreatment), and T3 (follow-up). The DASS is in percent-of-maximum-possible (POMP) scores, which range from 0 to 100 %. Only complete cases, with non-missing data at T1, T2, and T3, are included in the figure. Error bars indicate SE
+
+Level 1 of the model contained the within-subject relationship between time point and the DASS-21-D. Time point was dummy coded such that one dummy variable measured the change from baseline to T2 (post-intervention), and another variable measured the change from baseline to T3 (see Table 3). Level 2 of the model contained the regression of the level 1 parameters on gender, which was the only participant-level variable that we examined. At level 2, error terms were included for the two level 1 slopes as dependent variables to capture participant-to-participant differences that might exist for the relationship between time point and depression. At level 3, group was used as the identifier to capture differences across groups; experimental condition and school were used as covariates. School was represented by four dummy variables. At level 3, the dependent variables were the level 2 regression parameters. Gender and school were not our main variables of interest. Gender is often related to depression, so it was entered to reduce potential nuisance variance. School was entered to represent the nested structure of the data.
+
+Table 3 presents the hierarchical model that we tested. Table 4 presents the results for each parameter in the model. To test our main hypotheses, we used DASS-21-D as the dependent variable in the regression; the coefficients and standard errors for parameters G101 and G201 (see Table 3) were, respectively, −6.0 (3.1) and −6.8 (3.3). The p value for parameter G101 was .050, but the observed t statistic (t = 1.958, 391 df) was very slightly below the critical value needed for statistical significance. Parameter G201, however, was significant at p < .05, which indicates that, as predicted, the mindfulness intervention had more of an impact on changes in depression than the control group at T3. The mindfulness group had lower levels of depression at T2 and T3 relative to baseline, whereas little change was observed in the control group (see Table 1). Again, the unit of measurement for these coefficients is POMP scores. The effect of the mindfulness intervention did not significantly interact with gender. Another way to think about G101 and G201 are as cross-level interactions of condition and time—these parameters capture the effect of treatment condition on the changes from baseline in depression. Although they were not the main focus of the study, the G201 parameters were also negative and significant at p < .05 when the anxiety scale and stress scale were used as dependent variables. The results of the depression scale are also graphically depicted in Fig. 2; note that only complete cases are included in the figure, so the values will not match the tables exactly.
+
+Because gender and school were not hypothesized to influence the efficacy of treatment, we also compared the full model in Tables 3 and 4 to a simplified model that did not contain the parameters for gender and school. The deviance statistic for the simplified model (11 parameters) was 9,330.0; for the full model (Tables 3 and 4; 41 parameters), the deviance statistic was 9,288.5. Despite our large sample, the difference between these two models was not statistically significant (χ 2 (df = 30) = 41.5, ns). This suggests that these additional variables did not have a significant effect as a group. Among the other 34 t tests produced by the model (not counting our two hypothesized effects), there were, however, four individual t tests that were significant as shown in Table 4. Because the block of variables was not significant, and because it is not surprising to see some significant tests when testing a large block, these were not interpreted further and no additional modifications were made to the model.
+
+To further examine the magnitude of the effect of the mindfulness intervention, we used repeated measures t tests as well as Cohen's d effect sizes (Cohen 1988). We compared the differences from T2 and T3, respectively, from baseline. In the mindfulness group, for the reduction from baseline to T2 in DASS-21-D, there was a significant decrease in depression (t(181) = 4.4, p < .001, Cohen's d was .32). For the reduction from baseline to T3, there was also a significant reduction (t(166) = 4.0, p < .001, Cohen's d was .31). In terms of Cohen's (1988) conventions, these are small- to medium-sized reductions. No significant changes over time were observed in the control condition (ts < 1.2, ns). And whereas the mindfulness group and control group did not differ in terms of levels of depression at baseline (t(391) = 1.0, p = .32), the mindfulness group had lower levels at T2 and T3 than the control condition (t(363) = 4.1 and p < .001 and t(342) = 3.9 and p < .001).
+
+Table 2 shows the number and percentage of students scoring above the clinical cutoff on the DASS-21-D at baseline (T1), post-intervention (T2), and at follow-up (T3). At T2 and at T3, a significantly smaller percentage of students in the mindfulness group scored above the clinical cutoff, compared to the control condition.
+
+Focusing only on participants (n = 88) who scored above the clinical cutoff at baseline, one sees that at T3, in the control condition, a significantly larger percentage of these students were still scoring above the cutoff, as compared to the mindfulness condition. In the control condition, 46 % had recovered versus 73 % in the mindfulness condition. We also examined whether these changes exceeded the reliable change index (RCI; Jacobson and Truax 1991) and whether participants moved from above to below the cutoff. We calculated the RCI using the formula from Jacobson and Truax (1991, p. 14); we used the SD from the DASS-21-D at T1 in the calculations; we used .80, which is Cronbach's α from the T1 DASS-21-D, as the reliability estimate. The RCI was 4.7 in raw units and 22.2 in POMP units. Of the control condition, 36 % were reliably improved at follow-up versus 62 % of the mindfulness condition (χ 2(1) = 4.87, p < .05).
+
+For those starting below the DASS-21-D cutoff (n = 305), a larger percentage of control participants were above the clinical cutoff at both T2 (χ 2(1) = 8.89, p < .01) and at T3 (χ 2(1) = 5.54, p < .05). Looking at both an increase that exceeded the RCI and moving from below to above the cutoff, 13 % of the controls had more depression at T2 versus 1 % of the mindfulness condition (χ 2(1) = 16.71, p < .05) from baseline to follow-up, and 18 % of the control condition had more depression at T3 versus 9 % in the mindfulness condition (χ 2(1) = 4.39, p < .05).
+
+These results show that a mindfulness program, as compared with a control condition, was able to result in lower levels of depression at a 6-month follow-up in adolescents. Moreover, these results appear to be clinically significant when examining the effect size from the DASS-21-D. The effects for depressive symptoms from baseline to post-intervention and from baseline to follow-up were small to medium (both Cohen's d were >.30). These values correspond to an approximate r value of .15, which is similar to the average pre-to-post (r = .15) and average pre-to-follow-up effect (r = .11) reported for depression prevention programs for youth in a recent meta-analytic review (Stice et al. 2009).
+
+Further, in the mindfulness condition, a significantly smaller percentage of students scored above the clinical cutoff at follow-up than in the control condition, reflecting a combination of a curative and preventive effect of the intervention: A greater proportion of depressed students (i.e., scoring above the clinical cutoff at baseline) were reliably recovered at follow-up (i.e., scoring now below the clinical cutoff) in the mindfulness condition; and a smaller proportion of non-depressed students (i.e., scoring below the clinical cutoff at baseline) reliably deteriorated at follow-up (i.e., scoring now above the clinical cutoff). Our results, thus, extend earlier findings on the positive effects of mindfulness-based interventions for depressive symptoms in clinical samples (see Hofmann et al. 2010) to a community sample (of adolescents). Also, our findings add to the growing body of research that mindfulness-based programs can be successfully integrated in education (see Meiklejohn et al. 2012).
+
+There are several limitations and caveats to note about this study. There was a disproportionately high percentage of females versus males in this study (see Table 1). Although we did not find a significant gender × condition interaction (see parameters G111 and G211 in Table 4), we may have lacked sufficient power to detect such effects. Future studies should aggressively recruit large subsamples from both genders (and potentially other subgroups) to determine definitively whether treatment efficacy interacts with other participant characteristics.
+
+In terms of methodological limitations, we did not assess the fidelity of the intervention by recording (e.g., videotaping) the sessions and having the sessions coded. We did not measure any psychotherapy process variables (e.g., how much homework was completed, what specific topics were discussed), and our control group did not receive any active ingredient of psychotherapy (e.g., attention, supportive listening). Thus, the mechanism by which the mindfulness intervention was effective is unclear.
+
+With regard to our assessments, our measure of depression was a self-report questionnaire. A superior methodology would have been to use a psychometrically strong, clinician-administered interview. Unfortunately, in this study, it was not logistically possible to administer an in-depth clinical interview to our sample of over 400 participants. Future studies should seek to replicate our findings using interview-based assessments. Finally, we stress once more that we only had a no-treatment control, so we cannot rule out the effect of nonspecific aspects of the mindfulness intervention (e.g., attention). Thus, future studies should include active control groups as much as possible. Assuming that future studies show that mindfulness can be effective for preventing depression, other studies could then examine the mechanisms of change so that these future interventions could target these mechanisms. Potential mechanisms or key processes in this respect might be, for example, cognitive reactivity (e.g., Kuyken et al. 2010; Raes et al. 2009), self-compassion (Kuyken et al. 2010), and experiential acceptance (Keng et al. 2011).
+
+In summary, the current study, to our knowledge, is the first group RCT to examine the effects on depression of a mindfulness-based intervention for adolescents in a community setting. Previous research had found that mindfulness interventions could be adapted to younger populations, but evidence for the efficacy was limited by weak study designs (e.g., low sample sizes, no randomization). Our results provide evidence in support of the efficacy of a mindfulness-based approach to reduce depression symptoms in adolescents. This effect was statistically and clinically significant and appears to reflect a combination of a curative and preventive effect.
+
+Baer, R. A., Carmody, J., & Hunsinger, M. (2012). Weekly change in mindfulness and perceived stress in a mindfulness-based stress reduction program. Journal of Clinical Psychology, 68, 755–765. doi:10.1002/jclp.21865.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Beurs, E., de Van Dyck, R., Marquenie, L. A., Lange, A., & Blonk, R. W. B. (2001). De DASS: een vragenlijst voor het meten van depressie, angst en stress [The DASS: a questionnaire for the measurement of depression, anxiety, and stress]. Gedragstherapie, 34, 35–53.
+
+Google Scholar
+ 
+
+Biegel, G. M., Brown, K. W., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77, 855–866. doi:10.1037/a0016241.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Black, D. S., Milam, J., & Sussman, S. (2009). Sitting-meditation interventions among youth: a review of treatment efficacy. Pediatrics, 124, 125–143. doi:10.1542/peds.2008-3434.
+
+Article
+  Google Scholar
+ 
+
+Broderick, P. C., & Metz, S. (2009). Learning to BREATHE: a pilot trial of mindfulness curriculum for adolescents. Advances in School Mental Health Promotion, 2, 35–46.
+
+Article
+  Google Scholar
+ 
+
+Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: a preliminary review of current research in an emergent field. Journal of Child and Family Studies, 19, 133–144. doi:10.1007/s10826-009-9282-x.
+
+Article
+  Google Scholar
+ 
+
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale: Lawrence Erlbaum.
+
+Google Scholar
+ 
+
+Cohen, P., Cohen, J., Aiken, L. S., & West, S. G. (1999). The problem of units and the circumstance for POMP. Multivariate Behavioral Research, 34, 315–346.
+
+Article
+  Google Scholar
+ 
+
+Dewulf, D. (2009). Mindfulness voor jongeren. Tielt, Belgium: Lannoo.
+
+Google Scholar
+ 
+
+Dewulf, D. (2013). Mindfulnesstraining voor jongeren: Stappenplan voor hulpverleners. Houten, the Netherlands: Lannoo Campus.
+
+Google Scholar
+ 
+
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy. New York: Guilford.
+
+Google Scholar
+ 
+
+Hofmann, S. G., Sawyer, A. T., Witt, A. A., & Oh, D. (2010). The effect of mindfulness-based therapy on anxiety and depression: a meta-analytic review. Journal of Consulting and Clinical Psychology, 78, 169–183. doi:10.1037/a0018555.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Huppert, F. A., & Johnson, D. M. (2010). A controlled trial of mindfulness training in schools: the importance of practice for an impact on well-being. The Journal of Positive Psychology, 5, 264–274. doi:10.1080/17439761003794148.
+
+Article
+  Google Scholar
+ 
+
+Jacobson, N. S., & Truax, P. (1991). Clinical significance: a statistical approach to defining meaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59, 12–19.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Kabat-Zinn, J. (1990). Full catastrophe living: how to cope with stress, pain and illness using mindfulness meditation. New York: Delacorte.
+
+Google Scholar
+ 
+
+Kabat-Zinn, J. (1994). Wherever you go there you are: mindfulness meditation in everyday life. New York: Hyperion.
+
+Google Scholar
+ 
+
+Keng, S. L., Smoski, M. J., & Robins, C. J. (2011). Effects of mindfulness on psychological health: a review of empirical studies. Clinical Psychology Review, 31, 1041–1056. doi:10.1016/j.cpr.2011.04.006.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Kuyken, W., Watkins, E., Holden, E., White, K., Taylor, R. S., Byford, S., et al. (2010). How does mindfulness-based cognitive therapy work? Behaviour Research and Therapy, 48, 1105–1112. doi:10.1016/j.brat.2010.08.003.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Linehan, M. (1993). Cognitive-behavioral treatment of borderline personality disorder. New York: Guilford.
+
+Google Scholar
+ 
+
+Lovibond, S. H., & Lovibond, P. F. (1995). Manual for the depression anxiety stress scales (2nd ed.). Sydney: Psychology Foundation.
+
+Google Scholar
+ 
+
+Meiklejohn, J., Philips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach, A., et al. (2012). Integrating mindfulness training into K-12 education: fostering the resilience of teachers and students. Mindfulness, 3, 291–307. doi:10.1007/s12671-012-0094-5.
+
+Article
+  Google Scholar
+ 
+
+Mendelson, T., Greenberg, M. T., Dariotis, J. K., Feagans Gould, L., Rhoades, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38, 985–994. doi:10.1007/s10802-010-9418-x.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: the attention academy. Journal of Applied Psychology, 21, 99–125. doi:10.1300/J008v21n01_05.
+
+Google Scholar
+ 
+
+Raes, F., Dewulf, D., Van Heeringen, C., & Williams, J. M. G. (2009). Mindfulness and reduced cognitive reactivity to sad mood: evidence from a correlational study and a non-randomized waiting list controlled study. Behaviour Research and Therapy, 47, 623–627. doi:10.1016/j.brat.2009.03.007.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: applications and data analysis methods (2nd ed.). London: Sage.
+
+Google Scholar
+ 
+
+Schonert-Reichl, K. A., & Lawlor, M. S. (2010). The effects of a mindfulness-based education program on pre- and early adolescents' well-being and social and emotional competence. Mindfulness, 1, 137–151. doi:10.1007/s12671-010-0011-8.
+
+Article
+  Google Scholar
+ 
+
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-based cognitive therapy for depression: a new approach to preventing relapse. New York: Guilford.
+
+Google Scholar
+ 
+
+Semple, R. J., Reid, E. F., & Miller, L. F. (2005). Treating anxiety with mindfulness: an open trial of mindfulness training for anxious children. Journal of Cognitive Psychotherapy, 19, 379–392. doi:10.1891/jcop.2005.19.4.379.
+
+Article
+  Google Scholar
+ 
+
+Singh, N. N., Singh, A. N., Lancioni, G. E., Singh, J., Winton, A. S. W., & Adkins, A. D. (2010). Mindfulness training for parents and their children with ADHD increases the children's compliance. Journal of Child and Family Studies, 19, 157–166. doi:10.1007/s10826-009-9272-z.
+
+Article
+  Google Scholar
+ 
+
+Stice, E., Shaw, H., Bohon, C., Marti Nathan, C., & Rohde, P. (2009). A meta-analytic review of depression prevention programs for children and adolescents: factors that predict magnitude of intervention effects. Journal of Consulting and Clinical Psychology, 77, 486–503. doi:10.1037/a0015168.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Van der Does, A. J. W., Barnhofer, T., & Williams, J. M. G. (2003). The major depression questionnaire (MDQ). www.dousa.nl/publications. Accessed 11 Sept 2008.
+
+Van de Weijer-Bergsma, E., Formsma, A. R., de Bruin, E. I., & Bögels, S. (2012). The effectiveness of mindfulness training on behavioral problems and attentional functioning in adolescents with ADHD. Journal of Child and Family Studies, 21, 775–787. doi:10.1007/s10826-011-9531-7.
+
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Van de Weijer-Bergsma, E., Langenberg, G., Brandsma, R., Oort, F. J., & Bögels, S. M. (2013). The effectiveness of a school-based mindfulness training as a program to prevent stress in elementary school children. Mindfulness. doi: 10.1007/s12671-012-0171-9.
+
+Willemsen, J., Markey, S., Declercq, F., & Vanheule, S. (2011). Negative emotionality in a large community sample of adolescents: the factor structure and measurement invariance of the short version of the Depression Anxiety Stress Scales (DASS-21). Stress and Health, 27, 120–128. doi:10.1002/smi.1342.
+
+Article
+  Google Scholar
+ 
+
+Zisook, S., Lesser, I., Stewart, J. W., Wisniewski, S. R., Balasubramani, G. K., Fava, M., et al. (2007). Effect of age at onset on the course of major depressive disorder. The American Journal of Psychiatry, 164, 1539–1546. doi:10.1176/appi.ajp.2007.06101757.
+
+Article
+  PubMed
+  Google Scholar
+ 
+
+Download references
+
+This research was supported by a grant from the Foundation “Go for Happiness.” Dr. Griffith was supported by the Research Foundation-Flanders (FWO; GP.035.11N). We sincerely thank David Dewulf, Inge De Leeuw, and Lieven Vercauteren, and the schools and students of Belgium who participated in this project. Participating schools were: Sint-Maarten Bovenschool (Beveren-Waas), Burgerschool (Roeselare), Abdijschool van Zevenkerken (Brugge), Groenendaalcollege (Campus Sint-Jan; Merksem-Antwerpen), and Sint-Ludgardisschool (Antwerpen Stad).We would also like to acknowledge the assistance provided by Tineke Vandenbroucke and Margot Bastin. And special thank goes to Jan Toye and Ghita Kleijkers for their sincere and motivating interest.
+
+Faculty of Psychology and Educational Sciences, University of Leuven, Tiensestraat 102, 3000, Leuven, Belgium
+
+Filip Raes
+
+Department of Medical Social Sciences, Northwestern University, Chicago, IL, 60611, USA
+
+James W. Griffith
+
+Faculty of Psychology and Educational Sciences, University of Leuven, 3000, Leuven, Belgium
+
+Katleen Van der Gucht
+
+Department of Psychiatry, Warneford Hospital, University of Oxford, Oxford, OX3 7JX, UK
+
+J. Mark G. Williams
+
+Correspondence to Filip Raes.
+
+Reprints and permissions
+
+Raes, F., Griffith, J.W., Van der Gucht, K. et al. School-Based Prevention and Reduction of Depression in Adolescents: a Cluster-Randomized Controlled Trial of a Mindfulness Group Program. Mindfulness 5, 477–486 (2014). https://doi.org/10.1007/s12671-013-0202-1
+
+Download citation
+
+Published
+06 March 2013
+
+Issue Date
+October 2014
+
+DOI
+https://doi.org/10.1007/s12671-013-0202-1
+
+Anyone you share the following link with will be able to read this content:
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Avoid common mistakes on your manuscript.
+
+Advertisement
+
+145.136.143.95
+
+SURF B.V. (3000174899) - Utrecht University Library DV E-collection (4500011134) - SURF B.V. (3001974408) - Utrecht University (2000323035)
+
+© 2025 Springer Nature
+
+School-Based Prevention and Reduction of Depression in Adolescents: a Cluster-Randomized Controlled Trial of a Mindfulness Group Program
+
+Your privacy, your choice
+
+Abstract
+
+Introduction
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Acknowledgments
+
+Author information
+
+Rights and permissions
+
+About this article
+
+Home
+
+Mindfulness
+
+Article
+
+ORIGINAL PAPER
+
+Published: 06 March 2013
+
+Volume 5, pages 477–486, (2014)
+
+Cite this article
+
+Filip Raes,
+
+James W. Griffith,
+
+Katleen Van der Gucht &
+
+J. Mark G. Williams 
+
+12k Accesses
+
+128 Citations
+
+69 Altmetric
+
+9 Mentions
+
+Explore all metrics
+
+Baer, R. A., Carmody, J., & Hunsinger, M. (2012). Weekly change in mindfulness and perceived stress in a mindfulness-based stress reduction program. Journal of Clinical Psychology, 68, 755–765. doi:10.1002/jclp.21865.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Beurs, E., de Van Dyck, R., Marquenie, L. A., Lange, A., & Blonk, R. W. B. (2001). De DASS: een vragenlijst voor het meten van depressie, angst en stress [The DASS: a questionnaire for the measurement of depression, anxiety, and stress]. Gedragstherapie, 34, 35–53.
+Google Scholar
+ 
+
+Biegel, G. M., Brown, K. W., Shapiro, S. L., & Schubert, C. M. (2009). Mindfulness-based stress reduction for the treatment of adolescent psychiatric outpatients: a randomized clinical trial. Journal of Consulting and Clinical Psychology, 77, 855–866. doi:10.1037/a0016241.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Black, D. S., Milam, J., & Sussman, S. (2009). Sitting-meditation interventions among youth: a review of treatment efficacy. Pediatrics, 124, 125–143. doi:10.1542/peds.2008-3434.
+Article
+  Google Scholar
+ 
+
+Broderick, P. C., & Metz, S. (2009). Learning to BREATHE: a pilot trial of mindfulness curriculum for adolescents. Advances in School Mental Health Promotion, 2, 35–46.
+Article
+  Google Scholar
+ 
+
+Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: a preliminary review of current research in an emergent field. Journal of Child and Family Studies, 19, 133–144. doi:10.1007/s10826-009-9282-x.
+Article
+  Google Scholar
+ 
+
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale: Lawrence Erlbaum.
+Google Scholar
+ 
+
+Cohen, P., Cohen, J., Aiken, L. S., & West, S. G. (1999). The problem of units and the circumstance for POMP. Multivariate Behavioral Research, 34, 315–346.
+Article
+  Google Scholar
+ 
+
+Dewulf, D. (2009). Mindfulness voor jongeren. Tielt, Belgium: Lannoo.
+Google Scholar
+ 
+
+Dewulf, D. (2013). Mindfulnesstraining voor jongeren: Stappenplan voor hulpverleners. Houten, the Netherlands: Lannoo Campus.
+Google Scholar
+ 
+
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy. New York: Guilford.
+Google Scholar
+ 
+
+Hofmann, S. G., Sawyer, A. T., Witt, A. A., & Oh, D. (2010). The effect of mindfulness-based therapy on anxiety and depression: a meta-analytic review. Journal of Consulting and Clinical Psychology, 78, 169–183. doi:10.1037/a0018555.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Huppert, F. A., & Johnson, D. M. (2010). A controlled trial of mindfulness training in schools: the importance of practice for an impact on well-being. The Journal of Positive Psychology, 5, 264–274. doi:10.1080/17439761003794148.
+Article
+  Google Scholar
+ 
+
+Jacobson, N. S., & Truax, P. (1991). Clinical significance: a statistical approach to defining meaningful change in psychotherapy research. Journal of Consulting and Clinical Psychology, 59, 12–19.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Kabat-Zinn, J. (1990). Full catastrophe living: how to cope with stress, pain and illness using mindfulness meditation. New York: Delacorte.
+Google Scholar
+ 
+
+Kabat-Zinn, J. (1994). Wherever you go there you are: mindfulness meditation in everyday life. New York: Hyperion.
+Google Scholar
+ 
+
+Keng, S. L., Smoski, M. J., & Robins, C. J. (2011). Effects of mindfulness on psychological health: a review of empirical studies. Clinical Psychology Review, 31, 1041–1056. doi:10.1016/j.cpr.2011.04.006.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Kuyken, W., Watkins, E., Holden, E., White, K., Taylor, R. S., Byford, S., et al. (2010). How does mindfulness-based cognitive therapy work? Behaviour Research and Therapy, 48, 1105–1112. doi:10.1016/j.brat.2010.08.003.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Linehan, M. (1993). Cognitive-behavioral treatment of borderline personality disorder. New York: Guilford.
+Google Scholar
+ 
+
+Lovibond, S. H., & Lovibond, P. F. (1995). Manual for the depression anxiety stress scales (2nd ed.). Sydney: Psychology Foundation.
+Google Scholar
+ 
+
+Meiklejohn, J., Philips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach, A., et al. (2012). Integrating mindfulness training into K-12 education: fostering the resilience of teachers and students. Mindfulness, 3, 291–307. doi:10.1007/s12671-012-0094-5.
+Article
+  Google Scholar
+ 
+
+Mendelson, T., Greenberg, M. T., Dariotis, J. K., Feagans Gould, L., Rhoades, B. L., & Leaf, P. J. (2010). Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth. Journal of Abnormal Child Psychology, 38, 985–994. doi:10.1007/s10802-010-9418-x.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Napoli, M., Krech, P. R., & Holley, L. C. (2005). Mindfulness training for elementary school students: the attention academy. Journal of Applied Psychology, 21, 99–125. doi:10.1300/J008v21n01_05.
+Google Scholar
+ 
+
+Raes, F., Dewulf, D., Van Heeringen, C., & Williams, J. M. G. (2009). Mindfulness and reduced cognitive reactivity to sad mood: evidence from a correlational study and a non-randomized waiting list controlled study. Behaviour Research and Therapy, 47, 623–627. doi:10.1016/j.brat.2009.03.007.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: applications and data analysis methods (2nd ed.). London: Sage.
+Google Scholar
+ 
+
+Schonert-Reichl, K. A., & Lawlor, M. S. (2010). The effects of a mindfulness-based education program on pre- and early adolescents' well-being and social and emotional competence. Mindfulness, 1, 137–151. doi:10.1007/s12671-010-0011-8.
+Article
+  Google Scholar
+ 
+
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-based cognitive therapy for depression: a new approach to preventing relapse. New York: Guilford.
+Google Scholar
+ 
+
+Semple, R. J., Reid, E. F., & Miller, L. F. (2005). Treating anxiety with mindfulness: an open trial of mindfulness training for anxious children. Journal of Cognitive Psychotherapy, 19, 379–392. doi:10.1891/jcop.2005.19.4.379.
+Article
+  Google Scholar
+ 
+
+Singh, N. N., Singh, A. N., Lancioni, G. E., Singh, J., Winton, A. S. W., & Adkins, A. D. (2010). Mindfulness training for parents and their children with ADHD increases the children's compliance. Journal of Child and Family Studies, 19, 157–166. doi:10.1007/s10826-009-9272-z.
+Article
+  Google Scholar
+ 
+
+Stice, E., Shaw, H., Bohon, C., Marti Nathan, C., & Rohde, P. (2009). A meta-analytic review of depression prevention programs for children and adolescents: factors that predict magnitude of intervention effects. Journal of Consulting and Clinical Psychology, 77, 486–503. doi:10.1037/a0015168.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Van der Does, A. J. W., Barnhofer, T., & Williams, J. M. G. (2003). The major depression questionnaire (MDQ). www.dousa.nl/publications. Accessed 11 Sept 2008.
+
+Van de Weijer-Bergsma, E., Formsma, A. R., de Bruin, E. I., & Bögels, S. (2012). The effectiveness of mindfulness training on behavioral problems and attentional functioning in adolescents with ADHD. Journal of Child and Family Studies, 21, 775–787. doi:10.1007/s10826-011-9531-7.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+ 
+
+Van de Weijer-Bergsma, E., Langenberg, G., Brandsma, R., Oort, F. J., & Bögels, S. M. (2013). The effectiveness of a school-based mindfulness training as a program to prevent stress in elementary school children. Mindfulness. doi: 10.1007/s12671-012-0171-9.
+
+Willemsen, J., Markey, S., Declercq, F., & Vanheule, S. (2011). Negative emotionality in a large community sample of adolescents: the factor structure and measurement invariance of the short version of the Depression Anxiety Stress Scales (DASS-21). Stress and Health, 27, 120–128. doi:10.1002/smi.1342.
+Article
+  Google Scholar
+ 
+
+Zisook, S., Lesser, I., Stewart, J. W., Wisniewski, S. R., Balasubramani, G. K., Fava, M., et al. (2007). Effect of age at onset on the course of major depressive disorder. The American Journal of Psychiatry, 164, 1539–1546. doi:10.1176/appi.ajp.2007.06101757.
+Article
+  PubMed
+  Google Scholar
+ 
+
+Faculty of Psychology and Educational Sciences, University of Leuven, Tiensestraat 102, 3000, Leuven, Belgium
+Filip Raes
+
+Department of Medical Social Sciences, Northwestern University, Chicago, IL, 60611, USA
+James W. Griffith
+
+Faculty of Psychology and Educational Sciences, University of Leuven, 3000, Leuven, Belgium
+Katleen Van der Gucht
+
+Department of Psychiatry, Warneford Hospital, University of Oxford, Oxford, OX3 7JX, UK
+J. Mark G. Williams
+
+Published
+06 March 2013
+
+Issue Date
+October 2014
+
+DOI
+https://doi.org/10.1007/s12671-013-0202-1
+
+Mindfulness-based cognitive therapy
+
+Mindfulness-based stress reduction
+
+Randomized controlled trial
+
+Depression
+
+Adolescents
+
+Sections
+
+Figures
+
+References
+
+Abstract
+
+Introduction
+
+Method
+
+Results
+
+Discussion
+
+References
+
+Acknowledgments
+
+Author information
+
+Rights and permissions
+
+About this article
+
+Journals A-Z
+
+Books A-Z
+
+Journal finder
+
+Publish your research
+
+Open access publishing
+
+Our products
+
+Librarians
+
+Societies
+
+Partners and advertisers
+
+Springer
+
+Nature Portfolio
+
+BMC
+
+Palgrave Macmillan
+
+Apress
+
+Discover
+
+Your privacy choices/Manage cookies
+
+Your US state privacy rights
+
+Accessibility statement
+
+Terms and conditions
+
+Privacy policy
+
+Help and support
+
+Legal notice
+
+Cancel contracts here

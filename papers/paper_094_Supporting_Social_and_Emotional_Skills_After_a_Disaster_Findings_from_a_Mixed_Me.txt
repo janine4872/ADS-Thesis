@@ -1,0 +1,715 @@
+Abstract
+Disasters can affect a youth’s physical and emotional well-being. They disrupt everyday life by displacing individuals and families, destroying homes, and splintering communities (Gewirtz et al. in J Marital Fam Ther 34(2):177–192, 2008; La Greca and Silverman in Child Dev Perspect 3(1):4–10, 2009). School-based interventions are one approach to mitigate emotional distress in youth who have experienced a disaster, as schools are one of the most common venues for youth to receive mental health services (Greenberg et al. in Am Psychol 58:466–474, 2003). This paper explores the impact of a school-based psychosocial curriculum entitled Journey of Hope (JoH). This eight-session intervention attempts to reduce the impact of a disaster by enhancing protective factors such as social support, coping, and psycho-education. The evaluation study was conducted in the 2014–2015 school year after an EF5 tornado struck Moore, Oklahoma. As a result of the tornado, 24 people were killed, 377 injured, and two schools were destroyed (National Weather Service Weather Forecast Office, 2014). This mixed methods study employed quantitative and qualitative measures to examine the impact of the JoH intervention. Quantitative measures examined coping, general self-efficacy, prosocial behaviors, and overall distress. Qualitative data were obtained through interviews with N = 16 students after participation in the JoH. Semi-structured interview guides were used to determine what children learned, liked, and felt was beneficial from taking part in the JoH. A two-way repeated-measures ANOVA was used to assess the differences between the experimental and control group at baseline and posttest. Results indicated a significant increase in positive coping skills including communication and tension management and prosocial behaviors from baseline to posttest for the Journey of Hope group. No significant differences were found on self-efficacy or overall distress. Content analysis was conducted to determine qualitative results. Themes that emerged from the qualitative interviews suggested participation in the Journey of Hope enhanced peer relationships and helped participants identify how to manage emotions such as anger, anxiety, and grief. Findings from this evaluation study suggest that participation in a broadly accessible psycho-educational program may help children cope with traumatic events such as a natural disaster. Further research should be conducted to assess whether the Journey of Hope is transferrable across disaster contexts.
+
+Abstract
+
+Disasters can affect a youth’s physical and emotional well-being. They disrupt everyday life by displacing individuals and families, destroying homes, and splintering communities (Gewirtz et al. in J Marital Fam Ther 34(2):177–192, 2008; La Greca and Silverman in Child Dev Perspect 3(1):4–10, 2009). School-based interventions are one approach to mitigate emotional distress in youth who have experienced a disaster, as schools are one of the most common venues for youth to receive mental health services (Greenberg et al. in Am Psychol 58:466–474, 2003). This paper explores the impact of a school-based psychosocial curriculum entitled Journey of Hope (JoH). This eight-session intervention attempts to reduce the impact of a disaster by enhancing protective factors such as social support, coping, and psycho-education. The evaluation study was conducted in the 2014–2015 school year after an EF5 tornado struck Moore, Oklahoma. As a result of the tornado, 24 people were killed, 377 injured, and two schools were destroyed (National Weather Service Weather Forecast Office, 2014). This mixed methods study employed quantitative and qualitative measures to examine the impact of the JoH intervention. Quantitative measures examined coping, general self-efficacy, prosocial behaviors, and overall distress. Qualitative data were obtained through interviews with N = 16 students after participation in the JoH. Semi-structured interview guides were used to determine what children learned, liked, and felt was beneficial from taking part in the JoH. A two-way repeated-measures ANOVA was used to assess the differences between the experimental and control group at baseline and posttest. Results indicated a significant increase in positive coping skills including communication and tension management and prosocial behaviors from baseline to posttest for the Journey of Hope group. No significant differences were found on self-efficacy or overall distress. Content analysis was conducted to determine qualitative results. Themes that emerged from the qualitative interviews suggested participation in the Journey of Hope enhanced peer relationships and helped participants identify how to manage emotions such as anger, anxiety, and grief. Findings from this evaluation study suggest that participation in a broadly accessible psycho-educational program may help children cope with traumatic events such as a natural disaster. Further research should be conducted to assess whether the Journey of Hope is transferrable across disaster contexts.
+
+Introduction
+Natural disasters such as earthquakes, hurricanes, tsunamis, and tornadoes impact an estimated 250 million people annually (Ganeshan & Diamond, 2009). These events can have a catastrophic impact on those affected. They disrupt everyday life by displacing individuals and families, destroying homes, and splintering communities (Gewirtz, Forgatch, &Wieling, 2008; La Greca & Silverman, 2009). Children and early adolescents are among the most vulnerable during and after natural disasters (Garrett et al., 2007; La Greca & Silverman, 2009). Young people are at a higher risk for emotional distress because they have fewer resources, experience, and skills to meet their needs than adults do (National Commission on Children and Disasters, 2010). Psychological stressors may include the loss of a home; displacement to an unfamiliar school, neighborhood or community; separation from family and loss of loved ones (Gewirtz et al. 2008; La Greca & Silverman, 2009).
+Exposure to disasters in young people has been linked to a host of negative psychological outcomes (McDermott & Palmer, 2002). Reactions to these events can include short-term acute stress reactions or may develop into longer-term post-traumatic stress (PTS) symptoms such as re-experiencing symptoms (i.e., distressing nightmares, intrusive recollections), hyper-arousal symptoms (i.e., sleep problems, exaggerated startle response), and/or avoidant symptoms (i.e., avoidance of people, places or activities associated with the stressor) (Farver, Lonigan, & Eppe, 2009). Approximately 27 % of youth who directly experience a disaster still have post-trauma symptoms 3 months after the event (Neria, Nandi & Galea, 2008). Moreover, Osofsky, Kronenberg, Brennan, and Hansel (2009) found that 41 % of hurricane-affected youth met the cutoff for PTS symptoms in 2007, 2 years after the event. Long-term rates of depression can also remain high in children who have experienced a disaster. A study conducted 2 years after Hurricane Katrina, found that depression symptoms in children remained 34 % higher than pre-hurricane (Roberts, Mitchell, Witman & Taffaro, 2010).
+While some children may have clinical levels of post-trauma symptoms, many will not meet the criteria for a formal diagnosis but still experience forms of distress. Specific emotions often experienced in post-disaster environments can include fear of the event happening again, grief and/or loss, heightened anxiety, and acting out behaviors including anger or aggression (Kar, 2009; Pfefferbaum, 2008). Other adverse effects include an individual’s inability to cope with normal stressors, to regulate behavior, or to control the expression of emotions. These symptoms can negatively impact social interactions, academic achievement, and physical health and are associated with an increase in problem behaviors such as substance abuse (Mulvihill, 2005; Borum, 2003; Chemtob, C., Nakashima, J., Hamada 2006; La Greca & Silverman, 2009). Given the high prevalence of distress associated with disaster exposure and the potential short- and long-term impact, it is critical to ensure that young people receive support services.
+Trauma-Informed Interventions in Schools
+Schools serve as the primary provider of mental health services for young people (Weist, Rubin, Moore, Adelsheim, & Wrobel, 2007). They are one of the most common venues for mental health practitioners to deliver interventions after a disaster because of the accessibility to children and youth (Hoagwood et al., 2007; Kataoka, Rowan, & Hoagwood, 2009; Weist et al., 2007). School-based interventions target a wide spectrum of issues from prevention of risk factors for future psychological disorders such as substance use/abuse to issues related to trauma or depression (Arthur, Hawkins, Pollard, Catalano, & Baglioni, 2002; Atkins, Hoagwood, Kutash, & Seidman, 2010; Greenberg, 2004; Hoagwood, Burns, Kiser, Ringeisen, & Schoenwald, 2001).
+There has been a recent movement to promote trauma-informed interventions in schools for youth affected by a traumatic event. Trauma-informed interventions refer to evidence-based programs that address the effect of trauma on young people (Ko et al., 2008). There are a number of school-based programs geared toward early intervention or treatment for students with clinically significant symptoms. Crisis response programs, for example, provide immediate relief after a trauma (<3 months) and aid in detecting youth who are in need of more intensive individual or small group counseling (Jaycox, Kataoka, Stein, Wong, & Langley, 2005). Targeted evidence-based interventions include Cognitive Behavioral Intervention for Trauma in Schools and Grief and Trauma Intervention, which are designed to address specific symptomatology and reduce severity of anxiety, PTSD, and depression related to a traumatic event (Salloum & Overstreet, 2012; Stein, et al., 2003).
+Other post-disaster school-based interventions are geared toward the broader audience of young people who may have a range of disaster exposure and are at an increased risk for future adverse outcomes. While many of the young people who participate in these programs may not have formal clinical diagnoses, many do have symptoms that exceed clinically significant cut points. These interventions are designed for use at the universal level, with all students exposed to the trauma, yet research tends to measure clinical distress symptoms (Pfefferbaum, Varma, Nitiéma, & Newman, 2014). To move beyond a focus on clinical symptoms and to determine the impact of these more universal approaches, there has been a call for research addressing the augmentation of protective factors such as social support and coping, which are essential components in disaster recovery (La Greca, Silverman, Lai, & Jaccard, 2010; Moore & Varela, 2010; Salloum, & Overstreet, 2012).
+Recent literature has also discussed the importance of widespread dissemination of social emotional programming during the disaster recovery period (Salloum & Overstreet, 2012; Silverman et al., 2008). This has extended to a call for services along the continuum of care from preventive interventions focusing on building coping and social emotional skills to indicated treatments for those who exceed the clinical cut point for specific mental health symptoms (Nastasi, Overstreet, & Summerville, 2011). While there is movement toward including long-term (>6 months) prevention and mental health programming after a disaster, services are often geared toward interventions in the immediate aftermath. Although these crisis intervention services are essential for mitigating post-traumatic stress symptoms, they often focus on responses to the disaster itself (Drury, Scheeringa, & Zeanah, 2008). Longer-term interventions, however, generally focus on emotional responses associated with ongoing loss, disruption, and the recurring threat that the disaster may happen again (Natasi et al., 2011).
+To address the need for broadly accessible social emotional programming, the following research study examined the efficacy of the Journey of Hope (JoH), an eight-session school-based intervention model designed for the aggregate of children and adolescents in the longer-term recovery period (>3 months) following exposure to a disaster. The JoH was created to not only focus on the disaster itself, but secondary adversities that young people may have experienced as a result of the disaster such as loss of home, changing schools, and community devastation. Additionally, the intervention targets specific emotions related to disaster exposure such as anger, fear, anxiety, and grief (Kar, 2009; Pfefferbaum, 2008). The intervention takes a unique approach to post-trauma interventions because it focuses on common post-disaster emotions relevant for the aggregate of youth, not just those with clinical levels of distress. The JoH was created from the recognition that while many disaster-exposed young people do experience emotional distress, many of them do not meet the criteria for a formal diagnosis (Bath, 2008). Many young people without clinical levels of PTSD may be as likely to experience some of the harmful effects of a trauma as those who exceed the clinical cut point of symptoms (Stathis et al., 2008). Moreover, the intervention addresses coping with emotions that are common in post-disaster environments as a way of preventing future psychological distress.
+The Current Study
+This study is part of a multinational effort to examine the Journey of Hope in post-disaster settings. To date, the intervention has been implemented and evaluated after hurricane Katrina in New Orleans, an earthquake in New Zealand, tornadoes in Alabama, and flooding in the UK and Alberta, Canada (Blanchet-Cohen & Nelems, 2009; Powell & Thompson, 2014; Powell, 2011). The initial study conducted in New Orleans was largely qualitative and indicated the program supported children’s social and emotional well-being (Blanchet-Cohen & Nehlems, 2013). A subsequent study conducted in New Zealand with children between the ages of 6–10 indicated that youth had a significant reduction in overall difficulties as measured by the Strengths and Difficulties Questionnaire (Powell, 2011); however, the study lacked a control group. Another study was conducted with children in third–fifth grade who experienced a tornado in Tuscaloosa, Alabama, in 2011. Quantitative findings indicated that participants had enhanced coping skills and prosocial behaviors, and qualitative results yielded improved regulation of emotions such as anger and aggression, and gains in knowledge on how to handle these behaviors in their school (Powell & Thompson, 2014; Powell & Holleran-Steiker, 2015).
+While these studies lent to the evidence base of the JoH, they focused on elementary-aged students. Given the promising results of the previous studies, it is hypothesized that participation in the JoH will have a similar impact on early adolescents. This study will further add to the knowledge on the impact of the JoH model with early adolescents.
+Study Aims and Hypotheses
+The specific aims of this study were to examine the impact of the adolescent JoH on youth who experienced a tornado in Moore, Oklahoma, in the spring of 2013. The EF-5 tornado caused catastrophic damage in the city of Moore, resulting in billions of dollars in damage, claiming 24 lives and injuring hundreds of people (National Weather Service Weather Forecast Office, 2014).
+It was hypothesized that participation in the JoH would: (1) improve protective factors, such as prosocial behaviors and positive peer relationships; and (2) enhance healthy coping skills beyond those experienced by students not participating in the Adolescent Journey of Hope.
+
+Introduction
+
+Natural disasters such as earthquakes, hurricanes, tsunamis, and tornadoes impact an estimated 250 million people annually (Ganeshan & Diamond, 2009). These events can have a catastrophic impact on those affected. They disrupt everyday life by displacing individuals and families, destroying homes, and splintering communities (Gewirtz, Forgatch, &Wieling, 2008; La Greca & Silverman, 2009). Children and early adolescents are among the most vulnerable during and after natural disasters (Garrett et al., 2007; La Greca & Silverman, 2009). Young people are at a higher risk for emotional distress because they have fewer resources, experience, and skills to meet their needs than adults do (National Commission on Children and Disasters, 2010). Psychological stressors may include the loss of a home; displacement to an unfamiliar school, neighborhood or community; separation from family and loss of loved ones (Gewirtz et al. 2008; La Greca & Silverman, 2009).
+Exposure to disasters in young people has been linked to a host of negative psychological outcomes (McDermott & Palmer, 2002). Reactions to these events can include short-term acute stress reactions or may develop into longer-term post-traumatic stress (PTS) symptoms such as re-experiencing symptoms (i.e., distressing nightmares, intrusive recollections), hyper-arousal symptoms (i.e., sleep problems, exaggerated startle response), and/or avoidant symptoms (i.e., avoidance of people, places or activities associated with the stressor) (Farver, Lonigan, & Eppe, 2009). Approximately 27 % of youth who directly experience a disaster still have post-trauma symptoms 3 months after the event (Neria, Nandi & Galea, 2008). Moreover, Osofsky, Kronenberg, Brennan, and Hansel (2009) found that 41 % of hurricane-affected youth met the cutoff for PTS symptoms in 2007, 2 years after the event. Long-term rates of depression can also remain high in children who have experienced a disaster. A study conducted 2 years after Hurricane Katrina, found that depression symptoms in children remained 34 % higher than pre-hurricane (Roberts, Mitchell, Witman & Taffaro, 2010).
+While some children may have clinical levels of post-trauma symptoms, many will not meet the criteria for a formal diagnosis but still experience forms of distress. Specific emotions often experienced in post-disaster environments can include fear of the event happening again, grief and/or loss, heightened anxiety, and acting out behaviors including anger or aggression (Kar, 2009; Pfefferbaum, 2008). Other adverse effects include an individual’s inability to cope with normal stressors, to regulate behavior, or to control the expression of emotions. These symptoms can negatively impact social interactions, academic achievement, and physical health and are associated with an increase in problem behaviors such as substance abuse (Mulvihill, 2005; Borum, 2003; Chemtob, C., Nakashima, J., Hamada 2006; La Greca & Silverman, 2009). Given the high prevalence of distress associated with disaster exposure and the potential short- and long-term impact, it is critical to ensure that young people receive support services.
+Trauma-Informed Interventions in Schools
+Schools serve as the primary provider of mental health services for young people (Weist, Rubin, Moore, Adelsheim, & Wrobel, 2007). They are one of the most common venues for mental health practitioners to deliver interventions after a disaster because of the accessibility to children and youth (Hoagwood et al., 2007; Kataoka, Rowan, & Hoagwood, 2009; Weist et al., 2007). School-based interventions target a wide spectrum of issues from prevention of risk factors for future psychological disorders such as substance use/abuse to issues related to trauma or depression (Arthur, Hawkins, Pollard, Catalano, & Baglioni, 2002; Atkins, Hoagwood, Kutash, & Seidman, 2010; Greenberg, 2004; Hoagwood, Burns, Kiser, Ringeisen, & Schoenwald, 2001).
+There has been a recent movement to promote trauma-informed interventions in schools for youth affected by a traumatic event. Trauma-informed interventions refer to evidence-based programs that address the effect of trauma on young people (Ko et al., 2008). There are a number of school-based programs geared toward early intervention or treatment for students with clinically significant symptoms. Crisis response programs, for example, provide immediate relief after a trauma (<3 months) and aid in detecting youth who are in need of more intensive individual or small group counseling (Jaycox, Kataoka, Stein, Wong, & Langley, 2005). Targeted evidence-based interventions include Cognitive Behavioral Intervention for Trauma in Schools and Grief and Trauma Intervention, which are designed to address specific symptomatology and reduce severity of anxiety, PTSD, and depression related to a traumatic event (Salloum & Overstreet, 2012; Stein, et al., 2003).
+Other post-disaster school-based interventions are geared toward the broader audience of young people who may have a range of disaster exposure and are at an increased risk for future adverse outcomes. While many of the young people who participate in these programs may not have formal clinical diagnoses, many do have symptoms that exceed clinically significant cut points. These interventions are designed for use at the universal level, with all students exposed to the trauma, yet research tends to measure clinical distress symptoms (Pfefferbaum, Varma, Nitiéma, & Newman, 2014). To move beyond a focus on clinical symptoms and to determine the impact of these more universal approaches, there has been a call for research addressing the augmentation of protective factors such as social support and coping, which are essential components in disaster recovery (La Greca, Silverman, Lai, & Jaccard, 2010; Moore & Varela, 2010; Salloum, & Overstreet, 2012).
+Recent literature has also discussed the importance of widespread dissemination of social emotional programming during the disaster recovery period (Salloum & Overstreet, 2012; Silverman et al., 2008). This has extended to a call for services along the continuum of care from preventive interventions focusing on building coping and social emotional skills to indicated treatments for those who exceed the clinical cut point for specific mental health symptoms (Nastasi, Overstreet, & Summerville, 2011). While there is movement toward including long-term (>6 months) prevention and mental health programming after a disaster, services are often geared toward interventions in the immediate aftermath. Although these crisis intervention services are essential for mitigating post-traumatic stress symptoms, they often focus on responses to the disaster itself (Drury, Scheeringa, & Zeanah, 2008). Longer-term interventions, however, generally focus on emotional responses associated with ongoing loss, disruption, and the recurring threat that the disaster may happen again (Natasi et al., 2011).
+To address the need for broadly accessible social emotional programming, the following research study examined the efficacy of the Journey of Hope (JoH), an eight-session school-based intervention model designed for the aggregate of children and adolescents in the longer-term recovery period (>3 months) following exposure to a disaster. The JoH was created to not only focus on the disaster itself, but secondary adversities that young people may have experienced as a result of the disaster such as loss of home, changing schools, and community devastation. Additionally, the intervention targets specific emotions related to disaster exposure such as anger, fear, anxiety, and grief (Kar, 2009; Pfefferbaum, 2008). The intervention takes a unique approach to post-trauma interventions because it focuses on common post-disaster emotions relevant for the aggregate of youth, not just those with clinical levels of distress. The JoH was created from the recognition that while many disaster-exposed young people do experience emotional distress, many of them do not meet the criteria for a formal diagnosis (Bath, 2008). Many young people without clinical levels of PTSD may be as likely to experience some of the harmful effects of a trauma as those who exceed the clinical cut point of symptoms (Stathis et al., 2008). Moreover, the intervention addresses coping with emotions that are common in post-disaster environments as a way of preventing future psychological distress.
+The Current Study
+This study is part of a multinational effort to examine the Journey of Hope in post-disaster settings. To date, the intervention has been implemented and evaluated after hurricane Katrina in New Orleans, an earthquake in New Zealand, tornadoes in Alabama, and flooding in the UK and Alberta, Canada (Blanchet-Cohen & Nelems, 2009; Powell & Thompson, 2014; Powell, 2011). The initial study conducted in New Orleans was largely qualitative and indicated the program supported children’s social and emotional well-being (Blanchet-Cohen & Nehlems, 2013). A subsequent study conducted in New Zealand with children between the ages of 6–10 indicated that youth had a significant reduction in overall difficulties as measured by the Strengths and Difficulties Questionnaire (Powell, 2011); however, the study lacked a control group. Another study was conducted with children in third–fifth grade who experienced a tornado in Tuscaloosa, Alabama, in 2011. Quantitative findings indicated that participants had enhanced coping skills and prosocial behaviors, and qualitative results yielded improved regulation of emotions such as anger and aggression, and gains in knowledge on how to handle these behaviors in their school (Powell & Thompson, 2014; Powell & Holleran-Steiker, 2015).
+While these studies lent to the evidence base of the JoH, they focused on elementary-aged students. Given the promising results of the previous studies, it is hypothesized that participation in the JoH will have a similar impact on early adolescents. This study will further add to the knowledge on the impact of the JoH model with early adolescents.
+Study Aims and Hypotheses
+The specific aims of this study were to examine the impact of the adolescent JoH on youth who experienced a tornado in Moore, Oklahoma, in the spring of 2013. The EF-5 tornado caused catastrophic damage in the city of Moore, resulting in billions of dollars in damage, claiming 24 lives and injuring hundreds of people (National Weather Service Weather Forecast Office, 2014).
+It was hypothesized that participation in the JoH would: (1) improve protective factors, such as prosocial behaviors and positive peer relationships; and (2) enhance healthy coping skills beyond those experienced by students not participating in the Adolescent Journey of Hope.
+
+Methods
+This mixed methods study consisted of a secondary analysis of data collected on the JoH intervention. The JoH is an intervention designed to build healthy coping skills in young people who have experienced an acute trauma (Powell & Blanchet-Cohen, 2014). The eight-session model consists of 1-hour sessions that are generally delivered in a school-based setting to groups of 8–10 children/adolescents. The JoH intervention model consists of four curricula for children and youth in kindergarten to second, third to fifth, sixth to eighth, and ninth to twelfth grade. Additionally, there is a 3-hour parent workshop available on stress, coping and supporting children after a disaster (Powell & Leytham, 2014). Components of the youth curriculum include developmentally appropriate activities to encourage discussion, cooperative play, arts, and literacy to address common trauma-related emotions (Save the Children, 2009).
+Each session incorporates techniques to help young people address and process a variety of emotions (Powell & Thompson, 2014). Topics that are covered include safety, fear, anger, aggression, grief, anxiety, and self-esteem (Save the Children, 2009). Specifically, the participants are encouraged to discuss each topic and devise strategies to manage a situation which may be appraised as difficult. This is done by providing psycho-education and through helping the participant identify external and internal resources to aid in healthy coping. Moreover, the JoH incorporates reflective and experiential learning techniques to help children recognize and process emotions and build coping capacity after a traumatic situation (Malekoff, 2008; Salloum, Garside, Irwin, Anderson, & Francois, 2009). Table 1 provides a detailed description of the key components of the intervention.
+Table 1 Journey of hope sessions
+Full size table
+Study Setting
+The JoH was first introduced into the Moore school system after the schools re-opened in the fall of 2013. The data collection began in the spring of 2014, 9 months after the tornado struck the city. The study did not commence until the spring due to logistical constraints scheduling the JoH in the middle schools. Early adolescents between sixth and eighth grades from three middle schools located in Moore, Oklahoma, participated in the JoH program and evaluation. All middle schools in the district were given the opportunity to take part in the JoH program, and the specific schools included in the study were chosen based on discussions with the school administration and principals’ acceptance for the program to be implemented during the school day. Upon approval from the school board, participants were recruited into the program by school counselors. Of the three schools included in the study, one was completely destroyed, the second was severely damaged, and the third had many students lose homes including one student fatality.
+A total of 170 students were recruited to take part in the JoH (60 recruited in school A; 60 in school B; and 50 in school C). Of those recruited 116 returned consent forms and assented to take part in the study and throughout the study period, 6 dropped out of the program or did not complete the posttest. All participants received parental consent and provided assent to take part in the JoH and evaluation following Moore District School Board and Save the Children’s ethical guidelines approval board. Figure 1 illustrates the sample selection.
+Fig. 1
+Sampling assignment
+Full size image
+Journey of Hope Training and Supervision
+The facilitators of the JoH program were master’s level mental health professionals (i.e., counselors, social workers, psychologists) with previous experience in group work. All of the facilitators took part in a 2-day training on program background, design, and implementation. They were also provided with the JoH manual to support them in program delivery. The psychosocial program manager from Save the Children provided in-person monthly supervision and fidelity checks to provide ongoing support and feedback to ensure program adherence. During the monthly checks, the program manager observed program delivery, provided constructive feedback, and addressed any concerns, success stories, and/or difficulties the facilitators may be having with program delivery. The program manager observed key areas of instruction using a performance rubric that assessed facilitation skills, classroom management skills, presentation of positive coping skills, and delivery of core intervention components (i.e., activities, discussion, and literacy). Sample items on the rubric included: (1) did the facilitator explain the purpose of the activities; (2) did the facilitator cover all of the material in the session; (3) did the facilitator complete a thorough discussion of the session topic? The items were rated as yes, no or not applicable.
+After the observed session, the program manager debriefed with the facilitator on what was successful in the program implementation, what could be improved, and any questions, concerns or feedback the facilitator had. These debrief sessions were then documented by the program manager on an online platform and shared with the program facilitator. The facilitators also filled out fidelity check forms which indicated the number of youth that attended each session, whether they were able to complete each session activity and any issues or difficulties they experience during program facilitation.
+Quantitative Methods and Analysis
+Study Design
+A quasi-experimental waitlist control design was employed to assess the impact of the JoH among youth across three schools. Due to logistical constraints (preparation for standardized testing) within the schools, no more than two JoH groups were permitted to be facilitated during a given period. To ensure all students who were evaluated had the opportunity to participate in the JoH, the waitlist control group received the JoH within 1 month after posttest measures were completed.
+Sample Selection and Assignment to Groups
+Save the Children staff worked with school counselors to recruit a range of students, from those who were functioning and coping well to those who were exhibiting difficulties in the classroom. School counselors identified students who had previously sought support in coping with the secondary adversities associated the tornado. Those with clinical levels were referred for individual-level counseling, and those without clinical levels of distress were invited to participate in the study. Students were assigned to the experimental or control group based on the timing of the intervention (participated during gym or art classes) so not to disrupt academic instruction.
+Measures
+The baseline and posttests consisted of participants self-report of coping, prosocial behaviors, and self-efficacy. The baseline measures were provided to the JoH group one week prior to participation in the program and within one week of completion of the program. The control group was provided the measures on the same day as the JoH group; however, the surveys were completed in separate rooms to minimize interaction between waitlist control and JoH groups. Demographics were measured as gender (male = 1, female = 0), race (Caucasian = 1, African American = 2, Hispanic/Latino = 3, American Indian = 4, Asian = 5, Mixed Race = 6), and age. All analyses were completed with SPSS 22.0. As illustrated in Table 2, the majority of students were Caucasian (n = 64, 58.2 %), more than half were male (n = 60, 55 %), and the students ranged between 11 and 15 years old.
+Table 2 Demographic outcomes
+Full size table
+UCLA PTSD
+The UCLA PTSD index is comprised of 19 items to assess symptoms of PTSD as well as 2 associated symptoms (guilt and fear of events recurring) (Steinberg, Brymer, Decker & Pynoos 2004). Items were scored on a 5-point Likert scale measuring severity of PTS symptoms in the preceding month (0 = None, 1 = Little, 2 = Some, 3 = Much, and 4 = Most) with a cutoff score of 38 for clinical symptomatology. The reliability for this sample was acceptable (α = .92).
+Youth Coping Index (YCI)
+The YCI assesses the degree to which children used specific healthy coping behaviors (e.g., try to talk things out and compromise, try to figure out how to deal with problems, talk with someone about how you feel) to manage life stressors (McCubbin, Thompson, & McCubbin, 1996). Participants rated the frequency of their use of 31 coping strategies, scored on a 5-point Likert scale (0 = Never, 1 = Hardly ever, 2 = Sometimes, 3 = Often, and 4 = Most of the time). Internal consistency for the YCI is high (Cronbach’s alpha = .86; McCubbin et al., 1996). The YCI consists of three subscales, which were used in this study. The reliability for each of these subscales was acceptable: communication and tension management (α = .67), personal development (α = .71), and problem-solving (α = .72).
+General Self-Efficacy Scale (GSE)
+The GSE assesses children’s general sense of perceived self-efficacy. The ten items refer to successful coping and imply an internal-stable attribution of success. In samples from 23 nations, Cronbach’s alphas ranged from .76 to .90, with the majority in the high .80’s (Schwarzer & Jerusalem, 1995). Reliability for the GSE was also conducted for this sample and was acceptable (α = .80).
+Strengths and Difficulties Questionnaire (SDQ)
+The SDQ assesses children’s psychological symptoms and impairment through a 25-item self-report questionnaire (Goodman, 2001). Items are scored on a three-point Likert scale (0 = Not true, 1 = Somewhat true, and 2 = Certainly True) (Goodman, 2001). The SDQ consists of five subscales with five items per scale. One five-item subscale, prosocial behaviors, was used for this study. The internal reliability of prosocial behaviors scale for the current sample was adequate (α = .80).
+Statistical Analyses
+Measures were completed by students through an online platform to minimize error caused by manual entry. The online platform did not allow for skipped questions; therefore, missing data did not occur in the sample. Each scale was summed independently to create total scale scores for the constructs described above.
+Quantitative Results
+Baseline Measures
+To examine group equivalence, independent-samples t tests and Chi-square tests of independence were conducted to identify differences between experimental and waitlist control groups at baseline measurement. No significant differences were found on the dependent variables (YCI, SDQ, and GSE). Significant differences, however, were found on gender and age of participants. The Journey of Hope group was slightly older than the control group and had more males than females (see Table 2).
+Intervention Effects
+In an effort to explore the effects of participation in the Journey of Hope versus the control group, a repeated-measures ANOVA was completed for each dependent variable to examine intervention effects between groups of students between Time 1(baseline) and Time 2 (post-intervention). The Journey of Hope group and the control group were entered as between-subject factors. Measures of general self-efficacy, communication management, problem-solving, personal development and prosocial behaviors were given to the students at two time points, in the fall prior to a JoH group and in the winter after the JoH group had taken place.
+Results indicated a significant group by time interaction on communication management F(1, 101) = 4.23, p = .042; d = .37 and prosocial behaviors F(1, 107) = 16.19, p = .000; d = .61 between groups from Time 1 to Time 2. Paired-samples t tests were used to make post hoc comparisons between conditions. The first paired-samples t test indicated that there was a significant difference in the scores for the Journey of Hope group on communication management from Time 1 to Time 2 t(53) = -1.96, p = .05, while there was no significant difference for the control group t(48) = .89, p = . 37. A paired-samples t test was then run on prosocial behaviors from Time 1 to Time 2, indicating a significant difference for the JoH group t(59) = -4.59, p = .000, whereas there were no significant differences for the control group t(48) = .39, p = .69. Significant differences were not detected on problem-solving F(1,97) = .42, p = .517; d = .11, personal development F(1,108) = .422, p = .517; d = .04, or general self-efficacy F(1,107) = .174, p = .678; d = .08. Table 3 presents the results of the separate ANOVA outcomes for the dependent variables.
+Table 3 ANOVA outcomes
+Full size table
+Qualitative Methods and Analysis
+Study Design
+The qualitative study was conducted to examine the programmatic impact on building protective factors and enhancing coping skills among participants. The primary hypotheses of the qualitative portion of the study were that participation in the JoH would: (1) promote positive peer relationships and (2) enhance healthy coping skills related to common post-disaster emotions (e.g., grief, anger/aggression, and fear). The semi-structured interview questions were designed from previous impact evaluations and involved general inquires followed by probes for more detailed in-depth information.
+Examples of questions included in the interview guide were: (1) what did you do in the group; (2) what did you learn in the group; (3) what topics were the most important for you to discuss; (3) were there any topics that you would have liked to discuss; (4) how comfortable did you feel sharing in the group; and (5) have you been able to use any of the skills you learned in the group in other settings?
+Sample Selection and Assignment to Groups
+The participants in the qualitative interviews were drawn by the researcher from a pool student who participated in the JoH provided by the counselor at each school. Eligibility criteria for the qualitative interviews included: (1) attendance in at least 6 of the 8 Journey of Hope sessions, (2) Parental consent and assent to be interviewed and audio-taped, and (3) completion of the quantitative measures at both time points.
+Because the students were assigned a unique ID number for the surveys, the qualitative outcomes are not matched to the quantitative data. The interviews were completed in February 2015. Interviews were digitally recorded by Save the Children staff, professionally transcribed and provided to the authors to conduct secondary analysis. The transcribed interviews were analyzed with the aid of N-Vivo software as well as traditional manual coding. The N-Vivo program assisted in organization of the data and involved the coding of the data at multiple hierarchical levels. Thematic analyses included the process of coding interviews to elicit themes and patterns that occurred in the data. The coding included developing themes and separating them into subcategories which reflected on the participants’ feelings, thoughts, and behaviors moving into greater specificity (Lofland & Lofland, 1995; Strauss, 1987).
+Coding reliability was established by two researchers independently coding the participant interviews. The coders consisted of two doctoral-level researchers trained in qualitative analysis. The coders independently coded the interviews and then conducted inter-rater reliability of the broad themes in SPSS 22.0 calculating a Cohen’s Kappa of .80 (McHugh, 2012). The initial codes included 8 broad themes: grief, self-control, anger management, fear, stress relief, communication, program activities, and self-efficacy. The two researchers then evaluated the themes that were conceptually similar. The ultimate coding procedure yielded two broad core categories including: coping and peer support. To ensure inter-rater reliability on the two core categories, the researchers again calculated a Cohen’s Kappa of .85.
+Qualitative Results
+A total of 16 participants took part in the interviews. Participants were split evenly between gender with 9 females and 7 males and consisted of a subsample from each school. The sample included 8 students from school A, 4 students from school B, and 4 students from school C.
+Broad themes that emerged from the interviews included:
+Participants gained essential coping skills and emotion regulation skills to express specific emotions (e.g., anger, grief, and stress),
+Participants experienced enhanced peer support (e.g., talking to persons to whom they had never talked before, making new friends, and comfort sharing within the group), and
+Coping
+The augmentation of healthy coping skills was one key theme that emerged from the qualitative interviews. Participants stated that the JoH equipped them with healthy ways to cope with emotions such as anger, grief, and stress. One child shared “Probably at the end of every one (session), we talked about, we wrote down, and we went over and stuff like that and how we could deal with it (topics) differently.” Another participant noted: “We talked about how to cope, positive things, fear, happiness, we learned about just a lot of different emotions.”
+Anger
+Interviews indicated that many of the participants had issues managing anger and participation in the JoH program helped them devise strategies to better express their anger. One participant noted: “As I said, anger was one of the issues that I had trouble dealing with and I think that it (JoH) helped me with it.”
+Another participant provided an example of a strategy to cope with anger: “I just sometimes I like get really mad at something, and they like said different ways to calm yourself down.”
+Participants provided specific strategies to cope with anger such as: walking away, reading books, writing the feelings down, deep breathing, and counting down from ten to one. One child described techniques to manage anger:
+You can just probably walk away from it or I like to write so she said when you get mad you could just get a book or something and go like in a corner and write to yourself, just write stuff out.
+Another participant described how he applied healthy coping strategies outside of the group:
+Um I learned how to control some anger that flows out because like my brother is a bully I mean he toys with me a lot and I have learned to not try and punch things when I am mad. I now just go in my room and get over it and watch TV or something like that….
+One participant mentioned that she avoided unwanted consequences by employing techniques to manage anger that were discussed in the JoH group:
+Because, first of all I got a laugh out of it over what they were saying because like she (facilitator) actually talked about different ways because I have like anger issues and she (facilitator) taught me like different ways I could respond to it without having to hit or do bad things.
+Lastly, a participant summed their experience with learning about managing anger in the group by stating: “I learned a thing about coping with anger—don’t let anger control you, you control your anger.”
+Grief
+A second coping subtheme that emerged was that participants learned how to manage their feelings of grief after taking part in the JoH. It was noted that: “I think it gave me more ideas for when like grief, how to deal with it.”
+A participant also expressed that participation in the JoH may support other people in dealing with grief:
+I think a lot of my family members would benefit from it because my family has been like, like a lot of my grandparents and stuff like that have passed away so far through this thing and my family gets a lot of stress and stuff like that so I think they would go through this and I think they could learn the coping skills would be better for them.
+Specific strategies for coping with grief were also mentioned such as thinking positively, listening to music, talking about it, and writing feelings down. Regarding strategies to cope with grief, one participant stated that being able to be in a safe place to express their feelings was helpful:
+It helped because when we talked about it we were all able to talk about it and actually let it out and knowing that someone is actually there to support you and that is good because they can help you and you can learn that there are people there for you.
+It was also mentioned that participating in the group helped participants to not feel alone when processing feelings of sadness or grief:
+Um being able to like be with people that understand what, like all of us have the same issues and different ways we can trust them and making friends and knowing that you’re not alone really. Mainly talking…..
+Stress
+Youth also mentioned stress management as an important coping skill. When asking about what they liked about the JoH, one participant indicated: “They taught me how to be calm and how to be a little bit less stressed, sort of stuff to keep me calm.” Numerous techniques were also mentioned to avoid stress, such as time management, breaking down larger tasks, and relaxation techniques. One participant suggested time management as a strategy that she learned from the Journey of Hope to cope with stress:
+Don’t over-schedule yourself because then it adds more stress. Like if you have a big project and you want to go hang out with friends you should do the project first and then make plans.
+A student noted strategies such as: “having a stuffed animal, being alone, listening to music, dancing has always been a stress reliever for me.” Another participant described stress relief as focusing on essential and nonessential tasks to complete:
+Like just don’t focus on so much you have to do, just focus on the things that you need to get done, like not the things you want to do, but the things you need to get done. Like, I need to get ready in the morning, I need to get up, I need to eat breakfast, I need to do this, and then do the things that you want to do. Like, I want to make my bed, I want to play with my dog before I go to the bus, I want to do all that, I want to text my friends and see what they’re doing. Get the bigger things done before you do the little things.
+Peer Support
+The second broad theme was that participation in the group aided in peer relationships. Peer support was expressed through: making new friends, learning from each other, and supporting each other. Participants indicated that the group was an open and trusted environment for them to share. One participant stated:
+I probably could be open to everybody and it felt just comfortable because they would ask us questions and tell us to write it down and then if we wanted to share we could and if we didn’t then we didn’t have to.
+New Friendships
+Youth indicated that they did not know each other prior to involving in the JoH, but friendships were formed as the group progressed. One participant noted that a positive aspect of being part of the intervention was “Getting to see people and meet new people that I probably wouldn’t have met without being in group.” Another respondent described how the JoH built connections among those who were not previously friends:
+Because if they don’t have very many friends and they go to the group and they start to warm up to those people, they may be like hey, you’re in my class and I didn’t think we could be friends but in the group we’re now friends and it’s cool. So they get to have more friends.
+Learning from Each Other
+Participants discussed how they gained various coping skills from group members. They noted that it was helpful to learn about each other and that others in the group also experienced difficult emotions: “We got to learn about each other and emotions we all face and how to deal with it.” They indicated that learning from peers was easier because they share the same level of understanding. For example, one participant stated: “There are other people who experience the same thing as we do, so we know we’re not the only one.” Another noted:
+Well they told us that we could express ourselves in many different ways so some people express in writing, some people express in singing and I’ve always loved to sing and write songs and that is a skill that I didn’t know expressed who I was and how to deal with stuff.
+The importance of learning specific coping skills from other students was also described. One participant emphasized how the process of learning from peers was an important component of the program:
+Because lots of girls, like when they were talking about different topics like they would say they have like fear or grief or anything that we talked about and then they like told how they overcame it and how they’re coping with it and stuff.
+Another student also described the learning about the emotions other people experienced and how they coped was an important part of the Journey of Hope group:
+For me it was like meeting new people and seeing how they would deal with a situation rather like seeing a different perspective of it, like something that I would do like somebody would do completely different.
+Supporting Each Other
+Participation in JoH also created avenues for group members to support each other physically and emotionally. They expressed a feeling of safety to express themselves. One youth commented: “What I liked about the group was if somebody shared anything or just nothing got out of line, nobody would get angry, and it would just be peaceful and I sort of liked being calm and people calm.” Participants also felt being listened and emotional supported was an important component of the group. A participant added: “You can trust others, you have more people on your side, you don’t have to always, I mean, it’s okay to talk to adults sometimes, but you have friends you can still talk to.”
+The trust built by participation in the JoH was noted as crucial: “Yeah, like secrets that we have and everyone would make fun of us for having but everyone else had similar secrets and we felt comfortable to share them.” Finally, participation in the JoH helped to increase participants’ trust in other group members because they know “How to stand up for others, we can trust each other, we can be confident.” or “To help each other out or when there are barely any friends they have you can be one of them.”
+
+Methods
+
+This mixed methods study consisted of a secondary analysis of data collected on the JoH intervention. The JoH is an intervention designed to build healthy coping skills in young people who have experienced an acute trauma (Powell & Blanchet-Cohen, 2014). The eight-session model consists of 1-hour sessions that are generally delivered in a school-based setting to groups of 8–10 children/adolescents. The JoH intervention model consists of four curricula for children and youth in kindergarten to second, third to fifth, sixth to eighth, and ninth to twelfth grade. Additionally, there is a 3-hour parent workshop available on stress, coping and supporting children after a disaster (Powell & Leytham, 2014). Components of the youth curriculum include developmentally appropriate activities to encourage discussion, cooperative play, arts, and literacy to address common trauma-related emotions (Save the Children, 2009).
+Each session incorporates techniques to help young people address and process a variety of emotions (Powell & Thompson, 2014). Topics that are covered include safety, fear, anger, aggression, grief, anxiety, and self-esteem (Save the Children, 2009). Specifically, the participants are encouraged to discuss each topic and devise strategies to manage a situation which may be appraised as difficult. This is done by providing psycho-education and through helping the participant identify external and internal resources to aid in healthy coping. Moreover, the JoH incorporates reflective and experiential learning techniques to help children recognize and process emotions and build coping capacity after a traumatic situation (Malekoff, 2008; Salloum, Garside, Irwin, Anderson, & Francois, 2009). Table 1 provides a detailed description of the key components of the intervention.
+Table 1 Journey of hope sessions
+Full size table
+Study Setting
+The JoH was first introduced into the Moore school system after the schools re-opened in the fall of 2013. The data collection began in the spring of 2014, 9 months after the tornado struck the city. The study did not commence until the spring due to logistical constraints scheduling the JoH in the middle schools. Early adolescents between sixth and eighth grades from three middle schools located in Moore, Oklahoma, participated in the JoH program and evaluation. All middle schools in the district were given the opportunity to take part in the JoH program, and the specific schools included in the study were chosen based on discussions with the school administration and principals’ acceptance for the program to be implemented during the school day. Upon approval from the school board, participants were recruited into the program by school counselors. Of the three schools included in the study, one was completely destroyed, the second was severely damaged, and the third had many students lose homes including one student fatality.
+A total of 170 students were recruited to take part in the JoH (60 recruited in school A; 60 in school B; and 50 in school C). Of those recruited 116 returned consent forms and assented to take part in the study and throughout the study period, 6 dropped out of the program or did not complete the posttest. All participants received parental consent and provided assent to take part in the JoH and evaluation following Moore District School Board and Save the Children’s ethical guidelines approval board. Figure 1 illustrates the sample selection.
+Fig. 1
+Sampling assignment
+Full size image
+Journey of Hope Training and Supervision
+The facilitators of the JoH program were master’s level mental health professionals (i.e., counselors, social workers, psychologists) with previous experience in group work. All of the facilitators took part in a 2-day training on program background, design, and implementation. They were also provided with the JoH manual to support them in program delivery. The psychosocial program manager from Save the Children provided in-person monthly supervision and fidelity checks to provide ongoing support and feedback to ensure program adherence. During the monthly checks, the program manager observed program delivery, provided constructive feedback, and addressed any concerns, success stories, and/or difficulties the facilitators may be having with program delivery. The program manager observed key areas of instruction using a performance rubric that assessed facilitation skills, classroom management skills, presentation of positive coping skills, and delivery of core intervention components (i.e., activities, discussion, and literacy). Sample items on the rubric included: (1) did the facilitator explain the purpose of the activities; (2) did the facilitator cover all of the material in the session; (3) did the facilitator complete a thorough discussion of the session topic? The items were rated as yes, no or not applicable.
+After the observed session, the program manager debriefed with the facilitator on what was successful in the program implementation, what could be improved, and any questions, concerns or feedback the facilitator had. These debrief sessions were then documented by the program manager on an online platform and shared with the program facilitator. The facilitators also filled out fidelity check forms which indicated the number of youth that attended each session, whether they were able to complete each session activity and any issues or difficulties they experience during program facilitation.
+Quantitative Methods and Analysis
+Study Design
+A quasi-experimental waitlist control design was employed to assess the impact of the JoH among youth across three schools. Due to logistical constraints (preparation for standardized testing) within the schools, no more than two JoH groups were permitted to be facilitated during a given period. To ensure all students who were evaluated had the opportunity to participate in the JoH, the waitlist control group received the JoH within 1 month after posttest measures were completed.
+Sample Selection and Assignment to Groups
+Save the Children staff worked with school counselors to recruit a range of students, from those who were functioning and coping well to those who were exhibiting difficulties in the classroom. School counselors identified students who had previously sought support in coping with the secondary adversities associated the tornado. Those with clinical levels were referred for individual-level counseling, and those without clinical levels of distress were invited to participate in the study. Students were assigned to the experimental or control group based on the timing of the intervention (participated during gym or art classes) so not to disrupt academic instruction.
+Measures
+The baseline and posttests consisted of participants self-report of coping, prosocial behaviors, and self-efficacy. The baseline measures were provided to the JoH group one week prior to participation in the program and within one week of completion of the program. The control group was provided the measures on the same day as the JoH group; however, the surveys were completed in separate rooms to minimize interaction between waitlist control and JoH groups. Demographics were measured as gender (male = 1, female = 0), race (Caucasian = 1, African American = 2, Hispanic/Latino = 3, American Indian = 4, Asian = 5, Mixed Race = 6), and age. All analyses were completed with SPSS 22.0. As illustrated in Table 2, the majority of students were Caucasian (n = 64, 58.2 %), more than half were male (n = 60, 55 %), and the students ranged between 11 and 15 years old.
+Table 2 Demographic outcomes
+Full size table
+UCLA PTSD
+The UCLA PTSD index is comprised of 19 items to assess symptoms of PTSD as well as 2 associated symptoms (guilt and fear of events recurring) (Steinberg, Brymer, Decker & Pynoos 2004). Items were scored on a 5-point Likert scale measuring severity of PTS symptoms in the preceding month (0 = None, 1 = Little, 2 = Some, 3 = Much, and 4 = Most) with a cutoff score of 38 for clinical symptomatology. The reliability for this sample was acceptable (α = .92).
+Youth Coping Index (YCI)
+The YCI assesses the degree to which children used specific healthy coping behaviors (e.g., try to talk things out and compromise, try to figure out how to deal with problems, talk with someone about how you feel) to manage life stressors (McCubbin, Thompson, & McCubbin, 1996). Participants rated the frequency of their use of 31 coping strategies, scored on a 5-point Likert scale (0 = Never, 1 = Hardly ever, 2 = Sometimes, 3 = Often, and 4 = Most of the time). Internal consistency for the YCI is high (Cronbach’s alpha = .86; McCubbin et al., 1996). The YCI consists of three subscales, which were used in this study. The reliability for each of these subscales was acceptable: communication and tension management (α = .67), personal development (α = .71), and problem-solving (α = .72).
+General Self-Efficacy Scale (GSE)
+The GSE assesses children’s general sense of perceived self-efficacy. The ten items refer to successful coping and imply an internal-stable attribution of success. In samples from 23 nations, Cronbach’s alphas ranged from .76 to .90, with the majority in the high .80’s (Schwarzer & Jerusalem, 1995). Reliability for the GSE was also conducted for this sample and was acceptable (α = .80).
+Strengths and Difficulties Questionnaire (SDQ)
+The SDQ assesses children’s psychological symptoms and impairment through a 25-item self-report questionnaire (Goodman, 2001). Items are scored on a three-point Likert scale (0 = Not true, 1 = Somewhat true, and 2 = Certainly True) (Goodman, 2001). The SDQ consists of five subscales with five items per scale. One five-item subscale, prosocial behaviors, was used for this study. The internal reliability of prosocial behaviors scale for the current sample was adequate (α = .80).
+Statistical Analyses
+Measures were completed by students through an online platform to minimize error caused by manual entry. The online platform did not allow for skipped questions; therefore, missing data did not occur in the sample. Each scale was summed independently to create total scale scores for the constructs described above.
+Quantitative Results
+Baseline Measures
+To examine group equivalence, independent-samples t tests and Chi-square tests of independence were conducted to identify differences between experimental and waitlist control groups at baseline measurement. No significant differences were found on the dependent variables (YCI, SDQ, and GSE). Significant differences, however, were found on gender and age of participants. The Journey of Hope group was slightly older than the control group and had more males than females (see Table 2).
+Intervention Effects
+In an effort to explore the effects of participation in the Journey of Hope versus the control group, a repeated-measures ANOVA was completed for each dependent variable to examine intervention effects between groups of students between Time 1(baseline) and Time 2 (post-intervention). The Journey of Hope group and the control group were entered as between-subject factors. Measures of general self-efficacy, communication management, problem-solving, personal development and prosocial behaviors were given to the students at two time points, in the fall prior to a JoH group and in the winter after the JoH group had taken place.
+Results indicated a significant group by time interaction on communication management F(1, 101) = 4.23, p = .042; d = .37 and prosocial behaviors F(1, 107) = 16.19, p = .000; d = .61 between groups from Time 1 to Time 2. Paired-samples t tests were used to make post hoc comparisons between conditions. The first paired-samples t test indicated that there was a significant difference in the scores for the Journey of Hope group on communication management from Time 1 to Time 2 t(53) = -1.96, p = .05, while there was no significant difference for the control group t(48) = .89, p = . 37. A paired-samples t test was then run on prosocial behaviors from Time 1 to Time 2, indicating a significant difference for the JoH group t(59) = -4.59, p = .000, whereas there were no significant differences for the control group t(48) = .39, p = .69. Significant differences were not detected on problem-solving F(1,97) = .42, p = .517; d = .11, personal development F(1,108) = .422, p = .517; d = .04, or general self-efficacy F(1,107) = .174, p = .678; d = .08. Table 3 presents the results of the separate ANOVA outcomes for the dependent variables.
+Table 3 ANOVA outcomes
+Full size table
+Qualitative Methods and Analysis
+Study Design
+The qualitative study was conducted to examine the programmatic impact on building protective factors and enhancing coping skills among participants. The primary hypotheses of the qualitative portion of the study were that participation in the JoH would: (1) promote positive peer relationships and (2) enhance healthy coping skills related to common post-disaster emotions (e.g., grief, anger/aggression, and fear). The semi-structured interview questions were designed from previous impact evaluations and involved general inquires followed by probes for more detailed in-depth information.
+Examples of questions included in the interview guide were: (1) what did you do in the group; (2) what did you learn in the group; (3) what topics were the most important for you to discuss; (3) were there any topics that you would have liked to discuss; (4) how comfortable did you feel sharing in the group; and (5) have you been able to use any of the skills you learned in the group in other settings?
+Sample Selection and Assignment to Groups
+The participants in the qualitative interviews were drawn by the researcher from a pool student who participated in the JoH provided by the counselor at each school. Eligibility criteria for the qualitative interviews included: (1) attendance in at least 6 of the 8 Journey of Hope sessions, (2) Parental consent and assent to be interviewed and audio-taped, and (3) completion of the quantitative measures at both time points.
+Because the students were assigned a unique ID number for the surveys, the qualitative outcomes are not matched to the quantitative data. The interviews were completed in February 2015. Interviews were digitally recorded by Save the Children staff, professionally transcribed and provided to the authors to conduct secondary analysis. The transcribed interviews were analyzed with the aid of N-Vivo software as well as traditional manual coding. The N-Vivo program assisted in organization of the data and involved the coding of the data at multiple hierarchical levels. Thematic analyses included the process of coding interviews to elicit themes and patterns that occurred in the data. The coding included developing themes and separating them into subcategories which reflected on the participants’ feelings, thoughts, and behaviors moving into greater specificity (Lofland & Lofland, 1995; Strauss, 1987).
+Coding reliability was established by two researchers independently coding the participant interviews. The coders consisted of two doctoral-level researchers trained in qualitative analysis. The coders independently coded the interviews and then conducted inter-rater reliability of the broad themes in SPSS 22.0 calculating a Cohen’s Kappa of .80 (McHugh, 2012). The initial codes included 8 broad themes: grief, self-control, anger management, fear, stress relief, communication, program activities, and self-efficacy. The two researchers then evaluated the themes that were conceptually similar. The ultimate coding procedure yielded two broad core categories including: coping and peer support. To ensure inter-rater reliability on the two core categories, the researchers again calculated a Cohen’s Kappa of .85.
+Qualitative Results
+A total of 16 participants took part in the interviews. Participants were split evenly between gender with 9 females and 7 males and consisted of a subsample from each school. The sample included 8 students from school A, 4 students from school B, and 4 students from school C.
+Broad themes that emerged from the interviews included:
+Participants gained essential coping skills and emotion regulation skills to express specific emotions (e.g., anger, grief, and stress),
+Participants experienced enhanced peer support (e.g., talking to persons to whom they had never talked before, making new friends, and comfort sharing within the group), and
+Coping
+The augmentation of healthy coping skills was one key theme that emerged from the qualitative interviews. Participants stated that the JoH equipped them with healthy ways to cope with emotions such as anger, grief, and stress. One child shared “Probably at the end of every one (session), we talked about, we wrote down, and we went over and stuff like that and how we could deal with it (topics) differently.” Another participant noted: “We talked about how to cope, positive things, fear, happiness, we learned about just a lot of different emotions.”
+Anger
+Interviews indicated that many of the participants had issues managing anger and participation in the JoH program helped them devise strategies to better express their anger. One participant noted: “As I said, anger was one of the issues that I had trouble dealing with and I think that it (JoH) helped me with it.”
+Another participant provided an example of a strategy to cope with anger: “I just sometimes I like get really mad at something, and they like said different ways to calm yourself down.”
+Participants provided specific strategies to cope with anger such as: walking away, reading books, writing the feelings down, deep breathing, and counting down from ten to one. One child described techniques to manage anger:
+You can just probably walk away from it or I like to write so she said when you get mad you could just get a book or something and go like in a corner and write to yourself, just write stuff out.
+Another participant described how he applied healthy coping strategies outside of the group:
+Um I learned how to control some anger that flows out because like my brother is a bully I mean he toys with me a lot and I have learned to not try and punch things when I am mad. I now just go in my room and get over it and watch TV or something like that….
+One participant mentioned that she avoided unwanted consequences by employing techniques to manage anger that were discussed in the JoH group:
+Because, first of all I got a laugh out of it over what they were saying because like she (facilitator) actually talked about different ways because I have like anger issues and she (facilitator) taught me like different ways I could respond to it without having to hit or do bad things.
+Lastly, a participant summed their experience with learning about managing anger in the group by stating: “I learned a thing about coping with anger—don’t let anger control you, you control your anger.”
+Grief
+A second coping subtheme that emerged was that participants learned how to manage their feelings of grief after taking part in the JoH. It was noted that: “I think it gave me more ideas for when like grief, how to deal with it.”
+A participant also expressed that participation in the JoH may support other people in dealing with grief:
+I think a lot of my family members would benefit from it because my family has been like, like a lot of my grandparents and stuff like that have passed away so far through this thing and my family gets a lot of stress and stuff like that so I think they would go through this and I think they could learn the coping skills would be better for them.
+Specific strategies for coping with grief were also mentioned such as thinking positively, listening to music, talking about it, and writing feelings down. Regarding strategies to cope with grief, one participant stated that being able to be in a safe place to express their feelings was helpful:
+It helped because when we talked about it we were all able to talk about it and actually let it out and knowing that someone is actually there to support you and that is good because they can help you and you can learn that there are people there for you.
+It was also mentioned that participating in the group helped participants to not feel alone when processing feelings of sadness or grief:
+Um being able to like be with people that understand what, like all of us have the same issues and different ways we can trust them and making friends and knowing that you’re not alone really. Mainly talking…..
+Stress
+Youth also mentioned stress management as an important coping skill. When asking about what they liked about the JoH, one participant indicated: “They taught me how to be calm and how to be a little bit less stressed, sort of stuff to keep me calm.” Numerous techniques were also mentioned to avoid stress, such as time management, breaking down larger tasks, and relaxation techniques. One participant suggested time management as a strategy that she learned from the Journey of Hope to cope with stress:
+Don’t over-schedule yourself because then it adds more stress. Like if you have a big project and you want to go hang out with friends you should do the project first and then make plans.
+A student noted strategies such as: “having a stuffed animal, being alone, listening to music, dancing has always been a stress reliever for me.” Another participant described stress relief as focusing on essential and nonessential tasks to complete:
+Like just don’t focus on so much you have to do, just focus on the things that you need to get done, like not the things you want to do, but the things you need to get done. Like, I need to get ready in the morning, I need to get up, I need to eat breakfast, I need to do this, and then do the things that you want to do. Like, I want to make my bed, I want to play with my dog before I go to the bus, I want to do all that, I want to text my friends and see what they’re doing. Get the bigger things done before you do the little things.
+Peer Support
+The second broad theme was that participation in the group aided in peer relationships. Peer support was expressed through: making new friends, learning from each other, and supporting each other. Participants indicated that the group was an open and trusted environment for them to share. One participant stated:
+I probably could be open to everybody and it felt just comfortable because they would ask us questions and tell us to write it down and then if we wanted to share we could and if we didn’t then we didn’t have to.
+New Friendships
+Youth indicated that they did not know each other prior to involving in the JoH, but friendships were formed as the group progressed. One participant noted that a positive aspect of being part of the intervention was “Getting to see people and meet new people that I probably wouldn’t have met without being in group.” Another respondent described how the JoH built connections among those who were not previously friends:
+Because if they don’t have very many friends and they go to the group and they start to warm up to those people, they may be like hey, you’re in my class and I didn’t think we could be friends but in the group we’re now friends and it’s cool. So they get to have more friends.
+Learning from Each Other
+Participants discussed how they gained various coping skills from group members. They noted that it was helpful to learn about each other and that others in the group also experienced difficult emotions: “We got to learn about each other and emotions we all face and how to deal with it.” They indicated that learning from peers was easier because they share the same level of understanding. For example, one participant stated: “There are other people who experience the same thing as we do, so we know we’re not the only one.” Another noted:
+Well they told us that we could express ourselves in many different ways so some people express in writing, some people express in singing and I’ve always loved to sing and write songs and that is a skill that I didn’t know expressed who I was and how to deal with stuff.
+The importance of learning specific coping skills from other students was also described. One participant emphasized how the process of learning from peers was an important component of the program:
+Because lots of girls, like when they were talking about different topics like they would say they have like fear or grief or anything that we talked about and then they like told how they overcame it and how they’re coping with it and stuff.
+Another student also described the learning about the emotions other people experienced and how they coped was an important part of the Journey of Hope group:
+For me it was like meeting new people and seeing how they would deal with a situation rather like seeing a different perspective of it, like something that I would do like somebody would do completely different.
+Supporting Each Other
+Participation in JoH also created avenues for group members to support each other physically and emotionally. They expressed a feeling of safety to express themselves. One youth commented: “What I liked about the group was if somebody shared anything or just nothing got out of line, nobody would get angry, and it would just be peaceful and I sort of liked being calm and people calm.” Participants also felt being listened and emotional supported was an important component of the group. A participant added: “You can trust others, you have more people on your side, you don’t have to always, I mean, it’s okay to talk to adults sometimes, but you have friends you can still talk to.”
+The trust built by participation in the JoH was noted as crucial: “Yeah, like secrets that we have and everyone would make fun of us for having but everyone else had similar secrets and we felt comfortable to share them.” Finally, participation in the JoH helped to increase participants’ trust in other group members because they know “How to stand up for others, we can trust each other, we can be confident.” or “To help each other out or when there are barely any friends they have you can be one of them.”
+
+Fig. 1
+Sampling assignment
+Full size image
+
+Fig. 1
+
+Sampling assignment
+
+Sampling assignment
+
+Discussion
+The Journey of Hope is conceptualized as a longer-term recovery program for children who have experienced a traumatic event targeting emotions common during the recovery period such as anxiety, grief, anger, and fear (Kar, 2009; Pfefferbaum, 2008). Moreover, it is aligned with guidelines of the Substance Abuse Mental Health Associations (SAMHSA) guidance for providing trauma-informed services. Specifically, the JoH aims to help children: (1) identify their safe places, (2) gain peer support, and (3) recognize and express different emotions common in the post-disaster recovery period (Substance Abuse Mental Health Service Administration, 2014).
+While there are limitations to this study, there are also notable findings. First, a number of the outcomes from the qualitative and quantitative findings confirm each other. Previous qualitative and quantitative studies have indicated that the Journey of Hope is effective in enhancing peer relationships and prosocial behaviors (i.e., helping other, cooperating, sharing) (Powell & Thompson, 2014); however, no mixed methods studies have examined whether findings were reinforced on the outcomes of prosocial behavior or peer support. This study indicates across qualitative and quantitative methods that prosocial support is a core component of the Journey of Hope. Qualitatively, participants consistently stated that one of the strengths of the program was that they made new friendships, learned from each other, and felt like they were able to support each other in the group. A statistically significant increase in the SDQ subscale for prosocial behaviors was also found which included questions such as “I try to be nice to others” and “I usually share” which are behaviors consistent with those reported in the qualitative study. This is an important finding across methods because ample research supports that healthy peer relationships are a protective factor in post-trauma recovery (Masten & Obradovic, 2006; Stevenson & Zimmerman, 2005; Wadsworth, Santiago, & Einhorn, 2009).
+The qualitative portion of this study supported that participants learned skills to cope with difficult emotions such as stress, anger, and grief. Quantitatively, communication and tension management yielded significant improvements. Questions in this subscale revolved around how they managed difficult events (i.e., yelling at others, saying mean things). As ample research has indicated, healthy coping skills can mitigate distress symptoms after exposure to a traumatic event (Teicher, Andersen, Polcari, Anderson, & Navalta, 2002; Evans & Oehler-Stinnett, 2006).
+While there were significant findings in the quantitative data, there were also a number of scales that were not significant, including self-efficacy as measured by the GSE; subscales from the YCI including problem-solving and personal development; and overall emotional distress. This may be due to measures that were not sensitive to the population that was surveyed (as they have never been tested in a post-disaster context). The outcomes may also indicate, however, that continued intervention development should be considered with these constructs in mind. Future studies should continue to examine these outcomes, but consider refining survey instruments that have been tested with this specific population.
+
+Discussion
+
+The Journey of Hope is conceptualized as a longer-term recovery program for children who have experienced a traumatic event targeting emotions common during the recovery period such as anxiety, grief, anger, and fear (Kar, 2009; Pfefferbaum, 2008). Moreover, it is aligned with guidelines of the Substance Abuse Mental Health Associations (SAMHSA) guidance for providing trauma-informed services. Specifically, the JoH aims to help children: (1) identify their safe places, (2) gain peer support, and (3) recognize and express different emotions common in the post-disaster recovery period (Substance Abuse Mental Health Service Administration, 2014).
+While there are limitations to this study, there are also notable findings. First, a number of the outcomes from the qualitative and quantitative findings confirm each other. Previous qualitative and quantitative studies have indicated that the Journey of Hope is effective in enhancing peer relationships and prosocial behaviors (i.e., helping other, cooperating, sharing) (Powell & Thompson, 2014); however, no mixed methods studies have examined whether findings were reinforced on the outcomes of prosocial behavior or peer support. This study indicates across qualitative and quantitative methods that prosocial support is a core component of the Journey of Hope. Qualitatively, participants consistently stated that one of the strengths of the program was that they made new friendships, learned from each other, and felt like they were able to support each other in the group. A statistically significant increase in the SDQ subscale for prosocial behaviors was also found which included questions such as “I try to be nice to others” and “I usually share” which are behaviors consistent with those reported in the qualitative study. This is an important finding across methods because ample research supports that healthy peer relationships are a protective factor in post-trauma recovery (Masten & Obradovic, 2006; Stevenson & Zimmerman, 2005; Wadsworth, Santiago, & Einhorn, 2009).
+The qualitative portion of this study supported that participants learned skills to cope with difficult emotions such as stress, anger, and grief. Quantitatively, communication and tension management yielded significant improvements. Questions in this subscale revolved around how they managed difficult events (i.e., yelling at others, saying mean things). As ample research has indicated, healthy coping skills can mitigate distress symptoms after exposure to a traumatic event (Teicher, Andersen, Polcari, Anderson, & Navalta, 2002; Evans & Oehler-Stinnett, 2006).
+While there were significant findings in the quantitative data, there were also a number of scales that were not significant, including self-efficacy as measured by the GSE; subscales from the YCI including problem-solving and personal development; and overall emotional distress. This may be due to measures that were not sensitive to the population that was surveyed (as they have never been tested in a post-disaster context). The outcomes may also indicate, however, that continued intervention development should be considered with these constructs in mind. Future studies should continue to examine these outcomes, but consider refining survey instruments that have been tested with this specific population.
+
+Limitations
+While there are a number of encouraging findings in this study, limitations also exist. Conducting research in schools on social emotional programming is often met with challenges, which are particularly relevant in a post-disaster environment (Weisz, Sandler, Durlak, & Anton, 2005; Proctor et al., 2007). First, quantitatively, the small sample size limited generalizability of the study and also increased susceptibility of a type 2 error, meaning that there might not have been adequate statistical power to detect significant change in the measures that may have occurred. The small sample size was due to the inability of counselors to coordinate widespread dissemination of the Journey of Hope in the middle schools because of a lack of available time within the school day for students to participate in the program. While all of the students who received consent to participate in the program and evaluation filled out the quantitative surveys, a selection bias may have occurred in the qualitative sample. The counselors provided a pool of students to take part in the interviews. The selection, therefore, may be biased based on the counselors’ knowledge of the student’s perception of the group. Students who were more favorable toward the group may have been referred to take part in the interviews.
+Another limitation in the quantitative findings was that the study was a waitlist control design. Therefore, contamination of the control group may have been a factor. The students who were waitlisted had knowledge that they were going to participate in the JoH and, therefore, may have had knowledge about the topics and activities in the group during the study period from peers who had participated in the initial intervention group. This may have impacted the T-2 surveys. The students in the waitlist control also had higher baseline scores than those in the intervention group. This may be attributed to children with more difficulties being referred into the first JoH group to be implemented at the school. Future studies should randomize participants to support group equivalence.
+Another limitation was that quantitative measures were only used during two time points, which limited knowledge on the longitudinal impact of the JoH. A follow-up measure was not incorporated because the study utilized a waitlist control design. Therefore, most of the students in the control group were taking part in the program 1 month following the intervention making it unfeasible to examine the differences in groups at a follow-up period. Future studies should examine the long-term effects of the intervention.
+Finally, in regard to the quantitative findings, there was the lack of sensitive instruments to measure coping. While the YCI was used to measure coping in this study, the psychometric properties have never been measured in a post-disaster environment. Moreover, a recent review of widely used coping measures indicated psychometric limitations are common among these scales. Future studies should employ conceptually relevant coping measures within a disaster-exposed population to ensure that these measures accurately reflect the population participating in the research.
+
+Limitations
+
+While there are a number of encouraging findings in this study, limitations also exist. Conducting research in schools on social emotional programming is often met with challenges, which are particularly relevant in a post-disaster environment (Weisz, Sandler, Durlak, & Anton, 2005; Proctor et al., 2007). First, quantitatively, the small sample size limited generalizability of the study and also increased susceptibility of a type 2 error, meaning that there might not have been adequate statistical power to detect significant change in the measures that may have occurred. The small sample size was due to the inability of counselors to coordinate widespread dissemination of the Journey of Hope in the middle schools because of a lack of available time within the school day for students to participate in the program. While all of the students who received consent to participate in the program and evaluation filled out the quantitative surveys, a selection bias may have occurred in the qualitative sample. The counselors provided a pool of students to take part in the interviews. The selection, therefore, may be biased based on the counselors’ knowledge of the student’s perception of the group. Students who were more favorable toward the group may have been referred to take part in the interviews.
+Another limitation in the quantitative findings was that the study was a waitlist control design. Therefore, contamination of the control group may have been a factor. The students who were waitlisted had knowledge that they were going to participate in the JoH and, therefore, may have had knowledge about the topics and activities in the group during the study period from peers who had participated in the initial intervention group. This may have impacted the T-2 surveys. The students in the waitlist control also had higher baseline scores than those in the intervention group. This may be attributed to children with more difficulties being referred into the first JoH group to be implemented at the school. Future studies should randomize participants to support group equivalence.
+Another limitation was that quantitative measures were only used during two time points, which limited knowledge on the longitudinal impact of the JoH. A follow-up measure was not incorporated because the study utilized a waitlist control design. Therefore, most of the students in the control group were taking part in the program 1 month following the intervention making it unfeasible to examine the differences in groups at a follow-up period. Future studies should examine the long-term effects of the intervention.
+Finally, in regard to the quantitative findings, there was the lack of sensitive instruments to measure coping. While the YCI was used to measure coping in this study, the psychometric properties have never been measured in a post-disaster environment. Moreover, a recent review of widely used coping measures indicated psychometric limitations are common among these scales. Future studies should employ conceptually relevant coping measures within a disaster-exposed population to ensure that these measures accurately reflect the population participating in the research.
+
+Future Directions and Conclusions
+After a disaster, many schools are in the process of rebuilding, working with the children to catch them up on missed educational instruction, and many teachers and administrators are in the process of grappling with their own losses from the disaster. In turn, it is often difficult to schedule and find space for social emotional or mental health programming. Limitations can extend to limited enrollment, attrition, and limited time to implement an intervention. While limitations exist in post-disaster research, it is important to continue examining social emotional interventions as an outlet to support youth after a traumatic event. It has been noted that traumatic stress in children and youth can result in a “breakdown of capacity to regulate internal states” (van der Kolk, 2005, p. 403). Crucial elements of healing include coping skills, teaching of self-management, and the promotion of healing relationships (van der Kolk, 2005). The Journey of Hope is an intervention that was designed to be broadly accessible to young people who have experienced a traumatic event and incorporating these elements of coping, self-regulation, and healthy peer and adult relationships. While the JoH is conceptualized to be broadly applicable to youth who have experienced a trauma, facilitating the program in small groups can limit the reach of the program. The intervention is generally facilitated by graduate-level mental health professionals, which can compromise feasibility of delivery—especially in high poverty, low resource areas. One consideration is to adapt the program so teachers could facilitate the JoH with larger groups of children, thereby expanding the reach. There are also limitations to delivering the intervention during the school day. There is often limited time, and social emotional programming can compete with educational instruction. A future consideration would be to implement the JoH in an afterschool setting or summer camp, which would allow for more time to deliver the program.
+This study supports that the intervention may be effective in supporting youth with non-clinical levels of distress overcome a traumatic event. While this study was done in a post-disaster setting, the application of the JoH may also be relevant in other high need areas where children are vulnerable to experiencing traumatic events such as high poverty areas or communities affected by violence. Future studies should examine the Journey of Hope in other post-disaster settings or areas where children may be exposed to trauma.
+
+Future Directions and Conclusions
+
+After a disaster, many schools are in the process of rebuilding, working with the children to catch them up on missed educational instruction, and many teachers and administrators are in the process of grappling with their own losses from the disaster. In turn, it is often difficult to schedule and find space for social emotional or mental health programming. Limitations can extend to limited enrollment, attrition, and limited time to implement an intervention. While limitations exist in post-disaster research, it is important to continue examining social emotional interventions as an outlet to support youth after a traumatic event. It has been noted that traumatic stress in children and youth can result in a “breakdown of capacity to regulate internal states” (van der Kolk, 2005, p. 403). Crucial elements of healing include coping skills, teaching of self-management, and the promotion of healing relationships (van der Kolk, 2005). The Journey of Hope is an intervention that was designed to be broadly accessible to young people who have experienced a traumatic event and incorporating these elements of coping, self-regulation, and healthy peer and adult relationships. While the JoH is conceptualized to be broadly applicable to youth who have experienced a trauma, facilitating the program in small groups can limit the reach of the program. The intervention is generally facilitated by graduate-level mental health professionals, which can compromise feasibility of delivery—especially in high poverty, low resource areas. One consideration is to adapt the program so teachers could facilitate the JoH with larger groups of children, thereby expanding the reach. There are also limitations to delivering the intervention during the school day. There is often limited time, and social emotional programming can compete with educational instruction. A future consideration would be to implement the JoH in an afterschool setting or summer camp, which would allow for more time to deliver the program.
+This study supports that the intervention may be effective in supporting youth with non-clinical levels of distress overcome a traumatic event. While this study was done in a post-disaster setting, the application of the JoH may also be relevant in other high need areas where children are vulnerable to experiencing traumatic events such as high poverty areas or communities affected by violence. Future studies should examine the Journey of Hope in other post-disaster settings or areas where children may be exposed to trauma.
+
+References
+Arthur, M., Hawkins, D., Pollard, J., Catalano, R., & Baglioni, A. (2002). Measuring risk and protective factors for use, delinquency, and other adolescent problem behaviors. Evaluation Review, 26(6), 575–601. doi:10.1177/0193841x0202600601.
+PubMed
+  Google Scholar
+  Atkins, M., Hoagwood, K., Kutash, K., & Seidman, E. (2010). Toward the integration of education and mental health in schools. Administration and Policy in Mental Health and Mental Health Services Research, 37, 40–47.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Blanchet-Cohen, N., & Nelems, R. (2009). Journey of Hope (JoH) curriculum: Building children’s and communities’ resilience. Victoria: International Institute for Childs Rights and Development (IICRD).
+Google Scholar
+  Blanchet-Cohen, Natasha, & Nelems, Rebeccah. (2013). A child-centered evaluation of a psychosocial program: Promoting children’s healing, safety and well-being in post-disaster contexts. Children, Youth and Environments, 23(1), 23–42.
+Article
+  Google Scholar
+  Borum, R. (2003). Managing at-risk juvenile offenders in the community. Journal of Contemporary Criminal Justice, 19(1), 114.
+Article
+  Google Scholar
+  Chemtob, C., Nakashima, J., & Hamada, R. (2006). Psychosocial interventions for post-disaster trauma symptoms in elementary school children: A controlled community field study. Pediatrics and Adolescent Medicine, 156(3), 211–216.
+Article
+  Google Scholar
+  Drury, S. S., Scheeringa, M. S., & Zeanah, C. H. (2008). The traumatic impact of Hurricane Katrina on children in New Orleans. Child and Adolescent Psychiatric Clinics of North America, 17(3), 685–702.
+Article
+  Google Scholar
+  Evans, L., & Oehler-Stinnett, J. (2006). Children and natural disasters a primer for school psychologists. School Psychology International, 27(1), 33–55.
+Article
+  Google Scholar
+  Ganeshan, S., & Diamond, W. (2009). Forecasting the numbers of people affected annually by natural disasters up to 2015. England: Oxfam.
+Google Scholar
+  Garrett, W. S., Lord, G. M., Punit, S., Lugo-Villarino, G., Mazmanian, S., Ito, S., et al. (2007). Communicable ulcerative colitis induced by T-bet deficiency in the innate immune system. Cell, 131(1), 33–45. doi:10.1016/j.cell.2007.08.017.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Gewirtz, A., Forgatch, M., & Wieling, E. (2008). Parenting practices as potential mechanisms for child adjustment following mass trauma. Journal of Marital & Family Therapy, 34(2), 177–192. doi:10.1111/j.1752-0606.2008.00063.x.
+Article
+  Google Scholar
+  Goodman, R. (2001). Psychometric properties of the Strengths and Difficulties Questionnaire. Journal of the American Academy of Child and Adolescent Psychiatry, 40, 1337–1345.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. (2004). Current and future challenges in school-based prevention: The researcher perspective. Prevention Science, 5(1), 5–13. doi:10.1023/b:prev.0000013976.84939.55.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. T., Weissberg, R. P., O’Brien, M. U., Zins, J. E., Fredericks, L., Resnik, H., & Elias, M. J. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58, 466–474.
+Article
+  PubMed
+  Google Scholar
+  Hoagwood, K., Burns, B., Kiser, L., Ringeisen, H., & Schoenwald, S. (2001). Evidence-based practice in child and adolescent mental health services. Psychiatric Services, 52(9), 1179–1189. doi:10.1176/appi.ps.52.9.1179.
+Article
+  PubMed
+  Google Scholar
+  Hoagwood, K., Olin, S., Kerker, B., Kratochwill, T., Crowe, M., & Saka, N. (2007). Empirically-base school interventions targeted at academic and mental health functioning. Journal of Emotional and Behavioral Disorder, 15(2), 66–92.
+Article
+  Google Scholar
+  Jaycox, L. H., Kataoka, S. H., Stein, B. D., Wong, M., & Langley, A. (2005). Responding to the needs of the community: A stepped care approach to implementing trauma-focused interventions in schools. Report on Emotional and Behavioral Disorders in Youth, 5(85–88), 100–103.
+Google Scholar
+  Kataoka, S., Rowan, B., & Hoagwood, K. (2009). Bridging the divide: In search of common ground in mental health and education research and policy. Psychiatric Services, 60(11), 1510–1515.
+Article
+  PubMed
+  Google Scholar
+  Ko, S., Kassam-Adams, N., Wilson, C., Ford, J., Berkowitz, S., & Wong, M. (2008). Creating trauma-informed systems: Child welfare, education, first responders, health care, juvenile justice. Professional Psychology: Research and Practice, 39(4), 396–404.
+Article
+  Google Scholar
+  La Greca, A., & Silverman, W. (2009). Treatment and prevention of posttraumatic stress reactions in children and adolescents exposed to disasters and terrorism: What is the evidence? Child Development Perspectives, 3(1), 4–10. doi:10.1111/j.1750-8606.2008.00069.x.
+Article
+  Google Scholar
+  La Greca, A. M., Silverman, W. K., Lai, B., & Jaccard, J. (2010). Hurricane-related exposure experiences and stressors, other life events, and social support: Concurrent and prospective impact on children’s persistent posttraumatic stress symptoms. Journal of Consulting and Clinical Psychology, 78(6), 794.
+Article
+  PubMed
+  Google Scholar
+  Lofland, J., & Lofland, L. H. (1995). Analysing social settings: A guide to qualitative observation and analysis (3rd ed.). Belmont, CA: Wadsworth.
+Google Scholar
+  Malekoff, A. (2008). Transforming trauma and empowering children and adolescents in the aftermath of disaster through group work. Social Work with Groups, 31(1), 29–52. doi:10.1300/J009v31n01_04.
+Article
+  Google Scholar
+  Masten, A., & Obradovic, J. (2006). Competence and resilience in development. Annals of the New York Academy of Sciences, 1094(1), 13–27. doi:10.1196/annals.1376.003.
+Article
+  PubMed
+  Google Scholar
+  McCubbin, H. I., Thompson, A. I., & McCubbin, M. A. (1996). Family assessment: Resiliency, coping and adaptation—Inventories for research and practice. Wisconsin: University of Wisconsin Publishers.
+Google Scholar
+  McDermott, B. M., & Palmer, L. J. (2002). Postdisaster emotional distress, depression and event-related variables: Findings across child and adolescent developmental stages. Australian and New Zealand Journal of Psychiatry, 36(6), 754–761. doi:10.1046/j.1440-1614.2002.01090.x.
+Article
+  PubMed
+  Google Scholar
+  McHugh, M. L. (2012). Interrater reliability: The kappa statistic. Biochemia Medica, 22(3), 276–282.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Moore, K. W., & Varela, R. E. (2010). Correlates of long-term posttraumatic stress symptoms in children following Hurricane Katrina. Child Psychiatry and Human Development, 41(2), 239–250.
+Article
+  PubMed
+  Google Scholar
+  Mulvihill, D. (2005). The health impact of childhood trauma: An interdisciplinary review, 1997-2003. Issues in Comprehensive Pediatric Nursing, 28(2), 115–136. doi:10.1080/01460860590950890.
+Article
+  PubMed
+  Google Scholar
+  Nastasi, B., Overstreet, S., & Summerville, M. (2011). School-based mental health services in post-disaster contexts: A public health framework. School Psychology International, 32, 533–552.
+Article
+  Google Scholar
+  National Commission on Children in Disasters. (2010). 2010 Report to the president and congress. AHRQ Publication No. 10-M037. Rockville, MD: Agency for Healthcare Research and Quality.
+National Weather Service Weather Forecast Office. (2014). The tornado outbreak of May 20, 2013. Retrieved from http://www.srh.noaa.gov/oun/?n=events-20130520.
+Neria, Y., Nandi, A., & Galea, S. (2008). Post-traumatic stress disorder following disasters: A systematic review. Psychological Medicine, 38(4), 467–480.
+Article
+  PubMed
+  Google Scholar
+  Osofsky, H. J., Osofsky, J. D., Kronenberg, M., Brennan, A., & Hansel, T. C. (2009). Posttraumatic stress symptoms in children after Hurricane Katrina: Predicting the need for mental health services. American Journal of Orthopsychiatry, 79(2), 212.
+Article
+  PubMed
+  Google Scholar
+  Pfefferbaum, B., Varma, V., Nitiéma, P., & Newman, E. (2014). Universal preventive interventions for children in the context of disasters and terrorism. Child and Adolescent Psychiatric Clinics of North America, 23(2), 363–382.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Powell, T. (2011). The Journey of Hope curricula: Building resilience after a natural disaster. Christchurch: Save the Children.
+Google Scholar
+  Powell, T., & Blanchet-Cohen, N. (2014). The journey of hope: A group work intervention for children who have experienced a collective trauma. Social Work with Groups, 37(4), 297–313. doi:10.1080/01609513.2013.873884.
+Article
+  Google Scholar
+  Powell, T., & Holleran-Steiker, L. K. (2015). Supporting children after a disaster: A case study of a psychosocial school-based intervention. Clinical Social Work Journal. doi:10.1007/s10615-015-0557-y.
+Powell, T., & Leytham, S. (2014). Building resilience after a natural disaster: An evaluation of a parental psychosocial curriculum. Australian Social Work, 67(2), 285–296.
+Article
+  Google Scholar
+  Powell, T., & Thompson, S. J. (2014). Enhancing coping and supporting protective factors after a disaster: Findings from a quasi-experimental study. Research on Social Work Practice,. doi:10.1177/1049731514559422.
+PubMed Central
+  PubMed
+  Google Scholar
+  Proctor, L., Fauchier, A., Oliver, P., Ramos, M. C., Rios, M. A., & Margolin, G. (2007). Family context and young children’s responses to earthquake. Journal of Child Psychology and Psychiatry, 48, 941–949. doi:10.1111/j.1469-7610.2007.01771.x.
+Article
+  PubMed
+  Google Scholar
+  Roberts, Y. H., Witman, M., Mitchell, M. J., & Taffaro, C. (2010). Mental health symptoms in youth affected by Hurricane Katrina. Professional Psychology: Research & Practice, 41(1), 10–18. doi:10.1037/a0018339.
+Article
+  Google Scholar
+  Salloum, A., Garside, L. W., Irwin, C. L., Anderson, A. D., & Francois, A. H. (2009). Grief and trauma group therapy for children after Hurricane Katrina. Social Work with Groups, 32(1/2), 64–79.
+Article
+  Google Scholar
+  Salloum, A., & Overstreet, S. (2012). Grief and trauma intervention for children after disaster: Exploring coping skills versus trauma narration. Behaviour Research and Therapy, 50(3), 169–179. doi:10.1016/j.brat.2012.01.001.
+Article
+  PubMed
+  Google Scholar
+  Save the Children. (2009). The elementary Journey of Hope manual. Washington, DC: Author.
+Google Scholar
+  Schwarzer, R., & Jerusalem, M. (1995). Generalized Self-Efficacy Scale. In J. Weinman, S. Wright, & M. Johnston (Eds.), Measures in health psychology: A user’s portfolio. Causal and control beliefs (pp. 35–37). Windsor, UK: NFER-NELSON.
+Google Scholar
+  Silverman, W. K., Ortiz, C. D., Viswesvaran, C., Burns, B. J., Kolko, D. J., Putnam, F. W., & Amaya-Jackson, L. (2008). Evidence-based psychosocial treatments for children and adolescents exposed to traumatic events. Journal of Clinical Child & Adolescent Psychology, 37(1), 156–183.
+Article
+  Google Scholar
+  Stathis, S., Letters, P., Doolan, I., Fleming, R., Heath, K., Arnett, A., & Cory, S. (2008). Use of the Massachusetts youth screening instrument to assess mental health problems in young people within an Australian youth detention centre. Journal of Paediatrics and Child Health, 44(7), 438–443. doi:10.1111/j.1440-1754.2008.01324.x.
+Article
+  PubMed
+  Google Scholar
+  Stein, B., Stein, L., Jaycox, S., Kataoka, M., Wong, W., Tu, M., et al. (2003). A mental health intervention for schoolchildren exposed to violence. JAMA: The Journal of the American Medical Association, 290(5), 603. doi:10.1001/jama.290.5.603.
+Article
+  PubMed
+  Google Scholar
+  Steinberg, A. M., Brymer, M. J., Decker, K. B., & Pynoos, R. S. (2004). The University of California at Los Angeles post-traumatic stress disorder reaction index. Current Psychiatry Reports, 6(2), 96–100.
+Article
+  PubMed
+  Google Scholar
+  Stevenson, F., & Zimmerman, M. (2005). Adolescent resilience: A framework for understanding healthy development in the face of risk. Annual Review of Public Health, 26, 399–419. doi:10.1146/annurev.publhealth.26.021304.144357.
+Article
+  Google Scholar
+  Strauss, A. L. (1987). Qualitative analysis for social scientists. Cambridge University Press.
+Substance Abuse and Mental Health Services Administration. (2014). SAMHSA’s concept of trauma and guidance for a trauma-informed approach. HHS Publication No. (SMA) 14-4884. Rockville, MD.
+Teicher, M. H., Andersen, S. L., Polcari, A., Anderson, C. M., & Navalta, C. P. (2002). Developmental neurobiology of childhood stress and trauma. Psychiatric Clinics of North American, 25, 397–426.
+Article
+  Google Scholar
+  van der Kolk, B. A. (2005). Developmental trauma disorder: Toward a rational diagnosis for children with complex trauma histories. Psychiatric Annals, 35, 401–408.
+Google Scholar
+  Wadsworth, M., Santiago, C., & Einhorn, L. (2009). Coping with displacement from Hurricane Katrina: Predictors of one-year post-traumatic stress and depression symptom trajectories. Anxiety, Stress, & Coping, 22(4), 413–432.
+Article
+  Google Scholar
+  Weist, M. D., Rubin, M., Moore, E., Adelsheim, S., & Wrobel, G. (2007). Mental health screening in schools. Journal of School Health, 77(2), 53–58.
+Article
+  PubMed
+  Google Scholar
+  Weisz, J. R., Sandler, I. N., Durlak, J. A., & Anton, B. S. (2005). Promoting and protecting youth mental health through evidence-based prevention and treatment. American Psychologist, 60, 628.
+Article
+  PubMed
+  Google Scholar
+  Download references
+
+References
+
+Arthur, M., Hawkins, D., Pollard, J., Catalano, R., & Baglioni, A. (2002). Measuring risk and protective factors for use, delinquency, and other adolescent problem behaviors. Evaluation Review, 26(6), 575–601. doi:10.1177/0193841x0202600601.
+PubMed
+  Google Scholar
+  Atkins, M., Hoagwood, K., Kutash, K., & Seidman, E. (2010). Toward the integration of education and mental health in schools. Administration and Policy in Mental Health and Mental Health Services Research, 37, 40–47.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Blanchet-Cohen, N., & Nelems, R. (2009). Journey of Hope (JoH) curriculum: Building children’s and communities’ resilience. Victoria: International Institute for Childs Rights and Development (IICRD).
+Google Scholar
+  Blanchet-Cohen, Natasha, & Nelems, Rebeccah. (2013). A child-centered evaluation of a psychosocial program: Promoting children’s healing, safety and well-being in post-disaster contexts. Children, Youth and Environments, 23(1), 23–42.
+Article
+  Google Scholar
+  Borum, R. (2003). Managing at-risk juvenile offenders in the community. Journal of Contemporary Criminal Justice, 19(1), 114.
+Article
+  Google Scholar
+  Chemtob, C., Nakashima, J., & Hamada, R. (2006). Psychosocial interventions for post-disaster trauma symptoms in elementary school children: A controlled community field study. Pediatrics and Adolescent Medicine, 156(3), 211–216.
+Article
+  Google Scholar
+  Drury, S. S., Scheeringa, M. S., & Zeanah, C. H. (2008). The traumatic impact of Hurricane Katrina on children in New Orleans. Child and Adolescent Psychiatric Clinics of North America, 17(3), 685–702.
+Article
+  Google Scholar
+  Evans, L., & Oehler-Stinnett, J. (2006). Children and natural disasters a primer for school psychologists. School Psychology International, 27(1), 33–55.
+Article
+  Google Scholar
+  Ganeshan, S., & Diamond, W. (2009). Forecasting the numbers of people affected annually by natural disasters up to 2015. England: Oxfam.
+Google Scholar
+  Garrett, W. S., Lord, G. M., Punit, S., Lugo-Villarino, G., Mazmanian, S., Ito, S., et al. (2007). Communicable ulcerative colitis induced by T-bet deficiency in the innate immune system. Cell, 131(1), 33–45. doi:10.1016/j.cell.2007.08.017.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Gewirtz, A., Forgatch, M., & Wieling, E. (2008). Parenting practices as potential mechanisms for child adjustment following mass trauma. Journal of Marital & Family Therapy, 34(2), 177–192. doi:10.1111/j.1752-0606.2008.00063.x.
+Article
+  Google Scholar
+  Goodman, R. (2001). Psychometric properties of the Strengths and Difficulties Questionnaire. Journal of the American Academy of Child and Adolescent Psychiatry, 40, 1337–1345.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. (2004). Current and future challenges in school-based prevention: The researcher perspective. Prevention Science, 5(1), 5–13. doi:10.1023/b:prev.0000013976.84939.55.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. T., Weissberg, R. P., O’Brien, M. U., Zins, J. E., Fredericks, L., Resnik, H., & Elias, M. J. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58, 466–474.
+Article
+  PubMed
+  Google Scholar
+  Hoagwood, K., Burns, B., Kiser, L., Ringeisen, H., & Schoenwald, S. (2001). Evidence-based practice in child and adolescent mental health services. Psychiatric Services, 52(9), 1179–1189. doi:10.1176/appi.ps.52.9.1179.
+Article
+  PubMed
+  Google Scholar
+  Hoagwood, K., Olin, S., Kerker, B., Kratochwill, T., Crowe, M., & Saka, N. (2007). Empirically-base school interventions targeted at academic and mental health functioning. Journal of Emotional and Behavioral Disorder, 15(2), 66–92.
+Article
+  Google Scholar
+  Jaycox, L. H., Kataoka, S. H., Stein, B. D., Wong, M., & Langley, A. (2005). Responding to the needs of the community: A stepped care approach to implementing trauma-focused interventions in schools. Report on Emotional and Behavioral Disorders in Youth, 5(85–88), 100–103.
+Google Scholar
+  Kataoka, S., Rowan, B., & Hoagwood, K. (2009). Bridging the divide: In search of common ground in mental health and education research and policy. Psychiatric Services, 60(11), 1510–1515.
+Article
+  PubMed
+  Google Scholar
+  Ko, S., Kassam-Adams, N., Wilson, C., Ford, J., Berkowitz, S., & Wong, M. (2008). Creating trauma-informed systems: Child welfare, education, first responders, health care, juvenile justice. Professional Psychology: Research and Practice, 39(4), 396–404.
+Article
+  Google Scholar
+  La Greca, A., & Silverman, W. (2009). Treatment and prevention of posttraumatic stress reactions in children and adolescents exposed to disasters and terrorism: What is the evidence? Child Development Perspectives, 3(1), 4–10. doi:10.1111/j.1750-8606.2008.00069.x.
+Article
+  Google Scholar
+  La Greca, A. M., Silverman, W. K., Lai, B., & Jaccard, J. (2010). Hurricane-related exposure experiences and stressors, other life events, and social support: Concurrent and prospective impact on children’s persistent posttraumatic stress symptoms. Journal of Consulting and Clinical Psychology, 78(6), 794.
+Article
+  PubMed
+  Google Scholar
+  Lofland, J., & Lofland, L. H. (1995). Analysing social settings: A guide to qualitative observation and analysis (3rd ed.). Belmont, CA: Wadsworth.
+Google Scholar
+  Malekoff, A. (2008). Transforming trauma and empowering children and adolescents in the aftermath of disaster through group work. Social Work with Groups, 31(1), 29–52. doi:10.1300/J009v31n01_04.
+Article
+  Google Scholar
+  Masten, A., & Obradovic, J. (2006). Competence and resilience in development. Annals of the New York Academy of Sciences, 1094(1), 13–27. doi:10.1196/annals.1376.003.
+Article
+  PubMed
+  Google Scholar
+  McCubbin, H. I., Thompson, A. I., & McCubbin, M. A. (1996). Family assessment: Resiliency, coping and adaptation—Inventories for research and practice. Wisconsin: University of Wisconsin Publishers.
+Google Scholar
+  McDermott, B. M., & Palmer, L. J. (2002). Postdisaster emotional distress, depression and event-related variables: Findings across child and adolescent developmental stages. Australian and New Zealand Journal of Psychiatry, 36(6), 754–761. doi:10.1046/j.1440-1614.2002.01090.x.
+Article
+  PubMed
+  Google Scholar
+  McHugh, M. L. (2012). Interrater reliability: The kappa statistic. Biochemia Medica, 22(3), 276–282.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Moore, K. W., & Varela, R. E. (2010). Correlates of long-term posttraumatic stress symptoms in children following Hurricane Katrina. Child Psychiatry and Human Development, 41(2), 239–250.
+Article
+  PubMed
+  Google Scholar
+  Mulvihill, D. (2005). The health impact of childhood trauma: An interdisciplinary review, 1997-2003. Issues in Comprehensive Pediatric Nursing, 28(2), 115–136. doi:10.1080/01460860590950890.
+Article
+  PubMed
+  Google Scholar
+  Nastasi, B., Overstreet, S., & Summerville, M. (2011). School-based mental health services in post-disaster contexts: A public health framework. School Psychology International, 32, 533–552.
+Article
+  Google Scholar
+  National Commission on Children in Disasters. (2010). 2010 Report to the president and congress. AHRQ Publication No. 10-M037. Rockville, MD: Agency for Healthcare Research and Quality.
+National Weather Service Weather Forecast Office. (2014). The tornado outbreak of May 20, 2013. Retrieved from http://www.srh.noaa.gov/oun/?n=events-20130520.
+Neria, Y., Nandi, A., & Galea, S. (2008). Post-traumatic stress disorder following disasters: A systematic review. Psychological Medicine, 38(4), 467–480.
+Article
+  PubMed
+  Google Scholar
+  Osofsky, H. J., Osofsky, J. D., Kronenberg, M., Brennan, A., & Hansel, T. C. (2009). Posttraumatic stress symptoms in children after Hurricane Katrina: Predicting the need for mental health services. American Journal of Orthopsychiatry, 79(2), 212.
+Article
+  PubMed
+  Google Scholar
+  Pfefferbaum, B., Varma, V., Nitiéma, P., & Newman, E. (2014). Universal preventive interventions for children in the context of disasters and terrorism. Child and Adolescent Psychiatric Clinics of North America, 23(2), 363–382.
+Article
+  PubMed Central
+  PubMed
+  Google Scholar
+  Powell, T. (2011). The Journey of Hope curricula: Building resilience after a natural disaster. Christchurch: Save the Children.
+Google Scholar
+  Powell, T., & Blanchet-Cohen, N. (2014). The journey of hope: A group work intervention for children who have experienced a collective trauma. Social Work with Groups, 37(4), 297–313. doi:10.1080/01609513.2013.873884.
+Article
+  Google Scholar
+  Powell, T., & Holleran-Steiker, L. K. (2015). Supporting children after a disaster: A case study of a psychosocial school-based intervention. Clinical Social Work Journal. doi:10.1007/s10615-015-0557-y.
+Powell, T., & Leytham, S. (2014). Building resilience after a natural disaster: An evaluation of a parental psychosocial curriculum. Australian Social Work, 67(2), 285–296.
+Article
+  Google Scholar
+  Powell, T., & Thompson, S. J. (2014). Enhancing coping and supporting protective factors after a disaster: Findings from a quasi-experimental study. Research on Social Work Practice,. doi:10.1177/1049731514559422.
+PubMed Central
+  PubMed
+  Google Scholar
+  Proctor, L., Fauchier, A., Oliver, P., Ramos, M. C., Rios, M. A., & Margolin, G. (2007). Family context and young children’s responses to earthquake. Journal of Child Psychology and Psychiatry, 48, 941–949. doi:10.1111/j.1469-7610.2007.01771.x.
+Article
+  PubMed
+  Google Scholar
+  Roberts, Y. H., Witman, M., Mitchell, M. J., & Taffaro, C. (2010). Mental health symptoms in youth affected by Hurricane Katrina. Professional Psychology: Research & Practice, 41(1), 10–18. doi:10.1037/a0018339.
+Article
+  Google Scholar
+  Salloum, A., Garside, L. W., Irwin, C. L., Anderson, A. D., & Francois, A. H. (2009). Grief and trauma group therapy for children after Hurricane Katrina. Social Work with Groups, 32(1/2), 64–79.
+Article
+  Google Scholar
+  Salloum, A., & Overstreet, S. (2012). Grief and trauma intervention for children after disaster: Exploring coping skills versus trauma narration. Behaviour Research and Therapy, 50(3), 169–179. doi:10.1016/j.brat.2012.01.001.
+Article
+  PubMed
+  Google Scholar
+  Save the Children. (2009). The elementary Journey of Hope manual. Washington, DC: Author.
+Google Scholar
+  Schwarzer, R., & Jerusalem, M. (1995). Generalized Self-Efficacy Scale. In J. Weinman, S. Wright, & M. Johnston (Eds.), Measures in health psychology: A user’s portfolio. Causal and control beliefs (pp. 35–37). Windsor, UK: NFER-NELSON.
+Google Scholar
+  Silverman, W. K., Ortiz, C. D., Viswesvaran, C., Burns, B. J., Kolko, D. J., Putnam, F. W., & Amaya-Jackson, L. (2008). Evidence-based psychosocial treatments for children and adolescents exposed to traumatic events. Journal of Clinical Child & Adolescent Psychology, 37(1), 156–183.
+Article
+  Google Scholar
+  Stathis, S., Letters, P., Doolan, I., Fleming, R., Heath, K., Arnett, A., & Cory, S. (2008). Use of the Massachusetts youth screening instrument to assess mental health problems in young people within an Australian youth detention centre. Journal of Paediatrics and Child Health, 44(7), 438–443. doi:10.1111/j.1440-1754.2008.01324.x.
+Article
+  PubMed
+  Google Scholar
+  Stein, B., Stein, L., Jaycox, S., Kataoka, M., Wong, W., Tu, M., et al. (2003). A mental health intervention for schoolchildren exposed to violence. JAMA: The Journal of the American Medical Association, 290(5), 603. doi:10.1001/jama.290.5.603.
+Article
+  PubMed
+  Google Scholar
+  Steinberg, A. M., Brymer, M. J., Decker, K. B., & Pynoos, R. S. (2004). The University of California at Los Angeles post-traumatic stress disorder reaction index. Current Psychiatry Reports, 6(2), 96–100.
+Article
+  PubMed
+  Google Scholar
+  Stevenson, F., & Zimmerman, M. (2005). Adolescent resilience: A framework for understanding healthy development in the face of risk. Annual Review of Public Health, 26, 399–419. doi:10.1146/annurev.publhealth.26.021304.144357.
+Article
+  Google Scholar
+  Strauss, A. L. (1987). Qualitative analysis for social scientists. Cambridge University Press.
+Substance Abuse and Mental Health Services Administration. (2014). SAMHSA’s concept of trauma and guidance for a trauma-informed approach. HHS Publication No. (SMA) 14-4884. Rockville, MD.
+Teicher, M. H., Andersen, S. L., Polcari, A., Anderson, C. M., & Navalta, C. P. (2002). Developmental neurobiology of childhood stress and trauma. Psychiatric Clinics of North American, 25, 397–426.
+Article
+  Google Scholar
+  van der Kolk, B. A. (2005). Developmental trauma disorder: Toward a rational diagnosis for children with complex trauma histories. Psychiatric Annals, 35, 401–408.
+Google Scholar
+  Wadsworth, M., Santiago, C., & Einhorn, L. (2009). Coping with displacement from Hurricane Katrina: Predictors of one-year post-traumatic stress and depression symptom trajectories. Anxiety, Stress, & Coping, 22(4), 413–432.
+Article
+  Google Scholar
+  Weist, M. D., Rubin, M., Moore, E., Adelsheim, S., & Wrobel, G. (2007). Mental health screening in schools. Journal of School Health, 77(2), 53–58.
+Article
+  PubMed
+  Google Scholar
+  Weisz, J. R., Sandler, I. N., Durlak, J. A., & Anton, B. S. (2005). Promoting and protecting youth mental health through evidence-based prevention and treatment. American Psychologist, 60, 628.
+Article
+  PubMed
+  Google Scholar
+  Download references
+
+Author information
+Authors and Affiliations
+School of Social Work, University of Illinois at Urbana-Champaign, 1010 West Nevada Street, Urbana, IL, 61801, USA
+Tara M. Powell & Tuyen Bui
+Corresponding author
+Correspondence to Tara M. Powell.
+
+Author information
+
+Authors and Affiliations
+School of Social Work, University of Illinois at Urbana-Champaign, 1010 West Nevada Street, Urbana, IL, 61801, USA
+Tara M. Powell & Tuyen Bui
+Corresponding author
+Correspondence to Tara M. Powell.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Powell, T.M., Bui, T. Supporting Social and Emotional Skills After a Disaster: Findings from a Mixed Methods Study. School Mental Health 8, 106–119 (2016). https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s12310-016-9180-5
+Download citation
+Published
+05 February 2016
+Issue Date
+March 2016
+DOI
+https://doi.org/10.1007/s12310-016-9180-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Social emotional
+School
+Trauma
+Coping
+
+About this article
+
+Cite this article
+Powell, T.M., Bui, T. Supporting Social and Emotional Skills After a Disaster: Findings from a Mixed Methods Study. School Mental Health 8, 106–119 (2016). https://doi-org.utrechtuniversity.idm.oclc.org/10.1007/s12310-016-9180-5
+Download citation
+Published
+05 February 2016
+Issue Date
+March 2016
+DOI
+https://doi.org/10.1007/s12310-016-9180-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Social emotional
+School
+Trauma
+Coping

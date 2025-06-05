@@ -1,0 +1,536 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Education + Training
+
+ISSN: 0040-0912
+
+Article publication date: 15 April 2022
+
+Issue publication date: 20 April 2022
+
+The paper seeks to disclose the features and implications of the neoliberal VET and employment policy agendas for the social and institutional VET ecosystems and the integration of at-risk youth in the labour market in the Baltic countries.
+
+The research is based on the comparative policy analysis approach with reference to the theories of social and skill formation ecosystems and the historical institutionalism perspective.
+
+The research has revealed three interconnected and alternately/simultaneously applied development pathways in the skill formation and vocational education of at-risk youth in the Baltic countries: (1) the market-oriented approach based on fostering immediate employability based on the momentary skills needs in the economy; (2) the state-assistance approach based on ensuring equal access to the VET and employment services by the state and (3) the approach of systemic support to socially disadvantaged or at-risk young people in developing their capabilities.
+
+The originality of the paper lies in a new, holistic and comparative perspective in analysing the implications of the “Baltic neoliberalism” for the development of skill formation systems, VET and employment of at-risk youth in this region.
+
+Tūtlys, V., Buligina, I., Dzelme, J., Gedvilienė, G., Loogma, K., Sloka, B., Tikkanen, T.I., Tora, G., Vaitkutė, L., Valjataga, T. and Ümarik, M. (2022), "VET ecosystems and labour market integration of at-risk youth in the Baltic countries: implications of Baltic neoliberalism", Education + Training, Vol. 64 No. 2, pp. 190-213. https://doi-org.utrechtuniversity.idm.oclc.org/10.1108/ET-09-2021-0349
+
+Emerald Publishing Limited
+
+Copyright © 2022, Vidmantas Tūtlys, Ilze Buligina, Juris Dzelme, Genutė Gedvilienė, Krista Loogma, Biruta Sloka, Tarja Irene Tikkanen, Ginta Tora, Lina Vaitkutė, Terje Valjataga and Meril Ümarik
+
+Published by Emerald Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcode
+
+The skill formation institutions of the Baltic countries are defined as an emerging neoliberal model of skill formation originating from the post-Communist transition. As a result, one may expect that the institutional and methodological approaches to the vocational training and employment of at-risk youth here would be determined by prioritising human resource management interests of companies and relying on the operation of market forces in the employment relations. However, these phenomena are also largely shaped and influenced by social and institutional development factors, as well as by specificities of the national policies on skill formation.
+
+The aim of this paper is to explore the development of social and institutional VET ecosystems and the labour market integration of at-risk youth in Estonia, Latvia and Lithuania since the EU accession in 2004, seeking to disclose the features and implications of the neoliberal policy agendas in these fields. The EU accession of the Baltic countries was an important critical juncture in the institutional development of skill formation and VET. It facilitated significant transformation of the VET and labour market policies and practices, and introduced crucial changes in the VET and employment policies targeted at at-risk youth.
+
+The following research question guides our analysis: What are the key features of the development pathways of the skill formation and vocational education of at-risk youth in the Baltic countries? Our points of departure are the policy priorities, ideological background, engagement of actors and implications for the targeted groups of at-risk youth. Our analysis will highlight the extent to which these pathways are common and/or country-specific for the three Baltic countries: Estonia, Latvia and Lithuania.
+
+Drawing from the insights of socio-ecological theories (Bronfrenbrenner, 1974), the concept of skill ecosystems (Buchanan et al., 2017) and historical institutionalism (Fioretos et al., 2016) we argue that skill formation and vocational education of at-risk youth in the Baltic countries are shaped not only by the market-oriented neoliberal agendas of institutional and socio-economic development defined by the post-Communist transition, but also by the fragmented efforts to establish systemic, accessible and sustainable pathways of vocational education and skill formation as a part of the modern welfare state.
+
+The timeline of this research is framed by the one of the key critical junctures in skill formation – the EU accession of the Baltic countries in 2004. The choice of these countries for the study is defined by their similar recent history, the same geographical and cultural region that shares similar characteristics and critical junctures of the institutional development of their VET and skill formation systems, such as the legacy of the Soviet Union and Communist rule, post-Communist transition and integration in the EU.
+
+In Section 1, we provide an overview of the theoretical framework and describe the research methodology. Subsequently, the paper provides an analysis of the common features and development trends in skill formation, vocational education and labour market institutions involved in the training and employment of the at-risk youth in the Baltic countries and the in-depth analysis of the country specific development in this field. Based on the findings of this analysis, the discussion and conclusion part of the paper contains a comparison of the development pathways in the skill formation and vocational education of at-risk youth in the Baltic countries with reference to the policy priorities, ideological background, engagement of actors and implications.
+
+The theoretical framework of this research is based on the theoretical skill ecosystem approaches, the view of historical institutionalism on institutional change and the VET institutional development typologies identified by the Cedefop's study on the VET development in Europe (2020). Buchanan et al. (2017) distinguish six key dimensions of skill ecosystems: (1) local actors of the skill ecosystem – learners, employees and employers (enterprises); (2) distinct organizational forms of skill use (deployment) at the level of enterprise, sector and region; (3) partnerships between the agents involved in skill formation and usage – social dialogue and trust building at the local, sectoral and regional levels; (4) engagement of the civil society in skill formation and development; (5) institutional settings for skill formation at national/international levels, such as governance, provision and quality assurance institutions, qualification systems, funding arrangements and skills intelligence and (6) skill policies targeted at the stipulation of skill demand and supply (general education, VET, HE, adult education and lifelong learning), labour market/employment policies and industrial policies targeted at quality of employment. Skill ecosystems are dynamically changing entities subject to the implications of different critical junctures and the resulting development pathways. Institutional change of skill ecosystems can also define the implications of these ecosystems for the integration of at-risk youth in the vocational and labour market by shaping specific institutional preconditions, arrangements, interests and capacities of actors and institutions of the VET systems in regard to vocational training and employment of at-risk youth. Bronfrenbrenner's social ecology system (1974) defines the segments of the social ecosystem which shape a mature personality. Lörinc et al. (2020) claim that the problems of the integration of at-risk youth (such as young people not in education, employment and training – NEETs) in the education system and labour market should be viewed from the perspective of the Bronfrenbrenner's social ecology system in order to perceive them holistically and to find sustainable solutions. By comparing the theoretical frameworks described above we can distinguish the key dimensions of the social ecosystem related to skill formation of at-risk youth (Table 1).
+
+Based on this theoretical approach, the processes of integration of at-risk youth in the VET and labour market are largely shaped by the interactions between the chronosystem (institutional change of skill formation and emerging VET institutional development scenarios), the macrosystem (national skill formation policies and related political-economic approaches to the social and labour market integration of at-risk youth) and the dimensions of skill formation of at-risk youth related to the practices of training providers, social partners and at-risk young people. With reference to the aim and subject of this research, we explore how the institutional development of skill formation and the political-economic orientations of skill formation and VET in the Baltic countries have shaped the features of the vocational and labour market integration of at-risk youth (Figure 1).
+
+The following research methods are applied: (1) content analysis of the policy documents concerning VET, skill formation, employment, VET-related policies and measures for at-risk youth in the Baltic countries which revealed policy priorities and ideological orientations; (2) the analysis of the statistical data from the international (EU) databases (EU statistics on income and living conditions [EU-SILC] survey) and the national statistics which helped to provide the evidence regarding the status of at-risk youth, the scope of policy interventions targeted at this group and impact indicators of the VET and employment measures for at-risk youth and (3) meta-analysis of the findings of the available (secondary) research in the field of vocational training and employment of at-risk youth groups in the Baltic countries helped to provide some evidence on the implications of analysed policies for the VET and employment practices and outcomes.
+
+The skill formation systems of the Baltic countries emerged and developed in the context of post-Communist neoliberal institutional change characterised by the establishment of the market economy and democratic society. This has had multiple implications for the accessibility of skill formation and its capacities to deal with social exclusion and socially excluded groups. The development of the skill formation systems of the Baltic countries had a common point of departure – the collapse of the Communist system and its skill formation model characterised by the centralized planning and total governmental control of skill formation, its subjugation to the skills needed by state-owned companies and planned economy and equal access to education and skill formation ensured by the state (O'Dell, 1988; Soltys, 1997). In this system, the primary role of VET was training of the skilled workforce for a centralized economy based on state-ownership, whereas the responsibility for integration of at-risk youth was shared by different education sectors and was considered as a secondary issue of coping with the social deviations by presuming that education and social welfare were provided by the state for every citizen (Saniter and Tūtlys, 2016). A good example of such an attitude was the functioning of specialised educational institutions for children disadvantaged due to their family situation – schools for orphans and children whose parents were deprived of their parental rights due to social deviations.
+
+The collapse of the Communist system and subsequent transition to the market economy radically changed skill formation, VET and attitudes towards vocational and labour market integration of at-risk youth.
+
+Martinaitis (2010) claims that during the period of post-Communist reforms in skill formation the Baltic countries moved away from industry-specific skills to more general skills, which fitted better with the liberal pathway of institutional development and a weak social dialogue. The relationship between employers and the VET systems in the CEE countries was ruptured by privatization and restructuring (Kogan, 2008; Kogan et al., 2008, 2011, 2012). With the advancement of the economic development and integration of the Baltic countries in the global economy, as well as under the influence of international institutions and donors, the neoliberal modernization narrative in the field of skill formation started to dominate over conservative and social-democratic narratives (Anioł, 2015).
+
+The decentralization of skill formation systems was accompanied by skill mismatches and structural unemployment resulting from the fast changing economic structures (growth of service-based SMEs and restructuring of the industrial sector) and supply-led strategies of education and training providers, resulting in high-rate of overqualification (Kogan, 2008; Tūtlys and Aarna, 2017).
+
+The liberalization and deregulation of employment relations and fragmentation of the social dialogue (especially demise of trade union activities) led to the development of a quasi-welfare state with government-regulated minimal labour standards, such as minimum wages and working hours (Myant, 2014).
+
+The choice of the Baltic countries to opt for radical and rapid transition to market economy by applying a shock therapy contributed to the growth of social inequalities and exclusion. Here the elements of the legacy of relatively developed and accessible education systems and social security systems from the Communist era (Piketty, 2019) played a comparatively positive but rather limited role in helping to access skills and qualifications for those disadvantaged in the transitional reforms (e.g. in establishing special training centres for the unemployed, evening courses for adults, etc.).
+
+The EU accession in 2004 and related Europeanization of skill formation had positive implications for the potential of VET to cope with social exclusion and facilitating employment and social integration of at risk youth. First of all, the VET systems in the all Baltic countries became more strongly oriented to labour market needs and employability, as well as received a significant financial and institutional support for improvement of the VET quality (investments in the infrastructure, VET curriculum design, teacher training etc.). Secondly, the EU supported structural reforms of skill formation and facilitated better integration of the lifelong learning dimension and stronger learner orientation of VET provision. This resulted in increasing the variety of VET qualifications and training programmes and thus the possibilities of reintegration in the initial and continuing VET provision for dropouts. Besides, the EU initiated different specialised projects and programmes targeted at the at-risk youth groups (e.g. Youth Guarantees). At the same time, integration in the EU and subsequent skill formation reforms during and in the aftermath of the global economic crisis strengthened the neoliberal and developmental orientations of skill formation policies by increasing the role of employers and the government and promoting work-based learning, apprenticeships and flexibility of the learning pathways. The global financial crisis of 2008–2009 increased structural unemployment, while weaknesses of the welfare state mechanisms and the fragmentation of the social dialogue created conditions for the loss of human capital because of increased emigration, especially in Lithuania and Latvia. This created significant challenges for the development and quality of VET provision (Robert et al., 2019). Optimisation of the institutional network of skill formation providers and promotion of the work-based learning and apprenticeship became the key responses to this challenge, actively supported by employers. Regional initiatives of policy learning emerged, such as Baltic Alliance for Apprenticeships, uniting policy makers, providers and social partners in the Baltic countries via common projects to develop work-based learning.
+
+Such developmental orientation of the policy makers to skill formation led to the situation, where both left and right political wings prioritized policies to promote employment, reduce emigration and optimize the output of skill formation institutions. Skill formation also became a tool protecting the socio-cultural and ethnic composition of societies against risks posed by the immigration, especially in smaller CEE countries like Estonia and Latvia. Access to high quality VET and skill formation has been regarded as a background for the welfare state action, complemented with flexible employment relations (the new Labour Code was introduced in 2017 in Lithuania) and improvement of the quality of jobs by fostering innovations and quality.
+
+One of the key challenges of the development of the initial VET systems in the Baltic countries was the tension between the mission to facilitate social integration and employment on the one hand (targeted at socially disadvantaged groups of population) and to foster the development of human capital according to the needs of economy (Kogan et al., 2012) on the other hand. Promoting the VET pathway and increasing its attractiveness for youth have proved to be a serious challenge and a political goal for education policy makers of the Baltic countries during the past 30 years. It is explained both by the stigma of VET as a dead-end pathway to career and competence development inherited from the Soviet times (at least valid for the initial stage of the post-Communist transition), as well as by the “elitist” neoliberal orientation of the education reforms favouring mainly general secondary education and higher education pathways as a key sources for development of the individual and national human capital (Loogma et al., 2019). Quite often in the eyes of citizens and young people, VET was regarded as a part of skill formation which serves the short-term interests of businesses in supplying them with cheap labour (just like in the Soviet time VET served as a supplier of narrowly skilled workforce for planned economy – Loogma et al., 2019). The domination of the school-based pathway of VET provision and weak involvement of social partners in developing VET quality further strengthened such attitudes. These attitudes started to change mainly in the aftermath of the financial crisis, when VET provision was subjected to the developmental policies and underwent important changes in the fields of qualifications, curricula, flexibility of learning pathways and strengthening of links with economic actors (Bünning, 2008). The accessibility of high quality VET for all citizens and especially for at-risk youth has been one of the key priorities of the EU supported reforms and programmes of VET development in the Baltic countries.
+
+There is little statistical comparative data indicating the implications of these developments for the socio-economic status and quality of life of at-risk youth in the Baltic countries. For example, the EU-SILC survey provides some relevant comparative statistical indicators regarding the share of the youth facing risk of poverty and social exclusion in the period of 2011–2019 (Eurostat, 2021) (see Figure 2).
+
+In all three Baltic countries, a decrease of the share of youth at risk of poverty could be noted and in 2019 the percentage of such youth became very similar in all three countries, despite significant disparities in 2011, especially between Latvia with the highest rate and Estonia with the lowest rate (Figure 3).
+
+As could be expected, the highest share of youth at risk of poverty and social exclusion in the population from 18 to 24 years was identified in the group with lower than primary, primary and lower secondary education (Figure 3). In Estonia this share was the lowest compared to other two countries, but the biggest progress in reducing this share was attained by Latvia (decreased by 25.7%, compared to 18.1% in Lithuania and 10.9% in Estonia).
+
+In the group of youth with upper secondary and post-secondary non-tertiary education, which includes the majority of VET students and graduates, Latvia succeeded better than other two countries in reducing the share of youth at risk of poverty and social exclusion in this group (by 19.7%) in the period of 2011–2019 and achieving the lowest rate among the three countries (Figure 4). The decline of the share of youth at risk of poverty or social exclusion in this group was also steady in Lithuania, whereas in Estonia there was an increase of 4% between 2015 and 2019.
+
+How can this decrease in the share of youth at risk of poverty and social exclusion in the Baltics the previous decade be explained? The list of possible factors is quite wide and includes objective contextual factors, such as the impact of economic growth and development, emigration, as well as achievements of the policy interventions in the field of education, training and employment, such as EU promoted and funded Youth Guarantees. The implications of the long-term VET reforms, such as implementation of the competence-based qualifications and modular curricula, or promotion of the work-based learning and apprenticeship for these developments are not evident so far. Understanding of the possible impact of policy interventions for the vocational and labour market integration of at-risk youth requires more detailed exploration of these interventions in each country, which is provided in subsequent parts of this section.
+
+After the EU accession, the national policies related to skill formation strongly focused on economic goals on the one hand (competitiveness of economy through investment in human capital), and on the establishment of new social welfare settings based on the human capital development on the other hand. Accessibility to education remained one of the priorities in the general (compulsory) education sector, although favouring and supporting development of private education services. In terms of VET, the key policy priority was market responsiveness to skills and qualifications attained through the implementation of the competence-based VET curricula and fostering of work-based learning. The social dimension of the VET policies and strategies focused on dealing with the regional disparities of access to skill formation between the cities and rural areas.
+
+The idea of turning VET centres into the hubs of development of the human capital in the regions and sectors of economy has been one of the central ideas in the VET policy in the past decades (the same is applicable for Estonia). It led to the optimisation of the network of VET providers by establishing regional VET centres in the late 1990s. However, the practical realisation of this idea is not systemic and the examples of its success are episodic. The example of Visaginas VET centre can be mentioned here. The centre significantly contributed to attracting foreign investment and developed long-term apprenticeship partnerships in Ignalina Region, which faced the challenges of economic restructuring after the decommissioning of the nuclear power plant in 2005. There were cases of successful contribution by VET establishments to the regional labour market and development of regional economies in some other regions, such as Alytus, Marijampolė and Šiauliai.
+
+One of the key challenges targeted by VET reforms has been a poor image and low esteem of the VET pathway in society illustrated by high rates of disadvantaged students in VET. Students who are particularly vulnerable, because they constantly face the risk of dropping out, are from single parent or poor families, especially female students (OECD, 2021).
+
+In general, VET providers faced multiple challenges in enhancing and supporting resilience of at-risk youth to the different external socio-economic shocks. The economic growth enhanced by the EU accession pushed many young people to drop their training without acquisition of proper education and qualification when they were attracted by low-skilled employment in the growing sectors of economy, like construction. During and after the global economic crisis many of these young people lost their jobs. Growing emigration and especially the cases when young people left the country without acquiring general education or vocational qualifications led to the fragmentation of their pathways of skill formation and employment instability. Also, in the aftermath of the global economic crisis, the dropping out of VET schools increased due to the striving of VET students to enter the domestic labour market or to emigrate as soon as possible. A larger share of dropouts was recorded in small VET schools (up to 300 learners). In the past three years, 19.4% of learners dropped out of small VET institutions (up to 300 learners), 18% of learners dropped out of medium VET institutions (301–1,000 learners) and 14.7% of learners dropped out of large VET institutions (LR Valstybės kontrolė, 2020).
+
+In the period between 2011 and 2020, increasingly fewer students dropped out of VET schools due to academic failure (LR Valstybės kontrolė, 2020). Most students drop out of schools due to “other reasons” (from 80 to 90% in the past decade). Poverty and low-socioeconomic status of VET students on the one hand and large supply of low-skilled and unskilled jobs in the domestic and international labour marked on the other hand are the major factors for dropping out of the initial VET (Kvalifikacijų ir profesinio mokymo plėtros centras, 2018). Enterprises also practice clandestine apprenticeship by recruiting VET students and enabling them to acquire the missing skills and competences on the job (Kvalifikacijų ir profesinio mokymo plėtros centras, 2018). Such training pathway helps to access the labour market but does not provide access to formal qualifications and credentials. This makes such young workers strongly dependent on their employers and less competitive in the external labour market.
+
+One of the key reasons for dropping out has been the socio-economic status of VET students. According to the report by the Government Strategic Analysis Centre (Vyriausybės strateginės analizės centras, 2020, p. 23), “students in VET at the lower secondary level are more often stating they are from single-parent families, their family situation is poor, they receive some kind of social support compared to the same level students in gymnasium schools. The parents of VET students are also less interested in children's achievements at school compared to the parents of students in gymnasiums.”
+
+It shows that the improvement of the VET performance in dealing with the dropout problem requires both educational interventions and significant improvement of the provision of socio-economic support to a significant part of VET students and their families.
+
+However, the policy response to the dropout problem has strongly focused on the competence-based curriculum reform, fostering of work-based learning and apprenticeship and enhancing the quality management of VET provision.
+
+The methodological approach of the implementation of the national modular VET curricula initiated in 2013 prioritises the flexibility of the VET curriculum, where a module is defined as an autonomous unit of learning, which provides a set of competencies needed for autonomous performance in the work process. This approach also follows a holistic approach to training, where modules integrate a wide range of knowledge, skills and attitudes needed for handling the work processes (Spöttl and Tūtlys, 2017). Fostering of employability of VET graduates has been an important priority. The content of modules refers to competence-based occupational standards developed with active involvement of employers.
+
+Nevertheless, the implementation of the modular VET curricula entails a risk of focusing the training on the short-term demand for skills expressed by enterprises (Tūtlys and Vaitkutė, 2021). When the design of the modular curricula is oriented only to the current skills needs of enterprises, it can lead to a very narrow specialisation or to a proliferation of narrow and partial qualifications, which does not foster long-term employability of a person. Young people from low income households also face the necessity and pressure to enter the labour market as early as possible, with the acquisition of the basic vocational skills and competencies. These circumstances often lead to drop out of VET schools with subsequent work-based learning at the workplace in the enterprises providing no recognition of acquired competencies. Together with limited and fragmented alteration of school-based and work-based learning such kind of modularisation can lead to the persisting employment insecurity of VET graduates.
+
+Looking to other possible statistical evidence of the impact of modularisation, a lower number of dropouts of VET establishments coincides with the period of the introduction of the modular VET curricula.
+
+The modularisation could have had a positive impact on the reduction of the dropout rate in the recent years, but this influence should be evaluated in the context of the major socio-economic factors, such as economic growth and the impact of the pandemic situation in 2020 (Figure 5).
+
+The implications of the implementation of the apprenticeship schemes for the VET potential to foster social and labour market integration of at-risk youth are not clear. First of all, this process is very slow and fragmented due to the lack of engagement of employers and passiveness of public VET providers. One of the possible reasons could be the preference of enterprises for the informal or clandestine apprenticeship, which is cheaper, helps to train workforce according to the needs of the employer and reduces the risk of the loss of apprentices to competitors by providing no official recognition of the acquired skills. The dominant discourse on apprenticeship, especially from the side of employers, mainly focuses on satisfying skills needs of enterprises. Considering apprenticeship as an integral part of human resource development of the enterprise to larger extent overlooks social and educational mission of apprenticeship and the issues of its accessibility (Cedefop, 2016). It also contributes to the slow development of apprenticeship, as an alternative to the school-based VET provision. According to the data of 2018–2019, the apprenticeship training was implemented only in 29 VET establishments and the share of VET students involved in the apprenticeship training ranged from 2 to 67% (Švietimo valdymo informacinė sistema, 2019). The efforts of the government to increase the access to practical and work-based training by establishing specialised sectoral-practical training centres in 2013–2016 had very limited success. A sectoral practical training centre is part of a VET institution equipped with modern equipment from one or several fields of industry. The main aim of these centres is to assure that different learners (VET and HE students, employees, unemployed, VET teachers) using the latest technologies and equipment, gain practical skills that match labour market needs. Between 2013 and 2016, 42 sectoral practical training centres were established with the goal that at least 3/5 of all students of the Lithuanian VET system would spend at least half of the VET programme implementation time in such centres (Lietuvos Respublikos Švietimo ir mokslo ministerija, 2017). However, such rate of use of these centres was hardly achieved, because in most cases the VET students attend these centres just for a few weeks.
+
+In the same time the national VET policy pays much less attention to the development of the educational-pedagogical potential of VETs, as well as to the provision of social and other support to at risk students in VET. Although the need of VET teachers with solid pedagogical qualifications and higher education degrees has been recognised by introducing such qualifications in the occupational standard of the education sector approved in 2019, there is no established institutional system for training VET teachers on the national level, leaving this task to the VET providers themselves. Public VET providers also suffer from the shortage of auxiliary pedagogical staff, including educational psychologists and social educators. Meanwhile, the concentration of the socially vulnerable youth in the VET sector exacerbates socio-psychological problems of students. The data of the survey carried out by the University of Life Sciences of Lithuania in 2019–2020 disclosed, that about 20% of the surveyed VET students from all VET establishments were thinking about suicide, 12.4% even planned suicide, about 25% attempted suicide at least once during their lifetime and a similar proportion of the participants of this survey committed self-harm, whereas the scope of sexual violence remains a grey zone (Platūkytė, 2021). These problems are highly aggravated by the difficulties in getting socio-psychological support from specialists due to the lack of attention to this sector from the policy makers and insufficient funding of such support (Platūkytė, 2021).
+
+Poor material-financial support to VET students makes many VET students to get employed in unskilled jobs in order to support themselves, leading to dropping out of the educational process without gaining a qualification (LR Valstybės kontrolė, 2020). Although VET providers provide scholarships and other material assistance to students from disadvantaged backgrounds, such as free living in a dormitory, provision of clothing and food, funds raised during charity events or promotion through lump sum payments, this support is not sufficient to reduce social exclusion and to prevent students from dropping out of the educational process due to “insufficient” funds for basic needs (LR Valstybės kontrolė, 2020).
+
+The Europeanization of VET provision enhanced opening of the public VET for lifelong learning. After the EU accession, different projects and initiatives were implemented regarding the opening and expanding of the access to continuing VET to adults by involving public VET providers in these EU funded initiatives and projects (e.g. implementation of the Youth Guarantee in 2014 or introduction of the competence vouchers for the employees of enterprises). These EU funded initiatives helped increase the accessibility of VET for at-risk youth, but their sustainability is highly dependent on the EU funding.
+
+With reference to the situation of at-risk youth and their involvement in VET, Latvia faces problems very similar to Lithuania.
+
+The at-risk or social exclusion status of youth is caused by different reasons, firstly by socio-economic disparities caused by structural unemployment and geographic inequalities in educational access. It is illustrated by the smaller share of the resilient disadvantaged young people (youth from disadvantaged backgrounds but high academic performance) in the rural schools where students were more than three times as likely to repeat a grade (OECD, 2020).
+
+Institutional development of the VET system of Latvia is characterised by the trends of decentralization of the governance and provision of VET combined with the optimisation of the institutional network and implementation of the strongly developmental VET policy in the previous decade.
+
+Although the participation in VET remains low, with less than 40% of students opting for it in 2018 compared to 48% on average across the EU, it is higher than in Lithuania and Estonia. The developmental orientation of the VET policy is manifested by the goals and ambitions to ensure equal access to high quality education on the one side, and to strengthen the links between the VET and skills needs in the labour market, on the other side.
+
+The developmental approach of the VET policy was strongly fostered by the EU accession in 2004 and subsequent reforms and investment in this sector of education were supported by the EU funds. Following the EU accession, the policy discourse on rational planning and deployment of EU funding became part of the policy agenda, whereas modern VET was increasingly seen as a key precondition for medium-level skilled workforce development.
+
+In parallel with the optimisation processes, a comprehensive VET content reform started. It gained momentum during the 2014–2020 planning period with the European Structural Fund (ESF) funded project on systemic approaches to standards and qualifications related VET content issues.
+
+An important precondition for the modernisation of VET was the development of the National Qualifications Framework (Latvian Qualification Framework, 2012), with simultaneous development of the sectoral qualifications frameworks. Together with the establishment of the Sectoral Expert Councils for all main economic sectors of the national economy it allowed for the introduction of an increasingly labour market-oriented approach in VET program development and provision. All this created preconditions for a more targeted approaches to work-based learning (WBL) – an apprenticeship type scheme in VET.
+
+Currently a network of well-equipped VET competence centres (VET institutions corresponding to excellence criteria set by the government) allows for piloting and implementing a new type of modular VET programmes in compliance with the sectoral qualifications framework in the context of lifelong learning.
+
+The main directions of the VET reform launched in 2010 were aimed at the optimisation of the network of VET providers, implementation of the competence-based VET curricula and strengthening the links of the vocational education with the work processes by introducing and fostering apprenticeship and work-based learning. The restrictions brought by the global economic crisis, population decline and other socio-demographic factors led to the optimisation of the network of VET providers which resulted in 23 highly developed public VET providers, most (19) bearing the name of VET Competence Centres.
+
+Since the late 1990s, a significant decrease in VET entrants, VET students and VET graduates has been observed in Latvia with the same tendency remaining up until 2019/2020 (Figure 6).
+
+The VET policy also seeks to solve the problems of VET quality and lack of attractiveness of this education pathway through the systemic qualifications and curriculum reform. Like in Lithuania and Estonia, this reform was implemented with the support from the ESF and was aimed at restructuring the system of qualifications and VET provision by aligning it to the skills needs of the sectors of economy. The activities of this reform launched in 2010 included the establishment of a sectoral qualifications system, analysis of qualifications and skills needs in the economic sectors, development of competence-based occupational standards and specialization qualification requirements, as well as development of a system that ensures recognition of skills acquired outside the formal education setting. Industry-specific descriptions of qualification levels (knowledge, skills and competences) were developed and referenced to levels of the Latvian Qualifications Framework and the European Qualifications Framework, as well as descriptors or qualifications were designed by including qualifications at all levels (also higher education qualifications).
+
+In early 2021, there amendments to the VET Law were proposed and approved by the Cabinet of Ministers which provide for the norms allowing learners to receive a state-recognized document not only for the acquisition of the entire vocational education programme, but also for the acquisition of certain parts of the programme (qualification). It leads to the introduction of the modular vocational education programmes at the national level. The flexible modular VET curricula are being introduced in the vocational basic education, pre-secondary vocational education, vocational secondary education, vocational continuing education and professional development programmes. These provisions strengthen the learning outcomes approach by creating the possibility of accumulating, transferring and recognizing learning outcomes. Such development of the system of qualifications shows a developmental approach to the skills formation with clear priority given to the competitiveness, whereas the social aspects and implications of the system of qualifications to the social cohesion are treated mainly as derivatives of the effective matching the supply and demand of skills and fostering employment with the help of the system of qualifications.
+
+Another good example of the developmental orientation in the implementation of skill formation reforms is promotion and development of work-based learning and apprenticeship. In 2013, a pilot project was launched by the Ministry of Education and Science of the Republic of Latvia for implementing WBL as an alternative pathway of learning in the school-based VET system. It involved revision and redesign of the VET curricula in seeking to find a compromise between the requirement to dedicate more space and time for practical training and to ensure sufficient time for teaching general education in order the VET diploma would provide access to higher education.
+
+It is difficult to estimate the implications of the introduction of WBL for the employment and social integration of at-risk young people so far, because the share of students in WBL has been relatively low (around 7% of the total number of students). At the initial stage of the implementation of apprenticeship in the school-based VET system, when the offer of the training workplaces is scarce and engagement of enterprises is moved mainly by the short-term skills needs and shortages, the gaols of social integration and employment are being compromised, especially when the higher share of WBL is held in the service sector, where the volume of low-skilled and low-quality jobs is higher. This is also one of the reasons why apprenticeship and WBL gained popularity rather slowly.
+
+The recent policy initiatives show further strengthening of the developmental neoliberal direction of the skill formation policy in Latvia. An interim evaluation of the implementation of the Education Development Guidelines 2014–2020 indicates such priority actions for the VET sector as strengthening vocational education competence centres, ensuring the quality, competitiveness and sustainability of VET, improving WBL, strengthening VET's role in preventing early school leaving and developing career guidance (Ministry of Education and Science, 2019). Latvia is also introducing a graduate tracking system that covers VET and HE. Under the ESF project called “Establishment of a system for monitoring education quality” there was ongoing work to develop a centralised VET graduate tracking system by the end of 2020. Such developmental skill formation policy brought some positive changes in the field of employment and integration of at-risk young people. Since 2014, the situation in the labour market for young people aged 15–29 has improved, as more NEETs have become economically active (Cedefop, 2019) and the number of young NEET people has decreased by 36% since 2014. However, many of such positive changes is a result of the implementation of the EU policy initiatives, especially the Youth Guarantee programme which was launched in Latvia in 2013 and included counselling, training and guidance services of wide outreach provided by the State Employment Agency (SEA). Training under this measure provided short VET programmes (1–1.5 years) targeted at the on-demand qualifications. As it is stated by the OECD (2020), in the period of 2014–2016, all (111,000) 15–29 year-olds registered as unemployed were offered and used these support measures, thus helping for 58% to find employment and to reduce the NEET rate by 0.9% per year (OECD, 2020).
+
+In 2014–2018, 146,000 NEETs in total were engaged in the Youth Guarantee programme: 137,651 NEETs participated in job search activities and 29,526 were provided with long-term training support. The State Education Quality Service (IKVD) of Latvia implemented the ESF project “Support for the Reduction of Early School Leaving” to reduce the number of learners who drop out of school, by involving 80% of municipalities and covering 665 general and vocational education institutions (SEQS, 2017). This project promoted the development of systemic and sustainable cooperation between municipalities, educational institutions, teachers, support staff and the parents or representatives of learners in order to identify learners who were at risk of dropping out in due time and provide them with personalised support. Teachers were provided with the opportunity to develop professionally and to strengthen their skills in working with learners. Methodological tools were developed within the framework of the project. In addition, a database was created to ensure regular exchange of information at the level of the state, municipality and educational institution regarding learners identified with the risk of early school leaving, the preventive measures taken and their results. The project also supported youth NGO initiatives to raise the issue of early school leaving among young people, to address learners through their peers and to engage them in activities focused on early problem diagnosis and solutions. Through local municipalities, individual support is now provided to learners who may drop out due to lack of financial resources, such as reimbursement of the cost of transportation, meals, accommodation (SEQS – IKVD, 2017).
+
+These steps are encouraging, however, the existing evidence shows, that there remains to do a lot in making VET a more attractive option for young people, including those from at-risk backgrounds, improving the quality of pedagogy and learning (e.g. by investing more in teacher training), strengthening the provision of general education in the VET system, fostering WBL in the higher added value sectors and making VET more inclusive to cope with the high rates of dropping-out. This should be achieved in parallel to strengthening the relevance of the VET curricula to labour market needs by implementing competence-based curricula and promoting WBL (Anstrate, 2020).
+
+Social exclusion and social risk in Estonia are defined by differences in the level of well-being (incl. social-economic circumstances) of individuals/families, economic development between the urban and rural areas, as well as by the inequalities in the field of education and employment along the ethnic lines. Excluding the rural areas from the benefits of economic growth due to the decrease of the agricultural production after the change of the economic structure significantly contributed to the risks of social exclusion of the part of youth (Plüschke-Altof et al., 2020; Annist, 2017). Besides, there have been rather persistent inequalities in educational and employment prospects between the youth speaking in the Estonian and Russian languages, where the segregation based on the schools' language of instruction were transferred to the unequal opportunities in the labour market, especially in the periods of economic decline or crisis (Saar and Helemäe, 2017).
+
+Like in Lithuania and in Latvia, public VET providers in Estonia have to some extent become a kind of collecting points of socially disadvantaged or at-risk young people, for example, graduates from general education schools with the Russian language of instruction more often continue their education in vocational schools as compared to graduates from schools with the Estonian language of instruction who proceed to gymnasiums (Lindemann and Saar, 2012), while in vocational education there are more technology-related specialties in the Russian language and more service-related specialties in the Estonian language (Saar and Helemäe, 2017). Estonian VET institutions also tend to vary in terms of the dropout rate. While the average dropout rate in the vocational education setting is about 20%, in the academic years from 2018 to 2021 the percentage of dropouts in different schools has varied from an average of 10% per year to 26% per year. Though the differences between educational institutions may depend on regional differences (local labour market and its needs and opportunities, etc.), considerable difference in the percentage of dropouts is also related to different capacities of educational institutions with regard to dropout prevention and provision of the required support services (Haaristo and Kirss, 2018).
+
+The VET reforms launched after the EU accession in the 2004 in Estonia marked rather significant and strong orientation of this educational field to the social development in coping with the problems of social exclusion created by neoliberal socio-economic development policies. The VET curricula reform, implemented by Action Plan 2005–2009 was considered as breakthrough development to integrate youth at risk into VET. In the course of the (national) curricula reform, new types of VET curricula were legalised enabling access to VET for many specific vulnerable groups, including young people with incomplete basic/compulsory education, NEET youth, youth with special educational needs, prisoners etc. In a broader sense, the establishment of new types of curricula marked an important change of the development path in the VET policy towards the greater social responsibility despite the dominant liberal orientation of VET to labour market needs (Toots and Loogma, 2015).
+
+The Europeanization of the education and employment sectors in Estonia, like in other CEE countries, involved significant efforts of policy makers to implement a systemic approach to the reforms of skill formation and qualifications in line with the strategic priority of the EU in fostering lifelong learning in the education systems of the Member States. It led to the introduction of the reform of the Estonian Qualifications Framework (EstQF) by introducing an 8-level framework referenced to the European Qualifications Framework for Lifelong Learning, as well as the implementation and development of competence-based occupational standards and qualifications. Lower levels of qualifications of EstQF (levels 2 and 3) were designed mainly for vulnerable groups of the initial VET students (not having basic education, students with special educational needs, etc.). The introduction of the learning-outcome based approach in VET curricula development including key competences and general subjects into the speciality modules (Rekkor et al., 2013) started in 2009 and was completed by 2013.
+
+Like in other two Baltic states, the institutional model of the initial VET during the post-Communist transition took the form of predominantly school-based VET, because the market economy actors and stakeholders were not ready to play an active role in the field of skill formation and VET. For this reason, policy makers were looking for the reasons of structural unemployment of youth in the deficiencies of school-based VET provision and sought to solve the problem by involving enterprises in VET provision more actively. In this light, the introduction of apprenticeship training in 2007 as a new form of VET can be considered as one more policy tool to integrate vulnerable youth groups into the VET and labour market. The share of apprentices in VET is rising, but still this form of VET provision is rather insignificant. In 2015, the share of apprenticeship students was 2.6% of all VET students and in 2016/2017 it increased to 5.5% (HTM, 2020).
+
+Despite the neoliberal orientation of the education policy and strong priority for the market interests in the VET reform, Estonia succeeded to establish provision of social and financial assistance for at risk VET students. Financial assistance is available for VET learners to guarantee equal access to education, regardless of their socioeconomic circumstances. There are many incentives for learners in VET as well, which might have an impact on students to avoid falling into a risk group. VET learners can apply for basic and special study allowances. Lunchtime meals are also paid by the State. In addition, VET learners are reimbursed public transport tickets between the learning venue and home. In 2003, study loans were introduced to improve access to full-time post-secondary VET and on-time graduation.
+
+As a result of the change of direction towards the more open and inclusive VET together with the implementation of 8-step EstQF, access of vulnerable groups to VET improved, which can be seen in Table 2 (OECD, 2019). The share of students entering VET without basic education has slightly increased, but still remains low. This can be explained by the increasing demand of higher level VET qualifications in the labour market.
+
+However, the more open VET has brought about a considerable multifarious pattern of learners in VET. Extensive variation of VET students, particularly teaching students with incomplete basic education and adult students simultaneously has become one of the major challenges for VET teachers in Estonia, especially in those schools where support services are not systematically and comprehensively managed (Sirk et al., 2016; Ümarik and Rekkor, 2013).
+
+One important selection mechanism, directing more vulnerable groups after compulsory education to the vocational pathway, works through the social ecology of reproduction of VET image and negative selection to the vocational pathway. The negative selection to vocational education after the end of compulsory education has historical roots in the last decades of the Soviet era and persisted regardless of the radical change of the societal system and also regardless of the lengthy VET reform aimed at enhancing the quality and popularity of VET (Loogma et al., 2019). The formation of social ecology of negative selection into the vocational pathway can be seen as an unexpected and cumulative result of historical, cultural, political, economic and social processes and power relations (Loogma, 2020).
+
+With reference to the findings discussed above, three main pathways of development of the skill formation and vocational education of at-risk youth in the Baltic countries can be outlined: (1) a market-oriented approach to dealing with social exclusion of at-risk youth based on fostering immediate employability according to momentary skills needs in the economy; (2) a state/public assistance approach based on ensuring equal access to VET and employment services by the state and (3) an approach of systemic support to socially disadvantaged or at-risk young people in developing their capabilities (Table 3). These pathways have been shaped by the institutional development of the VET systems, labour market structures and social welfare mechanisms since the re-emergence of the independent Baltic countries 30 years ago. They are not exclusive to each other, rather on the contrary, many existing policies, measures and instruments for VET and employment of at-risk youth have been developed through the intersections and combinations of these pathways and sharing their different features.
+
+The neoliberal modernization reforms of the VET systems in the Baltics considered effective training and employment of at-risk students mainly as derivative of the establishment of strong and permanent links between the VET system and the labour market through implementation of competence-based curricula and development of work-based learning approaches. Developmental VET policies, enhanced by the EU accession and availability of the funding from the EU structural funds, strongly focused on the improvement of the VET quality and attractiveness through investment in the infrastructure, development of the national graduate tracking and vocational guidance systems and linking to the processes of enrolment of students. These policy priorities were targeted at coping with the poor image of VET created by the concentration of at-risk youth in the VET systems during the post-Communist transition and in later periods.
+
+The EU accession and subsequent Europeanization of VET provision in the Baltic countries also enhanced the efforts of making the VET systems more open and pluralistic. It enabled implementation and development of a systemic approach to qualifications by introducing national qualifications frameworks, developing different types of qualifications and fostering the links between initial VET, higher education, continuing VET and adult education. Policy makers expected these steps to be effective in dealing with the negative distinctiveness and closeness of VET provision treated as a second chance education pathway.
+
+There is no evidence of sustainable positive implications of these changes and reforms for the participation of at-risk youth in VET and their employment. This can be explained by the recent implementation of skill formation reforms. Nevertheless, these reforms have not tackled all shortages and insufficiency of VET provision for at-risk young people.
+
+First of all, the quality of VET provision is still hampered and compromised by insufficient training and competence development of teaching staff, as well as by a lack of attention to the development of pedagogical-methodical approaches and practices targeted at the specific groups of at-risk and disadvantaged youth. It can create further problems, especially when considering new challenges caused by the emerging new groups of socially disadvantaged youth caused by immigration and potentially increasing flows of refugees in the Baltics from the third countries. Furthermore, Covid pandemic in spring 2020 revealed that the gaps between performance of low performing students, particularly higher vocational education students and better performing students in VET tend to grow as a result of Covid-related distance learning (Loogma and Sirk, 2021).
+
+Secondly, with partial exception of Estonia, the social and especially pedagogical support to at-risk VET students remains highly fragmented and insufficient, which creates significant challenges in seeking to prevent their dropping-out and entering labour market without proper skills and qualifications.
+
+Thirdly, a very strong focus on employment and employability based on the satisfaction of the current skills needs in the sectors of economy dominated by the lower and medium skilled jobs can hardly create stable and sustainable employability of at-risk youth groups. The economic and institutional sustainability of the VET interventions in assisting at-risk youth could also be regarded as a challenge in the longer-term perspective, having in mind a high dependence of the current practices on the support from EU structural funds. Although the Youth Guarantee measures proved their effectiveness in providing short-term assistance to at-risk youth in developing their skills and getting employed, the sustainability of these measures largely depends on their funding after EU support stops.
+
+Despite many common features, there are some important differences in the institutional development of the VET system and approaches of VET towards integration of at-risk youth in the three Baltic countries.
+
+The Lithuanian VET policy and VET providers tend to rely more strongly on the importance of successful implementation of the competence-based modular VET curricula and on fostering work-based learning possibilities by using not only access to workplaces in the enterprises through apprenticeship, but also exploiting the possibilities of sectoral practical training centres. However, there is still no established agreed common vision of the government, VET providers and stakeholders regarding the role and place of the VET system in the modern welfare mechanisms, where the role of VET is seen as secondary comparing to general and higher education.
+
+The Latvian VET policy seems to more strongly follow the developmental neoliberal approach by treating VET as a strategically important field of the development of human capital, requiring strong coordination and planning from the state (e.g. introduction of the national graduate tracking system), active engagement of employers (fostering of apprenticeship training) and efforts of public VET providers in assuring the quality of VET curricula and processes. The strengthening of the inclusiveness of VET and its access to at-risk youth is treated as a part of its attractiveness and improving its social esteem.
+
+The case of Estonia provides an example of the combination of the neoliberal ideas of the economic functions of VET, decentralization and diversification in the VET governance and the system of qualifications (a strong role of the non-governmental and private structures in the governance of qualifications and VET), as well as strategic attention of the policy makers to the social integration mission of the VET system (attention to social support to VET students in need).
+
+This research has several key limitations. Firstly, it is limited by the focus on the policy analysis by mainly referring to the available statistical data. Therefore, the qualitative aspects of the analysed policy implications for the individual strategies of at-risk young people and practices of education and training providers are not reflected. Secondly, it does not provide insights in the successful pedagogical approaches and their implications for the successful integration of at-risk youth in VET and labour market. These aspects will be tackled in the upcoming stages of this research project.
+
+Social ecology and skill ecosystems in the skill formation of at-risk youth
+
+The share of youth at risk of poverty or social exclusion in the population from 18 to 24 years, %
+
+The share of youth at risk of poverty or social exclusion in the population from 18 to 24 years, with lower than primary education, primary and lower secondary education (levels 0–2), %
+
+The share of youth at risk of poverty or social exclusion in the population from 18 to 24 years, upper secondary and post-secondary non-tertiary education (levels 3–4), %
+
+Dropouts of VET establishments in Lithuania 2011–2021
+
+The number of vocational education entrants, enrolments and graduates in the Republic of Latvia 1997/1998–2019/2020 and respective linear trends
+
+Key dimensions of the social ecosystem related to skill formation of at-risk youth
+
+The share of students in VET by the levels of education in 2007/08–2018/19 in Estonia
+
+Source(s): EHIS; OECD (2019)
+
+Development pathways in the skill formation and vocational education of at-risk youth in the Baltic countries
+
+Anioł, W. (2015), “On three modernization narratives in Poland after 1989”, International Journal of Social Economics, Vol. 42 No. 9, pp. 777-790.
+
+Annist, A. (2017), “Maaelu muutuv tähendus ja väljaränne. Emigration and the changing meaning of Estonian rural life”, in Tammaru, T. (Ed.), Eesti Inimarengu Aruanne: Avatud Eesti. Estonian Human Development Report: Open Estonia, Eesti Koostöö Kogu, Tallinn, pp. 247-254.
+
+Anstrate, V. (2020), “VK par profesionālās izglītības modernizāciju: Jauniegūtā profesijā darbu atrod mazāk par pusi”, available at: https://www.lsm.lv/raksts/zinas/latvija/vk-par-profesionalas-izglitibas-modernizaciju-jaunieguta-profesija-darbu-atrod-mazak-par-pusi.a375176/ (accessed 28 February 2021).
+
+Bronfenbrenner, U. (1974), “Developmental research, public policy, and the ecology of childhood”, Child Development, Vol. 45 No. 1, pp. 1-5.
+
+Brown, P., Lauder, H. and Cheung, S.Y. (2020), The Death of Human Capital? Its Failed Promise and How to Renew it in an Age of Disruption, Oxford University Press, Oxford.
+
+Buchanan, J., Anderson, P. and Power, G. (2017), “Skill ecosystems”, in Warhurst, C., Mayhew, K., Finegold, D. and Buchanan, J. (Eds), The Oxford Handbook of Skills and Training, Oxford University Press, Oxford, pp. 511-529.
+
+Bünning, F. (2008), The Transformation of Vocational Education and Training (VET) in the Baltic States-Survey of Reforms and Developments, Springer Science and Business Media, Dordrecht.
+
+Cedefop (2016), Apprenticeship Review: Lithuania. Signposting the Apprenticeship Path in Lithuania, Publications Office of the European Union, Luxembourg.
+
+Cedefop (2019), “Latvia: NEET numbers down due to youth guarantee and VET”, available at: https://www.cedefop.europa.eu/en/news-and-press/news/latvia-neet-numbers-down-due-youth-guarantee-and-vet (accessed 5 March 2021).
+
+Cedefop (2020), Vocational Education and Training in Europe, 1995–2035: Scenarios for European Vocational Education and Training in the 21st Century, Publications Office of the European Union, Luxembourg.
+
+Eurostat (2021), “European union statistics on income and living conditions”, Eurostat – Data Explorer (europa.eu) (accessed 18 August 2021).
+
+Fioretos, O., Falleti, T.G. and Sheingate, A. (2016), “Historical institutionalism in political science”, in Fioretos, O., Falleti, T.G. and Sheingate, A. (Eds), The Oxford Handbook of Historical Institutionalism, Oxford University Press, Oxford, pp. 3-30.
+
+Haaristo, H.-S. and Kirss, L. (2018), Väljaande autoriõigus kuulub Poliitikauuringute Keskusele Praxis. Väljaandes sisalduva teabe kasutamisel palume viidata allikale, Poliitikauuringute Keskus Praxis, Tallinn.
+
+HTM (2020), Haridus ja Teadusministeeriumi 2019. aasta tulemusaruanne, HTM, Tartu.
+
+Kogan, I. (2008), “Education systems of central and Eastern European countries”, in Kogan, I., Gebel, M. and Noelke, C. (Eds), Europe Enlarged: A Handbook of Education, Labour and Welfare Regimes in Central and Eastern Europe, The Policy Press, Bristol, pp. 147-179.
+
+Kogan, I., Gebel, M. and Noelke, C. (Eds) (2008), Europe Enlarged. A Handbook of Education, Labour and Welfare Regimes in Central and Eastern Europe, Polity Press, Bristol.
+
+Kogan, I., Gebel, M. and Noelke, C. (2012), “Educational systems and inequalities in educational attainment in central and Eastern European countries”, Studies of Transition States and Societies, Vol. 4, pp. 69-83.
+
+Kogan, I., Noelke, C. and Gebel, M. (2011), “Comparative analysis of social transformation, education systems, and school-to-work transitions in Central and Eastern Europe”, in Kogan, I., Noelke, C. and Gebel, M. (Eds), Making the Transition. Education and Labor Market Entry in Central and Eastern Europe, Stanford University Press, Stanford, California, pp. 320-351.
+
+Kvalifikacijų ir profesinio mokymo plėtros centras (2018), “Guidance and outreach for inactive and unemployed – Lithuania. Cedefop ReferNet thematic perspectives series”, available at: http://libserver.cedefop.europa.eu/vetelib/2018/guidance_outreach_Lithuania_Cedefo p_ReferNet.pdf (accessed 18 March 2021).
+
+Latvian Qualification Framework – National Coordination Point (2012), “Latvijas izglītības sistēmas piesaiste Eiropas kvalifikāciju ietvarstruktūrai mūžizglītībai un Eiropas augstākās izglītības telpas kvalifikāciju ietvarstruktūrai [Linking the Latvian education system to the European qualifications framework for lifelong learning]”, available at: http://www.nki-latvija.lv/en (accessed 23 March 2021).
+
+Lietuvos Respublikos Švietimo ir mokslo ministerija (2017), “Profesinio mokymo būklės apžvalga”, available at: Profesinio-apzvalga-2017_FINAL.pdf (kpmpc.lt) (accessed 26 April 2021).
+
+Lindemann, K. and Saar, E. (2012), “Ethnic inequalities in education: second generation Russians in Estonia”, Ethnic and Racial Studies, Vol. 35, pp. 1974-1998.
+
+Lőrinc, M., Ryan, L., D'Angelo, A. and Kaye, N. (2020), “De-individualising the ‘NEET problem’: an ecological systems analysis”, European Educational Research Journal, Vol. 19 No. 5, pp. 412-427.
+
+Loogma, K. (2020), “Kutsehariduse sotsiaalne ökoloogia [Social ecology of vocational education]”, in Heidmets, M. (Ed.), Haridusmõte [Educational Idea], Tallinn University, Tallinn, pp. 250-272.
+
+Loogma, K. and Sirk, M. (2021), “Eriolukorrast tingitud distantsõppe kogemused ja mõju kutseharidusele [Pandemic related experiences and impact on VET]”, available at: https://www.hm.ee/sites/default/files/tlu_raport_distantsope_kutseharidus.pdf (accessed 14 March 2021).
+
+Loogma, K., Ümarik, K., Sirk, M. and Liivik, R. (2019), “How history matters: the emergence and persistence of structural conflict between academic and vocational education: the case of post-Soviet Estonia”, Journal of Educational Change, Vol. 20, pp. 105-135.
+
+LR Valstybės kontrolė (2020), “Valstybinio audito ataskaita. Ar profesinis mokymas organizuojamas efektyviai. 2020 m. sausio 31 d. Nr.VAE-2”, available at: https://www.lrs.lt/sip/getfile?guid=be3f4149-94ec-4f2a-8f85-39ca5d6851ba (accessed 3 March 2021).
+
+Martinaitis, Ž. (2010), “The political economy of skills formation: explaining differences in Central and Eastern Europe”, PHD thesis, Vilnius University, Vilnius.
+
+Ministry of Education and Science, Republic of Latvia (2019), “Informative report on the midterm evaluation of the implementation of the education development Guidelines 2014–2020: 2014–2017”, available at: http://tap.mk.gov.lv/lv/mk/tap/?pid=40468938 (accessed 23 March 2021).
+
+Myant, M. (2014), “Economies undergoing long transition. Employment relations in central and Eastern Europe”, in Wilkinson, A., Woods, G. and Deeg, R. (Eds), The Oxford Handbook of Employment Relations, Oxford University Press, Oxford, pp. 359-384.
+
+O'Dell, F. (1988), “Recent Soviet vocationalization policies”, in Lauglo, J. and Lillis, K. (Eds), Vocationalizing Education. An International Perspective, Pergamon Press, Oxford, pp. 293-294.
+
+OECD (2019), “OECD skills strategy 2019: skills to shape a better future”, available at: https://www.oecd.org/publications/oecd-skills-strategy-2019-9789264313835-en.htm (accessed 20 February 2021).
+
+OECD (2020), “Education policy outlook: Latvia”, available at: www.oecd.org/education/policy-outlook/country-profile-Latvia-2020.pdf (accessed 12 March 2021).
+
+OECD (2021), “OECD skills strategy Lithuania: assessment and recommendations”, doi: 10.1787/14deb088-en (accessed 18 March 2021).
+
+Piketty, T. (2019), Capital et Idéologie, Seuil, Paris.
+
+Platūkytė, D. (2021) “Sukrėtė situacija profesinėse mokyklose – seksualinio smurto mastai lieka pilkąja zona, pagalbos vaikai negauna”, available at: Sukrėtė situacija profesinėse mokyklose – seksualinio smurto mastai lieka pilkąja zona, pagalbos vaikai negauna – LRT (accessed 16 August 2021).
+
+Plüschke-Altof, B., Loewen, B. and Leetmaa, K. (2020), “Keskuse ja ääremaa lõhe Eestis”, in Sooväli-Sepping, H. (Ed.), Eesti Inimarengu Aruanne 2019/2020 “Linnastunud ühiskonna ruumilised valikud”, Eesti Koostöö Kogu, Tallinn, pp. 44-55.
+
+Rekkor, R., Ümarik, M. and Loogma, K. (2013), “Adoption of national curricula by vocational teachers in Estonia”, Journal of Vocational Education and Training, Vol. 65 No. 4, pp. 489-506.
+
+Robert, P., Saar, E. and Kazjulja, M. (2019), “Individual and institutional influences on EU labour market returns to education: a comparison of the effect of the 2008 economic crisis on eight EU countries”, European Societies, Vol. 22 No. 2, pp. 1-31.
+
+Saar, E. and Helemäe, J. (2017), “Rahvuslik segregatsioon Eesti tööturul”, in Tammaru, T. (Ed.), Eesti Inimarengu Aruanne 2016/2017 “Eesti rändeajastul”, Eesti Koostöö Kogu, Tallinn.
+
+Saniter, A. and Tūtlys, V. (2016), “Comparison of historical development pathways of initial vocational education and training in Lithuania and Germany: how does history matter for policy learning”, in Berner, E. and Gonon, P. (Eds), History of Vocational Education and Training in Europe. Cases, Concepts and Challenges, Peter Lang, Bern, pp. 511-530.
+
+SEQS – IKVD (2017), “European social fund project No 8.3.4.0/16/I/001 ‘support for the reduction of early school leaving’”, available at: https://ikvd.gov.lv/en/about-the-project/ (accessed 1 March 2021).
+
+Sirk, M., Liivik, R. and Loogma, K. (2016), “Changes in the professionality of vocational teachers as viewed through the experiences of long-serving vocational teachers in Estonia”, Empirical Research in Vocational Education and Training, Vol. 8 No. 13, doi: 10.1186/s40461-016-0039-7.
+
+Soltys, D. (1997), Education for Decline: Soviet Vocational and Technical Schooling from Khrushchev to Gorbachev, University of Toronto Press, Toronto.
+
+Spöttl, G. and Tūtlys, V. (2017), “From the analysis of work-processes to designing competence-based occupational standards and vocational curricula”, European Journal of Training and Development, Vol. 41 No. 1, pp. 50-66.
+
+Švietimo valdymo informacinė sistema (2019), “Pameistrystės forma besimokančių mokinių dalies rodiklis 2018–2019 m.m.”, available at: 24 rodiklis (2019).pdf (smm.lt) (accessed 4 March 2021).
+
+Toots, A. and Loogma, K. (2015), Õppiv euroopastumine Eesti Hariduspoliitikas, Estonian Human Development Report, Eesti Koostöö Kogu, Tallinn, pp. 259-264.
+
+Tūtlys, V. and Aarna, O. (2017), “Competence-based approach in the education reforms of Lithuania and Estonia”, in Mulder, M. (Ed.), Competence-Based Vocational and Professional Education. Bridging the Worlds of Work and Education, Springer International Publishing, Cham, pp. 381-406.
+
+Tūtlys, V. and Vaitkutė, L. (2021), “Knowledge formation practices in the context of the VET curriculum reform in Lithuania”, Journal of Vocational Education and Training, Vol. 74 No. 1, doi: 10.1080/13636820.2021.1956998.
+
+Ümarik, M. and Rekkor, S. (2013), “Diversification of students and professional roles of vocational teachers: teachers' individual approaches to negotiate work identities”, in Mikk, J., Veisson, M. and Luik, P. (Eds), Change in Teaching and Learning, Peter Lang, Frankfurt am Main, pp. 9-26.
+
+Vyriausybės strateginės analizės centras (2020), “Profesinis mokymas Lietuvoje 2019”, available at: https://strata.gov.lt/images/tyrimai/2020-metai/svietimo-politika/20200424-profesinis-mokymas-lietuvoje-2019.pdf (accessed 28 February 2021).
+
+Blažienė, I. and Miežienė, R. (2019), “Working life in Lithuania. European Foundation for the improvement of living and working conditions. European observatory of working life”, available at: https://www.eurofound.europa.eu/country/lithuania (accessed 21 March 2021).
+
+Dorothee, B. and Greskovits, B. (2007), “Neoliberalism, embedded neoliberalism and neocorporatism: towards transnational capitalism in Central-Eastern Europe”, West European Politics, Vol. 30 No. 3, pp. 443-466.
+
+Eurostat (2017), “Gini coefficient of equivalised disposable income”, available at: http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12 (accessed 5 May 2021).
+
+This research has been supported by the project “Vocational education and workplace training enhancing social inclusion of at-risk young people (EmpowerVET)” using a grant from Iceland, Liechtenstein and Norway through the EEA Grants. The aim of the project is to explore how vocational education and training (VET) can enhance social inclusion of young people at-risk, both in terms of combating school drop-out rates and promoting transitions between various (social) learning contexts, such as school-work transition. The project contract with the Research Council of Lithuania (LMTLT) No S-BMT-21-2 (LT08-2-LMT-K-01-010).
+
+VET ecosystems and labour market integration of at-risk youth in the Baltic countries: implications of Baltic neoliberalism
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+License
+
+1. Introduction
+
+2. Theoretical framework and research methodology
+
+3. Skill formation institutions, VET and integration of at-risk youth in the Baltic countries: common trends and specificities
+
+4. Discussion and conclusion
+
+Figures
+
+Table 1
+
+Table 2
+
+Table 3
+
+References
+
+Further reading
+
+Acknowledgements
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Education + Training
+
+Volume 64 Issue 2
+
+VET ecosystems and labour market integration of at-risk youth in the Baltic countries: implications of Baltic neoliberalism
+
+Abstract
+
+1. Introduction
+
+2. Theoretical framework and research methodology
+
+3. Skill formation institutions, VET and integration of at-risk youth in the Baltic countries: common trends and specificities
+
+4. Discussion and conclusion
+
+At-risk youth
+
+Vocational education and training (VET)
+
+Employment
+
+Skill formation
+
+Baltic countries
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Dimensions of Bronfrenbrenner's social ecology system (1974)
+
+Dimensions of the skill ecosystem (Buchanan et al., 2017)
+
+Dimensions of the social ecosystem related to skill formation of at-risk youth
+
+Young person
+
+Local actors of the skill ecosystem – learners, employees and employers (enterprises)
+
+Person-family-school level of skill formation and employment: support to training and employment of at-risk young people in the family, VET school and neighbourhoods, including vocational guidance, and transition from general education to VET
+
+Microsystem (family, peers, school)
+
+Mesosystem (interaction between the microsystems)
+
+Exosystem (local labour market, local politics, neighbourhood, extended family, media and social services)
+
+Distinct organizational forms of skill formation and usage (deployment) at the level of enterprise, sector and region
+
+Community and societal level of skill formation and employment: arrangements in the local labour market and enterprises, local-regional partnership arrangements (e.g. apprenticeship schemes or work-based learning [WBL] arrangements), social dialogue between employers, VET providers and municipalities in skill formation and deployment and activities of the NGO's in assisting young people to get access to skill formation and employment
+
+Partnerships between the agents involved in skill formation and usage – social dialogue and trust building on the local, sectoral and regional levels
+
+Engagement of the civil society in skill formation and development
+
+Macrosystem (political system, laws, history [here shifted to a separate dimension of chronosystem]), attitudes and values, social policy, education system, culture and an economic system
+
+Institutional settings of skill formation at the national and international levels: governance, provision and quality assurance institutions, qualification systems, funding arrangements and skills intelligence
+
+National and global level of skill formation and employment
+VET, employment and social security systems and their institutional arrangements which define access to training and labour market integration services, access to work-based learning and apprenticeship schemes and social support for students and their families
+
+Skill policies targeted at stipulation of skill demand and supply: skill formation policies (general education, VET, HE, adult education and LLL), labour market/employment policies and industrial policies
+
+Political-economic approaches to the social and labour market integration of at-risk youth referring to the underpinning ideologies (neoliberalism, modern welfare state, nationalism/populism)
+
+Chronosystem
+
+Institutional change and reforms of skill formation systems
+
+Institutional change of skill formation – its implications for the inclusion of at-risk youth in VET and their employment trajectories
+
+Emerging scenarios of the development of VET institutional models
+
+Pluralistic and distinctive views on VET (Cedefop, 2020) and potential for the inclusion of at risk youth in VET and the labour market. The Cedefop study on the institutional development of VET in Europe (2020) distinguishes pluralistic vs distinctive views on VET, where the pluralistic view positions VET in the wider education and training system and stresses the openness, transferability and permeability of the VET pathways with higher education, lifelong learning and human resource development, whereas the distinctive pathway of VET is defined by the specific historical institutional development, specific goals and the image of VET amongst the learners and stakeholders. The pluralistic VET ensures the inclusiveness of VET and its capacities of socio-economic integration of at-risk youth through the mechanisms of openness and permeability, which create more equal opportunities to develop different capabilities needed for employment and personal development, while the distinctive VET focuses more on the provision of relevant skills and competences and creating access to different specialised measures for vocational and labour market integration
+
+07/08
+
+1.13
+
+65.85
+
+33.02
+
+27,381 (100%)
+
+12/13
+
+1.61
+
+57.76
+
+40.63
+
+26,172 (100%)
+
+16/17
+
+4.46
+
+71.72
+
+23.82
+
+25,071 (100%)
+
+Fostering immediate employability – a market-oriented approach to dealing with social exclusion of at-risk youth
+
+A Neoliberal and meritocratic approach to education provision attached to the traditional or banking attitude to investment in human capital (Brown et al., 2020). Vocational and labour market integration of at-risk youth depends mainly on the marketability of the acquired skills and competences
+
+Competence-based VET curriculum reforms, introduction of modular VET curricula
+
+This priority is strongly promoted by the employers and governments, supported by the right wing liberal political parties
+
+A market-oriented approach can improve employment but there is no evidence of its positive impact on the sustainable and high quality employability
+
+Promotion of company-based apprenticeships leading to acquisition of the competencies and qualifications profiled according to the current skills needs of enterprises
+
+Even in this case engagement of employers in Lithuania and Latvia remains fragmented and unsystematic, while in Estonia it has longer traditions and better established institutional settings (employer-led national system of qualifications)
+
+It entails high risk of social exclusion due to increasing polarization of the opportunities in the acquisition and development of skills, especially when considering the trends of digitalization and Industry 4.0
+
+Ensuring access to the relevant public/state-led assistance in the field of vocational education and employment
+
+Classical welfare state theories, education as a basic human right ensured by the state
+
+Policies targeted at improving the quality of public VET provision and employment services: investment in the infrastructure of VET provision in the regions, teacher training, provision of the social, pedagogical and psychological support to VET students, especially those from disadvantaged backgrounds
+
+Predominantly state interest driven by the socially oriented policies, strongly supported by public VET establishments. Main support for implementation of these policy measures comes from the EU structural funds
+
+A significant positive impact of some measures (Youth Guarantees), but their long-term sustainability is hampered by comparatively passive social dialogue (low involvement of employers and trade unions) and high dependence on EU funding
+
+Systemic support to socially disadvantaged or at-risk young people in developing their capabilities
+
+A capability development approach by using flexible welfare state mechanisms and interventions aiming to foster and support resiliency of at-risk youth
+
+Policy measures and instruments targeted at the provision of individualised support (counselling, training, career guidance, employment, social support) to at-risk youth oriented to developing their capabilities and sustainable resilience (efforts to individualise VET curricula in Estonia)
+
+Active engagement of different stakeholders based on the well-balanced social dialogue in the field of skill formation of at-risk youth between the government, public VET providers, employers, NGOs and young people themselves, especially at the regional and sectoral levels
+
+More possible future development scenarios than the current reality

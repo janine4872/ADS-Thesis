@@ -1,0 +1,617 @@
+Abstract
+Aggression and externalisation problems at school hold negative consequences for both the perpetrators and the victims. This paper argues that the relationship between anxiety and aggression may make it possible to use certain anxiety prevention programmes to help prevent aggression. This hypothesis was tested on a sample of early adolescents using a quasi-experimental design with a control group. Four classes of early adolescents (N = 73) were randomly assigned to the control or intervention group. The intervention group was exposed at school to an anxiety prevention programme based on social and emotional learning called My FRIENDS. Aggression and externalisation problems were measured before the intervention, immediately after and at a six-month follow-up. The results show: (a) in the control group, aggression (dimensions: aggression towards authority, physical aggression) increased over the study period, whereas in the intervention group, it remained at the baseline level after the intervention and at the six-month follow-up; (b) externalisation problems (dimension: hyperactivity) were reduced in the intervention group relative to the baseline after the intervention and at the six-month follow-up. The results support use of the My FRIENDS programme as a possible prevention programme for aggression and externalisation problems as well as anxiety. Study limitations and future research directions are considered.
+
+Abstract
+
+Aggression and externalisation problems at school hold negative consequences for both the perpetrators and the victims. This paper argues that the relationship between anxiety and aggression may make it possible to use certain anxiety prevention programmes to help prevent aggression. This hypothesis was tested on a sample of early adolescents using a quasi-experimental design with a control group. Four classes of early adolescents (N = 73) were randomly assigned to the control or intervention group. The intervention group was exposed at school to an anxiety prevention programme based on social and emotional learning called My FRIENDS. Aggression and externalisation problems were measured before the intervention, immediately after and at a six-month follow-up. The results show: (a) in the control group, aggression (dimensions: aggression towards authority, physical aggression) increased over the study period, whereas in the intervention group, it remained at the baseline level after the intervention and at the six-month follow-up; (b) externalisation problems (dimension: hyperactivity) were reduced in the intervention group relative to the baseline after the intervention and at the six-month follow-up. The results support use of the My FRIENDS programme as a possible prevention programme for aggression and externalisation problems as well as anxiety. Study limitations and future research directions are considered.
+
+Aggression (and the broader category of externalisation problems) at school holds negative consequences for both the victims (low educational achievement, anxiety, depression, suicidality) and the perpetrators (low educational achievement, low self-esteem, cognitive and social cognitive functioning deficits, etc.) (Brookmeyer, Fanti, & Henrich, 2006; Dubow, Boxer, & Huesmann, 2009; Schwartz, Hopmeyer Gorman, Nakamoto, & Mckaz, 2006), especially during adolescence (Card, Stucky, Sawalani, & Little, 2008). Not only does aggression have a number of negative consequences at the individual level, but it has a negative impact on processes within the school (e.g. school climate, school connectedness, teaching practices) (Brookmeyer et al., 2006; Malm & Löfgren, 2006). In the present study, we test the possibility of addressing aggression using anxiety prevention programmes and therefore support school mental health services in economising on their efforts. This assumption shall be tested in the Slovenian context, and the possibility of generalising to other contexts will be discussed.
+
+Although schools are the ideal venue for implementing aggression prevention and intervention programmes because attendance is universal (Farrel, Meyer, Kung, & Sullivan, 2001; Bronfenbrenner, 1979), programmes for reducing aggression are largely unsuccessful (Espelange, Low, Ryzin, & Polanin, 2015; Huesmann, 1994), including in Slovenia (Mugnaioni Lešnik, Koren, Logaj, & Brejc, 2008) where the current study was located. Aggression prevention programmes show promising results are those that are multi-component, multi-contextual (whole-school approach), intensive and long lasting (Leff & Waasdorp, 2013; Ttofi & Farrigton, 2011). A meta-analysis of aggression prevention programmes concluded they had modest to moderate effects (Wilson, Lipsey, & Derzon, 2003). Anxiety prevention programmes show more promising results, particularly those based on cognitive behavioural approaches (Barret & Farrel, 2009; Greenberg, Domitrovich, & Bumbarger, 2001; Ishikawa, Okajima, Matsuoka, & Sakano, 2007), than aggression prevention programmes. The cognitive behavioural approaches for reducing anxiety are shown to be successful in individual (Barret & Farrel, 2009) and group settings (Barret & Farrel, 2009; Flannery-Schroeder, & Kendall, 2000). Compared to aggression prevention, anxiety prevention also works well in shorter time frames, e.g. the programme used in this study is a 12-session programme. Aggression programmes proven to be effective are longer lasting and more intense (e.g. PATHS (Riggs, Greenberg, Kushe & Pentz, 2006), Second Step (Fitzgerald & Edstrom, 2006).
+
+Since greater aggression is commonly accompanied by greater anxiety (Batanova & Loukas, 2016; Cooley, Frazer, Fite, Brown, & DiPierro, 2017; Granic, 2014) in both non-clinical samples (Ialongo, Edelsohn, Werthamer-Larsson, Crockett, & Kellam, 1996; Tanaka, Raishevich, & Scarpa, 2010) and clinical samples (Levy, Hunt, & Heriot, 2007; Mullin & Hinshaw, 2007), we can make use of this relationship when planning an intervention. The existence of this relationship raises both interesting research questions and the possibility of addressing anxiety and aggression jointly using the same prevention and intervention programmes.
+
+One anxiety prevention and intervention programme shown to be effective is FRIENDS (Barrett, 2005). The FRIENDS programme is a cognitive behavioural programme that uses social and emotional learning to reduce internalisation difficulties (anxiety and depression) in children, adolescents and adults by fostering their social and emotional competencies and teaching them to use adaptive ways of coping with anxiety during and after the programme (Barrett, Lock, & Farrel, 2005; Barret, Dadds, & Rapee, 1996). The programme’s effects on internalisation problems both immediately after the programme and years later are proven (Dadds, Holland, Barrett, Laurens, & Spence, 1999), including in Slovenia (Kozina, 2018). The programme has been implemented as a prevention programme in a school setting (e.g. Rodgers & Dunsmuir, 2015) and as an intervention programme in a clinical setting (e.g. Barrett, Sonderegger, & Xenos, 2003). So far, the impacts of the FRIENDS programme on aggression and externalisation problems have not been tested.
+
+The reason the FRIENDS programme could be effective in helping to prevent aggression is twofold. First, it fosters the development of social and emotional competencies (self-awareness, social awareness, responsible decision-making, successful management of relationships and self-regulation), and, second, it uses a cognitive behavioural approach. Aggression prevention programmes are more effective when they are multimodal (e.g. they address conflict resolution skills, communication skills, emotional regulations) (Markus, 2007). More specifically, the meta-analysis by Durlak, Weissberg, Dymnicki, Schellinger and Taylor (2011) reveals that programmes that seek to develop social and emotional competencies reduced aggression and externalising problems in children and adolescents. Cognitive behavioural approaches have also proven to be successful in preventing aggression (Markus, 2007). More specifically, in a National Institute of Health (2006) report the cognitive behavioural approach is listed as one of the characteristics of an aggression prevention programme that are effective. In the Wilson et al. (2003) meta-analysis, the programmes that used a cognitive behavioural approach had the greatest effects.
+
+In terms of the programme’s contents, several components of the FRIENDS programme can, according to scientific evidence, positively impact a reduction in aggression. These components holding potential as aggression prevention tools are those related to emotional regulation, empathy (empathetic concern, perspective-taking) (Batanova & Loukas, 2016; Roberton, Daffern, & Bucks, 2012), the development of adaptive (active) coping skills (Blechman, 1996) and addressing hostile attribution biases (Bubier, & Drabick, 2009). Social cognitive models of aggression prevention also emphasise the importance of the following competencies: (1) interpreting the behaviour of others accurately (associated with emotional regulation and with hostile attributions); (2) using nonaggressive problem-solving strategies (related to active coping approaches); and (3) evaluating aggressive behaviour as inappropriate and ineffective (Boxer, Goldstein, Musher-Eiyenman, Dubow, & Heretick, 2005).
+
+Adolescents who frequently engage in aggressive behaviour lack the ability to identify and regulate within themselves the negative emotions that are central to aggression, e.g. anger (Wilkinson & Robinson, 2008) and other emotions (Roberton et al., 2012), especially early adolescents (Herts, McLaughlin, & Hatzenbuehler, 2012). The initial part of the FRIENDS programme is entirely dedicated to recognising emotions in oneself (including anger) and in others, and to regulating unpleasant emotions (anger, sadness, fear and anxiety) and learning to use cognitive behavioural and relaxation techniques to regulate one’s intense emotions. The programme relies on group-based collaborative and experiential learning; all participants are encouraged to share their ways of managing emotions effectively (with an emphasis on perspective-taking).
+
+The findings on the relationship between empathy and aggression are somewhat inconsistent in adult and child samples, but not adolescent samples. It is well documented that a negative relationship exists between empathy and aggression in adolescence (for a review, see Lovett & Sheffield, 2007). A closer look at the evidence suggests that both the cognitive (perspective-taking) and emotional (empathic concern) components of empathy are predictors of reactive aggression (van Hazebroek, Olthof, & Goossens, 2017). Batanova and Loukas (2016) showed that empathy support is important for preventing aggression in a sample of early adolescents; empathic concern was the only competence linked to a reduction in aggression and this effect persisted a year after the empathy programme’s implementation and after controlling for the effects of perspective-taking and effortful control. Similarly, a positive effect of empathy training was found for aggression in a childhood sample (Schonert-Reichl, Smith, Zaidman-Zaid, & Hertzman, 2012). The FRIENDS programme uses role play to foster perspective-taking and empathy and through those attributional biases are also addressed. To maximise the impact, pre-prepared role plays scenarios relevant to the school setting are used, e.g. role plays dealing with how to communicate your feelings to students who have been spreading rumours about you. Thus, the FRIENDS programme also widens students’ behavioural repertoire. This is particularly important because aggressive individuals have a limited behavioural repertoire in which aggressive responses are the predominant, or at least a strong, component (Boxer et al., 2005).
+
+Another important focus of the FRIENDS programme is coping. Two out of ten workshops focus on increasing the use of adaptive behaviours and developing problem-solving skills, e.g. breaking a problem up into smaller, manageable components, finding more than one possible solution, seeking help. All these tools are intended to promote use of an adaptive coping approach, which has been linked to lower levels of aggression (Lochman, Wayland, & White, 1993; Ng, Ang, & Ho, 2012; Whitman, & Gottdiener, 2015). Developmental research indicates there is a need to teach adolescents to “slow down”, so that a decision-making process precedes what have become automatised behavioural patterns (immediate aggressive responses to perceived provocation) (Boxer et al., 2005). ‘Slowing down’ is a consequence of thinking of other possible solutions and breaking down the problem into smaller pieces.
+
+The FRIENDS programme has several different modules based on developmentally appropriate activities: (fun FRIENDS (ages 4–7); FRIENDS for life (ages 8–11); My FRIENDS (ages 12–16); and adult resilience (those aged 16 and over). In this study, we used the version of My FRIENDS designed for use in samples of early and middle adolescents. Early adolescence is an especially challenging developmental period involving engaged learning and social development in a highly challenging school context (Ecces & Roeser, 2011). Adolescence is also critical because there is an increase in aggression in this period (Boxer et al., 2005; Card et al., 2008) and there is no evidence that social and emotional learning programmes affect adolescent aggression (Castillo, Salguero, Fernandez-Berocal, & Balluerka, 2013). The above-mentioned meta-analysis of the effectiveness of school-based aggression prevention programmes (Wilson et al., 2003) also reveals that programme effectiveness varies by age (Boxer et al., 2005), being most effective in preschool, elementary school and high school populations; there is little evidence on their effectiveness in early adolescence. There is also a clear need for developmentally appropriate prevention and intervention programmes (Boxer et al., 2005), especially in the case of aggression, which manifests in various ways at different developmental stages (Kozina, 2017).
+
+In this study, we tested whether a developmentally appropriate version of the My FRIENDS programme can be used to reduce aggression (and a broader group of externalisation problems) in adolescence, using a quasi-experimental design with a control group. We predicted that exposure to the My FRIENDS anxiety prevention programme would reduce aggression and externalisation problems in the intervention group relative to the control group and that the effect would persist for up to 6 months. More specifically, we hypothesised the aggression and externalisation difficulties of the intervention group would decrease. This would be shown as: (1) significant differences between the intervention group and control group at post-measurement and at the six-month follow-up and (2) significant differences in the intervention group between pre-measurement, post-measurement and at the six-month follow-up. The level of aggression and externalisation difficulties would not change significantly between the pre- and post-measurement and six-month follow-up.
+
+Method
+Participants
+Two urban (Ljubljana region) Slovenian schools were used to collect data (average in size and gender composition). After initial presenting the programme to the school leaders and counselling service, the programme was presented at parents’ meetings at both schools. The students and their parents were given a pamphlet containing detailed information about the study. Grade 8 students (aged 13–14 years) from the two schools were invited to participate in the study. Grade 8 was chosen because for this age group aggression trends and related factors have been investigated in Slovenia, also with empirical support for the important link between aggression and anxiety in this age group (Kozina, 2017, 2015). Moreover, the developmental fit of the programme (My FRIENDS) was appropriate. Each school had two Grade 8 classes, one of which was randomly (by means of a draw) selected as the intervention group and the other as the no-treatment control group. We took steps to ensure the intervention and control groups were as similar as possible with respect to all relevant characteristics. For instance, the intervention and the control groups attended the same schools (thus controlling for some school-related variables, e.g. school climate, that affect aggression), the average age of both groups was the same (they were at the same educational level), and the gender ratio was similar in the two groups. The groups did not differ significantly in gender (χ2 (1) = 0.020, p = .887). Before starting the intervention, we tested whether the groups were sufficiently similar in terms of measured characteristics (group equality test) to allow us to draw conclusions about the effect of the independent variable (the My FRIENDS programme) on the dependent variable. For the pre-treatment equivalence, AG-UD general aggression (F = 0.178; p = .674) and SDQ externalisation difficulties (F = 2.640; p = .107) were used. Due to the study taking place in a regular school setting, the absence of severe psychological diagnoses and medical issues was assumed. Thirty-eight students participated in the intervention group and 35 in the control group. The sample characteristics are presented in Table 1.
+Table 1 Sample characteristics
+Full size table
+Instruments
+The AG-UD (Lestvica agresivnosti za učence in dijake [aggression scale for pupils and students]) aggression scale (Kozina, 2013, 2014) consists of 18 self-evaluation items to which responses are given using a five-point scale (1 = totally agree; 5 = totally disagree). The scale yields measures of general aggression and four specific forms of aggression (physical aggression (item example: I like fighting a lot), verbal aggression (item example: If someone screams at me, I scream back), inner aggression (item example: A lot of people annoy me) and aggression towards authority (item example: If I don’t agree with the teachers’ rules, I break them) and can be used in children of primary school age to upper secondary school age. The scale was selected due to it having been developed in the Slovenian context and standardised in the age group used in this study. The scale showed adequate internal reliability at the intake (general aggression: .860; physical aggression: .699; verbal aggression: .832; inner aggression: .723; aggression towards authority: .754).
+The Slovenian version of the Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997) is a behavioural screening questionnaire designed for the early detection of strengths and behavioural problems in children and adolescents. It is a 25-item self-report questionnaire suitable for adolescents aged between 11 and 17 years. The items are descriptions of positive and negative behavioural attributes, and respondents are asked to indicate whether a specific attribute is true of them (1 = not true, 2 = somewhat true, 3 = certainly true). The questionnaire is organised into five subscales and two main scales: internalising difficulties (comprising the subscales for emotional symptoms [five items] and peer problems [five items]) and externalising difficulties (comprising the subscales for conduct problems [five items], hyperactivity [five items]) and prosocial behaviour). The sum of the scores on the two main scales is the total difficulties score. The prosocial subscale does not contribute to either of the main scales or to the total difficulties score. There are two versions of the questionnaire, the basic version and the follow-up version, which is used to assess the effects of an intervention. We used the externalisation difficulties scale and its subscales in our analyses. The scale showed adequate internal reliability at the intake (externalisation difficulties: .914; conduct problems: .809; hyperactivity: .878).
+The FRIENDS programme (Barrett, 2005) consists of ten 45-min workshops, two booster sessions and two parents’ meetings. The 45-min time frame was used to test the feasibility of the programme for an educational setting (each lesson is 45 min long). We used the My FRIENDS version designed for early and middle adolescence (13- to 16-year-olds). The workshops involved (1) presentation of the programme and getting acquainted with the group; (2) learning about emotions and the relationship between one’s thoughts and feelings; (3) learning about planning how to cope with worries; (4) recognising emotions; (5) relaxation; (6) developing positive self-talk; (7) challenging negative and unhelpful thoughts; (8) developing problem-solving skills; (9) rewarding oneself for success; and (10) the importance of practice. The programme is supported by a facilitators’ handbook that provides objectives and activities for individual workshops and special booklets for students (students use them to make notes, do the exercises and complete homework). People wishing to implement the programme must undergo training with a licensed programme provider. Training workshops are held at the home institution (Pathways Health and Research Centre, Australia). For the purposes of the research, we obtained a research licence (participated in training lasting 1 week at the Pathways Health and Research Centre, Australia), translated the materials and adapted the programme for use in Slovenia (only minor adaptations were made, e.g. the names in the stories used, the names of possible role models). After completing the training in Australia, the author of the study administered the programme at the two schools in Slovenia (see the Participants section).
+Procedure
+Before the study started, the parents of all participants gave written informed content to their children’s participation as recommended in the Slovenian Psychological Society’s ethical guidelines. The parents of 14 eligible students (3 in the intervention group and 11 in the control group) did not consent to their participation. No data were collected for those students. Prior to the intervention, baseline levels of aggression and externalisation problems were assessed in both groups. The intervention group then completed the My FRIENDS programme (10 weekly sessions + 2 booster sessions). The session took place during regular lessons (a special lesson called class lesson dedicated to classroom management) at the beginning of the school year. Since the programme was implemented inside the curriculum, the majority of students were present (above 90% at every session). At both schools, the students participated as a whole class in a group format. After the programme was completed, aggression and externalisation difficulties were once again assessed in all participants. In cases of missing data, follow-up measurements were organised. Two parental meetings took place: one at the start of the programme and one midway through it. The parental meeting was voluntary and took place in the afternoon, outside school hours. Attendance rates were low (below 20 per cent). A follow-up assessment took place 6 months later. This follow-up period was aligned with other follow-up studies in the field of anxiety and aggression prevention (Dadds et al., 1999). The implementation followed the structure of the My FRIENDS workbook. Activities not in the workbook were not administered. The control group has regular class lessons in the same period. In both treatment groups, the group facilitator was the same, the psychologist who had taken the training in Australia. The group facilitator was the one collecting the assessment data (on paper).
+
+Method
+
+Participants
+Two urban (Ljubljana region) Slovenian schools were used to collect data (average in size and gender composition). After initial presenting the programme to the school leaders and counselling service, the programme was presented at parents’ meetings at both schools. The students and their parents were given a pamphlet containing detailed information about the study. Grade 8 students (aged 13–14 years) from the two schools were invited to participate in the study. Grade 8 was chosen because for this age group aggression trends and related factors have been investigated in Slovenia, also with empirical support for the important link between aggression and anxiety in this age group (Kozina, 2017, 2015). Moreover, the developmental fit of the programme (My FRIENDS) was appropriate. Each school had two Grade 8 classes, one of which was randomly (by means of a draw) selected as the intervention group and the other as the no-treatment control group. We took steps to ensure the intervention and control groups were as similar as possible with respect to all relevant characteristics. For instance, the intervention and the control groups attended the same schools (thus controlling for some school-related variables, e.g. school climate, that affect aggression), the average age of both groups was the same (they were at the same educational level), and the gender ratio was similar in the two groups. The groups did not differ significantly in gender (χ2 (1) = 0.020, p = .887). Before starting the intervention, we tested whether the groups were sufficiently similar in terms of measured characteristics (group equality test) to allow us to draw conclusions about the effect of the independent variable (the My FRIENDS programme) on the dependent variable. For the pre-treatment equivalence, AG-UD general aggression (F = 0.178; p = .674) and SDQ externalisation difficulties (F = 2.640; p = .107) were used. Due to the study taking place in a regular school setting, the absence of severe psychological diagnoses and medical issues was assumed. Thirty-eight students participated in the intervention group and 35 in the control group. The sample characteristics are presented in Table 1.
+Table 1 Sample characteristics
+Full size table
+Instruments
+The AG-UD (Lestvica agresivnosti za učence in dijake [aggression scale for pupils and students]) aggression scale (Kozina, 2013, 2014) consists of 18 self-evaluation items to which responses are given using a five-point scale (1 = totally agree; 5 = totally disagree). The scale yields measures of general aggression and four specific forms of aggression (physical aggression (item example: I like fighting a lot), verbal aggression (item example: If someone screams at me, I scream back), inner aggression (item example: A lot of people annoy me) and aggression towards authority (item example: If I don’t agree with the teachers’ rules, I break them) and can be used in children of primary school age to upper secondary school age. The scale was selected due to it having been developed in the Slovenian context and standardised in the age group used in this study. The scale showed adequate internal reliability at the intake (general aggression: .860; physical aggression: .699; verbal aggression: .832; inner aggression: .723; aggression towards authority: .754).
+The Slovenian version of the Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997) is a behavioural screening questionnaire designed for the early detection of strengths and behavioural problems in children and adolescents. It is a 25-item self-report questionnaire suitable for adolescents aged between 11 and 17 years. The items are descriptions of positive and negative behavioural attributes, and respondents are asked to indicate whether a specific attribute is true of them (1 = not true, 2 = somewhat true, 3 = certainly true). The questionnaire is organised into five subscales and two main scales: internalising difficulties (comprising the subscales for emotional symptoms [five items] and peer problems [five items]) and externalising difficulties (comprising the subscales for conduct problems [five items], hyperactivity [five items]) and prosocial behaviour). The sum of the scores on the two main scales is the total difficulties score. The prosocial subscale does not contribute to either of the main scales or to the total difficulties score. There are two versions of the questionnaire, the basic version and the follow-up version, which is used to assess the effects of an intervention. We used the externalisation difficulties scale and its subscales in our analyses. The scale showed adequate internal reliability at the intake (externalisation difficulties: .914; conduct problems: .809; hyperactivity: .878).
+The FRIENDS programme (Barrett, 2005) consists of ten 45-min workshops, two booster sessions and two parents’ meetings. The 45-min time frame was used to test the feasibility of the programme for an educational setting (each lesson is 45 min long). We used the My FRIENDS version designed for early and middle adolescence (13- to 16-year-olds). The workshops involved (1) presentation of the programme and getting acquainted with the group; (2) learning about emotions and the relationship between one’s thoughts and feelings; (3) learning about planning how to cope with worries; (4) recognising emotions; (5) relaxation; (6) developing positive self-talk; (7) challenging negative and unhelpful thoughts; (8) developing problem-solving skills; (9) rewarding oneself for success; and (10) the importance of practice. The programme is supported by a facilitators’ handbook that provides objectives and activities for individual workshops and special booklets for students (students use them to make notes, do the exercises and complete homework). People wishing to implement the programme must undergo training with a licensed programme provider. Training workshops are held at the home institution (Pathways Health and Research Centre, Australia). For the purposes of the research, we obtained a research licence (participated in training lasting 1 week at the Pathways Health and Research Centre, Australia), translated the materials and adapted the programme for use in Slovenia (only minor adaptations were made, e.g. the names in the stories used, the names of possible role models). After completing the training in Australia, the author of the study administered the programme at the two schools in Slovenia (see the Participants section).
+Procedure
+Before the study started, the parents of all participants gave written informed content to their children’s participation as recommended in the Slovenian Psychological Society’s ethical guidelines. The parents of 14 eligible students (3 in the intervention group and 11 in the control group) did not consent to their participation. No data were collected for those students. Prior to the intervention, baseline levels of aggression and externalisation problems were assessed in both groups. The intervention group then completed the My FRIENDS programme (10 weekly sessions + 2 booster sessions). The session took place during regular lessons (a special lesson called class lesson dedicated to classroom management) at the beginning of the school year. Since the programme was implemented inside the curriculum, the majority of students were present (above 90% at every session). At both schools, the students participated as a whole class in a group format. After the programme was completed, aggression and externalisation difficulties were once again assessed in all participants. In cases of missing data, follow-up measurements were organised. Two parental meetings took place: one at the start of the programme and one midway through it. The parental meeting was voluntary and took place in the afternoon, outside school hours. Attendance rates were low (below 20 per cent). A follow-up assessment took place 6 months later. This follow-up period was aligned with other follow-up studies in the field of anxiety and aggression prevention (Dadds et al., 1999). The implementation followed the structure of the My FRIENDS workbook. Activities not in the workbook were not administered. The control group has regular class lessons in the same period. In both treatment groups, the group facilitator was the same, the psychologist who had taken the training in Australia. The group facilitator was the one collecting the assessment data (on paper).
+
+Results
+The impact of the programme on aggression was evaluated by comparing levels of aggression and externalisation difficulties (scores on the SDQ externalisation difficulties scale and its two subscales: conduct problems and hyperactivity) in the two groups at three points in time: before the programme (pre-intervention), immediately after (post-intervention) and 6 months later (six-month follow-up). We used two-way repeated-measures ANOVA with two independent groups (intervention and control) and the behavioural variables as repeated measures (pre-intervention; post-intervention; six-month follow-up). Prior to the intervention, there were no group differences in aggression and its dimensions or in externalisation difficulties and its dimensions. The Mauchly test of sphericity showed no need for adjustments with AG-UD (general aggression: W = .952, p = .221; physical aggression: W = .997, p = .898; verbal aggression: W = .911, p = .055; inner aggression: W = .922, p = .080; aggression towards authority: W = .971, p = .402) and some adjustment in SDQ (externalisation difficulties: W = .895, p = .048; conduct problems: W = .916, p = .000; hyperactivity: W = .997, p = .909).
+There was an effect of the point in time on aggression towards authority (η2 = .044), which increased during the study period in the control group, whereas in the intervention group it remained roughly the same after the intervention and was slightly lower at the six-month follow-up. There was a time-by-group interaction with respect to general aggression (η2 = .050), physical aggression (η2 = .053) and aggression towards authority (η2 = .108), indicating group differences at certain time points. The interaction effect was stronger for aggression towards authority. The interaction effect can explain a 10 per cent aggression variance (Table 2). We can observe an increase in the control group and stability in the intervention group (Fig. 1).
+Table 2 Two-way ANOVA for assessing differences in general aggression and specific types of aggression
+Full size table
+Fig. 1
+Mean differences in aggression towards authority between control group and intervention group at before, after and follow-up
+Full size image
+Post hoc one-way ANOVAs revealed that in the intervention group levels of general aggression (and specific forms of aggression) were similar before and after the FRIENDS programme, whereas in the control group there were increases in general aggression (F = 3.793; p < .05; η2 = .116), aggression towards authority (F = 8.080; p < .01; η2 = .218) and, at the .1 level, physical aggression (F = 2.637; p < .10; η2 = .081) from pre- to post-measurement. The six-month follow-up assessment revealed increases in both aggression towards authority (η2 = .218) and general aggression (η2 = .116) in the control group (Table 2).
+It may be concluded that aggression increased in the control group during the course of the My FRIENDS programme, and there were increases in general aggression and aggression towards authority at the .05 level and an increase in physical aggression at the .1 level (Table 2).
+The point in time had an effect on externalising difficulties (η2 = .054) and on hyperactivity (η2 = .120). In the intervention group but not the control group, there were effects of time point on externalising difficulties (F = 8.221; p < .001; η2 = .210), conduct problems (F = 2.916; p < .05; η2 = .089) and hyperactivity (F = 7.753; p < .001; η2 = .200). In the intervention group, scores for externalising difficulties (including conduct problems and hyperactivity) lowered after the programme than before it, whereas in the control group there was no effect of the point in time on externalising difficulties (Table 3).
+Table 3 Two-way ANOVA for assessing differences in externalisation difficulties and its sub-dimensions: conduct problems and hyperactivity
+Full size table
+
+Results
+
+The impact of the programme on aggression was evaluated by comparing levels of aggression and externalisation difficulties (scores on the SDQ externalisation difficulties scale and its two subscales: conduct problems and hyperactivity) in the two groups at three points in time: before the programme (pre-intervention), immediately after (post-intervention) and 6 months later (six-month follow-up). We used two-way repeated-measures ANOVA with two independent groups (intervention and control) and the behavioural variables as repeated measures (pre-intervention; post-intervention; six-month follow-up). Prior to the intervention, there were no group differences in aggression and its dimensions or in externalisation difficulties and its dimensions. The Mauchly test of sphericity showed no need for adjustments with AG-UD (general aggression: W = .952, p = .221; physical aggression: W = .997, p = .898; verbal aggression: W = .911, p = .055; inner aggression: W = .922, p = .080; aggression towards authority: W = .971, p = .402) and some adjustment in SDQ (externalisation difficulties: W = .895, p = .048; conduct problems: W = .916, p = .000; hyperactivity: W = .997, p = .909).
+There was an effect of the point in time on aggression towards authority (η2 = .044), which increased during the study period in the control group, whereas in the intervention group it remained roughly the same after the intervention and was slightly lower at the six-month follow-up. There was a time-by-group interaction with respect to general aggression (η2 = .050), physical aggression (η2 = .053) and aggression towards authority (η2 = .108), indicating group differences at certain time points. The interaction effect was stronger for aggression towards authority. The interaction effect can explain a 10 per cent aggression variance (Table 2). We can observe an increase in the control group and stability in the intervention group (Fig. 1).
+Table 2 Two-way ANOVA for assessing differences in general aggression and specific types of aggression
+Full size table
+Fig. 1
+Mean differences in aggression towards authority between control group and intervention group at before, after and follow-up
+Full size image
+Post hoc one-way ANOVAs revealed that in the intervention group levels of general aggression (and specific forms of aggression) were similar before and after the FRIENDS programme, whereas in the control group there were increases in general aggression (F = 3.793; p < .05; η2 = .116), aggression towards authority (F = 8.080; p < .01; η2 = .218) and, at the .1 level, physical aggression (F = 2.637; p < .10; η2 = .081) from pre- to post-measurement. The six-month follow-up assessment revealed increases in both aggression towards authority (η2 = .218) and general aggression (η2 = .116) in the control group (Table 2).
+It may be concluded that aggression increased in the control group during the course of the My FRIENDS programme, and there were increases in general aggression and aggression towards authority at the .05 level and an increase in physical aggression at the .1 level (Table 2).
+The point in time had an effect on externalising difficulties (η2 = .054) and on hyperactivity (η2 = .120). In the intervention group but not the control group, there were effects of time point on externalising difficulties (F = 8.221; p < .001; η2 = .210), conduct problems (F = 2.916; p < .05; η2 = .089) and hyperactivity (F = 7.753; p < .001; η2 = .200). In the intervention group, scores for externalising difficulties (including conduct problems and hyperactivity) lowered after the programme than before it, whereas in the control group there was no effect of the point in time on externalising difficulties (Table 3).
+Table 3 Two-way ANOVA for assessing differences in externalisation difficulties and its sub-dimensions: conduct problems and hyperactivity
+Full size table
+
+Fig. 1
+Mean differences in aggression towards authority between control group and intervention group at before, after and follow-up
+Full size image
+
+Fig. 1
+
+Mean differences in aggression towards authority between control group and intervention group at before, after and follow-up
+
+Mean differences in aggression towards authority between control group and intervention group at before, after and follow-up
+
+Discussion
+Summary of the Findings
+We tested whether an anxiety and internalisation difficulties prevention programme based on social and emotional learning, My FRIENDS, was effective as an aggression and externalisation difficulties prevention programme. We used a quasi-experimental design with a control group; the participants were early adolescents (Grade 8), and the intervention and assessments were delivered in a school setting.
+There was no difference in aggression levels between the control and intervention groups after the MY FRIENDS programme was completed. There was also no change between pre- and post-intervention levels of aggression in the intervention group; however, over this period, there was an increase in aggression in the control group. More specifically, there were increases in general aggression, aggression towards authority and, at the .1 level, physical aggression.
+As indicated in Introduction, the components of the My FRIENDS programme that may influence aggression in early adolescence are those dealing with emotional regulation, empathy, attributional biases and the development of adaptive coping skills. Aggressive behaviour has been linked to difficulty with regulating anger and other emotions (for a review, see Roberton et al., 2012). Adolescents who regulate their emotions well also display higher levels of prosocial behaviour and empathy (Eisenberg, Wentzel, & Harris, 1998). The FRIENDS programme supports the development of empathy by focusing on understanding the emotions of others and promoting prosocial behaviour through homework assignments. Students are asked to make concrete plans detailing who they will help and how they will do it in the days following the workshops. Students are also taught how to divide problems into smaller, manageable components, how to reward themselves for each step towards a solution and how to recruit the support they need at each step on the way to a solution. This results in a decrease in the anger and frustration felt whenever goals seem too difficult or unattainable. Similarly, students learn how to predict possible consequences of their decisions by developing their own scenarios dealing with pre-defined problems and the problems they are currently facing in their everyday life. This allows them to explore different paths to solutions, thus expanding their own behavioural repertoire.
+When it comes to externalising difficulties, the effects of the My FRIENDS programme are more straightforward—there was a post-intervention reduction in externalising difficulties in students exposed to the My FRIENDS programme. Externalising difficulties is an overarching category, of which aggression is only one part. Aggression is largely captured by the conduct problems dimension of externalising problems, but in our study the programme had a greater effect on the second component, hyperactivity. Hyperactivity includes problems related to agitation, impulsive behaviour and directing and focusing attention. In this context, relaxation, which is a vital part of every My FRIENDS workshop, plays a significant role in alleviating restlessness and agitation (transfer to everyday use is promoted by repetition of the same techniques at every workshop). The My FRIENDS programme also dedicates a whole workshop to different relaxation techniques and to making students aware of the importance of relaxation (including the semantic distinction between relaxing by simply watching TV or listening to music and deep relaxation techniques that can be used to prepare for stressful situations, e.g. oral questioning). Relaxation can also reduce aggression. It is an effective way of self-regulating intense emotions (such as anger). Mindfulness techniques (focusing on the here and now) are also used to help students to calm themselves.
+Implications
+It can be concluded that the My FRIENDS programme may be used as a method for maintaining aggression at the baseline or preventing the rise of aggression in early adolescents. It appears to shield against increasing aggression during the academic year (as observed in the control group). We did, however, hypothesise the reduction in aggression that was not subsequently reflected in our findings and can only confirm maintenance at the same level and the possible preventing of a further rise, as happened in the control group. When interpreting the findings, we must consider the time of the school year and the developmental period. An increase in aggression during the academic year may simply be due to the growing number of frustrations associated with school, such as grading, or may also have a developmental component. The skills the My FRIENDS programme develops may be protective against an increase in aggression during the school year, which indicate the relevant positioning of a prevention programme at the start of the school year. Adolescence is a period of increased aggression (Flannery, Vazsonyi, & Waldman, 2007). This developmental framework is especially important when interpreting the increase in aggression towards authority in the control group. Adolescents are in need of autonomy as they become more independent and, when their need for autonomy is not met, they may become more aggressive. Autonomy-supportive behaviour in teachers has been associated with lower levels of verbal aggression (Piko & Pinczés, 2015). We agree with Herts, McLaughlin and Hatzenbuehler (2012) that increasing the use of adaptive emotion regulation strategies should be an important target of interventions designed to prevent the onset of aggressive behaviour in adolescence. The joint promotion of empathy and active coping can help to suppress aggressive behaviour, as seen in our intervention group.
+The reducing effect of the FRIENDS programme on hyperactivity is encouraging, especially since hyperactivity is associated with several negative outcomes at both school and individual levels (Jurbergs, Palcic, & Kelley, 1997), e.g. the emergence and maintenance of aggressive behaviour (Boxer et al., 2005), lower efficacy and lower academic achievement or even early school leaving (Jurbergs et al., 1997).
+From the school mental health point of view, the possible use of one programme for anxiety reduction as well at least maintaining aggression at the baseline and preventing its rise is promising and would save a lot of energy and time, especially since aggression prevention programmes can be time-challenging for schools (Leff, & Waasdorp, 2013). The programme is easy to implement in regular school activities (either so-called classroom lessons or in after-school activities). It is time-effective, entails 10 (45-min) lessons, and is manual based, allowing teachers or school counsellors to administer it. Another important point is that the FRIENDS programmes’ experiences are very well accepted by the participants (Skryabina et al., 2016), which adds the motivational dimension needed for the programme to be a success.
+Strengths
+Our study has important implications for the possible prevention of aggression, at least maintenance at the baseline level, and also opens up additional questions on understanding which components of social emotional programmes are driving any changes in aggressive behaviour. Similar research on the effectiveness of social and emotional learning programmes for aggression prevention found somewhat more promising results than we did, e.g. an actual reduction in aggression. Durlak et al. (2011) established that social and emotional learning programmes reduce behavioural problems (average effect size = 0.22, average improvement in behaviour = 9%). Wilson and Lipsey (2007) reported an effect size of 0.21, but they examined the impact of social and emotional learning programmes that focused specifically on aggressive behaviour. Similarly, a study in Spain provided evidence that social and emotional learning programmes increase emotional competencies and decrease aggressive behaviour in adolescents (Castillo et al., 2013). The added value of our study is that the contents of the programme give us a possible indication of what may suppress the growth of aggression in the intervention group. Hence, our findings represent an important step towards understanding, even though they are still at an initial phase, whether and how the programme affects student aggression in school settings. As noted elsewhere (Castillo et al., 2013), there is a lack of similar research evidence obtained in non-US contexts and from adolescent samples.
+Limitations and Future Directions
+Although this study provides additional evidence and extends the literature on the use of social and emotional learning programmes for preventing or keeping aggression at the baseline and preventing its rise, it has some limitations that warrant discussion. Our research design meets most but not all of the criteria for a quasi-experimental design. The participants were not randomly selected from the population, nor was it possible to control all the variables that influence students’ aggression (for instance, personality traits, the school environment, upbringing, academic abilities). The effects of the aggression intervention depend on the characteristics of the students and schools involved (Bierman et al., 2010) and the time of the year (e.g. the start of the school year). Due to the programme’s relatively short duration, the assessment data were not collected in the middle of the intervention, which could also be informative. Analyses were conducted at the individual level although the randomisation to the condition occurred at the class level, which limits the causal inferences that may be drawn. Nevertheless, as Slavin (2008) pointed out, effect sizes are unbiased and therefore add to the empirical evidence that the My FRIENDS programme is useful for keeping aggression at the baseline together with reducing anxiety. Due to the sample size, the findings must be regarded as preliminary and should be replicated with a larger sample, preferably in the form of a rigorously designed experimental study grounded in strong developmental theory and based on multiple methods and multiple informants. It would be particularly important if analyses considered moderating and mediating effects and included additional non-self-report measures such as observation tools, teacher or peer reports and possible discipline records.
+
+Discussion
+
+Summary of the Findings
+We tested whether an anxiety and internalisation difficulties prevention programme based on social and emotional learning, My FRIENDS, was effective as an aggression and externalisation difficulties prevention programme. We used a quasi-experimental design with a control group; the participants were early adolescents (Grade 8), and the intervention and assessments were delivered in a school setting.
+There was no difference in aggression levels between the control and intervention groups after the MY FRIENDS programme was completed. There was also no change between pre- and post-intervention levels of aggression in the intervention group; however, over this period, there was an increase in aggression in the control group. More specifically, there were increases in general aggression, aggression towards authority and, at the .1 level, physical aggression.
+As indicated in Introduction, the components of the My FRIENDS programme that may influence aggression in early adolescence are those dealing with emotional regulation, empathy, attributional biases and the development of adaptive coping skills. Aggressive behaviour has been linked to difficulty with regulating anger and other emotions (for a review, see Roberton et al., 2012). Adolescents who regulate their emotions well also display higher levels of prosocial behaviour and empathy (Eisenberg, Wentzel, & Harris, 1998). The FRIENDS programme supports the development of empathy by focusing on understanding the emotions of others and promoting prosocial behaviour through homework assignments. Students are asked to make concrete plans detailing who they will help and how they will do it in the days following the workshops. Students are also taught how to divide problems into smaller, manageable components, how to reward themselves for each step towards a solution and how to recruit the support they need at each step on the way to a solution. This results in a decrease in the anger and frustration felt whenever goals seem too difficult or unattainable. Similarly, students learn how to predict possible consequences of their decisions by developing their own scenarios dealing with pre-defined problems and the problems they are currently facing in their everyday life. This allows them to explore different paths to solutions, thus expanding their own behavioural repertoire.
+When it comes to externalising difficulties, the effects of the My FRIENDS programme are more straightforward—there was a post-intervention reduction in externalising difficulties in students exposed to the My FRIENDS programme. Externalising difficulties is an overarching category, of which aggression is only one part. Aggression is largely captured by the conduct problems dimension of externalising problems, but in our study the programme had a greater effect on the second component, hyperactivity. Hyperactivity includes problems related to agitation, impulsive behaviour and directing and focusing attention. In this context, relaxation, which is a vital part of every My FRIENDS workshop, plays a significant role in alleviating restlessness and agitation (transfer to everyday use is promoted by repetition of the same techniques at every workshop). The My FRIENDS programme also dedicates a whole workshop to different relaxation techniques and to making students aware of the importance of relaxation (including the semantic distinction between relaxing by simply watching TV or listening to music and deep relaxation techniques that can be used to prepare for stressful situations, e.g. oral questioning). Relaxation can also reduce aggression. It is an effective way of self-regulating intense emotions (such as anger). Mindfulness techniques (focusing on the here and now) are also used to help students to calm themselves.
+Implications
+It can be concluded that the My FRIENDS programme may be used as a method for maintaining aggression at the baseline or preventing the rise of aggression in early adolescents. It appears to shield against increasing aggression during the academic year (as observed in the control group). We did, however, hypothesise the reduction in aggression that was not subsequently reflected in our findings and can only confirm maintenance at the same level and the possible preventing of a further rise, as happened in the control group. When interpreting the findings, we must consider the time of the school year and the developmental period. An increase in aggression during the academic year may simply be due to the growing number of frustrations associated with school, such as grading, or may also have a developmental component. The skills the My FRIENDS programme develops may be protective against an increase in aggression during the school year, which indicate the relevant positioning of a prevention programme at the start of the school year. Adolescence is a period of increased aggression (Flannery, Vazsonyi, & Waldman, 2007). This developmental framework is especially important when interpreting the increase in aggression towards authority in the control group. Adolescents are in need of autonomy as they become more independent and, when their need for autonomy is not met, they may become more aggressive. Autonomy-supportive behaviour in teachers has been associated with lower levels of verbal aggression (Piko & Pinczés, 2015). We agree with Herts, McLaughlin and Hatzenbuehler (2012) that increasing the use of adaptive emotion regulation strategies should be an important target of interventions designed to prevent the onset of aggressive behaviour in adolescence. The joint promotion of empathy and active coping can help to suppress aggressive behaviour, as seen in our intervention group.
+The reducing effect of the FRIENDS programme on hyperactivity is encouraging, especially since hyperactivity is associated with several negative outcomes at both school and individual levels (Jurbergs, Palcic, & Kelley, 1997), e.g. the emergence and maintenance of aggressive behaviour (Boxer et al., 2005), lower efficacy and lower academic achievement or even early school leaving (Jurbergs et al., 1997).
+From the school mental health point of view, the possible use of one programme for anxiety reduction as well at least maintaining aggression at the baseline and preventing its rise is promising and would save a lot of energy and time, especially since aggression prevention programmes can be time-challenging for schools (Leff, & Waasdorp, 2013). The programme is easy to implement in regular school activities (either so-called classroom lessons or in after-school activities). It is time-effective, entails 10 (45-min) lessons, and is manual based, allowing teachers or school counsellors to administer it. Another important point is that the FRIENDS programmes’ experiences are very well accepted by the participants (Skryabina et al., 2016), which adds the motivational dimension needed for the programme to be a success.
+Strengths
+Our study has important implications for the possible prevention of aggression, at least maintenance at the baseline level, and also opens up additional questions on understanding which components of social emotional programmes are driving any changes in aggressive behaviour. Similar research on the effectiveness of social and emotional learning programmes for aggression prevention found somewhat more promising results than we did, e.g. an actual reduction in aggression. Durlak et al. (2011) established that social and emotional learning programmes reduce behavioural problems (average effect size = 0.22, average improvement in behaviour = 9%). Wilson and Lipsey (2007) reported an effect size of 0.21, but they examined the impact of social and emotional learning programmes that focused specifically on aggressive behaviour. Similarly, a study in Spain provided evidence that social and emotional learning programmes increase emotional competencies and decrease aggressive behaviour in adolescents (Castillo et al., 2013). The added value of our study is that the contents of the programme give us a possible indication of what may suppress the growth of aggression in the intervention group. Hence, our findings represent an important step towards understanding, even though they are still at an initial phase, whether and how the programme affects student aggression in school settings. As noted elsewhere (Castillo et al., 2013), there is a lack of similar research evidence obtained in non-US contexts and from adolescent samples.
+Limitations and Future Directions
+Although this study provides additional evidence and extends the literature on the use of social and emotional learning programmes for preventing or keeping aggression at the baseline and preventing its rise, it has some limitations that warrant discussion. Our research design meets most but not all of the criteria for a quasi-experimental design. The participants were not randomly selected from the population, nor was it possible to control all the variables that influence students’ aggression (for instance, personality traits, the school environment, upbringing, academic abilities). The effects of the aggression intervention depend on the characteristics of the students and schools involved (Bierman et al., 2010) and the time of the year (e.g. the start of the school year). Due to the programme’s relatively short duration, the assessment data were not collected in the middle of the intervention, which could also be informative. Analyses were conducted at the individual level although the randomisation to the condition occurred at the class level, which limits the causal inferences that may be drawn. Nevertheless, as Slavin (2008) pointed out, effect sizes are unbiased and therefore add to the empirical evidence that the My FRIENDS programme is useful for keeping aggression at the baseline together with reducing anxiety. Due to the sample size, the findings must be regarded as preliminary and should be replicated with a larger sample, preferably in the form of a rigorously designed experimental study grounded in strong developmental theory and based on multiple methods and multiple informants. It would be particularly important if analyses considered moderating and mediating effects and included additional non-self-report measures such as observation tools, teacher or peer reports and possible discipline records.
+
+References
+Barrett, P. (2005). My FRIENDS: Group leaders manual for children. Brisbane: Pathways Health and Research Centre.
+Google Scholar
+  Barrett, P. M., Dadds, M. R., & Rapee, R. M. (1996). Family treatment of childhood anxiety: A controlled trial. Journal of Consulting and Clinical Psychology, 64, 333–342. https://doi.org/10.1037/0022-006X.64.2.333.
+Article
+  PubMed
+  Google Scholar
+  Barrett, P. M., & Farrell, L. (2009). Prevention of child and youth anxiety and anxiety disorders. In M. M. Antony & M. B. Stein (Eds.), Oxford handbook of anxiety and related disorders (pp. 497–512). New York: Oxford University Press.
+Google Scholar
+  Barrett, P. M., Lock, S., & Farrel, L. J. (2005). Developmental differences in universal preventive intervention for child anxiety. Clinical Child Psychology and Psychiatry, 10(4), 539–555. https://doi.org/10.1177/1359104505056317.
+Article
+  Google Scholar
+  Barrett, P. M., Sonderegger, R., & Xenos, S. (2003). Using FRIENDS to combat anxiety and adjustment problems among young migrants to Australia: A national trial. Clinical Child Psychology and Psychiatry, 8(2), 241–260. https://doi.org/10.1177/1359104503008002008.
+Article
+  Google Scholar
+  Batanova, M., & Loukas, A. (2016). Empathy and effortful control effects on early adolescents’ aggression: When do students’ perceptions of their school climate matter? Journal of Applied Developmental Science, 20(2), 79–93. https://doi.org/10.1080/10888691.2015.1067145.
+Article
+  Google Scholar
+  Bierman, K., Coie, J. D., Dodge, K. A., Greenberg, M. T., Lochman, J. E., McMahon, R. J., et al. (2010). The effects of a multiyear universal social-emotional learning program: The role of student and school characteristics. Journal of Consulting and Clinical Psychology, 78(2), 156–168. https://doi.org/10.1037/a0018607.
+Article
+  Google Scholar
+  Blechman, E. A. (1996). Coping, competence, and aggression prevention: Part 2. Universal school-based prevention. Applied and Preventive Psychology, 5(1), 19–35. https://doi.org/10.1016/S0962-1849(96)80023-0.
+Article
+  Google Scholar
+  Boxer, P., Goldstein, S. E., Musher-Eizenman, D., Dubow, E. F., & Heretick, D. (2005). Developmental issues in school-based aggression prevention from a social-cognitive perspective. Journal of Primary Prevention, 26(5), 383–400. https://doi.org/10.1007/s10935-005-0005-9.
+Article
+  PubMed
+  Google Scholar
+  Bronfenbrenner, U. (1979). The ecology of human development. Cambridge, MA: Harvard University Press.
+Google Scholar
+  Brookmeyer, K. A., Fanti, K. A., & Heinrich, G. C. (2006). Schools, parents and youth violence: A multilevel ecological analysis. Journal of Clinical Children and Adolescence Psychology, 35, 504–514. https://doi.org/10.1207/s15374424jccp3504_2.
+Article
+  Google Scholar
+  Bubier, J. L., & Drabick, D. A. (2009). Co-occurring anxiety and disruptive behavior disorders: The roles of anxious symptoms, reactive aggression, and shared risk processes. Clinical Psychology Review, 29(7), 658–669.
+Article
+  Google Scholar
+  Card, N. A., Stucky, B. D., Sawalani, G. M., & Little, T. D. (2008). Direct and indirect aggression during childhood and adolescence: A meta-analytic review of gender differences, intercorrelations, and relations to maladjustment. Child Development, 79(5), 1185–1229. https://doi.org/10.1111/j.1467-8624.2008.01184.x.
+Article
+  PubMed
+  Google Scholar
+  Castillo, R., Salgueroa, J. M., Fernández-Berrocala, P., & Balluerkab, N. (2013). Effects of an emotional intelligence intervention on aggression and empathy among adolescents. Journal of Adolescence, 36(5), 883–892. https://doi.org/10.1016/j.adolescence.2013.07.001.
+Article
+  PubMed
+  Google Scholar
+  Cooley, J. L., Frazer, A. L., Fite, P. J., Brown, S., & DiPierro, M. (2017). Anxiety symptoms as a moderator of the reciprocal links between forms of aggression and peer victimization in middle childhood. Aggressive Behavior, 43(5), 450–459. https://doi.org/10.1002/ab.21703.
+Article
+  PubMed
+  Google Scholar
+  Dadds, M. R., Holland, D., Barrett, P. M., Laurens, K. R., & Spence, S. (1999). Early intervention and prevention of anxiety disorders in children: Results at 2-years follow-up. Journal of Consulting and Clinical Psychology, 67, 145–150. https://doi.org/10.1037/0022-006X.67.1.145.
+Article
+  PubMed
+  Google Scholar
+  Dubow, E. F., Boxer, P., & Huesmann, L. R. (2009). Long-term effects of parents’ education on children’s educational and occupational success: Mediation by family interactions, child aggression, and teenage aspirations. Merrill-Palmer Quarterly, 55(3), 224–249. https://doi.org/10.1353/mpq.0.0030.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Schellinger, K. B., & Taylor, R. D. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 1, 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2011). Schools as developmental contexts during adolescence. Journal of Research on Adolescence, 21(1), 225–241. https://doi.org/10.1111/j.1532-7795.2010.00725.x.
+Article
+  Google Scholar
+  Eisenberg, N., Wentzel, M., & Harris, J. D. (1998). The role of emotionality and regulation in empathy-related responding. School Psychology Review, 27(4), 506–521.
+Google Scholar
+  Espelage, D. L., Low, S., Polanin, J. R., & Brown, E. C. (2015). Clinical trial of Second Step© middle-school program: Impact on aggression & victimization. Journal of Applied Developmental Psychology, 37, 52–63. https://doi.org/10.1016/j.appdev.2014.11.007.
+Article
+  Google Scholar
+  Farrell, A. D., Meyer, A. L., Kung, E. M., & Sullivan, T. N. (2001). Development and evaluation of school-based violence prevention programs. Journal of Clinical Child Psychology, 30(2), 207–220. https://doi.org/10.1207/S15374424JCCP3002_8.
+Article
+  PubMed
+  Google Scholar
+  Fitzgerald, P. D., & Edstrom, L. V. (2006). Second step: A violence prevention curriculum. In S. R. Jimerson & M. J. Furlonfg (Eds.), The handbook of school violence and school safety: From research to practice (pp. 83–394). New York: Routledge.
+Google Scholar
+  Flannery, D. J., Vazsonyi, A. T., & Waldman, I. D. (2007). The Cambridge handbook of violent behaviour and aggression. Cambridge: Cambridge University Press.
+Book
+  Google Scholar
+  Flannery-Schroeder, E. C., & Kendall, P. C. (2000). Group and individual cognitive-behavioral treatments for youth with anxiety disorders: A randomized clinical trial. Cognitive Therapy and Research, 24, 251–278. https://doi.org/10.1023/A:1005500219286.
+Article
+  Google Scholar
+  Goodman, R. (1997). The strengths and difficulties questionnaire: A research note. Journal of Child Psychology and Psychiatry, 38, 581–586. https://doi.org/10.1111/j.1469-7610.1997.tb01545.x.
+Article
+  PubMed
+  Google Scholar
+  Granic, I. (2014). The role of anxiety in the development, maintenance, and treatment of childhood aggression. Development and Psychopathology, 26, 1515–1530. https://doi.org/10.1017/S0954579414001175.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., & Bumbarger, B. (2001). The prevention of mental disorders in school-aged children: Current state of the field. Prevention and Treatment, 4, 1–59. https://doi.org/10.1037/1522-3736.4.1.41a.
+Article
+  Google Scholar
+  Herts, K. L., McLaughlin, K. A., & Hatzenbuehler, M. L. (2012). Emotion dysregulation as a mechanism linking stress exposure to adolescent aggressive behavior. Journal of Abnormal Child Psychology, 40(7), 1111–1122. https://doi.org/10.1007/s10802-012-9629-4.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Huesmann, L. R. (1994). Aggressive behaviour—current perspectives. New York, London: Plenum Press.
+Book
+  Google Scholar
+  Ialongo, N., Edelsohn, G., Werthamer-Larsson, L., Crockett, L., & Kellam, S. (1996). The course of aggression in first-grade children with and without co-morbid anxious symptoms. Journal of Abnormal Child Psychology, 24, 445–456. https://doi.org/10.1007/BF01441567.
+Article
+  PubMed
+  Google Scholar
+  Ishikawa, S.-I., Okajima, I., Matsuoka, H., & Sakano, Y. (2007). Cognitive behavioral therapy for anxiety disorders in children and adolescents: A meta-analysis. Child and Adolescent Mental Health, 12, 164–172. https://doi.org/10.1111/j.1475-3588.2006.00433.x.
+Article
+  Google Scholar
+  Jurbergs, N., Palcic, J., & Kelley, M. L. (1997). School-home notes with and without response cost: Increasing attention and academic performance in low-income children with attention-deficit/hyperactivity disorder. School Psychology Quarterly, 22(3), 358–379. https://doi.org/10.1037/1045-3830.22.3.358.
+Article
+  Google Scholar
+  Kozina, A. (2013). The LA aggression scale for elementary school and upper secondary school students: Examination of psychometric properties of a new multidimensional measure of self-reported aggression. Psihologija, 46(3), 245–259. https://doi.org/10.2298/PSI130402003K.
+Article
+  Google Scholar
+  Kozina, A. (2014). Lestvica agresivnosti AG-UD—priročnik [Aggresion scale AG–UD: manual]. Ljubljana: Center za psihodiagnostična sredstva.
+Kozina, A. (2015). Aggression in primary schools: The predictive power of the school and home environment. Educational Studies, 41(1–2), 109–121. https://doi.org/10.1080/03055698.2014.955736.
+Article
+  Google Scholar
+  Kozina, A. (2017). Aggression in late childhood and in early adolescence in Slovenia: Two-wave cohort study. Current Issues in Personality Psychology, 5(1), 32–40. https://doi.org/10.5114/cipp.2017.65827.
+Article
+  Google Scholar
+  Kozina, A. (2018). School based prevention of anxiety using emotional resiliency program “My FRIENDS”: 6 months follow up (a pilot study). International Journal of Psychology.
+Leff, S. S., & Waasdorp, T. E. (2013). Effect of aggression and bullying on children and adolescents: implications for prevention and intervention. Current Psychiatry Reports, 15(3), 343. https://doi.org/10.1007/s11920-012-0343-2.
+Article
+  PubMed
+  Google Scholar
+  Levy, K., Hunt, C., & Heriot, S. (2007). Treating co-morbid anxiety and aggression in children. Journal of American Academy for Children Adolescence Psychiatry, 46(9), 1111–1118. https://doi.org/10.1097/chi.0b013e318074eb32.
+Article
+  Google Scholar
+  Lochman, J. E., Wayland, K. K., & White, K. J. (1993). Social goals: Relationship to adolescent adjustment and to social problem solving. Journal of Abnormal Child Psychology, 21(2), 135–151. https://doi.org/10.1007/BF00911312.
+Article
+  PubMed
+  Google Scholar
+  Lovett, B. J., & Sheffield, R. A. (2007). Affective empathy deficits in aggressive children and adolescents: A critical review. Clinical Psychology Review, 27(1), 1–13. https://doi.org/10.1016/j.cpr.2006.03.003.
+Article
+  PubMed
+  Google Scholar
+  Malm, B., & Löfgren, H. (2006). Teacher competence and students’ conflict handling strategies. Research in Education, 11(1), 62–73. https://doi.org/10.7227/RIE.76.6.
+Article
+  Google Scholar
+  Marcus, R. F. (2007). Aggression and violence in adolescence. New York: Cambridge University Press.
+Book
+  Google Scholar
+  Mugnaioni Lešnik, D., Koren, A., Logaj, V., & Brejc, M. (2008). Nasilje v šolah: konceptualizacija, prepoznavanje in modeli preprečevanja in obvladovanja [Violence in schools: conceptualization, recognition and models of prevention and intervention]. Ljubljana: Šola za ravnatelje.
+Google Scholar
+  Mullin, B. C., & Hinshaw, S. P. (2007). Emotion regulation and externalizing disorders in children and adolescents. In J. J. Gros (Ed.), Handbook of emotion regulation (pp. 523–541). New York, London: Guilford Press.
+Google Scholar
+  National Institutes of Health. (2006). National institutes of health state-of-the-science conference statement. Journal of Clinical Child Psychology, 34, 457–470.
+Google Scholar
+  Ng, R., Ang, R. P., & Ho, M. R. (2012). Coping with anxiety, depression, anger and aggression: The mediational role of resilience in adolescenst. Child Youth and Care Forum, 41, 529–546. https://doi.org/10.1007/s10566-012-9182-x.
+Article
+  Google Scholar
+  Pikó, B., & Pinczés, T. (2015). Autonomy support or direct control? High school students’ experience of their teacher’s behaviour. European Journal of Mental Health, 10, 106–117. https://doi.org/10.5708/EJMH.10.2015.1.7.
+Article
+  Google Scholar
+  Riggs, N. R., Greenberg, M. T., Kusché, C. A., & Pentz, M. A. (2006). The mediational role of neurocognition in the behavioral outcomes of a social-emotional prevention program in elementary school students: Effects of the PATHS curriculum. Prevention Science, 7(1), 91–102. https://doi.org/10.1007/s11121-005-0022-1.
+Article
+  PubMed
+  Google Scholar
+  Roberton, T., Daffern, M., & Bucks, R. S. (2012). Emotion regulation and aggression. Aggression and Violent Behavior, 17(1), 72–82. https://doi.org/10.1016/j.avb.2011.09.006.
+Article
+  Google Scholar
+  Rodgers, A., & Dunsmuir, S. (2015). A controlled evaluation of the ‘FRIENDS for Life’emotional resiliency programme on overall anxiety levels, anxiety subtype levels and school adjustment. Child and Adolescent Mental Health, 20(1), 13–19.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., Smith, V., Zaidman-Zait, A., & Hertzman, C. (2012). Promoting children’s prosocial behaviors in school: Impact of the “Roots of Empathy” program on the social and emotional competence of school-aged children. School Mental Health, 4(1), 1–21. https://doi.org/10.1007/s12310-011-9064-7.
+Article
+  Google Scholar
+  Schwartz, D. J., Gorman, A. H., Nakamoto, J., & Mckay, T. (2006). Popularity, social acceptance, and aggression in adolescent peer groups: links with academic performance and school attendance. Developmental Psychology, 42(6), 1116–1127. https://doi.org/10.1037/0012-1649.42.6.1116.
+Article
+  PubMed
+  Google Scholar
+  Skryabina, E., Morris, J., Byrne, D., Harkin, N., Rook, S., & Stallard, P. (2016). Child, Teacher and parent perceptions of the FRIENDS classroom-based universal anxiety prevention programme: A qualitative study. School Mental Health, 8(4), 486–498. https://doi.org/10.1007/s12310-016-9187-y.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Slavin, R. E. (2008). Perspectives on evidence-based research in education—What works? Issues in synthesizing educational program evaluations. Educational Researcher, 37(1), 5–14. https://doi.org/10.3102/0013189X08314117.
+Article
+  Google Scholar
+  Tanaka, A., Raishevich, N., & Scarpa, A. (2010). Family conflict and childhood aggression: The role of child anxiety. Journal of Interpersonal Violence, 20(10), 1–17. https://doi.org/10.1177/0886260509354516.
+Article
+  Google Scholar
+  Ttofi, M. M., & Farrington, D. P. (2011). Effectiveness of school-based programs to reduce bullying: A systematic and meta-analytic review. Journal of Experimental Criminology, 7(1), 27–56. https://doi.org/10.1007/s11292-010-9109-1.
+Article
+  Google Scholar
+  van Hazebroek, B., Olthof, T., & Goossens, F. A. (2017). Predicting aggression in adolescence: The interrelation between (a lack of) empathy and social goals. Aggressive Behavior, 43(2), 204–214. https://doi.org/10.1002/ab.21675.
+Article
+  PubMed
+  Google Scholar
+  Whitman, C. N., & Gottdiener, W. H. (2015). Implicit coping styles as a predictor of aggression. Journal of Aggression, Maltreatment & Trauma, 24(7), 809–824. https://doi.org/10.1080/10926771.2015.1062447.
+Article
+  Google Scholar
+  Wilkinson, B. M., & Robinson, M. D. (2008). The cognitive basis of trait anger and reactive aggression: An integrative analysis. Personality and Social Psychology Review, 12, 3–21. https://doi.org/10.1177/1088868307309874.
+Article
+  Google Scholar
+  Wilson, S. J., & Lipsey, M. W. (2007). School-based interventions for aggressive and disruptive behavior: Update of a meta-analysis. American Journal of Preventive Medicine, 33(2), 130–143.
+Article
+  Google Scholar
+  Wilson, S. J., Lipsey, M. W., & Derzon, J. H. (2003). The effects of school-based intervention programs on aggressive behaviour: a meta analyses. Journal of Consulting Clinical Psychology, 71(1), 136–149. https://doi.org/10.1037//0022-006X.71.1.136.
+Article
+  PubMed
+  Google Scholar
+  Download references
+
+References
+
+Barrett, P. (2005). My FRIENDS: Group leaders manual for children. Brisbane: Pathways Health and Research Centre.
+Google Scholar
+  Barrett, P. M., Dadds, M. R., & Rapee, R. M. (1996). Family treatment of childhood anxiety: A controlled trial. Journal of Consulting and Clinical Psychology, 64, 333–342. https://doi.org/10.1037/0022-006X.64.2.333.
+Article
+  PubMed
+  Google Scholar
+  Barrett, P. M., & Farrell, L. (2009). Prevention of child and youth anxiety and anxiety disorders. In M. M. Antony & M. B. Stein (Eds.), Oxford handbook of anxiety and related disorders (pp. 497–512). New York: Oxford University Press.
+Google Scholar
+  Barrett, P. M., Lock, S., & Farrel, L. J. (2005). Developmental differences in universal preventive intervention for child anxiety. Clinical Child Psychology and Psychiatry, 10(4), 539–555. https://doi.org/10.1177/1359104505056317.
+Article
+  Google Scholar
+  Barrett, P. M., Sonderegger, R., & Xenos, S. (2003). Using FRIENDS to combat anxiety and adjustment problems among young migrants to Australia: A national trial. Clinical Child Psychology and Psychiatry, 8(2), 241–260. https://doi.org/10.1177/1359104503008002008.
+Article
+  Google Scholar
+  Batanova, M., & Loukas, A. (2016). Empathy and effortful control effects on early adolescents’ aggression: When do students’ perceptions of their school climate matter? Journal of Applied Developmental Science, 20(2), 79–93. https://doi.org/10.1080/10888691.2015.1067145.
+Article
+  Google Scholar
+  Bierman, K., Coie, J. D., Dodge, K. A., Greenberg, M. T., Lochman, J. E., McMahon, R. J., et al. (2010). The effects of a multiyear universal social-emotional learning program: The role of student and school characteristics. Journal of Consulting and Clinical Psychology, 78(2), 156–168. https://doi.org/10.1037/a0018607.
+Article
+  Google Scholar
+  Blechman, E. A. (1996). Coping, competence, and aggression prevention: Part 2. Universal school-based prevention. Applied and Preventive Psychology, 5(1), 19–35. https://doi.org/10.1016/S0962-1849(96)80023-0.
+Article
+  Google Scholar
+  Boxer, P., Goldstein, S. E., Musher-Eizenman, D., Dubow, E. F., & Heretick, D. (2005). Developmental issues in school-based aggression prevention from a social-cognitive perspective. Journal of Primary Prevention, 26(5), 383–400. https://doi.org/10.1007/s10935-005-0005-9.
+Article
+  PubMed
+  Google Scholar
+  Bronfenbrenner, U. (1979). The ecology of human development. Cambridge, MA: Harvard University Press.
+Google Scholar
+  Brookmeyer, K. A., Fanti, K. A., & Heinrich, G. C. (2006). Schools, parents and youth violence: A multilevel ecological analysis. Journal of Clinical Children and Adolescence Psychology, 35, 504–514. https://doi.org/10.1207/s15374424jccp3504_2.
+Article
+  Google Scholar
+  Bubier, J. L., & Drabick, D. A. (2009). Co-occurring anxiety and disruptive behavior disorders: The roles of anxious symptoms, reactive aggression, and shared risk processes. Clinical Psychology Review, 29(7), 658–669.
+Article
+  Google Scholar
+  Card, N. A., Stucky, B. D., Sawalani, G. M., & Little, T. D. (2008). Direct and indirect aggression during childhood and adolescence: A meta-analytic review of gender differences, intercorrelations, and relations to maladjustment. Child Development, 79(5), 1185–1229. https://doi.org/10.1111/j.1467-8624.2008.01184.x.
+Article
+  PubMed
+  Google Scholar
+  Castillo, R., Salgueroa, J. M., Fernández-Berrocala, P., & Balluerkab, N. (2013). Effects of an emotional intelligence intervention on aggression and empathy among adolescents. Journal of Adolescence, 36(5), 883–892. https://doi.org/10.1016/j.adolescence.2013.07.001.
+Article
+  PubMed
+  Google Scholar
+  Cooley, J. L., Frazer, A. L., Fite, P. J., Brown, S., & DiPierro, M. (2017). Anxiety symptoms as a moderator of the reciprocal links between forms of aggression and peer victimization in middle childhood. Aggressive Behavior, 43(5), 450–459. https://doi.org/10.1002/ab.21703.
+Article
+  PubMed
+  Google Scholar
+  Dadds, M. R., Holland, D., Barrett, P. M., Laurens, K. R., & Spence, S. (1999). Early intervention and prevention of anxiety disorders in children: Results at 2-years follow-up. Journal of Consulting and Clinical Psychology, 67, 145–150. https://doi.org/10.1037/0022-006X.67.1.145.
+Article
+  PubMed
+  Google Scholar
+  Dubow, E. F., Boxer, P., & Huesmann, L. R. (2009). Long-term effects of parents’ education on children’s educational and occupational success: Mediation by family interactions, child aggression, and teenage aspirations. Merrill-Palmer Quarterly, 55(3), 224–249. https://doi.org/10.1353/mpq.0.0030.
+Article
+  PubMed
+  Google Scholar
+  Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Schellinger, K. B., & Taylor, R. D. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 1, 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  Google Scholar
+  Eccles, J. S., & Roeser, R. W. (2011). Schools as developmental contexts during adolescence. Journal of Research on Adolescence, 21(1), 225–241. https://doi.org/10.1111/j.1532-7795.2010.00725.x.
+Article
+  Google Scholar
+  Eisenberg, N., Wentzel, M., & Harris, J. D. (1998). The role of emotionality and regulation in empathy-related responding. School Psychology Review, 27(4), 506–521.
+Google Scholar
+  Espelage, D. L., Low, S., Polanin, J. R., & Brown, E. C. (2015). Clinical trial of Second Step© middle-school program: Impact on aggression & victimization. Journal of Applied Developmental Psychology, 37, 52–63. https://doi.org/10.1016/j.appdev.2014.11.007.
+Article
+  Google Scholar
+  Farrell, A. D., Meyer, A. L., Kung, E. M., & Sullivan, T. N. (2001). Development and evaluation of school-based violence prevention programs. Journal of Clinical Child Psychology, 30(2), 207–220. https://doi.org/10.1207/S15374424JCCP3002_8.
+Article
+  PubMed
+  Google Scholar
+  Fitzgerald, P. D., & Edstrom, L. V. (2006). Second step: A violence prevention curriculum. In S. R. Jimerson & M. J. Furlonfg (Eds.), The handbook of school violence and school safety: From research to practice (pp. 83–394). New York: Routledge.
+Google Scholar
+  Flannery, D. J., Vazsonyi, A. T., & Waldman, I. D. (2007). The Cambridge handbook of violent behaviour and aggression. Cambridge: Cambridge University Press.
+Book
+  Google Scholar
+  Flannery-Schroeder, E. C., & Kendall, P. C. (2000). Group and individual cognitive-behavioral treatments for youth with anxiety disorders: A randomized clinical trial. Cognitive Therapy and Research, 24, 251–278. https://doi.org/10.1023/A:1005500219286.
+Article
+  Google Scholar
+  Goodman, R. (1997). The strengths and difficulties questionnaire: A research note. Journal of Child Psychology and Psychiatry, 38, 581–586. https://doi.org/10.1111/j.1469-7610.1997.tb01545.x.
+Article
+  PubMed
+  Google Scholar
+  Granic, I. (2014). The role of anxiety in the development, maintenance, and treatment of childhood aggression. Development and Psychopathology, 26, 1515–1530. https://doi.org/10.1017/S0954579414001175.
+Article
+  PubMed
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., & Bumbarger, B. (2001). The prevention of mental disorders in school-aged children: Current state of the field. Prevention and Treatment, 4, 1–59. https://doi.org/10.1037/1522-3736.4.1.41a.
+Article
+  Google Scholar
+  Herts, K. L., McLaughlin, K. A., & Hatzenbuehler, M. L. (2012). Emotion dysregulation as a mechanism linking stress exposure to adolescent aggressive behavior. Journal of Abnormal Child Psychology, 40(7), 1111–1122. https://doi.org/10.1007/s10802-012-9629-4.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Huesmann, L. R. (1994). Aggressive behaviour—current perspectives. New York, London: Plenum Press.
+Book
+  Google Scholar
+  Ialongo, N., Edelsohn, G., Werthamer-Larsson, L., Crockett, L., & Kellam, S. (1996). The course of aggression in first-grade children with and without co-morbid anxious symptoms. Journal of Abnormal Child Psychology, 24, 445–456. https://doi.org/10.1007/BF01441567.
+Article
+  PubMed
+  Google Scholar
+  Ishikawa, S.-I., Okajima, I., Matsuoka, H., & Sakano, Y. (2007). Cognitive behavioral therapy for anxiety disorders in children and adolescents: A meta-analysis. Child and Adolescent Mental Health, 12, 164–172. https://doi.org/10.1111/j.1475-3588.2006.00433.x.
+Article
+  Google Scholar
+  Jurbergs, N., Palcic, J., & Kelley, M. L. (1997). School-home notes with and without response cost: Increasing attention and academic performance in low-income children with attention-deficit/hyperactivity disorder. School Psychology Quarterly, 22(3), 358–379. https://doi.org/10.1037/1045-3830.22.3.358.
+Article
+  Google Scholar
+  Kozina, A. (2013). The LA aggression scale for elementary school and upper secondary school students: Examination of psychometric properties of a new multidimensional measure of self-reported aggression. Psihologija, 46(3), 245–259. https://doi.org/10.2298/PSI130402003K.
+Article
+  Google Scholar
+  Kozina, A. (2014). Lestvica agresivnosti AG-UD—priročnik [Aggresion scale AG–UD: manual]. Ljubljana: Center za psihodiagnostična sredstva.
+Kozina, A. (2015). Aggression in primary schools: The predictive power of the school and home environment. Educational Studies, 41(1–2), 109–121. https://doi.org/10.1080/03055698.2014.955736.
+Article
+  Google Scholar
+  Kozina, A. (2017). Aggression in late childhood and in early adolescence in Slovenia: Two-wave cohort study. Current Issues in Personality Psychology, 5(1), 32–40. https://doi.org/10.5114/cipp.2017.65827.
+Article
+  Google Scholar
+  Kozina, A. (2018). School based prevention of anxiety using emotional resiliency program “My FRIENDS”: 6 months follow up (a pilot study). International Journal of Psychology.
+Leff, S. S., & Waasdorp, T. E. (2013). Effect of aggression and bullying on children and adolescents: implications for prevention and intervention. Current Psychiatry Reports, 15(3), 343. https://doi.org/10.1007/s11920-012-0343-2.
+Article
+  PubMed
+  Google Scholar
+  Levy, K., Hunt, C., & Heriot, S. (2007). Treating co-morbid anxiety and aggression in children. Journal of American Academy for Children Adolescence Psychiatry, 46(9), 1111–1118. https://doi.org/10.1097/chi.0b013e318074eb32.
+Article
+  Google Scholar
+  Lochman, J. E., Wayland, K. K., & White, K. J. (1993). Social goals: Relationship to adolescent adjustment and to social problem solving. Journal of Abnormal Child Psychology, 21(2), 135–151. https://doi.org/10.1007/BF00911312.
+Article
+  PubMed
+  Google Scholar
+  Lovett, B. J., & Sheffield, R. A. (2007). Affective empathy deficits in aggressive children and adolescents: A critical review. Clinical Psychology Review, 27(1), 1–13. https://doi.org/10.1016/j.cpr.2006.03.003.
+Article
+  PubMed
+  Google Scholar
+  Malm, B., & Löfgren, H. (2006). Teacher competence and students’ conflict handling strategies. Research in Education, 11(1), 62–73. https://doi.org/10.7227/RIE.76.6.
+Article
+  Google Scholar
+  Marcus, R. F. (2007). Aggression and violence in adolescence. New York: Cambridge University Press.
+Book
+  Google Scholar
+  Mugnaioni Lešnik, D., Koren, A., Logaj, V., & Brejc, M. (2008). Nasilje v šolah: konceptualizacija, prepoznavanje in modeli preprečevanja in obvladovanja [Violence in schools: conceptualization, recognition and models of prevention and intervention]. Ljubljana: Šola za ravnatelje.
+Google Scholar
+  Mullin, B. C., & Hinshaw, S. P. (2007). Emotion regulation and externalizing disorders in children and adolescents. In J. J. Gros (Ed.), Handbook of emotion regulation (pp. 523–541). New York, London: Guilford Press.
+Google Scholar
+  National Institutes of Health. (2006). National institutes of health state-of-the-science conference statement. Journal of Clinical Child Psychology, 34, 457–470.
+Google Scholar
+  Ng, R., Ang, R. P., & Ho, M. R. (2012). Coping with anxiety, depression, anger and aggression: The mediational role of resilience in adolescenst. Child Youth and Care Forum, 41, 529–546. https://doi.org/10.1007/s10566-012-9182-x.
+Article
+  Google Scholar
+  Pikó, B., & Pinczés, T. (2015). Autonomy support or direct control? High school students’ experience of their teacher’s behaviour. European Journal of Mental Health, 10, 106–117. https://doi.org/10.5708/EJMH.10.2015.1.7.
+Article
+  Google Scholar
+  Riggs, N. R., Greenberg, M. T., Kusché, C. A., & Pentz, M. A. (2006). The mediational role of neurocognition in the behavioral outcomes of a social-emotional prevention program in elementary school students: Effects of the PATHS curriculum. Prevention Science, 7(1), 91–102. https://doi.org/10.1007/s11121-005-0022-1.
+Article
+  PubMed
+  Google Scholar
+  Roberton, T., Daffern, M., & Bucks, R. S. (2012). Emotion regulation and aggression. Aggression and Violent Behavior, 17(1), 72–82. https://doi.org/10.1016/j.avb.2011.09.006.
+Article
+  Google Scholar
+  Rodgers, A., & Dunsmuir, S. (2015). A controlled evaluation of the ‘FRIENDS for Life’emotional resiliency programme on overall anxiety levels, anxiety subtype levels and school adjustment. Child and Adolescent Mental Health, 20(1), 13–19.
+Article
+  Google Scholar
+  Schonert-Reichl, K. A., Smith, V., Zaidman-Zait, A., & Hertzman, C. (2012). Promoting children’s prosocial behaviors in school: Impact of the “Roots of Empathy” program on the social and emotional competence of school-aged children. School Mental Health, 4(1), 1–21. https://doi.org/10.1007/s12310-011-9064-7.
+Article
+  Google Scholar
+  Schwartz, D. J., Gorman, A. H., Nakamoto, J., & Mckay, T. (2006). Popularity, social acceptance, and aggression in adolescent peer groups: links with academic performance and school attendance. Developmental Psychology, 42(6), 1116–1127. https://doi.org/10.1037/0012-1649.42.6.1116.
+Article
+  PubMed
+  Google Scholar
+  Skryabina, E., Morris, J., Byrne, D., Harkin, N., Rook, S., & Stallard, P. (2016). Child, Teacher and parent perceptions of the FRIENDS classroom-based universal anxiety prevention programme: A qualitative study. School Mental Health, 8(4), 486–498. https://doi.org/10.1007/s12310-016-9187-y.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Slavin, R. E. (2008). Perspectives on evidence-based research in education—What works? Issues in synthesizing educational program evaluations. Educational Researcher, 37(1), 5–14. https://doi.org/10.3102/0013189X08314117.
+Article
+  Google Scholar
+  Tanaka, A., Raishevich, N., & Scarpa, A. (2010). Family conflict and childhood aggression: The role of child anxiety. Journal of Interpersonal Violence, 20(10), 1–17. https://doi.org/10.1177/0886260509354516.
+Article
+  Google Scholar
+  Ttofi, M. M., & Farrington, D. P. (2011). Effectiveness of school-based programs to reduce bullying: A systematic and meta-analytic review. Journal of Experimental Criminology, 7(1), 27–56. https://doi.org/10.1007/s11292-010-9109-1.
+Article
+  Google Scholar
+  van Hazebroek, B., Olthof, T., & Goossens, F. A. (2017). Predicting aggression in adolescence: The interrelation between (a lack of) empathy and social goals. Aggressive Behavior, 43(2), 204–214. https://doi.org/10.1002/ab.21675.
+Article
+  PubMed
+  Google Scholar
+  Whitman, C. N., & Gottdiener, W. H. (2015). Implicit coping styles as a predictor of aggression. Journal of Aggression, Maltreatment & Trauma, 24(7), 809–824. https://doi.org/10.1080/10926771.2015.1062447.
+Article
+  Google Scholar
+  Wilkinson, B. M., & Robinson, M. D. (2008). The cognitive basis of trait anger and reactive aggression: An integrative analysis. Personality and Social Psychology Review, 12, 3–21. https://doi.org/10.1177/1088868307309874.
+Article
+  Google Scholar
+  Wilson, S. J., & Lipsey, M. W. (2007). School-based interventions for aggressive and disruptive behavior: Update of a meta-analysis. American Journal of Preventive Medicine, 33(2), 130–143.
+Article
+  Google Scholar
+  Wilson, S. J., Lipsey, M. W., & Derzon, J. H. (2003). The effects of school-based intervention programs on aggressive behaviour: a meta analyses. Journal of Consulting Clinical Psychology, 71(1), 136–149. https://doi.org/10.1037//0022-006X.71.1.136.
+Article
+  PubMed
+  Google Scholar
+  Download references
+
+Acknowledgements
+This study was funded by ARRS (the Slovenian Research Agency) (Grant Number: 2’11-II∕902).
+
+Acknowledgements
+
+This study was funded by ARRS (the Slovenian Research Agency) (Grant Number: 2’11-II∕902).
+
+Author information
+Authors and Affiliations
+Educational Research Institute, Ljubljana, Slovenia
+Ana Kozina
+Corresponding author
+Correspondence to Ana Kozina.
+
+Author information
+
+Authors and Affiliations
+Educational Research Institute, Ljubljana, Slovenia
+Ana Kozina
+Corresponding author
+Correspondence to Ana Kozina.
+
+Ethics declarations
+Conflict of interest
+Ana Kozina declares that she has no conflict of interest.
+Research Involving Human Participants and/or Animals
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
+Informed Consent
+Informed consent was obtained from all individual participants included in the study.
+
+Ethics declarations
+
+Conflict of interest
+Ana Kozina declares that she has no conflict of interest.
+Research Involving Human Participants and/or Animals
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
+Informed Consent
+Informed consent was obtained from all individual participants included in the study.
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Kozina, A. Can the “My FRIENDS” Anxiety Prevention Programme Also be Used to Prevent Aggression? A Six-Month Follow-Up in a School. School Mental Health 10, 500–509 (2018). https://doi.org/10.1007/s12310-018-9272-5
+Download citation
+Published
+12 May 2018
+Issue Date
+December 2018
+DOI
+https://doi.org/10.1007/s12310-018-9272-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Aggression
+Externalisation
+FRIENDS
+School
+Social and emotional learning
+
+About this article
+
+Cite this article
+Kozina, A. Can the “My FRIENDS” Anxiety Prevention Programme Also be Used to Prevent Aggression? A Six-Month Follow-Up in a School. School Mental Health 10, 500–509 (2018). https://doi.org/10.1007/s12310-018-9272-5
+Download citation
+Published
+12 May 2018
+Issue Date
+December 2018
+DOI
+https://doi.org/10.1007/s12310-018-9272-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Aggression
+Externalisation
+FRIENDS
+School
+Social and emotional learning

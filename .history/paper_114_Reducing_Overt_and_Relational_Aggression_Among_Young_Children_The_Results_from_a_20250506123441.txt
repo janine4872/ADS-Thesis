@@ -1,0 +1,550 @@
+educing Overt and Relational Aggression
+Among Young Children:
+The Results from a Two-Year
+Outcome Evaluation
+Douglas Boyle
+Connie Hassett-Walker
+ABSTRACT. This paper presents the results of an independent two-
+year evaluation of the I Can Problem Solve (ICPS) universal prevention
+program, implemented in kindergarten and first grade classrooms in a
+racially and ethnically diverse urban school district. Matched pairs of
+schools were assigned to Instruction (i.e., treatment) or Control status.
+Teachers assessed students’ behaviors at pre and post implementation
+using two different rating scales. Overall, we found support for the effec-
+tiveness of ICPS in increasing prosocial behaviors and in reducing ag-
+gressive behaviors. The mean change scores of both scales showed a
+significant additive effect, with children (n = 96) receiving two years of
+ICPS instruction showing greater improvement than both children re-
+ceiving one year of ICPS instruction (n = 106) as well as the two-year
+Control students (n = 24). The authors were selected by the school dis-
+trict to evaluate ICPS, and are not affiliated with the program.
+doi:10.1300/J202v07n01_03 [Article copies available for a fee from The
+Haworth Document Delivery Service: 1-800-HAWORTH. E-mail address:
+<docdelivery@haworthpress.com> Website: <http://www.HaworthPress.com>
+© 2008 by The Haworth Press. All rights reserved.]
+Douglas Boyle is affiliated with Violence Institute of New Jersey, University of Med-
+icine and Dentistry of New Jersey, 183 South Orange Avenue, D-1400, Behavioral
+Health Science Building, Newark, NJ 07103 (E-mail: Douglas.Boyle@umdnj.edu).
+Connie Hassett-Walker is affiliated with Violence Institute of New Jersey, Univer-
+sity of Medicine and Dentistry of New Jersey, 183 South Orange Avenue, D-1400, Be-
+havioral Health Science Building, Newark, NJ 07103 (E-mail: hassetco@umdnj.edu).
+Journal of School Violence, Vol. 7(1) 2008
+Available online at http://jsv.haworthpress.com
+© 2008 by The Haworth Press. All rights reserved.
+doi:10.1300/J202v07n01_03 27
+KEYWORDS. Universal prevention, overt aggression, relational ag-
+gression, children, prosocial behavior
+Longitudinal research (Eron, 1997; Huesmann, Eron, Lefkowitz, &
+Walder, 1984; Lahey, Loeber, Burke & Applegate, 2005; Olweus,
+1979, 1993) suggests that aggressive behavior is learned early and
+learned well. In fact, it is one of the most stable characteristics over
+time, with aggressive behavior at age six predicting violent behavior
+twenty and more years later (Huesmann et al., 1984). Eron (1997) sug-
+gests that the window of opportunity to intervene to prevent the devel-
+opment of antisocial attitudes and behavior patterns may in fact be very
+small (i.e., between ages six to eight). Furthermore, researchers have
+consistently noted that regardless of how it is measured (e.g., teacher
+ratings, peer assessments, or behavioral observations), aggressive be-
+havior is very stable from childhood through adolescence (Rubin,
+Bream & Rose-Krasnor, 1991). Given these findings, universal preven-
+tion programs designed to intervene early in young lives are an essential
+component to any long-term efforts to reduce the incidence of aggres-
+sive behavior.
+In the present study, the Interpersonal Cognitive Problem Solving
+curriculum (also known as I Can Problem Solve) (ICPS; Shure, 2001)
+was implemented, with the goal of increasing prosocial behavior and re-
+ducing aggressive behavior in children in kindergarten and first grades
+in a large, ethnically diverse urban school district. ICPS is a school-
+based universal/primary prevention program that focuses on children’s
+cognitive processes and problem-solving skills rather than on specific
+behaviors. Three prior quasi-experimental evaluations by the ICPS pro-
+gram developer have produced positive, significant findings, although
+some of the studies experienced subject attrition. In a two-year study of
+ICPS with four- and five-year olds, Shure and Spivack (1982, 1980)
+found that participating children were less impulsive, had less inhibited
+classroom behavior, and exhibited better problem-solving skills. Chil-
+dren were assigned to one of four instruction conditions (i.e., two years
+of ICPS; ICPS in nursery school only; ICPS in kindergarten only; or
+no-instruction control). Sample sizes within the conditions ranged from
+27 to 39 per group.
+A five-year longitudinal study (n = 252) revealed that ICPS children
+had better classroom behavior and problem-solving skills, with the
+greatest impact on boys trained by their teachers, and girls trained by
+their mothers (Shure, 1993.) Finally, a study of ICPS implementation
+28 JOURNAL OF SCHOOL VIOLENCE
+with African American mother-child pairs (n = 40) found that ICPS
+children whose mothers best learned how to apply the problem solving
+techniques when actual problems arose, showed the most behavioral
+improvement. This finding was especially true among youngsters who
+most improved in their ability to offer alternative solutions to problems
+(Shure, 1983).
+The purpose of the present study was to experimentally evaluate the
+effectiveness of ICPS in an urban school district. Specifically, we hy-
+pothesized that children receiving instruction in ICPS would demon-
+strate more pro-social behavior and less aggression than children who
+did not receive ICPS training. Furthermore, we were interested in exam-
+ining whether there were incremental benefits in receiving an additional
+year of ICPS training.
+This study makes two contributions to the literature. First, while prior
+evaluations of ICPS have shown effects for children in problem solving
+skills, prosocial behavior, and impulsive behaviors, the present study is
+the first to examine distinct aspects of aggression, specifically relational
+and overt aggression. Secondly, this study provides a recent, independ-
+ent assessment of the program’s effectiveness. Most other evaluations
+of ICPS were conducted over a decade ago by one of the program’s de-
+velopers. This is important given the increasing emphasis placed on evi-
+denced-based practices as mandated by the No Child Left Behind Act
+(2001) (Daunic, Smith, Brank et al., 2006).
+THE ICPS THEORETICAL BASIS AND CURRICULUM
+The ICPS curriculum developed from earlier work (e.g., Spivack,
+Platt & Shure, 1976; Spivack and Shure, 1982), in which the authors
+(including Shure, the developer of the present ICPS program) posit that
+an individual’s thought processes and skills are more important than
+that person’s belief system in determining how the individual will be-
+have. That is, for example, they state that teaching children how to think
+rather than what to think is the more important factor in determining
+how socially well adjusted the children will be (e.g., less aggressive,
+more assertive, less passive). Thus, the ICPS curriculum does not teach
+children specific solutions to particular situations or problems. Rather,
+it focuses on the cognitive processes and skills needed to solve prob-
+lems generally with the assumption being that children will generate
+better solutions with improved problem-solving skills.
+Douglas Boyle and Connie Hassett-Walker 29
+The ICPS curriculum for kindergarten and the primary grades
+(Shure, 2001) consists of 83 lessons that include a stated purpose of the
+lesson; a list of suggested materials; and a teacher script, which explains
+the basic steps in conducting the lessons. ICPS is optimally taught three
+to five times per week. Lessons focus on training children to: generate a
+variety of solutions to interpersonal problems; think through the conse-
+quences of each potential solution; and identify thoughts, feelings, and
+motives that can generate problem situations. A key principle is that the
+child, rather than the teacher, must solve the problem at hand (e.g., a
+peer cut in front of the child in line; a classmate is using something–the
+computer, for instance–that the child wants). This will help the child de-
+velop the habit of creating solutions to problems, considering conse-
+quences for his/her actions, and thinking for her/himself. The program
+includes formal lessons as well as specific suggestions for integrating
+what is taught into the day-to-day classroom happenings, a technique
+called ICPS dialoguing (Shure, 2001).
+Initial lessons teach children word concepts (e.g., some/all, if . . .
+then) and pre-problem-solving skills, which provide building blocks for
+recognizing others’ feelings, and for the applied problem-solving les-
+sons that come later. Subsequent lessons help children to identify their
+own and others’ feelings. Final lessons use role-playing games and
+dialoguing to promote problem-solving skills. Teachers can follow the
+ICPS lessons as they are described in the instruction manual, as well as
+infuse the concepts into regular curricular subjects (e.g., reading, math,
+social studies), and apply the ICPS dialoguing technique to solve prob-
+lems that may arise throughout the school day.
+Teacher Training
+During both project years, instruction staff received a copy of the
+ICPS Teacher’s Manual prior to the kick-off training, which was held
+mid-winter (i.e., December/January). Each year, a subsequent ‘booster’
+training was held several months later, focusing on the ICPS dialoguing
+technique. Teachers’ specific issues with implementing ICPS in their
+classrooms were addressed at the follow-up training (e.g., finding the
+time to teach the lessons despite their other academic requirements; en-
+suring that the teachers were making sufficient progress so that they
+would reach the later problem-solving lessons).
+30 JOURNAL OF SCHOOL VIOLENCE
+Implementation Fidelity
+An evaluation staff member made pre-scheduled visits to ICPS class-
+rooms to observe each teacher’s ICPS lessons and/or dialoguing with
+students. Two observational visits were scheduled for each Instruction
+classroom. The first visits occurred in March, and the follow-up visits
+occurred in June of the spring semester. Thus, the observations oc-
+curred before and after a follow-up training focusing on the program’s
+dialoguing technique. The evaluator observed which lesson the teacher
+was teaching, whether or not any dialoguing occurred when a problem
+arose during or after a lesson, if the teacher incorporated additional in-
+structional techniques (e.g., using stories, role-playing), if ICPS was in-
+fused into other curricular subjects, and whether ICPS materials (e.g.,
+word posters) were visibly displayed around the classroom. In addition,
+the evaluator asked teachers how many times each week, on average,
+they taught ICPS lessons, and for how many minutes.
+Teachers’ enthusiasm for the ICPS curriculum varied, which im-
+pacted how frequently, and how well, they taught it to students. Several
+teachers had great enthusiasm for the ICPS lessons. Most of the other
+teachers did an adequate to very good job of instructing their students.
+In addition, many of the teachers indicated that they found the ICPS
+concepts useful for maintaining classroom order.
+STUDY METHODS
+Setting and Procedure
+The present evaluation was conducted in an urban school district (the
+District) with a predominantly Hispanic population. The District has
+one of the lowest per capita incomes in the State, with nearly a quarter of
+the city’s children living in poverty. A survey administered to the Dis-
+trict’s middle school youth (n = 501) in 2000 found high instances of
+physical fighting, gang membership, and weapon-carrying among the
+seventh and eighth graders. In response to these survey findings, the
+District decided to implement the ICPS universal prevention program,
+and contracted with a University-based research institute1 to conduct an
+independent evaluation of the program.
+The District began implementing ICPS in kindergarten classes in
+randomly selected schools during year one of the project. Implementa-
+tion continued during year two, when the student cohort was in the first
+Douglas Boyle and Connie Hassett-Walker 31
+grade. ICPS instruction took place an average of twice per week, over a
+period of four months, in participating kindergarten and first grade
+classrooms during project years one and two, respectively. With sup-
+port from school administrators, ICPS was incorporated as part of
+teachers’ lesson plans.
+Participants
+Schools were matched according to the number of students and kin-
+dergarten classrooms; racial and ethnic student body composition;
+socio-economic status (as measured by the percentage of students re-
+ceiving free or reduced-price lunch); and language proficiency of stu-
+dents. Schools were then randomly assigned to Instruction or Control
+status. Despite initial agreement by the school principals to participate
+regardless of experimental status, two schools objected to being as-
+signed to the Control group, and refused to participate further. This left
+us with more Instruction than Control schools.
+The student sample (n = 226) at the end of the second project year, for
+which pre and post implementation behavior ratings were received, con-
+sisted of the following experimental groups: students in the Instruction
+group (n = 96) for two consecutive years; students receiving one-year
+only of ICPS Instruction (n = 106), either in kindergarten or first grade;
+and students in the Control group (n = 24) for two consecutive years.
+There are slightly more students in the One-Year Instruction group than
+Two-Year Instruction group, mainly because the District’s project coor-
+dinator enrolled a new batch of first graders during the second project
+year. Some of these students had not been in the District during the first
+project year; or had been in Control kindergarten classrooms.
+As seen in Table 1, ethnically over 80 percent of participants in each
+group were Hispanic. Racially, African American students made up
+nine and five percent of the Two- and One-Year Instruction groups, re-
+spectively. No Control group participants were African American.
+Small percentages of participants in each experimental group were
+White (i.e., eight percent of the Control group; and five percent each of
+the Two- and One-Year Instruction groups).
+Over 91 percent of participants in each experimental group received
+free- or reduced-price lunch, an indicator of lower socio-economic sta-
+tus. Each experimental group contained more females (53 to 58 percent)
+than males (42 to 47 percent). Chi-square analyses revealed no signifi-
+cant differences between the various experimental groups by race/eth-
+nicity, socio-economic status, or gender.
+32 JOURNAL OF SCHOOL VIOLENCE
+Measures
+Teachers rated students’ behavior at two times in both Instruction
+and Control schools, corresponding to the period before and after ICPS
+implementation in the Instruction schools. Two behavior rating scales
+were employed: the Preschool Social Behavior Scale (PSBS; Crick,
+Casas & Mosher, 1997); and the Hahnemann Behavior Rating Scale
+(HBRS; Shure, 2002).
+The Preschool Social Behavior Scale (PSBS; Crick et al.,1997) is a
+16-item Likert-type behavior rating scale that measures relational and
+overt aggression, as well as prosocial behavior. Teachers were asked to
+rate student behavior on a scale ranging from 1 (not at all true) to 9 (ex-
+tremely true). 2 We recoded the items so that higher ratings on the total
+PSBS reflect more socially appropriate behaviors (e.g., less aggressive
+behavior). We also created subscales for prosocial behavior (e.g., is
+good at sharing and taking turns; is helpful to peers); as well as rela-
+tional aggression (e.g., when mad at a peer, this child keeps that peer
+from being in the play group); and overt aggression (e.g., pushes or
+shoves other children; verbally threatens to hit or beat up other chil-
+dren). These were generated using the subscales originally created by
+Crick and colleagues (1997), and consisted of the following numbers of
+items: four (prosocial), six (overt aggression) and six (relational aggres-
+sion). For our sample, alpha for the total PSBS was .93 (pre-test) and .92
+(post-test). In addition, each of the three subscales had alpha > .90 at
+both pre- and post-test.
+The Hahnemann Behavior Rating Scale (HBRS; Shure, 2002) is an
+11-item nine-point Likert-type scale, ranging from 1 (not at all true) to
+Douglas Boyle and Connie Hassett-Walker 33
+TABLE 1. Sample Demographics
+9 (extremely true). Teachers were instructed to rate each student’s be-
+havior on aggression, impulsivity, passivity, and prosocial behavior.
+We also created subscales for aggression/impulsivity (e.g., is physically
+aggressive: hits, pushes or in other ways hurts children; displays poor
+emotional control: is easily angered or upset, overreacts to stress); pas-
+sivity (e.g., is overly inhibited: child withdraws, is overly timid or shy;
+is overcompliant: gives in or gives up too easily with peers and/or
+adults); and prosocial behavior (e.g., is liked by others; is actively and
+effectively engaged in learning). These subscales were generated using
+a principal components factor analysis with varimax rotation. We de-
+cided that three factors best represented the factor structure of the
+HBRS. All items loaded > .65 on their given factors, and there were no
+significant cross-loadings. All Eigenvalues were > 1.0. Alpha for the to-
+tal HBRS was .78 (pre-test), and .80 (post-test). The alphas for the three
+HBRS subscales were as follows: (1) four-item aggression/impulsivity =
+.78 pre-test, .68 post-test; (2) two-item passivity = .64 pre- and post-test;
+and (3) four-item prosocial behavior > .86 at both pre- and post-test.
+RESULTS
+Initially, we were interested in examining the pattern of inter-correla-
+tions of the two overall measures, and of their various subscales. As
+seen in Table 2, the two instruments appeared to be measuring very sim-
+ilar constructs, as reflected by the strong correlations between the scales
+(r = .77, pretest; and r = .73, posttest; p = .000).
+While all the items were recoded to the positive direction to derive
+the PSBS and HBRS total scale scores (i.e., higher scores mean more
+positive behavior), the individual subscales were summed in their origi-
+nal direction (e.g., higher scores on aggression subscales reflect more
+aggressive behavior; higher scores on the passivity subscale reflect
+more passive behavior). Correlations were in the expected direction,
+with significant positive relationships between those subscales measur-
+ing similar constructs, and negative relationships for those measuring
+conflicting constructs.
+Thus, on the one hand, the correlations of the PSBS Overt Aggres-
+sion subscale and the HBRS Aggression/Impulsivity subscale were r =
+.81 (p = .001) at both pre- and post-test. Similarly, the correlations be-
+tween the Prosocial Behavior subscales of the PSBS and HBRS were r =
+.86 (p = .001) at both pre- and post-test. On the other hand, measures of
+34 JOURNAL OF SCHOOL VIOLENCE
+prosocial behavior were negatively correlated with the subscales mea-
+suring aggressive behavior.
+Group Comparisons on the Total Scales
+Given the high intercorrelation of the two dependent measures (i.e.,
+the total PSBS and HBRS scales, which ranged from .73 to .77 at pre-
+and post-test), multivariate analysis of covariance (MANCOVA) was
+appropriate as an initial test. The results show that the overall
+MANCOVA was significant (Wilks Lambda = .91, p < .001). There-
+fore, we proceeded to examine differences among the Instruction and
+Control groups on the overall PSBS and HBRS. Mean pre- and post-test
+scores by Instruction status for the overall scales are shown in Table 3.
+We conducted analysis of covariance (ANCOVA) tests to compare
+the Two-Year Instruction group with both the One-Year Instruction
+group and the Control group. The ANCOVA, shown in Table 4, was
+employed to examine whether students receiving ICPS instruction
+showed greater improvements in behavior (e.g., less aggression, more
+prosocial behavior) relative to Control group students after accounting
+Douglas Boyle and Connie Hassett-Walker 35
+TABLE 2. Post-test (and Pre-test a ) Scale Correlations
+for their mean pretest scores on the PSBS and the HBRS (i.e., mean pre-
+test score was used as a covariate in each ANCOVA). Analyses were
+performed using the SPSS General Linear Model univariate statistic,
+with Model Type III to address the issue of different sample sizes
+among the experimental conditions (Tabachnick & Fidell, 2001).
+The ANCOVA results reveal that Instruction students showed
+greater improvement in behavior relative to Control students. The effect
+of ICPS instruction on the two scales’ variance was modest, as mea-
+sured by the partial eta squared (χ2) scores. Partial eta squared is the
+proportion of the effect plus error variance that is attributable to the ef-
+fect. As seen in Table 4, the amount of ICPS instruction received ex-
+plained around seven percent of the variance in the PSBS post-test score
+(controlling for mean pre-test score); and around six percent of the vari-
+ance in the HBRS post-test score (controlling for mean pre-test score).
+The effect sizes are higher when the One-Year only Instruction students
+36 JOURNAL OF SCHOOL VIOLENCE
+TABLE 3. Pre- and Post-Test Means and Standard Deviations for PSBS and
+HBRS Total and Subscale Scores
+are excluded from the ANCOVA, and just the Two-Year Instruction
+and Control students are compared.
+We followed the overall ANCOVA with post hoc comparisons using
+Tukey HSD to examine any differences by amount of instruction re-
+ceived (i.e., two versus one year of ICPS instruction). As seen in Table
+4, students receiving two years of ICPS instruction exhibited more
+prosocial and less aggressive behavior (as measured by the PSBS) than
+both Control group students and One-Year Instruction students. In con-
+trast, on the HBRS rating, the Instruction groups did not differ from
+each other, while both were rated higher (meaning more behavioral im-
+provement) than the Control group students.
+Group Comparisons on the Subscales
+Since the ANCOVA’s for the overall measures were significant, we
+next examined the constructs measured by the subscales of the PSBS
+Douglas Boyle and Connie Hassett-Walker 37
+TABLE 4. ANCOVA Results for the PSBS and HBRS Total and Subscale
+Scores
+and the HBRS. The subscale means and standard deviations are dis-
+played in Table 3.
+ANCOVA analyses for the PSBS subscales, shown in Table 4, re-
+vealed significant differences in the expected direction (i.e., Instruction
+students showed greater behavioral improvement than did Control stu-
+dents) on prosocial behavior, as well as on the measures of overt and re-
+lational aggression (which are coded in their original direction, with
+higher ratings indicating more aggressive behavior). ANCOVA’s for
+all the subscales shown in Table 4 were significant, with effect sizes
+ranging from three to seven percent of variance in behavior explained
+by amount of ICPS instruction received. The effect sizes for the overt
+aggression, and prosocial behavior subscales increased to six and nine
+percent, respectively, when the One-Year Instruction students were
+omitted from the ANCOVA.
+Post hoc Tukey analyses of the PSBS subscales revealed that stu-
+dents who received two years of ICPS instruction exhibited signifi-
+cantly less relational aggression, and more prosocial behavior when
+compared to both One-Year Instruction and Control group students. On
+the overt aggression subscale, Two-Year Instruction students improved
+more than did Control students. However, the One-Year Instruction stu-
+dents were not significantly different from either the Two-Year Instruc-
+tion or the Control students on the PSBS overt aggression ratings.
+Next, we examined the HBRS subscales. As is shown in Table 4, the
+groups differed only on the prosocial behavior subscale. The largest effect
+(χ2 = .12) was for the HBRS prosocial behavior subscale, with receipt of
+ICPS instruction explaining 12 percent of the variance in students’
+prosocial behavior. The effect size becomes higher (χ2 = .19) when the
+One-Year only ICPS Instruction students are omitted from the ANCOVA.
+Tukey post hoc analyses of the HBRS subscales revealed that while
+the two Instruction groups did not differ from each other in prosocial be-
+havior, both Instruction groups were rated as exhibiting more prosocial
+behavior when compared to the Control group. However, in contrast to
+the post hoc analyses using the PSBS subscales, none of the groups dif-
+fered on either the HBRS aggression/impulsivity or passivity subscales.
+DISCUSSION
+Overall, we found support for the effectiveness of the ICPS universal
+prevention program in increasing prosocial behaviors and in reducing
+38 JOURNAL OF SCHOOL VIOLENCE
+aggressive behaviors among our group of six to eight year old Instruc-
+tion students. Furthermore, depending on the constructs and measure-
+ment employed, there is some support for an additive effect of an
+additional year of ICPS instruction. That is, on some teacher ratings,
+students receiving two years of instruction showed greater improve-
+ments than those receiving just a single year of instruction.
+The program was relatively more effective in increasing prosocial
+behavior, rather than decreasing aggressive behavior. Instruction stu-
+dents improved in their prosocial behavior, as confirmed across two
+separate subscales. In particular, the HBRS prosocial behavior subscale
+showed a 12 percent effect size; which further increased to 19 percent
+when just the Two-Year Instruction and Control groups were com-
+pared. Reduction in students’ aggressive behaviors was also evident,
+particularly in analyses of the PSBS overt and relational aggression
+subscales, though the effects were larger for overt aggression than they
+were for relational aggression. The finding that ICPS instruction was
+more effective in increasing prosocial behavior than in reducing aggres-
+sion is likely a reflection of the focus of the program on improving chil-
+dren’s problem-solving and interpersonal skills. Though ICPS was not
+intended as a violence-prevention program, reduced aggressive behav-
+ior may be an additional outcome of improved social skills.
+Post hoc analyses confirm a modest additive effect of the program,
+with Two-Year Instruction students becoming more prosocial and less
+aggressive than One-Year Instruction students. In fact, One-Year In-
+struction students exhibited greater behavioral improvements relative to
+Control students on only one subscale (i.e., HBRS prosocial behavior).
+Furthermore, the One-Year Instruction students did not appear to be-
+come significantly less aggressive than the Control students on any of
+the aggression subscales. Thus, these findings suggest that to achieve
+the desired outcome, when ICPS lessons are conducted only twice
+weekly (which is less than the optimal recommendation of three to five
+times per week), at least two years of ICPS instruction is optimal.
+The different pattern of results between the PSBS and the HBRS
+subscales may be explained by at least two factors. First, the constructs
+measured by the scales, though related, are nevertheless distinct. Thus,
+for example, the PSBS overt aggression subscale is a relatively more fo-
+cused measure of aggressive behavior, while the HBRS aggression/
+impulsivity subscale (as the name suggests) includes items measuring
+behavioral self-control. Secondly, the subscales varied in their reliabil-
+ity. All the PSBS subscales had strong statistical reliability, while the
+Douglas Boyle and Connie Hassett-Walker 39
+reliability of the HBRS aggression/impulsivity and passivity subscales
+were marginal.
+Limitations. The study experienced attrition, particularly from the
+Control group. The Control group likely would have been larger, and
+the Instruction and Control samples more equal, had two of the Control
+schools not objected to their assignment to Control status and subse-
+quently refused to participate in the study. Nevertheless, our analysis of
+student demographics found no differences between the experimental
+groups by race/ethnicity, socio-economic status, or gender. A reality of
+working in a poor, urban school district was that the ICPS implementa-
+tion and evaluation competed with many other, more pressing priorities.
+Additionally, Control school personnel may have been less motivated to
+return parent consents because they were not receiving the ICPS train-
+ing. In the future, a better approach would involve offering the Control
+schools an incentive, such as an alternative program (e.g., a math im-
+provement curriculum) providing benefits unrelated to the ICPS focus.
+Had we adopted this approach, the two Control schools that withdrew
+from the study may have remained in.
+Ideally, we would have liked to have included external rater data as
+well, but funding limitations did not permit this. External raters would
+have allowed us to have greater confidence that our findings are in fact
+the result of ICPS training rather than potential teacher/rater bias. De-
+spite this, we believe that the differences in teachers’ ratings of One-
+and Two-Year Instruction students lend support to our results. That is,
+while it is possible that teachers’ knowledge of whether a child was in
+an Instruction or Control school could have biased their rating of a
+child’s behavior, this was not the case when we compared the One- and
+Two-Year Instruction groups. Instruction classes combined both stu-
+dents who had received prior ICPS training, and students who were new
+to ICPS. Furthermore, first grade teachers were blind to which students
+had received prior training in ICPS during their kindergarten year. This
+lends support to the findings that greater improvement for the
+Two-Year Instruction students was in fact due to more receipt of ICPS,
+rather than teacher/rater bias.
+Future Research. The District implemented the ICPS program as a
+kind of inoculation for the children while they are still young, to prevent
+some of the issues that local youth encounter (e.g., violence) particularly
+once they enter the District’s middle school. However, additional re-
+search is needed to determine whether the positive behavioral changes
+evident during the two-year study period persist during elementary
+school and beyond. This question could be the focus of a future longitudi-
+40 JOURNAL OF SCHOOL VIOLENCE
+nal study. Such an undertaking would require a long-term commitment
+by both the District as well as the evaluator to track students, including
+those who may leave the District before reaching middle school.
+Future initiatives should also involve parents, who can be trained to
+reinforce the problem-solving lessons and way of thinking. Many inter-
+ventions-including ICPS-have a parent training or outreach component,
+although the parent-training aspect of ICPS was not implemented in the
+present study due to funding limitations. Implementation across a wider
+range of settings (e.g., at school, at home, and in the community) holds a
+better chance of reinforcing the positive messages and skills learned,
+which can lead to even greater behavioral improvements. Whether the
+effect sizes would be larger, and the positive behavioral changes longer
+lasting, with the addition of the parent-training component is a question
+for future research studies.
+Conclusion. The ICPS curriculum offers a relatively low-cost and
+easily implemented universal prevention program that in the present
+study resulted in significant improvements in children’s behavior. The
+effect size results (though relatively modest) are important given the na-
+ture of universal prevention programs (i.e., such programs are imple-
+mented with a general student population rather than a group of students
+who have already been identified as aggressive). Other school districts
+dealing with problems of school violence, as well as budgetary con-
+straints, might consider devoting more resources to prevention pro-
+grams like ICPS when children are younger, rather than relying
+exclusively on targeted programs for older children with established
+problem behavior patterns.
+NOTES
+1. The study was reviewed and approved in advance by the University’s Institu-
+tional Review Board.
+2. The PSBS was adapted from a five-point to a nine-point scale to be consistent
+with the HBRS.
+REFERENCES
+Crick, N. R., Casas, J. F. & Mosher, M. (1997). Relational and overt aggression in
+pre-school. Developmental Psychology, 33(4), 579-588.
+Daunic, A. P., Smith, S. W., Brank, E. M. & Penfield, R. D. (2006) “Classroom-based
+cognitive-behavioral intervention to prevent aggression: Efficacy and social valid-
+ity.” Journal of School Psychology, 44, 123-139.
+Douglas Boyle and Connie Hassett-Walker 41
+Eron, L. D. (1997). The development of antisocial behavior from a learning perspec-
+tive. In Stoff, Breiling & Maser (Eds.), Handbook of Antisocial Behavior (pp.
+140-7). New York: John Wiley & Sons.
+Huesmann, L. R., Eron, L. D., Lefkowitz, M. M., & Walder, L. O. (1984). The stability
+of aggression over time and generations. Developmental Psychology, 20, 1120-
+1134.
+Lahey, B. B., Loeber, R., Burke, J.D., & Applegate, B. (2005). Predicting future antiso-
+cial personality disorder in males from a clinical assessment in childhood. Journal
+of Consulting and Clinical Psychology, 73(3), 389-399.
+No Child Left Behind Act of 2001, Pub. L. No. 107-110, 115 Stat. 1425(2002).
+Olweus, D. (1979). Stability of aggressive reaction patterns in males: A review. Psy-
+chological Bulletin, 86, 852-75.
+Olweus, D. (1993). Bullying at School. Malden, MA: Blackwell Publishers.
+Rubin, K. H., Bream, L. A, & Rose-Krasnor, L. (1991). Social problem solving and ag-
+gression in childhood. In D. J. Pepler & K.H. Rubin (Eds.), The Development and
+Treatment of Childhood Aggression (pp.219-248). Hillsdale, NJ: Lawrence
+Erlbaum Associates.
+Shure, M. B. (1983). Enhancing childrearing skills in lower income women. Issues in
+Mental Health Nursing, 5, 121-138.
+Shure, M. B. (1993). Final Report to the National Institute of Mental Health, Depart-
+ment of Health and Human Services. Five year longitudinal study of teachers and
+parents. Grant #R01MH40801, Interpersonal Problem Solving and Prevention.
+Shure, M. B. (2001). I Can Problem Solve (ICPS). An Interpersonal Problem-Solving
+Program (kindergarten/primary grades), 2nd Edition. Champaign, IL: Research
+Press.
+Shure, M. B. (2002). Hahnemann Behavior Rating Scale. Unpublished instrument,
+Hahnemann University.
+Shure, M. B. and Spivack, G. (1980). Interpersonal problem solving as a mediator of
+behavioral adjustment in pre-school and kindergarten children. Journal of Applied
+Developmental Psychology, 1, 29-44.
+Shure, M. B. and Spivack, G. (1982). Interpersonal problem-solving in young children:
+A cognitive approach to prevention. American Journal of Community Psychology,
+10(3), 341-356.
+Spivack, G., Platt, J. J. and Shure, M. B. (1976). The Problem Solving Approach to Ad-
+justment. San Francisco: Jossey-Bass.
+Spivack, G. and Shure, M. B. (1982). The cognition of social adjustment: Interpersonal
+Cognitive Problem-Solving Thinking. In B. B. Lahey and A. E. Kazdin (Eds.), Ad-
+vances in Child Psychology (pp.323-372). New York: Plenum Press.
+Tabachnick, B. G. and Fidell, L. S. (2001). Using Multivariate Statistics, 4th Edition.
+Boston: Allyn & Bacon.
+RECEIVED: 08/22/06
+REVISED: 01/11/07
+ACCEPTED: 02/07/07
+doi:10.1300/J202v07n01_03
+42 JOURNAL OF SCHOOL VIOLENCE

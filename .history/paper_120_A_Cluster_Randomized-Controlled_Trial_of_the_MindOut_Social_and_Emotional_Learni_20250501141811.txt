@@ -1,0 +1,948 @@
+Abstract
+School-based social and emotional learning programs aim to provide students with the skills they need to deal with life challenges, thereby enhancing their social and emotional wellbeing, academic outcomes, and reducing their risk of mental health difficulties. While there is a robust evidence base on the effectiveness of these programs originating from the US, there is a relative paucity of research on how these programs impact young people in other county contexts, especially for older adolescents and those at higher risk. This study sets out to address this research gap by evaluating the effectiveness of a social emotional learning program designed for older adolescents in Ireland, the MindOut program. MindOut is a universal school-based social and emotional learning program designed for older adolescents in Ireland which was developed based on a common elements approach underpinned by CASEL’s framework. Employing a cluster randomized-controlled trial, data on social and emotional skills, academic performance and mental health outcomes were collected from students (n = 497; 51.1% female) ages 15–18 years in 32 disadvantaged schools. There were significant improvements in intervention students’ social and emotional skills including, reduced suppression of emotions (p = 0.035), use of more positive coping strategies [reduced avoidance coping p = < 0.001) and increased social support coping p = 0.044)]. Improvements in mental health and wellbeing were also found with significantly reduced levels of stress (p = 0.017) and depressive symptoms (p = 0.030) as well as reduced anxiety scores for females students (p = 0.044). These short-term evaluation findings support the positive impact of school-based social and emotional learning programs, such as MindOut, when designed to be both age and culturally appropriate and delivered to older adolescents in disadvantaged schools.
+
+Abstract
+
+School-based social and emotional learning programs aim to provide students with the skills they need to deal with life challenges, thereby enhancing their social and emotional wellbeing, academic outcomes, and reducing their risk of mental health difficulties. While there is a robust evidence base on the effectiveness of these programs originating from the US, there is a relative paucity of research on how these programs impact young people in other county contexts, especially for older adolescents and those at higher risk. This study sets out to address this research gap by evaluating the effectiveness of a social emotional learning program designed for older adolescents in Ireland, the MindOut program. MindOut is a universal school-based social and emotional learning program designed for older adolescents in Ireland which was developed based on a common elements approach underpinned by CASEL’s framework. Employing a cluster randomized-controlled trial, data on social and emotional skills, academic performance and mental health outcomes were collected from students (n = 497; 51.1% female) ages 15–18 years in 32 disadvantaged schools. There were significant improvements in intervention students’ social and emotional skills including, reduced suppression of emotions (p = 0.035), use of more positive coping strategies [reduced avoidance coping p = < 0.001) and increased social support coping p = 0.044)]. Improvements in mental health and wellbeing were also found with significantly reduced levels of stress (p = 0.017) and depressive symptoms (p = 0.030) as well as reduced anxiety scores for females students (p = 0.044). These short-term evaluation findings support the positive impact of school-based social and emotional learning programs, such as MindOut, when designed to be both age and culturally appropriate and delivered to older adolescents in disadvantaged schools.
+
+Introduction
+The importance of promoting children and adolescents’ social and emotional wellbeing as a mental health promotion strategy has received increasing attention in recent years (OECD 2015; Weare and Nind 2011; WHO 2013). The school is an important setting for promoting social and emotional wellbeing, given its ability to reach a wide range of adolescents, including those most at-risk and who are less likely to access support and services when needed (Greenberg 2010; Oberle and Schonert-Reichl 2017). In many countries, schools fulfil their responsibility to support the wellbeing of students through the delivery of social and emotional learning programs, which help foster the development of youth’s social and emotional skills such as managing emotions, coping skills, empathy etc. (Elias et al. 2001; Greenberg et al. 2003; Gresham and Elliot 2008). Several reviews and meta-analyses have provided strong evidence for the effectiveness of school-based social and emotional learning programs, endorsing their positive outcomes for youth, including increased social emotional skills, improved mental health, increased academic outcomes and the reduction of negative health and social behaviors such as substance misuse, bullying, aggression and risk-taking behaviors (Barry et al. 2017; Clarke et al. 2015; Durlak et al. 2011; Institute of Medicine Report IOM 2009; Oberle and Schonert-Reichl 2017; OECD 2015; Sklad et al. 2012; Taylor et al. 2017; Weare and Nind 2011).
+Although the empirical evidence on school-based social and emotional learning interventions has grown considerably, a science-to-practice gap remains, which results in significant challenges in translating these evidence-based programs into mainstream education (Barry et al. 2017; Jones and Bouffard 2012; Rotheram-Borus et al. 2012). Currently, the majority of social and emotional learning program developments and robust evaluations originate from the USA, and their transferability to other cultural and social contexts remains unclear (Durlak et al. 2011; Humphrey et al. 2016; Weare and Nind 2011). For example, one of the largest meta-analyses to date on school-based social and emotional learning programs by Durlak et al. (2011) examined 213 universal programs, however, only 27 (13%) of these programs were implemented and evaluated outside of the USA, and even fewer than that were developed and evaluated in Europe. There has been a lack of program development and high-quality evaluations conducted within the European context, which has been highlighted in other extant reviews (Clarke et al. 2015; Sklad et al. 2012; Taylor et al. 2017; Wigelsworth et al. 2016). When “exporting” evidence-based programs to countries outside of their origin they are likely to produce weaker outcomes. A review completed by Wigelsworth and colleagues (2016) found that studies conducted within the country of intervention development are likely to demonstrate larger effect sizes than those adopted outside the country of origin for reasons such as inadequate infrastructure and cultural adaptability (Elliott and Mihalic 2004; Kumpfer et al. 2002; Spoth et al. 2004).
+In addition, there also appears to be a gap with regard to program development and evaluation for older adolescents, especially those who are most vulnerable. The majority of current programs and evaluations are focussed on youth in primary and lower secondary schools and there is a lack of program development and robust studies for older adolescents (>14 years old) (January et al. 2011; Clarke et al. 2015; Durlak et al. 2011; Wigelsworth et al. 2016). This is supported in a review by Taylor et al. (2017), which reported that 38% of the programmes reviewed were delivered with primary students (5–11 years) and a further 45% were delivered with middle school students (11–14 years). Only 11 (13%) programs in this review were delivered to adolescents of high-school level (14–18 years).
+The years between early adolescence and adulthood is a critical transition period for youth that can have a significant impact on their mental health and wellbeing. These transformative adolescent years are characterized by many biological changes (e.g., pubertal maturation) and psychosocial developments such as identity formation, increased experience of intense emotions, increased conflict with parents and desire for independence, increased sensation seeking, heightened experimentation and risk-taking behaviors, initiation of romantic relationships, and increased pressure to be accepted by peers (Curtis 2015; Steinberg 2015; Patel et al. 2007; Yeager 2017). It is also a time when youth can be exposed to a number of challenges and stressors such as social and academic pressures, body-image issues, bullying, financial pressures etc., (Romeo 2013). These developmental changes and vulnerabilities to new psychosocial stressors put this specific group of emerging adults at a heightened risk for the development of psychological, social and health difficulties that can have lasting effects during adulthood (Dopheide 2013; Yeager 2017). Research has shown that school-based interventions such as social and emotional learning programs that promote youth’s social and emotional skill development can be effective in helping them deal with stressors, thus improving their wellbeing and reducing their risk of developing mental health difficulties (Clarke et al. 2015; Durlak et al. 2011; Taylor et al. 2017). Although early intervention for mental health difficulties is and should remain a priority, the promotion of social and emotional skill development and wellbeing should continue throughout a young person’s life, especially at a time when individuals’ exposure to new stressors increases and their ability to cope with these becomes more difficult due to the developmental changes they are experiencing (Yeager 2017).
+In Europe, mental health difficulties affect approximately 20% of the adolescent population and youth who face social and economic deprivation are identified as being at an increased risk (Reiss 2013; WHO 2015). Findings from Ireland’s national survey on youth mental health, My World Survey (Dooley and Fitzgerald 2012), indicate that a majority of mental health problems among young Irish people emerge in early adolescence and peak in late teens. One in five young Irish people (11–15 years) report experiencing two or more psychological symptoms (e.g., feeling low, irritability, nervousness, sleep difficulties etc.) more than once a week (UNICEF 2017). International studies have indicated that almost 75% of all serious mental health difficulties first become evident between the ages of 15 and 25 years old (Hickie 2004; Kessler et al. 2005; Kim-Cohen et al. 2003), suggesting that the reporting of psychological symptoms is likely to increase in the later adolescent years. Ireland is ranked well above the European average as the fourth highest country for adolescent (15-19 years) suicide across the 31 OECD and EU countries, and is the highest rated European country of female youth suicides (UNICEF 2017). The economic crisis in Ireland and other European countries has led to increased challenges for the younger generation, including rising youth unemployment, migration and school-drop out (European Union 2016), placing youth facing this type of disadvantage at an increased risk of developing mental health difficulties, self-harming and death by suicide (Dooley and Fitzgerald 2012; NYCI 2014; OECD 2015). Ireland also had the highest rate of youth unemployment and disability benefit receipt and one in five young Irish people are not in education, employment or training (NEETs), which places them at greater risk of developing mental health difficulties (OECD 2018).
+The developmental differences between childhood and late adolescence mean that youth’s mental health needs are likely to vary significantly and, therefore, there is a need for more rigorous development, implementation and evaluation of social and emotional learning programs which reflect the needs of older adolescents (Curtis 2015; Heckman and Kautz 2014; Yeager 2017). More work in this area is needed, particularly within the European context where few robust studies on the effectiveness of these programs has been cited (Clarke et al. 2015; Sklad et al. 2012; Taylor et al. 2017; Wigelsworth et al. 2016). There is also a scarcity of research which investigates the impact of these types of programs on priority groups (e.g., disadvantaged youth) that are not only at a greater risk of developing mental health difficulties but are also less likely to develop their social and emotional skills outside of the school setting (Elias et al. 1997; Yeo and Graham 2015).
+This study aims to address these aforementioned gaps by adding to the evidence on the efficacy of social and emotional learning programs among the older adolescent population of disadvantaged students within the Irish context. Employing a robust research design, this study explores whether a program delivered within the country of origin can contribute to promoting the social and emotional wellbeing of older adolescents.
+In developing school-based interventions to meet the needs of the older adolescent population, it is clearly important to build on existing theoretical frameworks and evidence-informed strategies that can provide an integrated foundation for social emotional learning development within the context of existing schools policies and practices. Responding to the increasing use of discrete packaged school-based programs, Rotheram-Borus et al. (2012) called for the development of disruptive innovations that draw on what has been learned from evidence-based interventions in order to reach a wider audience, with greater impact, and at a lower cost. Research in youth mental health treatment and prevention has identified common strategies of successful evidence-based interventions and mapped these onto what is referred to as a “common elements framework” (Boustani et al. 2015; Chorpita and Daleiden 2009). This approach highlights the most potent core practices of successful evidence-based interventions and enables a more systematic approach to new program design and development. Studies have shown that employing a common elements approach to child and adolescent mental health treatment can improve outcomes when compared to usual care and standard evidence-based treatment (Chorpita et al. 2013; Weisz et al. 2012). Boustani et al. (2015) have also applied this approach to evidence-based youth prevention programs identifying both the core practice elements (e.g., communication skills, problem solving, cognitive coping etc.) and instructional elements employed by the facilitator (e.g., modelling, role play etc.). These studies show how a common elements framework, through identifying the most essential components of evidence-based interventions that exhibit potential for greatest impact, can be applied to strengthen program development and delivery. Barry et al. (2017) considered how adopting a common elements approach to social and emotional learning intervention development could lead to innovative approaches that extend the reach of existing social emotional learning interventions.
+This article reports on the evaluation of a social and emotional learning program, underpinned by a common elements framework, that was designed for older adolescents in post-primary schools in Ireland. The context and rationale for the development of the MindOut intervention is briefly described and this article reports on the findings from the first phase of a comprehensive evaluation of the program for students attending disadvantaged post-primary schools.
+Background to the MindOut Program
+The MindOut program is a universal school-based program designed to be delivered by teachers to promote the social and emotional wellbeing of youth aged 15–18 years in post-primary schools. This program was first developed in 2004, with support from the national Health Service Executive, and has been successfully implemented through the Social Personal and Health Education (SPHE) curriculum, in post-primary schools across Ireland. Social Personal and Health Education is a mandatory health education curriculum in Irish schools that aims to support the wellbeing and personal skill development of students so that they are better equipped to make informed decisions about their health, personal lives, and social development (NCCA 2011; Nic Gabhainn et al. 2010). While initial evaluations of the MindOut program showed a number of positive effects for students (Byrne et al. 2004, 2005; Byrne 2005), teachers, students and other stakeholders requested the program be updated to be more relevant to the lives of young Irish people today and to reflect the most recent developments in research, policy and practice both internationally and within Ireland.
+The revision of the MindOut program involved a thorough process that was informed by three principal sources; (i) a review of existing resources based on a common elements approach (ii) consultation with program users (e.g., teachers and youth) and (iii) consultation with a National Working Group representing key national stakeholder organizations. In reviewing existing resources, relevant evidence-based programs were examined through a common elements framework similar to the work done by Boustani et al. (2015). While a systematic coding process was not employed, a number of common practice and instructional elements were identified through a mapping process. The common practice elements that were present in all of the youth programs examined included: recognizing and managing emotions, managing thoughts, positive thinking and coping skills. The most common instructional elements employed in the reviewed programs included: collaborative learning, group discussion, reflection, games and use of scenarios and worksheets. The MindOut program is underpinned by the Collaborative for Academic Social and Emotional Learning (CASEL) theoretical framework for social and emotional learning (CASEL 2015) and the most potent common practice and instructional elements identified during the mapping process were aligned with CASEL’s five core competencies and embedded into the program.
+Additionally, the development of the revised program involved consultations with youth and teachers in an effort to identify program user needs and ensure that these needs were met within the updated program (Barry et al. 2017; Dowling et al. 2016; McCrohan 2015). Interviews with teachers and participatory workshops with students who had participated in the original program were conducted to ascertain their feedback on core elements (e.g., content, instructional strategies, language etc.), priority issues for inclusion, and to ensure that the program was age and culturally relevant for older Irish adolescents. A secondary consultation was conducted with a small group of youth recruited through a national youth organization who assisted in drafting age-appropriate, real-life scenarios based on the priority issues previously defined by students. At a later stage in the development process, this group also contributed in reviewing and providing feedback on each of the revised program sessions.
+Throughout the development process, a National Working Group, which included key stakeholders from education, health promotion, educational psychology and mental health services, were consulted to ascertain their recommendations for strengthening the program and its potential outcomes. Further details on the development process can be found in relevant documents (Barry et al. 2017; Dowling et al. 2016). The revised program, which was written in consultation with youth and the National Working Group, was piloted with five post-primary schools to assess the feasibility of its implementation in schools (see Dowling et al. 2016 report for further details). Feedback from the pilot phase was then used to make further adaptions to the program.
+Program Description
+The revised MindOut program (Dowling et al. 2017) consists of 13 weekly sessions, which are intended to be delivered by teachers within the Social Personal Health Education (SPHE) curriculum for 15-18 year old students. The content of the program is based on CASEL’s five core competencies for social and emotional learning i.e., self-awareness, self-management, social awareness, relationship management and responsible decision making (CASEL 2015). The program is comprised of a teacher manual, with structured activities and resource materials which promote the development of these social and emotional competencies. The program employs interactive teaching strategies (e.g., collaborative learning, structured games, scenarios, videos etc.) to engage students in a number of skill-building activities such as: identifying and managing emotions, coping with challenges, overcoming negative thinking, communication, empathy, relationship skills etc. Additionally, the program promotes whole-school approaches by providing staff with a menu of strategies for promoting social and emotional development at a wider school level (e.g., practice-at-home activities; teacher reflection; whole-school activities; whole-school tips for staff and for engaging students, parents and the community etc.). These whole-school resources, in combination with the MindOut curriculum, aim to support students’ wellbeing not only at the classroom level but at the wider school level. The program logic model can be seen in Fig. 1 and a summary of the program content can be seen in Table 4 of the appendix. In view of the substantive revisions made, it was deemed necessary to determine if the new program would lead to positive outcomes for youth, especially for those from disadvantaged communities.
+Fig. 1
+MindOut program logic model
+Full size image
+
+Introduction
+
+The importance of promoting children and adolescents’ social and emotional wellbeing as a mental health promotion strategy has received increasing attention in recent years (OECD 2015; Weare and Nind 2011; WHO 2013). The school is an important setting for promoting social and emotional wellbeing, given its ability to reach a wide range of adolescents, including those most at-risk and who are less likely to access support and services when needed (Greenberg 2010; Oberle and Schonert-Reichl 2017). In many countries, schools fulfil their responsibility to support the wellbeing of students through the delivery of social and emotional learning programs, which help foster the development of youth’s social and emotional skills such as managing emotions, coping skills, empathy etc. (Elias et al. 2001; Greenberg et al. 2003; Gresham and Elliot 2008). Several reviews and meta-analyses have provided strong evidence for the effectiveness of school-based social and emotional learning programs, endorsing their positive outcomes for youth, including increased social emotional skills, improved mental health, increased academic outcomes and the reduction of negative health and social behaviors such as substance misuse, bullying, aggression and risk-taking behaviors (Barry et al. 2017; Clarke et al. 2015; Durlak et al. 2011; Institute of Medicine Report IOM 2009; Oberle and Schonert-Reichl 2017; OECD 2015; Sklad et al. 2012; Taylor et al. 2017; Weare and Nind 2011).
+Although the empirical evidence on school-based social and emotional learning interventions has grown considerably, a science-to-practice gap remains, which results in significant challenges in translating these evidence-based programs into mainstream education (Barry et al. 2017; Jones and Bouffard 2012; Rotheram-Borus et al. 2012). Currently, the majority of social and emotional learning program developments and robust evaluations originate from the USA, and their transferability to other cultural and social contexts remains unclear (Durlak et al. 2011; Humphrey et al. 2016; Weare and Nind 2011). For example, one of the largest meta-analyses to date on school-based social and emotional learning programs by Durlak et al. (2011) examined 213 universal programs, however, only 27 (13%) of these programs were implemented and evaluated outside of the USA, and even fewer than that were developed and evaluated in Europe. There has been a lack of program development and high-quality evaluations conducted within the European context, which has been highlighted in other extant reviews (Clarke et al. 2015; Sklad et al. 2012; Taylor et al. 2017; Wigelsworth et al. 2016). When “exporting” evidence-based programs to countries outside of their origin they are likely to produce weaker outcomes. A review completed by Wigelsworth and colleagues (2016) found that studies conducted within the country of intervention development are likely to demonstrate larger effect sizes than those adopted outside the country of origin for reasons such as inadequate infrastructure and cultural adaptability (Elliott and Mihalic 2004; Kumpfer et al. 2002; Spoth et al. 2004).
+In addition, there also appears to be a gap with regard to program development and evaluation for older adolescents, especially those who are most vulnerable. The majority of current programs and evaluations are focussed on youth in primary and lower secondary schools and there is a lack of program development and robust studies for older adolescents (>14 years old) (January et al. 2011; Clarke et al. 2015; Durlak et al. 2011; Wigelsworth et al. 2016). This is supported in a review by Taylor et al. (2017), which reported that 38% of the programmes reviewed were delivered with primary students (5–11 years) and a further 45% were delivered with middle school students (11–14 years). Only 11 (13%) programs in this review were delivered to adolescents of high-school level (14–18 years).
+The years between early adolescence and adulthood is a critical transition period for youth that can have a significant impact on their mental health and wellbeing. These transformative adolescent years are characterized by many biological changes (e.g., pubertal maturation) and psychosocial developments such as identity formation, increased experience of intense emotions, increased conflict with parents and desire for independence, increased sensation seeking, heightened experimentation and risk-taking behaviors, initiation of romantic relationships, and increased pressure to be accepted by peers (Curtis 2015; Steinberg 2015; Patel et al. 2007; Yeager 2017). It is also a time when youth can be exposed to a number of challenges and stressors such as social and academic pressures, body-image issues, bullying, financial pressures etc., (Romeo 2013). These developmental changes and vulnerabilities to new psychosocial stressors put this specific group of emerging adults at a heightened risk for the development of psychological, social and health difficulties that can have lasting effects during adulthood (Dopheide 2013; Yeager 2017). Research has shown that school-based interventions such as social and emotional learning programs that promote youth’s social and emotional skill development can be effective in helping them deal with stressors, thus improving their wellbeing and reducing their risk of developing mental health difficulties (Clarke et al. 2015; Durlak et al. 2011; Taylor et al. 2017). Although early intervention for mental health difficulties is and should remain a priority, the promotion of social and emotional skill development and wellbeing should continue throughout a young person’s life, especially at a time when individuals’ exposure to new stressors increases and their ability to cope with these becomes more difficult due to the developmental changes they are experiencing (Yeager 2017).
+In Europe, mental health difficulties affect approximately 20% of the adolescent population and youth who face social and economic deprivation are identified as being at an increased risk (Reiss 2013; WHO 2015). Findings from Ireland’s national survey on youth mental health, My World Survey (Dooley and Fitzgerald 2012), indicate that a majority of mental health problems among young Irish people emerge in early adolescence and peak in late teens. One in five young Irish people (11–15 years) report experiencing two or more psychological symptoms (e.g., feeling low, irritability, nervousness, sleep difficulties etc.) more than once a week (UNICEF 2017). International studies have indicated that almost 75% of all serious mental health difficulties first become evident between the ages of 15 and 25 years old (Hickie 2004; Kessler et al. 2005; Kim-Cohen et al. 2003), suggesting that the reporting of psychological symptoms is likely to increase in the later adolescent years. Ireland is ranked well above the European average as the fourth highest country for adolescent (15-19 years) suicide across the 31 OECD and EU countries, and is the highest rated European country of female youth suicides (UNICEF 2017). The economic crisis in Ireland and other European countries has led to increased challenges for the younger generation, including rising youth unemployment, migration and school-drop out (European Union 2016), placing youth facing this type of disadvantage at an increased risk of developing mental health difficulties, self-harming and death by suicide (Dooley and Fitzgerald 2012; NYCI 2014; OECD 2015). Ireland also had the highest rate of youth unemployment and disability benefit receipt and one in five young Irish people are not in education, employment or training (NEETs), which places them at greater risk of developing mental health difficulties (OECD 2018).
+The developmental differences between childhood and late adolescence mean that youth’s mental health needs are likely to vary significantly and, therefore, there is a need for more rigorous development, implementation and evaluation of social and emotional learning programs which reflect the needs of older adolescents (Curtis 2015; Heckman and Kautz 2014; Yeager 2017). More work in this area is needed, particularly within the European context where few robust studies on the effectiveness of these programs has been cited (Clarke et al. 2015; Sklad et al. 2012; Taylor et al. 2017; Wigelsworth et al. 2016). There is also a scarcity of research which investigates the impact of these types of programs on priority groups (e.g., disadvantaged youth) that are not only at a greater risk of developing mental health difficulties but are also less likely to develop their social and emotional skills outside of the school setting (Elias et al. 1997; Yeo and Graham 2015).
+This study aims to address these aforementioned gaps by adding to the evidence on the efficacy of social and emotional learning programs among the older adolescent population of disadvantaged students within the Irish context. Employing a robust research design, this study explores whether a program delivered within the country of origin can contribute to promoting the social and emotional wellbeing of older adolescents.
+In developing school-based interventions to meet the needs of the older adolescent population, it is clearly important to build on existing theoretical frameworks and evidence-informed strategies that can provide an integrated foundation for social emotional learning development within the context of existing schools policies and practices. Responding to the increasing use of discrete packaged school-based programs, Rotheram-Borus et al. (2012) called for the development of disruptive innovations that draw on what has been learned from evidence-based interventions in order to reach a wider audience, with greater impact, and at a lower cost. Research in youth mental health treatment and prevention has identified common strategies of successful evidence-based interventions and mapped these onto what is referred to as a “common elements framework” (Boustani et al. 2015; Chorpita and Daleiden 2009). This approach highlights the most potent core practices of successful evidence-based interventions and enables a more systematic approach to new program design and development. Studies have shown that employing a common elements approach to child and adolescent mental health treatment can improve outcomes when compared to usual care and standard evidence-based treatment (Chorpita et al. 2013; Weisz et al. 2012). Boustani et al. (2015) have also applied this approach to evidence-based youth prevention programs identifying both the core practice elements (e.g., communication skills, problem solving, cognitive coping etc.) and instructional elements employed by the facilitator (e.g., modelling, role play etc.). These studies show how a common elements framework, through identifying the most essential components of evidence-based interventions that exhibit potential for greatest impact, can be applied to strengthen program development and delivery. Barry et al. (2017) considered how adopting a common elements approach to social and emotional learning intervention development could lead to innovative approaches that extend the reach of existing social emotional learning interventions.
+This article reports on the evaluation of a social and emotional learning program, underpinned by a common elements framework, that was designed for older adolescents in post-primary schools in Ireland. The context and rationale for the development of the MindOut intervention is briefly described and this article reports on the findings from the first phase of a comprehensive evaluation of the program for students attending disadvantaged post-primary schools.
+Background to the MindOut Program
+The MindOut program is a universal school-based program designed to be delivered by teachers to promote the social and emotional wellbeing of youth aged 15–18 years in post-primary schools. This program was first developed in 2004, with support from the national Health Service Executive, and has been successfully implemented through the Social Personal and Health Education (SPHE) curriculum, in post-primary schools across Ireland. Social Personal and Health Education is a mandatory health education curriculum in Irish schools that aims to support the wellbeing and personal skill development of students so that they are better equipped to make informed decisions about their health, personal lives, and social development (NCCA 2011; Nic Gabhainn et al. 2010). While initial evaluations of the MindOut program showed a number of positive effects for students (Byrne et al. 2004, 2005; Byrne 2005), teachers, students and other stakeholders requested the program be updated to be more relevant to the lives of young Irish people today and to reflect the most recent developments in research, policy and practice both internationally and within Ireland.
+The revision of the MindOut program involved a thorough process that was informed by three principal sources; (i) a review of existing resources based on a common elements approach (ii) consultation with program users (e.g., teachers and youth) and (iii) consultation with a National Working Group representing key national stakeholder organizations. In reviewing existing resources, relevant evidence-based programs were examined through a common elements framework similar to the work done by Boustani et al. (2015). While a systematic coding process was not employed, a number of common practice and instructional elements were identified through a mapping process. The common practice elements that were present in all of the youth programs examined included: recognizing and managing emotions, managing thoughts, positive thinking and coping skills. The most common instructional elements employed in the reviewed programs included: collaborative learning, group discussion, reflection, games and use of scenarios and worksheets. The MindOut program is underpinned by the Collaborative for Academic Social and Emotional Learning (CASEL) theoretical framework for social and emotional learning (CASEL 2015) and the most potent common practice and instructional elements identified during the mapping process were aligned with CASEL’s five core competencies and embedded into the program.
+Additionally, the development of the revised program involved consultations with youth and teachers in an effort to identify program user needs and ensure that these needs were met within the updated program (Barry et al. 2017; Dowling et al. 2016; McCrohan 2015). Interviews with teachers and participatory workshops with students who had participated in the original program were conducted to ascertain their feedback on core elements (e.g., content, instructional strategies, language etc.), priority issues for inclusion, and to ensure that the program was age and culturally relevant for older Irish adolescents. A secondary consultation was conducted with a small group of youth recruited through a national youth organization who assisted in drafting age-appropriate, real-life scenarios based on the priority issues previously defined by students. At a later stage in the development process, this group also contributed in reviewing and providing feedback on each of the revised program sessions.
+Throughout the development process, a National Working Group, which included key stakeholders from education, health promotion, educational psychology and mental health services, were consulted to ascertain their recommendations for strengthening the program and its potential outcomes. Further details on the development process can be found in relevant documents (Barry et al. 2017; Dowling et al. 2016). The revised program, which was written in consultation with youth and the National Working Group, was piloted with five post-primary schools to assess the feasibility of its implementation in schools (see Dowling et al. 2016 report for further details). Feedback from the pilot phase was then used to make further adaptions to the program.
+Program Description
+The revised MindOut program (Dowling et al. 2017) consists of 13 weekly sessions, which are intended to be delivered by teachers within the Social Personal Health Education (SPHE) curriculum for 15-18 year old students. The content of the program is based on CASEL’s five core competencies for social and emotional learning i.e., self-awareness, self-management, social awareness, relationship management and responsible decision making (CASEL 2015). The program is comprised of a teacher manual, with structured activities and resource materials which promote the development of these social and emotional competencies. The program employs interactive teaching strategies (e.g., collaborative learning, structured games, scenarios, videos etc.) to engage students in a number of skill-building activities such as: identifying and managing emotions, coping with challenges, overcoming negative thinking, communication, empathy, relationship skills etc. Additionally, the program promotes whole-school approaches by providing staff with a menu of strategies for promoting social and emotional development at a wider school level (e.g., practice-at-home activities; teacher reflection; whole-school activities; whole-school tips for staff and for engaging students, parents and the community etc.). These whole-school resources, in combination with the MindOut curriculum, aim to support students’ wellbeing not only at the classroom level but at the wider school level. The program logic model can be seen in Fig. 1 and a summary of the program content can be seen in Table 4 of the appendix. In view of the substantive revisions made, it was deemed necessary to determine if the new program would lead to positive outcomes for youth, especially for those from disadvantaged communities.
+Fig. 1
+MindOut program logic model
+Full size image
+
+Fig. 1
+MindOut program logic model
+Full size image
+
+Fig. 1
+
+MindOut program logic model
+
+MindOut program logic model
+
+Current Study
+The present study evaluates the revised MindOut program in disadvantaged post-primary schools in Ireland. The specific aims of the overall study are: to assess the immediate and longer-term impact of the revised MindOut program on the participants’ social and emotional skills development, overall mental health and wellbeing and academic performance; and to examine the process of implementation in order to determine the conditions needed to achieve successful outcomes in the school setting. Employing a cluster randomized controlled trial design, the current study reports specifically on the immediate impact of the MindOut program on students’ social emotional skills, mental health and wellbeing and academic outcomes when delivered to disadvantaged post-primary students. Unlike other evidence-based social and emotional learning programs delivered in Ireland, the MindOut program was especially designed to meet the needs of older Irish adolescents and this was achieved through the extensive consultations conducted with the adolescents themselves, and the key stakeholders that work with them, during the program development process. This process sought to address the issue of cultural transferability that arises when programs are being delivered that have been developed and evaluated elsewhere. The MindOut program also employed a common elements framework approach to its development. This novel process has been used in youth mental health treatment and prevention studies, but this study will determine whether or not this type of approach can be successfully utilized in social and emotional learning program development. The evaluation also addresses a gap in the evidence by assessing the effect of social and emotional learning programs with older adolescents, an age that is often overlooked in terms of programing and evaluation studies, particularly in Ireland, due to the strong weight given to earlier intervention. Finally, this study focuses on evaluating the program with a vulnerable group of youth, in order to gain more knowledge on the impact of social and emotional learning programs on disadvantaged students’ outcomes.
+
+Current Study
+
+The present study evaluates the revised MindOut program in disadvantaged post-primary schools in Ireland. The specific aims of the overall study are: to assess the immediate and longer-term impact of the revised MindOut program on the participants’ social and emotional skills development, overall mental health and wellbeing and academic performance; and to examine the process of implementation in order to determine the conditions needed to achieve successful outcomes in the school setting. Employing a cluster randomized controlled trial design, the current study reports specifically on the immediate impact of the MindOut program on students’ social emotional skills, mental health and wellbeing and academic outcomes when delivered to disadvantaged post-primary students. Unlike other evidence-based social and emotional learning programs delivered in Ireland, the MindOut program was especially designed to meet the needs of older Irish adolescents and this was achieved through the extensive consultations conducted with the adolescents themselves, and the key stakeholders that work with them, during the program development process. This process sought to address the issue of cultural transferability that arises when programs are being delivered that have been developed and evaluated elsewhere. The MindOut program also employed a common elements framework approach to its development. This novel process has been used in youth mental health treatment and prevention studies, but this study will determine whether or not this type of approach can be successfully utilized in social and emotional learning program development. The evaluation also addresses a gap in the evidence by assessing the effect of social and emotional learning programs with older adolescents, an age that is often overlooked in terms of programing and evaluation studies, particularly in Ireland, due to the strong weight given to earlier intervention. Finally, this study focuses on evaluating the program with a vulnerable group of youth, in order to gain more knowledge on the impact of social and emotional learning programs on disadvantaged students’ outcomes.
+
+Methods
+Study Design
+This study employed a cluster randomized controlled design with schools as the unit of randomization. Baseline (T1) measures were taken approximately one to two weeks before program implementation within each school and post-intervention (T2) measures were collected immediately following program implementation (13 weeks).
+Participants
+Eligibility criteria
+In order to qualify for selection, the schools and students needed to meet a number of eligibility criteria, which included; (i) holding the designated disadvantage status (DEIS) by the Department of Education & Skills (ii) providing education at a post-primary level; and (iii) English-speaking (i.e., not Irish only speaking schools “Gael Scoileanna”). Delivering Equality of Opportunity in Disadvantaged Schools (DEIS) address the educational needs of children and youth from disadvantaged communities, from pre-school through second-level education. Schools are given disadvantaged status if 70% of the students are classified as educationally disadvantaged by the Department of Education and Skills. A total of 185 schools met these criteria. Students attending the participating schools who were in 4th/Transition Year (15–17 years) or 5th year (16–18 years) at baseline were the target population. Transition Year is a one-year optional program which acts as a bridge between the Junior Certificate program (3rd year; 13–15 yrs.), where learning happens in a highly-structured environment; and the Leaving Certificate program (6th year; 16–18 yrs.), where students are required to take greater responsibility for their own learning and decision making. Transition Year is designed to give students space to learn, mature and develop without the presence of exam pressures (Department of Education and Skills 2018). Only full-time students (i.e., not exchange or short-term visiting students) were considered for inclusion in this evaluation.
+Sample size
+To determine the sample size needed for this study similar intervention studies using comparable measures were consulted, which indicated a likely effect size of 0.29 and an anticipated intra-class correlation (ICC) of 0.02 based on depression scores (Kuyken et al. 2013). Assuming a non-participation rate of 10%, an average class size of 20 pupils and the aforementioned data, a sample size calculation was conducted using Winpepi COMPARE2 statistical software program. This power calculation resulted in a suggested sample size of 600 students from 30 schools (15 control; 15 intervention). In order to account for any dropouts at a school (cluster) level, schools were oversampled. Therefore, for the purpose of this study, 34 schools (17 control; 17 intervention) were recruited.
+Recruitment and Randomization
+Randomization was conducted at a cluster (school) level as the intervention was intended to be implemented with groups (classes) rather than individual students. Cluster randomization accounts for the nested nature of the data and helps avoid potential contamination bias. A list of all post-primary DEIS schools in the Republic of Ireland (ROI) was accessed from the Department of Education (https://www.education.ie/en/) and schools that did not meet the eligibility criteria were excluded from this list. Prior to randomization, schools were stratified based on school categorization (e.g., urban mixed, rural mixed, urban girls and urban boys) to ensure the gender and geographical location of participants in each treatment group were closely balanced. An independent statistician used a computerized random number generator to randomly select 34 schools from the list of 185 eligible schools. DEIS schools were recruited in order of their appearance on the randomized list. Principals of selected schools were contacted by the researchers regarding participation in this study and schools who declined to participate were replaced by contacting the subsequent school on the list. Once all 34 school principals had given consent, the independent statistician randomized the schools into either the i) control (N = 17) or ii) intervention (N = 17) arm. Schools were then contacted and informed of the group to which they were assigned. Following group allocation, two schools within the control group dropped out of this study leaving 32 schools (15 control; 17 intervention) participating at baseline. All parents of participating students received an information sheet describing the intervention and the nature of this study. Parents were also given an opt-out consent form which they were asked to return to the school if they did not want their son or daughter to participate in this study. On the day of data collection, students were given the option to participate in the study and were asked to complete the consent form provided to them. It was not possible for staff and students to be blinded to the study group allocation. The process of recruitment can be seen in Fig. 2.
+Fig. 2
+CONSORT diagram of recruitment of schools and students
+Full size image
+Teacher Training
+All teachers from intervention schools attended a one-day comprehensive training session, delivered by a Health Promotion Officer (HPO) from the Health and Wellbeing Division of the national Health Service Executive (HSE), prior to beginning program delivery. This training prepared teachers by introducing them to the program content, materials and teaching strategies while also providing them with techniques for supporting their students’ needs. Teachers of intervention schools were asked to implement the program in the context of the Social Personal Health Education curriculum as faithfully as possible over a thirteen week period. Teachers of control schools were advised to implement the Social Personal Health Education curriculum as they normally would, which includes a component on emotional wellbeing.
+Measures
+A review of measures was completed to select the most appropriate outcome measures for this study and the final selection was based on a number of criteria including: age-appropriateness, length, cost, psychometric properties and sensitivity to change. All measures were piloted with a group of Irish students to identify any problematic questions and to ensure that the questions were culturally appropriate for Irish adolescents.
+Demographic Variables
+Participants were asked to report on their gender, age, year, nationality and parent demographics (education and employment).
+Student Outcome Measures
+Social emotional skills
+Self-esteem
+Self-esteem was measured using the Rosenberg Self-esteem Scale (Rosenberg 1965), a 10-item scale that was originally designed for use with high-school students. Items are answered on a four-point Likert scale. The scale showed high internal consistency (α = 0.87) in the current study.
+Emotional regulation
+The Emotional Regulation Questionnaire (Gross and John 2003) is a 10-item scale which was used to assess respondents’ (i) cognitive reappraisal and (ii) expressive suppression. This scale has been used in a number of studies with adolescents 10–18 years old (Dingle et al. 2016; Jennings et al. 2013; Kuosmanen et al. 2017). Respondents are asked to rate how much they agree or disagree with items on a 7-point Likert scale. Good internal reliability was found for the subscale cognitive reappraisal (α = 0.85), however, the subscale expressive suppression (α = 0.67) fell under the required threshold of 0.70 in the current study.
+Emotional intelligence
+Emotional Intelligence was measured by the Trait Meta-Mood Scale (TMMS), which was originally developed by Salovey et al. (1995) as a 48-item scale used to measure people’s ability to manage and regulate their moods and emotions. The TMMS-24 was adapted in Spain (Fernández-Berrocal et al. 2004) and validated for use with youth (Garaigordobil and Pena-Sarrionandia 2015; Pedrosa et al. 2014; Salguero et al. 2010). The scale has three subscales: attention to feelings, emotional clarity and emotional repair and items are scored on a five point Likert scale. Acceptable internal consistencies were found for the subscales emotional clarity (α = 0.70) and emotional repair (α = 0.80) but the reliability of the subscale attention to feelings (α = 0.66) was below the 0.70 threshold.
+Coping skills
+Coping skills were measured using the Coping Strategy Indicator (CSI-15; Ellis 2004), a 15-item short form of the original 33 item scale (Amirkhan 1990), which evaluates three types of coping strategies (Subscales: Problem Solving, Avoidance, Social Support). This scale has been successfully used in a number of studies with adolescents ranging from 11–25 years in Ireland and internationally (Dooley and Fitzgerald 2012; Kuosmanen et al. 2017; Shandley et al. 2010). The subscale measures displayed adequate to high internal consistencies (problem solving, α = 0.83.; avoidance, α = 0.76; social support, α = 0.91).
+Social self-efficacy
+The Self-Efficacy Questionnaire (SEQ-C; Muris 2001) is a 24 item scale designed for youth aged 13–18 and is comprised of three main subscales: academic self-efficacy, emotional self-efficacy and social self-efficacy. Only the latter was utilized in this study. The social self-efficacy scale is an 8-item subscale that measures respondents’ self- assessment of their ability to navigate through social situations and engage successfully with others. Each of the items are scored on a five-point Likert scale. The scale showed good internal consistency (α = 0.77) in the current study.
+Asserting influence and conflict resolution
+Asserting influence and conflict resolution was assessed using the Adolescent Interpersonal Competence Questionnaire (AICQ; Buhrmester 1990), which is composed of five subscales: initiating relationships, providing emotional support, self-disclosure, asserting influence and conflict resolution. Only the two latter subscales were used for the purpose of this study, each of which contains 8-items. Respondents are given a number of brief interpersonal situations and rate on a 5-point scale their level of competence and ease in handling these situations. The subscale measures displayed high internal consistencies (asserting influence, α = 0.85; conflict resolution, α = 0.81) in this study.
+Decision making
+Decision making was measured using the Making Decisions in Everyday Life Scale (Mincemoyer and Perkins 2003), which includes 20 items and assesses adolescent participants’ use of skills during the decision-making process. This scale was adapted (Cater et al. 2010) to a short form, which is composed of five items. Respondents are asked to rate how often they engage in certain actions of the decision making process on a four point Likert scale. The scale showed good internal consistency (α = 0.79) in the current study.
+Mental Health and Wellbeing
+Mental health
+The Depression Anxiety Stress Scale (DASS-21; Lovibond and Lovibond 1995) is a 21-item self-report scale designed to measure levels of symptoms related to three subscales: depression, anxiety and stress. Though this scale was originally developed for adults, it has been validated and used in a number of studies with adolescents within Ireland and internationally (Da Silva et al. 2016; Dooley and Fitzgerald 2012; Tully et al. 2009). Each of the three subscales is composed of 7 scale items. High internal consistencies were shown for all three subscales (stress, α = 0.85; anxiety, α = 0.84; depression, α = 0.90).
+Mental wellbeing
+The positive mental health and wellbeing of respondents was assessed using the 14-item Warwick Edinburgh Mental Wellbeing Scale (WEMWBS; Tennant et al. 2007). This scale was originally designed for use with adult populations, however, the scale has also been validated with adolescents (Clarke et al. 2011). The minimum score is 14 and the maximum score is 70 with higher scores indicating higher levels of mental wellbeing. The WEMWBS demonstrated high internal consistency (Cronbach α = 0.91) in this study.
+Academic Outcomes
+Attitudes toward school
+The Attitudes Towards School scale (Anderson 1999) was used to measure students’ (12-17 years) attitudes toward their school environment (e.g., teachers, homework, grades and learning) and their feelings toward school. A higher score on this a 15-item scale indicates a more positive attitude toward school. The scale showed high internal consistency (α = 0.87) in the current study.
+School achievement motivation
+The School Achievement Motivation Rating Scale (SAMRS; Chiu 1997) was also employed to assess students’ academic motivation. This 15-item scale is designed for use by teachers to rate the achievement motivation demonstrated by their students (5–18 years) in the classroom. Achievement motivation includes the students’ desire to do well, ability to overcome challenges, maintain a high standard of work and surpass others. Teachers rate students on a five-point scale. The SAMRS demonstrated high internal consistency (α = 0.92) in this study.
+An effort was also made to measure students’ academic performance through both self-reported and teacher-reported grades. However, due to the absence of standardized test scores, the data provided by both students and teachers were deemed insufficient and are therefore, not reported in this article.
+Analysis
+Intention to treat (ITT) analysis was employed in this study utilizing all available data. In accordance with the CONSORT 2010 statement (Schulz et al. 2010), all randomized students that were present both at pre-and post-assessment (n = 497) were analyzed in the groups they were originally randomized to, irrespective of their characteristics and how much or how little of the intervention they actually received (Hill 1961). Baseline differences between males and females were examined through independent sample t-tests to determine whether or not the model would need to control for gender. Intervention effects were analyzed using a linear mixed model (LMM) framework due to the clustered nature of the data. Mixed models have a number of advantages in comparison to standard linear regression models including the ability to handle missing data points and account for the fact that data points are likely not independent of each other. In other words, students within the same school/class are likely to report more similarly to each other than students from different schools (Demidenko 2013; Krueger and Tian 2004; Wainwright et al. 2007). For each outcome, treatment allocation group (intervention vs. control) was modelled as a fixed effect and School ID was modelled as a random intercept term to allow the between- and within-school variability to be modelled separately. This random intercept alleviates the issue of inflated standard errors, which would occur in a simple regression model (Steenbergen and Jones 2002). Post-test scores acted as the dependent variable while pre-test scores and gender were controlled for by being modelled as covariates. The a priori alpha level set for this study was 0.05. All statistical analyses were completed using SPSS (version 25). The findings from this study are reported in compliance with the CONSORT 2010 statement for cluster randomized trials.
+
+Methods
+
+Study Design
+This study employed a cluster randomized controlled design with schools as the unit of randomization. Baseline (T1) measures were taken approximately one to two weeks before program implementation within each school and post-intervention (T2) measures were collected immediately following program implementation (13 weeks).
+Participants
+Eligibility criteria
+In order to qualify for selection, the schools and students needed to meet a number of eligibility criteria, which included; (i) holding the designated disadvantage status (DEIS) by the Department of Education & Skills (ii) providing education at a post-primary level; and (iii) English-speaking (i.e., not Irish only speaking schools “Gael Scoileanna”). Delivering Equality of Opportunity in Disadvantaged Schools (DEIS) address the educational needs of children and youth from disadvantaged communities, from pre-school through second-level education. Schools are given disadvantaged status if 70% of the students are classified as educationally disadvantaged by the Department of Education and Skills. A total of 185 schools met these criteria. Students attending the participating schools who were in 4th/Transition Year (15–17 years) or 5th year (16–18 years) at baseline were the target population. Transition Year is a one-year optional program which acts as a bridge between the Junior Certificate program (3rd year; 13–15 yrs.), where learning happens in a highly-structured environment; and the Leaving Certificate program (6th year; 16–18 yrs.), where students are required to take greater responsibility for their own learning and decision making. Transition Year is designed to give students space to learn, mature and develop without the presence of exam pressures (Department of Education and Skills 2018). Only full-time students (i.e., not exchange or short-term visiting students) were considered for inclusion in this evaluation.
+Sample size
+To determine the sample size needed for this study similar intervention studies using comparable measures were consulted, which indicated a likely effect size of 0.29 and an anticipated intra-class correlation (ICC) of 0.02 based on depression scores (Kuyken et al. 2013). Assuming a non-participation rate of 10%, an average class size of 20 pupils and the aforementioned data, a sample size calculation was conducted using Winpepi COMPARE2 statistical software program. This power calculation resulted in a suggested sample size of 600 students from 30 schools (15 control; 15 intervention). In order to account for any dropouts at a school (cluster) level, schools were oversampled. Therefore, for the purpose of this study, 34 schools (17 control; 17 intervention) were recruited.
+Recruitment and Randomization
+Randomization was conducted at a cluster (school) level as the intervention was intended to be implemented with groups (classes) rather than individual students. Cluster randomization accounts for the nested nature of the data and helps avoid potential contamination bias. A list of all post-primary DEIS schools in the Republic of Ireland (ROI) was accessed from the Department of Education (https://www.education.ie/en/) and schools that did not meet the eligibility criteria were excluded from this list. Prior to randomization, schools were stratified based on school categorization (e.g., urban mixed, rural mixed, urban girls and urban boys) to ensure the gender and geographical location of participants in each treatment group were closely balanced. An independent statistician used a computerized random number generator to randomly select 34 schools from the list of 185 eligible schools. DEIS schools were recruited in order of their appearance on the randomized list. Principals of selected schools were contacted by the researchers regarding participation in this study and schools who declined to participate were replaced by contacting the subsequent school on the list. Once all 34 school principals had given consent, the independent statistician randomized the schools into either the i) control (N = 17) or ii) intervention (N = 17) arm. Schools were then contacted and informed of the group to which they were assigned. Following group allocation, two schools within the control group dropped out of this study leaving 32 schools (15 control; 17 intervention) participating at baseline. All parents of participating students received an information sheet describing the intervention and the nature of this study. Parents were also given an opt-out consent form which they were asked to return to the school if they did not want their son or daughter to participate in this study. On the day of data collection, students were given the option to participate in the study and were asked to complete the consent form provided to them. It was not possible for staff and students to be blinded to the study group allocation. The process of recruitment can be seen in Fig. 2.
+Fig. 2
+CONSORT diagram of recruitment of schools and students
+Full size image
+Teacher Training
+All teachers from intervention schools attended a one-day comprehensive training session, delivered by a Health Promotion Officer (HPO) from the Health and Wellbeing Division of the national Health Service Executive (HSE), prior to beginning program delivery. This training prepared teachers by introducing them to the program content, materials and teaching strategies while also providing them with techniques for supporting their students’ needs. Teachers of intervention schools were asked to implement the program in the context of the Social Personal Health Education curriculum as faithfully as possible over a thirteen week period. Teachers of control schools were advised to implement the Social Personal Health Education curriculum as they normally would, which includes a component on emotional wellbeing.
+Measures
+A review of measures was completed to select the most appropriate outcome measures for this study and the final selection was based on a number of criteria including: age-appropriateness, length, cost, psychometric properties and sensitivity to change. All measures were piloted with a group of Irish students to identify any problematic questions and to ensure that the questions were culturally appropriate for Irish adolescents.
+Demographic Variables
+Participants were asked to report on their gender, age, year, nationality and parent demographics (education and employment).
+Student Outcome Measures
+Social emotional skills
+Self-esteem
+Self-esteem was measured using the Rosenberg Self-esteem Scale (Rosenberg 1965), a 10-item scale that was originally designed for use with high-school students. Items are answered on a four-point Likert scale. The scale showed high internal consistency (α = 0.87) in the current study.
+Emotional regulation
+The Emotional Regulation Questionnaire (Gross and John 2003) is a 10-item scale which was used to assess respondents’ (i) cognitive reappraisal and (ii) expressive suppression. This scale has been used in a number of studies with adolescents 10–18 years old (Dingle et al. 2016; Jennings et al. 2013; Kuosmanen et al. 2017). Respondents are asked to rate how much they agree or disagree with items on a 7-point Likert scale. Good internal reliability was found for the subscale cognitive reappraisal (α = 0.85), however, the subscale expressive suppression (α = 0.67) fell under the required threshold of 0.70 in the current study.
+Emotional intelligence
+Emotional Intelligence was measured by the Trait Meta-Mood Scale (TMMS), which was originally developed by Salovey et al. (1995) as a 48-item scale used to measure people’s ability to manage and regulate their moods and emotions. The TMMS-24 was adapted in Spain (Fernández-Berrocal et al. 2004) and validated for use with youth (Garaigordobil and Pena-Sarrionandia 2015; Pedrosa et al. 2014; Salguero et al. 2010). The scale has three subscales: attention to feelings, emotional clarity and emotional repair and items are scored on a five point Likert scale. Acceptable internal consistencies were found for the subscales emotional clarity (α = 0.70) and emotional repair (α = 0.80) but the reliability of the subscale attention to feelings (α = 0.66) was below the 0.70 threshold.
+Coping skills
+Coping skills were measured using the Coping Strategy Indicator (CSI-15; Ellis 2004), a 15-item short form of the original 33 item scale (Amirkhan 1990), which evaluates three types of coping strategies (Subscales: Problem Solving, Avoidance, Social Support). This scale has been successfully used in a number of studies with adolescents ranging from 11–25 years in Ireland and internationally (Dooley and Fitzgerald 2012; Kuosmanen et al. 2017; Shandley et al. 2010). The subscale measures displayed adequate to high internal consistencies (problem solving, α = 0.83.; avoidance, α = 0.76; social support, α = 0.91).
+Social self-efficacy
+The Self-Efficacy Questionnaire (SEQ-C; Muris 2001) is a 24 item scale designed for youth aged 13–18 and is comprised of three main subscales: academic self-efficacy, emotional self-efficacy and social self-efficacy. Only the latter was utilized in this study. The social self-efficacy scale is an 8-item subscale that measures respondents’ self- assessment of their ability to navigate through social situations and engage successfully with others. Each of the items are scored on a five-point Likert scale. The scale showed good internal consistency (α = 0.77) in the current study.
+Asserting influence and conflict resolution
+Asserting influence and conflict resolution was assessed using the Adolescent Interpersonal Competence Questionnaire (AICQ; Buhrmester 1990), which is composed of five subscales: initiating relationships, providing emotional support, self-disclosure, asserting influence and conflict resolution. Only the two latter subscales were used for the purpose of this study, each of which contains 8-items. Respondents are given a number of brief interpersonal situations and rate on a 5-point scale their level of competence and ease in handling these situations. The subscale measures displayed high internal consistencies (asserting influence, α = 0.85; conflict resolution, α = 0.81) in this study.
+Decision making
+Decision making was measured using the Making Decisions in Everyday Life Scale (Mincemoyer and Perkins 2003), which includes 20 items and assesses adolescent participants’ use of skills during the decision-making process. This scale was adapted (Cater et al. 2010) to a short form, which is composed of five items. Respondents are asked to rate how often they engage in certain actions of the decision making process on a four point Likert scale. The scale showed good internal consistency (α = 0.79) in the current study.
+Mental Health and Wellbeing
+Mental health
+The Depression Anxiety Stress Scale (DASS-21; Lovibond and Lovibond 1995) is a 21-item self-report scale designed to measure levels of symptoms related to three subscales: depression, anxiety and stress. Though this scale was originally developed for adults, it has been validated and used in a number of studies with adolescents within Ireland and internationally (Da Silva et al. 2016; Dooley and Fitzgerald 2012; Tully et al. 2009). Each of the three subscales is composed of 7 scale items. High internal consistencies were shown for all three subscales (stress, α = 0.85; anxiety, α = 0.84; depression, α = 0.90).
+Mental wellbeing
+The positive mental health and wellbeing of respondents was assessed using the 14-item Warwick Edinburgh Mental Wellbeing Scale (WEMWBS; Tennant et al. 2007). This scale was originally designed for use with adult populations, however, the scale has also been validated with adolescents (Clarke et al. 2011). The minimum score is 14 and the maximum score is 70 with higher scores indicating higher levels of mental wellbeing. The WEMWBS demonstrated high internal consistency (Cronbach α = 0.91) in this study.
+Academic Outcomes
+Attitudes toward school
+The Attitudes Towards School scale (Anderson 1999) was used to measure students’ (12-17 years) attitudes toward their school environment (e.g., teachers, homework, grades and learning) and their feelings toward school. A higher score on this a 15-item scale indicates a more positive attitude toward school. The scale showed high internal consistency (α = 0.87) in the current study.
+School achievement motivation
+The School Achievement Motivation Rating Scale (SAMRS; Chiu 1997) was also employed to assess students’ academic motivation. This 15-item scale is designed for use by teachers to rate the achievement motivation demonstrated by their students (5–18 years) in the classroom. Achievement motivation includes the students’ desire to do well, ability to overcome challenges, maintain a high standard of work and surpass others. Teachers rate students on a five-point scale. The SAMRS demonstrated high internal consistency (α = 0.92) in this study.
+An effort was also made to measure students’ academic performance through both self-reported and teacher-reported grades. However, due to the absence of standardized test scores, the data provided by both students and teachers were deemed insufficient and are therefore, not reported in this article.
+Analysis
+Intention to treat (ITT) analysis was employed in this study utilizing all available data. In accordance with the CONSORT 2010 statement (Schulz et al. 2010), all randomized students that were present both at pre-and post-assessment (n = 497) were analyzed in the groups they were originally randomized to, irrespective of their characteristics and how much or how little of the intervention they actually received (Hill 1961). Baseline differences between males and females were examined through independent sample t-tests to determine whether or not the model would need to control for gender. Intervention effects were analyzed using a linear mixed model (LMM) framework due to the clustered nature of the data. Mixed models have a number of advantages in comparison to standard linear regression models including the ability to handle missing data points and account for the fact that data points are likely not independent of each other. In other words, students within the same school/class are likely to report more similarly to each other than students from different schools (Demidenko 2013; Krueger and Tian 2004; Wainwright et al. 2007). For each outcome, treatment allocation group (intervention vs. control) was modelled as a fixed effect and School ID was modelled as a random intercept term to allow the between- and within-school variability to be modelled separately. This random intercept alleviates the issue of inflated standard errors, which would occur in a simple regression model (Steenbergen and Jones 2002). Post-test scores acted as the dependent variable while pre-test scores and gender were controlled for by being modelled as covariates. The a priori alpha level set for this study was 0.05. All statistical analyses were completed using SPSS (version 25). The findings from this study are reported in compliance with the CONSORT 2010 statement for cluster randomized trials.
+
+Fig. 2
+CONSORT diagram of recruitment of schools and students
+Full size image
+
+Fig. 2
+
+CONSORT diagram of recruitment of schools and students
+
+CONSORT diagram of recruitment of schools and students
+
+Results
+Participants
+In total, 675 participants from 32 schools completed the baseline assessment (intervention n = 330; control n = 345). At post-intervention, a total of 497 students from 32 schools remained in this study (intervention n = 246; control n = 251). A comparison of the demographic characteristics at baseline and post-intervention of participants in the two groups in terms of gender, year group and school category are outlined in Table 1. Almost equal numbers of males (50.1%) and females took part in this study overall. Students ranged in age from 15 to 18 years old at baseline (M = 15.87, SD = .69) (Males M = 15.85, SD = .719; Females M = 15.88, SD = .66). Reasons for dropout at an individual level was largely related to individual students being absent on the day of follow-up data collection.
+Table 1 Baseline characteristics by group
+Full size table
+Baseline Analysis
+Profile of participants’ mental health
+Of the total sample at baseline, 57% of adolescents were classified as having normal levels of stress, 35% normal anxiety levels and 48% normal symptoms of depression, based on DASS-21 scores. Males were more likely to be classified in the normal range for all three categories in comparison to females. Overall, the students in this study, who were identified as disadvantaged, reported less favorable mental health and wellbeing outcomes at baseline when compared to the general population of adolescents as reported in a large-scale national study; mean DASS-21 depression score of 12.06 in comparison to 8.3; mean DASS-21 anxiety score of 12.7 compared to 7; mean DASS-21 stress score of 14.5 compared to 9.9 in a national sample of 16–17 year old Irish students (n = 6085; Dooley and Fitzgerald 2012). The mean WEMWBS score of 47.2 in the present study compares to 48.8 in 13–16 year old students in the UK (n = 1650; Clarke et al. 2011). In line with the above studies and current literature, female students reported poorer mental health and wellbeing at baseline in comparison to males (Dooley and Fitzgerald 2012).
+T-tests were employed to assess gender differences on the main outcome variables at baseline. Males scored higher than females on the following scales: Self-Esteem, Total Emotional Intelligence (TMMS), Emotional Clarity (TMMS), Problem-Solving Coping (CSI), and Asserting Influence (AICQ). Females scored higher than males on: Attention to Feelings (TMMS), Avoidance Coping (CSI) and Social Support Coping (CSI). For academic outcomes, males scored significantly higher than females on the Attitudes Towards School scale. Males scored higher than females on the Mental Wellbeing scale, whereas females scored higher than males on stress, anxiety and depressive symptoms (DASS-21). The results of the t-test can be found in Table 2.
+Table 2 Results of t-test for gender differences at baseline
+Full size table
+Outcome Analysis
+Results of linear mixed model for key outcome variables are shown in Table 3.
+Table 3 Results of linear mixed model analyses for key outcome variables
+Full size table
+Social emotional skills
+With regard to social and emotional skills, there was little evidence for an effect of the intervention on students’ self-esteem (p = 0.135). There was no evidence for an effect of the intervention on emotional intelligence (p = 0.076), attention to feelings (p = 0.095), emotional clarity (p = 0.318) or emotional repair (p = .361). There was evidence to suggest that the intervention decreased levels of suppressing emotions, with students in the intervention group scoring 0.244 points lower at follow-up (95% CI −0.45, −0.041; p = 0.035). No intervention effects were detected for cognitive reappraisal (p = 0.195). There was evidence for a significant reduction in avoidance coping in the intervention group. Those youth receiving the intervention had a 1.43-point reduction in their avoidance levels (95% CI 0.64, 2.22; p = < 0.001). Increased levels of social support coping were also found, with students in the intervention group scoring 0.812 points higher at follow-up (95% CI 0.02, 1.60; p = 0.044). There was no evidence for an intervention effect on problem-solving coping (p = 0.935) or on students’ social self-efficacy (p = 0.865). Likewise, there was no evidence for an intervention effect on students’ interpersonal skills for both asserting influence (p = 0.306) and conflict resolution (p = 0.768). Students’ decision-making skills also showed no significant program effect (p = 0.520).
+Mental health and wellbeing
+The findings show that the intervention significantly decreased levels of both self-reported stress (1.63 decrease 95% CI −2.97, −0.30; p = 0.017) and symptoms of depression (1.58 decrease 95% CI −3.01, −0.15; p = 0.030). No evidence for intervention effects were detected for anxiety (p = 0.159) however, there was a significant effect on the intervention on anxiety for females students (−2.02 decrease 95% CI −5.89, −.078; p = 0.044). There was no evidence for significant intervention effects on students’ self-reported mental wellbeing (p = 0.942).
+Academic outcomes
+No intervention effects were demonstrated for students’ attitudes toward school (p = 0.935). There also was no evidence for significant intervention effects on students’ school achievement motivation as rated by teachers (p = 0.828).
+
+Results
+
+Participants
+In total, 675 participants from 32 schools completed the baseline assessment (intervention n = 330; control n = 345). At post-intervention, a total of 497 students from 32 schools remained in this study (intervention n = 246; control n = 251). A comparison of the demographic characteristics at baseline and post-intervention of participants in the two groups in terms of gender, year group and school category are outlined in Table 1. Almost equal numbers of males (50.1%) and females took part in this study overall. Students ranged in age from 15 to 18 years old at baseline (M = 15.87, SD = .69) (Males M = 15.85, SD = .719; Females M = 15.88, SD = .66). Reasons for dropout at an individual level was largely related to individual students being absent on the day of follow-up data collection.
+Table 1 Baseline characteristics by group
+Full size table
+Baseline Analysis
+Profile of participants’ mental health
+Of the total sample at baseline, 57% of adolescents were classified as having normal levels of stress, 35% normal anxiety levels and 48% normal symptoms of depression, based on DASS-21 scores. Males were more likely to be classified in the normal range for all three categories in comparison to females. Overall, the students in this study, who were identified as disadvantaged, reported less favorable mental health and wellbeing outcomes at baseline when compared to the general population of adolescents as reported in a large-scale national study; mean DASS-21 depression score of 12.06 in comparison to 8.3; mean DASS-21 anxiety score of 12.7 compared to 7; mean DASS-21 stress score of 14.5 compared to 9.9 in a national sample of 16–17 year old Irish students (n = 6085; Dooley and Fitzgerald 2012). The mean WEMWBS score of 47.2 in the present study compares to 48.8 in 13–16 year old students in the UK (n = 1650; Clarke et al. 2011). In line with the above studies and current literature, female students reported poorer mental health and wellbeing at baseline in comparison to males (Dooley and Fitzgerald 2012).
+T-tests were employed to assess gender differences on the main outcome variables at baseline. Males scored higher than females on the following scales: Self-Esteem, Total Emotional Intelligence (TMMS), Emotional Clarity (TMMS), Problem-Solving Coping (CSI), and Asserting Influence (AICQ). Females scored higher than males on: Attention to Feelings (TMMS), Avoidance Coping (CSI) and Social Support Coping (CSI). For academic outcomes, males scored significantly higher than females on the Attitudes Towards School scale. Males scored higher than females on the Mental Wellbeing scale, whereas females scored higher than males on stress, anxiety and depressive symptoms (DASS-21). The results of the t-test can be found in Table 2.
+Table 2 Results of t-test for gender differences at baseline
+Full size table
+Outcome Analysis
+Results of linear mixed model for key outcome variables are shown in Table 3.
+Table 3 Results of linear mixed model analyses for key outcome variables
+Full size table
+Social emotional skills
+With regard to social and emotional skills, there was little evidence for an effect of the intervention on students’ self-esteem (p = 0.135). There was no evidence for an effect of the intervention on emotional intelligence (p = 0.076), attention to feelings (p = 0.095), emotional clarity (p = 0.318) or emotional repair (p = .361). There was evidence to suggest that the intervention decreased levels of suppressing emotions, with students in the intervention group scoring 0.244 points lower at follow-up (95% CI −0.45, −0.041; p = 0.035). No intervention effects were detected for cognitive reappraisal (p = 0.195). There was evidence for a significant reduction in avoidance coping in the intervention group. Those youth receiving the intervention had a 1.43-point reduction in their avoidance levels (95% CI 0.64, 2.22; p = < 0.001). Increased levels of social support coping were also found, with students in the intervention group scoring 0.812 points higher at follow-up (95% CI 0.02, 1.60; p = 0.044). There was no evidence for an intervention effect on problem-solving coping (p = 0.935) or on students’ social self-efficacy (p = 0.865). Likewise, there was no evidence for an intervention effect on students’ interpersonal skills for both asserting influence (p = 0.306) and conflict resolution (p = 0.768). Students’ decision-making skills also showed no significant program effect (p = 0.520).
+Mental health and wellbeing
+The findings show that the intervention significantly decreased levels of both self-reported stress (1.63 decrease 95% CI −2.97, −0.30; p = 0.017) and symptoms of depression (1.58 decrease 95% CI −3.01, −0.15; p = 0.030). No evidence for intervention effects were detected for anxiety (p = 0.159) however, there was a significant effect on the intervention on anxiety for females students (−2.02 decrease 95% CI −5.89, −.078; p = 0.044). There was no evidence for significant intervention effects on students’ self-reported mental wellbeing (p = 0.942).
+Academic outcomes
+No intervention effects were demonstrated for students’ attitudes toward school (p = 0.935). There also was no evidence for significant intervention effects on students’ school achievement motivation as rated by teachers (p = 0.828).
+
+Discussion
+Research has shown that school-based interventions that promote youth’s social and emotional skill development can be effective in improving their mental health and wellbeing and reducing their risk of developing mental health difficulties (Clarke et al. 2015; Durlak et al. 2011; Taylor et al. 2017). While there is strong evidence internationally for the effectiveness of school-based social and emotional learning programs, the evidence on the impact of these programs with older adolescents outside of the US context, especially those who are more vulnerable, remains unclear. This study set out to address these gaps in the evidence by conducting a cluster randomized controlled trial to assess the effects of a social and emotional learning program on disadvantaged adolescents (15–18 years) in Irish post-primary schools.
+The results indicate that the MindOut social and emotional learning program positively impacted on both students’ social and emotional skills as well as their mental health and wellbeing outcomes. These are promising findings that are in line with other large-scale randomized controlled trials evaluating social and emotional learning programs such as Positive Action (Lewis et al. 2016; Snyder et al. 2010), Friends (Stallard et al. 2014) and Stress Management Intervention (Keogh et al. 2006), which have been shown to improve youth’s overall wellbeing, academic outcomes and mental health outcomes. The findings from this study are particularly interesting given that this is one of the first cluster randomized controlled trials evaluating a social and emotional learning program developed for, and implemented with older adolescents within an Irish context. The results of this study demonstrate that the MindOut social and emotional learning program led to positive outcomes for youth by improving their social emotional skills, including reduced suppression of emotions, reduced avoidance coping and increased social support coping. Lower ratings of emotion suppression have previously been shown to be associated with higher positive affect, life satisfaction, social support as well as lower negative affect and depression (Balzarotti et al. 2010; Gross and John 2003; Haga et al. 2009; Nolen-Hoeksema and Aldao 2011). Previous research on the influence of different types of coping mechanisms on wellbeing has shown that higher levels of avoidant coping are more commonly associated with higher levels of depression, social anxiety, misuse of drugs and alcohol and deviant behaviors (Blumenthal et al. 2016; Horwitz et al. 2011; Markova and Nikitskaya 2017). Avoidant coping is also noted as a risk factor for both anxiety and depression (Seiffge-Krenke and Klessinger 2000). In contrast, higher levels of social support coping are related to lower levels of stress and depression and higher self-esteem (Camara et al. 2017; Lee et al. 2014; Thorsteinsson et al. 2013).
+It is important to explore the plausible explanations for the differences in significant and non-significant outcome effects. Within the MindOut program, sessions 2 and 3 focus on emotional coping skills such as emotional awareness, emotional regulation and overcoming negative thinking. Sessions 4 and 5 also address coping skills and encourage active coping strategies rather than avoidant as well as identifying supports. Therefore, the improvements displayed by the intervention students in emotional regulation, emotional suppression, avoidance coping and social support coping can be reasonably attributed to the content within the MindOut sessions. MindOut appears to have a greater impact on students’ emotional skills in comparison to their social skills. One possible reason for this could be that emotional skills were explored in the first five sessions of the program, when engagement and adherence to the implementation of the program lessons are likely to have been higher. The sessions which explored social skills occurred in the second half of the program: sessions 6, 7, and 9. A number of schools (n = 3) reported that they ran out of time to deliver some or all of these sessions, which could have impacted on outcomes. The impact of levels of program implementation on student outcomes will be examined in detail in the next phase of this evaluation. However, it is also possible that the MindOut program was not effective in improving social skill outcomes for students. It will be of interest to examine the sustainability of these findings during the planned 12 month follow-up study.
+The results of this study also demonstrate that the MindOut program was successful in reducing participants’ levels of reported stress, and symptoms of depression, as well as anxiety for female participants. The improvements in students’ emotional suppression could be directly linked to the decrease in depression scores, and likewise stress scores may have decreased as a result of students’ improved coping skills (e.g., reduction in avoidant coping and increased social support coping) as outlined earlier. Given that young females are at an increased risk of experiencing anxiety (Bahrami and Yousefi 2011; Hosseini and Khazali 2013), it is important to note that social and emotional learning programs can be effective in reducing this risk among the adolescent female population.
+The presence of stress, depression and anxiety during adolescence can have serious negative impacts on a young person’s life. These mental health difficulties have been associated with poorer social relationships, poorer academic performance and school drop-out, increased substance misuse, increased delinquent behaviors as well as increased risk of self-harming and suicide (Beesdo et al. 2009; Birmaher et al. 1996; WHO 2013). Therefore, the development of social and emotional skills through social and emotional learning programs such as MindOut can act as a protective factor not only for mental health problems but also for a wide range of negative health and social outcomes.
+In relation to academic performance, there were no significant positive effects detected for either groups in terms of students’ self-reported attitudes toward school or teacher-reported school achievement motivation. Although previous research has shown evidence for the effectiveness of social and emotional learning programs in improving academic outcomes (Durlak et al. 2011; Zins et al. 2004), this study did not find any significant impact of the intervention on these outcomes. Previous research has signaled the importance of whole-school approaches and positive school climate in partnership with classroom-based programs in improving academic outcomes for students (Greenberg et al. 2017; Jones and Bouffard 2012; Osher et al. 2004). While MindOut includes whole-school resources for schools, these strategies were not implemented to a high degree as reported by teachers in the intervention schools. It is plausible that classroom based-strategies alone are not enough to impact on academic outcomes for students and that these need to be aligned with whole school elements that promote a positive school climate in order to see these types of improvements. Future research should investigate this further by monitoring the implementation of whole-school strategies alongside a classroom-based social and emotional learning program to determine what key ingredients are needed for improving academic outcomes for adolescents.
+The present study reported the short-term evaluation results of the MindOut program for students in disadvantaged post-primary schools within the Irish context. In line with international research (Durlak et al. 2011; Taylor et al. 2017), this study supports the effectiveness of implementing universal school-based social and emotional learning programs demonstrating positive program impacts on students’ social and emotional skills and mental health and wellbeing. In contrast with other research studies, which suggest that social and emotional learning programs are not effective when delivered to older adolescents (Yeager 2017; Heckman and Kautz 2014), this study shows that these programs can show improvements for this population. There are two plausible reasons why this has not been found before. Firstly, there is a lack of high-quality evaluations of social and emotional learning programs conducted with this older age group, and therefore, it is impossible to conclude their effectiveness from the limited studies available. Second, the majority of programs that are evaluated with this age group, are adapted versions of programs developed for children and younger adolescents and therefore, the content may not be tailored to the needs of this older group, making it less relevant and therefore, less effective (Yeager 2017). The baseline findings indicate that students from disadvantaged backgrounds have lower levels of mental health and wellbeing and, therefore, demonstrate an increased need to engage with school-based social and emotional learning programs such as MindOut. The findings also provide preliminary support for the use of a common elements framework in developing universal social and emotional learning programs for standard delivery within the senior cycle of post-primary school, especially in the context of disadvantaged schools. The fact that MindOut was developed specifically for older adolescents, based on a common elements framework and with direct input from youth and teachers, could have contributed to the students’ engagement with the program and its overall impact.
+The next phase of the evaluation of the MindOut program will examine program implementation and longer-term program outcomes in further detail. The present findings do, however, indicate that school-based social and emotional learning programs such as MindOut can have positive benefits for vulnerable adolescents in Ireland. This study also demonstrates how intervention development, based on sound underlying program theory, the adoption of a common elements approach, and stakeholder consultation can provide a feasible and usable set of evidence-based strategies that can be successfully embedded into the Social Personal and Health Education (SPHE) curriculum in Ireland. In designing programs for older adolescents, researchers and practitioners therefore, need to consider how they will ensure that programs are both age and culturally-appropriate for their target group and tailored to their specific needs.
+Future Directions for Research and Practice
+The findings from this study suggest that social and emotional learning programs such as MindOut can create positive outcomes for disadvantaged post-primary students. There is a need for more research internationally to examine the impact of social and emotional learning programs both with more vulnerable disadvantaged groups as well as older adolescents, two populations which are underrepresented in social and emotional learning research. There is also a need for more robust studies which assess the effectiveness of social and emotional learning programs developed within the European context. The initial outcomes from the present study suggest positive findings, however, the long-term impact will also need to be determined at 12 months follow-up. Further research could contribute to advancing the application of the common elements approach to social and emotional learning interventions, including employing a more systematic coding process to identify common elements and determining their wider application in intervention development and implementation. Finally, there is also a need for research to explore levels of implementation quality and the potential impact this can have on achieving successful program outcomes. The next stage of this evaluation study will examine implementation fidelity across the intervention schools and explore its relationship with achieving positive outcomes for students.
+From a practice point of view, the findings from this study suggest that social and emotional learning programs, when specifically developed and tailored for target populations, can be successfully embedded into the post-primary school curriculum. Ensuring programs adequately meet the needs of target audiences and are both age and culturally relevant could be two key contributing factors to the success of program outcomes. This is an important consideration for both future developers of social and emotional learning programs and schools intending to embed these programs into their curriculum. The program appeared to show the greatest impact on emotional individual-centered outcomes (e.g., emotional suppression, coping skills, stress, depression etc.) and less of an impact on social outcomes (e.g., social self-efficacy, interpersonal skills etc.) or academic outcomes. It is possible that curriculum-based social and emotional learning programs are effective in improving person-centered emotional outcomes, but improving social and academic outcomes may require the inclusion of positive whole school strategies as well. The importance of aligning whole-school approaches with classroom-based strategies is not a novel idea and its importance has been endorsed in a number of studies (Jones and Bouffard 2012; Oberle and Schonert-Reichl 2017; Zins et al. 2004). While this study has shown that classroom-based social and emotional learning programs can be delivered successfully within the school curriculum for older students, schools could be encouraged to also implement whole school practices to ensure that students’ skills are being supported through a positive school climate and environment.
+The years between early adolescence and adulthood is a highly vulnerable but transformative period in a young person’s life, especially in relation to their mental health and wellbeing. The findings from this study indicate that school-based social and emotional learning programs can be a useful strategy for improving the wellbeing of older adolescents and reducing the risk of mental health difficulties or other problem behaviors. This is an important realization that should be considered by those working in the area of adolescence either through research, policy or practice.
+Strengths and Limitations
+The current study has a number of positive features which contribute to the strength of its findings. It is one of the first large-scale c-RCT studies in Ireland to evaluate the social and emotional wellbeing of high-risk adolescents. The robust design, including the clustered data, intention-to-treat and mixed model analysis is also a strength of this study, as is the range of validated outcome measures, which were carefully selected to reflect the program content and underlying theoretical social and emotional learning framework.
+While there are several strengths in the research design of this study, it also has several limitations which should be considered. One major limitation to this study is that all the data were collected through self-report measures and therefore, there is a risk of participant response bias. An additional limitation is that the evaluation study was led by the intervention developers, which can potentially lead to inflated treatment effects due to bias, higher quality implementation or both of these factors (Eisner 2009). A further limitation of this study is that the outcomes were attained immediately after the intervention had ended. Evidence suggests that the effects of many interventions diminish over time and therefore, it will be important to determine if the program effects will endure post-intervention. To assess this, a one-year follow-up study will investigate the longer-term effects of the program on students’ outcomes.
+
+Discussion
+
+Research has shown that school-based interventions that promote youth’s social and emotional skill development can be effective in improving their mental health and wellbeing and reducing their risk of developing mental health difficulties (Clarke et al. 2015; Durlak et al. 2011; Taylor et al. 2017). While there is strong evidence internationally for the effectiveness of school-based social and emotional learning programs, the evidence on the impact of these programs with older adolescents outside of the US context, especially those who are more vulnerable, remains unclear. This study set out to address these gaps in the evidence by conducting a cluster randomized controlled trial to assess the effects of a social and emotional learning program on disadvantaged adolescents (15–18 years) in Irish post-primary schools.
+The results indicate that the MindOut social and emotional learning program positively impacted on both students’ social and emotional skills as well as their mental health and wellbeing outcomes. These are promising findings that are in line with other large-scale randomized controlled trials evaluating social and emotional learning programs such as Positive Action (Lewis et al. 2016; Snyder et al. 2010), Friends (Stallard et al. 2014) and Stress Management Intervention (Keogh et al. 2006), which have been shown to improve youth’s overall wellbeing, academic outcomes and mental health outcomes. The findings from this study are particularly interesting given that this is one of the first cluster randomized controlled trials evaluating a social and emotional learning program developed for, and implemented with older adolescents within an Irish context. The results of this study demonstrate that the MindOut social and emotional learning program led to positive outcomes for youth by improving their social emotional skills, including reduced suppression of emotions, reduced avoidance coping and increased social support coping. Lower ratings of emotion suppression have previously been shown to be associated with higher positive affect, life satisfaction, social support as well as lower negative affect and depression (Balzarotti et al. 2010; Gross and John 2003; Haga et al. 2009; Nolen-Hoeksema and Aldao 2011). Previous research on the influence of different types of coping mechanisms on wellbeing has shown that higher levels of avoidant coping are more commonly associated with higher levels of depression, social anxiety, misuse of drugs and alcohol and deviant behaviors (Blumenthal et al. 2016; Horwitz et al. 2011; Markova and Nikitskaya 2017). Avoidant coping is also noted as a risk factor for both anxiety and depression (Seiffge-Krenke and Klessinger 2000). In contrast, higher levels of social support coping are related to lower levels of stress and depression and higher self-esteem (Camara et al. 2017; Lee et al. 2014; Thorsteinsson et al. 2013).
+It is important to explore the plausible explanations for the differences in significant and non-significant outcome effects. Within the MindOut program, sessions 2 and 3 focus on emotional coping skills such as emotional awareness, emotional regulation and overcoming negative thinking. Sessions 4 and 5 also address coping skills and encourage active coping strategies rather than avoidant as well as identifying supports. Therefore, the improvements displayed by the intervention students in emotional regulation, emotional suppression, avoidance coping and social support coping can be reasonably attributed to the content within the MindOut sessions. MindOut appears to have a greater impact on students’ emotional skills in comparison to their social skills. One possible reason for this could be that emotional skills were explored in the first five sessions of the program, when engagement and adherence to the implementation of the program lessons are likely to have been higher. The sessions which explored social skills occurred in the second half of the program: sessions 6, 7, and 9. A number of schools (n = 3) reported that they ran out of time to deliver some or all of these sessions, which could have impacted on outcomes. The impact of levels of program implementation on student outcomes will be examined in detail in the next phase of this evaluation. However, it is also possible that the MindOut program was not effective in improving social skill outcomes for students. It will be of interest to examine the sustainability of these findings during the planned 12 month follow-up study.
+The results of this study also demonstrate that the MindOut program was successful in reducing participants’ levels of reported stress, and symptoms of depression, as well as anxiety for female participants. The improvements in students’ emotional suppression could be directly linked to the decrease in depression scores, and likewise stress scores may have decreased as a result of students’ improved coping skills (e.g., reduction in avoidant coping and increased social support coping) as outlined earlier. Given that young females are at an increased risk of experiencing anxiety (Bahrami and Yousefi 2011; Hosseini and Khazali 2013), it is important to note that social and emotional learning programs can be effective in reducing this risk among the adolescent female population.
+The presence of stress, depression and anxiety during adolescence can have serious negative impacts on a young person’s life. These mental health difficulties have been associated with poorer social relationships, poorer academic performance and school drop-out, increased substance misuse, increased delinquent behaviors as well as increased risk of self-harming and suicide (Beesdo et al. 2009; Birmaher et al. 1996; WHO 2013). Therefore, the development of social and emotional skills through social and emotional learning programs such as MindOut can act as a protective factor not only for mental health problems but also for a wide range of negative health and social outcomes.
+In relation to academic performance, there were no significant positive effects detected for either groups in terms of students’ self-reported attitudes toward school or teacher-reported school achievement motivation. Although previous research has shown evidence for the effectiveness of social and emotional learning programs in improving academic outcomes (Durlak et al. 2011; Zins et al. 2004), this study did not find any significant impact of the intervention on these outcomes. Previous research has signaled the importance of whole-school approaches and positive school climate in partnership with classroom-based programs in improving academic outcomes for students (Greenberg et al. 2017; Jones and Bouffard 2012; Osher et al. 2004). While MindOut includes whole-school resources for schools, these strategies were not implemented to a high degree as reported by teachers in the intervention schools. It is plausible that classroom based-strategies alone are not enough to impact on academic outcomes for students and that these need to be aligned with whole school elements that promote a positive school climate in order to see these types of improvements. Future research should investigate this further by monitoring the implementation of whole-school strategies alongside a classroom-based social and emotional learning program to determine what key ingredients are needed for improving academic outcomes for adolescents.
+The present study reported the short-term evaluation results of the MindOut program for students in disadvantaged post-primary schools within the Irish context. In line with international research (Durlak et al. 2011; Taylor et al. 2017), this study supports the effectiveness of implementing universal school-based social and emotional learning programs demonstrating positive program impacts on students’ social and emotional skills and mental health and wellbeing. In contrast with other research studies, which suggest that social and emotional learning programs are not effective when delivered to older adolescents (Yeager 2017; Heckman and Kautz 2014), this study shows that these programs can show improvements for this population. There are two plausible reasons why this has not been found before. Firstly, there is a lack of high-quality evaluations of social and emotional learning programs conducted with this older age group, and therefore, it is impossible to conclude their effectiveness from the limited studies available. Second, the majority of programs that are evaluated with this age group, are adapted versions of programs developed for children and younger adolescents and therefore, the content may not be tailored to the needs of this older group, making it less relevant and therefore, less effective (Yeager 2017). The baseline findings indicate that students from disadvantaged backgrounds have lower levels of mental health and wellbeing and, therefore, demonstrate an increased need to engage with school-based social and emotional learning programs such as MindOut. The findings also provide preliminary support for the use of a common elements framework in developing universal social and emotional learning programs for standard delivery within the senior cycle of post-primary school, especially in the context of disadvantaged schools. The fact that MindOut was developed specifically for older adolescents, based on a common elements framework and with direct input from youth and teachers, could have contributed to the students’ engagement with the program and its overall impact.
+The next phase of the evaluation of the MindOut program will examine program implementation and longer-term program outcomes in further detail. The present findings do, however, indicate that school-based social and emotional learning programs such as MindOut can have positive benefits for vulnerable adolescents in Ireland. This study also demonstrates how intervention development, based on sound underlying program theory, the adoption of a common elements approach, and stakeholder consultation can provide a feasible and usable set of evidence-based strategies that can be successfully embedded into the Social Personal and Health Education (SPHE) curriculum in Ireland. In designing programs for older adolescents, researchers and practitioners therefore, need to consider how they will ensure that programs are both age and culturally-appropriate for their target group and tailored to their specific needs.
+Future Directions for Research and Practice
+The findings from this study suggest that social and emotional learning programs such as MindOut can create positive outcomes for disadvantaged post-primary students. There is a need for more research internationally to examine the impact of social and emotional learning programs both with more vulnerable disadvantaged groups as well as older adolescents, two populations which are underrepresented in social and emotional learning research. There is also a need for more robust studies which assess the effectiveness of social and emotional learning programs developed within the European context. The initial outcomes from the present study suggest positive findings, however, the long-term impact will also need to be determined at 12 months follow-up. Further research could contribute to advancing the application of the common elements approach to social and emotional learning interventions, including employing a more systematic coding process to identify common elements and determining their wider application in intervention development and implementation. Finally, there is also a need for research to explore levels of implementation quality and the potential impact this can have on achieving successful program outcomes. The next stage of this evaluation study will examine implementation fidelity across the intervention schools and explore its relationship with achieving positive outcomes for students.
+From a practice point of view, the findings from this study suggest that social and emotional learning programs, when specifically developed and tailored for target populations, can be successfully embedded into the post-primary school curriculum. Ensuring programs adequately meet the needs of target audiences and are both age and culturally relevant could be two key contributing factors to the success of program outcomes. This is an important consideration for both future developers of social and emotional learning programs and schools intending to embed these programs into their curriculum. The program appeared to show the greatest impact on emotional individual-centered outcomes (e.g., emotional suppression, coping skills, stress, depression etc.) and less of an impact on social outcomes (e.g., social self-efficacy, interpersonal skills etc.) or academic outcomes. It is possible that curriculum-based social and emotional learning programs are effective in improving person-centered emotional outcomes, but improving social and academic outcomes may require the inclusion of positive whole school strategies as well. The importance of aligning whole-school approaches with classroom-based strategies is not a novel idea and its importance has been endorsed in a number of studies (Jones and Bouffard 2012; Oberle and Schonert-Reichl 2017; Zins et al. 2004). While this study has shown that classroom-based social and emotional learning programs can be delivered successfully within the school curriculum for older students, schools could be encouraged to also implement whole school practices to ensure that students’ skills are being supported through a positive school climate and environment.
+The years between early adolescence and adulthood is a highly vulnerable but transformative period in a young person’s life, especially in relation to their mental health and wellbeing. The findings from this study indicate that school-based social and emotional learning programs can be a useful strategy for improving the wellbeing of older adolescents and reducing the risk of mental health difficulties or other problem behaviors. This is an important realization that should be considered by those working in the area of adolescence either through research, policy or practice.
+Strengths and Limitations
+The current study has a number of positive features which contribute to the strength of its findings. It is one of the first large-scale c-RCT studies in Ireland to evaluate the social and emotional wellbeing of high-risk adolescents. The robust design, including the clustered data, intention-to-treat and mixed model analysis is also a strength of this study, as is the range of validated outcome measures, which were carefully selected to reflect the program content and underlying theoretical social and emotional learning framework.
+While there are several strengths in the research design of this study, it also has several limitations which should be considered. One major limitation to this study is that all the data were collected through self-report measures and therefore, there is a risk of participant response bias. An additional limitation is that the evaluation study was led by the intervention developers, which can potentially lead to inflated treatment effects due to bias, higher quality implementation or both of these factors (Eisner 2009). A further limitation of this study is that the outcomes were attained immediately after the intervention had ended. Evidence suggests that the effects of many interventions diminish over time and therefore, it will be important to determine if the program effects will endure post-intervention. To assess this, a one-year follow-up study will investigate the longer-term effects of the program on students’ outcomes.
+
+Conclusion
+During the adolescent years, youth experience a number of developmental changes and are exposed to a number of new day-to-day stressors. The ability of youth to cope with these psychosocial stressors can have a significant impact on their mental health and wellbeing. School-based mental health promotion interventions such as social and emotional learning programs aim to enhance adolescents’ social and emotional skills, which act as protective factors for promoting positive wellbeing and reducing the onset of mental health difficulties and health risk behaviors. While there is strong evidence to support the effectiveness of these programs in schools, the majority of findings are limited to studies conducted with children and younger adolescents (<14 years) and originate mainly from the USA. Employing a rigorous c-RCT design, this study aimed to investigate whether or not a social and emotional learning program, which was designed for older adolescents and evaluated within the country of origin, could produce positive outcomes for participants. The findings suggest that the MindOut program was successful in producing positive outcomes for students, including improvements in their social and emotional skill development and their mental health. These findings are important to the area of adolescence as they suggest that implementing school-based social and emotional wellbeing programs, such as MindOut, can provide older adolescents with the skills they need to enhance their ability to cope with life, overcome stressful situations, thus reducing their risk of developing psychological difficulties and improving their mental health and wellbeing.
+
+Conclusion
+
+During the adolescent years, youth experience a number of developmental changes and are exposed to a number of new day-to-day stressors. The ability of youth to cope with these psychosocial stressors can have a significant impact on their mental health and wellbeing. School-based mental health promotion interventions such as social and emotional learning programs aim to enhance adolescents’ social and emotional skills, which act as protective factors for promoting positive wellbeing and reducing the onset of mental health difficulties and health risk behaviors. While there is strong evidence to support the effectiveness of these programs in schools, the majority of findings are limited to studies conducted with children and younger adolescents (<14 years) and originate mainly from the USA. Employing a rigorous c-RCT design, this study aimed to investigate whether or not a social and emotional learning program, which was designed for older adolescents and evaluated within the country of origin, could produce positive outcomes for participants. The findings suggest that the MindOut program was successful in producing positive outcomes for students, including improvements in their social and emotional skill development and their mental health. These findings are important to the area of adolescence as they suggest that implementing school-based social and emotional wellbeing programs, such as MindOut, can provide older adolescents with the skills they need to enhance their ability to cope with life, overcome stressful situations, thus reducing their risk of developing psychological difficulties and improving their mental health and wellbeing.
+
+References
+Amirkhan, J. H. (1990). A factor analytically derived measure of coping: the coping strategy indicator. Journal Personality and Social Psychology, 59(5), 1066–1074. https://doi.org/10.1037/0022-3514.59.5.1066.
+Article
+  Google Scholar
+  Anderson, S. A. (1999). Attitudes Toward School Scale. Center for Applied Research, University of Connecticut, School of Family Studies.
+Bahrami, F., & Yousefi, N. (2011). Females are more anxious than males: a metacognitive perspective. Iranian Journal Psychiatry and Behavioral Science, 5(2), 83–90.
+Google Scholar
+  Balzarotti, S., John, O. P., & Gross, J. J. (2010). An Italian adaptation of the emotion regulation questionnaire. European Journal of Psychological Assessment, 26(1), 61–67. https://doi.org/10.1027/1015-5759/a000009.
+Article
+  Google Scholar
+  Barry, M. M., Clarke, A. M., & Dowling, K. (2017). Promoting social and emotional well-being in schools. Health Education, 117(5), 434–451. https://doi.org/10.1108/HE-11-2016-0057.
+Article
+  Google Scholar
+  Beesdo, K., Knappe, S., & Pine, D. S. (2009). Anxiety and anxiety disorders in children and adolescents: developmental issues and implications for DSM-V. Psychiatric Clinics of North America, 32(3), 483–524. https://doi.org/10.1016/j.psc.2009.06.002.
+Article
+  PubMed
+  Google Scholar
+  Birmaher, B., Ryan, N. D., Williamson, D. E., Brent, D. A., Kaufman, J., Dahl, R. E., & Nelson, B. (1996). Childhood and adolescent depression: a review of the past 10 years. Part I. Journal of the American Academy of Child Adolescent Psychiatry, 35(11), 1427–1439. https://doi.org/10.1097/00004583-199611000-00011.
+Article
+  PubMed
+  Google Scholar
+  Blumenthal, H., Ham, L. S., Cloutier, R. M., Bacon, A. K., & Douglas, M. E. (2016). Social anxiety, disengagement coping, and alcohol-use behaviors among adolescents. Anxiety Stress Coping, 29(4), 432–446. https://doi.org/10.1080/10615806.2015.1058366.
+Article
+  PubMed
+  Google Scholar
+  Boustani, M. M., Frazier, S. L., Becker, K. D., Bechor, M., Dinizulu, S. M., Hedemann, E. R., & Pasalich, D. S. (2015). Common elements of adolescent prevention programs: minimizing burden while maximizing reach. Administration and Policy in Mental Health and Mental Health Services Research, 42(2), 209–219. https://doi.org/10.1007/s10488-014-0541-9.
+Article
+  PubMed
+  Google Scholar
+  Buhrmester, D. (1990). Intimacy of friendship, interpersonal competence, and adjustment during preadolescence and adolescence. Child Dev, 61(4), 1101–1111.
+Article
+  Google Scholar
+  Byrne, M. (2005). The development and evaluation of a mental health promotion program for post-primary schools. Doctor of Philosophy Thesis, National University of Ireland Galway, Galway, Ireland.
+Byrne, M., Barry, M., & Sheridan, A. (2004). Implementation of a school-based mental health promotion programme in Ireland. The International Journal of Mental Health Promotion, 6(2), 17–25.
+Article
+  Google Scholar
+  Byrne, M., Barry, M. M., Nic Gabhainn, S., & Newell, J. (2005). The development and evaluation of a mental health promotion program for post-primary schools in Ireland. In B. B. Jensen & S. Clift (Eds), The Health Promoting School: International Advances in Theory, Evaluation and Practice (pp. 383–408). Copenhagen: Danish University of Education Press.
+Camara, M., Bacigalupe, G., & Padilla, P. (2017). The role of social support in adolescents: are you helping me or stressing me out? International Journal of Adolescence and Youth, 22(2), 123–136. https://doi.org/10.1080/02673843.2013.875480.
+Article
+  Google Scholar
+  Cater, M., Arnold, M., Bouillion-Diaz, L., Heck, K., Mead, J., Spears, B., & Mulroy, M. (2010). Decision-Making Scale. Washington, DC: Youth Engagement, Attitudes, and Knowledge (YEAK) Survey.
+Chiu, L. H. (1997). Development and validation of the school achievement motivation rating scale. Educational and Psychological Measurement, 57(2), 292–305. https://doi.org/10.1177/0013164497057002008.
+Article
+  Google Scholar
+  Chorpita, B. F., & Daleiden, E. L. (2009). Mapping evidence-based treatments for children and adolescents: application of the distillation and matching model to 615 treatments from 322 randomized trials. Journal of Consulting Clinical Psychology, 77(3), 566–579. https://doi.org/10.1037/a0014565.
+Article
+  PubMed
+  Google Scholar
+  Chorpita, B. F., Weisz, J. R., Daleiden, E. L., Schoenwald, S. K., Plainkas, L. A., Miranda, J., Higa-McMillan C. K., Nakamura, B. J., Ausin, A. A., Borntrager, C. F., Ward, A., Wells, K. C., & Gibbons, R. D. (2013). Long-term outcomes for the Child STEPs randomized effectiveness trial: a comparison of modular and standard treatment designs with usual care. Journal of Consulting and Clinical Psychology, 81(6), 999–1009. https://doi.org/10.1037/a0034200.
+Clarke, A., Friede, T., Putz, R., Ashdown, J., Martin, S., Blake, A., & Stewart-Brown, S. (2011). Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Validated for teenage school students in England and Scotland. A mixed methods assessment. BMC Public Health, 11, 487.
+Article
+  Google Scholar
+  Clarke, A., Morreale, S., Field, C. A., Hussein, Y., & Barry, M. (2015). What works in enhancing social and emotional skills development during childhood and adolescence? A review of the evidence on the effectiveness of school-based and out-of-school programmes in the UK. A report produced by the World Health Organization Collaborating Centre for Health Promotion Research, National University of Ireland Galway, Galway, Ireland.
+Collaborative for Academic, Social and Emotional Learning. (2015). CASEL Guide: Effective Social and Emotional Learning Programs. Chicago: Middle and high school edition.
+Curtis, A. C. C. (2015). Defining adolescence. Journal of Adolescent and Family Health, 7(2), 1–39.
+Google Scholar
+  Da Silva, H. A., dos Passos, M. H. P., de Oliveira, V. M. A., Palmeira, A. C., Pitangui, A. C. R., & de Araújo, R. C. (2016). Short version of the Depression Anxiety Stress Scale-21: is it valid for Brazilian adolescents? Einstein, 14(4), 486–493.
+Article
+  Google Scholar
+  Demidenko, E. (2013). Mixed Models: Theory and Applications with R (2nd ed). Hoboken: Wiley.
+Department of Education and Skills (2018). Transition year. https://www.education.ie/en/Schools-Colleges/Information/Curriculum-and-Syllabus/Transition-Year-/Transition-Year.html
+Dingle, G. A., Hodges, J., & Kunde, A. (2016). Tuned In emotion regulation program using musiclistening: effectiveness for adolescents in educational settings. Frontiers Psychology, 7, 859 https://doi.org/10.3389/fpsyg.2016.00859.
+Article
+  Google Scholar
+  Dooley, B. A., & Fitzgerald, A. (2012). My World Survey: National Study of Youth Mental Health in Ireland: Headstrong and UCD School of Psychology. Headstrong–The National Centre for Youth Mental Health. Dublin: UCD School of Psychology.
+Dopheide, J. (2013). Recognizing and referring at-risk youth. Mental Health Clinician, 2(11), 353–361.
+Article
+  Google Scholar
+  Dowling, K., Clarke, A. M. & Barry, M. M. (2016). The Re-development of the MindOut Program: Promoting Social and Emotional Wellbeing in Post-Primary Schools. A report produced by the Health Promotion Research Centre, National University of Ireland Galway, Galway Ireland.
+Dowling, K., Ryan, J., Clarke, A. M., Sheridan, A., & Barry, M. M. (2017). MindOut Teacher Manual 2.0–Promoting Social and Emotional Wellbeing: A senior cycle program for post-primary schools (2nd ed). Ireland: Health Promotion Research Centre, National University of Ireland Galway and the Health Service Executive.
+Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  Google Scholar
+  Eisner, M. (2009). No effects in independent prevention trials: can we reject the cynical view? Journal of Experimental Criminology, 5, 163–18.
+Article
+  Google Scholar
+  Elias, M. J., Lantieri, L., Patti, J., Shriver, T. P., Walberg, H. Weissberg, R. P. & Zins, J. E. (2001). No new wars needed. Reclaiming Children and Youth, 10(1), 29–32.
+Elias, M. J., Zins, J. E., Weissberg, R. P., Frey, K. S., Greenberg, M. T., Haynes, N. M., & Shriver, T. P. (1997). Promoting Social and Emotional Learning: Guidelines for Educators. Alexandria: Association of Supervision and Curriculum Development.
+Elliott, D. S., & Mihalic, S. (2004). Issues in disseminating and replicating effective prevention programs. Prevention Science, 5(1), 47–53.
+Article
+  Google Scholar
+  Ellis, L. A. (2004). Peers Helping Peers: The Effectiveness of a Peer Support Program in Enhancing Self-concept and Other Desirable Outcomes. Doctorate Thesis. University of Western Sydney, School of Psychology. Sydney, Australia.
+European Union (2016). EU Youth Report 2015. European Union, Luxemburg.
+Fernandez-Berrocal, P., Extremera, N., & Ramos, N. (2004). Validity and reliability of the Spanish modified version of the Trait Meta-Mood Scale. Psychology Report, 94(3), 751–755. https://doi.org/10.2466/pr0.94.3.751-755.
+Article
+  Google Scholar
+  Garaigordobil, M., & Pena-Sarrionandia, A. (2015). Effects of an emotional intelligence program in variables related to the prevention of violence. Frontiers in Psychology, 6, 743. https://doi.org/10.3389/fpsyg.2015.00743.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Greenberg, M. T. (2010). School‐based prevention: current status and future challenges. Effective Education, 2(1), 27–52. https://doi.org/10.1080/19415531003616862.
+Article
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., Weissberg, R., & Durlak, J. (2017). Social and emotional learning as a public health approach to education. Future Child, 27(1), 13–32.
+Article
+  Google Scholar
+  Greenberg, M. T., Weissberg, R. P., O’Brien, M. U., Zins, J. E., Fredericks, L., Resnik, H., & Elias, M. J. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58(6-7), 466–474.
+Article
+  Google Scholar
+  Gresham, F. M. & Elliott S. N. (2008). Social skills improvement system: Rating scales. Pearson Assessments, Bloomington, MN.
+Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being. Journal of Personality and Society Psychology, 85(2), 348–362.
+Article
+  Google Scholar
+  Haga, S., Kraft, P., & Corby, E.-K. (2009). Emotion regulation: Antecedents and well-being outcomes of cognitive reappraisal and expressive suppression in cross-cultural samples. Journal of Happiness Studies, 10(3), 271–291.
+Article
+  Google Scholar
+  Heckman, J. J., & Kautz, T. (2014). Fostering and measuring skills: Interventions that improve character and cognition. In J. J. Heckman, J. E. Humphries & T. Kautz (Eds.), The Myth of Achievement Tests: The GED and the Role of Character in American Life (pp. 341–430). Chicago: University of Chicago Press.
+Hickie, I. (2004). Can we reduce the burden of depression? The Australian experience with beyondblue: the national depression initiative. Australas Psychiatry, 12, 38–46. https://doi.org/10.1080/j.1039-8562.2004.02097.x-2.
+Article
+  Google Scholar
+  Hill, A. B. (1961). Principles of Medical Statistics. New York: Oxford University Press.
+Horwitz, A. G., Hill, R. M., & King, C. A. (2011). Specific coping behaviors in relation to adolescent depression and suicidal ideation. Journal of Adolescence, 34(5), 1077–1085. https://doi.org/10.1016/j.adolescence.2010.10.004.
+Article
+  PubMed
+  Google Scholar
+  Hosseini, L., & Khazali, H. (2013). Comparing The level of anxiety in male & female school students. Procedia - Social and Behavioral Sciences, 84, 41–46.
+Article
+  Google Scholar
+  Humphrey, N., Barlow, A., Wigelsworth, M., Lendrum, A., Pert, K., Joyce, C., & Turner, A. (2016). A cluster randomized controlled trial of the promoting alternative thinking strategies (PATHS) curriculum. Journal of School Psychology, 58, 73–89. https://doi.org/10.1016/j.jsp.2016.07.002.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Institute of Medicine Report (IOM). (2009). Preventing Mental, Emotional, and Behavioral Disorders among Young People: Progress and Possibilities. Washington, DC: National Academies Press.
+January, A. M., Casey, R. J., & Paulson, D. (2011). A meta-analysis of classroom-wide interventions to build social skills: do they work? School Psychology Review, 40(2), 242–256.
+Google Scholar
+  Jennings, P. A., Frank, J. L., Snowberg, K. E., Coccia, M. A., & Greenberg, M. T. (2013). Improving classroom learning environments by cultivating awareness and resilience in education (CARE): results of a randomized controlled trial. School Psychology Quarterly, 28(4), 374–390. https://doi.org/10.1037/spq0000035.
+Article
+  PubMed
+  Google Scholar
+  Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: from programs to strategies: social policy report. Society for Research in Child Development, 26(4), 3–22.
+Google Scholar
+  Keogh, E., Bond, F. W., & Flaxman, P. E. (2006). Improving academic performance and mental health through a stress management intervention: outcomes and mediators of change. Behaviour Research Therapy, 44(3), 339–357. https://doi.org/10.1016/j.brat.2005.03.002.
+Article
+  PubMed
+  Google Scholar
+  Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of General, 62(6), 593–602. https://doi.org/10.1001/archpsyc.62.6.593.
+Article
+  Google Scholar
+  Kim-Cohen, J., Caspi, A., Moffitt, T. E., Harrington, H., Milne, B. J., & Poulton, R. (2003). Prior juvenile diagnoses in adults with mental disorder: developmental follow-back of a prospective-longitudinal cohort. Archives of General, 60(7), 709–717. https://doi.org/10.1001/archpsyc.60.7.709.
+Article
+  Google Scholar
+  Krueger, C., & Tian, L. (2004). A comparison of the general linear mixed model and repeated measures ANOVA using a dataset with multiple missing data points. Biological Research Nursing, 6(2), 151–157. https://doi.org/10.1177/1099800404267682.
+Article
+  Google Scholar
+  Kumpfer, K. L., Alvarado, R., Smith, P., & Bellamy, N. (2002). Cultural sensitivity and adaptation in family-based prevention interventions. Prevention Science, 3(3), 241–246.
+Article
+  Google Scholar
+  Kuosmanen, T., Fleming, T. M., Newell, J., & Barry, M. M. (2017). A pilot evaluation of the SPARX-R gaming intervention for preventing depression and improving wellbeing among adolescents in alternative education. Internet Interventions, 8, 40–47. https://doi.org/10.1016/j.invent.2017.03.004.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kuyken, W., Weare, K., Ukoumunne, O. C., Vicary, R., Motton, N., Burnett, R., & Huppert, F. (2013). Effectiveness of the Mindfulness in Schools Programme: non-randomised controlled feasibility study. British Journal of Psychiatry, 203(2), 126–131. https://doi.org/10.1192/bjp.bp.113.126649.
+Article
+  PubMed
+  Google Scholar
+  Lee, C., Dickson, D., Conley, C., & Holmbeck, G. (2014). A closer look at self-esteem, perceived social support, and coping strategy: a prospective study of depressive symptomatology across the transition to college. Journal of Social and Clinical Psychology, 33(6), 560–585.
+Article
+  Google Scholar
+  Lewis, K. M., Vuchinich, S., Ji, P., DuBois, D. L., Acock, A., Bavarian, N., & Flay, B. R. (2016). Effects of the positive action program on indicators of positive youth development among urban youth. Applied Developmental Science, 20(1), 16–28. https://doi.org/10.1080/10888691.2015.1039123.
+Article
+  PubMed
+  Google Scholar
+  Lovibond, S. H., & Lovibond, P. F. (1995). Manual for the Depression Anxiety Stress Scales (2nd edn). Sydney: Psychology Foundation.
+Markova, S., & Nikitskaya, E. (2017). Coping strategies of adolescents with deviant behaviour. International Journal of Adolescence and Youth, 22(1), 36–46. https://doi.org/10.1080/02673843.2013.868363.
+Article
+  Google Scholar
+  McCrohan, K. (2015). A consultation with young people on the MindOut programme. Unpublished Master’s Dissertation in Health Promotion, National University of Ireland Galway, Galway, Ireland.
+Mincemoyer, C. & Perkins, D. F. (2003). Assessing decision making skills of youth. The Forum for Family and Consumer Issues, 8 (2), 1–12.
+Muris, P. (2001). A brief questionnaire for measuring self-efficacy in youths. Journal of Psychopathology and Behav Assessment, 23, 145.
+Article
+  Google Scholar
+  NCCA. (2011). Social, Personal and Health Education curriculum framework: Senior cycle. Dublin: National Council for Curriculum and Assessment.
+Nic Gabhainn, S., O’Higgins, S., & Barry, M. (2010). The implementation of social, personal and health education in Irish schools. Health Education, 110(6), 452–470.
+Article
+  Google Scholar
+  Nolen-Hoeksema, S., & Aldao, A. (2011). Gender and age differences in emotion regulation strategies and their relationship to depressive symptoms. Personality Individual Differences, 51, 704–708.
+Article
+  Google Scholar
+  NYCI. (2014). Health inequalities and young people in Ireland: a review of the literature. Dublin: National Youth Council of Ireland.
+Oberle, E., & Schonert-Reichl, K. (2017). Social and Emotional Learning: Recent Research and Practical Strategies for Promoting Children’s Social and Emotional Competence in Schools. In J. L. Matson (Ed.), Handbook of Social Behavior and Skills in Children (175–197), Cham, Switzerland.
+OECD. (2015). Skills for Social Progress: The power of social and emotional skills. Paris: OECD Skills Studies, OECD Publishing.
+OECD. (2018). Youth not in employment, education or training (NEET) (indicator). https://doi.org/10.1787/72d1033a-en (Accessed on 22 November 2018).
+Osher, D., Dwyer, K., & Jackson, S. (2004). Safe, Supportive, and Successful Schools: Step by Step. Longmont: Sopris West.
+Patel, V., Flisher, A. J., Hetrick, S., & McGorry, P. (2007). Mental health of young people: a global public-health challenge. Lancet, 369(9569), 1302–1313. https://doi.org/10.1016/S0140-6736(07)60368-7.
+Article
+  PubMed
+  Google Scholar
+  Pedrosa, I., Suárez-Álvarez, J., Lozano, L. M., Muñiz, J., & García-Cueto, E. (2014). Assessing perceived emotional intelligence in adolescents: New validity evidence of Trait Meta-Mood Scale–24. Journal of Psychoeducational Assessment, 32(8), 737–746. https://doi.org/10.1177/0734282914539238.
+Article
+  Google Scholar
+  Reiss, F. (2013). Socioeconomic inequalities and mental health problems in children and adolescents: a systematic review. Soc Sci Med, 90, 24–31. https://doi.org/10.1016/j.socscimed.2013.04.026.
+Article
+  PubMed
+  Google Scholar
+  Romeo, R. D. (2013). The teenage brain: The stress response and the adolescent brain. Current Directions in Psychological Science, 22(2), 140–145.
+Rosenberg, M. (1965). Society and the Adolescent Self-Image. New Jersey: Princeton University Press.
+Rotheram-Borus, M. J., Swendeman, D., & Chorpita, B. F. (2012). Disruptive innovations for designing and diffusing evidence-based interventions. American Psychologist, 67(6), 463–476. https://doi.org/10.1037/a0028180.
+Article
+  PubMed
+  Google Scholar
+  Salguero, J. M., Fernández-Berrocal, P., Balluerka, N., & Aritzeta, A. (2010). Measuring perceived emotional intelligence in adolescent population: Psychometric properties of the Trait Meta Mood Scale. Social Behavior and Personality: An International Journal, 38, 1197–1210.
+Article
+  Google Scholar
+  Salovey, P., Mayer, J. D., Goldman, S. L., Turvey, C., & Palfai, T. P. (1995). Emotional attention, clarity, and repair: Exploring emotional intelligence using the trait meta- mood scale. In J. Pennebaker (Ed.), Emotion, Disclosure, and Health (pp. 125–154). Washington, DC: American Psychological Association.
+Schulz, K. F., Altman, D. G., & Moher, D. (2010). CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. BMJ, 340, 332.
+Article
+  Google Scholar
+  Seiffge-Krenke, I., & Klessinger, N. (2000). Long-term effects of avoidant coping on adolescents’ depressive symptoms. Journal of Youth and Adolescence. 29(6), 617–630.
+Shandley, K., Austin, D., Klein, B., & Kyrios, M. (2010). An evaluation of ‘Reach Out Central’: an online gaming program for supporting the mental health of young people. Health Education Research, 25(4), 563–574. https://doi.org/10.1093/her/cyq002.
+Article
+  PubMed
+  Google Scholar
+  Sklad, M., Diekstra, R., Ritter, M. D., Ben, J., & Gravesteijn, C. (2012). Effectiveness of school-based universal social, emotional, and behavioral programs: do they enhance students’ development in the area of skill, behavior, and adjustment? Psychology in the Schools, 49(9), 892–909. https://doi.org/10.1002/pits.21641.
+Article
+  Google Scholar
+  Snyder, F., Flay, B., Vuchinich, S., Acock, A., Washburn, I., Beets, M., & Li, K.-K. (2010). Impact of a social-emotional and character development program on school-level indicators of academic achievement, absenteeism, and disciplinary outcomes: a matched-pair, cluster randomized, controlled trial. Journal of Research on Educational Effectiveness, 3(1), 26–55. https://doi.org/10.1080/19345740903353436.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Spoth, R., Greenberg, M., Bierman, K., & Redmond, C. (2004). PROSPER community–university partnership model for public education systems: capacity-building for evidence-based, competence-building prevention. Prevention Science, 5(1), 31–39. https://doi.org/10.1023/B:PREV.0000013979.52796.8b.
+Article
+  PubMed
+  Google Scholar
+  Stallard, P., Skryabina, E., Taylor, G., Phillips, R., Daniels, H., Anderson, R., & Simpson, N. (2014). Classroom-based cognitive behaviour therapy (FRIENDS): a cluster randomised controlled trial to prevent anxiety in children through education in schools (PACES). Lancet Psychiatry, 1(3), 185–192. https://doi.org/10.1016/s2215-0366(14)70244-5.
+Article
+  PubMed
+  Google Scholar
+  Steenbergen, M. R., & Jones, B. S. (2002). Modeling multilevel data structures. Amercian Journal of Political Science, 46, 218–237.
+Article
+  Google Scholar
+  Steinberg, L. (2015). How to improve the health of American adolescents. Perspectives on Psychological Science, 10(6), 711–715. https://doi.org/10.1177/1745691615598510.
+Article
+  PubMed
+  Google Scholar
+  Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: a meta-analysis of follow-up effects. Child Development, 88(4), 1156–1171. https://doi.org/10.1111/cdev.12864.
+Article
+  PubMed
+  Google Scholar
+  Tennant, R., Hiller, L., Fishwick, R., Platt, S., Joseph, S., Weich, S., & Stewart-Brown, S. (2007). The Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validation. Health Qual Life Outcomes, 5, 63 https://doi.org/10.1186/1477-7525-5-63.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Thorsteinsson, E., Ryan, S., & Sveinbjornsdottir, S. (2013). The mediating effects of social support and coping on the stress-depression relationship in rural and urban adolescents. Open Journal of Depression, 2, 1–6.
+Article
+  Google Scholar
+  Tully, P. J., Zajac, I. T., & Venning, A. J. (2009). The structure of anxiety and depression in a normative sample of younger and older Australian adolescents. Journal of Abnormal Child Psychology, 37(5), 717–726. https://doi.org/10.1007/s10802-009-9306-4.
+Article
+  PubMed
+  Google Scholar
+  UNICEF (2017). Building the Future: Children and the Sustainable Development Goals in Rich Countries, Innocenti Report Card 14, UNICEF Office of Research–Innocenti, Florence.
+Wainwright, P. E., Leatherdale, S. T., & Dubin, J. A. (2007). Advantages of mixed effects models over traditional ANOVA models in developmental studies: a worked example in a mouse model of fetal alcohol syndrome. Develomental Psychobiology, 49(7), 664–674. https://doi.org/10.1002/dev.20245.
+Article
+  Google Scholar
+  Weare, K., & Nind, M. (2011). Mental health promotion and problem prevention in schools: what does the evidence say? Health Promotion International, 26(1), 29–69. https://doi.org/10.1093/heapro/dar075.
+Article
+  Google Scholar
+  Weisz, J. R., Chorpita, B. F., Palinkas, L. A., Schoenwald, S. K., Miranda, J., Bearman, S. K., & Gibbons, R. D. (2012). Testing standard and modular designs for psychotherapy treating depression, anxiety, and conduct problems in youth: a randomized effectiveness trial. Archives of General, 69(3), 274–282. https://doi.org/10.1001/archgenpsychiatry.2011.147.
+Article
+  Google Scholar
+  WHO. (2013). Mental Health Action Plan 2013-2020. Geneva: World Health Organization.
+WHO. (2015). European Mental Health Action Plan 2013–2020. Copenhagen, Denmark: World Health Organisation Regional Office for Europe.
+Wigelsworth, M., Lendrum, A., Oldfield, J., Scott, A., ten Bokkel, I., Tate, K., & Emery, C. (2016). The impact of trial stage, developer involvement and international transferability on universal social and emotional learning programme outcomes: a meta-analysis. Cambridge Journal of Education, 46(3), 347–376. https://doi.org/10.1080/0305764X.2016.1195791.
+Article
+  Google Scholar
+  Yeager, D. (2017). Social and emotional learning programs for adolescents. Future Child, 27(1), 73–94.
+Article
+  Google Scholar
+  Yeo, A., & Graham, J. (2015). A deep dive into social and emotional learning: What do the views of those involved tell us about the challenges for policy-makers. London: Early Intervention Foundation.
+Zins, J. E., Weissberg, R. P., Wang, M. C., & Walberg, H. J. (2004). Building Academic Success On Social And Emotional Learning: What Does The Research Say? New York: Teachers College Press.
+Download references
+
+References
+
+Amirkhan, J. H. (1990). A factor analytically derived measure of coping: the coping strategy indicator. Journal Personality and Social Psychology, 59(5), 1066–1074. https://doi.org/10.1037/0022-3514.59.5.1066.
+Article
+  Google Scholar
+  Anderson, S. A. (1999). Attitudes Toward School Scale. Center for Applied Research, University of Connecticut, School of Family Studies.
+Bahrami, F., & Yousefi, N. (2011). Females are more anxious than males: a metacognitive perspective. Iranian Journal Psychiatry and Behavioral Science, 5(2), 83–90.
+Google Scholar
+  Balzarotti, S., John, O. P., & Gross, J. J. (2010). An Italian adaptation of the emotion regulation questionnaire. European Journal of Psychological Assessment, 26(1), 61–67. https://doi.org/10.1027/1015-5759/a000009.
+Article
+  Google Scholar
+  Barry, M. M., Clarke, A. M., & Dowling, K. (2017). Promoting social and emotional well-being in schools. Health Education, 117(5), 434–451. https://doi.org/10.1108/HE-11-2016-0057.
+Article
+  Google Scholar
+  Beesdo, K., Knappe, S., & Pine, D. S. (2009). Anxiety and anxiety disorders in children and adolescents: developmental issues and implications for DSM-V. Psychiatric Clinics of North America, 32(3), 483–524. https://doi.org/10.1016/j.psc.2009.06.002.
+Article
+  PubMed
+  Google Scholar
+  Birmaher, B., Ryan, N. D., Williamson, D. E., Brent, D. A., Kaufman, J., Dahl, R. E., & Nelson, B. (1996). Childhood and adolescent depression: a review of the past 10 years. Part I. Journal of the American Academy of Child Adolescent Psychiatry, 35(11), 1427–1439. https://doi.org/10.1097/00004583-199611000-00011.
+Article
+  PubMed
+  Google Scholar
+  Blumenthal, H., Ham, L. S., Cloutier, R. M., Bacon, A. K., & Douglas, M. E. (2016). Social anxiety, disengagement coping, and alcohol-use behaviors among adolescents. Anxiety Stress Coping, 29(4), 432–446. https://doi.org/10.1080/10615806.2015.1058366.
+Article
+  PubMed
+  Google Scholar
+  Boustani, M. M., Frazier, S. L., Becker, K. D., Bechor, M., Dinizulu, S. M., Hedemann, E. R., & Pasalich, D. S. (2015). Common elements of adolescent prevention programs: minimizing burden while maximizing reach. Administration and Policy in Mental Health and Mental Health Services Research, 42(2), 209–219. https://doi.org/10.1007/s10488-014-0541-9.
+Article
+  PubMed
+  Google Scholar
+  Buhrmester, D. (1990). Intimacy of friendship, interpersonal competence, and adjustment during preadolescence and adolescence. Child Dev, 61(4), 1101–1111.
+Article
+  Google Scholar
+  Byrne, M. (2005). The development and evaluation of a mental health promotion program for post-primary schools. Doctor of Philosophy Thesis, National University of Ireland Galway, Galway, Ireland.
+Byrne, M., Barry, M., & Sheridan, A. (2004). Implementation of a school-based mental health promotion programme in Ireland. The International Journal of Mental Health Promotion, 6(2), 17–25.
+Article
+  Google Scholar
+  Byrne, M., Barry, M. M., Nic Gabhainn, S., & Newell, J. (2005). The development and evaluation of a mental health promotion program for post-primary schools in Ireland. In B. B. Jensen & S. Clift (Eds), The Health Promoting School: International Advances in Theory, Evaluation and Practice (pp. 383–408). Copenhagen: Danish University of Education Press.
+Camara, M., Bacigalupe, G., & Padilla, P. (2017). The role of social support in adolescents: are you helping me or stressing me out? International Journal of Adolescence and Youth, 22(2), 123–136. https://doi.org/10.1080/02673843.2013.875480.
+Article
+  Google Scholar
+  Cater, M., Arnold, M., Bouillion-Diaz, L., Heck, K., Mead, J., Spears, B., & Mulroy, M. (2010). Decision-Making Scale. Washington, DC: Youth Engagement, Attitudes, and Knowledge (YEAK) Survey.
+Chiu, L. H. (1997). Development and validation of the school achievement motivation rating scale. Educational and Psychological Measurement, 57(2), 292–305. https://doi.org/10.1177/0013164497057002008.
+Article
+  Google Scholar
+  Chorpita, B. F., & Daleiden, E. L. (2009). Mapping evidence-based treatments for children and adolescents: application of the distillation and matching model to 615 treatments from 322 randomized trials. Journal of Consulting Clinical Psychology, 77(3), 566–579. https://doi.org/10.1037/a0014565.
+Article
+  PubMed
+  Google Scholar
+  Chorpita, B. F., Weisz, J. R., Daleiden, E. L., Schoenwald, S. K., Plainkas, L. A., Miranda, J., Higa-McMillan C. K., Nakamura, B. J., Ausin, A. A., Borntrager, C. F., Ward, A., Wells, K. C., & Gibbons, R. D. (2013). Long-term outcomes for the Child STEPs randomized effectiveness trial: a comparison of modular and standard treatment designs with usual care. Journal of Consulting and Clinical Psychology, 81(6), 999–1009. https://doi.org/10.1037/a0034200.
+Clarke, A., Friede, T., Putz, R., Ashdown, J., Martin, S., Blake, A., & Stewart-Brown, S. (2011). Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Validated for teenage school students in England and Scotland. A mixed methods assessment. BMC Public Health, 11, 487.
+Article
+  Google Scholar
+  Clarke, A., Morreale, S., Field, C. A., Hussein, Y., & Barry, M. (2015). What works in enhancing social and emotional skills development during childhood and adolescence? A review of the evidence on the effectiveness of school-based and out-of-school programmes in the UK. A report produced by the World Health Organization Collaborating Centre for Health Promotion Research, National University of Ireland Galway, Galway, Ireland.
+Collaborative for Academic, Social and Emotional Learning. (2015). CASEL Guide: Effective Social and Emotional Learning Programs. Chicago: Middle and high school edition.
+Curtis, A. C. C. (2015). Defining adolescence. Journal of Adolescent and Family Health, 7(2), 1–39.
+Google Scholar
+  Da Silva, H. A., dos Passos, M. H. P., de Oliveira, V. M. A., Palmeira, A. C., Pitangui, A. C. R., & de Araújo, R. C. (2016). Short version of the Depression Anxiety Stress Scale-21: is it valid for Brazilian adolescents? Einstein, 14(4), 486–493.
+Article
+  Google Scholar
+  Demidenko, E. (2013). Mixed Models: Theory and Applications with R (2nd ed). Hoboken: Wiley.
+Department of Education and Skills (2018). Transition year. https://www.education.ie/en/Schools-Colleges/Information/Curriculum-and-Syllabus/Transition-Year-/Transition-Year.html
+Dingle, G. A., Hodges, J., & Kunde, A. (2016). Tuned In emotion regulation program using musiclistening: effectiveness for adolescents in educational settings. Frontiers Psychology, 7, 859 https://doi.org/10.3389/fpsyg.2016.00859.
+Article
+  Google Scholar
+  Dooley, B. A., & Fitzgerald, A. (2012). My World Survey: National Study of Youth Mental Health in Ireland: Headstrong and UCD School of Psychology. Headstrong–The National Centre for Youth Mental Health. Dublin: UCD School of Psychology.
+Dopheide, J. (2013). Recognizing and referring at-risk youth. Mental Health Clinician, 2(11), 353–361.
+Article
+  Google Scholar
+  Dowling, K., Clarke, A. M. & Barry, M. M. (2016). The Re-development of the MindOut Program: Promoting Social and Emotional Wellbeing in Post-Primary Schools. A report produced by the Health Promotion Research Centre, National University of Ireland Galway, Galway Ireland.
+Dowling, K., Ryan, J., Clarke, A. M., Sheridan, A., & Barry, M. M. (2017). MindOut Teacher Manual 2.0–Promoting Social and Emotional Wellbeing: A senior cycle program for post-primary schools (2nd ed). Ireland: Health Promotion Research Centre, National University of Ireland Galway and the Health Service Executive.
+Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x.
+Article
+  Google Scholar
+  Eisner, M. (2009). No effects in independent prevention trials: can we reject the cynical view? Journal of Experimental Criminology, 5, 163–18.
+Article
+  Google Scholar
+  Elias, M. J., Lantieri, L., Patti, J., Shriver, T. P., Walberg, H. Weissberg, R. P. & Zins, J. E. (2001). No new wars needed. Reclaiming Children and Youth, 10(1), 29–32.
+Elias, M. J., Zins, J. E., Weissberg, R. P., Frey, K. S., Greenberg, M. T., Haynes, N. M., & Shriver, T. P. (1997). Promoting Social and Emotional Learning: Guidelines for Educators. Alexandria: Association of Supervision and Curriculum Development.
+Elliott, D. S., & Mihalic, S. (2004). Issues in disseminating and replicating effective prevention programs. Prevention Science, 5(1), 47–53.
+Article
+  Google Scholar
+  Ellis, L. A. (2004). Peers Helping Peers: The Effectiveness of a Peer Support Program in Enhancing Self-concept and Other Desirable Outcomes. Doctorate Thesis. University of Western Sydney, School of Psychology. Sydney, Australia.
+European Union (2016). EU Youth Report 2015. European Union, Luxemburg.
+Fernandez-Berrocal, P., Extremera, N., & Ramos, N. (2004). Validity and reliability of the Spanish modified version of the Trait Meta-Mood Scale. Psychology Report, 94(3), 751–755. https://doi.org/10.2466/pr0.94.3.751-755.
+Article
+  Google Scholar
+  Garaigordobil, M., & Pena-Sarrionandia, A. (2015). Effects of an emotional intelligence program in variables related to the prevention of violence. Frontiers in Psychology, 6, 743. https://doi.org/10.3389/fpsyg.2015.00743.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Greenberg, M. T. (2010). School‐based prevention: current status and future challenges. Effective Education, 2(1), 27–52. https://doi.org/10.1080/19415531003616862.
+Article
+  Google Scholar
+  Greenberg, M. T., Domitrovich, C., Weissberg, R., & Durlak, J. (2017). Social and emotional learning as a public health approach to education. Future Child, 27(1), 13–32.
+Article
+  Google Scholar
+  Greenberg, M. T., Weissberg, R. P., O’Brien, M. U., Zins, J. E., Fredericks, L., Resnik, H., & Elias, M. J. (2003). Enhancing school-based prevention and youth development through coordinated social, emotional, and academic learning. American Psychologist, 58(6-7), 466–474.
+Article
+  Google Scholar
+  Gresham, F. M. & Elliott S. N. (2008). Social skills improvement system: Rating scales. Pearson Assessments, Bloomington, MN.
+Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being. Journal of Personality and Society Psychology, 85(2), 348–362.
+Article
+  Google Scholar
+  Haga, S., Kraft, P., & Corby, E.-K. (2009). Emotion regulation: Antecedents and well-being outcomes of cognitive reappraisal and expressive suppression in cross-cultural samples. Journal of Happiness Studies, 10(3), 271–291.
+Article
+  Google Scholar
+  Heckman, J. J., & Kautz, T. (2014). Fostering and measuring skills: Interventions that improve character and cognition. In J. J. Heckman, J. E. Humphries & T. Kautz (Eds.), The Myth of Achievement Tests: The GED and the Role of Character in American Life (pp. 341–430). Chicago: University of Chicago Press.
+Hickie, I. (2004). Can we reduce the burden of depression? The Australian experience with beyondblue: the national depression initiative. Australas Psychiatry, 12, 38–46. https://doi.org/10.1080/j.1039-8562.2004.02097.x-2.
+Article
+  Google Scholar
+  Hill, A. B. (1961). Principles of Medical Statistics. New York: Oxford University Press.
+Horwitz, A. G., Hill, R. M., & King, C. A. (2011). Specific coping behaviors in relation to adolescent depression and suicidal ideation. Journal of Adolescence, 34(5), 1077–1085. https://doi.org/10.1016/j.adolescence.2010.10.004.
+Article
+  PubMed
+  Google Scholar
+  Hosseini, L., & Khazali, H. (2013). Comparing The level of anxiety in male & female school students. Procedia - Social and Behavioral Sciences, 84, 41–46.
+Article
+  Google Scholar
+  Humphrey, N., Barlow, A., Wigelsworth, M., Lendrum, A., Pert, K., Joyce, C., & Turner, A. (2016). A cluster randomized controlled trial of the promoting alternative thinking strategies (PATHS) curriculum. Journal of School Psychology, 58, 73–89. https://doi.org/10.1016/j.jsp.2016.07.002.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Institute of Medicine Report (IOM). (2009). Preventing Mental, Emotional, and Behavioral Disorders among Young People: Progress and Possibilities. Washington, DC: National Academies Press.
+January, A. M., Casey, R. J., & Paulson, D. (2011). A meta-analysis of classroom-wide interventions to build social skills: do they work? School Psychology Review, 40(2), 242–256.
+Google Scholar
+  Jennings, P. A., Frank, J. L., Snowberg, K. E., Coccia, M. A., & Greenberg, M. T. (2013). Improving classroom learning environments by cultivating awareness and resilience in education (CARE): results of a randomized controlled trial. School Psychology Quarterly, 28(4), 374–390. https://doi.org/10.1037/spq0000035.
+Article
+  PubMed
+  Google Scholar
+  Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: from programs to strategies: social policy report. Society for Research in Child Development, 26(4), 3–22.
+Google Scholar
+  Keogh, E., Bond, F. W., & Flaxman, P. E. (2006). Improving academic performance and mental health through a stress management intervention: outcomes and mediators of change. Behaviour Research Therapy, 44(3), 339–357. https://doi.org/10.1016/j.brat.2005.03.002.
+Article
+  PubMed
+  Google Scholar
+  Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of General, 62(6), 593–602. https://doi.org/10.1001/archpsyc.62.6.593.
+Article
+  Google Scholar
+  Kim-Cohen, J., Caspi, A., Moffitt, T. E., Harrington, H., Milne, B. J., & Poulton, R. (2003). Prior juvenile diagnoses in adults with mental disorder: developmental follow-back of a prospective-longitudinal cohort. Archives of General, 60(7), 709–717. https://doi.org/10.1001/archpsyc.60.7.709.
+Article
+  Google Scholar
+  Krueger, C., & Tian, L. (2004). A comparison of the general linear mixed model and repeated measures ANOVA using a dataset with multiple missing data points. Biological Research Nursing, 6(2), 151–157. https://doi.org/10.1177/1099800404267682.
+Article
+  Google Scholar
+  Kumpfer, K. L., Alvarado, R., Smith, P., & Bellamy, N. (2002). Cultural sensitivity and adaptation in family-based prevention interventions. Prevention Science, 3(3), 241–246.
+Article
+  Google Scholar
+  Kuosmanen, T., Fleming, T. M., Newell, J., & Barry, M. M. (2017). A pilot evaluation of the SPARX-R gaming intervention for preventing depression and improving wellbeing among adolescents in alternative education. Internet Interventions, 8, 40–47. https://doi.org/10.1016/j.invent.2017.03.004.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Kuyken, W., Weare, K., Ukoumunne, O. C., Vicary, R., Motton, N., Burnett, R., & Huppert, F. (2013). Effectiveness of the Mindfulness in Schools Programme: non-randomised controlled feasibility study. British Journal of Psychiatry, 203(2), 126–131. https://doi.org/10.1192/bjp.bp.113.126649.
+Article
+  PubMed
+  Google Scholar
+  Lee, C., Dickson, D., Conley, C., & Holmbeck, G. (2014). A closer look at self-esteem, perceived social support, and coping strategy: a prospective study of depressive symptomatology across the transition to college. Journal of Social and Clinical Psychology, 33(6), 560–585.
+Article
+  Google Scholar
+  Lewis, K. M., Vuchinich, S., Ji, P., DuBois, D. L., Acock, A., Bavarian, N., & Flay, B. R. (2016). Effects of the positive action program on indicators of positive youth development among urban youth. Applied Developmental Science, 20(1), 16–28. https://doi.org/10.1080/10888691.2015.1039123.
+Article
+  PubMed
+  Google Scholar
+  Lovibond, S. H., & Lovibond, P. F. (1995). Manual for the Depression Anxiety Stress Scales (2nd edn). Sydney: Psychology Foundation.
+Markova, S., & Nikitskaya, E. (2017). Coping strategies of adolescents with deviant behaviour. International Journal of Adolescence and Youth, 22(1), 36–46. https://doi.org/10.1080/02673843.2013.868363.
+Article
+  Google Scholar
+  McCrohan, K. (2015). A consultation with young people on the MindOut programme. Unpublished Master’s Dissertation in Health Promotion, National University of Ireland Galway, Galway, Ireland.
+Mincemoyer, C. & Perkins, D. F. (2003). Assessing decision making skills of youth. The Forum for Family and Consumer Issues, 8 (2), 1–12.
+Muris, P. (2001). A brief questionnaire for measuring self-efficacy in youths. Journal of Psychopathology and Behav Assessment, 23, 145.
+Article
+  Google Scholar
+  NCCA. (2011). Social, Personal and Health Education curriculum framework: Senior cycle. Dublin: National Council for Curriculum and Assessment.
+Nic Gabhainn, S., O’Higgins, S., & Barry, M. (2010). The implementation of social, personal and health education in Irish schools. Health Education, 110(6), 452–470.
+Article
+  Google Scholar
+  Nolen-Hoeksema, S., & Aldao, A. (2011). Gender and age differences in emotion regulation strategies and their relationship to depressive symptoms. Personality Individual Differences, 51, 704–708.
+Article
+  Google Scholar
+  NYCI. (2014). Health inequalities and young people in Ireland: a review of the literature. Dublin: National Youth Council of Ireland.
+Oberle, E., & Schonert-Reichl, K. (2017). Social and Emotional Learning: Recent Research and Practical Strategies for Promoting Children’s Social and Emotional Competence in Schools. In J. L. Matson (Ed.), Handbook of Social Behavior and Skills in Children (175–197), Cham, Switzerland.
+OECD. (2015). Skills for Social Progress: The power of social and emotional skills. Paris: OECD Skills Studies, OECD Publishing.
+OECD. (2018). Youth not in employment, education or training (NEET) (indicator). https://doi.org/10.1787/72d1033a-en (Accessed on 22 November 2018).
+Osher, D., Dwyer, K., & Jackson, S. (2004). Safe, Supportive, and Successful Schools: Step by Step. Longmont: Sopris West.
+Patel, V., Flisher, A. J., Hetrick, S., & McGorry, P. (2007). Mental health of young people: a global public-health challenge. Lancet, 369(9569), 1302–1313. https://doi.org/10.1016/S0140-6736(07)60368-7.
+Article
+  PubMed
+  Google Scholar
+  Pedrosa, I., Suárez-Álvarez, J., Lozano, L. M., Muñiz, J., & García-Cueto, E. (2014). Assessing perceived emotional intelligence in adolescents: New validity evidence of Trait Meta-Mood Scale–24. Journal of Psychoeducational Assessment, 32(8), 737–746. https://doi.org/10.1177/0734282914539238.
+Article
+  Google Scholar
+  Reiss, F. (2013). Socioeconomic inequalities and mental health problems in children and adolescents: a systematic review. Soc Sci Med, 90, 24–31. https://doi.org/10.1016/j.socscimed.2013.04.026.
+Article
+  PubMed
+  Google Scholar
+  Romeo, R. D. (2013). The teenage brain: The stress response and the adolescent brain. Current Directions in Psychological Science, 22(2), 140–145.
+Rosenberg, M. (1965). Society and the Adolescent Self-Image. New Jersey: Princeton University Press.
+Rotheram-Borus, M. J., Swendeman, D., & Chorpita, B. F. (2012). Disruptive innovations for designing and diffusing evidence-based interventions. American Psychologist, 67(6), 463–476. https://doi.org/10.1037/a0028180.
+Article
+  PubMed
+  Google Scholar
+  Salguero, J. M., Fernández-Berrocal, P., Balluerka, N., & Aritzeta, A. (2010). Measuring perceived emotional intelligence in adolescent population: Psychometric properties of the Trait Meta Mood Scale. Social Behavior and Personality: An International Journal, 38, 1197–1210.
+Article
+  Google Scholar
+  Salovey, P., Mayer, J. D., Goldman, S. L., Turvey, C., & Palfai, T. P. (1995). Emotional attention, clarity, and repair: Exploring emotional intelligence using the trait meta- mood scale. In J. Pennebaker (Ed.), Emotion, Disclosure, and Health (pp. 125–154). Washington, DC: American Psychological Association.
+Schulz, K. F., Altman, D. G., & Moher, D. (2010). CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. BMJ, 340, 332.
+Article
+  Google Scholar
+  Seiffge-Krenke, I., & Klessinger, N. (2000). Long-term effects of avoidant coping on adolescents’ depressive symptoms. Journal of Youth and Adolescence. 29(6), 617–630.
+Shandley, K., Austin, D., Klein, B., & Kyrios, M. (2010). An evaluation of ‘Reach Out Central’: an online gaming program for supporting the mental health of young people. Health Education Research, 25(4), 563–574. https://doi.org/10.1093/her/cyq002.
+Article
+  PubMed
+  Google Scholar
+  Sklad, M., Diekstra, R., Ritter, M. D., Ben, J., & Gravesteijn, C. (2012). Effectiveness of school-based universal social, emotional, and behavioral programs: do they enhance students’ development in the area of skill, behavior, and adjustment? Psychology in the Schools, 49(9), 892–909. https://doi.org/10.1002/pits.21641.
+Article
+  Google Scholar
+  Snyder, F., Flay, B., Vuchinich, S., Acock, A., Washburn, I., Beets, M., & Li, K.-K. (2010). Impact of a social-emotional and character development program on school-level indicators of academic achievement, absenteeism, and disciplinary outcomes: a matched-pair, cluster randomized, controlled trial. Journal of Research on Educational Effectiveness, 3(1), 26–55. https://doi.org/10.1080/19345740903353436.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Spoth, R., Greenberg, M., Bierman, K., & Redmond, C. (2004). PROSPER community–university partnership model for public education systems: capacity-building for evidence-based, competence-building prevention. Prevention Science, 5(1), 31–39. https://doi.org/10.1023/B:PREV.0000013979.52796.8b.
+Article
+  PubMed
+  Google Scholar
+  Stallard, P., Skryabina, E., Taylor, G., Phillips, R., Daniels, H., Anderson, R., & Simpson, N. (2014). Classroom-based cognitive behaviour therapy (FRIENDS): a cluster randomised controlled trial to prevent anxiety in children through education in schools (PACES). Lancet Psychiatry, 1(3), 185–192. https://doi.org/10.1016/s2215-0366(14)70244-5.
+Article
+  PubMed
+  Google Scholar
+  Steenbergen, M. R., & Jones, B. S. (2002). Modeling multilevel data structures. Amercian Journal of Political Science, 46, 218–237.
+Article
+  Google Scholar
+  Steinberg, L. (2015). How to improve the health of American adolescents. Perspectives on Psychological Science, 10(6), 711–715. https://doi.org/10.1177/1745691615598510.
+Article
+  PubMed
+  Google Scholar
+  Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: a meta-analysis of follow-up effects. Child Development, 88(4), 1156–1171. https://doi.org/10.1111/cdev.12864.
+Article
+  PubMed
+  Google Scholar
+  Tennant, R., Hiller, L., Fishwick, R., Platt, S., Joseph, S., Weich, S., & Stewart-Brown, S. (2007). The Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validation. Health Qual Life Outcomes, 5, 63 https://doi.org/10.1186/1477-7525-5-63.
+Article
+  PubMed
+  PubMed Central
+  Google Scholar
+  Thorsteinsson, E., Ryan, S., & Sveinbjornsdottir, S. (2013). The mediating effects of social support and coping on the stress-depression relationship in rural and urban adolescents. Open Journal of Depression, 2, 1–6.
+Article
+  Google Scholar
+  Tully, P. J., Zajac, I. T., & Venning, A. J. (2009). The structure of anxiety and depression in a normative sample of younger and older Australian adolescents. Journal of Abnormal Child Psychology, 37(5), 717–726. https://doi.org/10.1007/s10802-009-9306-4.
+Article
+  PubMed
+  Google Scholar
+  UNICEF (2017). Building the Future: Children and the Sustainable Development Goals in Rich Countries, Innocenti Report Card 14, UNICEF Office of Research–Innocenti, Florence.
+Wainwright, P. E., Leatherdale, S. T., & Dubin, J. A. (2007). Advantages of mixed effects models over traditional ANOVA models in developmental studies: a worked example in a mouse model of fetal alcohol syndrome. Develomental Psychobiology, 49(7), 664–674. https://doi.org/10.1002/dev.20245.
+Article
+  Google Scholar
+  Weare, K., & Nind, M. (2011). Mental health promotion and problem prevention in schools: what does the evidence say? Health Promotion International, 26(1), 29–69. https://doi.org/10.1093/heapro/dar075.
+Article
+  Google Scholar
+  Weisz, J. R., Chorpita, B. F., Palinkas, L. A., Schoenwald, S. K., Miranda, J., Bearman, S. K., & Gibbons, R. D. (2012). Testing standard and modular designs for psychotherapy treating depression, anxiety, and conduct problems in youth: a randomized effectiveness trial. Archives of General, 69(3), 274–282. https://doi.org/10.1001/archgenpsychiatry.2011.147.
+Article
+  Google Scholar
+  WHO. (2013). Mental Health Action Plan 2013-2020. Geneva: World Health Organization.
+WHO. (2015). European Mental Health Action Plan 2013–2020. Copenhagen, Denmark: World Health Organisation Regional Office for Europe.
+Wigelsworth, M., Lendrum, A., Oldfield, J., Scott, A., ten Bokkel, I., Tate, K., & Emery, C. (2016). The impact of trial stage, developer involvement and international transferability on universal social and emotional learning programme outcomes: a meta-analysis. Cambridge Journal of Education, 46(3), 347–376. https://doi.org/10.1080/0305764X.2016.1195791.
+Article
+  Google Scholar
+  Yeager, D. (2017). Social and emotional learning programs for adolescents. Future Child, 27(1), 73–94.
+Article
+  Google Scholar
+  Yeo, A., & Graham, J. (2015). A deep dive into social and emotional learning: What do the views of those involved tell us about the challenges for policy-makers. London: Early Intervention Foundation.
+Zins, J. E., Weissberg, R. P., Wang, M. C., & Walberg, H. J. (2004). Building Academic Success On Social And Emotional Learning: What Does The Research Say? New York: Teachers College Press.
+Download references
+
+Acknowledgements
+The authors wish to acknowledge the participation of all the school staff and students who took part in the study. We also wish to thank Professor Leslie Daly (RIP) of the Centre for Support and Training in Analysis and Research (CSTAR) for providing invaluable guidance on the randomization process and the analysis. We are grateful to Ms. Anne Sheridan, Mental Health Promotion Officer for Suicide Prevention (Health Promotion and Improvement, HSE) for providing training to intervention schools as well as the research assistants Margaret Malcolm, Jennifer Ryan and Maeve Scully who contributed to the recruitment, data collection and input.
+Authors’ Contributions
+K.D. and M.M.B. conceived the design and coordination of the study. K.D. contributed to the data collection and input, statistical analysis and drafting the manuscript; M.M.B.provided supervision at all stages of the study including data collection, data interpretation and drafting the manuscript; AS contributed to the statistical analyses and interpretation of the data. All authors read, revised and approved the final manuscript.
+Funding
+This work was supported by the Irish Research Council (IRC) Government of Ireland Postgraduate Scholarship and the Health Service Executive (HSE) Health Promotion and Improvement in Ireland.
+Data Sharing and Declaration
+This manuscript’s data will not be deposited.
+
+Acknowledgements
+
+The authors wish to acknowledge the participation of all the school staff and students who took part in the study. We also wish to thank Professor Leslie Daly (RIP) of the Centre for Support and Training in Analysis and Research (CSTAR) for providing invaluable guidance on the randomization process and the analysis. We are grateful to Ms. Anne Sheridan, Mental Health Promotion Officer for Suicide Prevention (Health Promotion and Improvement, HSE) for providing training to intervention schools as well as the research assistants Margaret Malcolm, Jennifer Ryan and Maeve Scully who contributed to the recruitment, data collection and input.
+Authors’ Contributions
+K.D. and M.M.B. conceived the design and coordination of the study. K.D. contributed to the data collection and input, statistical analysis and drafting the manuscript; M.M.B.provided supervision at all stages of the study including data collection, data interpretation and drafting the manuscript; AS contributed to the statistical analyses and interpretation of the data. All authors read, revised and approved the final manuscript.
+Funding
+This work was supported by the Irish Research Council (IRC) Government of Ireland Postgraduate Scholarship and the Health Service Executive (HSE) Health Promotion and Improvement in Ireland.
+Data Sharing and Declaration
+This manuscript’s data will not be deposited.
+
+Author information
+Authors and Affiliations
+Health Promotion Research Centre, National University of Ireland Galway, Galway, Ireland
+Katherine Dowling & Margaret M. Barry
+School of Mathematics, Statistics and Applied Mathematics, National University of Ireland Galway, Galway, Ireland
+Andrew J. Simpkin
+Corresponding author
+Correspondence to Katherine Dowling.
+
+Author information
+
+Authors and Affiliations
+Health Promotion Research Centre, National University of Ireland Galway, Galway, Ireland
+Katherine Dowling & Margaret M. Barry
+School of Mathematics, Statistics and Applied Mathematics, National University of Ireland Galway, Galway, Ireland
+Andrew J. Simpkin
+Corresponding author
+Correspondence to Katherine Dowling.
+
+Ethics declarations
+Conflict of Interest
+The authors declare that they have no conflict of interest.
+Ethical Approval
+The study received ethical approval from the NationalUniversity of Ireland Galway Research Ethics Committee (ref: 16-Jul-01). All procedures performed in studies involving human participantswere in accordance with the ethical standards of the institutional and/ornational research committee and with the 1964 Helsinki declaration andits later amendments or comparable ethical standards.
+Informed Consent
+Written informed consent was obtained from all individual participant included in the study and passive parental consent from all participants was also sought.
+
+Ethics declarations
+
+Conflict of Interest
+The authors declare that they have no conflict of interest.
+Ethical Approval
+The study received ethical approval from the NationalUniversity of Ireland Galway Research Ethics Committee (ref: 16-Jul-01). All procedures performed in studies involving human participantswere in accordance with the ethical standards of the institutional and/ornational research committee and with the 1964 Helsinki declaration andits later amendments or comparable ethical standards.
+Informed Consent
+Written informed consent was obtained from all individual participant included in the study and passive parental consent from all participants was also sought.
+
+Additional information
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Additional information
+
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Appendix
+Appendix
+Table 4
+Table 4 Summary of program content
+Full size table
+
+Appendix
+
+Appendix
+Table 4
+Table 4 Summary of program content
+Full size table
+
+Rights and permissions
+Reprints and permissions
+
+Rights and permissions
+
+Reprints and permissions
+
+About this article
+Cite this article
+Dowling, K., Simpkin, A.J. & Barry, M.M. A Cluster Randomized-Controlled Trial of the MindOut Social and Emotional Learning Program for Disadvantaged Post-Primary School Students. J Youth Adolescence 48, 1245–1263 (2019). https://doi.org/10.1007/s10964-019-00987-3
+Download citation
+Received
+18 October 2018
+Accepted
+28 January 2019
+Published
+19 April 2019
+Issue Date
+01 July 2019
+DOI
+https://doi.org/10.1007/s10964-019-00987-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Social and emotional Learning
+Mental wellbeing
+Adolescence
+Schools
+Randomized-controlled trial
+
+About this article
+
+Cite this article
+Dowling, K., Simpkin, A.J. & Barry, M.M. A Cluster Randomized-Controlled Trial of the MindOut Social and Emotional Learning Program for Disadvantaged Post-Primary School Students. J Youth Adolescence 48, 1245–1263 (2019). https://doi.org/10.1007/s10964-019-00987-3
+Download citation
+Received
+18 October 2018
+Accepted
+28 January 2019
+Published
+19 April 2019
+Issue Date
+01 July 2019
+DOI
+https://doi.org/10.1007/s10964-019-00987-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Social and emotional Learning
+Mental wellbeing
+Adolescence
+Schools
+Randomized-controlled trial

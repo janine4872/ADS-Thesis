@@ -1,0 +1,619 @@
+Teachers and administrators across the United States struggle to maintain safe, civil, community- and achievement-oriented schools. During the 2014–15 school year alone, 12-to-18-yearold students experienced more than 1.4 million nonfatal victimizations (e.g., violence, theft) at
+school (U.S. Department of Education, 2019). School leaders, however, have no whole-school,
+empirically tested “best” or “promising” practices to address these safety concerns. One proposed strategy for promoting holistic improvements in school climate and safety is improving
+the social and emotional skills of students and educators.
+This report summarizes results from a project funded by the National Institute of Justice in 2015 to study the association between social and emotional learning (SEL) and school
+climate and school safety in which RAND partnered with the Jackson (Mississippi) Public
+School District (JPSD). JPSD implemented Tools for Life®: Relationship-Building Solutions
+(hereafter referred to as Tools for Life or TFL), a classroom- and home-based program for
+children age three through five and grades 1 through 8 designed to improve school climate
+and safety through the proactive development of students’ interpersonal skills (relationshipbuilding and communication) and intrapersonal skills (self-regulation and resiliency). For this
+study, JPSD implemented TFL in grades 1 through 8 in the 2016–2017 and 2017–2018 school
+years. RAND researchers conducted a randomized controlled trial to determine whether TFL,
+integrated into existing school practices, positively affected school climate and safety in the
+district.
+TFL consists of a toolkit for teachers, which includes supporting materials to send home
+for students’ parents/guardians and a classroom library of fiction and nonfiction texts used
+in each TFL lesson, and a toolkit for home (HomeSTART), which incorporates the same
+lesson materials as the classroom toolkit. Each grade level has from eight to ten lessons, which
+focus on a specific skill and use inquiry-based learning1 and pedagogical approaches. The
+calm-down corner was a very visible and prominent way in which each classroom teacher was
+expected to implement TFL. All teachers were required to establish a calm-down corner in
+their classroom, an area where students could visit when necessary to check their emotions and
+calm down before returning to class.
+Objectives of This Study
+This study had three objectives:
+1. Describe the implementation of TFL in JPSD.
+2. Assess the degree to which TFL is effective in improving school climate and school
+safety outcomes.
+3. Measure the costs of implementing TFL in JPSD.
+To meet these objectives, we conducted a cluster randomized trial for students in grades 3
+through 8 attending traditional public elementary and middle schools in JPSD. Twenty-three
+schools were randomly assigned to implement TFL in academic year 2016–2017 (treatment
+schools), and 22 schools were randomly assigned to continue to conduct business-as-usual
+and to delay implementation of TFL until academic year 2017–2018 (control schools). We
+requested active consent from students’ parents/guardians to conduct the research required in
+this study. Less than one-third of the eligible students in the district opted to participate in
+data collection. The remaining students either did not return consent forms or returned consent forms indicating that their parents/guardians did not wish to have their children participate in data-collection activities. We address the implications of this low response rate in the
+main body of this report.
+To provide a descriptive portrait of the implementation of TFL in JPSD in the 2016–2017
+and 2017–2018 academic school years, we relied on data from interviews with JPSD district
+and Mississippi Department of Education (MDE) officials, district-level TFL implementers,
+and Tools for Life Corporation coaches; results from surveys administered to students in grades
+3 through 8; and interviews with school leaders and focus groups with instructional staff collected from six purposefully selected treatment and control schools. To assess the impact of
+TFL on school and students’ outcomes across both years of the study, we used data from the
+student surveys and JPSD administrative data. We also documented the costs of TFL in JPSD,
+relying on JPSD administrative data and financial records from TFL and JPSD.
+Analytic Approach
+The theory of change illustrated in Figure S.1 served as the study’s framework for analysis. This
+theory of change posits that TFL inputs and activities (school staff training provided by TFL,
+classroom toolkits with complementary practices for home) and outputs (the implementation
+of TFL) will increase short-term outcomes (school staff and students’ knowledge and skills).
+School staff will develop an in-depth comprehension of TFL techniques, and students will
+increase their intrapersonal (identify and recognize feelings, express feelings) and interpersonal
+skills (communicate respectfully, solve relationship problems, resolve conflicts). All members
+of the school community will start using a common language vis-à-vis relationship-building.
+With increases in TFL-related school staff and student knowledge and skills, we hypothesize
+that mediating factors (staff and student attitudes and students’ socioemotional health, such
+as self-regulation and empathy) will change. Ultimately, short-term outcomes and mediating
+factors produce positive longer-term outcomes: increased perceptions of school safety among
+students and staff; stronger perceived bonds and improved school climate; increases in teacher
+Summary xi
+and student attendance; increases in school safety as measured by observations of student and
+staff behavior and reduction in rates of office disciplinary referrals, out-of-school suspensions,
+and reported injury and aggressive incidents. Though not a primary outcome of interest, we
+also investigated the effect of TFL on student achievement (as measured through results on
+Mississippi state assessments) as a secondary, exploratory analysis. We hypothesized that with
+a greater sense of community and connection among students and teachers, students would
+become more engaged in instruction, leading to gains in achievement. Decades of research
+have demonstrated that when students are more engaged in instruction they tend to have
+higher academic achievement (Fredericks et al., 2004).
+Research Questions and Data Sources
+The study had two stages. In the first stage, we examined the impacts of TFL after one academic year of exposure. In the second stage, we examined the impacts of TFL exposure on students’ developmental trajectories. Our analyses in this report provide a descriptive portrait of
+the implementation of TFL in JPSD in the 2016–2017 and 2017–2018 academic school years.
+We used data from key stakeholder interviews, results from surveys administered to students
+in grades 3 through 8, and data from interviews with key TFL implementers and school leaders as well as focus groups with instructional staff collected from six focal schools. We assessed
+the impact of TFL on school and students’ outcomes across both years of the study, using data
+Figure S.1
+Theory of Change for Implementation of TFL to Improve School Climate and Safety
+Implementation to evaluate Outcomes to evaluate
+Mediating
+factors
+Short-term
+outcomes
+Outputs
+Direct products of
+activities
+Inputs and activities
+TFL components
+Longer-term
+outcomes
+Secondary outcome:
+Improved student
+achievement
+School staff
+improved:
+• Attitudes
+• Communication
+with students
+• Perceptions of
+school climate
+Students improved:
+• Attitudes
+• Socioemotional
+health
+• Communication
+with staff and peers
+• Perceptions of
+school climate
+Improved school
+safety
+• Improved staff and
+student (pro-social)
+behavior
+• Improved perceived
+bonds between
+students; between
+students and staff
+• Improved staff and
+student perceptions
+of school safety
+• Fewer ofce
+disciplinary referrals
+and suspensions
+• Fewer reported
+injuries or
+aggressive incidents
+on school grounds
+School staff TFL
+knowledge and skills
+Student interpersonal
+skills
+• Communicate
+respectfully
+• Solve relationship
+problems
+• Resolve conicts
+Student intrapersonal
+skills
+• Identify and
+recognize feelings
+• Express feelings
+Use of common
+language across
+school
+Teachers integrate
+lessons from toolkit
+into curriculum
+School staff model
+respectful
+communication and
+behavior
+Parents reinforce
+classroom practices
+Training for school
+staff
+• 3-day workshop for
+2 school staff
+• 1-day workshop for
+all school staff
+Classroom toolkit
+• Lesson plans
+• Parent guides and
+nonction texts
+Parent and guardian
+communication
+• Workshops/
+community nights
+• HomeSTART kits
+available in school
+library
+• Email lists and social
+media
+Time
+xii Social and Emotional Learning, School Climate, and School Safety: An Evaluation of Tools for Life®
+from the student surveys and JPSD administrative data. We also documented the costs of TFL
+in JPSD relying on JPSD administrative data and financial records from TFL and JPSD.
+We used a mixed-method approach that drew on both quantitative and qualitative data
+to describe the implementation, assess the potential impact, and document the costs of the
+TFL program. We asked seven research questions, listed in Table S.1. A description of the data
+sources are available in this report’s technical appendix (available at www.rand.org/t/RR4285).
+Key Findings
+TFL Had Little Impact on Students’ Social and Emotional Learning, Behavior, or Academic
+Performance
+In analyzing JPSD administrative records and student survey responses, we found that after
+one year of implementation of TFL, there were no practically or statistically significant differences between schools that implemented TFL (treatment schools) and those that did not
+(control schools) in measures of students’ social and emotional, school climate, behavioral, or
+achievement outcomes. We also conducted exploratory examinations of differences in outcomes among subgroup populations, specifically comparing middle school with elementary
+school students and students who were homeless with those who were not. We did not find
+any discernible differences across subgroups. We conducted exploratory analyses of the impact
+of full TFL exposure on student outcomes. We did find a positive association between students’ self-reported exposure to TFL materials and lessons and their self-reported social and
+emotional outcomes.
+Key Stakeholders Reported Positive and Negative Views About TFL Implementation
+Interviews with JPSD implementation coaches (district staff who were to support TFL implementation) and TFL consultants, and interviews with school leaders and focus groups with
+instructional staff in the six focal schools, revealed varied perspectives about TFL. Teachers
+with whom we spoke noted that materials and resources were reportedly easy to use, yet they
+Table S.1
+Research Questions and Data Sources
+Project Objective Research Questions Data Source
+1. Describe
+implementation of TFL
+1. In what ways did the implementation of
+TFL vary across schools?
+2. What hindered or facilitated
+implementation?
+• JPSD central staff interviews
+• TFL staff interviews
+• Focal school administrator interviews
+• Focal school staff focus groups
+• Student school climate surveys
+2. Assess TFL
+effectiveness
+3. Was TFL associated with improved
+school climate?
+4. Was TFL associated with improved student social and emotional competencies
+and positive pro-social behavior?
+5. To what extent did program impacts
+differ across grade, gender, and income
+subgroups?
+6. To what extent was program exposure
+associated with improvement?
+• Student school climate surveys
+• JPSD administrative data
+3. Measure the costs
+of implementing TFL
+7. What were the costs associated with
+implementing TFL in JPSD?
+• JPSD financial data
+• JPSD administrative data
+Summary xiii
+also noted that materials and resources were not age-appropriate (they seemed too young or
+basic) for middle schoolers. Interviewees and focus group participants also noted that dosage
+was low: School administrators and instructional staff wore lanyards with the basic concepts
+of TFL on them, hung posters about feelings in classroom and school hallway walls, and created calm-down corners in classrooms so that students had quiet places to go to if they felt they
+needed to, but the ongoing instruction about TFL concepts was left to guidance counselors (in
+elementary schools) and to social studies teachers (in middle schools). Moreover, focus group
+participants noted that the TFL lessons were reportedly not clear; staff had little idea about
+how exactly to implement the lessons, if they had chosen to make time to do so.
+Implementation of TFL Was Uneven Across Schools and, in Many Cases,
+Reportedly Shallow
+Interviews with JPSD implementation coaches (district staff who were to support TFL implementation) and with TFL consultants revealed that implementation of TFL varied across
+schools in both years of the study. Interviewees also reported that this variation occurred
+even in the second year for treatment schools, as well as across the control schools, which
+implemented TFL in 2017–2018 only. Student surveys indicated that exposure to various TFL
+materials and lessons varied widely across treatment schools, and also between treatment and
+control schools (in year 1). Our analysis in six focal schools corroborated the students’ survey
+results: Interviews and focus group discussions with school staff and leaders in each school
+reported different ways in which TFL materials and structure were provided to students. TFL
+was rarely, if at all, implemented across a whole school as it was designed. Thus, implementation of TFL in JPSD over the first two years remained shallow.
+A Variety of Factors Facilitated and Impeded Implementation
+Interviews with key stakeholders and the analysis in six focal schools unveiled factors that
+could have affected the implementation of TFL and led to the reported uneven implementation across schools and varied exposure of TFL concepts to students. These factors included
+attitudes, district-level structures, and broader contextual factors:
+• Attitudes: The extent to which parents, teachers, and especially school leadership had
+bought-in to the positive-behavior concepts promoted by TFL stakeholders’ desire for a
+positive behavior approach.
+• District-level structure: Respondents reported that JPSD and TFL support facilitated
+implementation for them. However, they also noted situations in which communication
+lines faltered and that there were few opportunities for collaboration. Parental engagement was minimal, and in those schools that experienced principal turnover there was a
+lack of clear leader advocacy or attention to the program.
+• Contextual factors: MDE audited JPSD concurrently with implementation of TFL in
+2016–2017, which reportedly distracted many educators from implementing TFL. Moreover, teachers and school leaders were reportedly “burned-out” on having to implement
+new programs that they perceived might not last in the district beyond the one year.
+TFL Was Relatively Expensive to Implement
+In our cost analysis, we found that TFL, as implemented in JPSD, cost approximately
+$2,797,728 over the course of the 2016–2017 and 2017–2018 school years. Breaking this figure
+xiv Social and Emotional Learning, School Climate, and School Safety: An Evaluation of Tools for Life®
+down by year and by student, we calculate a participant cost of $174.31 per year, per student.
+We conducted sensitivity analyses in which we included alternative sets of assumptions, such
+as opportunity costs for teacher time for program implementation and attendance at events.
+These sensitivity checks increased the costs to as much as $177.79 per student, per year, bringing the total potential annual cost to $352.10 per student.
+Although there are only a few examples of cost analysis of whole-school interventions
+that focus on improving school culture and student behavior from which we may draw comparisons, TFL appears to be relatively expensive compared with programs studied in other
+cost analyses. In particular, Blonigen et al. (2008) found that a schoolwide positive behavioral
+support program would cost approximately between $17,732 and $20,705 per school. If we
+take the average school in JPSD, which as of 2017 has 235 students, the average per-school,
+per-year cost of TFL implementation comes out to be $40,962.85. Furthermore, if we include
+the results of our sensitivity analyses by including in-kind opportunity cost of teachers’ time
+commitment, that per-school, per-year cost increases to $82,743.50.
+Implications
+Although the results from the outcomes analysis suggest that the offer of TFL was generally not associated with better outcomes, and thus that TFL might not have been effective or
+aligned with the specific needs of JPSD school population, it is clear from the documentation
+on implementation struggles and facilitators that there are several other plausible explanations
+for these findings that merit consideration.
+First, TFL was not the only program implemented in JPSD that was designed to improve
+student SEL and school climate. For example, the district was also implementing other programs, including a Positive Behavioral Interventions and Supports (PBIS) program. To the
+extent that the benefits of participating in programs such as the PBIS program benefited all
+students in the district, the estimated effects from this study represent only the additional
+impact of the TFL program. This additional impact is likely to be smaller than would be
+anticipated had the control condition been defined so that students in control schools received
+no additional SEL programming.
+Second, issues of implementation may have compromised the potential of the program
+to help students. We found some evidence that implementation of TFL was not optimal: It
+varied across schools and was, at best, shallow. This is evident from both the data from focal
+schools and from the heterogeneity in program exposure (presented in Chapter Three)—there
+were students enrolled in schools that were implementing TFL programming in year 1 who
+reported low exposure to posters and lessons. Educators’ contextualized critique of the program and reasons for not fully buying into it, described in Chapter Three, may provide further
+insight into the lack of detected effect in the outcomes. Moreover, at the time of TFL implementation, JPSD was dealing with superintendent turnover, the dissolution of its school board,
+and MDE’s audit of its performance. These stressors reverberated among the stakeholders with
+whom we spoke and most likely affected educators’ capacity to implement TFL as it was originally designed.
+Finally, there are some methodological issues to consider. First, a large number of parents and guardians in JPSD did not consent to have their children participate in the study,
+and it is unclear whether the students who did consent were the students who would benefit
+Summary xv
+most from participating in the program. It is unclear whether the program would be more
+effective for these students and to what extent that would influence the overall estimation of
+program impacts. Second, the SEL and school climate outcomes rely on student-self report.
+There is some evidence that self-report measures of SEL and school climate may be biased. In
+particular, acquiescence bias, whereby respondents have a tendency to agree with all items, and
+halo effects, whereby positive perceptions about one domain influence perceptions of other
+domains, pose a particular threat to validity with such measures. This is also the case for all
+interview and focus group data, as those are self-reports. It is therefore possible that participants provided socially desirable responses about their perceptions of school safety and climate
+or about TFL implementation. It is also plausible that, as students participated in the program,
+their awareness of their own social and emotional competencies changed and they became less
+lenient in their judgments about their social and emotional competencies. This could even
+potentially explain the finding that self-reported self-awareness, social awareness, and selfmanagement trajectories were negatively affected through TFL participation.
+It is impossible to discern exactly which factor produced the results of this study, suggesting that additional research is needed to better understand the extent to which the findings
+reported here are driven by limitations of the data and sample, implementation challenges, or
+other factors. 
+BTC Better Together Commission
+CBCSE Center for Benefit-Cost Studies in Education
+ICC intraclass correlation coefficient
+ITT intent-to-treat
+JPSD Jackson Public School District
+MAAP Mississippi Academic Assessment Program
+MDE Mississippi Department of Education
+PBIS Positive Behavioral Interventions and Supports
+RLA reading and language arts
+SD standard deviation
+SE standard error
+SEL social and emotional learning
+SSIS Social Skills Improvement System
+TFL Tools for Life®: Relationship-Building Solutions
+Study Objectives
+At the time of this project, no SEL programs had been implemented districtwide in JPSD to
+improve school climate and safety. Moreover, although TFL has been adopted in more than
+100 schools in North America, no empirical analysis had yet been undertaken to rigorously
+test TFL’s potential effect on school climate and safety, nor had studies of TFL rigorously
+examined implementation to document the mechanism through which TFL affects the school
+environment and youth outcomes. This project provided the opportunity to do so. The purpose of this project was to implement TFL across a school district and use a randomized controlled trial to determine whether TFL, integrated into existing school practice with fidelity,
+can positively affect school climate and safety. This study had three objectives:
+1. Describe the implementation of TFL in JPSD.
+2. Assess the degree to which TFL is effective in improving school climate and school
+safety outcomes.
+3. Measure the costs of implementing TFL in JPSD.
+Analytic Approach
+The theory of change illustrated in Figure 1.1 served as the study’s framework for analysis. This
+theory of change posits that TFL inputs and activities (school staff training provided by TFL;
+classroom toolkits with complementary practices for home) and outputs (the implementation
+of TFL) will increase short-term outcomes (school staff and students’ knowledge and skills).
+School staff will develop an in-depth comprehension of TFL techniques, and students will
+increase their intrapersonal (identify and recognize feelings; express feelings) and interpersonal
+skills (communicate respectfully, solve relationship problems, resolve conflicts). All members
+of the school community will start using a common language vis-à-vis relationship-building.
+With increases in TFL-related school staff and student knowledge and skills, we hypothesize
+that mediating factors (staff and student attitudes and students’ socioemotional health, such
+as self-regulation and empathy) will change. Ultimately, short-term outcomes and mediating
+factors produce positive longer-term outcomes: increased perceptions of school safety among
+students and staff; stronger perceived bonds and improved school climate; increases in teacher
+and student attendance; and increases in school safety, as measured by observations of student
+and staff behavior, reduction in rates of office disciplinary referrals, out-of-school suspensions,
+and reported injury and aggressive incidents.
+Though not a primary outcome of interest, we also investigated the effect of TFL on student achievement (as measured through results on Mississippi state assessments) as a secondary, exploratory, analysis. We hypothesized that with a greater sense of community and connection among student and teachers, students will be more engaged in instruction, leading to
+subsequent gains in achievement. Decades of research have demonstrated that when students
+are more engaged in instruction they tend to have higher academic achievement (Fredericks,
+Blumenfeld, and Paris, 2004).
+10 Social and Emotional Learning, School Climate, and School Safety: An Evaluation of Tools for Life®
+Research Questions and Data Sources
+We used a mixed-method approach that drew on both quantitative and qualitative data to
+describe the implementation, assess the potential impact, and document the costs of the TFL
+program. We asked seven research questions, listed in Table 1.3.
+This study took place over two academic years (2016–2017 and 2017–2018). In the first
+year of implementation, 45 schools were randomly assigned to treatment and control conditions. We first stratified the participating sample into elementary schools and middle schools.
+Then, the stratified schools were randomly assigned to treatment and control groups. Beginning in October 2016, treatment schools began implementing TFL programming in grades 4
+through 8. After the first year (2016–2017), the 22 schools in the control group implemented
+TFL. Details of the randomization process, including the number of schools and students allocated to the intervention and control groups, participation rates, and the characteristics of the
+schools that participated in the study, are available in Appendix A.
+Of the 2,941 students whose parents or guardians consented that they could participate
+in data-collection activities associated with the study, 2,740 were enrolled in schools that were
+randomly assigned to treatment or control conditions. 1,422 were enrolled in treatment schools
+at the start of the study, and 1,318 were enrolled in control schools at the start of the study.
+Before conducting any analyses, we examined the extent to which the study sample was balanced (i.e., had similar background characteristics across intervention and control conditions)
+and representative (i.e., those who consented to participate in data collection had similar backFigure 1.1
+Theory of Change for Implementation of TFL to Improve School Climate and Safety
+Implementation to evaluate Outcomes to evaluate
+Mediating
+factors
+Short-term
+outcomes
+Outputs
+Direct products of
+activities
+Inputs and activities
+TFL components
+Longer-term
+outcomes
+Secondary outcome:
+Improved student
+achievement
+School staff
+improved:
+• Attitudes
+• Communication
+with students
+• Perceptions of
+school climate
+Students improved:
+• Attitudes
+• Socioemotional
+health
+• Communication
+with staff and peers
+• Perceptions of
+school climate
+Improved school
+safety
+• Improved staff and
+student (pro-social)
+behavior
+• Improved perceived
+bonds between
+students; between
+students and staff
+• Improved staff and
+student perceptions
+of school safety
+• Fewer ofce
+disciplinary referrals
+and suspensions
+• Fewer reported
+injuries or
+aggressive incidents
+on school grounds
+School staff TFL
+knowledge and skills
+Student interpersonal
+skills
+• Communicate
+respectfully
+• Solve relationship
+problems
+• Resolve conicts
+Student intrapersonal
+skills
+• Identify and
+recognize feelings
+• Express feelings
+Use of common
+language across
+school
+Teachers integrate
+lessons from toolkit
+into curriculum
+School staff model
+respectful
+communication and
+behavior
+Parents reinforce
+classroom practices
+Training for school
+staff
+• 3-day workshop for
+2 school staff
+• 1-day workshop for
+all school staff
+Classroom toolkit
+• Lesson plans
+• Parent guides and
+nonction texts
+Parent and guardian
+communication
+• Workshops/
+community nights
+• HomeSTART kits
+available in school
+library
+• Email lists and social
+media
+Time
+Introduction 11
+ground characteristics as those who did not). We found that, though the sample was balanced
+and there were no significant differences in the characteristics of students in the experiment by
+treatment group, the sample was not representative: Students whose parents or guardians did
+not consent to data-collection activities tended to have lower achievement and were also more
+likely to have discipline issues and higher absenteeism. Complete details of the representativeness and balance of these samples is available in Appendix A.
+To evaluate the impact of TFL, we conducted a cluster-randomized trial in two stages.
+Stage I examined impacts after one academic year of exposure to TFL. Stage II examined trajectories for students’ outcomes from over the course of two academic years using a two-phase
+multiple baseline design, which is a within-person repeated-measures design that can be used
+to appraise the extent to which an intervention alters growth trajectories (Shadish, Kyse, and
+Rindskopf, 2013). In the focus groups, we allowed for open discussion among participants.
+To document the implementation of TFL, we relied on data from interviews with key JPSD,
+MDE, and TFL staff; analysis of the student survey; and data from the study of three treatment and three control schools, which involved focus groups with school instructional staff
+and interviews with school leaders.
+Interviews with Key Jackson Public School District, Tools for Life, and Mississippi
+Department of Education Officials
+We conducted in-person and phone interviews with personnel in JPSD, TFL, and MDE in
+two data collection windows (spring 2017 and spring 2018). We spoke with all personnel who
+were involved in the direct implementation of TFL at the district level. This included the one
+JPSD TFL lead and six TFL implementation coaches. We also spoke to the three consultants
+from Tools for Life Corporation who were embedded in the schools to offer supports and guidance to school leaders and instructional staff. We purposefully selected JPSD central office
+staff from the superintendent’s office and those who were in charge of guidance counseling and
+curriculum standards to gain insights on the vision of TFL and how TFL could be integrated
+into broader district processes and practices. We purposefully selected the one JPSD school
+board member who had recently started their term to gain insights on their role, expectations
+Table 1.3
+Research Questions and Data Sources
+Project Objective Research Questions Data Source
+1. Describe
+implementation of TFL
+1. In what ways did the implementation of
+TFL vary across schools?
+2. What hindered or facilitated
+implementation?
+• JPSD central staff interviews
+• TFL staff interviews
+• Focal school administrator interviews
+• Focal school staff focus groups
+• Student school climate surveys
+2. Assess TFL
+effectiveness
+3. Was TFL associated with improved
+school climate?
+4. Was TFL associated with improved student social and emotional competencies
+and positive pro-social behavior?
+5. To what extent did program impacts
+differ across grade, gender, and income
+subgroups?
+6. To what extent was program exposure
+associated with improvement?
+• Student school climate surveys
+• JPSD administrative data
+3. Measure the costs
+of implementing TFL
+7. What were the costs associated with
+implementing TFL in JPSD?
+• JPSD financial data
+• JPSD administrative data
+12 Social and Emotional Learning, School Climate, and School Safety: An Evaluation of Tools for Life®
+for the district, and for TFL. We purposefully selected officials from MDE who could provide
+a deeper understanding of the relationship between the state and district.
+Table 1.4 lists which stakeholder we interviewed in which window.
+Interview protocols sought to obtain data on the implementation of TFL to document its
+design features and to provide context for explaining any outcomes. We used semistructured
+interviews that included open-ended questions with supplemental probes to examine specific
+topics. The protocols differed for each type of interviewee and were modified in each data collection window in order to inquire about changes to the program or implementation through
+time.
+Protocols are available in Appendix D.
+Study of Six Focal Schools
+In spring 2017, fall 2017, and spring 2018, we conducted site visits at six elementary and middle
+schools (three treatment and three control schools), conducting interviews with school administrators, focus groups with instructional staff members. Appendix C summarizes the data
+collection and analysis for the study of the six focal schools in order to gain insights in how
+TFL was implemented from educators’ perspectives. Appendix D provides interview and focus
+group protocols.
+Interviews. Each site visit consisted of a 45–60-minute semistructured interview with
+a school leader/administrator (i.e., principal or assistant principal) and 45–60-minute interviews with designated lead TFL implementers or their counterparts in control schools (i.e.,
+elementary school counselors and middle school social studies teachers). Protocols addressed
+such topics as perceptions of school climate and students’ SEL needs, response to the program, and facilitators and challenges to implementation.
+Focus groups. Each site visit also included a 60-minute focus group with about six to ten
+staff members. We held focus groups with elementary staff after school; at middle schools, we
+held focus groups during the school day and selected among staff that had planning periods
+during the chosen time. Prior to the start of each focus group, we assigned participants numTable 1.4
+Jackson Public School District, Tools for Life, and Mississippi Department of
+Education Officials Interviewed for Implementation Analysis
+Data Collection Window Interviewee N
+Spring 2017 JPSD TFL lead 1
+JPSD TFL implementation coach 6 (group interview)
+JPSD central office staff 2
+JPSD school board member 1
+Mississippi State Department of
+Education administrator
+4
+TFL consultant 3 (group interview)
+Spring 2018 JPSD TFL lead 1
+JPSD TFL implementation coach 6 (group interview)
+TFL consultants 3 (group interview)
+Introduction 13
+bers for identification purposes to ensure confidentiality of participants in our notes. Protocols addressed similar topics as the interviews.
+Observations of Districtwide TFL Events
+We observed and took field notes during training sessions for school leaders and/or staff, yearend conferences jointly held by JPSD and Tools for Life Corporation, and bring-and-brag
+sessions at which designees from implementing schools across the district (not just the focal
+schools) shared examples of how they integrated the program into their schools and classrooms.
+Student Surveys
+To inform the implementation and outcomes analyses, we fielded online surveys to students in
+grades 3 through 8. Questions on the survey inquired about students’ self-assessments of their
+interpersonal and intrapersonal relationships and about the school’s climate.3
+Content. The student survey was adapted from several existing instruments, including the Alaska School Climate and Connectedness Survey (American Institutes for Research,
+2016), the 5Essentials My Voice, My School Survey (Bryk et al., 2010), and the Social Skills
+Improvement System (SSIS) Student Form (Gresham and Elliott, 2008). Intact scales were
+taken from each source, and scores were computed for each student (or school) based on these
+scales. Internal consistency estimates from the baseline survey administrations are reported
+in Table 1.5, as are estimates of the intraclass correlation coefficients (ICCs), which describe
+the extent to which survey constructs varied across schools. Most of the internal consistency
+estimates for the student level constructs are above 0.70 and show adequate reliability. For the
+school level constructs, the ICCs imply that the school-mean scale scores were also mostly reliable, with average school-mean reliabilities between 0.38 and 0.88. The Safety scale had the
+lowest school-level reliability. Because these constructs were considered central to TFL’s theory
+of action, we included all these scales in our analyses. Also included in the survey was a set of
+items related to TFL programming. These items asked students whether they had seen TFL
+materials in their schools and whether they had participated in any lessons related to these
+materials. A copy of the survey instrument is provided in Appendix B.
+Administration. Surveys were administered before and after the implementation of
+TFL, in fall 2016, spring 2017, fall 2017, and spring 2018. Student surveys were administered to students whose parents actively consented that they could participate, using an online
+survey platform in treatment and control schools. Just prior to each administration, principals
+received emails with specific instructions for administering surveys. Follow-ups with coordinators were made to check on data collection progress and respond to any challenges. Additional
+phone calls, emails, and, in a few instances, on-site assistance were provided to coordinators
+and teachers as necessary to ensure that these data were collected in a timely manner and for
+as many of the targeted students as possible.
+Jackson Public School District Administrative Data
+JPSD provided RAND with de-identified administrative data for all students whose parents or
+guardians had consented to their participation. These data included demographic information
+3 The original research plan was designed to include surveys of students and instructional staff. However, the initial fielding
+of the staff survey in fall 2016 showed very low staff participation, even with multiple follow-ups and reminders. Response
+rates averaged around 16 percent per school for these surveys. Thus, after the first administration, the data collection plan
+was revised to focus energy and resources on maximizing student participation in the surveys.
+14 Social and Emotional Learning, School Climate, and School Safety: An Evaluation of Tools for Life®
+(race/ethnicity and gender) and indicators of suspension, attendance, and annual performance
+on the Mississippi Academic Assessment Program (MAAP) tests in English language arts and
+mathematics. MAAP scores are not vertically scaled. For the purposes of this analysis, all test
+score data were standardized within grade level based on state means and standard deviations.
+We obtained administrative data from JPSD for both years of the study (2016–2017 and 2017–
+2018). The complete list of administrative data is in Table 1.6.
+The data collection timeline for these sources is presented in Figure 1.2.

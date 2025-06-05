@@ -1,0 +1,410 @@
+Copyright © 2025 by Psychological Society of South Africa
+
+The predictive roles of social safeness and flourishing on problematic Facebook use
+
+Abstract
+
+Social safeness
+
+Flourishing
+
+This study
+
+Method
+
+Results
+
+Discussion
+
+Funding
+
+References
+
+Similar articles:
+
+Sage recommends:
+
+Also from Sage
+
+About
+
+Information for
+
+South African Journal of Psychology
+
+Access/Profile
+
+Cart
+
+Browse by discipline
+
+Information for
+
+Contents
+
+PDF/EPUB
+
+Cite article
+Share options
+Information, rights and permissions
+Metrics and citations
+Figures and tables
+
+Cite article
+
+Share options
+
+Information, rights and permissions
+
+Metrics and citations
+
+Figures and tables
+
+Available access
+Still Logged in? The Link Between Facebook Addiction, FoMO, Self-Esteem, Life Satisfaction and Loneliness in Social Media Users
+Show Details
+
+Available access
+The impact of motives for Facebook use on Facebook addiction among ordinary users in Jordan
+Show Details
+
+Available access
+Factors Associated With Media Addiction in Korean Elementary School Children
+Show Details
+
+SAGE Research Methods
+Case
+Determining Psychometric Properties of and Validating the Romanian Version of the Internet Addiction Test
+Show Details
+
+SAGE Research Methods
+Whole book
+Research Methods and Statistics
+Show Details
+
+SAGE Research Methods
+Book chapter
+Social Media, Human Connectivity and Psychological Well-Being
+Show Details
+
+CQ Library Elevating debate
+
+Sage Data Uncovering insight
+
+Sage Business Cases Shaping futures
+
+Sage Campus Unleashing potential
+
+Sage Knowledge Multimedia learning resources
+
+Sage Research Methods Supercharging research
+
+Sage Video Streaming knowledge
+
+Technology from Sage Library digital services
+
+About Sage Journals
+
+Accessibility guide
+
+Historical content
+
+Advertising disclaimer
+
+Permissions
+
+Terms of use
+
+Sage discipline hubs
+
+Sage microsites
+
+Authors
+
+Editors
+
+Librarians
+
+Promoters / Advertisers
+
+Researchers
+
+Reviewers
+
+Societies
+
+Frequently asked questions
+
+ISSN: 0081-2463
+
+About Sage
+
+Contact us
+
+CCPA - Do not sell my personal information
+
+CCPA
+
+Privacy Policy
+
+Problematic Facebook use
+
+–
+
+30.09
+
+10.21
+
+.81
+
+.28
+
+Social safeness
+
+−.46**
+
+–
+
+31.03
+
+6.65
+
+−.69
+
+.91
+
+Flourishing
+
+−.44**
+
+.62**
+
+–
+
+41.89
+
+8.38
+
+−.80
+
+.18
+
+Internet usage time
+
+.19**
+
+−.21**
+
+−.20**
+
+158
+
+110.04
+
+–
+
+–
+
+Age
+
+.09
+
+−.08
+
+–10
+
+.07
+
+–
+
+21.43
+
+1.93
+
+–
+
+–
+
+Gender
+
+−.17*
+
+.20**
+
+.23**
+
+−.15*
+
+−.11
+
+–
+
+–
+
+–
+
+–
+
+Step 1
+
+Age
+
+0.39
+
+0.35
+
+.07
+
+1.13
+
+.03
+
+3.98*
+
+Gender
+
+−3.40
+
+1.39
+
+−.16
+
+−2.44*
+
+Step 2
+
+Age
+
+0.25
+
+0.31
+
+.05
+
+0.80
+
+Gender
+
+−1.62
+
+1.27
+
+−.08
+
+−1.27
+
+.22
+
+21.46**
+
+Social safeness
+
+−0.68
+
+0.09
+
+−.44
+
+−7.38**
+
+Step 3
+
+Age
+
+0.20
+
+0.31
+
+.04
+
+0.64
+
+.26
+
+19.46**
+
+Gender
+
+−1.04
+
+1.26
+
+−.05
+
+−0.83
+
+Social safeness
+
+−0.46
+
+0.11
+
+−.30
+
+−4.03**
+
+Flourishing
+
+−0.30
+
+0.09
+
+−.24
+
+−3.27**
+
+Step 4
+
+Age
+
+0.18
+
+0.31
+
+.03
+
+0.03
+
+Gender
+
+−0.88
+
+1.26
+
+−.04
+
+−0.70
+
+Social safeness
+
+−0.44
+
+0.11
+
+−.29
+
+−3.88**
+
+.26
+
+15.93**
+
+Flourishing
+
+−0.29
+
+0.09
+
+−.24
+
+−3.18**
+
+Internet usage time
+
+0.42
+
+0.33
+
+.07
+
+1.27

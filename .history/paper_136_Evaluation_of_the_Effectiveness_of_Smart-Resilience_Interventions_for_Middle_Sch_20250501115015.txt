@@ -1,0 +1,756 @@
+Storage Preferences
+
+Energy production and consumption play a vital role in the development of nations. The amount of consumed energy per capita is one of the indicators of the developmental pace of a nation. The availability and accessibility of energy greatly influences the lifestyle and the living standards of the people of any country. On the contrary, the industrial and economic growth of a country may be paralyzed due to energy shortages [1], [2].
+
+With the growth of the economy, the energy demands of modern societies increase and the fossil-fuel energy resources are being depleted at an appalling rate [2]. Due to the increased usage of fossil-fuel resources, climate change has also become an alarming challenge to deal with. For instance, the emission of greenhouse gases from fossil-fuel production processes has raised widespread concern over global warming. The estimated global temperature change by human activities is 1°C [3]. These seminal drivers have led both public and private sector decision-makers to believe that the transition towards renewable and sustainable energy is imperative. Consequently, in the past few years, renewable energy (RE) resources have gained prodigious attention [4]–[14]. In 2014, the European Council issued the Framework for Climate and Energy with a target of 27% share of renewable energy consumption by the year 2030 [15], [16]. Similarly, in 2015, to prevent the global mean temperature change from exceeding 2°C, more than 30 nations contributed to the Paris climate change agreement that will take effect in 2020 [17]. According to the Global Status Report on Renewables 2019 (REN21 GSR-2019), renewable energy has a share of more than 33% of the global power generation installed capacity. Solar photovoltaics (PV) accounts for 55%, wind 28% and hydro-electric 11% of the renewable power generating capacity world-wide [18]. The International Renewable Energy Agency (IRENA) predicts that the global RE share will reach 85% of the total energy supply by 2050 [19].
+
+Significant increase in the utilization of RE resources could save considerable cost and greatly help to cope with the challenge of global warming [20], [21]. The emergence of RE technologies has evolved the concept of smart grid in the electrical power system. The “Smart grid” or the “intelligent grid” is an advancement to the traditional power grid. A traditional electrical power grid is an electromechanical, unidirectional grid that carries power from centralized and sometimes remote generation systems to a vast number of consumers who are spread out in the system. As opposed to a traditional grid, a smart grid is a digital, bidirectional network of distributed generators, which has various sensors and has capabilities of self-monitoring, self-healing, remote check/test, and pervasive control [22], [23]. A smart grid can offer unconventional benefits to consumers. For instance, consumers can meet their energy demands by taking energy from the grid, and at the same time they can be energy producers by injecting excessive energy into the grid and receiving economic benefits in return. This mechanism requires net-metering as part of the supporting infrastructure [24]. Thus, net-metering is a policy incentive for RE owners that can encourage the deployment of RE technologies for generating clean and sustainable energy.
+
+A comparative overview of various RE regulatory schemes for the restructured power sector is presented in [25] with a view of overcoming the hurdles in the advancement of renewable energy technologies. The regulatory policies discussed in this paper include the Renewable Portfolio Standard, Net-metering Policy, Renewable Energy Certificate, Electricity Feed-in Law, Public Benefit Funds, Investment Support, Competitively Bid Renewable Resource Obligations, Cost Reduction Policies, Market Infrastructure Policies, Transport Bio-fuels Policies, Emissions Trading Policies, and the Renewable Energy Targets.
+
+Although a lot of research on net-metering has been carried out, there is an absence of a comprehensive review of net-metering in Asia. To bridge the gap, this paper aims to present an in-depth review of net-metering advances and challenges, current RE shares, and future RE targets in the Asian region. Additionally, a case study is performed and an economic analysis of net-metering regulations in an Asian country is carried out. It is envisaged that this contribution will serve as one-stop source of information for researchers working in this topic. More so, this work will provide the guidance to Asian researchers about net-metering policies, rules, and regulations and promote the application of green energy in this region.
+
+This paper is organized as follows: Section II deals with the essential background of the net-metering mechanism, and Section III provides the international experience of net-metering policy. A detailed review of the advancements in net-metering mechanism and the research work available on the net-metering policy frameworks for Asian countries is presented in Section IV; the current RE penetrations and future targets are also given in detail in this section. Section V offers a brief discussion and insights on identified challenges to net-metering policy in some Asian countries. Section VI demonstrates a case study in which the economic evaluation of the current net-metering policy in Pakistan is carried out. Section VII concludes the paper.
+
+Net-metering is a billing agreement between electricity utility provider and consumers that mandates the consumers to possess, operate and benefit from a distributed generation system (Solar PV or other generation system) meeting some or all of their energy consumption needs and getting financial paybacks for any surplus energy injected into the main grid [26]. The local generation consumed (
+Gcons
+i,j,k
+), excess energy (
+Exc
+i,j,k
+), and the net consumption (
+Cnet
+i,j,k
+) can be expressed as follows [27]:
+Gcons
+i,j,k
+=
+Gcons
+i,j,k
+=
+Exc
+i,j,k
+=
+Exc
+i,j,k
+=
+Cnet
+i,j,k
+=
+Cnet
+i,j,k
+=
+Gen
+i,j,k
+for 
+Cbase
+i,j,k
+≥
+Gen
+i,j,k
+Cbase
+i,j,k
+for 
+Cbase
+i,j,k
+<
+Gen
+i,j,k
+Gen
+i,j,k
+−
+Cbase
+i,j,k
+for 
+Cbase
+i,j,k
+≤
+Gen
+i,j,k
+0for 
+Cbase
+i,j,k
+>
+Gen
+i,j,k
+Cbase
+i,j,k
+−
+Gen
+i,j,k
+for 
+Cbase
+i,j,k
+≥
+Gen
+i,j,k
+0for 
+Gen
+i,j,k
+>
+Cbase
+i,j,k
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+View Source
+where
+
+Cbase=
+Energy consumption
+
+Gen=
+Total generated energy
+
+Gcons=
+Generation which is consumed locally
+
+Exc=
+Excess energy injected into the grid (when local consumption is lower than generation)
+
+Cnet=
+Net consumption by the occupants (when local consumption is higher than generation)
+
+And “i” represents each day ranging from 1 to 365 days, and “j” represents the day-moment. For example, for a 15-minute interval “j” ranges from 1 to 96 and the interval “k” can be 1 minute, 15 minutes, 30 minutes, 1 hour, or 1 day.
+
+The expressions (7 and 8) present the annual economic benefits of the net-metering and net-billing mechanisms. Net-billing is a variation in the net-metering mechanism where the energy consumed is kept in a different record than the excess energy injected into the grid; total energy consumed and excess energy injection to the network are valued separately and at different prices.
+IncNM
+k
+=
+=
+IncNB
+k
+=
+∑
+i
+n
+∑
+j
+m
+k
+(
+Gcons
+i,j,k
++
+Exc
+i,j,k
+)×RT1
+∑
+i
+n
+∑
+j
+m
+k
+(
+Gen
+i,j,k
+)×RT1∀k
+∑
+i
+n
+∑
+j
+m
+k
+(
+Gcons
+i,j,k
+×RT1+
+Exc
+i,j,k
+×RT2)∀k
+(7)
+(8)
+View Source
+where RT1 is the retail tariff for billing the total local generation in case of net-metering. In the net-billing mechanism, RT1 is used to bill the total generation consumed and RT2 is used for the surplus energy injected into the grid [24].
+
+The net-metering concept is being used widely in various countries to exploit green energy resources with the view of overcoming global warming challenges and ensuring a sustainable and clean energy provision to consumers. The successful implementation of the net-metering policy, in various forms, has been carried out in the United States of America (USA), Canada, Australia, Italy, Belgium, Cyprus, Denmark, the Netherlands, Greece, and Japan [28]–[32]. In the USA, as of 2018, 47 states and Washington DC have net-metering policies in place for the promotion of RE technologies [33]. According to the Global Status Report on Renewables 2019 (REN21 GSR-2019), as of year-end 2017, net-metering/net-billing policy frameworks have been announced/implemented for at least 66 countries on a national/sub-national level [18]. The advancement in net-metering/net-billing policy is shown in Fig. 1.
+
+Number of countries with net-metering/net-billing policy.
+
+Show All
+
+Over the years, the net-metering policy has proved to be an essential motivation for the promotion of grid-tied distributed generation resources. Currently, there is hardly any survey on the advancements of this policy incentive in Asia. In this research, the Asian region is divided into five sub-regions: Southern Asia (also known as South Asian Association for Regional Cooperation (SAARC) countries), Western Asia, Central Asia, Eastern Asia, and Southeast Asia, as shown in Fig. 2 [34].
+
+The regional division of the Asian continent [34].
+
+Show All
+
+This segment underscores the advancements in the net-metering mechanism and the research work published on net-metering policies for the promotion of RE technologies in South Asian countries and their future RE targets. South Asia consists of Pakistan, Sri Lanka, India, Bangladesh, Afghanistan, Nepal, Bhutan, and Maldives [35].
+
+Presently, the energy supply-demand gap in Pakistan lies between 3000-5200 MW with a constant annual rise of more than 9%; however, the increase in annual power generation capacity is nearly 5% [36]–[39]. Various efforts have been made by national and international organizations (including the Asian Development Bank and the World Bank) to overcome the energy shortfall in the country. However, the efforts presently made to tackle the challenges of energy deficit, climate change, and transition towards sustainable RE technologies are inadequate. In 2010, the share of RE was found to be less than 1% of the total energy generation in the country. The government of Pakistan has set a target of achieving 20% and 30% of generation capacity by alternative and renewable energy technologies by 2025 and 2030, respectively. Previously the RE target was set to be 5% share in total generation by 2030 [38], [40]–[43]. To reach this target, the government of Pakistan has announced different incentive programs for the promotion campaign of renewable energy technologies. In October 2014, the National Electric Power Regulatory Authority (NEPRA) drafted a net-metering policy for encouraging the green energy generation (1-1000 kWp) in Pakistan to bridge the electric power supply-demand gap by exploiting RE technologies, especially solar PV. The government of Pakistan approved the net-metering regulatory laws at the start of 2015. In the first week of September 2015, NEPRA announced the net-metering regulations. As per announced regulations, the three-phase consumers who own solar or wind generators can sell their excess energy to the distribution companies (DISCOs) after getting licensed under current NEPRA regulations [44], [45]. In 2017, Pakistan expanded net-metering from a few cities to the entire country. As of year-end 2019, a total of ~1150 net-metered distributed generation systems of the net gross capacity of 19.55 MW, including 1 MW solar installation in Parliament House and 178.08 kW each in PEC and Planning Commission buildings, have been installed. Pakistan aims to achieve 1 GW and 4.5 GW of net-metered installed capacity by 2020-21 and 2025, respectively [18], [37], [38], [46], [47].
+
+In Ref. [48], a case study of the solar irradiance and the prospect of a grid-tied solar power generation system with a net-metering mechanism in Pakistan was presented. This paper investigates the solar irradiance in Pakistan and the necessity of grid-tied solar generated power systems to undermine the ongoing energy crises in developing nations like Pakistan. The potential obstacles in the path of implementation of the net-metered on-grid solar generation systems are also discussed, along with the proposed solutions. The discussed barriers include discouragement by electric utility companies, lack of local production of equipment and technical capability at different organizational levels of the DISCOs, lack of awareness, inadequate access to tailored finance options, and reliable indigenous suppliers [49].
+
+Energy security, energy shortfalls, energy access, and climate change are the fundamental drivers for the advancement and implementation of new and renewable energy resources in India. Between the years 2014-2015, energy shortfall was found to be 2.4%. Numerous efforts were made to bridge the energy supply-demand gap in the country. India has an estimated RE potential of approximately 900 GW by utilizing commercially exploitable resources, especially 750 GW by solar means. India has increased its targets to utilize renewable resources, and the government has set a target of achieving 175 GW by exploiting the RE resources by 2022 with 100 GW by solar energy only. The 100 GW target was set under the Jawaharlal Nehru National Solar Mission (JNNSM) and it would comprise of 40 GW by Rooftop Solar PV (RTPV) and 60 GW by large and medium scale grid-tied solar systems. The Indian government has also set a target of achieving 40% share of its total electricity generation by RE means by 2030 as per Global Status Report 2019 on Renewables. It is important to note that India does not classify hydropower generation greater than 25 MW as Renewables, so the hydropower installations greater than 25 MW are not included in the share and future RE targets for India. The Ministry of New and Renewable Energy (MNRE) and the announcement of the 2010 National Solar Mission emphasized the implementation of net-metering alongside the Feed-in Tariffs (FiT) policy [18], [47], [50], [51]. With the advent of net-metering incentive policies in India, the dream of achieving the goals of solar-based clean energy seems to be realistic. According to the available statistics of MNRE, as of 2016 the Indian government has formulated the net-metering regulations on a sub-national level for 26 of its states and all union territories out of 29 states and 7 union territories [18], [47], [52].
+
+Net-metering regulations were implemented in 2015 in some of the major Indian states including Rajasthan, Punjab, Maharashtra, Andhra Pradesh, and Madhya Pradesh. The maximum allowable capacity cap in these states is up-to 1 MWp, except Madhya Pradesh where it is up-to 2 MWp. In Andhra Pradesh, only three phase consumers are eligible for net-metering, whereas in Rajasthan, all the consumers are eligible to take advantage of the net-metering policy. In Delhi, Haryana, and Tamil Nadu, net-metering regulations came out in 2014. Delhi, Tamil Nadu, and West Bengal imposed no limit on maximum allowable capacity, but in Haryana this limit is up-to 1 MWp. In Haryana, Delhi, and Tamil Nadu, all the consumers are eligible, but in West Bengal, only institutional consumers like hospitals, colleges, government departments are eligible for net-metering. Moreover, there is no capacity cap for eligible RE sources; however, the lower limit is 5 kWp is imposed. Gujarat and Karnataka implemented the net-metering policy in 2016 with a maximum capacity limit of up-to 1 MWp. Karnataka considers all the consumers in their net-metering regulations. In Gujarat, government, residential, commercial, and industrial institutions are considered eligible for implemented policy [53]–[57].
+
+Thakur and Chakraborty [58] investigated seven different novel net-metering billing arrangements for RE resources with a view of their appropriateness for different kinds of consumers in the Indian scenario. For a vast segment of the Indian population, the per capita energy consumption is quite low (i.e., 917 kWh) and the individual net-metering mechanism is impractical; hence, it is vital to introduce alternative and more feasible net-metering policies for the success of grid-connected RE sources. The discussed net-metering systems are community net-metering, aggregate net-metering, virtual net-metering, multi-site aggregation, utility-sponsored model, special purpose entity, and the nonprofit model. This paper also suggests improvements in the current net-metering policy and standards for the Indian market. In [59], Thakur et al. presented a more practical and efficient model of a net-metering billing mechanism for solar PV generation in India. In this paper, the data collected from three different types of consumers is simulated and the proposed model is found to be more scalable and financially viable than the plain net-metering scheme; more customers are anticipated to participate in new the net-metering arrangement as it presents fewer risks and more benefits in terms of finance and optimal location.
+
+Table 1 summarizes the development of net-metering policy, range of tariff rate at which excess energy is injected into the grid, capital investment cost of RE sources, and future targets and current shares of power generation from RE sources in South Asian countries. It is found out that on average the capital investment cost for solar PV is in the range of $850-1000 per kWp.
+
+In Puducherry, a pilot project has been implemented under a simple net-metered mechanism to assess and comprehend the performance of solar-based green energy generation. A comprehensive comparison of net-metering and gross metering is presented in [60] by analyzing the collected data from three different kinds of customers from the project at Puducherry. The study emphasized devising a feasible and acceptable RE policy framework for India that could accommodate both the aggregate and the community net-metering policy instruments. In [85], Ghosh et al. presented a techno-economic review of industrial, residential, and off-grid solar rooftop PV generation systems in Bangalore, Karnataka India. This paper aims at assessing the financial feasibility of RTPV-based systems in Bangalore. As shown by the research, the RTPV potential in Bangalore alone is approximately 560 MW. To attain this potential, the “Karnataka Electricity Regulatory Commission” and the “Karnataka Renewable Energy Development Limited” designed a net-metering policy framework. The techno-economic analysis suggests that the proposed net-metered rates are feasible for the consumers; however, a limit of 75% on the installing capacity of RTPV systems, based on rated load, is frustrating the momentum of the net-metering scheme in Karnataka. However, due to this restriction imposed by BESCOM (Bangalore Electric Supply Company), the energy generated cannot exceed the monthly consumption of energy. The author inferred that the current net-metering incentives could result in a payback period of 6 years if the limit of 75% is removed.
+
+In [86], Dutta et al. proposed a model for estimating saved revenue and payback periods in the net-metering environment, depending upon the maximum solar panel generating limit. The suggested model takes the consumer’s everyday demand curve and estimates the renewable energy generation as input. The proposed modeling analysis is performed with the help of Simulink MATLAB. The obtained results conclude that the economic benefits of the net-metering scheme are beyond any doubt; the results indicate that the payback period decreases initially with the maximum generating capacity of solar panels up to 4 kW and then increases after that. Therefore, at the time of selecting the solar panel’s maximum ratings, the consumers should also consider the maximum limit set by the government as well as the trend indicated by the results of the analysis presented in this study. Shivalkar et al. [87] performed a feasibility analysis for the net-metering implementation with rooftop solar PV generation for the commercial customers of Reliance Energy in Mumbai, India. In this study, the yearly savings of electricity and the economic feasibility of 15 kWp solar PV are analyzed. The analysis shows that energy consumption of 36500 kWh per month results in an annual saving of Indian Rs. 259,200, a payback period of 4.63 years, and a decrease of approximately 21.6 tons of CO2 per year.
+
+In [88], Reddy and Yohan proposed a novel approach to design a residential grid-connected solar PV system by using a relay controlling technique under the Indian net-metering mechanism. This paper investigates the impact of net-metering on the economic benefits of grid-tied solar PV generation to the consumers by considering the different net-metering policies in Indian states. The proposed design and controlling mechanism not only increase the efficiency of the solar PV system, but it also enables an individual customer to act as a green energy supplier to the utility grid. Furthermore, individual consumers would be able to use electricity at any time without disruption. Suresh Mer et al. [89] presented a review of the future trends in Distributed Generation (DG) systems. Some of the common distributed energy systems subsume rooftop solar PV, small wind generation, fuel cells, microturbines, energy storage devices, and combined heat and power (CHP) systems. In this paper, three different tariffs are discussed, namely, Power Purchase Agreement (PPA), Feed-in Tariff (FiT), and Net Energy Metering (NEM). The advantages and disadvantages of FiT and NEM are also presented in this paper. In the conclusion, the author underscored the barriers to implementing DG systems such as lack of pertinent knowledge and awareness regarding renewable energy technologies as well as the billing policies.
+
+Sahanaa Sree et al. [90] examined the viability of the net-metering billing scheme for residential solar PV generation across Tamil Nadu, India. In this paper, the analysis is carried out based on altering the consumption pattern into low, moderate, and high consumption. The annual savings and the payback periods are analyzed, and it is inferred that higher consumption results in more annual savings and consequently, a shorter payback period. Moreover, it is observed that the savings and payback periods could be improved further by availing the state subsidy provided for the rooftop PV systems and the generation-based incentives. Daisy Das [51] discussed the suitability of the net-metering incentive for the promotion of rooftop solar PV generation in India. The author inferred that the net-metering incentive is best feasible in an energy deficient country like India. He further claimed that the rooftop PV generation in India is still in its rudimentary stages; therefore, only after fulfilling their self-energy consumption could the consumers think of selling any surplus energy to the grid. Only after that would they be able to focus on the FiT tariffs for the contract-based injection of green energy in the national grid. Table 2 summarizes the development of the net-metering/net-billing policy in India.
+
+In 2010, the government of Bangladesh identified the significance of RE sources and established its RE strategy policy for the promotion of the green energy campaign; it set a target of producing 10% and 100% of its electricity needs by 2020 and 2050 respectively by utilizing RE technologies [18]. The RE share in Bangladesh was found to be 3.5% by the year-end 2015 [91]. Mojumdar et al. presented the design and analysis of the optimized grid-connected solar PV system under the net-metering framework for the city of Dhaka, Bangladesh. In this study, the author proposed the designing of control systems of inverter, converter, and anti-islanding for the optimized grid-tied solar system. At the end of the study, the scope of the proposed system with respect to the domestic residents of Dhaka is investigated [92]. GSR-2019 on Renewables states that Bangladesh has not adopted any regulatory policy except tendering [18].
+
+Wijayatunga [66] discussed the policies for the promotion of energy generated by renewable technologies for the Sri Lankan scenario. The energy policies and strategies of the Sri Lankan government for the growth of non-conventional renewable energy sources (NCRE) are analyzed in this paper. The energy policy recognized biogas, small hydro, and wind-based energy generation as the prominent NCRE sources to be adopted in Sri Lanka. It set renewable power generation targets of 20%, 50% and 100% by 2020, 2030 and 2050, respectively [18]. The author also discussed the implementation of the net-metering policy in Sri Lanka. on the advice of Sustainable Energy Authority (SEA), the Ceylon Electricity Board (CEB) and the government agreed to practice the net-metering regulations for the connection of NCRE to the national grid by 2009. The author further maintained that if properly designed, the net-metered based systems could make the dream of carbon-free energy a reality. This paper infers that Sri Lanka has been successful thus far in implementing various RE policy frameworks, and it has set a precedent for similar nations to make their dreams of green energy generation come true [47], [63].
+
+Nepal announced net-metering regulations in 2018, at the national level, for distributed generation systems no more than 1 MWp. Nepal has set the target of achieving 100% share of electricity generation with RE resources by 2050 [18], [72], [75]. In Nepal, the majority of the population has no access to electricity, and the planned load shedding duration is as lengthy as 20 hours in dry season [93], [94]. In Nepal, independent power producers (IPPs) has applied the concept of net-metering to get more monetary benefits [72]. In [94], the impact of the small-scale distributed grid-tied solar generation systems on load shedding in Nepal is discussed. The five 1.11 kWp grid-tied solar PV systems were installed at three different locations within the Khathmandu valley and their performance was monitored for a year with a view of analyzing their impact on the reduction of load shedding of the electric power.
+
+Bhutan, Maldives, and Afghanistan have set the targets of achieving 100% share of electricity generation by RE resources by 2050 [18]. The Maldives Energy Authority (MEA) inaugurated the net-metering regulations in December 2015 [70]. However, as per REN21 GSR-2019, there are no net-metering regulations announced for Afghanistan thus far. Fig. 3 shows the targets to generate electric power from RE sources for South Asian countries.
+
+RE targets set by South Asian countries.
+
+Show All
+
+This section highlights the progress in net-metering and the research work available on net-metering policies for the promotion of RE technologies in the West Asian region. Additionally, it presents the future Renewable Energy goals of the countries in this region. West Asian countries considered in this study include United Arab Emirates (UAE), Jordan, Turkey, Israel, Kuwait, Iran, Qatar, Bahrain, The Kingdom of Saudi Arabia, Yemen, Iraq, Lebanon, Oman, Azerbaijan, Palestine, and Syria.
+
+UAE does not have any national level RE target. Abu Dhabi has set a goal of achieving 7% of its energy generation (about 460 MW) by exploiting the RE resources (especially the solar based clean energy) by 2020. Dubai has also stepped forward to adopt the RE-based green energy generation; in 2011, it launched its “Integrated Energy Strategy 2030” and set the targets of achieving 1% and 5% of its energy needs by RE technologies by 2020 and 2030, respectively. Later in 2015, it increased the targets to 7% and 15% respectively; thus, by 2030, Dubai is expected to produce 3 GW of its energy demands by RE means especially by utilizing the solar-based technologies. Dubai also aims to achieve 75% of its electricity generation from RE sources by 2050 [47], [95]–[97]. Griffiths and Mills [98] comprehensively discussed the potential of RTPV in the advancement of the energy system of the United Arab Emirates. In the Middle East region, Lebanon, Jordan, and recently UAE have established net-metering regulatory frameworks for the promotion of green energy generation. Abu Dhabi has not introduced any incentive program yet; however, it has mandated its private owners to generate solar-based energy. On the other hand, Dubai designed a net-metered based incentive program in 2014 for connecting the solar generating unit to the grid, known as Shams Dubai, which places no limitation on the number of RTPV based systems that may take part in the scheme. The generation capacity limit was set to be equivalent to the total permitted load of each participant. Despite the restriction on generation capacity, consumers were mandated to generate more energy than they consume and to receive the monetary benefits in monthly bills by injecting the excess energy into the grid. The comparison of the net-metered incentive frameworks for the implementation of solar PV units in UAE is also presented in this paper. As of 2014, 12 MW net-metered projects have been implemented in UAE (Shams Dubai) [95].
+
+Table 2 summarizes the development of net-metering policy, range of tariff rate at which excess energy is injected into the grid, capital investment cost of RE sources, and future targets and current shares of power generation from RE sources in West Asian countries. It is found out that on average the capital investment cost for solar PV is around $1150 per kWp.
+
+Al Zou’bi [99] discussed the potential of using various RE technologies for the Jordanian scenario. The author investigated the agreement between power consumption variation and the power generated by RE resources, especially wind and solar-based generation. He further maintains that new sites for wind projects were assessed and the pre-installation phase was kicked off. Jordan devised a package of regulations for the development of RE sources and set a goal of generating 10% of its energy demands by RE sources by 2020. However, it failed to accomplish its previous target of generating 7% of its energy by renewable means by 2015; it has achieved only 2% of its energy generation by RE means. Marei recommended that in order to reach its target of generating 10% energy from RE technologies by 2020, Jordan should revise its RE policy instruments and diagnose potential loopholes in the existing regulations [128], [129].
+
+Tousand Abdelhafith [100] performed a feasibility analysis of the residential grid-tied solar PV system under the net-metering regulations of Jordan, which has a potential of producing energy from renewable resources, especially from solar means, since it has a daily average of 5.8 peak hours of sun. In this study, the feasibility analysis of 3 kWp solar power system for low, medium, and high consumption scenarios is presented and the payback periods for these scenarios are compared. It is observed that the payback period for a high consumption scenario is quite a bit shorter. Hadjipanayi et al. [102] discussed the prospects of solar PV energy generation for the Mediterranean and Middle Eastern regions. He states that the landscape of RE regulations is in its investigative stage in the MENA (Middle Eastern & North African) region and is developing speedily, thereby enabling the PV projects to become the backbone for this region. He further states that net-metering billing legislation is in place in Jordan since before 2012.
+
+In [4], Tükenmez and Demireli noted long-lasting benefits of RE technologies including job security, CO2 reduction, energy security, business opportunities, and job creation. This study presents the outlook of RE regulatory policy frameworks for promoting the green energy campaign in Turkey. Turkey has set a target of generating 30% of its energy needs by utilizing RE means by 2023. Authors recommend that Turkey should develop more efforts to surmount challenges like lack of awareness, information and training, administrative barriers, and impediments to grid access, so that it can thrive in the carbon-free green energy arena. According to GSR-2019 on Renewables [18], Turkey has not yet announced a net-metering policy; however, it embraced Feed-in Tariffs (FiT) for the promotion of RE technologies. In Israel, Public Utilities Authority – Electricity (PUA) implemented the net-metering regulations on a national level in 2013, with an established installation cap of 400 MW till 2014.
+
+These policy frameworks were introduced to encourage the RE-based small scale producers to collect financial advantages for the excess energy injected into the grid [102], [119]. Global Status Report 2018 on Renewables states that the Israeli government previously set a target of attaining 10% RE shares by 2020; recently in 2015, it revised its goal to achieve 17% RE shares by 2030 [18], [47].
+
+According to the Global Status Report on Renewables 2019 [18], [47], Kuwait aims to achieve 6.6 GW installed capacity and/or generation of power from solar and wind sources by 2030. It also set a target of producing a total of 5% and 10% electricity by RE resources by 2020 and 2030, respectively. Qatar, on the other hand, has vowed to attain 2% and 20% RE shares of its electricity generation by 2020 and 2030, respectively [130]. Iran has pledged to achieve 5 GW installed capacity and/or generation of power from solar and wind sources, and it also announced the Feed-in Tariffs, on a national level, for the promotion of clean energy [18].
+
+In Ref. [131], the authors state that Iran aims to achieve 15% of its total power generation by utilizing renewable means by 2030, and The Kingdom of Saudi Arabia (KSA) pledges to generate 30% of its total electric power with RE sources by 2030 [110]. Also, Saudi Arabia aims to achieve 54 GW installed capacity and/or generation of electricity from RE sources (with 16 GW solar only) by 2040 which is roughly more than 90% of its current installed capacity (~58 GW). In 2017, the Saudi Arabian government approved a net-metering scheme for solar PV generation up to 2 MW. Recently, the KSA pledged to embrace “the Saudi Vision 2030” to make a transition from its traditional state into a sustainable and green state [132]. The targets for electricity generation from RE means for Yemen and Iraq are set to 15% and 10% by 2025 and 2030, respectively. Yemen also has a target for achieving 100% power generation from RE means by 2050. Lebanon pledged to achieve the RE shares of 12% and 100% of total electricity generation respectively by 2020 and 2050, respectively [18], [47], [95]. The government of Iraq has not announced any net-metering policy thus far; however, the Ministry of Electricity is considering the revision of electricity tariffs to introduce a net-metering incentive policy for the advancement of RE sources [126].
+
+The net-metering/net-billing regulations are already in place on a national level in Lebanon. The net-metering regulations were formulated and adopted by the “Electricité du Liban (EDL)” board in 2011. The EDL board’s decision was approved by the Ministry of Energy and Water and the Ministry of Finance, and the net-metering policy was enacted for the integration of distributed generators (solar, wind biomass, and small hydro generators) with the national grid. As of 2014, 2 MW net-metered projects have been implemented in Lebanon [126], [133].
+
+Azerbaijan plans to attain 20% of its electricity generation from renewable resources by 2020 as per GSR-2019 on Renewables [18]. The state of Palestine pledged to generate 10% and 100% of its total electricity by RE means by 2020 and 2050, respectively; to achieve this goal, its cabinet approved net-metering regulations in 2012. As of 2014, 4 MW net-metered projects have been implemented in the State of Palestine. Syria also announced net-metering regulatory frameworks in 2010 on a national level for the proliferation of clean and sustainable energy technologies, but the advancement in the promotion of net-metering policy has significantly staggered, mainly due to the difficult political situation in Syria. It also vowed to achieve 1.1 GW and 1.5 GW installed capacity and/or generation, respectively, from solar and wind sources by 2025. The Syrian government also set a target of meeting 4.3% of its primary energy needs from renewable sources by 2030 [18], [47], [95], [122], [126]. As per GSR-2018, Bahrain is one of the six countries which announced their net-metering policy in 2017; furthermore, it pledged to achieve 5% renewable power target by 2030 [18], [47]. As of year-end 2017, Oman’s RE share of the installed capacity was only 0.11%, and it pledged to achieve 10% RE share by 2020 [95]. Fig. 4 shows the future targets to generate electricity from RE sources for West Asian countries.
+
+RE targets set by West Asian countries.
+
+Show All
+
+Central Asia includes Turkmenistan, Kyrgyzstan, Tajikistan, Kazakhstan, and Uzbekistan. East Asian countries are Japan, China, Hong Kong, Macao, South Korea (the Republic of Korea), North Korea, and Mongolia [134], [135].
+
+The small-scale hydro-power target set by Tajikistan is to achieve the installed capacity and/or generation of 100 MW by 2020. Kazakhstan aims to attain 3% and 50% of electricity generation from renewables by 2020 and 2050, respectively. The FiT policy frameworks exist on a national level in Kazakhstan; however, no net-metering legislation has been announced yet. As of 2017, the renewable energy share of Uzbekistan was 12.6%. Moreover, it aims to achieve 19.7% of its total electricity generation by RE resources by 2025 [18]. However, no data on future RE targets and net-metering regulations have been found for Turkmenistan and Kyrgyzstan.
+
+Table 3 summarizes the development of net-metering policy, range of tariff rate at which excess energy is injected into the grid, capital investment cost of RE sources, and future targets and current shares of power generation from RE sources in Central and East Asian countries. It is found out that on average the capital investment cost for solar PV is around $1400 per kWp.
+
+As of 2014, the RE share of electricity in Japan was 12.2%. Japan previously set the targets to achieve 13.5% and 20% RE shares by 2020 and 2030 respectively; however, it recently increased its RE targets to 22-24% by 2030. Japan also pledged to tap ocean power (wave and tidal means) by setting the goal of attaining 1.5 GW installed capacity and/or power generation by 2030. Japan is the leading country in Asia to introduce the net-metering policy for the exploitation of distributed generation systems in the country; it adopted net-metering in 1990 and set the precedent for other countries to promote the sustainable and green energy technologies by embracing net-metering policy [18], [47], [49], [136]. As of 2014, 94% of the photovoltaic systems installed in Japan are residentially grid-tied systems under net-metering policy frameworks [143]. Table 4 summarizes the development of net-metering/net-billing policy in the East Asian region.
+
+China previously vowed to enhance its solar power installed capacity and/or generation to 100 GW by 2020, and in 2015, it revised its target of realizing 150 GW with solar generation by 2020. As of 2015, the installed solar PV capacity and/or generation was 17.8 GW and it is expected to be increased to 70 GW by 2017. In 2015, the government of China also increased its wind power targets from 200 GW to 250 GW by 2020. As of 2016, the total national consumption of renewable electricity was 25.3% of the total electricity consumption with yearly growth of 0.9%. Previously, the overall renewable energy target set by China was 27% by 2020. Recently, China set a target of generating 35% of power from RE means by 2030; however, it has not yet adopted the net-metering policy [18], [47], [144].
+
+As of 2014, RE share of electricity generation for Mongolia was found to be 4%. Previously, Mongolia has set a target to generate 20-25% of its electricity from alternative sources by 2020. In 2015, it revised its RE goals and pledged to produce 20%, 30%, and 100% of total electricity demand from clean resources by 2020, 2030, and 2050 respectively; nonetheless, no net-metering policy has been announced by the government of Mongolia. The Republic of Korea plans to realize future targets of meeting 5%, 6%, 7%, and 20% of its total electricity generation by exploiting the renewable technologies by 2018, 2019, 2020 and 2030, respectively [18]. Net-metering regulations have already been enacted on a national scale in South Korea for integrating locally distributed generation systems with the national grid [47], [136]. Fig. 5 shows the targets to generate electricity from RE sources for Central and East Asian countries.
+
+RE targets set by Central and East Asian countries.
+
+Show All
+
+This section underlines the developments in net-metering and the research work available on net-metering policies for the promotion of RE technologies in Southeast Asian countries and their future Renewable Energy targets. Southeast Asia includes Thailand, Philippines, Indonesia, Singapore, Malaysia, Myanmar, Brunei, Laos, Cambodia, Vietnam, and Timor-Leste [145].
+
+In Thailand as of 2014, the share of RE sources for electricity generation was found to be 5% and the government planned to achieve 20% by 2036. In 2015, the RE goals were revised and the government pledged to generate 20% of the total electricity by utilizing renewable sources by 2036. It is important to note that Thailand does not classify hydropower generation greater than 6 MW as renewable, so the hydropower installations greater than 6 MW are not included in the share and future RE targets for Thailand [18], [47]. Thailand is also one of the pioneers in the Asian region to introduce the net-metering regulations for the promotion of green energy in the country. The government of Thailand first passed its net-metering legislation in 2002. Greacen et al. [28] discussed the introduction of net-metering policy in Thailand, future financial opportunities for rural-based small-scale green energy producers, and potential challenges to net-metering in Thailand. The author also discussed the solutions to surmount the barriers in the promotion of net-metering policy. In Thailand, the allowed power production from grid-connected resources, such as solar, biogas, wind, and micro-hydro generators, is up to 1MW per installation. The producers are paid at a rate that is 80% of the retail rate if the injected net energy to the grid is more than the net consumption in a monthly period [29]. As of 2006, 95 very small renewable energy power producers (VSREPP) projects were completed, and 67 of those were solar PV based projects. VSREPP are the energy producers that sell less than 1MW to the utility company and capitalize the renewable energy means, such as agricultural and factories wastes, residuum or by-product steam, for electricity production [146].
+
+In [147], Tongsopit et al. discussed the business models and economic options for the fast expansion of rooftop solar generation in Thailand. The author investigated the drivers for the advent of business models, challenges to their development, and hazards from the business owners’ and customers’ point of view. He also emphasized that the comprehensive regulations on tariffs, rolling credit timeframes, and capacity caps should be devised judiciously to ensure evenhandedness between net-metered and non-net-metered consumers. He further maintained that presently there is no agreement on the definition and details of net-metering. The author inferred that the government should play a part in assisting the involvement of stakeholders at the time of outlining net-metering legislation. The stakeholders should comprehend the influence of various net-metering policies on the economics of solar system acceptance among different consumer factions and the price and recompenses of net-metering to the utility company. Such an understanding would be a helping hand in designing a net-metering scheme which would assist the expansion of solar PV production as well as make the utility companies prepared for potential adjustments of business models in the future.
+
+As of 2014, the share of RE sources for electricity generation in the Philippines was found to be 29%, and it aims to achieve 40% and 100% RE shares by 2020 and 2050, respectively. The government of the Philippines officially approved net-metering regulations on a national scale in July 2013 and mandated the RE owners to connect their distributed generation systems (up to 100 kWp) with the national grid and get paid for the excess energy injection [18], [47], [148], [149]. Dellosa, in [150], presented the analysis of economic payback of solar PV based systems and the potential influence of net-metering regulations in Butuan City, Philippines. The Philippines is enhancing its RE based generation, particularly grid-tied residential solar PV generation; however, the net-metering is in its nascent stages. The net-metering policy in the Philippines mandates the residents and the business owners to interconnect their solar PV based systems of ratings no more than 100 kW power with the distribution utility network. This study reveals that majority of the residential and commercial consumers of “Agusan del Norte Electric Cooperative, Inc. (ANECO)” are well-aware of the benefits of the solar PV systems, but a vast majority of consumers are unaware of the net-metering incentives. The financial feasibility of the 1.5 kW and 5 kW power systems is investigated and the investment on solar PV based installations is found out to be worthwhile. It is inferred that the government must accelerate the awareness campaign to educate its denizens about the monetary incentives of net-metering policy so that the investment in this sector could flourish.
+
+Table 4 summarizes the development of net-metering policy, range of tariff rate at which excess energy is injected into the grid, capital investment cost of RE sources, and future targets and current shares of power generation from RE sources in Southeast Asian countries. It is found out that on average the capital investment cost for solar PV is around $1640-1865 per kWp, which is highest among all studied Asian sub-regions.
+
+In 2000, Singapore had the installed solar PV capacity of 10 kWp, and it remarkably improved the capacity to 2000 kWp in 2009. However, there are various impediments in the development of Solar PV technology in Singapore: one of the potential challenges to solar PV is that the government is resolutely committed to meet its energy demands by consuming fossil fuels. Secondly, the installed capacity of power plants in Singapore is far more than its current energy demands; roughly 43% of the installed power plant capacity is being utilized to meet its energy needs. This poses a hurdle in the promotion of alternate energy resources in Singapore. Lastly, the government of Singapore is generally wary of incentive schemes and subsidies. On the whole, in the presence of such challenges, the future of solar PV in Singapore is undecided [151]. The net-metering regulations were announced in 2011-2012 in Singapore, on a national level, for the integration of distributed RE sources within the national grid. The solar power installed capacity and/or generation goal set by the government was 350 MW by 2020. An overall goal to achieve 8% RE shares of the total electricity generation was set in 2015, but no deadline was set for reaching this target [18]. Indonesia set its medium-term renewable energy target to 26% by 2025 and its long-term renewable energy target to 31% by 2050 [18], [179]. In December 2013, net-metering regulations (PLN No. 0733.K/DIR/2013) were introduced by “Perusahaan Listrik Negara (PLN)” in Indonesia for the integration of distributed generators within the grid [180], [181].
+
+The government of Vietnam vowed to generate 7%, 10%, and 100% of its total electricity from renewable sources by 2020, 2030, and 2050, respectively [18]. Feed-in Tariff regulations were enacted on a national level in the country. Malaysia has also set future goals for producing 9%, 11%, and 15% of its total electric power by exploiting clean energy sources by 2020, 2030, and 2050, respectively. Malaysia announced net-metering policy for rooftop solar generation in 2015 and revised in 2018. Eligible sectors include residential, commercial, industrial, and agriculture. Vietnam introduced net-metering regulations in 2017 for residential consumers and recently revised in 2019. Myanmar has also set a target of 27% power generation from RE sources by 2030. Cambodia set its RE goals to 25% and 100% by 2035 and 2050 respectively [18], [47]. However, no data is found for future renewable targets and net-metering policy regulations in Brunei, Laos, and Timor-Leste. Fig. 6 shows the targets to generate electricity from RE sources for Southeast Asian countries.
+
+RE targets set by Southeast Asian countries.
+
+Show All
+
+This section presents some of the major barriers in the development of net-metering policy in Asian countries. Some of the identified barriers include absence of net- metering regulations, resistance by distribution companies (DISCOs), capacity cap for net-metered RE installation, country-wide (or state-wide) net-metering capacity cap, lack of awareness in authorities about the implementation process, lack of appropriate technical staff training for net-metering system installation, procedural barriers, lack of awareness in consumers, high investment cost, inconsistent regulations among different states, lack of coordination between government policies and state regulators, and unattractive net-metering compensation practices, and additional charges for interconnection with the grid.
+
+One of the major barriers to net metered renewable generation in Asia is the absence of regulatory frameworks. This study identifies that net-metering has not been announced/implemented in following countries yet: Bangladesh, Afghanistan, Bhutan, Turkey, Kuwait, Iran, Qatar, Yemen, Iraq, Oman, Azerbaijan, Turkmenistan, Kyrgyzstan, Tajikistan, Kazakhstan, Uzbekistan, China, Hong Kong, Macao, North Korea, Mongolia, Myanmar, Brunei, Laos, Cambodia, and Timor-Leste. Some countries have not announced net-metering on national level, for example India has implemented net-metering regulations on sub-national level in 26 of its 29 states [47], [52], [182]. Similarly, UAE has implemented the net-metering policy in only 2 of its 7 emirates [98], [183].
+
+Second chief hindrance to net-metering growth is the passive opposition from DISCOs; they express concern about loss of usage-based revenues. Some utilities maintain that paying the excess energy injection from net-metered DGs at retail tariff rate is tantamount to giving subsidy to DG owners since retail tariffs include the cost of energy generation, cost of transmission and distribution infrastructure and its maintenance, administrative cost, and utilities’ profit. Some utilities believe that net-metering policy causes safety concerns and loss of true information about customers load [48], [54], [184].
+
+Currently, net-metering regulations in most Asian countries impose a maximum capacity limit of 1 MWp on eligible RE installations. In majority cases, this capacity limit is same for all the eligible sectors participating in net-metering, which poses a major hurdle for industrial and commercial RE installations. This bottleneck can be overcome by allowing the grid integration of eligible RE installations having the maximum capacity equal to their sanctioned load [54]. Another related hurdle to net-metering is the country-wide (or state-wide) capacity cap: for example, Israel have a country-wide cap of 400 MWp. Consequently, this limit will impact the total number of net-metered RE installations in future [118].
+
+Grid interconnection requirements also pose a bottleneck to widespread adoption of the net-metering policy. For example, net-metering regulations in Pakistan do not allow single-phase consumers to sell the excess generation back to utilities, which hinders the vast majority of population from installing the grid-connected net-metered systems [185].
+
+In some cases, there is a lack of awareness in authorities responsible for the implementation of net-metering systems, which may result in misinterpretation of the process/regulations and may cause undesirable delays and discouragement to potential new installations. Moreover, lack of appropriate technical staff also causes unwanted delays in the process of installation and maintenance of the net-metered systems. Authorities and technical staff should be equipped with appropriate trainings and courses related to net-metering regulations and implementation process. Furthermore, the complicated implementation procedure and lengthy approval processes may also hinder the growth of net-metered installations and discourage the potential applicants; hence, it should be made as simple as possible. [48], [54].
+
+It is observed that consumers are unaware of the economic and ecological benefits of the net-metering policy. For example in [48], Qamar et al. pointed out that in Pakistan, there is a lack of awareness in policy makers and consumers about the net-metering and its monetary and environmental benefits. Furthermore, there is a lack of economic assessment studies of net-metering, its feasibility, and payback periods of the net-metered RE installations. In this regard, this paper provides a case study which assesses the economic benefits of the current net-metering regulations and provides the payback period of the solar PV investment for a residential building in Islamabad, Pakistan. Moreover, awareness campaign for public should be launched and economic, environmental, and societal benefits including, but not limited to, improved resilience and reliability of the power network and air quality benefits of the net-metering scheme should be spread. In addition, general apprehension about reliability and sustainability of the RE technologies should be addressed.
+
+Another key hindrance to net-metering growth is high investment cost of the net-metering system, which mainly consists of grid-tied inverter (GTI), and one two-way meter or two one-way meters [39], [48]. In addition, as mentioned in Table 1, 2, 3, and 4, the capital investment cost of the RE technologies is also high for some countries which also poses a hurdle in widespread installation of the net-metered RE system. It is observed that local production of the net-metering system is not prevalent in Pakistan and other developing countries in Asia. Therefore, in the short run, governments need to subsidize the import of net-metering related equipment to boost the development of net-metering policies; in the long run, local development of net-metering system could serve as viable solution to lower the investment cost.
+
+In [54], Dhankhar et al. identified inconsistence net-metering regulatory frameworks across Indian states. For example, some states only allow institutional consumers to participate in net-metering policy [57]. The RE capacity cap is also found to be different across states. Moreover, in some states net-metering is not allowed to rooftop solar generation owned by third-party. It is also observed that there is a lack of coordination between government policies and state regulators. For example, Delhi government approved the concept of aggregate net-metering and virtual net-metering; however, the regulators have not made related frameworks for both, thus implementation is still awaited. Similar instances can be found for other Indian states [54].
+
+Net-metering policy is found to be unattractive for prosumers of some countries because of prevalent net-metering compensation practices. For example, net-metering policy in Indonesia “Perusahaan Listrik Negara” is not 1:1 basis: excess generated energy is compensated at 65% of the applicable tariff rate. Moreover, prosumers pay additional monthly charges for interconnecting their net-metered RE installation with the grid. It is also observed that net-metering policies in Indonesia and Pakistan do not remunerate the excess energy injection beyond prosumers’ annual consumption. Such compensation practices make the net-metering policies less attractive for potential prosumers [45], [159], [172].
+
+In conclusion, it is recommended that net-metering regulatory frameworks should be designed in such a way that they receive welcoming response equally from both utilities and consumers.
+
+This section presents a case study in which the economic evaluation of current net-metering regulations (for one of the Asian countries) is carried out. Additionally, the monetary benefits to individual residential consumers dwelling in apartment buildings are assessed in the presence of building integrated photovoltaic (BIPV) generation. This case study is presented for Islamabad, Pakistan. The electricity tariffs for Islamabad Electric Supply Company (IESCO) consumers, presented in Table 5, are used for the calculation of economic benefits of net-metering to residential prosumers (all tariffs are presented in local currency i.e., PKR) [62]. In addition, full-netted net-metering policy is considered for this case study.
+
+“National Electric Power Regulatory Authority (NEPRA), Distributed Generation (Alternative & Renewable Energy) and Net-metering Regulations, 2015” permit the residential consumers, who own building integrated distributed generation (wind or solar DG), to offset their energy demands and get monetary benefits for the excess energy. The excess energy is injected into the national grid. The allowed distributed generation capacity is between 1 kWp and 1 MWp for getting a license from the concerned utility [44], [45].
+
+In this study, two types of electric tariffs [62] are used:
+
+General Residential Supply tariff: this type of tariff is used for billing the energy consumption of individual residential consumers.
+
+Single-point Bulk Supply tariff: this type of tariff is used for billing the aggregate energy consumption of the whole building.
+
+As per net-metering regulations in Pakistan, the excess energy injected in the distribution network is credited at off-peak rate. The peak demand period begins at 0500 pm and lasts till 0900 pm. To compute the monthly energy expenditure for each individual apartment, all fixed charges are considered, including general sales taxes (GST), monthly Pakistan Television (PTV) fees, monthly connection charges, and electricity duty. However, fuel price adjustment (FPA) and other variable surcharges are not considered in this work. This assumption is valid since inclusion of variable rate of FPA and other variable surcharges can manipulate the net-metering benefits. Monthly individual apartment energy expenditure can be computed by using expression (9) [45]:
+Energy expenditure=
+Cost
+elect
++
+Cost
+Taxes
++
+Cost
+UQA
++
+Cost
+PTV
++
+Cost
+ED
++
+Cost
+CC
++
+Cost
+FPA
++
+Cost
+OVS
+(9)
+View Source
+where
+
+Cos
+elect
+: monthly electricity cost [PKR /kWh]
+
+Cost
+Taxes
+: General Sales Tax (GST – percentage of electricity cost)
+
+Cost
+UQA
+: Applicable Uniform Quarterly Adjustment cost [PKR/kWh]
+
+Cost
+PTV
+: Pakistan Television fee [PKR/connection]
+
+Cost
+ED
+: electricity duty cost (percentage of monthly electricity cost)
+
+Cost
+CC
+: connection cost [PKR/connection]
+
+Cost
+FPA
+: Fuel Price Adjustment (FPA) surcharge (variable)
+
+Cost
+OVS
+: other variable surcharges (variable)
+
+The residential building considered in this study consists of 10 floors, three sets of elevators and stairs, and 100 residential apartments. The composition of the building under study is shown in Table 6. The aggregated demand of the residential building consists of the energy demand of all types of residential apartments and the lighting and elevator demand of the common area services inside the building.
+
+The energy demand of individual apartments is computed by modeling the domestic appliances’ daily energy consumption patterns based on their operational characteristics, frequency of use, ownership rate, probability of use, and probability of time of use. The energy consumption of an apartment is contingent upon the number of apartment residents and their living standards, types and number of appliances owned, and seasonal variations in the area [32], [45], [186]–[188]. Potential household appliances’ load consumption data is taken from [32], [189], [190] for modeling the daily energy consumption of different types of apartments in a residential building. Monte Carlo Simulations and Gaussian Probability Distribution is used to obtain the aggregate energy consumption of all apartments in the building. A comparison of energy consumption of different types of apartments for typical working day and non-working day is shown in Fig. 7 and 8, respectively.
+
+Comparison of energy consumption of different types of apartments for a typical working day.
+
+Show All
+
+Comparison of energy consumption of different types of apartments for a typical non-working day.
+
+Show All
+
+Energy demand for common area services include building’s lighting demands and the elevator energy demand. Lighting demand makes up the major portion of the energy demand for common area services. In this work, lighting demand for stairs-elevator and general lighting demand for the building is considered. For simplicity, approximate lighting demand of 300 Watt/floor (for stair-elevator and general lighting demand for building) is considered.
+
+To compute the elevator energy demand, geared traction technology is considered and data is taken from [191]. Elevator energy consumption depends on the motor power, speed, load of the elevator, and the rise height. The procedure of computing elevator’s energy consumption is adopted from [191], [192]. Table 7 presents the parameters used for computing the elevator energy consumption.
+
+Eq. (10) and (11) are used to calculate the annual elevator energy consumption.
+E=
+E
+SB
++
+1
+1000
+((2×γ×λ×
+E
+OOC
+×(1−β)×n))
+(10)
+View Source
+where,
+E
+SB
+=0.001×
+P
+SB
+×(8760−λ×h×
+n
+3600×s
+)
+(11)
+View Source
+E
+SB
+: energy consumption in standby operation (Wh)
+
+E
+OOC
+: elevator’s one operating cycle energy (Wh)
+
+γ
+: average motor load factor
+
+β
+: balancing factor
+
+λ
+: average travel distance factor
+
+h
+: elevator’s rise height (m)
+
+n
+: number of annual trips
+
+P
+SB
+: standby power (W)
+
+s
+: speed of elevator (m/s)
+
+Fig. 9 presents the common area services energy demand for a typical working day and non-working day.
+
+Common area services energy demand for typical working day and non-working day.
+
+Show All
+
+Building aggregate energy demand is the sum of residential apartments’ energy consumption and common area services energy consumption. Fig. 10 presents the aggregated energy demand of the building for typical working day and non-working day.
+
+Building’s aggregated energy demand for typical working day and non-working day.
+
+Show All
+
+The estimation of PV system generation profiles has been carried out by using the method presented in [31], [32] with the help of mean global irradiance level and the temperature of the selected location in Islamabad, Pakistan. An online software tool PVGIS was used for obtaining the mean global irradiance level [193]. Another PV related software called PV.MY is commercially available, but it is not used in this work due to its location dependency [194]. Table 8 presents the parameters used for estimating the solar power generation.
+
+Eq. (12) is used to calculate the AC solar power generation.
+P
+PV
+=
+Δ
+T
+C
+=
+0.92×
+P
+inst
+×
+I
+G
+×
+η
+DC−AC
+×
+10
+−3
+×(1−φ×Δ
+T
+C
+)
+∣
+∣
+∣
+25−(
+T
+ADT
++
+1
+800
+×(
+T
+NOC
+−20)×
+I
+G
+)
+∣
+∣
+∣
+(12)
+(13)
+View Source
+where
+
+P
+PV
+=
+AC solar power generation (W)
+
+P
+inst
+=
+Solar power generation installed capacity (1-150 kWp)
+
+I
+G
+=
+Global irradiance on fixed plane (W/
+m
+2
+)
+T
+ADT
+= Average temperature (daytime, °C)
+
+η
+DC−AC
+=
+DC-AC efficiency of the inverter (95%)
+
+φ=
+Power temperature coefficient (0.007)
+
+T
+NOC
+=
+Normal operating cell temperature (45°C)
+
+In this work, the effect of partial shading on PV generation is not considered; full sunlight exposure on PV arrays is expected by considering installation in an open space where buildings, objects, and tree shadows do not affect the output power of the PV system. Fig. 11 shows the PV system (100 kWp) profiles for a typical day.
+
+Solar generation (100 kWp) for typical day of each month.
+
+Show All
+
+Net-metering is one of the potential incentives that is used to promote the local distributed/ renewable energy resources. For calculating the monetary benefits to residential consumers, the following case study scenarios are considered in this study:
+
+Net-metering is not applied (base case scenario)
+
+Application of net-metering with building integrated solar PV generation
+
+Only common area services’ demand is net-metered, and the apartments are individually billed
+
+Only common area services’ demand is net-metered, and the apartments are billed based on aggregated energy demand of the building
+
+Aggregate demand of the whole building is net-metered, and the apartments are billed based on aggregated energy demand of the building
+
+For Case 1 and 2a, General Residential Supply tariff is used, and the excess energy injection in the grid is credited at off-peak prices of the said tariff. For Case 2b and 2c, Single-point Bulk Supply tariff is considered, and the surplus energy injection into the grid is credited at off-peak prices of the said tariff.
+
+Fig. 12 and 13 respectively illustrate the results of net monthly energy cost of the building and the per apartment average annual savings with increasing installed solar capacity. Working day and non-working day energy expenditure and savings for each individual apartment are considered to obtain the presented results.
+
+Net monthly energy expenditure of the building with different installed capacity of the solar PV system.
+
+Show All
+
+Comparison of per apartment average annual savings with different installed capacity of the solar PV system.
+
+Show All
+
+From Fig. 12, the energy expenditure of the building is noticeably high when the building (aggregate) demand is billed at the Single-point Bulk Supply Tariff. Moreover, the cost curves of Case 2a and 2b do not exhibit a significant reduction in the energy cost with increasing values of installed PV capacity. Nonetheless, a noticeable reduction in the energy cost curve of Case 2c can be observed with the increasing values of the PV installed capacity, due to the increased injection of solar generation into the grid. It is obvious from Fig. 13 that no positive savings are observed for Case 2b at any value of installed PV capacity, which makes it a completely unviable net-metering scheme for residential DG owners. On the other hand, for Case 2a, the increasing trend of positive annual savings (per apartment) can be observed up to 50 kWp PV installed capacity, and after that per apartment annual savings remain constant for all the higher values of PV installed capacity because of the imposed restriction on the annual surplus energy injection into the grid: according to the “NEPRA net-metering regulations 2015”, the yearly surplus energy injection cannot surpass the yearly energy expenditure. On the contrary, the per apartment annual savings for Case 2c exhibit the increasing trend for all values of the PV installed capacity, and the positive savings are realized above the installed PV capacity 110 kWp. It is important to note that the energy expenditure, which is computed based on Single-Point Bulk Supply tariff, is comparatively high compared to the energy expenditure that is computed based on the General Residential Supply Tariff. This makes the Case 2c net-metering scheme uneconomical for a PV installed capacity of less than 110 kWp.
+
+Net present value (NPV) is a measure of the profit that is determined by deducting the present value of cash outflows (including the capital investment cost of PV system) from present value of the cash inflows for a period ‘t’ [195], [196], as represented by Eq. 14.
+NPV=
+∑
+t=1
+t=N
+F
+t
+(1+ψ)
+t
+−
+F
+C
+(14)
+View Source
+where
+
+F
+t
+: net cash inflows during period ‘t’
+
+F
+C
+: capital investment cost of PV system
+
+ψ
+: discount rate
+
+t
+: time in years
+
+Table 9 presents the parameters and values used to carry out the economic analysis of the case study scenarios. Fig. 14 and 15 presents the results of the present values of the cash flows and net present values, respectively, for the considered case study scenarios for the period of 25 years. Capital investment cost of the Case 2c is highest because of its larger installed capacity as compared to rest of the scenarios, which is also evident by large negative NPV and cash inflow at the start of the project life. The results show that the cash inflows of the Case 2c are highest among all the studied scenarios followed by Case 2a. The profit for Case 2a and 2c is ~2.77 and ~12.2 million PKR, respectively; however, it is negative for Case 2b, rendering it to be an infeasible net-metering option.
+
+Present values of the cash flows for considered case study scenarios.
+
+Show All
+
+Net present values for considered case study scenarios.
+
+Show All
+
+Table 9 presents the parameters and values used to carry out the economic analysis of the case study scenarios. Fig. 14 and 15 presents the results of the present values of the cash flows and net present values, respectively, for the considered case study scenarios for the period of 25 years. Capital investment cost of the Case 2c is highest because of its larger installed capacity as compared to rest of the scenarios, which is also evident by large negative NPV and cash inflow at the start of the project life. The results show that the cash inflows of the Case 2c are highest among all the studied scenarios followed by Case 2a. The profit for Case 2a and 2c is ~2.77 and ~12.2 million PKR, respectively; however, it is negative for Case 2b, rendering it to be an infeasible net-metering option.
+
+From Fig. 15, the payback period for Case 2a and 2c is found to be 7.5 and 8.1 years, respectively. Based on the considered PV system lifetime, the payback periods for Case 2a and 2c seem very attractive. In conclusion, high NPV makes Case 2c the most appealing net-metering scheme for the considered residential building demand.
+
+The transition towards sustainable and clean energy technologies has become inevitable due to growing concerns over the depletion of conventional energy resources and climate change. Renewable Energy technologies are facing numerous challenges; however, the related policies aim to lower these hurdles. Net-metering is one of the potential incentives that is introduced to promote the local distributed generation resources, primarily solar PV, and wind generators. This work encompassed the up-to-date status of net-metering policies along with the RE penetrations and future goals of Asian countries. A comprehensive review of the published research on net-metering policy in Asia is also presented to provide guidance for the future research in this field. Moreover, barriers to net-metering development in Asian countries and recommendations to overcome them are briefly discussed. In the conclusion, a case study is also demonstrated in which the economic valuation of the existing net-metering policy for residential consumers in Pakistan is presented. It is noted that net-metering at the aggregate demand level becomes beneficial to residential consumers after a certain threshold of the installed PV capacity is reached. Furthermore, the net present value analysis of the considered case study scenarios suggests that the Case 2a and 2c are found to be feasible net-metering options with payback periods of 7.5 and 8.1 years, respectively.
+
+The authors would like to thank Ms. E. Seals and Ms. H. Coffman (Office of Graduate Studies, Missouri University of Science and Technology, USA) for their assistance with technical editing that significantly improved quality of the manuscript.
+
+2025 IEEE International Conference on Consumer Electronics (ICCE)
+
+Published: 2025
+
+IEEE Transactions on Smart Grid
+
+Published: 2019
+
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | IEEE Ethics Reporting | Sitemap | IEEE Privacy Policy
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2025 IEEE - All rights reserved, including rights for text and data mining and training of artificial intelligence and similar technologies.
+
+The Penetration of Renewable and Sustainable Energy in Asia: A State-of-the-Art Review on Net-Metering
+
+Document Sections
+
+Abstract:
+
+Introduction
+
+Net-Metering – Essential Background
+
+Net-Metering – International Experience
+
+Net Metering in Asia
+
+Challenges to Net-Metering Growth
+
+A Case Study: Analysis of Net-Metering Reglations for Residential Consumers in Pakistan
+
+Conclusion
+
+Authors
+
+Figures
+
+References
+
+Citations
+
+Keywords
+
+Metrics
+
+IEEE Personal Account
+
+Purchase Details
+
+Profile Information
+
+Need Help?
+
+Follow
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+IEEE Xplore
+
+IEEE SA
+
+IEEE Spectrum
+
+More Sites
+
+Donate
+Cart
+Create Account
+Personal Sign In
+
+Donate
+
+Cart
+
+Create Account
+
+Personal Sign In
+
+Browse
+
+My Settings
+
+Help
+
+I.
+Introduction
+
+II.
+Net-Metering – Essential Background
+
+III.
+Net-Metering – International Experience
+
+IV.
+Net Metering in Asia
+
+V.
+Challenges to Net-Metering Growth
+
+General Residential Supply tariff: this type of tariff is used for billing the energy consumption of individual residential consumers.
+
+Single-point Bulk Supply tariff: this type of tariff is used for billing the aggregate energy consumption of the whole building.
+
+Case 1:Net-metering is not applied (base case scenario)
+
+Case 2:Application of net-metering with building integrated solar PV generation
+Only common area services’ demand is net-metered, and the apartments are individually billed
+Only common area services’ demand is net-metered, and the apartments are billed based on aggregated energy demand of the building
+Aggregate demand of the whole building is net-metered, and the apartments are billed based on aggregated energy demand of the building
+
+Only common area services’ demand is net-metered, and the apartments are individually billed
+
+Only common area services’ demand is net-metered, and the apartments are billed based on aggregated energy demand of the building
+
+Aggregate demand of the whole building is net-metered, and the apartments are billed based on aggregated energy demand of the building
+
+CHANGE USERNAME/PASSWORD
+
+PAYMENT OPTIONS
+
+VIEW PURCHASED DOCUMENTS
+
+COMMUNICATIONS PREFERENCES
+
+PROFESSION AND EDUCATION
+
+TECHNICAL INTERESTS
+
+US & CANADA: +1 800 678 4333
+
+WORLDWIDE: +1 732 981 0060
+
+CONTACT & SUPPORT

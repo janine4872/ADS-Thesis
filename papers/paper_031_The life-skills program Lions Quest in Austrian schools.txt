@@ -1,0 +1,261 @@
+Summary
+This article investigates the importance of implementation level for the effectiveness of the school-based life skills program Lions Quest in a sample of Austrian students (n = 363 from three schools; aged 9–15 at T1). A quasi-experimental pre- and post-test design with intervention and control group over 2 years was used. The effects of low, average, and high implementation levels on the outcome variables classroom climate, bullying and psychosocial health were analyzed. Multilevel analyses of the longitudinal data indicated greatest effects in the intervention group with highest implementation level, smaller effects with average implementation level, and no or rather detrimental effects in one case with the low implementation level (always compared with the control group who received no intervention). A moderate implementation level was necessary to foster the programs aims for three out of four aspects of class climate and bullying, while no effects were found for psychosocial health. These results are discussed with respect to key factors that are important for successful implementation of school programs.
+
+adolescent, implementation, health promoting schools, program evaluation, competences
+Issue Section: Original Articles
+INTRODUCTION
+In recent years, health promotion and systematic social-emotional learning (SEL) in school settings have captured considerable attention (Oldenburg and Glanz, 2008; Simovska and Mcnamara, 2015). Today, schools are expected to do more than just focus on cognitive knowledge. Schools should also foster the development of social-emotional and personal competences to enable students to successfully meet the complex demands of our knowledge-based society. One way for schools to foster these competences is to implement school-based life skills programs. Such programs, e.g. Lions Quest (Wilms and Wilms, 2011) have proven their effectiveness (CASEL, 2015). For these programs to be truly useful, however, the successful implementation of the life skills programs is necessary (Durlak and DuPre, 2008; Ennett et al., 2011). This research article aims to examine the overall effect of a universal school-based life skills program on psychosocial health, bullying, and classroom climate, while additionally addressing the impact of different levels of implementation.
+
+Life skills programs
+Today, a wide range of school-based universal prevention programs in educational settings are used to promote healthy adolescent development. Most of the programs are based on the life skills concept (CASEL, 2015). Life skills are defined as
+
+‘psychosocial abilities for adaptive and positive behavior that enable individuals to deal effectively with the demands and challenges of everyday life’ (UNICEF, 2013).
+
+Comprehensive life skills programs focus on communication, assertiveness, problem solving, and social skills, e.g. resisting peer pressure. This increased attention to life skills is partly due to the challenges faced by society: life skills have become more important in times of globalization, marginalization and rising youth unemployment levels worldwide. Life skills programs also focus on the reduction of problem behavior and the improvement of school climate (Lions Clubs International Foundation, 2015; Kidron et al., 2016).
+
+One of these comprehensive life skills programs is Lions Quest (Wilms and Wilms, 2011). Lions Quest is one of the most important programs in the USA directed toward preventing substance abuse. It is also listed as one of the evidence-based programs recognized by the Center for Substance Abuse Prevention (SAMHSA, 2014, p. 20). The program has been proven to be an effective theory-based intervention (Menrath et al., 2011). Lions Quest is a multidimensional educational program, developed in the United States, translated into 40 languages, and offered in more than 90 countries (Lions Clubs International, 2016a). In this article, we focus on the German version of the Lions Quest - Skills for Adolescence program: ‘Erwachsen werden’ (Wilms and Wilms, 2011).
+
+The positive effects of Lions Quest have already been shown (Kähnert, 2002; Roth and Petermann, 2002). Large scale studies demonstrated the positive effects regarding the reduction in smoking and the improvement of life skills (e.g. Menrath, et al., 2011 in a sample of 102 classes with a total of 1561 pupils). The authors concluded that the supportive school environment constitutes an important factor for the successful implementation of school-based life skills programs. Qualitative interview studies on Lions Quest show that adolescents perceive the benefits of Lions Quest (e.g. Drolet et al., 2013). The crucial component is the fostering of a sense of school community on the one hand and the complementary importance attributed to having positive relationships with supportive adults on the other (Drolet et al., 2013). Furthermore, recent research underlines the potential of Lions Quest to foster social and emotional competencies as well as positive youth development (Domitrovich et al., 2017).
+
+Psychosocial health and bullying
+Mental health problems are prevalent in adolescents. Emotional and behavioral problems can adversely affect educational performance, lead to underachievement or problems in interpersonal relationships with peers and teachers, or can cause problem behavior. One of the first epidemiological studies based on mental health in Austria is the MHAT Study (Mental Health in Austrian Teenagers). In a representative sample of 408 adolescents aged 10–18 the prevalence of mental health problems was 18.9% (Philipp et al., 2014).
+
+Nowadays, bullying victimization in schools is seen as a major public health concern. Adolescents suffering from social and emotional difficulties are more likely to be bullied (both traditional bullying and cyberbullying), and bullying can have lasting emotional and physical effects (Cross et al., 2015). Our focus on reduction of bullying and improvement of school climate must be understood in the context of high bullying scores of Austrian adolescents compared with other OECD countries: Chester et al. (2015) report prevalence rates of 45% of occasional bullying for boys (4th highest rate in a list out of 33 countries), 35.9% for girls (10th highest rate). For chronic bullying the prevalence rates are 21.6% for boys (2nd highest score) and 13.4% for girls (10th). Therefore, Austria needs to intensify efforts to reduce bullying.
+
+Learning climate in schools
+School climate can be understood as some sort of quality and character of school life (Cohen et al., 2009). ‘School climate’, according to one study,
+
+‘is based on patterns of people’s experiences of school life and reflects norms, goals, values, interpersonal relationships, teaching and learning practices, and organizational structure’ (Thapa et al., 2013, p. 328).
+
+The review published by Cohen et al. (2009) highlights that a positive school climate fosters youth development and effective learning. This positive climate is associated with and/or predictive of academic achievement, school success, and violence prevention. In this study we operationalized learning climate assessed by a standardized scale to assess four dimensions of perceived learning environment that is quite often used in German research (Eder and Mayr, 2000). Lions Quest offers different ways to build a supportive and caring environment through the classroom curriculum.
+
+Aspects of program implementation
+Studies underline that good implementation enhances program effectiveness, while problems with program implementation have detrimental effects (Durlak and DuPre, 2008; Ennett et al., 2011). Implementation can be defined as
+
+‘efforts designed to get evidence-based programs or practices of known dimensions into use via effective change strategies’ (Damschroder and Hagedorn, 2011, p. 195).
+
+Problems related to program implementation seem to have the largest impact in decreasing the effectiveness of the program. Scholars differentiate five domains of fidelity (e.g. Ennett et al., 2011): adherence, exposure (dosage), quality of delivery, participant responsiveness, and program differentiation (lack of contamination from other programs). Ennett et al. (2011) assessed these five domains of fidelity in a subset (n = 342) from a national random sample of public schools in the United States. Only about one-third of providers delivered the full curriculum on the recommended schedule and only one-quarter were found to adhere to both the prescribed content and delivery strategies. Consistent with these findings, the implementation of health-promoting programs in Austrian schools can be rated, in general, as suboptimal (Adamowitsch et al., 2014).
+
+Durlak (2015) postulates that implementation is not an all-or-nothing construct, but rather it forms some sort of continuum; he explicitly states low, medium, and high level of quality implementation. Thus, a systematic documentation of implementation is essential in order to obtain data regarding implementation quality.
+
+In our study, we operationalized implementation quality based on the five dimensions of fidelity mentioned earlier (Ennett et al., 2011).
+
+Research questions
+This study examines the effects of participating in a life skills program—namely Lions Quest—and the dependency of these effects on the implementation level of the program. To this end, factors were considered that are important for the social emotional development of the adolescents and are fostered by life skills programs: school and class climate, bullying and psychosocial health. Furthermore, the implementation level and its influence on the effects of Lions Quest were considered. It was hypothesized that Lions Quest would have a positive influence on these factors when compared with a control group (Eisen et al., 2003; Kähnert and Hurrelmann, 2003; Wilms and Wilms, 2011). Due to the detrimental influence of neglected implementation on the effects of life skills programs, it was hypothesized that the higher the level of implementation, the higher the positive effects would be when compared with a control group (Durlak and DuPre, 2008; Durlak, 2015).
+
+METHOD
+Lions Quest
+Lions Quest is a positive youth development and prevention program for adolescents aged 10–14 years (fifth to eighth grade). In the current study, the German version called ‘Erwachsen werden’ (‘Skills for Adolescence’) was implemented (Wilms and Wilms, 2011). After a 2 days’ introductory training, teachers are certificated to implement Lions Quest as a classroom-based project. The program fosters SEL competences and strengthens personal qualities of the participants. Program concepts and skills are not only learned but also practiced and applied to create a positive classroom environment and to establish a positive climate throughout the school (Lions Clubs International Foundation, 2015, p. 34). Program reviewers have reported that the
+
+‘program content and examples took into consideration the diverse needs of students, and content delivery took into account multiple learning styles’ (U.S. Department of Education, 2002, p. 79).
+
+The program also deals with activities to prevent substance use and helps students to acquire knowledge, attitudes, and behavior to be healthy individuals (Wilms and Wilms, 2011). The program consists of 7 units and 2 extra units presented by more than 75 skill-building classroom lessons. A wide range of additional material is provided for students, teachers and parents. Table 1 illustrates an overview of units and exemplary goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1:Overview of Lions Quest topics and exemplary unit goals (Wilms and Wilms, 2011; Lions Club International, 2016b, p. 4ff; Wilms et al., 2009)
+Units	Exemplary unit goals
+Unit 1: My classroom	
+to create a supportive classroom learning community
+
+to foster cooperation and communication skills
+
+Unit 2: Building up self-confidence	
+to identify factors that strengthen self-confidence
+
+to practice listening and responding effectively
+
+to understand the importance of respecting yourself and others
+
+to learn a five-step approach for making positive decisions
+
+Unit 3: Managing emotions	
+to become more aware of the range of emotions
+
+to learn how emotions, thoughts and actions are related
+
+to know coping strategies in stressful situations
+
+Unit 4: Improving peer relationships	
+to learn ways to establish and strengthen respectful friendships
+
+to identify different ways of responding to intimidation and bullying
+
+to describe steps for identifying and standing up to negative peer pressure
+
+to know strategies of conflict management
+
+Unit 5: Strengthening family relationships	
+to recognize the strengths and uniqueness of the own family
+
+to identify common family problems and describe positive ways to deal with them
+
+to learn about communication structures in the own family
+
+to focus on ways how family members can enjoy time together
+
+Unit 6: Making health choices	
+to develop self-management, problem-solving, stress reduction and assertiveness/refusal skills that help prevent drug use
+
+to explain the purpose of advertising
+
+to recognize that using substances is not the norm among young people and identify social pressures
+
+Unit 7: Developing your potential and setting goals for healthy living	
+to plan for future
+
+to learn and practice a five-step goal-setting process
+
+to plan a celebration of the project
+
+to distinguish between short-term and long-term goals
+
+Extra unit: Energizer	
+Lions Quest Energizer are interactive activities that are offered during classroom sessions in frequent sequences. They can be used for purposes of refreshment and refocusing such as: meet & greet, team & trust builder, de-energizer, concentration, activation and coordination.
+
+Extra unit: Drug prevention	
+Provides information and material targeting specific drug prevention.
+
+Procedure
+This study took place in Styria, an Austrian state, where one district with a large quantity of certified and experienced Lions Quest teachers was selected. Between 2005 and 2012, 134 teachers participated in Lions Quest teacher trainings. All grammar schools (n = 2), secondary lower schools (n = 2), and new middle schools (n = 13; new middle schools are a kind of secondary lower school in Austria.) of this district were invited to participate in this study. Interested school principals attended a first project meeting, which served the purpose of providing basic information about the study, requirements for participation, and benefits for research partners. Three schools (2 grammar schools and 1 new middle school) met the requirements and ensured cooperation in this long-term study beginning in September 2012. From these 3 schools, 16 classes participated in the study. Informed consent was obtained from students and their parents. These 16 classes were divided into 7 Lions Quest classes and 9 control-classes without Lions Quest sessions or other life skills programs. For the control group, all parallel classes from the same school and year group were selected for each Lions Quest class. Therefore, a quasi-experimental design was conducted. Paper and pencil questionnaires were filled out by the participants before and after a two-year period of Lions Quest (T1: September 2012; T2: June 2014). The socio-demographic variables were assessed at T1. Data management and statistical analysis were performed using SPSS. Additionally, the research design was enriched with qualitative data based on implementation protocols, interviews with Lions Quest teachers and school principals, and focus groups with students. This qualitative data was used to collect complementary information about implementation quality.
+
+Measures
+Classroom climate
+The classroom climate was assessed with the German version of the Questionnaire to assess school and class climate [Linzer Fragebogen zum Schul- und Klassenklima] (Eder and Mayr, 2000). Students responded to the items on a 5-point Likert scale from not right to completely right. 42 items assess 4 higher order factors: (i) social and performance pressure which can be described as constraining and stressing factor; (ii) learner centeredness which can be understood as quality of communication between teachers and students; (iii) learning community defined as learner-oriented class climate; and (iv) rivalry and disturbance which includes classroom disruption and problematic student relationships (Eder and Mayr, 2000). Social and performance pressure is assessed by items such as “In our class teachers are aware of giving best marks for best performance”. The internal consistency measured by Cronbach’s α was good (αT1 = 0.84; αT2 = 0.86). Learner centeredness is represented by items such as the following: ‘Our teachers often give advice about how to manage subject matter’ (αT1 = 0.84; αT2 = 0.86). Learning community was measured by items like ‘Most of my classmates enjoy studying’ (αT1 = 0.7; αT2 = 0.7). An exemplary item for rivalry and disturbance is represented as following: ‘Our teachers often struggle to keep the class quiet’ (αT1 = 0.74; αT2 = 0.75). The internal consistencies are acceptable.
+
+Health-related behavior
+Bullying
+Three items were drawn from the Austrian version of the HBSC Survey 2010 (Bundesministerium für Gesundheit [Austrian Ministry of Health], 2011) targeting bullying and fighting during adolescence. The item ‘How often have you been bullied in the last few months?’ was measured on a scale ranging from 1 (never) to 5 (several times a week). Participation in bullying was assessed by the item ‘How often did you take part in bullying in the last few months?’ with answer categories also ranging from 1 (I did not participate) to 5 (several times a week). The third item was ‘How often have you observed bullying of one of your classmates over the last few months?’ (1 = never – 4 = several times). Structural equation modeling was used to assess the dimensionality of the three bullying items at T1 and T2. To this end, the measurement models for T1 and for T2 were combined to one structural equation model. The model fit confirmed the uni-dimensionality of the two bullying factors (χ2(8) = 12.257, p = 0.140, RMSEA = 0.040, CFI = 0.952, SRMR = 0.040).
+
+Psychosocial health
+Mental health was assessed by the German version of the SDQ—Strengths and Difficulties Questionnaire (Goodman, 1997). The SDQ is a brief screening questionnaire for emotional and behavioral problems in children and adolescents aged 11–17 consisting of 25 items with 3 answer categories: 0 (not true), 1 (somewhat true) and 2 (certainly true). The SDQ covers positive and negative aspects. The positive aspects (i.e. strengths) are assessed by pro-social behavior (e.g. ‘I usually share with others’). The negative aspects (i.e. difficulties) are assessed by conduct problems (e.g. ‘I fight a lot’), emotional symptoms (e.g. ‘I worry a lot’), hyperactivity (e.g. ‘I am easily distracted’), and peer relationship problems (e.g. ‘I am usually on my own’). These difficulties make up a total difficulties score. Both the total difficulties (αT1 = 0.71, αT2 = 0.79) and the pro-social behavior (αT1 = 0.68, αT2 = 0.69) had sufficient internal consistency at both points of measure (scoring instructions for SDQ, see http://www.sdqinfo.com/).
+
+Quality of implementation
+Five dimensions of implementation quality—adherence, exposure/dosage, quality of delivery, participant responsiveness and program differentiation (Ennett et al., 2011)—were assessed using a multi-method approach: implementation protocols, semi-structured interviews with Lions Quest teachers and school principals, and focus groups with students. Specific implementation protocols were developed to assess adherence, dosage, and quality of delivery. These protocols were comprised of basic information about each held Lions Quest session, e.g. number and topic of Lions Quest sessions, unavoidable adaptations by the Lions Quest teacher, brief description of outcome, problems of students’ behavior, and remarks concerning learning climate. The Lions Quest teachers were asked to fill in these protocols right after each Lions Quest session. Additionally, semi-structured interviews with school principals and teachers aimed to survey information about implementation processes especially facilitators and barriers (e.g. time resources, practicability of the program, organizational support). The dimension of participant responsiveness was assessed by three focus groups with Lions Quest students—one in each project school (Matischek-Jauk et al., 2017). In general, a very positive attitude towards Lions Quest topics can be found. The students appreciate the participative and creative learning tools during the Lions Quest sessions (Matischek-Jauk and Reicher, 2015). Program differentiation was guaranteed because no other program was implemented during the research project.
+
+Using this multi-method approach, the quality of implementation was rated by the research team for each Lions Quest class after 2 years. They were classified into three levels of implementation. The main distribution parameters were based on the implementation protocols with respect to dosage of implementation. The distribution parameters for Lions Quest classes showed that Lions Quest was implemented in up to 68 sessions. Additionally, we included the qualitative data about adherence and quality of delivery. This yielded three levels of implementation: lowest level of implementation (less than 11 sessions and problematic quality of delivery), average level (11–40 sessions, moderate adherence including considerably adaptations) and highest level (more than 40 sessions with high adherence and optimal quality of delivery).
+
+Sample
+The sample consisted of 363 students in 16 classes. There were 169 (46.6%) girls and 188 (51.8%) boys, and the gender of 6 participants (1.7%) was unknown. At the beginning of the study, students were on average 10.8-years old (SD = 1.0), ranging between 9 and 15 years. 196 (54%) were in the control group, which had no intervention, and 167 (46%) were in the Lions Quest program. Of these 167 students, 66 (39.5%) received the low implementation level of Lions Quest, 56 (33.5%) received the average implementation level of Lions Quest, and 45 (26.9%) received the high implementation level of Lions Quest. More precisely, complete data was given for the school and class climate of 346 students (95.3%), for bullying and fighting of 342 students (94.2%), and for psychosocial health of 355 students (97.8%). Due to the facts that the missings were of small number and missing at random, statistical analyses were only conducted for complete data sets over time.
+
+Multilevel analyses
+Lions Quest is a school-based life skills program, which is conducted in classes. This results in a multilevel structure of the data, warranting a multilevel analysis (MLA; for an in depth discussion of MLA cf. Hox, 2010). Therefore, the necessity of an MLA was firstly assessed. Within the school and class climate and bullying, substantial variance of the dependent variables could be explained by the multilevel structure of the data (21.4, 10.99, 23.51, 12.47 and 7.41%, for learning community, learner centeredness, rivalry and disturbance, social and performance pressure, and bullying and fighting, respectively); regarding the psychosocial health this was the case to a smaller extent (2.73 and 4.88%, for pro-social behavior and problem behavior, respectively). It was therefore necessary to account for the multilevel structure of the data. For the MLA, the measures at T1 and T2 were at the first level, followed by the nesting into classes at the second level. Lions Quest was always implemented in whole classes, making the level of implementation a third level variable. The level of implementation of Lions Quest was a polytomous variable. For the MLA it was therefore dummy coded, always contrasting against the control group. The T1 values were included in the study design as covariates. MLA were computed with a ML estimator, to allow for comparisons of model fits for nested models with added fixed effects via likelihood ratio test. The thus possible likelihood ratio tests were used to evaluate the overall effect of the predictors. The dependent measures at T1 and T2 were z-standardized. Therefore, the estimates of the three implementation levels can be interpreted as standardized mean differences. It should be noted that such an interpretation as standardized mean differences may underestimate the true effects, as dummy variables are inherently not completely independent of each other. Consequently, interpreting these standardized mean differences according to conventional rules of thumb, i.e. Cohen’s d effect sizes, will be a conservative interpretation of the effect sizes. Such a conservative interpretation was used as this study is the first to compare the effects of implementation fidelity on Lions Quest effects. A Cohen’s d above 0.2 was considered a small effect, above 0.5 a medium effect, and above 0.8 a large effect (Bortz and Döring, 2006). Effects were considered significant with p < 0.05, but for interpretation of the results, emphasis was placed upon the actual size of the effects, and not only its significance.
+
+RESULTS
+The descriptive results of the school and class climate, bullying, and psychosocial health are shown in Table 2. It can be seen that on average at T1 the class climate tended to be a bit better than an average response (all learning community and learner centeredness means above 3.44 but below 3.92; all rivalry and disturbance and social and performance pressure means below 2.72 but above 2.17). By contrast, the average bullying and fighting at T1 was rather low (no mean exceeding 4.83). Furthermore, the students reported on average to be in fairly good psychosocial health at T1 (all pro-social behavior means above 1.53 but below 1.66; all problem behavior means below 0.44 but above 0.37).
+
+
+
+Table 2:Means (with SDs in bracket) of the four dimensions of class climate, bullying and fighting and the two dimensions of psychosocial health at T1 and T2 for the control group and the three levels of implementation (low, average and high)
+Class climate
+Bullying and fighting
+Psychosocial health
+Group	LCo	LCe	RD	SP	BF	PSB	SDQ
+T1	control	3.47 (0.75)	3.60 (0.59)	2.77 (0.84)	2.68 (0.68)	4.83 (2.02)	1.56 (0.35)	0.44 (0.21)
+low	3.44 (0.66)	3.54 (0.52)	2.71 (0.79)	2.66 (0.55)	4.74 (2.04)	1.53 (0.36)	0.40 (0.17)
+average	3.61 (0.59)	3.58 (0.56)	2.72 (0.69)	2.72 (0.61)	4.49 (1.85)	1.66 (0.33)	0.45 (0.27)
+high	3.81 (0.55)	3.92 (0.34)	2.26 (0.59)	2.17 (0.52)	4.14 (1.84)	1.61 (0.36)	0.37 (0.18)
+T2	control	3.27 (0.73)	3.23 (0.63)	2.93 (0.80)	2.92 (0.74)	4.71 (2.24)	1.55 (0.43)	0.48 (0.32)
+low	3.12 (0.65)	3.26 (0.57)	3.22 (0.67)	3.03 (0.67)	4.39 (1.61)	1.55 (0.44)	0.51 (0.29)
+average	3.62 (0.53)	3.42 (0.43)	2.66 (0.69)	2.85 (0.59)	3.80 (1.22)	1.63 (0.38)	0.51 (0.28)
+high	3.89 (0.63)	3.75 (0.55)	2.02 (0.65)	2.27 (0.71)	3.52 (0.70)	1.67 (0.46)	0.35 (0.27)
+Note. Class climate ranges from 1 to 5. Bullying and fighting ranges from 3 to 14. Psychosocial health ranges from 0 to 2.
+
+learning community, LCo; learner centeredness, LCe; rivalry and disturbance, RD; and social and performance pressure, SP; the bullying and fighting, BF; pro-social behavior, PSB; problem behavior, SDQ.
+
+Table 3 shows the correlations within all scales at T1 and T2. Within T1 and T2, the inter-correlations were as to be expected: the favorable scales were correlated positively, as were the unfavorable scales. The favorable and unfavorable scales affected each other inversely. The same pattern of correlations also held for the correlations between T1 and T2, supporting the validity of the measure and their stability over time.
+
+
+
+Table 3:Correlations between the four dimensions of class climate, bullying and fighting and the two dimensions of psychosocial health at T1 and T2
+T1
+T2
+LCo	LCe	RD	SP	BF	PSB	SDQ	LCo	LCe	RD	SP	BF	PSB	SDQ
+T1	LCo	—	0.611	–0.445	–0.421	–0.227	0.357	–0.301	0.401	0.344	–0.325	–0.286	–0.092	0.241	–0.277
+LCe		—	–0.290	–0.456	–0.205	0.329	–0.235	0.294	0.485	–0.297	–0.346	–0.123	0.129	–0.247
+RD			—	0.612	0.374	–0.232	0.335	–0.381	–0.257	0.541	0.421	0.224	–0.305	0.404
+SP				—	0.372	–0.241	0.285	–0.312	–0.341	0.434	0.532	0.230	–0.250	0.379
+BF					—	–0.090	0.243	–0.200	–0.206	0.247	0.257	0.246	–0.147	0.221
+PSB						—	–0.386	0.179	0.234	–0.151	–0.150	–0.118	0.386	–0.285
+SDQ							—	–0.221	–0.144	0.223	0.125	0.102	–0.198	0.414
+T2	LCo								—	0.524	–0.495	–0.320	–0.189	0.394	–0.366
+LCe									—	–0.337	–0.512	–0.240	0.339	–0.344
+RD										—	0.589	0.349	–0.231	0.487
+SP											—	0.348	–0.305	0.409
+BF												—	–0.183	0.330
+PSB													—	–0.370
+SDQ														—
+Note. All significant correlations (p < .05) are bold.
+
+learning community, LCo; learner centeredness, LCe; rivalry and disturbance, RD; and social and performance pressure, SP; the bullying and fighting, BF; pro-social behavior, PSB; problem behavior, SDQ.
+
+The results of the MLA are shown in Table 4. The overall effect of the values at T1 and the dummy coded level of implementation increased the prediction of the model over and above the nesting into the classes for all dependent measures [learning community: baseline −2LL = 931.340; Δχ(4)2 = 40.75, p < 0.001; learner centeredness: baseline −2LL = 959.357; Δχ(4)2 = 86.29, p < 0.001; rivalry and disturbance: baseline −2LL = 902.587; Δχ(4)2 = 104.73, p < 0.001; social and performance pressure: baseline −2LL = 949.962; Δχ(4)2 = 103.73, p < 0.001; bullying and fighting: baseline −2LL = 955.938; Δχ(4)2 = 26.22, p < 0.001; pro-social behavior: baseline −2LL = 995.709; Δχ(4)2 = 59.37, p < 0.001; problem behavior: baseline −2LL = 999.761; Δχ(4)2 = 68.02, p < 0.001]. The values at T1 predicted the values at T2 for all dependent measures.
+
+
+
+Table 4:The results of the MLA, showing the overall model fit (−2 Log-Likelihood: −2LL), the intercepts, and the fixed effects (with SE and p-value in bracket) of the four dimensions of class climate, bullying and fighting and the two dimensions of psychosocial health
+LCo	LCe	RD	SP	BF	PSB	SDQ
+−2LL	890.589	873.065	797.824	846.235	929.721	936.342	931.745
+Intercept	–0.10 (0.08/0.269)	–0.14 (0.06/0.023)	0.07 (0.07/0.311)	0.08 (0.08/0.330)	0.17 (0.08/0.042)	–0.04 (0.08/0.581)	0.02 (0.06/0.804)
+T1	0.32 (0.05/<0.001)	0.47 (0.05/0.023)	0.48 (0.04/<.001)	0.52 (0.05/<.001)	0.23 (0.05/<0.001)	0.38 (0.05/<0.001)	0.42 (0.05/<0.001)
+low	–0.19 (0.17/0.279)	0.08 (0.12/0.507)	0.37 (0.13/.015)	0.18 (0.16/.330)	–0.16 (0.16/0.328)	0.06 (0.16/0.714)	0.16 (0.13/0.231)
+average	0.40 (0.18/0.033)	0.31 (0.14/0.021)	–0.32 (0.14/.034)	–0.14 (0.17/.397)	–0.43 (0.17/0.019)	0.11 (0.17/0.521)	0.08 (0.14/0.584)
+high	0.71 (0.23/0.019)	0.60 (0.15/<0.001)	–0.81 (0.18/0.003)	–0.50 (0.23/0.057)	–0.55 (0.20/0.035)	0.25 (0.21/0.260)	–0.32 (0.15/0.092)
+Note. Significant effects (p < 0.05) are bold.
+
+learning community, LCo; learner centeredness, LCe; rivalry and disturbance, RD; and social and performance pressure, SP; the bullying and fighting, BF; pro-social behavior, PSB; problem behavior, SDQ. The MLA controlled for the initial values (T1) and included the dummy coding of the level of implementation of Lions Quest (low, average and high).
+
+For the low level of implementation, there was only a medium effect for rivalry and disturbance (b = 0.37, p = 0.015). This was unexpected as it was the only effect that favored the control group. Possible explanations based on comments of the teachers in the implementation protocol will be discussed later. For the average level of implementation, there was no effect for social and performance pressure, pro-social behavior, or problem behavior, but small effects for learning community (b = 0.40, p = 0.033), learner centeredness (b = 0.31, p = 0.021), rivalry and disturbance (b = −0.32, p = 0.034), and bullying and fighting (b = −0.43, p = 0.019). For the high level of implementation, there was a large effect for rivalry and disturbance (b = −0.81, p = 0.003), and medium effects for learning community (b = 0.71, p = 0.019), learner centeredness (b = 0.60, p < 0.001) and bullying and fighting (b = −0.55, p = 0.035). Although non-significant, there was a medium effect for social and performance pressure (b = −0.50, p = 0.057), and small effects for pro-social behavior (b = 0.25, p = 0.260) and problem behavior (b = −0.32, p = 0.092). In summary, a low level of implementation was not yet beneficial, an average level of implementation already leads to small effects, and a high level of implementation consistently leads to small or large effects.
+
+DISCUSSION
+In this study, we found that the school-based life-skills program Lions Quest could reduce bullying and fighting, and foster class climate. For psychosocial health no significant effects could be found. Moreover, the magnitude of the positive effects found was affected by the implementation level.
+
+The results show that Lions Quest is able to reduce bullying and fighting in adolescence significantly. For high implementation levels, we found a medium effect. In general the prevention of bullying and fighting requires a comprehensive approach including school-wide approaches. As Bosworth and Judkins (2014) argue, three dimensions of school climate are associated with the level of bullying and fighting: (i) structure and support (high adult control and caring, fair rules, a concrete school-wide discipline plan); (ii) relationships (caring, fair and supportive relationships); and (iii) norms and policies (positive and respectful interactions among teachers and peers). Lions Quest aims to improve all these dimensions (see Table 1).
+
+Although our results illustrate that overall class room climate scores improved, one subscale of the class climate questionnaire ‘rivalry/disturbance’ yielded unexpected effects: the control group scored significantly better for the lowest implementation level. A detailed analysis of the teachers’ implementation protocols can offer a possible explanation for this result. For the period of one semester massive bullying problems emerged in two Lions Quest classes resulting in the transfer of one student to another school. Some substantial disputes and conflicts between students might have caused the higher scores in rivalry and disturbance.
+
+With regard to perceived psychosocial health, the findings show that Lions Quest has no significant effects on the reduction of problem behavior. This may be due to the multifaceted factors associated with mental health problems. Strengthening life skills is just one important strategy beside family and community interventions. Additionally, the non-significant effect regarding mental health could be attributed to methodological issues: Mental health was assessed by the SDQ questionnaire. The SDQ-items provided only three answer categories which could limit variance.
+
+Regarding implementation levels in general we found a wide range of implementation fidelity. The wide range of implementation quality is consistent with the findings from Kidron et al. (2016). Botvin and Griffin (2004) as well as Ennett et al. (2011) found that only about one third of providers delivered the full curriculum on the recommended schedule and only one quarter adhered to content and delivery strategies (p. 368). This is also consistent with the findings that the implementation of health-promoting programs in Austrian schools can be rated as inadequate, in general (Adamowitsch et al., 2014).
+
+Therefore, our findings underline the importance of focusing on factors influencing the processes of diffusions of innovations (see also Oldenburg and Glanz, 2008). Diffusion means the communication of innovations among members of the system.
+
+Recommendations to foster implementation of the program
+The findings of this study showed that the level of implementation varied from school to school. Of course it is necessary to implement programs like Lions Quest with regard to a high level of adherence. In our sample, some classes could not keep the quality on a high level because of limited implementation in the field. In the frame of this research we see some critical points that could foster the implementation of the program:
+
+Awareness for SEL. Sensitization of school principals, school boards and parents seems to need continuous impulses. The results of this paper have to be communicated to responsible persons. The main message could be that conducting a light version of programs does not work. School principals can provide resources to implement the program at the optimal level.
+
+Continuous support for Lions Quest teachers is necessary. Lions Quest teachers participate in a basic workshop to get familiar with the program and the material. Support meetings during the first year of implementation are recommended to readjust the sessions, to discuss problems of implementation, and to share experiences with the Lions Quest trainer. A refresher workshop after one year of implementation should be obligatory for Austrian Lions Quest teachers, as it is the case in other countries. Our results underline the substantial need for more support in the early phases of implementation. An exploratory case study about program implementation in Austrian schools discovered that only single activities were implemented and no need for organizational change was seen (Teutsch et al., 2015).
+
+Establishing school Lions Quest coordinators. Two of the three schools worked with a Lions Quest coordinator who arranged grade level meetings. These meetings could be used for discussion, sharing experiences, and for planning the lessons of each class over a period of a semester.
+
+More certified and experienced Lions Quest teachers. The quality of implementation is associated with a schoolwide approach (Flaschberger, 2013; Talvio et al., 2016). Furthermore, institutions for teacher education and teacher training could offer workshops for teachers and elective subjects for students.
+
+Limitations
+Some methodological limitations of this study should be mentioned. First, a positive selection bias of schools involved in this study due to the assignment strategy has to be considered. The quasi-experimental design of our study, which was not based on randomization, could have influenced our findings. Future studies may implement a randomization. Such a randomization may also be beneficial to ensure even more comparability of the groups across implementation levels. However, it should be noted that due to this limitation the T1 values were included in the study design as covariates. A further limitation is the use of self-report data of the students. Because of same-source bias, this should be complemented with additional sources of data, such as measures of teachers’ perception of school climate. Admittedly, we do not have long-term follow-up data, so we cannot be certain about the sustainability of the program effects in the long run. Finally, future studies may also address if the differentiated effects of Lions Quest e.g. gender, school type, level of education (Bauer, 2005) may also be moderated by the level of implementation.
+
+Despite these limitations the current study shows that an optimal implementation of Lions Quest could provide a successful strategy to improve school climate and reduce bullying. Although we only studied single classes in schools, a program like Lions Quest should be implemented at the schoolwide level as a sort of universal intervention strategy to be truly effective (Bosworth and Judkins, 2014). Summarizing our findings points to an implementation gap in using health-promoting programs in general. Future research is needed in order to understand this implementation gap. More specifically, future studies should address whether programs such as Lions Quest could be adapted to be not only effective as universal prevention, but also as selective or indicative prevention (see Bradshaw, 2015).

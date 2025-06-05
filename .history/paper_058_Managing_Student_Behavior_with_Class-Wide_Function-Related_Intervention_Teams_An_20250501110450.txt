@@ -1,0 +1,502 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Educational Administration
+
+ISSN: 0957-8234
+
+Article publication date: 1 August 2001 Permissions
+
+Presents an analysis of the potential for continuous improvement planning teams to foster organizational learning and professional community in three school district teams. The findings of this three‐year study suggest that carefully orchestrated continuous improvement efforts can succeed in creating conditions responsive to the development of both learning and community. Organizational factors that influence development of both learning and community include: the development of leadership within and among faculty; ongoing focus on data‐driven decision making and the creation of venues for dense interpersonal dialogue related to issues of curriculum and instruction. The findings further suggest that the context of instruction and the work of instruction are important factors in sustaining learning and community.
+
+Kruse, S.D. (2001), "Creating communities of reform: continuous improvement planning teams", Journal of Educational Administration, Vol. 39 No. 4, pp. 359-383. https://doi.org/10.1108/EUM0000000005496
+
+MCB UP Ltd
+
+Copyright © 2001, MCB UP Limited
+
+One form of democracy within schools and schooling involves that of the collaborative school culture. While collegial school settings provide much more in the way of consistent expectations for students as well as providing more intellectual and social interaction for teachers, the most exciting forms of such interaction result in genuine collaboration, the essence of which is co‐development. In collaborative school environments, teachers engage in mutual decision‐making efforts to resolve their problems of practice. Faculty may call on one another to discuss new ideas or programs that will help advance their expertise or contribute to student achievement. In collaborative settings, the relationships between teachers are not built solely around structures and tasks but around the communal experiences and interests of all the school’s members. For such efforts to be meaningful, collaborative school culture must have at its foundation a focus on student learning. It has been posited that collaborative school cultures provide for greater focus on student learning and therefore a more democratic school environment (Beck, 1999; Louis and Kruse, 1995, 1997; Strike, 1999; Westheimer, 1999).
+
+This paper seeks not only to develop ideas related to the fostering of communal responsibility for student performance, but also seeks to do so by using the stories of educators, presented in case format, to provide the context in which such decisions and actions occur.
+
+This study focuses on the following objectives:
+
+the development of continuous improvement planning in schools as a form of collaboration around and for student achievement; and
+
+the ability of such collaboration to foster engaged, democratic, organizational forms in schools.
+
+Based on the assumption that major changes at the district level are needed to develop a district‐wide focus on continuous improvement planning, the theoretical foci for this study is informed by three complementary literatures: professional community; organizational learning; and work group teams. To demonstrate the potential for continuous improvement planning to have positive influence on a district’s ability to create cultural changes in practice regarding mission and vision, the literatures are briefly examined.
+
+In the past two decades sustained criticism regarding teachers has focused on a number of issues. One of these was coordinating teachers’ work through bureaucratic organizational forms (Firestone and Bader, 1992). The problems associated with teachers and bureaucracy are many: isolation; externally imposed commitment; impersonality and an excessive focus on rule following (Louis and Kruse, 1995; Newmann and Associates, 1996). The list of problems to a large extent overlapped with complaints from Americans in general about bureaucracy (Yankelovich, 1981). Hoping to eliminate some of the problems, a wide range of reformers called for new forms of social organization to cultivate a sense of collaboration and belonging amongst teachers (Louis and Miles, 1990; Caldwell and Spinks, 1992; Newmann and Associates, 1996). A second criticism asserted that teachers fell considerably short of the ideal of professionalism exemplified by medical and legal practitioners. Doctors and lawyers, compared to teachers, took collective responsibility for their profession’s knowledge base and conduct and placed a significant emphasis on service toward their clients. Many called for teachers, as an occupational group, to move in this direction (Forsyth and Danisiewicz, 1985; Abbott, 1991; Benveniste, 1988; Burrage and Torstendahl, 1990).
+
+In response to these criticisms, a number of scholars suggested the importance of developing professional community amongst teachers (Louis and Kruse, 1995; Newmann and Associates, 1996; Talbert, 1991; Strike, 1993). Combining professionalism with community offered a useful way to rethink the conditions of teachers’ work lives. Scholars of communalism, with its historic, philosophic, and anthropological legacy, suggested the sense of belonging and commitment teachers would derive from bonds of affiliation (Bellah et al., 1985; Etzioni, 1991, 1993; Kruse et al., 1995). Additionally, scholars of professionalism argued that these bonds could also be supplemented and strengthened by shared teaching expertise, collective responsibility for the learning in a school, and a mutual focus on serving students (Abbott, 1991; Rowan, 1991, 1994; Talbert 1986). Additionally, professionalism was suggested to provide teachers with a sense of efficacy and dignity derived from work that was highly valued by the public and peers, as it was for other professionalized occupations.
+
+Subsequent studies of creating professional community in actual schools indicated challenging barriers, but also key conditions that supported its development (see Louis and Kruse, 1995; Louis et al., 1997; Newmann and Associates, 1996). It was suggested that to achieve truly communal schools, teachers needed to work at developing shared norms and values about children, instruction, and learning. Teachers had to engage in sustained reflection and discussion about these substantive concerns. Schools that developed professional community created an atmosphere that supported teachers regularly talking about their classroom practices in a range of public forums: hallways; formal and informal meetings; and discussions over lunch. Additionally, teachers in these schools made student learning their key focus in most of these public discussions.
+
+Closely linked to the theory of professional community is that of organizational learning (Louis and Kruse, 1998; Louis et al., 1996; Scribner et al., 1999). The literature asserts that, when schools are seen as organizations capable of learning new instructional models, innovations focused on student learning and teacher accountability and improvement; teachers’ work becomes a key instrument of reform. While much of the literature on restructuring has emphasized organizational, rather than structural, changes in the daily practice of professionals, the organizational learning literature suggests that school reform efforts can be concentrated on the heart of the school – the teaching and learning process – through careful attention to how information enters and informs the practice of teachers.
+
+Building an organization’s ability to learn has been a key element in discussions of innovation in both restructured schools and businesses (e.g. Daft and Huber, 1987; Hedberg, 1981; Senge, 1990). Organizational learning as a model for school reform suggests that people working within school organizations are part of a shared, social construction of meaning common to all members of the school organization. The learning organization evokes assumptions about the members of the school organization as more participative, more intrinsically motivated, and engaged in learning with greater personal effort than the other organizational models. Learning is then thought to be less individualistic, more focused on school‐wide goals, and information more systematically obtained (Leithwood and Louis, 1998). Information, previously held by one or even a few members of the school organization, gains meaningfulness to other members of the school only within a socially constructed setting.
+
+Such a socially constructed setting may include time for teachers to meet and plan lessons, units, or whole courses that draw from the combined knowledge of the assembled teachers. The teachers involved may or may not be members on an assigned teaching team. In fact, schools that demonstrate high levels of organizational learning do not fit neatly into any one structural form. Rather, schools that demonstrate strong organizational learning skills fit into many categories – elementary, middle, and high schools, as well as alternative and traditional schools. However, the schools classified as strongly involved with organizational learning all share the ability to take in new information, process it and share it among the members of the organization in steady and regular ways. What these schools share among them is an inventory of prior knowledge about their school, its curriculum, instructional methodology and students. In short, these were schools that “knew themselves” and had taken the time to develop a shared vision and vocabulary with which to discuss issues of teaching and learning (Louis and Kruse, 1998).
+
+The model of a school as a learning organization follows assumptions which suggest that organizational learning takes place in groups and cannot be reduced to the random accumulation of individuals’ knowledge (Hargreaves, 1994; Louis, 1994). Thus, it is within a framework of systematic collection and focus on information that learning occurs. In the learning organization, the technical knowledge base – inclusive of content information, teaching methodologies, and innovations in both areas – provides the structure and context for further social bonds to be created. Teachers in schools focused on learning work to learn new things about both their teaching and their content areas, and then discuss, share and critique the new ideas so that all members understand and can use – when they feel appropriate – the newly learned information. Therefore, when one thinks of school change initiatives, the organizational learning perspective suggests that the collective, regular processes of teachers and administrators working together around issues of practice and professional knowledge will provide schools with the capacity for change and development.
+
+Integral to ideas supportive of organizational learning and professional community is the notion that teachers and administrators must work together in teams devoted to the communal development of all organizational members. Pounder (1998, 1999) and Leithwood and Louis (1998) have recently suggested that the literature on work groups can make a contribution to understanding and improving collaboration among teachers, particularly when considering teams devoted to shared norms. In particular, Pounder (1999) suggests that teacher teams are strongly similar to work groups in other organizational settings. Work groups, such as continuous improvement planning (CIP) teams, “are designed to increase members’ responsibility for the group’s performance and outcomes, creating work interdependence and opportunities for self‐management” (Pounder, 1999, p. 1). In this type of situation, many of the benefits and features discussed above that accrue to other work groups appear to transfer to school teams as well.
+
+Team learning can be thought of as mutual adaptation to a series of internal or external stimuli inputs (Hackman, 1990; Hackman and Oldman, 1980; Haimes, 1995). Each member of the team is challenged to learn two things. The first concerns a shared attention to and understanding of the team’s purposes. Second, are the sorts of actions for accomplishing the purposes allowed by the larger organization (Erb, 1995; Leithwood and Louis, 1998). In the first case, team members are challenged to make explicit the tacit knowledge on which they draw in daily problem solving and organizational life activity. The ability to make present tacit knowledge requires the ability to craft and share organizational stories that, in turn, influence organizational members’ cognitions and attitudes toward their work. As stories of “how we do things around here” become more concrete, they also attract more attention as points of internal learning opportunity and as such are open to more thorough processing by the group. Such examination affords group members the conditions to reflect upon previously unexamined belief structures.
+
+Second, team learning challenges individuals to engage in joint action (Wilkinson and Smith, 1995). Engagement in joint action may result in two kinds of adaptation. Less positive, although equally possible, is the unreflective response. In this response, group members rely on traditional problem‐solving models to respond to the new inputs provided them. In most bureaucratic situations the result is a return to a division of labor, or the parallel play response, in which members divide the actions around and attending to the tasks at hand in uncoordinated ways.
+
+A more productive method in which a team may respond to the call of joint action involves the development of a significant learning opportunity, often referred to as double‐loop learning (Argyris and Schon, 1987; Huber, 1991). Complex organizations, such as schools, are required to question the basic assumptions governing behavior(s) and commit to examining the values which guide them. Informed by experience and relevant literature, these organizations question underlying assumptions and practices that inform core decision‐making policy and not merely the symptoms of poor organizational performance. Organizations using double‐loop learning often merge new learning with existing organizational knowledge and emerge with new norms and values which guide new organizational policy, practices and procedures (Lave, 1984; Rait, 1995). In short, work groups attentive to double‐loop learning focus on knowledge with the potential to change the culture rather than knowledge which can be applied within the existing culture.
+
+Research in educational administration has been long critiqued for failing to address issues of instruction and instructional improvement. Furthermore, researchers in educational administration have been equally faulted for failing to attempt to personally create reform using their own theory and neglecting to reveal the effects of these efforts when theory is applied to practice. Continuous improvement efforts provide researchers with fertile ground to challenge this analysis and begin to observe, in practice, how ideas might affect change in schools. To do so requires participation as part of the continuous improvement effort as well as a willingness to report results in forums such as this.
+
+CIP and its sister processes of school improvement attempt to develop organizations predicated on a set of shared values and norms, personal mastery, critical reflection, and collaboration. While many models of school improvement process are provided in the literature (see Keefe and Howard (1997) for a well‐written example; also see Valentine (1997) for a modified application of the process) these models tend to address building‐level reform. To date, no studies have been undertaken that address these processes at the district level, focusing instead on a school district’s ability to orchestrate change on a widely systemic level. At the centerof the process described in this paper are leadership teams made up of building representatives, central office personnel, community members, and external consultants who guide the school site teams in the development andimplementation of a comprehensive, continuous, improvement planning process. Unlike building‐based school improvement models that focus attention at individual building goals and plans, the CIP studied here focuses its efforts on creating new structures and systems within the district which provide school building teams a unique opportunity to effect change within a systemic structure and plan. The planning model adopted by the three districts in this study involves six steps, all first completed at the district level and subsequently reviewed at the building level. The steps include: revision of mission, vision and beliefs concerning student learning; the identification of goals focused on what the district desires for students and student learning; theidentification of performance requirements which list what must happeninorder for the goal to occur; identification of performance standards which attend to measurable outcomes of implementation of performance requirements; strategies or developmental activities for the completion of the goals and standards, and assessment rubrics for the strategies (Schlecty, 1997). Using the framework provided by the CIP process, the district‐level leadership team then directs its attention to the implementation of the strategies and actions developed by the plan. District‐level efforts are then guided and focused by the CIP. As a result, a central team, supportive of the school sites efforts, coordinates implementation of the CIP effort.
+
+Narrative theory provides the analytic framework for the study of CIP as a source of accountability for student learning in schools. Based on the emergent work and conversation developed in Heshusius and Ballard (1996), this project recounts the stories of educators involved with CIP efforts.
+
+The narratives developed are about how the educators tell these stories as well as what stories they tell. In recent years some social scientists have begun to study the process of how interviewees construct their stories by attending to cultural, linguistic and interactional contexts and processes of storytelling (Josselson and Lieblich, 1995; Riessman, 1993; Witherell and Noddings, 1991). The current attention to context and process as an important development, grounded in the traditions of symbolic interaction, philosophy, and ethnomethodology. Throughout the project, listening closely to how educators narrate their experience as agents of improvement efforts is necessary if we are to understand how the culture of school life shapes their experiences, as well as to understand what they are telling us about the power of the continuous improvement efforts in their lives.
+
+Narrative analysis takes as its object of investigation the story/interview itself. The methodological approach examines the stories told and analyses how the stories are put together, the linguistic and cultural resources upon which the stories draw and how it persuades the listener of the authenticity. Analysis in narrative studies opens up the forms of telling about experience, not simply the language to which the content refers. Instead, narrative analysis attends to the way a story is told and asks why it was told in that particular form. Narrative study seeks the long answer, the life story, and then uses these tellings to develop how an interviewee’s ideas are constructed, authored, owned, and interpreted by themselves (Bloom, 1998; Chase, 1995; Czarniawska, 1997, 1998; Riessman, 1993). Attention is paid to how stories are constructed and represented. Narrative analysis assumes that the language a person chooses to tell his/her story is the connection between experience and understanding. This study uses Labov’s (1982) structural approach to the coding of narrative speech. Labov argues that narrative has six parts or elements: an abstract; orientation; complicating action; evaluation; resolution; and coda. By the use of these elements narratives are analyzed for similarities in the story line and the intent of the author. The narrative stories are then read and re‐read for meanings and coherence within the text. The features of a story/narrative are then linked to the research question, the theoretical position of the investigator, and the personal biography of the interviewee. It is, in part, circular, as the long tradition of interpretative inquiry would suggest. Close analysis of narrative work derives its legitimization for the interpretive tradition and extends it in new ways.
+
+This study follows a qualitative line of inquiry. Case studies will be presented, as will cross case analysis of the cases. The sample is drawn from three suburban school districts in a Northeastern state that have been involved in continuous improvement planning in excess of three years. Each district has received similar and ongoing support for their efforts from a state‐sponsored effort, and members chosen for interviews have all been engaged in the process for the entire length of the study.
+
+Three primary data sources were used for the study – interviews with teachers, administrators and other key actors in the school, classroom and meeting observation, and school documents (Louis and Kruse, 1995; Newmann and Associates, 1996; Yin 1996). In all cases, data sources were used to gain an understanding of the work experiences of teachers and how those experiences affected the learning of professionals in concert with one another.
+
+The study used a range of predetermined questions that were informed by the similar theoretical framework developed for the study. However, following Miles and Huberman (1994), questions were applied flexibly, and were changed over time and modified to reflect the particular circumstances of the school. The questions served as a guide to a conversation about teachers’ work in the school rather than as a formal, orally administered survey. Most of the over 60 interviews occurred in classrooms or school offices, and lasted, on average, 50 minutes. In many cases, interviews occurred after the teacher had been observed teaching a class or had participated in a meeting concerning CIP. Also, the interviews were rather fluid as while they were clearly “research” interviews (audio taped and formally held); they had, after a number of years with the project, a conversational tone about them and, as such, themes were often repeated, stories re‐told and clarified, ideas refined and re‐presented as an informant’s clarity and insight grew concerning CIP work.
+
+Classroom observations served different purposes depending upon the study site. For the purposes of this analysis of the impact of CIP efforts, classroom observation served the primary function of providing a “conversation starter”. Meeting observations included three different groups:
+
+(1) steering committee, focus team, or school governance meetings;
+
+(2) sub‐committee planning meetings; and
+
+(3) faculty or whole school meetings.
+
+At each meeting extensive field notes were taken, artifacts collected and informal interviews conducted after the meeting adjourned.
+
+Finally, a large collection of artifacts was collected at each research site. Although these varied from school to school, they provided a paper trail that, after careful study, produced a fruitful domain for the generation of new informal and formal interview questions. Included were three years of continuous improvement planning documents, including school philosophy and curriculum rationale, official meeting minutes, in‐house memos, and newspaper editorials and reports about the schools.
+
+During data collection there were several different currents of activity. These processes took place at both the levels of the individual researcher and the larger group of researchers involved with the project. At the level of an individual researcher, the process of data reduction occurred continuously, both through the development of interview and field notes, and comprehensive case studies written to a common outline that became primary data sources (Merriam, 1998; Miles and Huberman, 1994; Yin, 1994). A second form of preliminary data analysis involved researcher and presenter team meetings, in which discussion focused on data collection activities and emerging conceptual frames and themes. The meetings served as forums of collegial challenge where critical review and questioning of interpretation of both data and theory were possible. Finally, a comparative study of the cases was undertaken.
+
+The data are presented as longer narrative excerpts of interview conversations of three primary informants of the study. The narratives selected are presented as exemplars of the larger data set. The text presented comes from final conversations in which ideas were brought together from multiple conversations and reflected upon and final stories were constructed. As such, the ideas are not the typical interview text in which the informant are maybe struggling to clarify what they know and how those ideas are currently shaping their emergent knowledge. Instead, the text represents the final product of a comprehensive reflection on a long‐term process in which the informant has been involved in a series of efforts to understand and learn from the text as lived and presented.
+
+The three participating districts share a number of things in common. First, they are part of an active county service center, in which local school districts join together for extended in‐service and professional development. Unlike the more traditional, workshop‐focused county office, these districts are involved with a county‐wide program that has focused its attention on developing the capacity for change across systems. To this end, they have sponsored a series of educational gatherings; discussion groups and academies focused on developing, retaining and re‐educating school leaders. As the state foreshadowed the coming of the CIP process, the county office was quick to respond. They hired a nationally known consulting group to organize the format and focus of the CIP effort and provided considerable training for district‐level planning teams. Initial student learning goals were identified in these sessions and participants left feeling confident they could follow these planning models and not be left “searching in the dark for the one best solution”. Moreover, the county office has continued to provide ongoing support, consulting and educational opportunities as the school districts move forward with their plans. As an important consequence of their participation the member districts were spared many common initiation frustrations and instead were free to focus on student achievement and learning from the outset. However, even with such carefully harmonized guidance the districts do differ in many important ways. Each is described below.
+
+The Greenwood School district is considered a suburban school district and is currently rated as a continuous improvement district having attained 11 of the 18 performance standards. It annually spends $6,268.00 per pupil, slightly more than other similar districts in its comparison group and the state average. District attendance averages 93 percent and the enrollment for the two‐year study averages 2,722. Greenwood graduates 87.2 percent of its students within the four years allotted by the state allowance, and averages a student to teacher ratio of 20:1. The district is located in a slightly rural area, dominated by a large, family‐operated business. The family has had a strong political presence in the community, with one or more family members holding school board seats at any time. The family has also contributed to a good deal of strife within the community with its public denouncement of the superintendent and many school district policies. Tensions become highest when building initiatives were on the ballot, as the family supports no further construction for the district as it views additional school buildings as a threat to its expansive land holdings in the community.
+
+The Brier Hills district is considered a suburban school district and is currently rated as a continuous improvement district, having attained 12 of the 18 performance standards. It annually spends $6,842.00 per pupil, about $600.00 more than other similar districts in its comparison group. District attendance averages 95 percent, and the enrollment for the two‐year study averages 3,465. Brier Hills graduates 88.3 percent of its students within the four years allotted by the state allowance, and averages a student to teacher ratio of 19:5. Brier Hills has enjoyed the leadership of a superintendent committed to empowerment and shared leadership for the past six years. He has managed to provide many opportunities for both administration and faculty to participate in decision making concerning district direction and goals, as well as in school improvement efforts. The district is notable as well for its employment of a PhD level curriculum director who is nationally known for her work in multi‐age classrooms. Consequently, elementary teachers who participate in this classroom structure have been engaged for many years in alternative assessment and evaluation of students and have had consistent opportunities to participate in extended in‐service dialogue about their classroom pedagogy.
+
+Located just over the city limit from the closest urban school district, the Cross Falls School district is considered a suburban school district, yet has many problems of a more urban area. The district is currently rated as an academic watch district, having attained just nine of the 18 performance standards. It annually spends $5,977 per pupil, just $300.00 less than the state average of $6,203.00. District attendance averages 95 percent, and the enrollment for the two‐year study averages 5,812. Cross Falls graduates 82.8 percent of its students within the four years allotted by the state allowance, and averages a student to teacher ratio of 20:8. Cross Falls has had the most turnover in administration of the three districts studied. In the early 1990s the superintendent was a well‐respected member of the community who had taught in the district and worked his way up the ladder to the position. His children attended the schools and his presence was appreciated at many community and district events. Lured away by a more affluent district, he left in 1995; his leaving created a void missed by both teachers and administrators. His replacement suffered by comparison. Many highly regarded programs were slashed in favor of an emphasis on technology and all things technological. Staff still like to quote his statement at a school board meeting, “It’s a better program simply because it’s run on the computer”. The school board fired him after only two years. Under pressure from the community, it offered the position to the former superintendent who accepted. He returned with great fanfare and expectation, only to leave in the past year for a promotion to superintendent of the county office.
+
+As discussed earlier, this paper seeks to develop the idea of collaboration as a method of fostering democratic school environments through the continuous improvement process in these schools. The findings suggest that the development of CIP teams can foster increased collaboration among educators for student learning. The CIP fosters such democratic collaboration in the following ways.
+
+CIP, in this sample of districts, provided a sense of purpose for a leadership team to function. As a primary focus of CIP processes, the creation of better learning environments for students emerged among all teams. Educators involved in the process suggested that leadership efforts could be “channeled” and “focused” more efficaciously toward shared goals. Leadership teams were able to function as both “lighthouse” and “shore” as team members struggled to create shared accountability among all stakeholders. Furthermore, through the CIP process, new forums for teacher work were created, as the plans required joint effort to be focused on district‐wide change and accountability. Internal expertise grew, as did trust and respect among staff as teachers and administrators worked through the process of writing the CIP documentation.
+
+A Greenwood story. At the time of this study, the teacher whose story informs this narrative had just returned from an curriculum position in another district. As the math specialist, Janet Dewer had been a popular intellectual leader in the area of mathematics education and could have continued in the position indefinitely. However, she missed the classroom and, in particular, daily interaction with high school students. In her narrative she presents herself as an ambitious, focused individual. When she explains her choice to leave the district office and return to teaching, she offers the leadership opportunity on the district design committee for CIP as a reasonable intellectual outlet for her considerable skills and talents. Dewer’s narrative strategy – letting go of administrative ambitions to return to grass‐roots leadership – illustrates how she has balanced her personal ambitions with more communal goals.
+
+When I asked Janet to describe the impact of CIP on her professional life, she began talking about her desire to be a good classroom teacher. She described how she had always wanted to teach and how her parents had supported her efforts. She also stressed how supportive her high school teachers had been when she announced her plans. In her recounted telling of their efforts to support her decision, Janet stressed how they “kept saying more women should go into teaching math” and “how they kept telling me I would have a lot to offer as a colleague, how my leadership skills would do me well”.
+
+In addition to teaching, Janet’s early career had included a number of opportunities to spearhead departmental and building, level reform efforts. She was instrumental in the high school obtaining an important state level grant to support restructuring. In describing how she engineered the planning of the grant‐writing team she said, “I just allowed the staff to see how wonderful their classrooms could be. I helped them know they could be leaders in instruction”.
+
+JD: A group of us got together and decided if [another local high school] could get a [grant] so could we. Somebody who knew me from the church once said, “You’re a born leader”. I decided this was my chance … I just sold the project. I just allowed the teachers to see how wonderful their classrooms could be. I helped them know they could be leaders in instruction.
+
+The passage captures a primary theme in Janet’s narrative effort, developing local expertise and leadership within the school to foster organizational change and learning. In what follows, I focus on two narrative selections in which Janet further describes her work with the CIP design committee and how those efforts have influenced learning and community in her district.
+
+SK: Tell me about how you came to be involved with Costa’s habits of the mind.
+
+JD: Um … We needed an innovation that all of us could be involved in, it had to be a group effort, something that would capture the fancy of all the faculty, and it had to fit all grade levels, and it had to fit all subjects. It was a tall order.
+
+SK: And…
+
+JD: We searched. We also wanted something that would offer kids the opportunity to use their minds well. We had really focused on inquiry in mathematics and the committee asked me to look into programs that kind of did that. I called a few friends, they suggested this [Costa’s] program; I did some reading about it. It seemed to fit really, really well.
+
+SK: So you bought into it …
+
+JD: We went to a workshop. Through the whole workshop, I just kept hoping they’d see how great this was. How we could use these ideas not only with kids but [also] with ourselves. I just kept thinking “if we modeled this… if we could do this in our planning… if we could just get faculty to reflect together on their work using these ideas …”. I felt that I could really support this as a vision for learning in the district. We brought it back to the team. I sold it hard … Used a lot of words like vision and mission, … life‐long learning skills …um … vision and focus. Talked about how elegant our teaching could become, how we could learn and think together and with our kids. They laughed. Thought I was over the edge. One person said, I was talking in terms they’d use to describe chocolate or falling in love. I guess I had, this was an innovation with promise.
+
+Janet’s account discloses two points central to the literature on change. The first suggests the importance of developing a shared vision inclusive of beliefs about institutional purposes, practices and behavior (Louis and Kruse, 1995; Leithwood and Louis, 1998). Even if teachers, such as Janet, want to form more tightly connected social and professional connections, the absence of a core of shared values may instead produce misunderstanding and conflicts. In focusing on the development of programs and practices that had the potential to bridge central ideas about teaching and learning for faculty and students, elementary to high school, Dewer’s narrative suggests a position which allows the district staff to begin the task of developing a moral community. Such a position will ultimately allow for communal advocacy for teaching and learning practices supportive of the district’s focus on student achievement, as turned out to be the case at Greenwood. However, the pivotal strength of shared vision in the development of community and learning is not the only possible reading of Dewer’s narrative. Another reading suggests the centrality of reflection upon one’s work and in communal ways as key to the development of professional community and organizational learning.
+
+When teachers engage in serious discussion about accepting and acting on the knowledge of their peers, or how to implement an instructional model, they create new interpretations of best practice. In addition, when they consider their interpretations in light of other supportive practices that exist within the school they begin to generate new knowledge. In all these examples faculty are engaged in organizational learning, and are manifesting and strengthening professional community through reflective practice and serious examination of their own experiences as teachers.
+
+SK: But you didn’t stop with Costa as the only district initiative.
+
+JD: We couldn’t.
+
+SK: Say more.
+
+JD: We couldn’t because we also needed to attend to what was taught. Habits gave us a way to think about how we taught and … um … the kinds of work we gave students. That was real important, but what we taught and the sequence [in which] we taught it mattered also.
+
+SK: So you went with mapping.
+
+JD: Yeah, we didn’t really choose that one, the committee just signed up for the workshop. It wasn’t as well researched as habits but it fit the bill and we chose it fairly quickly.
+
+SK: Explain the process of mapping.
+
+JD: We got together in the high school cafeteria, the whole staff. It was [a teacher workday]. We spread out all our old plan books and filled out calendars about how we covered the curriculum. We wrote down what we taught when and then listed the stuff we didn’t get covered at all, that was supposed to be in the graded course of study. Then we looked for the overlaps … gaps and overlaps, that’s what we called it.
+
+SK: Hm hmm.
+
+JD: Then we talked in groups, like is this appropriate? Should we do this sooner? Later? At all? That was the hardest one. Some stuff had to be left out. Like a seventh grade science teacher who had always done egg drop. Well, seventh grade science is life science. The egg drop didn’t fit. The kids liked it, she liked it, but it really wasn’t supportive of the curriculum. So we had this really long conversation you know… why do you do this? Where’s the life science objectives? How can you justify it? She couldn’t. But she did do other really good stuff. Plant units … um … river exploration. We really talked those up. Point[ed] out that they were good and fun and supported the curriculum. In the end [after a period of weeks] she sold her egg drop idea to the physics teacher and offered to be a judge when he had the contest. That made her happy.
+
+SK: You did this in all subjects …
+
+JD: Yeah, it took about a year. We met a lot, in real meetings but over lunch too. But you know, we now all have this really excellent understanding of how the curriculum fits together. It was really worth the time. We taught each other the way we do things. What we teach, we also … we are … um … able to talk about how we could support each other. You know … vocabulary and stuff. Kids are now getting a connected curriculum. Things build on each other … amazing. I was so glad to be part of this.
+
+SK: You felt …
+
+JD: Um … Professional. Like I was doing all that stuff you read about really good schools doing. And we were doing it. I was proud to be there. And nobody was real snobby … um … we knew we needed to do this work, we taught each other.
+
+Dewer’s explanation reinforces the notions of double‐loop learning discussed earlier in the paper (Argyris and Schon, 1987; Huber, 1991). As the teachers worked through the processes of defining new values for curriculum foci, assumptions and practices were questioned and explored. Teachers were asked to hold up the decisions they made about curriculum and defend them in light of new district foci and values. When provided the opportunity to do so, cultural change emerged. New knowledge concerning practice took precedence over older, less defensible, belief structures. Formalized discussion lead to less formal conversation with communal foci on fostering learning environments conducive to accountability and responsibility.
+
+Perhaps most exciting is the finding that the CIP process focused the discussion of both the CIP team and the staff of the districts studied to the use of data‐driven decision making. The process requires that all decisions be supported by a shared inquiry into the causes and outcomes of educational choices. Educators, in the study, reported a greater sense of purpose and meaning related to the choices they made as a result of collecting and analyzing the data on student achievement. As one participant stated, “I used to use my gut as the primary data when I made a choice about my class; now I look toward other measures. It feels so much better”.
+
+A Brier Hills story. A principal in the Brier Hills district provides the narrative for this example. Maria Hollis had been a principal in two states before she came to work in the district. This final career move to Brier Hills had not been her choice; instead she followed her husband as he transferred “up the ladder” within a company long known for shifting upper management personnel. Candidly, she expressed her opinion that her prior school district, located in a coastal state, had been more progressive both in instructional pedagogy and leadership structures. In her narrative she presents herself as a thoughtful, intellectual, and student‐centered individual. Hollis’ narrative strategy of juxtaposing past professional successes with her current involvement in the CIP process suggests how she is finding equilibrium in her new position and with her new colleagues.
+
+After hearing about Hollis’ concern for the educational structures of her school district, I asked her to explain how she was working to create space for innovation and reform at Brier Hills.
+
+MH: I’m trying to do a number of things. First, I am trying to create an urgency for change by using the test data as a focal point.
+
+SK: Urgency?
+
+MH: Yes, if you’d been anywhere else in the country you’d see that they’re far ahead of us in reform. So much more modern than we are.
+
+SK: You see this as a conservative place?
+
+MH: Absolutely, they’ve done things around here for years the same way and they don’t question them.
+
+SK: How do you do this?
+
+MH: I’m creating a lot of places for teachers and parents to come together. We started having teacher/parent education nights. The teachers chose the ideas from the test data and our analysis of those results. Each time we do a new idea, we bring in speakers from local universities and have a panel where they each talk about the topic for 15 minutes and then we have Q & A.
+
+SK: Are these popular?
+
+MH: We had 175 parents at our last one.
+
+SK: How do they help?
+
+MH: They bring ideas into the district. The people, I mean, people, start to talk about what’s being said. They develop a design for change and I’m not the only one who gets it.
+
+SK: Are things happening as a result?
+
+MH: The public is much better informed they are more like partners in the effort. They are supporting us more. It’s how we got parents on the CIP teams they asked. It also makes my staff, the whole staff, know the data behind what works. When you have speakers coming in, people who know their stuff, you can’t fake it any more. It makes all of us more accountable for the things that most affect student learning.
+
+SK: And those are?
+
+MH: Curriculum … instruction … who has input into how those two things happen in classrooms.
+
+SK: Can you give me an example?
+
+MH: Like in problem solving. We know that the OPT asks kids to do a lot of explaining their answer. We’ve all studied those tests and our kids do real poor on those sections. It’s clear and we showed it to teachers and parents. We were doing almost none of that in our schools. It’s not like the textbook assignments ask for that. So we narrowed our attention into re‐designing the work students are asked to do. We are asking for a lot more explanation of answers. And then we include these papers in portfolios. The kids design them; they collect all the work and then select the things that they think show their best learning. Then we have them write an essay to explain what’s in there and why. It supports the data that the test results show. The community also supports it since we had a parent night about portfolios. They know why we’re doing it and now they expect it. That’s real accountability.
+
+Maria’s rapid‐fire narrative expresses her concern with fostering change and reform. By focusing on the creation of personal and group mastery of new content and processes she focuses collective energy on those issues believed to most greatly affect student achievement. Moreover, by creating venues where faculty and community can learn side by side Hollis has created a learning dynamic thorough a series of interdependent phases (Louis, 1994). By using data to foster, as Hollis has, a series of community meetings designed to educate a wide audience in best practices, she had provided opportunities for meaningful interaction and dialogue. Furthermore, the areas of focus have resulted in coherent attention to organizational learning in both public and more proprietary settings. First, attention is paid to choosing topics of discussion based on student need. Through an analysis of test data, faculty determines those areas about which they would like to know more. By bringing in external expertise and inviting the community to be part of the learning efforts the staff has begun the process of de‐privatizing their learning in meaningful ways. Finally, by making clear how the innovation is tied to both the data and the public forum, Hollis and Brier Hills have begun clear efforts to create linkages between what occurs within classrooms and student achievement.
+
+Present in all venues was the creation of a forum for the discussion of curriculum and instructional issues. In one district, monthly faculty meetings provided the space for a careful look at “what is effective” and a space for developing discussion related to what and how instruction occurred. Constructive conflict was fostered in the process, as were methods for resolving “how we do what we do”.
+
+A Cross Falls story. The CIP team at Cross Falls Local Schools chose as one of its goals “an attention to the development of quality work for students”. At the time of this study, Cross Falls had employed the curriculum director for 25 years. Considering himself “a serious old‐timer”, Thom Bradley had begun his teaching career at Cross Falls in a junior high English classroom and had served in several administrative roles over his tenure with the district. In his narrative he presents himself as a, “reformer whose time has come”. Citing his ability to “leave anytime I want to”, Bradley asserts that the CIP process has provided the necessary “kick in the pants” for the district to begin to “do the right things for kids”. His narrative strategy resembles that of a salesman or carnival barker, yet his strong voice has created a variety of venues in which important discussions have evolved. Bradley introduces his first narrative by way of sharing a story in which data play a critical role in fostering discussion about curriculum.
+
+TB: There had been this myth at the middle schools in the district. The teachers kept saying that the reason the kids weren’t scoring well was because of absences. I mean, it makes sense – if you’re not here you can’t learn. But I was suspect. The few kids we had who were chronic couldn’t have accounted for poor scores but the teachers wouldn’t let go of it. So, um, we decided to do a study. We took all the kids who hadn’t passed the math and reading sections of the tests and then graphed them according to absence, tardies, and suspensions. Well, guess what!Most of the kids who hadn’t passed, we don’t say failed, hadn’t been absent that much, at most six or seven days. In a middle school that’s not a lot.
+
+SK: How did the teachers take the news?
+
+TB: That’s the amazing part. It just shut that conversation down. The data terminated them. Just terminated them. They had been talking about doing all these things to get kids to come to school. Rewards for perfect attendance … all that junk. We could have wasted so much time working on programs that wouldn’t have made a difference … It just wasn’t a discussion any more. Simple as that.
+
+SK: But how did they really react? I mean, what was the fall‐out?
+
+TB: They moved on to other ideas. I stressed that then if we had them [the students] in class it was what we did in those classes that mattered. It wasn’t external, it was internal and we could work with that. We had some power here to influence how these kids did. It was a very big victory, and it was only a really small gain in the scope of things.
+
+The concept of learning as a series of “small gains” is consistent with notions that suggest that learning can occur at points of felt difficulty (Kruse and Louis, 1997). That is, when teachers and staff are connected to problem‐solving discussions and use the knowledge created within those forums to inform their practice, the potential for school‐wide change is enhanced. Furthermore, as Louis and Leithwood (1998) suggest, organizational learning can be fostered thorough a series of evolutionary cycles in which certain ideas survive only until other, more convincing ideas become present. Such cycles of adaptation are further reinforced when thought of as parts of a theory of team learning (Pounder, 1997, 1999). External stimuli, such as data, can serve as a point of mutual interest allowing the team to further research how decisions are made within the organization and to examine the purposes of decision‐making events. The next narrative focuses its story on the district’s continued efforts to make instructional and curricular decisions based on data understood and accepted by the faculty as opposed to rigidly held communal myth.
+
+SK: How did this effort at using data to create change influence other things you were attempting?
+
+TB: It changed the discussion. It really shook things up around here. I mean we had been trying to get a discussion going about the sub‐scales. The county gave us these graphs that showed how we were doing on each of the sections that made up the test. But the interest hadn’t been there. So we decided as a team to ride the wave of the last victory and as part of the victory lap offer up more data for discussion. Something clicked. I’d like to say it was me but I don’t think was. Something as right in the air.
+
+SK: So you handed out the sub‐scales.
+
+TB: Right. We gave them to building administration. Encouraged them to have a meeting. To have teachers talk about what they meant.
+
+SK: And …
+
+TB: And then we waited.
+
+SK: It took a while.
+
+TB: For us to hear back yep, almost killed me. I wanted action fast. But slowly the buildings had me come out and talk about the results. We had some conflicts. But they were real constructive, like we were being taken to the woodshed about all the meetings for CIP. Teachers didn’t like the extra time it was taking. So we offered the option for buildings to use staff meetings to do this. Imagine using staff meetings to discuss student learning. Damn near started a revolution.
+
+SK: And they switched?
+
+TB: And they loved it. Gave them time to talk. Really talk. They got to … well were forced to … focus on how what they did got kids to learn. Or didn’t. No more myth about how what we do doesn’t matter. It was a revolution for us.
+
+SK: How so?
+
+TB: We used the meetings all last year to do this, that’s [a lot] of time. Sent the message this was important. Worth the effort… And as they met they really started to talk about how they could change what they did. Our writing scores are good… we [the district team] asked them to examine what they did in writing and how they could do that in other areas. More data. Hidden data.
+
+SK: How so?
+
+TB: It forced them to talk about classroom activity as data. How they did, what they did. Know what they learned? That in writing they gave kids time to practice the processes, that they had continual review of the core ideas. This year we’re looking at how to build continual review into all subjects. Revolutionary, huh?
+
+As Thom Bradley describes the efforts undertaken at Cross Falls he suggests that as schools developed an extended collective focus on student learning, change was fostered for meaningful purposes. As opposed to prior reform models that had been adopted in haphazard ways, new ideas could be grounded in communally constructed understandings of what had the potential to foster student learning. By developing collective attention on a program that had fostered student achievement and examining it, faculty was able to engage in analysis of the available data and adopt a possibly fruitful response. Cognizant of Stringfield’s (1998) recent elaboration on the differences between ideas and innovations, I remain cautious of labeling this an innovation for Cross Falls.
+
+Stringfield (1998, p. 263) counsels that what has been “termed innovative programs in education have rarely or never been proved to produce gains in students’ achievements”. Instead, he suggests that these are merely ideas that appear to have the potential to produce the desired outcomes. True innovation, Stringfield suggests, lies in the ability of an idea to produce consistent results. It remains to be seen if the efforts in Cross Falls produce innovation. However, it is evident that their efforts have resulted in considerable progress in fostering the conditions necessary for the development of community and organizational learning.
+
+Recently, the lines of demarcation between organizational learning and professional community have become less distinct. Arguing that the conditions which foster organizational learning and professional community are complimentary, researchers have begun to consider these two theoretical positions as necessarily co‐developing in school organizations that make considerable progress toward lasting change and reform (Leithwood and Louis, 1998; Louis et al., 1996; Scribner et al., 1999). As we have seen here, district efforts with sustained and meaningful organizational learning may result in extended periods of disequilibrium, in which group members are more likely to recognize continuing differences and the need for continuing change. Contending that the features of democratic community serve to sustain work groups through these extended periods of disequilibrium, researchers have begun to address, in tandem, both the work of instruction and the context of instruction, calling this organizational form the professional learning community (Leithwood and Louis, 1998; Peurach and Rowan, 1999; Pounder, 1998; Scribner et al., 1999). By addressing learning and community, context and work, as co‐developing theory researchers have begun to seek alternative paths of developing organizational perspectives on instructional improvement and, as a result, accountability for student learning outcomes. Using the context of instruction and the work of instruction as organizing themes, first as separate and then as linked ideas, let us consider how learning and democratic community may serve to advance this emergent theory.
+
+Defining the context of instruction as the organizational structures, formal, social and environmental, which serve to enhance student learning, the context in which teachers and administrators labor has considerable impact on the eventual outcomes of reform initiatives and efforts. The districts studied here concentrated considerable attention on designing structures that provided for communal opportunity to study and reform. By attending to the context in which teachers worked and creating new and novel structures for those tasks to occur, district‐level design teams were able to choreograph the work of teachers in two distinct ways. First, issues of professional knowledge building were made foundational to all efforts. By starting from the assumption that as a team the entire organization had shared purposes for learning, the teams were able to create focused learning opportunities that captured the interests of a wide variety of members. As Brier Hills illustrated, parent learning nights could provide opportunities for community discussion focused on the creation of shared understandings of student learning. Cross Falls’ attention to using meeting time well suggests new models of time during the school day can be developed to enhance faculty and staff learning. Second, coherent actions were applied to address the concerns of team members. As the Greenwood data suggest, development of cognitive and social leadership opportunities focused on topics that engaged faculty in meaningful attention to student achievement goals holds promise for resultant systemic change. Together, by addressing knowledge building and action in public ways, the nature of the work helped to change the context in which reform could be realized.
+
+Moreover, carefully orchestrated attention to data and its uses in the decision‐making process allowed these districts to attend to the issues and problems that most affected the performance of students in their classrooms across all levels. Unlike some district‐level reform models that have assessed specific problems with student performance only to then provide a “one‐size‐fits‐all” solution, the use of data at the district and building level has allowed these schools to make inferences about what is lacking within the educational programs and then provide more aligned instructional improvements.
+
+However, the work cannot and does not occur spontaneously, without intervention by faculty developers and other supportive leaders. Demanding forms of support are necessary for CIP as a reform to become entrenched. Ongoing in‐service and planning meetings are expensive, time‐consuming events. Currently, all these districts are lacking a mechanism for reforming the contexts of teachers’ work to include attention to data collection and analysis concerning the work of teachers and children in ways that sustain such efforts. Even after three years of work, attention remains focused on reform as an event in which teachers gather to learn individually and together in sporadic and diffuse ways. The gap between CIP as an “add‐on” to the work of teachers, rather than an enduring phenomenon, has yet to be closed. To do so will require considerable attention to the structures of teachers’ work that have yet to be examined in these districts.
+
+Furthermore, the work of instruction can have a powerful effect on prospective student achievement. The districts studied here focused their communal efforts at re‐designing their work on instruction in ways that would, in time, change the ways teachers interact with students, curriculum and tasks in such a way that students would learn more. Cross‐case analysis suggests several key features of the reform efforts. First, curriculum alignment and curriculum mapping appear to provide teachers and administrators necessary data to inform their discussions of curricular cadence and pace. The data provided thorough alignment and mapping efforts allowed teachers a vocabulary to begin discussion concerning curriculum placement and student learning devoid of the traditional “turf wars”. However, the schools which participated in alignment and mapping activities did not focus on creating symmetry in all classes, rather curriculum alignment opportunities provided the teachers the forum in which to begin discussion about varied activities and methods designed to teach common outcomes. Second, attention to extended written response in all subject area work tasks appears to hold promise as a method to increase the quality of student response as well as providing teachers important data on student understanding of conceptual outcomes. Third, on‐going staff development, focused on issues directly responsive to student learning across all grade levels (such as Costa’s habits of the mind in Greenwood, and on continual review in Cross Falls), allows teachers to shift their primary attachments away from more traditional grade level and departmental foci and toward school‐wide and district‐wide attentions. Fourth, portfolio assessment of student work that is focused on a process of collection, selection and reflection shows potentiality as a cognitive organizer for both students and teachers to begin to draw greater “big picture” understandings of disciplinary knowledge and processes. As illustrated in both Brier Hills and Greenwood, portfolio assessments guided by attention to essential ideas and concepts of the discipline afford both teachers and students periodic review of what has been learned and ongoing attention to how those ideas are linked.
+
+While conceptions of the work of instruction and the context of instruction are by themselves useful constructions with which to consider school reform initiatives, they hold greater promise when considered together. In tandem, they suggest a number of implications for fostering growth in school districts. This final section offers three suggested guidelines for consideration of these as co‐developing themes.
+
+Guideline 1: construct and support regular systems and opportunities for thick interpersonal dialogue. Social exchange and interaction is vital to the development of a professional learning community. The amount and depth of learning will be a direct function of the number of opportunities given to team members to work, talk and reflect together. As illustrated in the district examples, both small and large group efforts, cross‐district, grade‐level teams and departmental meetings, as well as parent conversations, are necessary to foster deep, as opposed to superficial, understandings of core goals and values.
+
+Guideline 2: construct and support regular opportunity for introduction of external ideas in concert with attention to internally developed skills and training. Acquisition of external knowledge and expertise, in ways that foster shared understandings, appears to be a promising strategy for districts to engage in co‐development. Unlike former models in which buildings, departments, or grade‐level teams determine in‐service choices, data from this study suggest that sustained attention to a single, unifying focus can provide a coherence to the K‐12 instructional program. Furthermore, as districts seek to develop intra‐organizational foci on instructional innovation, it becomes necessary to develop internal expertise to support initial externally guided efforts. Through the development of internal expertise and expert assistance, such efforts can form the cornerstone upon which future efforts can arise.
+
+Guideline 3: construct and support internal monitoring systems responsive to data collection and analysis. A problem for schools and school districts trying to become professional learning communities has to do with the form used for transmitting, communicating, storing and retrieving information. The norm inschools is verbal communication of anecdotal information. Often, the information passed along is based less on data and more on an individual’s sense of “how things are”. The Cross Falls example of student absence and its affect on test scores provides a salient example here. When presented with the irrefutable data suggesting that high absences could not fully explain poor organizational performance, the dialogue shifted to other, more probable, explanations for insufficient student achievement. Schools need to develop dependable organizational forms so that valuable organizational knowledge can be readily captured, stored, and analyzed for the purposes of ongoing knowledge acquisition and organizational learning.
+
+The argument presented in this paper rests on a basic assumption that major changes at the district level are needed to develop a district‐wide focus on continuous improvement planning and subsequent accountability for student performance. Yet, as the stories shared by the narratives suggest, this is neither a simple or effortless task. However, several observations can be made. First, CIP can provide the architecture to support district‐wide, double‐loop organizational learning. Because the elements of the CIP process so tightly align with the elements of the professional learning community, the processes can be viewed as supportive of district‐wide,efforts to address systemic organizational reform. Second, learning cannot be limited to cognitive concerns; social learning is of equal importance. Information held by individuals must be regularly shared and discussed in large and small group efforts if significant reform is to be achieved. Finally, thorough dual attention to the context of instruction and the work of instruction foundations can be developed for district‐wide foci on student learning, and subsequent accountability for student achievement.
+
+Abbott, A. (1991), “The order of professionalization: an empirical analysis”, Work and Occupations, Vol. 18 No. 4, pp. 355‐84.
+
+Argyris, C. and Schon, D. (1978), Organizational Learning: A Theory of Action Perspective, Addison‐Wesley, Reading, MA.
+
+Bellah, R.M., Madsen, R., Sullivan, W.M., Swidler, A. and Tipton, S.M. (1985), Habits of the Heart: Individualism and Commitment in American Life, Perennial Library, New York, NY.
+
+Beck, L. (1999), “Metaphors of educational community: an analysis of the images that reflect and influence scholarship and practice”, Educational Administration Quarterly, Vol. 35 No. 1, pp.13‐45.
+
+Benveniste, G. (1988), Professionalizing the Organization, Jossey Bass, San Francisco, CA.
+
+Bloom, L.R. (1998), Under the Sign of Hope: Feminist Methodology and Narrative Interpretation, SUNY, New York, NY.
+
+Burrage, M. and Torstendahl, R. (1990), Professions in Theory and History, Sage, Newbury Park, CA.
+
+Caldwell, B.J. and Spinks, J.M. (1992), Leading the Self‐Managed School, Falmer Press, New York , NY.
+
+Chase, S. (1995), Ambiguous empowerment: The Work Narratives of Women School Superintendents, University of Massachusetts Press, Amherst, MA.
+
+Czarniawska, B. (1997), Narrating the Organization: Dramas of Institutional Identity, University of Chicago Press, Chicago, IL.
+
+Czarniawska, B. (1998), A Narrative Approach to Organization Studies, Sage, Newbury Park, CA.
+
+Daft, R. and Huber, G. (1987), “How organizations learn”, in Di Tomaso, N. and Bacharach, S. (Eds), Research in Sociology of Organizations, Vol. 5, JAI, Greenwich, CA.
+
+Erb, T.O. (1995), “Teamwork in middle school education”, in Garner, H.G. (Ed.), Teamwork Models and Experience in Education, Allyn & Bacon, Boston, MA.
+
+Etzioni, A. (1991), A Responsive Society, Jossey Bass, San Francisco, CA.
+
+Etzioni, A. (1993), The Spirit of Community: Rights, Responsibilities and the Communitarian Agenda, Crown, New York, NY.
+
+Firestone, W.A. and Bader, B.D. (1992), Redesigning Teaching: Professionalism or Bureaucracy?, State University of New York Press, Albany, NY.
+
+Forsyth, P.B. and Danisiewicz (1985), “Toward a theory of professionalization”, Work and Occupations, Vol. 12 No. 1, pp. 59‐76.
+
+Hackman, J. (Ed.) (1990), Groups that Work (and Those That Don’t): Creating Conditions for Effective Teamwork, Jossey Bass, San Francisco, CA.
+
+Hackman, J. and Oldman, G. (1980), Work Redesign, Addison‐Wesley , Reading, MA.
+
+Haimes, R. (1995), “Planning for change”, in Garner, H.G. (Ed.), Teamwork Models and Experience in Education, Allyn and Bacon, Boston, MA.
+
+Hargreaves, A. (1994), Changing Teachers, Changing Times: Teachers Work and Culture in the Postmodern Age, Teachers College Press, New York, NY.
+
+Hedberg, B. (1981), “How organizations learn and unlearn”, in Nystrom, P.C. and Starbuck, W.H. (Eds) The Handbook of Organizational Design, Vol. 1, Oxford University Press, New York, NY.
+
+Heshusius, L. and Ballard, K. (1996), From Positivism to Interpretivism and Beyond, Teachers College Press, New York, NY.
+
+Huber, G.P. (1991), “Organizational learning: the contributing processes and the literatures”, Organization Science, Vol. 2 No. 1, pp. 88‐115.
+
+Josselson, R. and Lieblich, A. (1995), Interpreting Experience: The Narrative Study of Lives, Sage, Newbury Park, CA.
+
+Keefe, J.W. and Howard, E.R. (1997), Redesigning Schools for the New Century: A Systems Approach, National Association of Secondary School Principals, Reston, VA.
+
+Kruse, S.D. and Louis, K.S. (1997), “Teachers’ reflective work: school based support structures”, Educational Administration Quarterly, Vol. 33 No. 3, pp. 261‐89.
+
+Kruse, S.D., Louis, K.S. and Bryk, A.S. (1995), “An emerging framework for analyzing school‐based professional community”, in Louis, K.S. and Kruse, S.D. (Eds), Professionalism and Community: Perspectives from Urban Schools, Corwin Press, Thousand Oaks, CA.
+
+Labov, W. (1982), “Speech actions and reactions in narrative analysis”, Tannen, D. (Ed.) Analyzing discourse: Text and Talk, Georgetown University Press, Washington, DC.
+
+Lave, J. (1984), Everyday Cognition: Its Development in Social Context, Harvard University Press, Cambridge, MA.
+
+Leithwood, K. and Louis, K.S. (1998), Organizational Learning in Schools, Swets and Zeitlinger, Lissie.
+
+Louis, K.S. (1994), “Beyond managed change”, School Effectiveness and School Improvement, Vol.5 No. 1, pp. 24‐42.
+
+Louis, K.S. and Kruse, S.D. (1995), Professionalism and Community: Perspectives from Urban Schools, Corwin, Thousand Oaks, CA.
+
+Louis, K.S. and Kruse, S.D. (1998), “Creating community in reform: images of organizational learning in inner‐city schools”, in Leithwood, K. and Louis, K.S. (Eds), Organizational Learning in Schools, Swets and Zeitlinger, Lissie.
+
+Louis, K.S. and Miles, M. (1990), Improving the Urban High School: What Works and Why, Teacher’s College Press, New York, NY.
+
+Louis, K.S., Kruse, S.D. and Raywid, M. (1996), “Putting teachers at the center of reform: learning schools and professional communities”, NASSP Bulletin, Vol. 80 No. 580, pp. 9‐21.
+
+Louis, K.S., Marks, H. and Kruse, S.D. (1997), “Teachers’ professional community in restructuring schools”, American Educational Research Journal, Vol. 33 No. 4, pp. 757‐98.
+
+Merriam, S. (1998), Qualitative Research and Case Study Applications in Education, Jossey Bass, Chicago, IL.
+
+Miles, M. and Huberman, A.M. (1994), Qualitative Data Analysis, Sage, Thousand Oaks, CA.
+
+Newmann, F. and Associates (1996), Authentic Achievement: Restructuring for intellectual quality, Jossey Bass, Chicago, IL.
+
+Peurach, D.J. and Rowan, B. (1999), “Organizational perspectives on instructional improvement”, paper presented at the annual meeting of the American Educational Research Association, Montreal.
+
+Pounder, D.G. (1998), Restructuring Schools for Collaboration: Promises and Pitfalls, SUNY, Albany, NY.
+
+Pounder, D.G. (1999), “Teacher teams: exploring job characteristics and work‐related outcomes of work group enhancement”, Educational Administration Quarterly, Vol. 35 No. 3, pp. 317‐48.
+
+Rait, E. (1995), “Against the current: organizational learning in schools”, in Bacharach, S.B. and Mundell, B. (Eds), Images of Schools: Structures and Roles in Organizational Behavior, Sage, Newbury Park, CA.
+
+Riessman, C.K. (1993), Narrative Analysis, Sage, Newbury Park, CA.
+
+Rowan, B. (1991), “The shape of professional communities in schools”, paper presented at the annual meetings of the American Educational Research Association, Chicago, IL.
+
+Rowan, B. (1994), “Comparing teachers’ work with work in other occupations: notes on the professional status on teaching”, Educational Researcher, Vol. 23 No. 6, pp. 4‐18.
+
+Schlecty, P. (1997), Inventing Better Schools: An Action Plan for Educational Reform, Jossey Bass, San Francisco, CA.
+
+Scribner, J.P., Cockrell, K.S., Cockrell, D.H. and Valentine, J.W. (1999), “Creating professional communities in schools through organizational learning: an evaluation of a school improvement process”, Educational Administration Quarterly, Vol. 35 No. 1, pp. 130‐60.
+
+Senge, P. (1990), The Fifth Discipline, Doubleday, New York, NY.
+
+Strike, K. (1999), “Can schools be communities? The tension between shared values and inclusion”, Educational Administration Quarterly, Vol. 35 No. 1, pp. 46‐70.
+
+Stringfield, S. (1998), “Organizational learning and current reform efforts: from exploitation to exploration”, in Leithwood, K. and Louis, K.S. (Eds), Organizational Learning in Schools, Swets and Zeitlinger, Lissie.
+
+Talbert, J.E. (1986), “The staging of teachers’ careers: an institutional perspective”, Work and Occupations, Vol. 13 No. 1, pp. 421‐43.
+
+Talbert, J.E. (1991), “Boundaries of teachers’ professional communities in US high schools”, paper presented at the annual meeting of the American Educational Research Association, Chicago, IL.
+
+Valentine, J.W. (1997), Staff Development Manual, University of Missouri, Missouri Center for School Improvement, Columbia, MO.
+
+Westheimer, J. (1999), “Communities and consequences: an inquiry into ideology and practice inteachers’ professional work”, Education Administration Quarterly, Vol. 35 No. 1, pp. 71‐105
+
+Wilkinson, A. and Smith, M. (1995), “Team recruitment, team building, and skill development”, in Garner, H.G. (Ed.), Teamwork Models and Experience in Education, Allyn & Bacon, Boston, MA.
+
+Witherell, C. and Noddings, N. (1991), Stories Lives Tell: Narrative and Dialogue in Education, Teachers College Press, New York, NY.
+
+Yankelovich, D. (1981), New Rules: Searching for Self‐fulfillment in a World Turned Upside Down, Random House, New York, NY.
+
+Yin (1996), Case Study Research, Sage, Thousand Oaks, CA.
+
+Creating communities of reform: continuous improvement planning teams
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Literature
+
+The CIP process
+
+Method and data sources
+
+School sites – the districts
+
+Findings
+
+Discussion
+
+References
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Educational Administration
+
+Volume 39 Issue 4
+
+Creating communities of reform: continuous improvement planning teams
+
+Abstract
+
+Introduction
+
+Literature
+
+The CIP process
+
+Method and data sources
+
+School sites – the districts
+
+Findings
+
+Discussion
+
+Schools
+
+Organizational change
+
+Organizational theory
+
+Qualitive techniques
+
+•
+the development of continuous improvement planning in schools as a form of collaboration around and for student achievement; and
+
+•
+the ability of such collaboration to foster engaged, democratic, organizational forms in schools.
+
+1.
+(1) steering committee, focus team, or school governance meetings;
+
+2.
+(2) sub‐committee planning meetings; and
+
+3.
+(3) faculty or whole school meetings.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility

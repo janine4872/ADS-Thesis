@@ -1,0 +1,250 @@
+SUMMARY
+Mental ill-health is a major problem worldwide. It includes depression, aggressive behavior, feeling down and alcohol and drug abuse. Since all children go to school, the school is an obvious arena for health interventions. A set of educational techniques named Social and Emotional Learning, based on the use by teachers of cognitive and behavioral methods, which teaches students self-control, social competence, empathy, motivation and self-awareness, has shown promising results in the USA. This paper reports on the application of similar techniques in Sweden (the Social and Emotional Training [SET] program). The study has a quasi-experimental longitudinal design, with two intervention and two control schools. A wide range of instruments, both Swedish and international, are employed. In this paper, results from the school years 1999–2000 (baseline) through to 2001–2002 are reported. Both the intervention and the data collection were performed by ordinary school staff in a routine school setting. Independent bi-annual ratings of teachers' performance were moderate to high, and teachers' perceptions of the program were generally, although by no means universally, high. However, their performance was poorer with regard to the collection of data. In terms of promotion, findings with regard to the impact of the program on mental health are generally favorable—in particular through the promotion of aspects of self-image, including well-being and the hindering of aggressiveness, bullying, attention-seeking and alcohol use. There was, however, no differential effect on social skills. It seems that SET has the potential to operate effectively as a health-promoting intervention during the school period, although its main impact may rather be to act as a brake on the deterioration in some aspects of mental health that is common during adolescence. Positively significant relationships were found on some but not all of the instrument scales, and effect sizes were medium.
+
+mental health, school-based intervention, social and emotional learning
+Issue Section: Original Papers
+INTRODUCTION
+Mental ill-health is a major problem worldwide. It includes depression, aggressive behavior, feeling down and alcohol and drug abuse. Among people aged 1–44, mental ill-health is the greatest problem in high-income countries. Specifically, internalizing problems, such as depression, are important, since they have been demonstrated to account for a larger proportion of mental ill-health than externalizing problems (Murray and Lopez, 1996).
+
+Since all children go to school, the school is an obvious arena for mental-health promotion. A set of pedagogic techniques, Social and Emotional Learning (SEL), based on cognitive and behavioral methods, is available to teachers to train students to improve self-control, social competence, empathy, motivation and self-awareness, and has shown promising results (Spivack and Shure, 1974; Durlak and Wells, 1977; Durlak, 1997; Greenberg et al., 2001; Catalano et al., 2002; Durlak and Weissberg, 2005).
+
+One example of such a program is Providing Alternative Thinking Strategies (PATHS), which has been evaluated by Greenberg and colleagues (Greenberg, 1996; Elias et al., 1997; Riggs et al., 2006). One-year improvements have been found on social problem-solving, emotional understanding, self-report of conduct problems, teacher ratings of adaptive behavior and cognitive abilities related to social planning and impulsiveness (Catalano et al., 2002).
+
+The published literature seems to reveal four recurrent weaknesses of school-based intervention studies. First, they focus on a limited range of outcomes, especially on externalizing problems such as aggression and violence and alcohol and drug abuse. Internalizing problems, such as depression and anxiety, tend not to be so intensively explored. Second, few studies include a broad range of school grades. It has been claimed that ‘short-term preventive interventions produce time-limited benefits, at best, with at-risk groups whereas multi-year programs are more likely to foster enduring benefits’ (Greenberg et al., 2001, p. 32). Third, to our knowledge, all peer-reviewed studies published so far have been conducted in the USA. Fourth, most of the studies report on efficacy trials, undertaken with a research team in charge, rather than effectiveness trials conducted in a community setting (Greenberg, 2004; Marlowe, 2004).
+
+This study of a Swedish SEL program (with acronym SET, for Social and Emotional Training) attempts to address all four of these relative shortcomings. First, it emphasizes internalizing mental-health aspects as well as externalizing ones. Second, being a multi-year program, it covers all grades of compulsory school (1–9). Third, it is conducted in a European country, namely Sweden. Fourth, the program has been implemented in a real-life community setting.
+
+In this study, the effects of SET on internalizing and externalizing problems during the first 2 years of program implementation are analyzed.
+
+METHOD
+Design
+The study has a quasi-experimental longitudinal design. The SET intervention, which is still ongoing, started in two schools in August 2000. For the study, two other schools not using SET served as controls. Baseline measurements were taken in May 2000 (t0) before the start of the intervention. Succeeding assessments were made in May 2001 (t1) and May 2002 (t2).
+
+Population
+In Sweden compulsory school encompasses grades 1–9; children begin school at age 7 and end at age 16. The study was carried out in Botkyrka Municipality, located in the Stockholm metropolitan area, where there are eight schools covering all grades (1–9). The study participants attended grades 1–7 in four of these schools in school year 1999–2000, and responded to questionnaires in May 2000 (t0), May 2001 (t1) and May 2002 (t2). Students attending grades 1–3 at t0 were named junior, while those attending grades 4–7 at t0 were called senior. Two of the eight schools in Botkyrka were chosen as intervention schools. For comparative purposes, a No-SET school of similar size serving a socio-economically similar population was selected for each SET school.
+
+There were 110 classes in the two SET schools taken together; one had six classes per grade, the other five. Three classes at each of the first seven grades (1–7) within the two SET schools were then chosen on an organizational basis, i.e. from the same building or from among the particular classes for which a deputy head-teacher had responsibility, thus making 42 experimental classes in total. One class dropped out for administrative reasons, giving a final total of 41 experimental classes. The No-SET classes were chosen by the head-teachers of these schools, one for each grade (14 in total). The population was defined as those who responded to the questionnaire at t0. With regard to conventional absence of students (due to illness, truancy, etc.), the percentages ranged between 4 and 5.
+
+The intervention
+The SET program, designed by the first author of this paper (Kimber, 2001a; Kimber, 2001b), was delivered by regular class teachers during scheduled hours: to grades 1–5 twice a week, each session of 45 min, and to grades 6–9 in one 45-min session per week over the school year. The program is guided by detailed manuals for the teacher, one volume for each grade. It also includes a workbook for students of each grade. Altogether, the program consists of 399 concrete exercises, some of which are inspired by similar programs in the USA (e.g. Greenberg, 1996; Elias et al., 1997).
+
+SET focuses on helping to develop the following five functions of the students: self-awareness, managing one's emotions, empathy, motivation and social competence. Typically, the functional components merge into one another and any one exercise may address several functions. The following themes recur in the tasks: social problem solution, handling strong emotions, appreciating similarities and differences, clarification of values, conflict management, interpretation of pictures and narratives, making more of what makes one feel good, resisting peer pressure and being able to say ‘No’, knowing what one is feeling, recognizing people and situations, cooperation, listening to and relaying messages, setting goals and working to attain them, giving and receiving positive feedback and stress management.
+
+Teachers are instructed to use modeling and role-play in the exercises, and students must practice not only in but also outside school (including the home). Interaction between school and parents is emphasized.
+
+Training and monitoring of the teachers
+The first author trained the teachers in SET in the school year 1999–2000; they had an opportunity to try out the relevant exercises themselves, and test them in their classes. The teachers were supervised once a month during the school year 2000–2001 and offered voluntary supervision during 2001–2002. Independent ratings were performed of all the SET teachers bi-annually, and an interview survey of a random sample of teachers was conducted in 2003 after 2 years of implementation (Gadd, 2003).
+
+Instruments
+All the instruments employed are well-established and have documented reliability and validity.
+
+I Think I Am (ITIA) is the Swedish self-rating instrument, ‘Jag tycker jag är’ (Ouvinen-Birgerstam, 1985), which has roots in American research (Coopersmith, 1967). It maps the young person's self-image and self-esteem, and has subscales for Body Image, Family Relations, Psychological Well-being, Relations with Others, and Talent/Abilities.
+
+There are two versions of the instrument: ITIA-I for grades 1–3 and ITIA-II for grades 4–9. In ITIA-I, students answer ‘Yes’ or ‘No’ to 32 questions; in ITIA-II students respond to 72 statements on four-point scales, ‘Exactly like me’, ‘Almost like me’, ‘Very little like me’, ‘Not at all like me’. Examples are: ‘I have a nice face’, ‘I like myself’, ‘I am often sad’, ‘My parents trust me’. The items in ITIA-I are scored 1 or -1, in ITIA-II from 2 to -2. The scoring of half of the items was reversed so that higher scores always indicate more positive self-image or self-esteem.
+
+Students in grades 4–9 also responded to a second questionnaire with the following components:
+
+Youth Self-Report (Achenbach and Edelbrock, 1987), used here in an abbreviated Swedish version (Lindberg et al., 1999), measures mental-health symptoms and problems. Questionnaire items are rated on a three-step response scale ‘Not true’, ‘Somewhat or sometimes true’, ‘Very true or often true’. Using principal components factor analysis, with Oblimin rotation (Harman, 1976), of data on all respondents at t1, four factors with eigenvalues >2 were extracted, jointly accounting for 53% of the total variance. The four subscales were named Anxiety, e.g. feeling worthless or inferior and feeling unhappy (14 items); Aggressiveness, e.g. threatening to hurt people, destroying things that belong to others (nine items); Assertiveness, e.g. being stubborn, mood swings (five items); and, Attention-seeking, e.g. trying to attract a lot of attention, bragging (four items). The lower the score, the lesser the problem.
+
+Mastery (Pearlin et al., 1981), used in Swedish translation, is a self-rating instrument measuring feelings of self-efficacy or hopelessness. Nine items are rated on four-step scales, with responses ranging from ‘Strongly agree’ to ‘Strongly disagree’. Examples include: ‘There is really no way I can solve the problems I have’, and ‘I have little control over the things that happen to me’. After reversed scoring of some items, higher scores indicate higher sense of self-efficacy.
+
+The Social Skills Rating System (SSRS) (Gresham and Elliott, 1990) consists of 34 items for grades 4–9, all with four-point response scales: ‘Never’ (0), ‘Sometimes’ (1), ‘Often’ (2), ‘Very often’ (3). Scores were obtained on four subscales: assertion, cooperation, empathy and self-control, as defined in the manual. Higher scores indicate greater social skills.
+
+Contentment in School refers to a single item, ‘How do you like it in school?’, from a questionnaire administered annually by the Swedish Council for Information on Alcohol and Other Drugs (CAN). See Hibell et al. (1997). Contentment was rated on a five-step response scale, ranging from ‘Very bad’ to ‘Very good’. The higher the score, the greater the contentment.
+
+Bullying is measured on a three-item self-report scale (being insulted; physically assaulted; ‘being sent to Coventry’), also from the CAN questionnaire. Responses are given on three-step scales, ranging from ‘No, seldom or never’ to ‘Yes, often’. Lower scores indicate fewer problems.
+
+Drug use is measured on four CAN self-report scales, and refers to the use of tobacco (seven-step scale, from ‘Never’ to ‘Every day’), alcohol (nine-step scale from ‘Do not drink’ to ‘Every day’), volative substances (three-step scale, from ‘No’ to ‘Yes, several times’) and illegal narcotics (seven-step scale, from ‘Never’ to ‘More than 50 times’). These items were administered only in grades 7–9. The lower the score, the less is use on each item.
+
+A summary account of the scales derived from the instruments, and their alpha reliabilities and re-test correlations (between t0 and t1 and between t1 and t2) at different grades, is given in Table 1.
+
+
+
+Table 1:Open in new tabInstruments and scales used with reliabilities (Cronbach's alpha) and re-test correlations
+Grades	Instrument/scale	t0 (May 2000) α	t1 (May 2001) α	t2 (May 2002) α	r(t0 t1)	r(t1 t2)
+ITIA-I					
+1–3	 Body image	0.56	0.50	0.43	0.35	0.34
+ Family relations	0.47	0.52	0.53	0.35	0.41
+ Psychological well-being	0.62	0.59	0.55	0.37	0.33
+ Relations with others	0.54	0.50	0.55	0.33	0.29
+ Talents/abilities	0.54	0.49	0.44	0.25	0.38
+ Total score	0.82	0.79	0.79	0.47	0.41
+ITIA-II					
+4–9	 Body image	0.78	0.80	0.77	0.62	0.46
+ Family relations	0.80	0.85	0.83	0.56	0.64
+ Psychological well-being	0.80	0.83	0.80	0.60	0.52
+ Relations with others	0.71	0.74	0.65	0.53	0.41
+ Talents/abilities	0.76	0.81	0.81	0.64	0.48
+ Total score	0.92	0.95	0.93	0.66	0.57
+YSR					
+ Aggression		0.77	0.76		0.39
+ Anxiety		0.85	0.88		0.46
+ Assertiveness		0.68	0.67		0.60
+ Attention-seeking		0.57	0.55		0.40
+ Total score		0.89	0.89		0.51
+Mastery		0.52	0.59		0.45
+Contentment in school		n.a.a	n.a.a		0.44
+Bullying		0.71	0.65		0.25
+SSRS					
+ Assertion		0.60	0.61		0.52
+ Cooperation		0.76	0.75		0.53
+ Empathy		0.79	0.76		0.48
+ Self-control		0.58	0.59		0.40
+ Total score		0.89	0.89		0.53
+Drug use					
+7–9	 Alcohol		n.a.a	n.a.a		0.58
+ Narcotic drugs		n.a.a	n.a.a		−0.02
+ Smoking		n.a.a	n.a.a		0.73
+ Volative substances		n.a.a	n.a.a		0.24
+aScale had only one item.
+
+Note: The SET intervention started in August 2000 and is still ongoing.
+
+Procedures
+The questionnaires were distributed each May by deputy head teachers, and administered during school hours by regular class teachers. The questionnaires were then relayed back to the deputy head teachers and forwarded for data entry by an independent organization. For the statistical analyses only fully completed questionnaires were used. Since missing values were not randomly distributed, it was inappropriate to impute missing data.
+
+Statistical analyses
+Differences between the groups (SET and No SET) in their development from May 2001 (t1) to May 2002 (t2) on each scale or subscale were analyzed separately by running a repeated-measures ANCOVA (or MANCOVA). SET or No SET and year (t1 and t2) were the independent variables, and the scale (or subscale) of each instrument the dependent variable(s). The five ITIA subscales at t0 were used as covariates after standardizing each scale within each school level, i.e. separately for ITIA-I and ITIA-II. The GLM routine of SPSS, version 11, was used. Significance was set at 0.05.
+
+Using Becker's (1988) approach, between-groups effect sizes were computed for each dependent variable from unadjusted (raw score) means and standard deviations (SD) at t1. Thus, a within-group d was computed for each SET group by dividing the t2 - t1 means difference by the t1 SD and then subtracting the within-group d in the No-SET group from that in the SET group. This gives a change effect size (Δ) parameter. Cohen's designations of effect size (small = 0.2, medium = 0.5, large = 0.8) were employed (Cohen, 1988).
+
+Although a variety of multilevel analyses would have been appropriate, this would have been extremely complicated. Thus, no adjustments were made for intra-classroom or intra-school dependencies.
+
+RESULTS
+Participation and dropout
+Participation by school level, SET/No-SET group and year are shown in Table 2. In the case of senior students, due to improved administrative routines, more cases were available for the YSR, Mastery, Contentment in School, Bullying and the SSRS than for ITIA-II
+
+Table 2:Open in new tabNumber of study respondents for each time of measurement by school level, SET/No-SET group and year
+Grade and year	Respondents
+SET	No SET
+Junior level (grades 1–3)		
+t0 (May 2000)	287 (100%)	127 (100%)
+t1 (May 2001)	172 (60%)	60 (47%)
+t2 (May 2002)	74 (26%)	19 (15%)
+Senior level (grades 4–9)		
+t0 (May 2000)	741 (100%)	262 (100%)
+t1 (May 2001)	686 (93%)	251 (96%)
+t2 (May 2002)	356 (48%)	112 (43%)
+Using baseline (t0) scores for remainers and dropouts on the ITIA subscales (the only data available to us on dropouts at t1), we analyzed the effects of attrition from baseline May 2000 (t0) to May 2001 (t1), and also from baseline May 2000 (t0) to May 2002 (t2).
+
+At junior level, the dropouts at t1 did not differ significantly from the remainers on any of the subscales, multivariate F (5; 423) = 1.45, p = 0.205, and there was no significant interaction between the SET/No-SET groups and remainers/dropouts, multivariate F (5; 423) = 2.10, p = 0.065. Again at t2, dropouts did not differ significantly from remainers on any of the subscales, multivariate F (5; 423) = 1.02, p = 0.408. Interaction between the SET/No-SET groups and remainers/dropouts, however, was multivariately significant, multivariate F (5; 423) = 2.48, p = 0.031. This reflects a single significant univariate interaction on the Relations with Others subscale, on which dropouts in the No-SET group, by contrast with those in the SET group, had significantly lower scores than remainers at baseline.
+
+At senior level, the dropouts at t1 had significantly lower baseline scores than the remainers on all subscales except Body Image, multivariate F (5; 761) = 2.89, p = 0.014. The interaction was not significant, multivariate F (5; 423) = 0.54, p = 0.746. At t2 the dropouts had significantly lower baseline scores than the remainers on all subscales, multivariate F (5; 761) = 6.77, p = 0.000. Again, the interaction was not significant, multivariate F (5; 761) = 1.00, p = 0.416. However, there was a univariate interaction on the Psychological Well-being subscale, in that the remainers in the SET group had lower baseline scores than the remainers in the No-SET group, F (1; 765) = 3.91, p = 0.048.
+
+We also analyzed the effects of attrition between t1 and t2 by comparing the scores of t2 dropouts and t2 remainers on a selection of outcome variables at t1. At t1 the t2 dropouts tended to have had significantly lower scores on the ITIA-I subscales than the students who remained in the study, multivariate F (5; 375) = 2.56, p = 0.027, whereas their scores on the ITIA-II subscales did not differ. Also, the dropouts at t2 differed from the remainers on the YSR subscales, multivariate F (4; 1097) = 4.69, p = 0.001, reflecting significantly higher t1 scores on Anxiety among the dropouts. They also had higher scores on the four drug-use scales, multivariate F (4; 357) = 2.77, p = 0.027. No significant t1 difference between dropouts and remainers was found for Contentment in School. Critically, on none of these scales or subscales was there any significant interaction between the SET/No-SET groups and the dropouts/remainers; for the ITIA-I subscales, F (5; 375) = 0.95, p = 0.446; for the ITIA-II subscales, F (5; 610) = 1.54, p = 0.176; for the YSR subscales, F (4; 1097) = 1.17, p = 0.321; and, for Contentment in School, F (1; 1086) = 3.13, p = 0.077.
+
+We concluded that attrition, whether from baseline onwards or between t1 and t2, was unlikely to have biased the comparisons between the SET and No-SET groups in either direction.
+
+Main findings
+Junior students
+The effect of SET was tested by a MANCOVA comparing the ITIA-I subscales for the SET and No-SET students at t1 and t2. Standardized ITIA-I subscale scores at t0 were used as covariates. The mean scores and between-groups Δs are shown in Table 3. The multivariate probability (p = 0.058) approached significance, although the subscale differences were all non-significant.
+
+
+
+Table 3:Open in new tabJunior sample (grades 1–3): raw score means (M) and standard deviations (SD) for ITIA-I by group (SET/No SET) and year; ps for F tests for group-by-year interaction following MANCOVA or ANCOVA, and between-groups effect sizes (Becker's Δ)
+Scale	SET (n = 61)	No SET (n = 19)	Interaction group-by-year p	Effect size Δ
+t1	t2	t1	t2		
+M	SD	M	SD	M	SD	M	SD		
+ITIA-I									0.058a	
+Body image	0.82	0.31	0.75	0.34	0.88	0.25	0.88	0.23	0.103b	−0.22
+Family relations	0.71	0.35	0.82	0.27	0.84	0.26	0.89	0.32	0.818b	0.12
+Psychological well-being	0.65	0.35	0.74	0.33	0.88	0.26	0.70	0.37	0.074b	0.95
+Relations with others	0.68	0.33	0.76	0.35	0.70	0.48	0.72	0.32	0.643b	0.20
+Talent/abilities	0.58	0.40	0.69	0.47	0.72	0.25	0.65	0.36	0.178b	0.56
+aF test after MANCOVA; bF test after ANCOVA.
+
+Note: The higher the score, the better the outcome.
+
+Senior students
+As is shown in Table 4, for ITIA-II, the multivariate SET effect was not significant, but significant effects were obtained for Body Image, Psychological Well-being and Relations with Others, although the possibility of differential missing data might partly explain this. The effect sizes ranged from small to large.
+
+
+
+Table 4:Open in new tabSenior sample (grades 4–9): raw score means (M) and standard deviations (SD) for ITIA-II by group (SET/No SET) and year; ps for F tests for group-by-year interaction following MANCOVA or ANCOVA, and between-groups effect sizes (Becker's Δ)
+Scale	SET (n = 222)	No SET (n = 61)	Interaction group-by-year p	Effect size Δ
+t1	t2	t1	t2		
+M	SD	M	SD	M	SD	M	SD		
+ITIA-II									0.066a	
+Body image	1.01	0.62	1.06	0.61	1.31	0.42	1.14	0.61	0.004b	0.48
+Family relations	1.43	0.49	1.39	0.56	1.45	0.45	1.37	0.60	0.483b	0.08
+Psychological well-being	0.95	0.61	0.97	0.58	1.14	0.50	0.99	0.66	0.035b	0.33
+Relations with others	1.06	0.50	1.07	0.46	1.11	0.47	0.97	0.61	0.029b	0.32
+Talent/abilities	1.02	0.59	1.04	0.55	1.06	0.49	0.96	0.66	0.136b	0.23
+aF test after MANCOVA; bF test after ANCOVA.
+
+Note: The higher the score, the better the outcome.
+
+The group means and SD for the YSR, Mastery, SSRS, Contentment in School and Bullying scales are presented in Table 5. A significant multivariate effect was found for the YSR and also significant univariate effects for two of the subscales, Aggressiveness and Attention-seeking. Most effect sizes for these scales were in the small-to-medium range.
+
+
+
+Table 5:Open in new tabSenior sample (grades 4–9): Raw score means (M) and standard deviations (SD) for YSR, Mastery, Social Skills, Adjustment and Bullying by group (SET/No SET) and year; ps for F tests for group-by-year interaction following MANCOVA or ANCOVA, and between-groups effect sizes (Becker's Δ)
+Scale	SET (n = 352)	No SET (n = 110)	Interaction group-by-year p	Effect size Δ
+t1	t2	t1	t2		
+M	SD	M	SD	M	SD	M	SD		
+YSR									0.012a	
+ Aggressiveness	0.18	0.26	0.15	0.22	0.14	0.19	0.18	0.25	0.001b	0.33
+ Anxiety	0.37	0.33	0.36	0.35	0.26	0.23	0.27	0.36	0.083b	0.07
+ Assertiveness	0.88	0.41	0.90	0.41	0.78	0.41	0.85	0.42	0.182b	0.12
+ Attention-seeking−	0.44	0.36	0.39	0.34	0.37	0.39	0.44	0.42	0.009b	0.32
+Mastery	2.08	0.45	2.09	0.46	2.23	0.44	2.25	0.44	0.783b	−0.02
+Social Skills									0.902a	
+ Assertion	1.87	0.44	1.89	0.42	1.98	0.40	1.96	0.41	0.588b	0.10
+ Cooperation	2.18	0.46	2.17	0.44	2.23	0.46	2.22	0.45	0.546b	0.00
+ Empathy	2.19	0.47	2.21	0.42	2.23	0.47	2.18	0.45	0.305b	0.15
+ Self-control	1.79	0.42	1.82	0.41	1.85	0.43	1.86	0.42	0.628b	0.05
+Contentment in School	4.28	0.84	4.22	0.86	4.38	0.65	4.20	0.89	0.218b	0.21
+Bullying	1.23	0.49	1.20	0.44	1.18	0.40	1.32	0.72	0.046b	0.39
+aF test after MANCOVA; bF test after ANCOVA.
+
+Note: For YSR, Contentment in School and Bullying, the lower the score, the better the outcome; for Mastery and Social Skills, the higher the score, the better the outcome.
+
+The SET effect on the Contentment in School scale was small and not significant. However, there was a significant positive effect on Bullying, with an effect size in the small-to-medium range. No significant effects were found for Mastery or for any of the SSRS subscales.
+
+The abuse items were administered to senior students only (grades 7–9). The means and SD are presented in Table 6. Although the multivariate SET effect was non-significant, there was a significant positive effect for Alcohol and a close-to-significant effect for Narcotic Drugs.
+
+
+
+Table 6:Open in new tabSenior sample (grades 7–9): Raw score means (M) and standard deviations (SD) for the abuse scales by group (SET/No SET) and year; ps for F tests for group-by-year interaction following MANCOVA or ANCOVA, and between-groups effect sizes (Becker's Δ)
+SET (n = 89)	No SET (n = 41)	Interaction group-by-year p	Effect size Δ
+t1	t2	t1	t2		
+M	SD	M	SD	M	SD	M	SD		
+Abuse scales									0.135a	
+ Alcohol	1.71	1.85	1.71	1.81	1.39	1.96	1.90	2.31	0.024b	0.26
+ Narcotic drugs	0.02	0.15	0.04	0.30	0.07	0.47	0.24	1.01	0.051b	0.23
+ Smoking	0.73	1.25	0.93	1.57	0.78	1.39	1.10	1.51	0.359b	0.07
+ Volative substances	0.03	0.18	0.02	0.21	0.07	0.35	0.12	0.46	0.144b	0.20
+aF test after MANCOVA;bF test after ANCOVA.
+
+Note: The lower the score, the better the outcome.
+
+Discussion
+Social and emotional training was found to have some favorable small-to-medium effects on mental health and health-related behaviors. Since the intervention was performed with ordinary school-staff in a routine school setting, we regard this as encouraging.
+
+The dropout rate was high. Among the SET students, 48% of the senior-level students measured at baseline remained after 2 years of the intervention, and only 26% of the junior-level students. These figures compare somewhat unfavorably with American studies. For example, Catalano and colleagues (2002) report retention of 60–64% of seventh/eighth grade students for Project ALERT (a program addressing competencies, self-efficacy and prosocial norms) after 15 months; in the case of the PATHS project, for six- to eleven-year-olds, they state that ‘only about 30% of children received 2 years of intervention’ (Catalano et al., 2002, p. 35). For a drug-use program, it is reported that ‘[d]espite aggressive tracking efforts, there was a loss of 17.5% of the students between baseline and the first follow-up (for both cohorts combined)’ (Scheier et al., 2001, p. 98), an additional 10% of the students.
+
+There are several reasons for this, some specific to the intervention and evaluation discussed here. Inclusion in the panel required a student to be present in class precisely at the time the questionnaire was administered for 3 years in a row. As well as temporary absence, there is high general turnover of students between schools and classes. Among junior students, for example, roughly one-third per year will disappear as a matter of course as they advance from junior to senior level. Further, in the case of the senior students, there was a major educational reorganization in the municipality that strongly affected school and class structures between 2000–2001 (t1) and 2001–2002 (t2).
+
+There were also administrative difficulties. Although independent ratings of teachers' performance were moderate to high, and teachers' perceptions of SET were generally, although by no means universally, favorable (Gadd, 2003), their performance on data collection was poorer. Personnel turnover—of head/deputy head teachers, administrators and teachers—was a particular problem.
+
+Finally, there is a statistical aspect. Since only fully completed questionnaires were considered, because the non-random distribution of the missing data made imputation unsuitable, the number of cases for analysis was reduced.
+
+Nevertheless, our extensive analyses of dropout, from baseline onwards and between t1 and t2, indicate that attrition was unlikely to have biased the comparisons between the SET and No-SET groups in either direction.
+
+Considering effects as a whole, there were positive impacts—albeit not always statistically significant—on 4 out of 5 of the scales for the juniors (the exception being Body Image), and 18 out of 20 for the seniors (the exceptions being Mastery and Cooperation). The binomial probability of such relative frequencies under the null hypothesis that SET has no effect is p = 0.000. For the junior sample, there was a large effect size for Psychological Well-being, with a statistical tendency (p = 0.074). For the senior sample, there were statistically significant medium effect sizes for Body Image, Relations with Others, Psychological Well-being, Aggressiveness, Attention-seeking and Bullying. These results are roughly in line with those reported by Durlak and Weissberg (2005) in their meta-analysis of positive youth development programs.
+
+Surprisingly, given the program's focus on social as well as emotional aspects, there was virtually no recorded differential impact on the social skills scales (Assertion, Cooperation, Empathy and Self-control). This remains to be understood; SET may be ineffective, or the instrument may lack sensitivity, despite its proven reliability and validity (Gresham and Elliott, 1990).
+
+SET also appears to have had no favorable impact on Mastery, defined as the extent to which one regards one's life chances as being under personal control. If we construe hopelessness and lack of self-efficacy as internalizing problems, like YSR Anxiety, it appears that the program has had stronger effects on externalizing problems.
+
+The typical result pattern was not so much that the SET students improved, but that the No-SET students deteriorated with regard to the aspects of mental health considered here. The pattern, which is in line with much previous research (e.g. Moffit, 1993; Sampson and Laub, 2003) is evident on virtually all the scales, albeit non-significant in some cases. The SET program seems to give young people tools to handle the ‘real challenges and the need to cope with change’ during ‘the teenage transitional period’ (Rutter, 2007), and thereby has a dampening effect.
+
+The study has a number of strengths. It is a longitudinal rather than a cross-sectional study. It covers all school grades (with the same students being assessed at different ages), which is a major advantage in assessing an intervention of this kind. All cognitive-behavioral techniques require repetition. For example, learning problem-solving is unlikely to be achieved ‘in one go’; it demands practice and exercise over time.
+
+A further strength of the study is that it is European. What works in the USA may not necessarily work in Europe, although what is effective in Sweden may not be so in other European countries.
+
+In a number of research fields, there is a growing literature on the distinction between efficacy and effectiveness. The merit of an effectiveness study lies in its external validity; what is efficacious under controlled conditions may not be effective in a real-life setting (Greenberg, 2004). Since the intervention was carried out with ordinary school staff in a routine school setting, we were encouraged by its results.
+
+Yet, the study design does not allow us positively to conclude that the SET program is the real causal factor. We cannot exclude the possibility that the extra attention associated with implementation in the SET schools may have acted to strengthen morale among teachers and students, or that there may have been a corresponding demoralizing effect in the No-SET schools (Cook and Campbell, 1979). However, since the No-SET schools all ran projects of some kind to promote a good school atmosphere, we do not attach great importance to the attention argument.
+
+There are further aspects to investigate. Background factors may be of importance to outcome, and SET may be more effective with certain students than others. Also, there is a need to investigate implementation factors to see whether teaching style alone will have the same effect as SET teaching, and whether teachers are better at teaching skills to handle externalizing rather than internalizing problems. We await the results of long-term follow-up to see whether the discernible effects so far become stronger the longer students are exposed to the program (Greenberg et al., 2001). This may especially apply to internalizing problems.

@@ -1,0 +1,190 @@
+ABSTRACT
+BACKGROUND: Obesity and mental health disorders are 2 major public health problems in American adolescents, with prevalence even higher in Hispanic teens. Despite the rapidly increasing incidence and adverse health outcomes associated with overweight and mental health problems, very few intervention studies have been conducted with adolescents to improve both their healthy lifestyles and mental health outcomes. Even fewer studies have been conducted with Hispanic youth. The purpose of this study was to evaluate the preliminary efficacy of the COPE (Creating Opportunities for Personal Empowerment) Healthy Lifestyles TEEN (Thinking, Emotions, Exercise, and Nutrition) program, a manualized educational and cognitive behavioral skills-building program, on Hispanic adolescents' healthy lifestyle choices as well as mental and physical health outcomes.
+
+METHODS: A cluster randomized controlled pilot study was conducted with 19 Hispanic adolescents enrolled in 2 health classes in a southwestern high school. One class received COPE and the other received an attention control program.
+
+RESULTS: Adolescents in the COPE program increased their healthy lifestyle choices and reported a decrease in depressive and anxiety symptoms from baseline to postintervention follow-up. A subset of 7 overweight adolescents in the COPE program had a decrease in triglycerides and an increase in high-density lipoproteins. In addition, these overweight adolescents reported increases in healthy lifestyle beliefs and nutrition knowledge along with a decrease in depressive symptoms.
+
+CONCLUSION: The COPE TEEN program is a promising school-based strategy for improving both physical and mental health outcomes in adolescents.
+
+The prevention and treatment of overweight/obesity and mental health disorders in adolescence are major public health problems in the United States today.1,2 The incidence of adolescents who are overweight or obese has increased dramatically over the past 30 years, with approximately 17.1% of teens now being overweight (ie, a gender and age-specific body mass index [BMI] at or above the 85th percentile) or obese (a gender and age-specific BMI at or above the 95th percentile).3,4 In Hispanic children and adolescents, overweight and obesity estimates are as high as 34%.4
+
+Key factors influencing the obesity epidemic include an increase in sedentary activities and changes in dietary patterns and food consumption, such as large portion sizes and fast foods.5 Being overweight predisposes adolescents to adverse health outcomes compared to their nonoverweight counterparts, including type 2 diabetes, hypertension, dyslipidemia, sleep apnea, increased asthma symptoms, and a shortened life span.6–8 In addition, overweight and obese adolescents, in comparison to normal-weight adolescents, have a higher prevalence of school and mental health problems, including poor academic performance and self-esteem, anxiety and depressive disorders, and a greater number of reported suicide attempts.9–15
+
+Furthermore, approximately 15 million children and adolescents in the United States have mental health problems that are interfering with their functioning at home or at school, but less than 35% receive treatment for these disorders.13,16 Depressive and anxiety disorders among adolescents, often comorbid conditions, are associated with disabling morbidity, altered academic functioning, significant mortality, and substantial health care costs.17–20
+
+Despite the adverse health outcomes associated with both overweight and mental health problems, very few theory-based intervention studies have been conducted with adolescents to improve both their healthy lifestyle behaviors and mental health outcomes.21 Even fewer intervention studies have been conducted with Hispanic youth, the fastest growing minority in the United States.22 Unfortunately, physical and mental health services continue to be largely separated instead of integrated in the nation's health care system, which often leads to inadequate identification and treatment of these significant adolescent health problems. Furthermore, most obesity treatment and prevention trials have focused on school-age children.23–31
+
+Intervention studies focused on the adolescent age group have had several important limitations, including lack of well-delineated theoretical frameworks to guide the interventions and selection of study variables as well as methodological weaknesses (eg, lack of attention control groups).32,33 Recent systematic reviews of treatment and prevention studies for childhood and adolescent obesity and an integrated literature review on school-based intervention studies concluded that additional research is urgently needed, especially with ethnically diverse groups.32,34 In their recent evidence review, Kropski, Keckley, and Jensen31 were unable to draw clear conclusions about the efficacy of school-based obesity prevention programs due to the methodological flaws of the few studies that are available.
+
+Our prior research indicates that the cognitive beliefs of adolescents are related to their healthy lifestyle choices and behaviors as well as their level of depressive/anxiety symptoms.35 Specifically, adolescents with stronger beliefs/confidence about their ability to engage in healthy lifestyle behaviors perceive them as less difficult to perform, and engage in more healthy choices and behaviors. In addition, adolescents with higher levels of negative mood report less healthy lifestyle beliefs, choices, and behaviors. Therefore, an innovative approach to healthy lifestyle interventions with adolescents may be cognitive-behavioral skills building (CBSB), which can assist adolescents with cognitive change/strengthening their healthy lifestyle beliefs in order to facilitate healthy lifestyle choices and behaviors. A second benefit of incorporating CBSB into healthy lifestyle interventions is that previous studies have shown its positive impact on depression and anxiety in both adolescents and adults.36
+
+Findings from our recent pilot study testing the feasibility and efficacy of the COPE (Creating Opportunities for Personal Empowerment) Healthy Lifestyles TEEN (Thinking, Emotions, Exercise, and Nutrition) program, a theory-driven, CBSB healthy lifestyles intervention program, with overweight and normal-weight adolescents demonstrated promising short-term changes in physical and mental health outcomes with primarily Caucasian and African-American adolescents.37 Therefore, the primary goal of this randomized controlled pilot study was to test the preliminary efficacy of the COPE Healthy Lifestyles TEEN program on the mental and physical health outcomes of Hispanic adolescents.
+
+THE THEORETICAL FRAMEWORK
+Cognitive behavioral theory (CBT) guided the development of the COPE Healthy Lifestyles TEEN intervention program and selection of study variables. The basic premise of CBT is that an individual's emotions and behaviors are, in large part, determined by the way in which he or she cognitively appraises the world.38 Therefore, a person who has negative or irrational/distorted beliefs tends to have negative emotions (eg, depression, anxiety) and to behave in negative ways (eg, overeating, risky behaviors).13,39 Specifically, elevated depressive and anxiety symptoms are caused by how one perceives situations and events.36 Negative emotions and behaviors are even more profound when there are skill deficits (eg, poor emotional regulation, poor problem-solving and assertiveness skills, and cognitive distortions that lead to negative perceptions, negative thoughts, negative views of self and future, and failure to attribute positive outcomes to one's behavior). Based upon this theory, we predicted that the adolescents who receive the COPE Healthy Lifestyles TEEN program will have higher knowledge of how to lead a healthy lifestyle and stronger beliefs/confidence in their ability to do so, which should result in healthier lifestyle choices and fewer depressive and anxiety symptoms (Figure 1).
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+COPE Conceptual Model
+
+Purpose
+The purpose of this randomized controlled pilot study was to determine the short-term preliminary efficacy of the COPE Healthy Lifestyles TEEN program on the mental health (ie, depressive and anxiety symptoms), healthy lifestyle beliefs and choices, and physical health of Hispanic adolescents, ages 14–16 years, enrolled in an inner-city high school health course in the southwestern region of the United States.
+
+METHODS
+Participants
+The sample consisted of adolescents attending an urban, predominantly Hispanic high school in a metropolitan southwest city. Adolescents had to be enrolled in 1 of 2 sections of a required health course in order to participate in the study. The students had been assigned to the required health course by school personnel according to their need to complete this high course for credit and the availability of fitting the course into the scheduling of other required courses that each student needed to take during the quarter. Approval for the study was granted from the Office of Research Integrity and Assurance at Arizona State University prior to the recruitment of participants. Nineteen out of 32 adolescents (59%) in these 2 course sections assented and their parents consented for them to participate in the study.
+
+Design
+The study was conducted using a 2-group cluster randomized controlled pilot study, with preintervention and postintervention measures. The experimental and control conditions were randomized by class by flipping a coin to determine study group.
+
+Instruments
+The Healthy Lifestyle Beliefs Scale
+The Healthy Lifestyle Beliefs Scale (HLBS) is a 16-item instrument that assesses beliefs about various facets of maintaining a healthy lifestyle (eg, “I believe that I can be more active” and “I am sure that I will do what is best to lead a healthy life”).13 Subjects respond to each item on a Likert-type scale that ranges from 1 strongly disagree to 5 strongly agree. Face validity was established with 10 teens. Content validity was established by 8 adolescent specialists. Face and content validity were established by asking respondents about the clarity of each item and whether the items tapped the intended construct. Consistent with our other studies, the Cronbach's alpha for this instrument was .90 with this sample.35
+
+Nutrition Knowledge
+This instrument is a 20-item questionnaire that measures knowledge regarding food nutritional information, portion sizes, eating habits, and health (eg, “Pretzels are higher in fat than potato chips,”“One serving size of meat should be the size of a deck of cards,” and “People eat more when they are bored than when they are busy”). Subjects respond by answering yes, no, or don't know. Face validity was established with 10 teens and 8 adolescent health experts established content validity. Face and content validity were established by asking respondents about the clarity of each item and whether the items tapped the intended construct. The Cronbach's alpha for this instrument was .88 with this sample.35
+
+The Healthy Lifestyle Choices Scale
+Healthy lifestyle choices were measured with the Healthy Lifestyle Choices Scale (HLCS).13 Subjects respond to each of the 16 items (eg, “I will exercise on a regular basis,”“I will talk about my worries or stress every day,” and “I will do what I should do to lead a healthy life”) on a Likert-type scale that ranges from 1 (strongly disagree) to 5 (strongly agree). Face validity was established with 10 teens and 8 adolescent health experts established content validity by asking respondents to assess the clarity of each item and rate the extent to which each item tapped the intended construct. The process of face and content validity was quantitative with respondents assessing the clarity of each item and if each item tapped the intended construct. Cronbach's alphas with teens in our prior pilot studies have been .80 and above, and was .85 with this sample.35
+
+The Beck Youth Inventory (Second Edition; BYI-II)
+This 100-item instrument for youth 7 to 18 years of age is the most recent version of the Beck Youth Inventory (BYI).40,41 It is a commercial product (Harcourt Assessment) widely used in research and clinical settings that has well-established reliability, validity, and age, gender, and diagnostic-adjusted norms. The instrument measures 5 constructs: (a) depressive symptoms, (b) anxiety symptoms, (c) anger, (d) disruptive behavior, and (e) self-concept. The 5 subscales of the BYI-II each contain 20 statements about thoughts, feelings, and behaviors related to emotional and social impairment. In this study, the depression and anxiety scales were administered and used as primary outcomes. The anxiety scale of the BYI-II assesses specific worries about school performance, the future, negative reactions of others, fears, and physiological symptoms related to anxiety. The inventory assesses depression using Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV criteria. Scores on the individual subscales are calculated as the sum of the 20 items and standardized to t scores with a mean of 50 and a standard deviation of 10. The higher the youth's t score, the higher the distress the youth is experiencing. For example, norms for the depression subscale are a score <55 is average; 55-59 is mildly elevated; 60-69 is moderately elevated; and 70+ is extremely elevated.
+
+Anthropometric Measures
+Baseline and postintervention measurements of the adolescent's height and weight were made according to a standardized protocol. Shoes and coats were removed prior to measurement and teens were dressed in street clothes. Adolescents' measurements were assessed privately and shared with each adolescent in a curtained area. Height was measured using premeasured marks on a wall. Weight was measured with a Tanita scale. Waist circumference was measured using a flexible measuring tape.
+
+Laboratory Work
+Blood work was drawn from teens at baseline and postintervention to assess hemoglobin A1C, high-density lipoproteins (HDLs), low-density lipoproteins (LDLs), and triglycerides. Lab work was drawn in private room in the health office with the assistance of the school nurse practitioner and analyzed at a single laboratory.
+
+Experimental Interventions
+The COPE Healthy Lifestyles TEEN Program
+The COPE TEEN program consisted of 15 manualized sessions that delivered (a) educational information on leading a healthy lifestyle and (b) CBSB, which included practice and role playing. Content of the educational sessions included (a) creating a healthy lifestyle, (b) strategies to build self-esteem, (c) stress management, (d) goal setting, (e) effective communication, (f) nutrition, and (g) physical activity (Table 1). The COPE TEEN program was delivered 2 to 3 days a week during the teen's 9-week health class. Case-based examples were used in all of the adolescent sessions in order to highlight concepts and enhance learning of the behavioral skills. Homework assignments were given to the adolescents to be performed between the intervention sessions, including a journal log that captured their goals and progress. Each session began with a review of content from the prior session and was the length of 1 class period (ie, 50 minutes), including approximately 15 to 20 minutes of physical activity (eg, Frisbee, kickball, walking, and relay games) for the purpose of building the teens' beliefs/confidence that they could engage in regular physical activity. The physical activity component was not intended to be exercise training. All participating adolescents were given a pedometer to wear every day during the school quarter with instructions to record the number of steps taken. The goal of the pedometer use was to encourage and reinforce the physical activity and education components of the COPE program and to assess the adolescents' progress toward their activity goals.
+
+Table 1. Content for Each of the COPE Program Sessions
+Session	Session Content
+Introduction	Introduction of COPE Healthy Lifestyle program and goals
+1	Healthy lifestyles; thinking, feeling, behavior triangle
+2	Self-esteem and positive thinking/self-talk
+3	Goal setting and problem solving
+4	Stress and coping
+5	Emotional and behavioral regulation
+6	Effective communication; personality and communication styles
+7	Barriers to goal progression and overcoming barriers; energy balance; ways to increase physical activity and benefits
+8	Heart rate; stretching
+9	Food groups and a healthy body; stoplight diet: red, yellow and green foods
+10	Nutrients to build a healthy body; reading labels; effects of media and advertising on food choices
+11	Portion sizes: “supersize”; influence of feelings on eating
+12	Social eating: strategies for eating during parties, holidays, and vacations
+13	Snacks and eating out
+14	Integrate skills and knowledge to develop a healthy lifestyles plan
+15	Putting it all together: review of course content
+COPE, Creating Opportunities for Personal Empowerment.
+The Attention Control Intervention Program
+In order to control for the time and attention being spent with the COPE adolescents, the attention control group received instruction in health topics that were not contained in the COPE Healthy Lifestyles TEEN program. Topics included information focusing on common adolescent health concerns, such as acne, safety, first aid, and information concerning careers in the health professions. There was no physical activity component in the attention control program, but the students were given pedometers to wear and were instructed in its use.
+
+Procedure
+The study was approved by Arizona State University's institutional review board and administrators from the adolescents' high school and was conducted from August through October 2007. Nineteen adolescents were enrolled in the study following a formal parent consenting and adolescent assenting procedure. Two sections of a health class, taught by the same high school teacher, were selected for the study, and were randomly assigned to receive either the COPE or attention control intervention with a flip of a coin. The students and parents were blind to experimental group assignment. Different research personnel delivered the COPE TEEN intervention content and the attention control content. While it was impossible to prevent the students in the 2 health classes from speaking with each other during the day, every attempt was made to deliver the 2 interventions with similar techniques (eg, PowerPoint presentations, class discussions, homework assignments).
+
+Subjects were recruited by members of the research team who presented information regarding the study during the first health class of the 9-week quarter. Assents were distributed to students and consents were provided for the adolescents to share with their parents. Students were requested to return their parents' consents by the end of the school week. Adolescents provided written and informed consent and assent as dictated by their age. All adolescents enrolled in the classes received the content specific to their experimental group, which was delivered 2 to 3 times a week over 9 weeks by the study personnel. Students in both classrooms were expected to attend school every day per school attendance policy. Attendance was recorded daily by the teacher. Study measures were obtained on those students in the participating classrooms who gave assent and whose parents gave consent to participate in the study.
+
+Data Analysis
+Of the 19 subjects enrolled in the study, 17 provided complete baseline and postintervention data (89%). Analysis of program effects was restricted to students providing data at both baseline and postintervention assessment (ie, immediately following the intervention). To examine equivalence of the experimental and control groups at baseline, t tests were conducted on continuous variables and chi-square tests were conducted with categorical variables.
+
+To evaluate program effects, independent and paired sample t tests were conducted with continuous variables. Effect sizes are reported along with p values, due to the small sample size. The level of significance for the statistical tests was set at .10 because of the small sample size and to highlight potentially efficacious elements of the program. Program feedback by students was compiled and themes were extracted by independent iterative summaries completed by 2 members of the research team.
+
+RESULTS
+Participants at Baseline Assessment
+The mean age of the adolescents was 15.5 years (SD = .63). The mean weight of the adolescents was 158.52 lbs (SD = 52.4), with a range from 104 to 290. The mean BMI for the adolescents was 27.1 (SD = 8.88) and the mean BMI percentile for the teens was 78.67 (SD = 23.75). Table 2 includes other demographic characteristics of the sample by study group. Although the BMI percentile was greater in the experimental versus the control group, the difference was not statistically significant.
+
+Table 2. Baseline Demographics of the COPE and the Attention Control Groups
+Experimental Group (n = 12) Mean/SD	Attention Control Group (n = 7) Mean/SD	t Test	Pearson Chi- Square
+Age	15.67/.65	15.28/.53	1.3	
+Teen weight (lbs)	167.23/54.95	123.67/18.37	1.3	
+Teen height (in.)	64.92/3.20	61/1.73	2.0*	
+BMI percentile	80.5/25.09	71.33/19.63	.6	
+% in category	% in category		
+Gender	58% female	86% female		4.84
+Ethnicity	100% Hispanic	100% Hispanic		
+Parental education				
+Mother:	8.3% partial college	14.2% standard college		7.93
+58.3% junior high school	14.2% high school graduate		
+25% under 7 years school	14.2% partial high school		
+8.3% missing	14.2% junior high school		
+28.4% under 7 years school		
+14.2% missing		
+Father:	8.3% high school graduate	14.2% high school graduate		2.81
+33.3% partial high school	28.4% junior high school		
+16.6% junior high school	28.4% under 7 years school		
+33.3% under 7 years school	28.4% missing		
+8.3% missing			
+Receive public assistance	41.7% no	14.3% no		3.11
+16.7% yes	57.1% yes		
+41.7% missing	14.3% don't know		
+14.3% missing		
+Marital status	50% married first time	85.7% married first time		6.11
+33.3% never married	14.3% divorced		
+16.7% married second time			
+*p < .10.
+BMI, body mass index; COPE, Creating Opportunities for Personal Empowerment.
+For continuous variables, there were no significant baseline differences between groups except on height; the COPE intervention group was taller (p = .066). With categorical variables, there were no significant baseline differences between groups. There were too few males to execute a chi-square test.
+
+Intervention and Control Session Attendance
+Students in the COPE TEEN intervention group attended 92% of the intervention sessions. Students in the attention control intervention group attended 88% of the sessions. Six students obtained unexcused absences (3 in each intervention group) in order to participate in a march at the State Capitol to protest immigration policies. Two students (1 in each intervention group) missed 3 intervention sessions due to illness.
+
+Paired sample t tests evaluating change over time indicated that teens in the COPE intervention group were less depressed, less anxious, and more committed to making healthy choices following the intervention (Table 3), whereas teens in the control group showed no appreciable change in depression or anxiety, but a similar change in commitment to making healthy choices as all students were enrolled in a health class (Table 4).
+
+Table 3. Results for the COPE Intervention Group (n = 11)
+Instrument	Summary of Change From Baseline to Postintervention	Pretest Mean (SD)	Posttest Mean (SD)	Effect Size (d)	p Value
+BDI-Youth (depression)	Decrease in depressive symptoms	53.25 (13.06)	50.64 (9.87)	−.32+	.11
+BDI-Youth (anxiety)	Decrease in anxiety symptoms	54.83 (12.45)	50.64 (8.72)	−.56 + +	.03*
+Choices scale	Increased commitment to make healthy choices	54.5 (5.84)	58.91 (10.25)	.48+	.07*
+*p < .10.
+BDI, Beck Depression Inventory; COPE, Creating Opportunities for Personal Empowerment.
+Effect size: .2, small +; .5, medium + +.
+Table 4. Results for the Attention Control Group (n = 6)
+Instrument	Summary of Change From Baseline to Postintervention	Pretest Mean (SD)	Posttest Mean (SD)	Effect Size (d)	p Value
+BDI-Youth (depression)	Increase in depressive symptoms	51 (11.06)	52.17 (15.33)	.15	.20
+BDI-Youth (anxiety)	Decrease in anxiety symptoms	50.14 (13.46)	48.33 (10.41)	−.20+	.20
+Choices scale	Increased commitment to make healthy choices	57.14 (9.97)	61.83 (12.51)	.41 + +	.20
+*p < .10.
+Effect size: .2, small +; .5, medium + +.
+A subgroup analysis was completed on adolescents with a BMI percentile ≥ 85. This subgroup comprised 58.3% of the COPE intervention group (Table 5). Paired t tests evaluating change over time indicated increases in beliefs and healthy lifestyle choices. Nutrition knowledge increased in this group of overweight COPE adolescents and they also reported a decrease in depressive symptoms. Physical health improved with an increase in HDLs, decrease in hemoglobin A1C, and a decrease in triglycerides. High-density lipoprotein increased in 6 subjects between 2 and 10 points. Triglycerides decreased in 5 subjects between 5 and 62 points. Hemoglobin A1C decreased in 6 subjects between .1 and .3. There were no decreases in weight or BMI% over the study period in the overweight adolescents.
+
+Table 5. Results for the COPE Intervention Subgroup of Teens With a BMI ≥ 85th percentile (n = 7)
+Instrument or Biological Value	Pretest Mean (SD)	Posttest Mean (SD)	Effect Size (d)	p Value
+Hgb A1C	5.46 (.41)	5.33 (.31)	.35+	.08*
+Triglycerides	111.29 (56.38)	98.23 (53.06)	.24+	.35
+HDL cholesterol	47.86 (5.01)	52.14 (5.58)	.81+ + +	.03*
+Healthy Lifestyle Beliefs Scale	55.38 (8.50)	60.71 (8.08)	.48+	.02*
+Nutrition Knowledge Scale	10.33 (5.05)	12.00 (4.19)	.36+	.05*
+Healthy Lifestyle Choices Scale	56.83 (6.46)	62.00 (.31)	.59 + +	.09*
+Beck Youth Depression Inventory	53.33 (15.7)	49.67 (11.00)	.27+	.35
+* p < .10.
+BMI, body mass index; COPE, Creating Opportunities for Personal Empowerment; HDL, high-density lipoprotein; Hgb A1C, hemoglobin A1C.
+Effect size: .2, small +; .5, medium + +; .8, large + ++.
+Overall, participating students in the COPE intervention group found the program to be informative and helpful. Ten students (83%) completed an evaluation form after the completion of the study. Eight students (67%) felt that the information for the COPE intervention program was helpful. When asked in an open-ended question what they found to be most helpful, students expressed that they learned to cope with stress and anger and learned to relax and manage problems (40%). They also found the information on healthy eating behaviors and exercise to be helpful (40%).
+
+In addition, the students were asked what they would change in the program. Nine of the 10 students said that they would not change anything in the program. Eight students said that they would recommend this program to other high school students. When asked to elaborate further, the students made comments such as “because you learn many things that are important” and “because it is helpful for everyone.” Eight of the students indicated that they enjoyed the positive self-talk the most and 7 enjoyed the information on social eating and snacking. When asked what they did not like about the program, 4 students did not indicate any dislikes. In fact, one wrote in “I liked all the topics.”
+
+DISCUSSION
+Findings from this study indicate that the COPE Healthy Lifestyles TEEN program was well received by Hispanic adolescents and provides preliminary support that the intervention program had a positive effect on depressive and anxiety symptoms as well as healthy lifestyle choices. Furthermore, overweight adolescents who received the COPE program reported an increase in nutrition knowledge, healthy lifestyle beliefs, and healthy lifestyle choices, along with a decrease in depressive symptoms. Although the program was limited to 1 semester and therefore too soon to have a demonstrated reduction in BMI, the adolescents in the COPE group still demonstrated an increase in HDLs (ie, the “good” cholesterol that removes LDLs, the “bad cholesterol” from the blood stream), which is important in reducing the risk of coronary artery disease. The overweight COPE teens also had a reduction in triglycerides over time. These physiological changes are promising given that the physical activity component of the intervention was a brief period of activity twice a week rather than a formal exercise training program. The study also showed that it is feasible to deliver the program within the context of a high school health course.
+
+Cognitive behavioral therapy has been well established as an efficacious treatment for youth with DSM-IV diagnoses of depression and anxiety disorders.42–45 This is the first published study that has specifically assessed the impact of educational information about nutrition and physical activity combined with teaching CBSB with a sample of Hispanic adolescents in a school-based setting during their regular classroom instruction. Evidence has suggested that subclinical levels of depression are one of the strongest predictors of future episodes of depression.46 Research also indicates that adolescents with subclinical depression demonstrate depressogenic cognition, low self-esteem, poor coping skills, anxiety, and the perception of low social support.47,48 Subclinical and major depressive disorders are significantly associated with other mental health disorders, as well as with obesity, social isolation, substance abuse, teen pregnancy, and school failure.17 These disorders continue to be the leading risk factors for suicide, the third most common cause of death among adolescents.1,49 Despite the prevalence and seriousness of this public health problem, identification and early intervention are not the norm. Therefore, the teaching of CBSB along with other stress-reduction techniques and healthy lifestyle behaviors in school settings may be an effective population-based approach for enhancing adolescent coping skills and preventing serious mental health disorders as well as enhancing healthy lifestyle choices, behaviors, and physical health.
+
+Our prior work has indicated that conducting the COPE Healthy Lifestyles TEEN intervention as an after-school intervention program with adolescents was challenging due to competing demands (eg, after-school activities, work) and difficulty attending all of the sessions due to after-school commitments.37 The inclusion of this content in the course of a high school curriculum removed these barriers and, therefore, has greater potential to reach a larger population base of adolescents.
+
+Overall, the adolescents who participated in this study indicated that they enjoyed the intervention sessions, especially the interactive and activity components (eg, kickball, fast walking, team interactive games, musical chairs, and Frisbee baseball). However, some adolescents were uncomfortable sharing in the role-playing portions of the course and did not participate in these activities. Future studies should employ classroom management techniques that increase adolescents' beliefs that they are in a safe environment (eg, dyadic interactions with prompting scripts, use of staged “plays” constructing “commercials” for peers). Additionally, at the suggestion of the health teacher, students kept their notebooks at school because of previous patterns of not bringing required course materials to class. As a result, students did not routinely complete their homework assignments. A recommendation for future studies is to require participation in the program such that in-class and homework assignments will be a part of the course grade.
+
+Limitations
+The major limitations of this trial were that it used a small convenience sample, cluster randomization to avoid cross contamination, and assessment of short-term outcomes. The findings should be used formatively to encourage further exploration of the intervention method and refinement of the instructional materials. Further research is needed to determine both the short- and more long-term outcomes of the intervention in the context of a full-scale randomized controlled trial.
+
+Conclusion
+In conclusion, although this was a small pilot study, findings are promising in that COPE had positive effects on both the physical and mental health outcomes of Hispanic adolescents. The effects of the program appear to be even more potent in adolescents who are overweight. Routine implementation of COPE in high school health education courses could be a promising strategy for preventing and treating 2 major public health problems in adolescents.
+
+IMPLICATIONS FOR SCHOOL HEALTH
+It is well known that educational information alone does not typically lead to behavioral change. Therefore, the evidence from this study indicates that the integration of the COPE TEEN CBSB program into high school health courses could be key to not only decreasing depressive and anxiety symptoms and preventing mental health disorders in adolescents but also to building beliefs/confidence in adolescents to engage in healthy lifestyle choices that will lead to healthier behaviors and improved physical health. Because the content of the COPE program is manualized with an accompanying instructional booklet and homework assignments for each session, teachers can easily integrate this content within their health education courses. If integrated, measurement of key outcomes will continue to build an evidence base for the COPE TEEN program.
+
+With budget reductions in several school systems across the United States, physical education courses have been eliminated or reduced despite the growing incidence of adolescent obesity. This study's findings hold promise that even small bursts of 15- to 20-minute periods of physical activity can be useful in improving the physical health of overweight adolescents. Therefore, administrations should strongly consider building in short periods of physical activity routinely in health education courses, especially in systems where budget reductions have reduced the offering of physical education courses.

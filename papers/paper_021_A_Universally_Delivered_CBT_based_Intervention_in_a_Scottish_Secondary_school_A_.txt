@@ -1,0 +1,1518 @@
+ABSTRACT
+Objectives: The present review aimed to assess the quality, content and
+evidence of efficacy of universally-delivered (to all pupils) school-based mental
+health interventions aimed to promote wellbeing and resilience provided within
+the UK.
+Method: A systematic review of published literature was conducted.
+Relevant electronic databases were searched, supplemented by informal search
+strategies. Studies were appraised using a quality checklist appropriate for nonrandomised studies. 12 studies were included for review (5 primary school
+based, 7 secondary school based).
+Results: Effectiveness of school-based universal interventions was found
+to be neutral or small with more positive effects found for poorer quality studies
+and those based in Primary schools (pupils aged 9-12 years old). Studies varied
+widely in their use of measures and study design. Intervention approaches
+included CBT, mental health education, mindfulness and behavioural
+approaches. Methodological issues such as small sample size, varying course
+fidelity and lack of randomisation reduced overall study quality rendering
+tentative interpretation of effects.
+Conclusions: The current evidence suggests there are neutral to small
+effects of universal, school-based interventions in the UK that aim to promote
+emotional or mental wellbeing or prevention mental health difficulties. Robust,
+long-term methodologies need to be pursued ensuring adequate recording of
+fidelity, the use of validated measures sensitive to mechanisms of change,
+reporting of those lost to follow up and any adverse effects. Further research
+collaborations are required across the UK in order to facilitate coherence in the
+literature and demonstrate any long-term benefits for pupils or on the wider
+educational or health system.
+Keywords: Review, school-based, resilience, wellbeing, intervention.
+Page 6 of 108
+INTRODUCTION
+The mental and emotional wellbeing of children and young people has
+received increased attention worldwide. It has been reported that the
+prevalence of mental health problems ranges from 10-20% (Kieling et al., 2011)
+and that by the age of 18 up to 20% of young people will have experienced an
+emotional disorder (Costello et al., 2003). Mental health conditions such as
+anxiety and depression often persist into adulthood (Kendall et al., 2004) and
+have been associated with a range of negative outcomes including lower
+academic achievement, higher likelihood of health risk behaviour, self-harm and
+suicide (Collins & Dozois, 2008; Patel et al., 2007). However, provision of
+services for those in need can be as low as 20% (WHO, 2005). Such access issues
+to specialist services like CAMHS has meant that school based interventions have
+been increasingly explored, due to their far reach (Masia Warner et al., 2006)
+and existing infrastructure to support child development (Domitrovich et al.,
+2010), while noting that schools need support to use the evidence base when
+applying such interventions (Vostanis et al., 2013).
+Several systematic reviews and meta-analyses have been conducted to
+review the effectiveness of school-based, mental health interventions at both
+the universal (delivered to all pupils irrespective of perceived need), and
+targeted (delivered to vulnerable or ‘high risk’ individuals only) levels. Durlak et
+al. (2011) reviewed 213 studies and found that school based programs aiming to
+enhance social and emotional learning yielded positive effects on social
+emotional skills, self-concept, positive social behaviours conduct problems and
+emotional distress (E.S. = 0.22 - 0.57) and that these sustained after 6 months.
+Wells et al. (2003) reviewed universal programs and found improvements in selfconcept and problem solving. Further, that more positive outcomes were
+obtained for programs adopting a whole school approach, that lasted more than
+one year, and aimed to promote mental health rather than prevent mental
+illness. These findings were echoed in Weare & Nind’s (2011) review of 53
+mental health interventions, adding that a balance of both universal and
+targeted approaches was optimal, and that interventions were only effective if
+accurately implemented.
+Page 7 of 108
+Neil and Christensen (2009) found that CBT formed the basis of the
+majority of anxiety prevention programs (78%) and over 75% of trials reported a
+significant reduction in anxiety. CBT-based interventions were also tentatively
+endorsed in Mychailyszyn et al.’s (2012) meta-analysis of 63 studies which found
+that CBT was mildly effective in reducing depression (E.S .= 0.29) and
+moderately effective (E.S. = 0.50) for reducing anxiety symptoms.
+Reviews of studies evaluating the prevention of specific mental health
+conditions have found mixed results. Merry et al. (2011) in their meta-analysis of
+53 studies evaluating prevention of depression programmes found that while
+there was evidence of immediate post-intervention effects, these did not sustain
+over time (24-36 months). Further, Correiri et al. (2013) reviewed 28 studies
+evaluating anxiety and depression programmes and found that while the
+majority were effective for depression (65%) and anxiety (73%), the effect sizes
+were small (0.12 - 0.29).
+Spence & Short (2007) reviewed 14 universal school-based prevention of
+depression studies and found few positive effects, concluding that universal
+prevention interventions were not efficacious. This was later endorsed by Calear
+& Christensen (2010) who concluded that targeted programs were most effective
+(ES = 0.21 to 1.40), and in Kavanagh et al. (2009)’s meta-analysis which found
+that while school-based CBT programmes led to a short-term reduction in
+depression symptoms, interventions were most effective for those in the clinical
+range.
+Overall therefore, the literature has indicated mixed results regarding
+efficacy of school-based universal interventions. However, it has been
+consistent in highlighting methodological issues within the existing research
+base. In particular, that there is a lack of active intervention controls (Stallard,
+2013), studies’ operationalisation and measurements of ‘resilience’ lack
+Page 8 of 108
+homogeneity (Reavley et al., 2015), that weak program fidelity and treatment
+dosage impacts outcomes (Durlak et al., 2011) and that there is insufficient use
+of validated, standardised measures and long-term follow up (Sancassiani et al.,
+2015).
+Furthermore, it is noteable that all of the above studies have occurred
+across a wide range of countries, with most reviewed interventions based in
+Australia, the US or Canada. This trend was also noted in a NICE funded review
+(2008) of targeted and universal school-based interventions where it was
+observed that while the findings from international based research are valuable,
+the generalisability to the UK educational system is somewhat questionable,
+giving rise to a need for reviews specifically within the UK context.
+Cheney et al. (2014) subsequently focused on the UK in their review of
+targeted school-based interventions. They concluded that nurture groups
+demonstrate an immediate positive impact on the social and emotional
+wellbeing on vulnerable young people, however, that results from longer term
+follow-up studies are less clear.
+The need to carry out a review of universal school-based interventions
+specifically within the UK context therefore remains. This is especially pertinent
+in light of the increasing emphasis from national government on developing
+CAMHS services within the UK, and the impetus on health and education services
+to work together in order to improve wellbeing outcomes for children and young
+people (Department of Education, 2016; Education Scotland, no publication
+date; CYMRU, 2010).
+Page 9 of 108
+Review aims
+The present review aims to fill this gap in the literature by focusing on
+universally-delivered, school-based mental health interventions provided within
+the UK only. The following questions will be explored:
+1. How effective are universal school based interventions in the UK that
+promote mental health, emotional wellbeing, or psychological resilience
+and what tools are being used to measure effectiveness?
+2. What methodologies are being applied in UK schools when trialling
+interventions and what is the quality of these studies?
+3. What are the intervention characteristics e.g. delivery, content, target
+audience?
+4. What are the identified barriers in delivering and evaluating universal
+school based interventions?
+Page 10 of 108
+Search Strategy
+Electronic databases were searched for relevant published research on
+14th April 2016: EMBASE, CINAHL, MEDLINE, PsycINFO, PsycArticles, ASSIA and
+Psychological and Behavioural Sciences. Selected journals relevant to the area
+were also hand-searched (British Journal of Educational Psychology; British
+Journal of School Nursing). Previous reviews and relevant papers were reviewed
+and following consultation with University librarians, the following keyword
+search terms were used linked with the Boolean operators ‘AND’ and ‘OR’ (*
+indicates truncation of words):
+Mental Health OR Early Intervention OR Anxi* OR depress * OR resilien* OR
+emotion* OR stress* OR psycho* OR wellbeing
+AND
+Adolescent OR Adolescen* OR child* OR teen* OR youth OR young pe* OR pupil*
+OR student* OR learner* OR scho*
+AND
+School based OR School based mental health OR School based intervention OR
+interven* OR effect* OR program* OR initiative OR strateg* OR evaluat*
+AND
+United Kingdom OR UK OR Sco* OR eng* OR northern ir* OR wales OR wel* OR
+brit* OR kingdom
+Study design criteria was wide to allow for the diverse range of
+methodologies used to overcome challenges in school-based research. Search
+terms were, therefore, chosen primarily to promote sensitivity to the subject
+area. A limit date was set from 2000 to April 2016. The early date limit was
+selected as this area has been promoted by UK governmental policy largely
+within the last decade. Further, detailed appraisal of the previous systematic
+reviews in this area found few, if any, discovered studies prior to this date.
+Page 11 of 108
+Study selection
+The inclusion criteria were as follows:
+• The intervention was based in a mainstream school environment;
+• Pupils were the recipients of the interventions;
+• The study adopted a pre-post design;
+• The intervention aimed to target mental health and/or emotional
+wellbeing;
+• The study used a validated measure to quantitatively evaluate emotional
+or mental wellbeing outcomes and reported those outcomes;
+• The study was published between 2000 and April 2016 in a peer reviewed
+journal.
+Exclusion criteria included:
+• The study aims or methodology did not fit the inclusion criteria.
+• Any studies using a non-validated outcome measure as their primary
+outcome e.g. Likert scales.
+• Any studies using a purely qualitative methodology.
+Details of included and excluded studies (see Figure 1, below.)
+Duplicate papers were excluded. Titles were screened to identify only
+those that clearly met inclusion criteria. Abstracts were assessed independently
+by the author and a co-rater (Professor Chris Williams). Raters met to compare
+included papers. Where eligibility was unclear based on the abstract, full
+articles were retrieved and assessed jointly by raters. Reference lists of included
+papers were searched as well as previous reviews on related topics. Articles
+citing included articles were also reviewed and one paper was sourced via this
+method. Authors of protocol papers were contacted leading to an additional
+paper being sourced. Experts in the field in Scotland, England, Northern Ireland
+and Wales were contacted regarding any other studies. However, none were
+eligible for inclusion. Twelve papers were included in the final review.
+Page 12 of 108
+Figure 1: PRISMA diagram of systematic search process.
+Quality rating of studies:
+The Downs and Black (1998) checklist was used to assess quality. This
+checklist assesses internal and external validity, selection bias and study power
+over 27 items. This checklist was used due to its utility in assessing studies
+relating to public health and its applicability to assess quality in both
+randomised and non-randomised studies. Reliability and validity assessment has
+Records identified through database
+searching:
+ASSIA: 121
+CINAHL: 562
+EMBASE: 436
+MEDLINE: 281
+Psycarticles: 323
+Psychology and behavioural sciences: 778
+Psycinfo: 238
+Total: 2739
+Screening Included Eligibility Identification
+Additional records identified
+through other sources:
+• Hand searching key journals: 0
+• Reference lists and citations: 1
+• Contacting authors: 1
+Records screened after duplicates (n=845)
+removed: 1896
+Excluded:
+• Not an evaluation related to
+mental or emotional
+wellbeing: 1580
+• School based evaluation
+however not based in the
+UK: 230
+Full-text articles assessed
+for eligibility: 17
+Excluded:
+• Protocol paper: 2
+• Awaiting publication: 1
+• Editorial articles: 2
+12 studies included for review
+(5 x primary-school based;
+7 x secondary-school based)
+86 abstracts screened for eligibility
+Excluded:
+Targeted intervention: 69
+Page 13 of 108
+found the Quality Index to have high internal consistency, good test-retest
+(r = 0.88) and inter-rater (r = 0.75) reliability and good face and criterion validity
+(0.90) (Downs & Black, 1998).
+A sample of papers were assessed by an independent researcher. Any
+rating discrepancies were discussed and a shared decision reached. A decision
+was taken not to exclude any studies found to be of poor quality as the aim of
+this current review was to critique universal school based interventions whilst
+acknowledging that the real world implementation of such evaluations can be
+challenging and, as a result, may reasonably impact study quality.
+Data extraction
+Due to the heterogeneity of the studies, meta-analysis was not
+appropriate. A narrative synthesis will be applied to explain the findings of this
+review in line with current guidance (Popay et al., 2006). Information gathered
+from the studies included: study aim, intervention (model, duration, delivery),
+sample characteristics, study procedures, outcomes and measures, and results.
+Issues relating to the implementation, as well as effectiveness, of interventions
+were also noted from those studies commenting on such barriers.
+Page 14 of 108
+RESULTS
+Overview of interventions
+Of the twelve studies sourced, five took place in primary schools (Attwood
+et al., 2012; Berry et al., 2016; Collins et al., 2013; Stallard et al., 2007;
+Stallard et al., 2014) and seven took place in secondary schools (Boniwell et al.,
+2016; Challen et al., 2014; Chisholm et al., 2016; Kuyken et al., 2013; Rice et
+al., 2015; Naylor et al., 2009 and Stallard et al., 2013). An overview of study
+interventions based in Primary and Secondary schools can be found in Table 1.
+Primary school studies:
+The five studies within primary school settings evaluated interventions
+based on computerised CBT (Attwood et al., 2012); a teacher led intervention
+embedded within the curriculum (e.g. PATHS – ‘Promoting Alternative Thinking
+Strategies’; Berry et al., 2016); manualised anxiety interventions (e.g. a locally
+developed anxiety intervention, or the Australian developed ‘FRIENDS’
+programme) delivered by both school staff (teachers and nurses) and external
+health staff (e.g. psychologists) (Collins et al., 2013; Stallard et al., 2007;
+Stallard et al., 2014).
+Secondary school studies:
+Three of the secondary school based studies trialled interventions based
+on Cognitive Behavioural Therapy principles e.g. UK Resilience programme
+(UKRP), Resourceful Adolescent Programme (RAP-UK) (Rice et al., 2015; Challen
+et al., 2014; Stallard et al. 2013) delivered by school staff (Challen et al., 2014),
+educational psychologists (Rice et al., 2015) and external facilitators (Stallard et
+al., 2013). Interventions were also said to include principles of Interpersonal
+Therapy (RAP-UK – Stallard et al., 2013) and behavioural approaches (‘TRY’ –
+Rice et al., 2015).
+One study trialled an intervention based on Positive Psychology (Boniwell
+et al., 2016), two studies trialled a mindfulness-based intervention (Kuyken et
+al., 2013; Rice et al., 2015) and two trialled locally developed mental health
+education sessions delivered to all pupils (Chisholm et al., 2016; Naylor et al.,
+2009). These interventions were led by trained school teachers (Boniwell et al.,
+2016; Kuyken et al., 2013, Naylor et al., 2009), and trained volunteers (Chisholm
+Page 15 of 108
+et al., 2016). All delivered the intervention during Personal Health and Social
+Education (PHSE) classes.
+Methodological quality
+The quality of studies ranged from ‘poor’ (34% - Attwood et al., 2012;
+37.5% - Boniwell et al., 2016) to ‘excellent’ (75% - Chisholm et al., 2016; Stallard
+et al., 2014; 78.1% - Challen et al., 2014; 81.3% - Stallard et al., 2013).
+Six studies used a randomised controlled pre-post design (Attwood et al.,
+2012; Berry et al., 2016; Chisholm et al., 2016; Collins et al., 2013; Stallard et
+al., 2013; Stallard et al., 2014). The remaining were non-randomised pre-post
+designs and only one did not have a control group (Stallard et al., 2007). Some
+studies were particularly weak on their description of sample characteristics and
+representation of the population (Attwood et al., 2012; Boniwell et al., 2016),
+reporting of those lost to follow up and accounting for those in the analysis
+(Collins et al., 2013; Boniwell et al., 2016), and exploring of adverse events of
+which only one study provided information (Stallard et al., 2013). Only six
+studies provided a power calculation (Challen et al., 2014; Chisholm et al., 2016;
+Naylor et al., 2009; Stallard et al., 2013; Berry et al., 2016; Stallard et al.,
+2014), most of which had samples sufficiently powered to determine an effect
+(except Chisholm et al., 2016). The remaining studies did not provide such
+information.
+Of the eleven studies employing controls, six used controls from the same
+school in which the intervention was taking place (Challen et al., 2014, Chisholm
+et al., 2016, Rice et al., 2015; Collins et al., 2013, Stallard et al., 2014). All
+other studies recruited controls from different schools.
+Sample sizes ranged from 13 (Attwood et al., 2012) to 5075 (Berry et al.,
+2016). The age of participants ranged from 4 (Berry et al., 2016) to 16 years old
+(Stallard et al., 2013; Kuyken et al., 2013) with the majority of studies targeting
+the early adolescent age range (9-12 years old) at the end of Primary school or
+at the beginning of Junior / Secondary school (Attwood et al., 2012; Boniwell et
+al., 2016; Challen et al., 2014; Chisholm et al., 2016; Collins et al., 2013;
+Stallard et al., 2014).
+Page 16 of 108
+Table 1. Overview of interventions based in Primary and Secondary schools.
+PRIMARY SCHOOLS
+Study
+(Location)
+Sample Study aim /
+hypothesis
+Intervention – Theoretical
+model and Content
+Intervention –
+Setting,
+Structure &
+Delivery
+Attwood et
+al., 2012
+(Bristol,
+England)
+10-12
+year old
+boys
+from
+two coeducatio
+nal
+schools.
+(n=13)
+A proof of
+concept study
+to explore
+the viability
+and possible
+benefits of a
+cCBT
+programme.
+‘Think, Feel, Do’ – Based on CBT
+principles with a psychoeducation
+component, cartoon characters
+guide users through various
+activities including: emotional
+recognition; linking thoughts,
+feelings and behaviours;
+identifying and challenging
+negative thoughts; and problem
+solving. Involves quizzes,
+practical exercises, videos, music
+and animation.
+Six x 45min
+sessions delivered
+via an interactive
+multimedia CDROM.
+Took place within
+the school,
+facilitated by the
+researcher.
+Berry et
+al., 2016
+(Birmingham,
+England)
+4-6 year
+old
+pupils
+(n=5074;
+56 x
+schools)
+Test the
+effectiveness
+and costeffectiveness
+of the
+intervention
+to reduce
+children’s
+level of
+behavioural
+and
+emotional
+difficulty.
+‘PATHS’ (Promoting alternative
+thinking strategies) – aims to
+improve skills in five areas: selfawareness, managing feelings,
+motivation, empathy and social
+skills. Lessons are
+developmentally sequenced and
+focus on techniques for selfcontrol; emotional and
+interpersonal understanding
+steps for solving interpersonal
+problems; positive self-esteem
+and improved peer r’ships.
+44 x lessons in
+Year 1; 47 x
+lessons in Year 2.
+Delivered by
+trained teachers
+within classroom.
+Manual provides
+teacher scripts,
+pictures, activity
+sheets, photos,
+posters, & home
+activities.
+Collins et
+al., 2013
+(South
+Lanarkshire,
+Scotland)
+9-10
+year old
+pupils
+(n=317;
+9
+schools;
+18
+classes).
+To explore if
+anxiety &
+coping
+showed
+improvement
+postintervention,
+and test
+effects of
+delivery.
+‘Lessons for living: Think Well,
+Do Well’. CBT based intervention
+to develop coping skills. A series
+of skills practice using
+interactive teaching methods.
+Children are guided to recognise
+emotional symptoms, reduce
+avoidant coping strategies, and
+focus on proactive problems
+solving and support-seeking.
+Ten x lessons
+delivered by a
+psychologist
+(n=103) & teacher
+(n=79) during
+PSE. Teachers
+provided with
+intervention
+manual following
+one-day training.
+Stallard et
+al., 2007
+(Bath &
+N.E.
+Somerset,
+England)
+9-10
+year old
+pupils
+(n=106;
+3
+schools;
+4
+classes).
+To evaluate
+an
+Australianoriginated
+intervention
+in the UK;
+test delivery
+by school
+nurses.
+‘FRIENDS – Feelings, Relax, I can
+do it, Explore solutions, Now
+reward, Don’t forget practice,
+Smile’. Based on CBT principles it
+teaches children practice skills to
+identify their anxious feelings
+and learn to relax; to identify
+unhelpful thoughts and replace
+them with helpful thoughts; to
+face and overcome problems and
+challenges.
+Ten x sessions
+delivered by
+school nurses who
+attended 2-day
+training.
+Lessons comprise
+group work,
+workbooks, role
+play and games.
+Parents invited to
+pre-intervention
+session.
+Page 17 of 108
+Stallard et
+al., 2014
+(Bath, N.E.
+Somerset,
+Swindon,
+Wiltshire,
+England)
+9-10
+year old
+pupils
+(n=1448;
+45 x
+schools)
+To assess the
+effectiveness
+of FRIENDS
+delivered by
+both health
+and school
+professionals
+on anxiety
+prevention.
+As above (Stallard et al., 2007) Nine x 60 min
+lessons delivered
+to whole classes.
+Health-led group:
+two trained
+facilitators;
+Teacher-led
+group: led by
+class teacher. All
+attended 2-day
+training.
+SECONDARY SCHOOLS
+Study
+(Location)
+Sample Study aim /
+hypothesis
+Intervention – Theoretical
+model and Content
+Intervention –
+Setting,
+Structure &
+Delivery
+Boniwell et
+al., 2016
+(S.E.
+London,
+England)
+11-12
+year old
+pupils
+(n=296;
+2 x
+Haberdashers’
+Aske’s
+Fed. of
+Schools)
+To test the
+efficacy of a
+new school
+programme for
+the promotion
+of happiness and
+wellbeing skills.
+‘Personal Wellbeing Lesson
+Curriculum’ – Covers the
+‘scientific basis of happiness’
+focusing specifically on two
+core aspects – positive
+emotions / experiences and
+positive relationships. Based
+on theoretical constructs from
+wellbeing research and positive
+psychology e.g. ‘three good
+things’, forgiveness letter,
+gratitude visit.
+Eighteen biweekly 50 min
+scripted lessons
+delivered to 8
+classes by 4
+teachers who
+attended 5-day
+training.
+Provided with
+lesson plans,
+PowerPoints and
+handouts.
+Challen et
+al., 2014
+(Greater
+London,
+N.W.
+England &
+N.E.
+England)
+11-12
+year old
+pupils
+(n=
+2844; 16
+x
+schools;
+3 x L.As)
+To evaluate a
+UK version of
+Penn Resiliency
+Program (PRP).
+Hypothesised
+high completion
+rates &
+reduction of
+depression
+symptoms.
+‘UK Resiliency Program’ - Aims
+to build resilience and promote
+realistic thinking and adaptive
+coping, based on Ellis’s
+‘Activating event-belief
+Consequences model’. Teaches
+cognitive behavioural and
+social problem solving skills.,
+encouraging accurate appraisal
+of situations, and
+assertiveness, negotiation and
+relaxation skills.
+An 18-hour
+program
+delivered within
+the timetable at
+the teacher’s
+discretion.
+Delivered by
+school staff who
+attended 10-day
+training in the
+US.
+Chisholm
+et al.,2016
+(Birmingham,
+England)
+12-13
+year old
+pupils
+(n=769;
+6 x
+schools).
+To test whether
+contact with an
+individual with
+MH diagnosis
+plus education
+is more
+effective in
+reducing stigma,
+improving MH
+literacy and
+promoting
+wellbeing than
+education alone.
+‘Schoolspace’ – a 10-module
+MH intervention designed by
+study researchers covering
+topics such as stress,
+depression, psychosis,
+different ways of thinking and
+a drama workshop. The
+‘contact’ group had an
+individual facilitating who was
+a MH service user and had a
+diagnosis (e.g. psychosis, BPD)
+– this was revealed halfway
+through the day.
+A one-day
+intervention
+within the school
+led by NHS staff,
+trained
+volunteers and
+MH service users.
+Page 18 of 108
+Kuyken et
+al., 2013
+(England)
+12-16
+year old
+pupils
+(n= 522;
+12 x
+schools).
+To investigate
+the
+acceptability of
+a mindfulness
+programme for
+teachers and
+students; test
+efficacy of
+programme on
+MH and
+wellbeing.
+‘Mindfulness in Schools
+Program’ (MiSP) – involved
+learning to direct attention to
+immediate experience with
+open-minded curiosity and
+acceptance. Skills are learned
+through practices and everyday
+application. Mindfulness then
+used to work with mental
+states and everyday stressors
+to cultivate wellbeing and
+promote mental health.
+Nine x weekly
+scripted lessons
+delivered as part
+of the
+curriculum, or at
+lunchtime by 7
+teachers trained
+and approved to
+deliver the MiSP
+curriculum.
+Rice et al.,
+2015
+(S.E.
+England)
+13-14
+year old
+pupils
+(n=256;
+3 x
+schools).
+To compare
+three types of
+intervention
+which may
+prevent
+adolescent
+depression and
+explore
+cognitive
+mechanisms
+involved with
+each.
+‘TRY’ (Thinking about Reward
+in Young People) - aimed to
+enhance reward processing
+through actively selecting
+activities to lift mood.
+CBT – aimed to change negative
+thinking patterns by
+encouraging evaluation of
+thoughts.
+‘MBCT’ (Mindfulness Based
+Cognitive Therapy) – aimed to
+promote awareness and
+acceptance of thoughts and to
+develop regulation of attention
+through guided meditation.
+Psychoeducation regarding
+depression was provided to all
+groups.
+Eight x weekly
+manualised
+sessions of each
+intervention
+delivered within
+50 minute PHSE
+lessons by
+Educational
+Psychologists who
+attended regular
+supervision.
+Naylor et
+al. 2009
+(Greater
+London,
+England)
+14-15
+year old
+pupils
+(n=416;
+2 x
+schools).
+To explore
+whether
+teaching
+adolescents
+about mental
+health would
+result in gains in
+knowledge and
+empathy.
+Mental health lessons - Topics
+included: stress, learning
+disability, depression, suicide /
+self-harm, eating disorders,
+and bullying using methods
+such as discussion, role playing
+and internet searching.
+Six x 50 min
+weekly lessons
+delivered by 7
+group tutors
+from pastoral
+care who
+attended a 1-day
+training from
+researchers.
+Stallard et
+al., 2013.
+(Bath, N.E.
+Somerset,
+Bristol,
+Wiltshire,
+Nottinghamshire,
+England)
+12-16
+year old
+pupils
+(n=5030;
+8 x
+schools,
+28 x
+year
+groups).
+To assess effects
+of classroom
+based CBT on
+symptoms of
+depression and
+in relation to
+other aspects of
+psychological
+wellbeing and
+specific
+demographic
+sub-groups.
+‘RAP-UK: Resourceful
+Adolescent Programme’ –A
+depression prevention
+programme based on CBT and
+interpersonal therapy
+principles adapted to fit the
+UK curriculum. Key elements
+include: personal strengths,
+helpful thinking, keeping calm,
+problem solving, support
+networks and keeping the
+peace. Students complete
+workbooks as they progress.
+Nine x 50-60 min
+manualised
+lessons delivered
+within the PSHE
+curriculum by
+two trained
+facilitators
+external to the
+school.
+Two booster
+sessions offered
+to schools at 6
+month follow up.
+Page 19 of 108
+EFFECTIVENESS OF INTERVENTIONS
+An overview of study characteristics and outcomes can be found in Tables 2 and
+3.
+Data collection and measurement
+Studies varied widely in their use of measures. Measures used to rate
+depressive symptoms included the Children’s Depression Inventory (CDI) (Challen
+et al., 2014), the Short Mood and Feelings Questionnaire (SMFQ) (Stallard et al.,
+2013; Rice et al., 2015) and the Center for Epidemiological Studies – Depression
+Scale (CES-D) (Kuyken et al., 2013). Measures used to rate anxiety included the
+Revised Children’s Anxiety and Depression Scale (RCADS) (Stallard et al., 2013,
+Stallard et al., 2014), Revised Children’s Manifest Anxiety Scale (RCMAS)
+(Challen et al., 2014), Penn State Worry questionnaire (Stallard et al., 2013) and
+the Spence anxiety scale (Collins et al., 2013; Attwood et al., 2012, Stallard et
+al., 2007). Measures used to capture different methods of coping related to
+symptoms of anxiety or depression included: Children’s Automatic Thoughts
+Scale (CATS) (Stallard et al., 2013), Coping Strategy Indicator (CSI) (Collins et
+al., 2013), Sentence Completion for Events in the Past Test (SCEPT) (Rice et al.,
+2015), and Perceived Stress Scale (PSS) (Kuyken et al., 2013). Two studies used
+measures related specifically to wellbeing or resilience: Warwick-Edinburgh
+Mental Wellbeing Scale (WEMWBS) (Kuyken et al., 2013) and the Resilience Scale
+(Chisholm et al., 2016) although others used measures related to self-esteem
+(Stallard et al., 2013, Stallard et al., 2007, Stallard et al., 2014) and life
+satisfaction (Boniwell et al., 2016). The Strength and Difficulties Questionnaire
+(SDQ) was the most commonly used measure said to rate behavioural, emotional
+difficulties and overall functioning and either the child, parent or teacher
+version was used in six of the twelve studies (Attwood et al., 2012, Berry et al.,
+2016, Stallard et al., 2007, Challen et al., 2014, Naylor et al., 2009, Chisholm et
+al., 2016). Studies varied according to the length of follow up ranging from 4
+weeks (Chisholm et al., 2016), to 2 years (Stallard et al., 2013). Four of the
+twelve studies sought to obtain qualitative, as well as quantitative data
+(Attwood et al., 2012; Boniwell et al., 2016; Chisholm et al., 2016, Stallard et
+al., 2013). However, it is beyond the scope of this paper to comment on
+qualitative findings.
+Page 20 of 108
+Due to the heterogeneity of studies, the effectiveness of each
+intervention approach will be discussed in turn. Overall, results suggested a
+trend whereby higher quality studies reported less positive effects.
+Studies trialling bespoke mental health education programmes (n=3; Naylor et
+al., 2009; Chisholm et al., 2016; Boniwell et al., 2016 – all in secondary schools).
+Two studies found small (d=0.11-0.22) but significant improvements in
+total and subscale SDQ scores for those that received mental health education.
+However, it is noteworthy that Chisholm et al. (2016) did not employ a nonintervention condition. Boniwell et al. (2016) trialled a bespoke intervention
+based on Positive Psychology principles and found a decrease in outcomes of life
+satisfaction and an increase in negative affect for both groups. However, this
+was less so for the intervention group (d=-0.24 compared to d=-0.79) which was
+interpreted as the intervention having a ‘buffering effect’ at a time of stress for
+the pupils.
+Studies trialling CBT-based interventions (n= 7; Stallard et al., 2007; Stallard
+et al. 2013; Stallard et al., 2014; Collins et al., 2013; Rice et al., 2015; Challen
+et al., 2014; Attwood et al., 2012; Berry et al., 2016). These are described by
+setting (Primary and then Secondary).
+Primary schools
+All primary-school based studies trialled interventions pertaining to
+altering thinking styles akin to CBT principles. Four studies, three of which
+employed a control arm, reported statistically positive outcomes on anxietyrelated measures following interventions including FRIENDS (Stallard et al.,
+2007; Stallard et al., 2014), ‘Think Feel Do’ (Attwood et al., 2012) and locally
+developed CBT programmes (Collins et al., 2013) with larger effects for those in
+‘high risk’ groups (d=-1.26; Stallard et al., 2007 – no control arm). Mixed results
+were found in relation to delivery, with stronger effects found in interventions
+led by health professionals (d=0.2) versus school staff (d=0.02) (Stallard et al.,
+2014) and no difference between psychologist or teacher-led interventions
+(Collins et al., 2013). Methodological issues such as small sample size and
+significant group differences at baseline (n=13; Attwood et al., 2012), failure to
+include those lost to follow-up in analysis (Collins et al., 2013), lack of controls
+Page 21 of 108
+(Stallard et al., 2007), and small effect sizes for universal samples (d=0.01 - 0.2)
+(Stallard et al., 2014) should be noted when taking inference from those results.
+A sufficiently powered, good quality study evaluating the use of PATHS within
+the curriculum found few, small significant results (d = 0.06 – 0.14; teacherrated intervention measure) at 12-month follow up, and no effects on any
+measure at 24-month follow up (Berry et al., 2016).
+Secondary schools
+Fewer significant outcomes were found in trials based within secondary
+school populations. Small (d=0.093), but short-lived positive outcomes were
+found on the CDI for those in the UKRP intervention (Challen et al., 2014). Mixed
+results were found for those in the UK-RAP intervention, with results indicating
+some beneficial and also potentially negative outcomes (Stallard et al., 2013)
+although all with small effect sizes. Both were high quality, longitudinal, wellpowered studies employing robust methodologies. Further, no effects were
+found in the CBT group when compared with as-usual controls or other
+treatments in a smaller study looking at mechanisms of change (Rice et al.,
+2015). In the same study, a behavioural intervention (TRY) was found to have
+positive effects on reward-seeking behaviour and SMFQ measure (d=-0.8) when
+compared with other treatments; however this finding did not transpire when
+compared with PHSE-as-usual controls.
+Studies using mindfulness based interventions (n=2; Kuyken et al., 2013; Rice
+et al., 2015 – both in secondary schools).
+Positive outcomes were found in a feasibility study evaluating a
+mindfulness-based intervention (Kuyken et al., 2013) which yielded statistically
+significant, modest effects on both depression (CES-D: d=-0.24) and wellbeing
+(WEMWBS: d=0.15) measures. Due to small sample sizes this study was likely to
+be underpowered; however, outcomes were sustained at 3 month follow up and
+were associated with greater mindfulness practice. No significant outcomes were
+found in a smaller study trialling MBCT on measures of mood (SMFQ) or rewardseeking (Rice et al., 2015).
+Page 22 of 108
+Table 2. Design and outcome characteristics of primary-school based studies.
+Study (%
+quality rating)
+Study Design Measures Follow-up Effects / Outcomes
+Attwood et
+al., 2012
+(34%)
+Randomised pre-post intervention
+evaluation using opportunistic
+sample. No blinding or randomisation
+procedure reported. ‘cCBT’ (n=6) x
+control group (n=7).
+• Spence Children’s Anxiety Scale -
+Parent & Child version.
+• SDQ – Parent version.
+• Focus groups (n=8)
+Baseline;
+6-weeks post
+intervention.
+Significant reduction in SCAS-C ‘social’ (d=0.49*)
+and ‘general anxiety’ (d=0.48*) subscales (NB:
+Intervention group significantly higher on SCAS
+at baseline).
+No effects on parent rated measures.
+Berry et
+al., 2016
+(68.8%)
+Randomised controlled trial; web
+randomisation system.
+29 schools ‘PATHS’ intervention x 27
+schools WL Control.¹
+• SDQ – teacher version.
+• PATHS teacher rating scale (PTRS).
+• Teacher Pupil Observation Tool
+(T-POT).
+Baseline;
+12 mo postintervention;
+24 mo post
+intervention.
+No differences on SDQ at 12-month F-up. Some
+significant results on subscales of PTRS at 12 mo
+f-up (Social competence: d=0.09*; Aggression:
+d=0.14*; Inattention: d=-0.06*; Peer relations: -
+0.10*). Not maintained at 24 month follow up.
+Collins et
+al., 2013
+(46.9%)
+Randomised 3 x 3 mixed design. No
+randomisation procedure reported.
+Psychologist led anxiety intervention
+(n=103) x Teacher led anxiety
+intervention (n=79) x Controls
+(n=135).
+• Coping Strategy Indicator (CSI).
+• SCAS -Child version administered by
+teachers.
+Baseline;
+postintervention;
+(within 3
+weeks of end);
+6 mo follow
+up.
+Improvement in psychologist-led and teacher-led
+groups on SCAS-C (d=0.41*; d=0.31*) & CSI
+‘Avoidance’ (d=0.31*; d=0.31*) and ‘problem
+solving’ (d=-0.66*; d=0.52*) subscales. No
+difference between psychologist or teacher-led
+groups. SCAS-C outcomes maintained at 6 mo
+follow up (d=0.39*; d=0.39*). NB: Those lost to
+follow up (n=155) not included in analysis.
+Stallard et
+al., 2007
+(43.4%)
+Pre- post evaluation of pupils (n=106)
+from 3 schools taking part in the
+FRIENDS intervention.
+No controls employed.
+• SCAS-Child version.
+• Culture-free Self-esteem
+questionnaire (CFSEQ).
+‘T1’: 6mo
+prior;
+‘T2’: prior to
+intervention;
+‘T3’: 3-mo fup.
+Improvements in SCAS (d=-0.50*) and CFSEQ
+(d=0.58*) from T1 to T3 for whole sample; not
+between T2 and T3 (across intervention).
+Improvements on both measures (d=-1.26*; d=-
+1.27*) for ‘high risk’ group between T2-T3.
+Stallard et
+al., 2014
+(75%)
+Cluster randomised controlled trial
+randomised through computer tool.
+Health-led FRIENDS (n=489) x School
+led FRIENDS (n=472) x Controls
+(n=401). ¹
+• Revised Child Anxiety and
+Depression Scale (RCADS 30) – child
+& parent.
+• Penn State Worry Q’aire.
+• Rosenberg Self Esteem Scale.
+• Bully / victim q’aire.
+• Subjective wellbeing assessment.
+• SDQ- Parent version; teachers
+completed ‘Impact scale’.
+Baseline;
+6 mo f-up;
+12 mo f-up.
+Improvement on total RCADS (d=0.20*) and
+social (d=-0.09*) & general anxiety subscales
+(d=-0.20*) - not depression. Smaller effect sizes
+in school led group (d=0.02*; d=0.11*; d=0.01*;).
+No statistical improvements on secondary
+outcome measures or teacher / parent rating
+scales.
+Page 23 of 108
+1 Study sufficiently powered to detect change. ² Power calculation provided but proportion lost to follow up (>15%) reduced sample required for adequate power. *Significant at p<0.5 level.
+SCAS-C = Spence Children’s Anxiety Scale; SDQ – Strength and Difficulties Questionnaire; PATHS = Promoting Alternative Thinking Strategies; CFSEQ = Culture-free Self-esteem questionnaire;
+RCADS = Revised Child Anxiety and Depression Scale; CSI = Coping Strategy Indicator
+Table 3. Design and outcome characteristics of Secondary school based studies.
+Study (%
+quality
+rating)
+Study Design Measures Follow-up Effects / outcomes
+Boniwell
+et al.
+2016
+(37.5%)
+Non-randomised control
+group pre-post design.
+‘Personal Wellbeing’
+intervention group (n=211)
+x control group (n=85).
+• Students’ Life Satisfaction Scale (SLSS
+).
+• Multidimensional Students Life
+Satisfaction Scale (MSLSS).
+• Positive & Negative Affect Schedule
+for Children (PNASC).
+• Qualitative interviews.
+Baseline;
+Postintervention
+(10 mo f-up)
+No significant improvement on SLSS or
+MSLSS. Decrease in ‘satisfaction with
+school’(d=0.4*) and ‘friends’ (d=-0.17)
+scores for whole sample. Decrease in
+positive affect for both intervention and
+control groups (d=-0.24*; -0.79*); increase
+in negative affect (d=0.54*) for control
+group. NB: Those lost to follow up (n=103)
+not accounted for in analysis.
+Page 24 of 108
+Challen et
+al. 2014
+(78.1%)
+Non-randomised pragmatic
+controlled trial.
+UKRP intervention (n=1016)
+group x Control (n=1894)
+group.1
+• Children’s Depression Inventory (CDI).
+• Revised Children’s Manifest Anxiety
+Scale (RCMAS).
+• SDQ.
+Baseline;
+post
+intervention
+(4-9 mo);
+1 yr f-up;
+2 yr f-up.
+Small significant impact on CDI postintervention (d=0.093*); not maintained at
+1 or 2 year follow up. No significant effects
+on RCMAS or SDQ scores.
+Chisholm
+et al.
+2016
+
+(75%)
+Pragmatic cluster
+randomised controlled
+trail, randomised by
+independent researcher.
+‘Contact and MH
+Education’ (n=354) group x
+MH Education (n=303)
+group.2 No ‘as usual’
+controls.
+• Reported and Intended Behaviour Scale
+(RIBS) (not validated for adolescents).
+• Mental Health Knowledge Schedule
+(MAKS) (not validated for
+adolescents).
+• SDQ.
+• Resilience scale.
+• Helpseeking Q.
+• Focus groups.
+Baseline – 2
+weeks prior
+to
+intervention
+day;
+2 weeks
+postintervention
+day.
+Statistical sig. improvements on several
+scales post intervention day for both groups
+– ‘contact and education’ and ‘education
+only’: Attitudinal based stigma (d=0.23*;
+d=0.25*), knowledge based stigma (d=0.54*;
+d=0.59*), mental health literacy (d=0.05;
+d=0.13*;) emotional wellbeing (d=0.16*;
+d=0.14*), and resilience (d=0.07; d=0.22*).
+No change in ‘helpseeking’.
+Kuyken et
+al. 2013
+(59%)
+Non-randomised controlled
+feasibility study.
+MiSP intervention group
+(n=256) x control (n=266)
+• Warwick- Edinburgh Mental Wellbeing
+Scale (WEMWBS).
+• Perceived Stress Scale (PSS).
+• Center for Epidemiologic Studies
+Depression Scale (CES-D).
+• Mindfulness practice rating.
+Baseline;
+Postintervention
+(9 weeks);
+3 mo f-up.
+Lower depression scores post-intervention
+(d=-0.29*). Improvement on all measures at
+3 mo f-up (WEMWBS: d=0.15*; PSS: d=-
+0.09*; CES-D: d=-0.24*). More mindfulness
+practice significantly associated with
+greater gains across all measures (unable to
+calculate E.S.).
+Rice et al.
+2015
+(50%)
+Non-randomised
+longitudinal design with
+three intervention
+conditions.
+TRY intervention group
+(n=50) x CBT group (n=53) x
+MBCT group (n=54) x PHSE
+controls (n=99)
+• Short Mood & Feelings Questionnaire
+(SMFQ).
+• Cambridge Gambling Task (CGT) to
+measure reward seeking.
+• Dysfunctional Attitudes Scale for
+Children (DASC) and corresponding
+response time.
+• Sentence completion for Events from
+the Past (SCEPT) to measure
+overgeneral memory.
+Baseline;
+9 week fup.
+Statistical sig. changes in reward seeking in
+TRY group (d=0.12*); no change after CBT
+or MBCT. Changes in negative belief
+response times and over-general memory
+did not reach significance. No statistically
+significant decrease in SMFQ across groups
+compared to PHSE controls. When
+comparing treatment groups only, TRY
+showed statistical reduction in SMFQ when
+compared with MBCT and CBT (d=-0.8*);
+reward-seeking moderated reductions in
+ 1 Study sufficiently powered to detect change.
+2 Power calculation provided but proportion lost to follow up (>15%) reduced sample required for adequate power. *statistically significant at p < 0.05 level.
+SLSS – Student’s Life Satisfaction Scale; MSLSS = Multidimensional Students Life Satisfactions Scale; PNASC = Positive and Negative Affect Schedule for Children; CDI = Children’s Depression Inventory; RCMAS =
+Revised Children’s Manifest Anxiety Scale; SDQ = Strength and Difficulties Questionnaires; RIBS = Reported and Intended Behaviour Scale; WEMWBS = Warwick Edinburgh Mental Wellbeing Scale; PSS = Perceived
+Stress Scale; CES-D = Center for Epidemiologic Studies Depression Scale; SMFQ = Short Mood and Feelings Questionnaire; CGT = Cambridge Gambling Task; DASC = Dysfunctional Attitudes Scale for Children
+Page 25 of 108
+SMFQs scores (d=1.62*).
+Naylor et
+al. 2009
+(56.3%)
+Non-randomised pre-post
+control group study.
+MH intervention group
+(n=175) x Control group (n242).1
+• Mental Health Q’aire (unvalidated).
+• SDQ.
+Baseline (1
+week before
+intervention
+);
+6 mo postintervention
+.
+Improvement in MHQ with regards to
+awareness of depression causes (d=0.21*)
+and bullying (d=0.31*). Changes in specific
+SDQ subscales: ‘conduct’ (d=0.22*) and
+‘prosocial’ (d=0.11*) but not on total
+difficulties.
+Stallard
+et al.
+2013
+(81.3%)
+Cluster randomised
+controlled trial,
+randomised by computer.
+UK-RAP intervention group
+(n=1753) x Attention
+controls (n=1673) x PHSE
+controls (n=1604)¹
+• SMFQ.
+• Children’s Automatic Thoughts Scale
+(CATS).
+• Rosenberg Self Esteem Scale.
+• RCADS.
+• School connectedness Scale.
+• Attachment Q’aire for children.
+• European Quality of Life-5
+dimensions.
+• Client Service Receipt Inventory
+(CSRI).
+• Focus groups.
+Screening –
+SMFQ only;
+Baseline;
+6 mo f-up;
+12mo f-up.
+No significant effect on SMFQ at 12 mo fups. Some effect of intervention on
+bullying status at 12 mo, and Cannabis use
+at 6mo and 12 mo f-up. Intervention less
+useful than usual PHSE or attention
+controls for panic symptoms; less useful
+than usual PHSE on CATS ‘personal failure’
+scores and general anxiety.
+Signs of benefits and harm of intervention
+found, all were reported to be small effect
+sizes (data unavailable to calculate effect
+size).
+1 Study sufficiently powered to detect change. ² Power calculation provided but proportion lost to follow up (>15%) reduced sample required for adequate power. *Significant at p<0.5 level.
+Page 26 of 108
+IMPLEMENTATION ISSUES
+Common issues relating to implementation were found across all studies.
+Fidelity
+Fidelity to intervention delivery was highlighted as an issue both in terms
+of measurement and outcome. Studies used self-rated fidelity methods (Collins
+et al., 2013), external fidelity ratings on a proportion of sessions (Stallard et al.,
+2014; Stallard et al., 2013; Challen et al. 2014; Chisholm et al., 2016; Berry et
+al., 2016) or no fidelity rating methods reported at all. Studies commented
+variably on the possible effect of fidelity and ‘treatment dosage’ on outcomes.
+In Stallard et al.’s (2014) study the health-led condition with 100% fidelity (i.e.
+administered all pieces of homework and activity tasks) was associated with
+significantly better outcomes than the school-led group who achieved 60-80%
+fidelity. ‘High quality’ workshops were also found to be related to greater
+declines in CDI measures (Challen et al., 2014). Conversely, Berry et al. (2016)
+found that fidelity (when applying an arbitrary ‘80%’ rate of ‘high’ fidelity) was
+not found to be related to outcome.
+Attrition
+Investment from schools was raised as an issue as demonstrated by school
+participation and attrition (Stallard et al., 2013; Berry et al., 2016), and failure
+to administer follow up measures as per study procedures (Collins et al., 2013;
+Boniwell et al., 2016). All studies, with the exception of Stallard et al. (2013)
+provided little information about school or participant characteristics of those
+who dropped out. This confounding factor may have positively biased results. For
+instance, in Kuyken et al’s (2013) study, teachers who delivered the mindfulness
+intervention had been invested in the intervention for approximately 2 years
+before the beginning of the study and attended regular supervision,
+demonstrating good motivation throughout the study which found positive
+outcomes.
+Costs
+Two studies actively explored health economic costs involved (Berry et
+al., 2016; Stallard et al., 2013). Cost-effectiveness was not calculated by Berry
+et al. (2016) due to lack of impact, and Stallard et al. (2013) concluded that the
+Page 27 of 108
+intervention was not cost-effective. Of note, both studies may have sustained
+high costs due to employing external facilitators to lead the intervention rather
+than teachers (Stallard et al., 2013) and hiring ‘coach consultants’ to monitor
+delivery (Berry et al., 2016).
+Page 28 of 108
+DISCUSSION
+This review aimed to explore the effectiveness and study quality of
+universally delivered school based interventions within the UK which aim to
+promote mental and emotional wellbeing, or prevent mental ill health. Several
+clear conclusions can be drawn from this review, while other issues require
+further clarity from future research.
+How effective are universal school based interventions in the UK that
+promote mental health, emotional wellbeing, or psychological resilience and
+what tools are being used to measure effectiveness?
+Based on the studies included in this review, the effectiveness of
+universal school based interventions remains mixed, and at best, modest. Where
+there were several positive outcomes, effect sizes were small and
+methodological issues rendered many results to be interpreted with caution.
+Studies based in Primary schools seemed to find more encouraging results
+from CBT-based interventions on measures of anxiety, although most studies had
+methodological limitations relating to use of appropriate controls, and failure to
+include of those lost to follow up in analysis. Positive results tended to fall in
+the older age range of Primary school pupils (9-12 years old).
+Within the Secondary school population, the most positive results were
+obtained when delivering mental health education sessions, behavioural or
+mindfulness interventions. Two high powered, good quality studies evaluating
+CBT based interventions within secondary populations found few significant
+results and one study indicated possible detrimental impacts of the intervention
+compared to controls, although any effect sizes related to these findings were
+small.
+It is curious that studies fail to detect promising effects in the older,
+secondary school, population. It could be argued that 2 year follow up is not
+sufficient to truly detect change or prevention during the developmentallysensitive time that is adolescence. Arguably, the demands placed on adolescents
+merely change in nature rather than impact over time. Adolescent psychosocial
+development (Erikson, 1968) is particularly vulnerable as individuals are required
+Page 29 of 108
+to manage academic demands as they progress through their school career,
+navigate friendships, seek to develop self-identities and deal with the
+physiological changes that occur as they transition through puberty. It could be
+that the existence of such pervasive and fluctuating stressors juxtaposed with
+measurement issues, discussed below, contribute to the failure to detect
+significant results in secondary school populations. Or, that such interventions
+simply have less impact for this population.
+What methodologies are being applied in UK schools when trialling
+interventions and what is the quality of these studies?
+Methodological issues were predominant in this review. Only four of the
+studies were of ‘excellent’ quality and findings indicated a trend towards higher
+quality papers finding fewer positive results. Studies were weakened largely due
+to their lack of randomisation and blinding of researchers, and small sample
+sizes which likely rendered them underpowered to detect true effects.
+While it was encouraging that initial consenting rates were high and
+remained reasonable throughout, study quality would benefit from better
+reporting of those lost to follow up who, possibly, could be a population of
+particular interest when considering the objective of promoting mental and
+emotional wellbeing for all within the school setting. Further, statistical
+methods used to account for such missing data require careful consideration to
+ensure that more stringent and conservative methods, for example, intent-totreat analyses, are applied in school-based research. Otherwise, studies that
+instead apply a ‘defined completers’ or ‘completers’ analysis expose themselves
+to the risk of yielding false positives.
+Another issue was the use of controls. Few studies explicitly provided
+details of the content controls received. Some indicated that controls may have
+received materials already available in the school around social and emotional
+wellbeing, which could reasonably have confounded results. Additionally,
+considering the demographic data provided, it is unlikely that the included
+studies accurately represent the cultural diversity of schools across the UK,
+Formatted: Not Highlight
+Page 30 of 108
+therefore caution should be taken when considering the generalizability of
+results.
+The last prominent issue highlighted in this study was the diverse use of
+measures and length of follow up across studies, making it difficult to ascertain
+a coherent picture of measurement and effects in the current research base.
+As commented in one study (Challen et al., 2014) and further afield
+(Reavley et al., 2015), measurement issues within universal populations are
+particularly problematic due to common floor effects which exist, particularly
+when using measures pertaining to the existence of mental health conditions. As
+has been well-documented, demonstrating improvement in ‘high risk’ groups is
+somewhat easier as baseline scores are often elevated providing scope for
+reduction (Stallard, 2013). Demonstrating change within a universal population is
+therefore inherently more difficult and requires careful thought when moving
+forward. Is it sufficient that the absence of a mental health condition equates to
+greater wellbeing or resilience as suggested by Boniwell et al. (2016), or should
+researchers direct attention to explicitly measuring wellbeing and resilience and
+mechanisms of change within such constructs in order to truly operationalise
+factors relating to the prevention of mental health difficulties.
+Few studies in this review used wellbeing or resilience measures.
+However, those that did (Kuyken et al., 2013; Chisholm et al., 2016) found
+positive effects. While any meaning of these results must be taken with caution
+due to methodological issues, this nevertheless suggests that such measures are
+at least able to detect change within a universal population.
+Only one study explored mechanisms of change (Rice et al., 2015) by
+using cognitive reasoning tests when comparing several interventions, and found
+that a behavioural intervention led to more reward-seeking and a reduction in
+mood symptoms. It would be of value to explore this further given the
+neurodevelopmental stage of adolescence when frontal lobes are still maturing
+and neuronal connections continue to grow (Spear, 2013). Consequently, the
+adolescent’s ability to plan, problem solve and manipulate abstract information,
+as is arguably necessary in cognitive-based interventions, may be overridden by
+more disinhibited, emotionally driven impulses and the seeking of concrete
+Page 31 of 108
+rewards, as may be seen in earlier adolescence and would potentially explain
+increased receptiveness to a behavioural, rather than cognitive intervention.
+What are the identified barriers in delivering and evaluating universal
+school based interventions?
+Implementation barriers relating to fidelity to intervention delivery and
+costs were also raised within this review. Variance in fidelity measurement to
+confirm reliable manualised delivery was a recurring issue, which is of particular
+salience when delivery has been consistently argued to be related to outcome
+(Durlak et al, 2011; Weare & Nind, 2011). Intervention delivery itself varied
+between studies where school staff or external researchers delivered the
+courses. While results in specific studies were mixed when comparing the
+effectiveness of teacher-led versus externally-led interventions, overall within
+this review the results were neutral suggesting, at best, that there is no negative
+impact of teacher delivery. While issues relating to treatment fidelity may be
+more prominent with teacher delivery, considering sustainability, it could be
+argued that this would be the optimal approach in school settings, especially
+considering the financial costs involved in bringing in external facilitators as
+demonstrated by two studies in this review (Berry et al., 2016; Stallard et al.,
+2013). Further, research has indicated that pupils prefer both that mental health
+education be delivered by someone with a thorough knowledge of the subject,
+and for it to be delivered by someone they know e.g., a teacher (Woolfson et
+al., 2008).
+No study in this review explored the impact on any allied services such as
+CAMHS. For instance, it may be useful to audit local CAMHS referral-rates whilst
+reviewing the effectiveness of school-based interventions. Considering the
+absence of reliable positive outcomes at the individual level at this point, a
+systemic perspective could be of value when considering any cost benefits on
+the wider health and social care service.
+Further, it was unclear from the review what political or strategic drivers
+instigated each study, and indeed, how much children and young people were
+consulted in the process, design and delivery of the interventions. It was outside
+Page 32 of 108
+the scope of this review to explore the qualitative findings from the few studies
+that employed focus groups. Therefore, it is recommended that future
+qualitative reviews of school based research are conducted in order to ensure
+the children’s and young people’s views as stakeholders in this work are
+sufficiently represented.
+Limitations
+This study was limited in its ability to source evaluations representative of
+the entire UK as the majority of studies were based in England. While efforts
+were made to source evaluations from elsewhere in the UK, the lack of validated
+measures or application of pre-post methodology meant that such evaluations
+from ‘grey literature’ could not be included in this review. It should therefore
+be noted that there is much relevant work being conducted in UK schools.
+However, schools and local authorities should be urged to reliably evaluate their
+valuable efforts and contribute to the literature area, thereby justifying and
+demonstrating the work being driven by teachers and policymakers nationwide.
+This study was also limited in its date source in that only studies from the
+year 2000 were included in this review. While results from other systematic
+reviews suggested that little relevant research was done in the UK before this
+time, it could still be that some studies were missed due to this limit.
+Implications
+This review highlighted the need to employ robust methodological designs
+within school-based research in order for any effects to be interpreted
+meaningfully. Measurement issues exist where they do not adequately detect
+change in universal populations, and there is a wide variety in measures used
+ranging from ‘clinical’ to wellbeing measures. This review concludes that schoolbased researchers across the UK should attempt to come together to discuss
+ways to address this issue and improve coherence in the literature.
+An additional, imperative implication from this review is the proactive
+inclusion and involvement of teachers in this work. As has been commented
+elsewhere (Weare, 2015) without the ‘buy-in’ from teachers, any school based
+intervention is less likely to sustain or achieve positive outcomes. In a time of
+Page 33 of 108
+additional pressures on teachers, the need to feel in control of initiatives is key.
+Of note, two of the studies in this review included adult-focussed exercises for
+the teachers themselves as an adjunct to the intervention training. This
+approach may go further to assist teachers’ own stress levels and understanding
+of mental health whilst attending to the needs of their pupils.
+Conclusions
+The current evidence suggests there are neutral to small effects of
+universal, school-based interventions in the UK that aim to promote emotional or
+mental wellbeing or prevention of mental health difficulties. Whilst the realworld limitations of conducting research in schools exists, robust, long-term
+methodologies need to be attempted when conducting research in this area in
+order to explore the longitudinal impact of school-based interventions on
+wellbeing; academic attainment, school attendance and rates of high-risk
+presentations also need to be explored. This requires adequate recording of
+fidelity, the use of validated measures sensitive to mechanisms of change,
+reporting of those lost to follow up and any adverse effects, and the use of
+qualitative data to supplement quantitative outcomes. Interventions in the
+existing UK-based literature include educational, behavioural, cognitive and
+mindfulness components, each demonstrating variable results. Nevertheless,
+national and local policy (Department of Education, 2016; CYMRU, 2010;
+Education Scotland, no publication date) indicates that there remains an
+appetite to develop work in this area in order to promote wellbeing outcomes
+for children and young people. In this case, further research collaborations are
+required across the UK to demonstrate any benefits for pupils or on the wider
+system.

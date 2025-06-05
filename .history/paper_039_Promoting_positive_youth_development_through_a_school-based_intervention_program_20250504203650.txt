@@ -1,0 +1,1030 @@
+Translate
+Decrease font size
+Increase font size
+
+Display options
+
+Listen
+ Send to Google Drive™
+ Send to Microsoft OneDrive™
+
+Email
+Download
+Print
+Main content
+Abstract: 
+The aim of the current study was to evaluate the efficacy of the short-term school-based intervention program Try Volunteering in the development of the Five Cs (Competence, Confidence, Connection, Character, and Caring) of positive youth development. The longitudinal quasi-experimental study design was used for the pilot evaluation of the intervention program. The study sample consisted of 615 adolescents assigned to intervention and control groups. The Latent Class Growth Analysis revealed that most program participants showed an increase in Competence, Connection, and Caring as well as maintained stable levels of Confidence and Character; whereas most non-participants showed a decrease in Competence, Confidence, and Character and maintained stable levels of Connection and Caring. The effect size estimation revealed large between-group program effects on Competence and Confidence and moderate effects on Character as well as moderate within-group time effects on all Five Cs. Thus, the intervention program Try Volunteering is an effective tool for fostering positive youth development.
+
+Author(s): Inga TruskauskaitÄ-KunevicienÄ 1, Eva Romera 2, Rosario Ortega-Ruiz 2, Rita ZukauskienÄ 1
+
+Author Affiliations:
+
+(1) grid.5259.b, 0000 0001 1009 8986, Mykolas Romeris University, , Ateities str. 20, 08303, Vilnius, Lithuania
+
+(2) grid.411901.c, 0000 0001 2183 9102, University of Cordoba, , San Alberto Magno S/N, 14004, Cordoba, Spain
+
+Introduction
+
+For many decades, the primary mission of school was to ensure quality education for children and adolescents. Taking care of youths' well-being was typically seen as the task of family and community. However, the mission of school has expanded. Alongside education, the school-setting is seen as an important developmental context that can and should contribute to healthy and positive youth development (Greenberg et al. 2003).
+
+Positive Youth Development
+
+The perspective of positive youth development (PYD) moved beyond the deficit view in developmental psychology and suggested that adolescence is a resourse to be developed rather the problem to be solved (Bowers et al. 2010; Roth and Brooks-Gunn 2003). It also encouraged a noticeable increase of research and practices focusing on youths well-being and thriving (Benson and Scales 2009). Different conceptualizations of PYD exist in the literature. The most empirically supported PYD framework to date is the Five Cs model (Heck and Subramaniam 2009). It suggests that PYD comprises five psychological, behavioral, and social characteristics of the individual â context relations, namely Competence, Confidence, Connection, Character, and Caring (Lerner et al. 2005).
+
+The perspective of PYD is based on the Relational Developmental Systems approach (e.g. Overton 2013). In this approach, one of the main characteristics of the developmental process is plasticity which makes it possible for a person to undergo a positive (or negative) change through the lifespan (Lerner 2004). The model of positive youth development (Lerner et al. 2005) suggests that the Five Cs of PYD will emerge when the strengths of youth (e.g., intentional self-regulation (Gestsdottir and Lerner 2008) or hopeful future expectations (Schmid et al. 2011) are in line with the ecological assets (e.g., social networks, institutions, access to resources (Theokas et al. 2005) provided by different contexts such as family, school, or community. Therefore, PYD could be induced by targeting youth's attitudes and skills and encouraging social interactions in meaningful and supporting contexts.
+
+Program Participation as a Context for Fostering Positive Youth Development
+
+Scales et al. 2000 revealed that youth program participation is a key asset and context that leads to positive youth development and thriving by providing access to caring adults, responsible peers, and skill-building activities. However, there is still a lack of consensus on what particular developmental changes should PYD programs induce and what qualities in youth should they foster (Roth and Brooks-Gunn 2016). There is also a discrepancy between the indicators of positive youth development described in the literature and the usually measured outcomes of PYD programs. A recent review (Tolan et al. 2016) revealed that the most commonly measured indicators of PYD programs efficacy are the change in community contribution (or civic engagement) and the decrease of problem behavior. Although these constructs are indicators of thriving - which itself, as theory states, is induced by fostering positive youth development - the Five Cs of PYD are rarely used to measure program outcomes even though at least two reliable measures reflect PYD through the structure of the Five Cs (see Arnold et al. 2012; Bowers et al. 2010).
+
+We found a single quasi-experimental study (White 2009) which used the Five Cs of PYD as the indicators of a program's efficacy. However, it failed to find any within-group time effects or between-group effects, despite the practitioners' claims that the evaluated programs are highly beneficial. As White (2009) explains, they might not have found any effects on the Five Cs due to the methodological reasons, such as very small sample size in final analysis or possible diffusion of treatment effects (Cook and Campbell 1979). Moreover, the comprehensive longitudinal 4-H study, led by the leading developers of the PYD perspective, failed to find any direct effects between program participation and the Five Cs of PYD (Lerner and Lerner 2013). The existing available evidence of fostering Five Cs in adolescence is limited to cross-sectional (Arnold et al. 2007), descriptive (Arnold and Nott 2010a), or retrospective (pre-test and post-test data collected after the completion of the program) (Arnold and Nott 2010b) studies. It should be noted, however, that the PYD programs successfully promoted PYD-related outcomes such as intentional self-regulation (Mueller et al. 2011), positive identity (Eichas et al. 2010), self-efficacy, resilience, spirituality (Shek and Sun 2010), community and family cohesion, school prosocial support (Feinberg et al. 2010), and more.
+
+The empirical evidence provided above support the view outlined by Roth and Brooks-Gunn (2003). They noted that capturing the change of developmental outcomes, such as the Five Cs, may be difficult even after a good program, as adolescents "do not grow up in programs" (p. 97) but rather in families, schools, and communities, and a single program is rarely capable of changing lives of young people entirely. Durlak et al. (2010) reported that significant youth program effects usually appear when evaluating "self-perceptions, bonding to school, positive social behaviors, school grades, and achievement test scores" (p. 302), but not the desirable developmental outcomes per se, including social, moral, cognitive, and emotional dimensions (as suggested by Baker 2001). Therefore, a further investigation on whether and how much the context of the PYD intervention could induce the Five Cs of PYD is needed.
+
+How the Five Cs of PYD Could be Influenced by the Context of Interventions
+
+There is substantial empirical evidence that healthy development is rooted in multiple contexts, such as families, schools, and communities (e.g., Youngblade et al. 2007). Preventive interventions are among these contexts. However, youth programs are usually relatively short contextual influences and may have a different impact on separate developmental outcomes, such as the Five Cs of PYD (Lerner et al. 2005; Roth and Brooks-Gunn 2003). Although the magnitude of possible changes of the five elements has not been specifically addressed to date, one can find some evidence about these changes in the literature about the studies of the constituting elements of the Five Cs. Therefore, in following paragraphs, some previous findings enabling to predict the magnitude of expected change in Competence, Confidence, Connection, Character, and Caring after delivering an intervention program, will be discussed.
+
+Competence refers to a positive view of one's actions in a domain specific area, such as social (e.g., interpersonal skills), emotional (e.g., stress management), academic (e.g., school grades), cognitive (e.g., decision making), and vocational (e.g., career choice) (Lerner et al. 2005; Roth and Brooks-Gunn 2003). Masten and Coatsworth (1998) suggested that competence is a result of the interaction between the person and his/her environment and could be relatively easily influenced by changes in the context. Catalano et al. (2004) provided empirical support for this idea. They reported that many PYD interventions, varying in length, were successful in fostering social, emotional, cognitive, behavioral, and moral competencies. Therefore, an increase in Competence could be highly anticipated after participating in a quality PYD program.
+
+Confidence refers to an internal sense of global self-efficacy and self-esteem (Lerner et al. 2005; Roth and Brooks-Gunn 2003). Pajares and Urdan (2006) reported significant evidence that mastery experiences may influence self-efficacy. Thus, improved Competence may also result in improved Confidence. However, Confidence also comprises self-esteem which develops with early experiences (Robins and Trzesniewski 2005), and remains quite stable through the lifespan (Orth and Robins 2014). Nonetheless, McLaughlin (2000) reported some supporting evidence that community programs may boost perceived self-esteem. Therefore, increased Confidence could also be expected as a result of participation in the school-based PYD program.
+
+Connection refers to bi-directional positive bonds with people (e.g., peers, parents/guardians, or teachers) and institutions in different contexts (Lerner et al. 2005; Roth and Brooks-Gunn 2003). According to the identity theory, people tend to undertake many different role identities while communicating with various individuals or groups (Hogg et al. 1995). Therefore, to induce positive changes in different relationships, a successful intervention should be capable of targeting different social domains. On the other hand, relationships with others in late adolescence are shaped by the representations of self and others that depend highly on one's attachment style (Kobak and Sceery 1988). The attachment style represents relatively stable behavioral patterns of the relationships, and people tend to use their early relationships as a template for future ones (Campbell et al. 2005). However, the evidence from the intervention science proves that mentoring relationships can positively influence not only mentor-mentee relationships but also the relationships with teachers and parents/guardians (Chan et al. 2013). Therefore, we could expect that the PYD intervention could have a positive, if modest, influence on Connection.
+
+Character refers to respect for cultural and societal norms, morality, and resistance to negative influence (Lerner et al. 2005; Roth and Brooks-Gunn 2003). The development of morality is shaped by the relationship towards the primary attachment figure (Van IJzendoorn 1997). In late adolescence, however, morality development is also influenced by peer friends (Caravita et al. 2014). Besides, Kirschenbaum (1995) argued that there are many ways to induce morality in school settings and appropriate role models in the adolescents' environment may, above all, play a significant role in targeting morality. Recent research show that the manifestations of positive morality, such as volunteering, may be influenced by the example of peers and parents/guardians (Van Goethem et al. 2014). Therefore, within an empowering and encouraging program atmosphere (Roth and Brooks-Gunn 2003), at least some effect on Character could be expected.
+
+Caring refers to empathy and sympathy for others (Lerner et al. 2005; Roth and Brooks-Gunn 2003). Empathy reflects emotional and cognitive reactions that often lead to acts which benefit others (Killen and Smetana 2015). Intervention research provides some evidence that increased emotional competence in adolescence could induce empathy (Castillo et al. 2013). However, the reported effect sizes are rather small. Volbrecht et al. (2007) demonstrated that empathy development depends both on genetic and early positive experiences, such as positive affect during interactions with parents/guardians. Van der Graaff et al. (2014) provided evidence that empathy increases in adolescence as a result of cognitive development. Therefore, the impact of interventions on Caring may be limited.
+
+To sum up, previous research provides evidence that the Five Cs of PYD may be induced by changing the context of development, for example, by delivering an intervention focused on promoting PYD. However, the magnitude of the expected effects may vary across the five constructs. Some characteristics of individual-context interaction are deeply rooted in early childhood or even genetics, while others may be easily influenced by the short-term experiences. Therefore, it is meaningful to explore the change of Competence, Confidence, Connection, Character, and Caring in intervention settings separately, to investigate the impact of change in a developmental context on youth's positive development.
+
+The School-Based Intervention Program Try Volunteering
+
+In this study, we evaluated the PYD program called Try Volunteering which is unique in terms of addressing the PYD program criteria described by Roth and Brooks-Gunn (2003) in program development, implementation, and evaluation (Roth and Brooks-Gunn 2016). Roth and Brooks-Gunn (2016) suggested three defining characteristics of the quality PYD programs: (1) program goals, targeted towards the Five Cs of PYD; (2) empowering program atmosphere that encourages positive relationships with adults and peers; (3) program activities that provide opportunities for practicing new skills and broadening horizons.
+
+During the two months (8 sessions) long school-based intervention program adolescents participated in activities that were built specifically to foster the Five Cs of positive youth development. In this way, the program goal criterion was targeted. To ensure the appropriate program atmosphere, the following steps were taken: volunteers with the positive attitude towards adolescents were selected as program leaders; the program leaders undertook training in order to ensure the uniformity and the supportive climate of the program delivery; the program leaders sought to build positive relationships with and to encourage positive relationships between the participants; the program structure and activities were organized with the purpose of empowering youth to take actions and achieve their goals; the program leaders communicated the positive behavior expectations to the participating youth; every participant could receive individual positive attention and recognition. After the program delivery, the participants could choose to engage in community support-based volunteering activities under the further supervision of the program leaders in order to learn how to make important choices and take responsibility.
+
+The program activities criterion was met by taking the following actions: the participants were provided with opportunities for acquiring new skills, nurturing their existing talents, and dealing with the real situations of their lives. After the program, the participants learned various volunteering opportunities and were given a chance to meet real people from different volunteer-based organizations. This was done to broaden participants' horizons and to provide youth with opportunities for getting involved in new challenging activities.
+
+The Present Study
+
+The present study aimed to evaluate within-group time effects and between-group effects of the intervention program Try Volunteering on positive youth development at 4-months follow-up. We used the Five Cs model of PYD framework (Lerner et al. 2005) for both the development and the evaluation of the program. The evidence-based Five Cs model has rarely been used as a basis for the PYD intervention research and practice, especially outside the United States of America. This work contributes to the developmental and intervention research by addressing this gap.
+
+From the theoretical perspective, we consider the current intervention as a developmental context that may induce youth's thriving. In this study, however, the focus lies not only on the change in the Five Cs but also on its magnitude. There is little empirical evidence of change in the Five Cs of PYD over time, as a result of the PYD intervention. As far as we know, the magnitude of change in the Five Cs has never been addressed in previous studies before. Thus, our study contributes to the further exploration of the five constructs that constitute PYD.
+
+The new perspective has recently been added to the developmental system theory (Lerner 2004) on which the PYD framework is based. Belsky (2013) suggested that people differ in plasticity; therefore, the susceptibility to environmental influences (both positive and negative) is differential. The PYD intervention is a developmental context (Roth & Brooks-Gunn 2016) that influences youth in a (preferably) positive way. However, according to Belsky's (2013) view, the intervention effects could be shaped by individual differences in plasticity. Therefore, in this study, alongside the traditional variable-oriented approach, we addressed the person-oriented approach (Bergman et al. 2003), which is rare in intervention studies. We believe that presenting both types of analysis in a single study contributes to better understanding of the program effects in general and the trajectories of the Five Cs of positive youth development in particular.
+
+Whereas program development and implementation met the general criteria of PYD programs (Roth and Brooks-Gunn 2003), we expected that the short-term school-based intervention program Try Volunteering will foster Competence, Confidence, Connection, Character, and Caring. Also, we expected to find the between-group as well as within-group time effects on all the Five Cs.
+
+Method
+
+Design
+
+The quasi-experimental study design was chosen for the pilot evaluation of the newly developed PYD intervention program efficacy. Three available measures (pre-test, post-test, and follow-up; each four months apart) in the intervention and control groups were used. Twenty-six ninth-to-tenth-grade classrooms from two middle schools participated in the present study. All adolescents from one school (13 classrooms) were assigned to the intervention condition and all adolescents from the other school (10 classrooms) to the control condition. The assignment was conducted at the school level and not at the classroom level (Roth and Brooks-Gunn (2016) acknowledged the latter as an available option) in order to avoid the diffusion of treatment effect described by Cook and Campbell (1979). The schools were selected for the study based on their similarity of the structure (both being gymnasiums with ninth to twelfth graders) and the neighborhood (both located in the areas with similar neighborhood characteristics, e.g., non-central location, middle-class apartment housing, etc.).
+
+Participants
+
+The sample used in the current study consisted of 615 participants: 351 from the intervention school (44.2% girls, aged from 13 to 16 (M age = 15.26; SD age =.69) at pre-test) and 264 from the control school (40.9% girls, aged from 14 to 17 (M age = 15.24; SD age =.65) at pre-test). Most of the participants (92.6%) were Lithuanians. The subjects in the intervention and control groups did not differ in terms of age (t =.30, p =.63) and gender ([chi] 2 =.650, p =.25).
+
+It should be noted that participants were included in the study regardless of the number of the program sessions that they attended as we assumed that all adolescents from the intervention school could be influenced by the treatment in one way or another because of the possible diffusion of the treatment effect (Cook and Campbell 1979). Seventeen percent of the intervention sample attended the full program; 25% missed one meeting; 35% missed more than one meeting but attended no fewer than half of the program sessions; 23% attended less than half of the program sessions, but were present at least in one session.
+
+Procedures
+
+<sec>
+
+The study was conducted from May 2014 to May 2015 and consisted of the following stages: program development; selection, training, and supervision of the program leaders; intervention delivery (classroom and school activities); and assessments (pre-test in September 2014, post-test in January 2015, and follow-up in May 2015).
+
+Intervention
+
+The short-term school-based PYD program was developed by the research team of the longitudinal project "Mechanisms of promoting positive youth development in the context of socio-economical transformations (POSIDEV)". Program activities (8 classroom sessions, 45 min each) were delivered once a week during the regular school hours. Each session was focused on fostering from one to three Cs of PYD (see Table 1).
+
+The list of the Try Volunteering program sessions with the corresponding Five Cs
+
+Session
+
+Topic
+
+PYD goals
+
+1
+
+I can be open to the new experiences.
+
+Confidence, Character, Connection
+
+2
+
+I can learn about my strengths
+
+Character, Confidence
+
+3
+
+I can cherish my connections with others
+
+Connection, Confidence
+
+4
+
+I can understand my own and other people's feelings
+
+Caring, Competence
+
+5
+
+I can survive difficult situations
+
+Competence, Character, Caring, Connection
+
+6
+
+I can see life as a meaningful experience
+
+Confidence, Connection, Competence
+
+7
+
+I can share what I have with others
+
+Caring, Competence, Connection
+
+8
+
+I can become a volunteer
+
+Caring, Character
+
+Before starting the program, the introductory meeting was organized to present the intervention program for the school community. During this meeting, the participants of the program, teachers, and school administration had an opportunity to meet the program developers, program leaders, and representatives from volunteer-based organizations.
+
+Participants from 13 classrooms in the intervention school were divided into 26 smaller groups of 15 or fewer to ensure the quality of the program delivery. A wide range of individual and group activities (e.g., group discussions, role-plays, and personal reflections) were organized during the program sessions. At the end of every session, program leaders provided some insights of how the strengths of youth could be further encouraged by taking part in the volunteering activities.
+
+The intervention program was delivered by 28 program leaders (university students volunteers). Before the intervention, program leaders participated in a two-day training led by program developers. All program leaders signed volunteering contracts by which they committed to deliver a full program (8 sessions). When a leader could not deliver a session on the appointed day, the respective session was rescheduled in collaboration with the intervention school and took place before the due time of the following session. Group supervisions of the program leaders were organized once a week, right after the delivery of the session.
+
+After the program delivery, a volunteering fair was organized during which participants had an opportunity to meet staff members of the volunteer-based organizations such as animal shelters, Caritas-run services, child care centers, etc. Participants could choose whether and where to volunteer.
+
+Assessment
+
+Assessment dates and conditions were discussed with every school before each assessment. Parents/guardians were informed about the study in writing and informed consents were obtained. Before each assessment, adolescents were informed of the study purpose and that their participation was voluntary. Questionnaires were administered by POSIDEV researcher team in classrooms during regular school hours. Students who were absent on the day of data collection were contacted by the school personnel during the following one or two weeks and asked to fill out the questionnaire.
+
+Measures
+
+Positive youth development was measured with the Positive Youth Development Inventory (PYDI) (Arnold et al. 2012). This questionnaire was chosen because it was developed intentionally as an outcome measure for youth development programs and because it observes the Five Cs model of PYD by measuring Competence (14 items; e.g., "I am a creative person"), Confidence (9 items; e.g., "I feel good about my scholastic ability"); Connection (8 items; e.g., "I have a wide circle of friends"), Character (9 items; e.g., "It is important that others can count on me"), and Caring (8 items; e.g., "When there is a need, I offer assistance whenever I can"). Each item was rated on a four-point scale: 1 for Strongly disagree, 2 for Disagree, 3 for Agree, and 4 for Strongly agree. The Lithuanian version of the questionnaire was developed by the researchers from the POSIDEV project team. In the current study, Cronbach's alphas ranged across the three measurement points from.74 to.78 for Competence, from.75 to.80 for Confidence, from.66 to.77 for Connection, from.68 to.79 for Character, and from.81 to.86 for Caring. The results of the Confirmatory Factor Analysis (CFA) confirmed a good factor structure of the PYDI ([chi] 2 /df = 2.07; RMSEA =.06 [.04;.08]; CFI/TLI =.95/.92). The test for measurement invariance between schools revealed that measures were equivalent at configural ([chi] 2 /df = 2.56; RMSEA =.07 [.06;.08]; CFI/TLI =.93/.91), metric ([chi] 2 /df = 2.39; RMSEA =.06 [.05;.08]; CFI/TLI =.93/.91), and scalar ([chi] 2 /df = 2.34; RMSEA =.06 [.05;.08]; CFI/TLI =.93/.91) levels.
+
+Data Analysis
+
+To test PYD program efficacy, the latent growth curve modeling approach (Muthén and Curran 1997) was adopted. At the first stage of data analysis, we tested whether a linear growth occurs in the intervention and the control groups for all the Five Cs (Competence, Confidence, Connection, Character, and Caring) of positive youth development. In the current study, the intercept was centered at the first time-point (i.e. pre-test); thus all intercept factor loadings were fixed at 1, and the first slope factor loading at 0. As all three measurement time-points were distributed equally, the next two slope factor loadings were fixed at 1 and 2 respectively.
+
+An alternative subgroup perspective (Lanza and Rhoades 2013) was also used for the evaluation of the intervention efficacy. Therefore, in order to apply the person-oriented approach to the data in the control and the intervention settings, the latent class growth analysis (Muthén and Muthén 2000) was conducted simultaneously in the intervention and the control groups for all the Five Cs.
+
+As the Five Cs were measured with a complex scale (PYDI; Arnold et al. 2012), we calculated the factor scores prior to analysis, and, following the recommendations by Yang et al. (2009), used them for the subsequent latent growth modeling. As the participants of the intervention and the control groups were nested into classes, to ensure the correctness of the effect sizes calculation (Kelley and Preacher 2012), the analysis was performed by applying the complex data approach. Based on this approach, the standard errors are computed taking into account complex sampling features (Asparouhov and Muthen 2006).
+
+All growth and latent class analyses were conducted in Mplus 7.31 (Muthén and Muthén 1998-2012). As data were missing mostly due to attrition, it was considered as Missing at Random (Graham et al. 2003). Therefore, no data imputation was applied. Full information maximum likelihood (FIML) estimator was used in all analysis as a method for taking into account the missing data (Enders 2010).
+
+Effect sizes are seen as an informative and comparable way to give a quantitative reflection of the phenomenon change magnitude (Kelley and Preacher 2012). Followting the recommendation by Durlak (2009), in our study, the effect sizes with confidence intervals (Thompson 2002) were calculated independently of the statistical significance of the change in both the intervention and the control groups. The correct effect size calculation in the growth-modeling analysis was applied (Feingold 2009). Therefore, the difference between the estimated means of the intervention and the control groups at the final time-point (follow-up) divided by the pooled baseline (pre-test) standard deviation was calculated to obtain between-group effects. Within-group effects were computed by subtracting the estimated means at pre-test from the estimated means at follow-up and dividing the difference by the standard deviation at pre-test (Lipsey and Wilson 2001). The bias-corrected estimates of the effect size (dunb; see Fritz et al. (2012) for exact formula) are provided.
+
+Results
+
+Mean Differences at the Baseline
+
+The t-tests were used to compare the mean factor scores of the Five Cs in the intervention and the control groups at the pre-test (see Table 2). The data revealed no significant differences for either of the Five Cs; thus, the two groups were found suitable for the quasi-experimental comparison. As the person-oriented approach was applied to the data, and the participants were classified depending on the growth pattern, we also compared the baseline mean factor scores of the Five Cs for the most numerous classes (the ones that included biggest number of participants, compared to other classes) of the intervention and the control samples (see Table 3). The results indicated no significant baseline mean differences in the most numerous classes. Therefore, we used the most numerous classes for the intervention-control comparison in order to calculate the intervention effects.
+
+Total sample mean differences of the factor scores for the Five Cs of PYD at the baseline
+
+The Five Cs
+
+Intervention group
+
+Control group
+
+Difference
+
+N = 351
+
+N = 264
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+F
+
+p(F)
+
+t
+
+p(t)
+
+Competence
+
+-.003
+
+.18
+
+.003
+
+.20
+
+.93
+
+.34
+
+.41
+
+.68
+
+Confidence
+
+.002
+
+.23
+
+-.003
+
+.25
+
+.98
+
+.32
+
+-.25
+
+.80
+
+Connection
+
+-.009
+
+.38
+
+.013
+
+.41
+
+1.01
+
+.32
+
+.67
+
+.50
+
+Character
+
+-.013
+
+.30
+
+.024
+
+.31
+
+.64
+
+.43
+
+1.46
+
+.15
+
+Caring
+
+-.010
+
+.33
+
+.015
+
+.33
+
+.22
+
+.64
+
+.907
+
+.37
+
+Note. SD standard deviation, F the coefficient of Levene's test for equality of variances, t the coefficient of the t-test for equality of means
+
+Mean differences of the factor scores for the Five Cs of PYD at the baseline in the most numerous classes
+
+The Five Cs
+
+Intervention group
+
+Control group
+
+Difference
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+F
+
+p(F)
+
+t
+
+p(t)
+
+Competence
+
+Ni = 339; Nc = 237
+
+-.009
+
+.17
+
+-.019
+
+.18
+
+.12
+
+.73
+
+-.64
+
+.52
+
+Confidence
+
+Ni = 324; Nc = 216
+
+-.005
+
+.23
+
+-.053
+
+.22
+
+.50
+
+.48
+
+2.40
+
+.06
+
+Connection
+
+Ni = 339; Nc = 256
+
+-.027
+
+.38
+
+.043
+
+.36
+
+.04
+
+.84
+
+2.26
+
+.05
+
+Character
+
+Ni = 275; Nc = 227
+
+-.081
+
+.27
+
+-.013
+
+.30
+
+3.62
+
+.05
+
+2.67
+
+.06
+
+Caring
+
+Ni = 333; Nc = 264
+
+-.029
+
+.33
+
+.015
+
+.33
+
+.77
+
+.38
+
+-1.60
+
+.11
+
+Note. i intervention group, c control group, SD standard deviation, F the coefficient of Levene's test for equality of variances, t the coefficient of the t-test for equality of means
+
+Mean Change Trajectories and Effects
+
+Latent growth modeling analysis was conducted simultaneously in the intervention and the control groups to investigate the shape of growth trajectories. As the data included three measures, the linear growth trajectories were tested for all the Five Cs of PYD. The Model Fit Indices of the growth trajectories (see Table 4) confirmed the linear shape of growth for all the Five Cs in both groups. None of the slopes were found significant; consequently, all growth trajectories were considered stable (see Fig. 1). Therefore, the results based on the growth of mean factor scores indicate that there was no change observed in the intervention and the control group over the selected period. However, all variances of intercept in both groups and some variances of slope in the intervention group were found significant, indicating possible within-group change differences. Therefore, the results revealed that latent class subgroup analysis was meaningful in both the intervention and the control groups.
+
+Fit indices, estimates, and the effect sizes of the growth trajectories in the total sample
+
+Model Fit Indices
+
+Growth factors
+
+Effect sizes
+
+[chi]2
+
+p([chi]2)
+
+CFI
+
+TLI
+
+RMSEA [90% CI]
+
+MI
+
+VI
+
+MS
+
+VS
+
+dunb [90% CI]
+
+Competence
+
+.10 [-.06;.26]a
+
+Intervention
+
+.024
+
+.876
+
+1.000
+
+1.013
+
+.000 [.000;.072]
+
+-.003
+
+.029***
+
+.005
+
+.006***
+
+.06 [-.06;.21]b
+
+Control
+
+.052
+
+.869
+
+1.000
+
+1.022
+
+.000 [.000;.100]
+
+.003
+
+.022***
+
+-.006
+
+.000
+
+-.08 [-.25;.09]b
+
+Confidence
+
+.14 [-.02;.30]a
+
+Intervention
+
+.418
+
+.517
+
+1.000
+
+1.010
+
+.000 [.000;.121]
+
+.001
+
+.047***
+
+.006
+
+.007**
+
+.05 [-.09;.20]b
+
+Control
+
+.098
+
+.754
+
+1.000
+
+1.054
+
+.000 [.000;.112]
+
+-.001
+
+.036***
+
+-.008
+
+.001
+
+-.08 [-.25;.09]b
+
+Connection
+
+.07 [-.09;.23]a
+
+Intervention
+
+.062
+
+.803
+
+1.000
+
+1.009
+
+.000 [.000;.089]
+
+-.007
+
+.096***
+
+.008
+
+.001
+
+.05 [-.10;.20]b
+
+Control
+
+.185
+
+.667
+
+1.000
+
+1.028
+
+.000 [.000;.124]
+
+.004
+
+.074***
+
+-.008
+
+.012
+
+-.05 [-.23;.11]b
+
+Character
+
+.07 [-.09;.23]a
+
+Intervention
+
+.253
+
+.615
+
+1.000
+
+1.004
+
+.000 [.000;.112]
+
+-.012
+
+.072***
+
+.009
+
+.012**
+
+.07 [-.08;.21]b
+
+Control
+
+.405
+
+.524
+
+1.000
+
+1.013
+
+.000 [.000;.139]
+
+.016
+
+.065***
+
+-.014
+
+.008
+
+-.11 [-.28;.06]b
+
+Caring
+
+.04 [-.11;.20]a
+
+Intervention
+
+.100
+
+.751
+
+1.000
+
+1.011
+
+.000 [.000;.097]
+
+-.010
+
+.080***
+
+.007
+
+.008
+
+.05 [-.10;.20]b
+
+Control
+
+.010
+
+.921
+
+1.000
+
+1.025
+
+.000 [.000;.059]
+
+.008
+
+.065***
+
+-.008
+
+.006
+
+-.06 [-.23;.11]b
+
+Note. Intervention group (n = 272), Control group (n = 266)
+
+[chi] 2 Chi-Square, CFI Comparative Fit Index, TLI Tucker Lewis Index, RMSEA Root Mean Square Error of Approximation, M mean, V variance, I intercept, S slope, CI confidence interval
+
+*** p <.001; ** p <.01
+
+abetween-group
+
+bwithin-group
+
+Fig. 1
+
+The growth trajectories of the factor scores estimated means for the Five Cs of PYD in the intervention (n = 351) and the control groups (n = 264). Note. Total intervention and control group samples were used for the estimation of trajectories. Pre-test, post-test, and follow-up measures were 4 months apart each. The indication of stability is based on p statistics of the mean growth [see PDF for image]
+
+Effect sizes were calculated in order to test for the between-group and within-group time effects on the mean change. Most effect sizes appeared to be below.1 (see Table 4), indicating very small between-group and within-group mean effects of the intervention. A more noticeable between-group mean effect was found for Competence and Confidence. However, the effect sizes were still below.2, indicating a small mean change.
+
+Latent Classes of the Change Trajectories and the Subgroup Effects
+
+<sec>
+
+The latent class growth analysis was conducted for all the Five Cs of positive youth development in intervention and control groups. The class solution was chosen based on the Akaike Coefficient (AIC), the sample-size adjusted Bayesian coefficient (BIC), and Entropy. The latent class analysis revealed that the best fitting class solutions could be characterized in terms of having the most numerous classes which in the intervention group comprises between 78 and 97% of the total sample, and in the control group between 84 and 97% of the total sample. As the most numerous classes cover a significantly large proportion of the total sample, they were used for the subgroup efficacy analysis of the intervention.
+
+Competence
+
+The two-classes solution appeared to be most appropriate in both the intervention and the control groups for Competence (see Table 5). Competence increased significantly in the most numerous class (97%) of the intervention group and decreased significantly in the most numerous class (90%) of the control group with large between-group effect size. Thus, the results indicated that intervention is effective in fostering Competence. Competence growth trajectories for the most numerous classes and the rest of the samples are shown in Fig. 2.
+
+Fit indices, estimates, and the effect sizes of the growth trajectories in the most numerous classes
+
+Classes solution fit indices
+
+Growth factors for the most numerous class
+
+Effect sizes
+
+n
+
+[DELTA]AIC
+
+[DELTA]BIC
+
+ENT
+
+MI
+
+VI
+
+MS
+
+dunb [90% CI]
+
+Competence
+
+.54 [.37;.71]a
+
+Intervention (N = 339)
+
+2
+
+23
+
+21
+
+.897
+
+-.009
+
+.027***
+
+.016**
+
+.20 [.05;.35]b
+
+Control (N = 237)
+
+2
+
+20
+
+19
+
+.823
+
+-.021
+
+.020***
+
+-.019***
+
+-.27 [-.45; -.09]b
+
+Confidence
+
+.61 [.44;.79]a
+
+Intervention (N = 341)
+
+2
+
+13
+
+12
+
+.939
+
+-.009
+
+.041***
+
+.016***
+
+.16 [.01;.31]b
+
+Control (N = 216)
+
+2
+
+8
+
+6
+
+.691
+
+-.051
+
+.024***
+
+-.019*
+
+-.25 [-.44; -.06]b
+
+Connection
+
+.06 [-.10;.22]a
+
+Intervention (N = 275)
+
+2
+
+16
+
+14
+
+.927
+
+-.025
+
+.099***
+
+.027***
+
+.17 [.02;.32]b
+
+Control (N = 227)
+
+2
+
+10
+
+8
+
+.958
+
+.032
+
+.066***
+
+-.010
+
+-.08 [-.25;.10]b
+
+Character
+
+.14 [-.03;.32]a
+
+Intervention (N = 339)
+
+3
+
+14
+
+13
+
+.721
+
+-.078
+
+.052***
+
+-.013
+
+.11 [-.05;.28]b
+
+Control (N = 256)
+
+2
+
+2
+
+1
+
+.700
+
+-.012
+
+.044***
+
+-.036*
+
+-.34 [-.53; -.16]b
+
+Caring
+
+.09 [-.07;.25]a
+
+Intervention (N = 333)
+
+2
+
+11
+
+9
+
+.830
+
+-.031
+
+.080***
+
+.032***
+
+.16 [.01;.31]b
+
+Control (N = 264)
+
+1
+
+-
+
+-
+
+-
+
+.008
+
+.059***
+
+-.007
+
+.00 [-.17;.17]b
+
+Note. n number of classes, [DELTA]AIC the difference of Akaike coefficient in (n-1)-n classes, [DELTA]BIC the difference of sample-size adjusted Bayesian coefficient in (n-1)-n classes, M mean, V variance, I intercept, S slope, CI confidence interval
+
+*** p <.001; ** p <.01; * p <.05
+
+abetween-group
+
+bwithin-group
+
+Fig. 2
+
+The latent class growth trajectories of the factor scores estimated means for Competence in the intervention (n = 351) and the control groups (n = 264): a most numerous classes; b the rest of the samples. Note. Percentages in the legend indicate the proportion of the sample in a current class. Different scales are used in diagrams a. and b.; the magnitude of growth should be compared only within each part [see PDF for image]
+
+Confidence
+
+The subgroup analysis revealed that the two-classes solution was the most fitting in both the intervention and the control groups for Confidence (see Table 5). Confidence increased significantly in the most numerous class (97%) of the intervention group and decreased significantly in the most numerous class (84%) of the control group with large between-group effect size. Thus, the results indicated that intervention is effective in fostering Confidence. Confidence growth trajectories for the most numerous classes and the rest of the samples are shown in Fig. 3.Fig. 3
+
+The latent class growth trajectories of the factor scores estimated means for Confidence in the intervention (n = 351) and the control groups (n = 264): a the most numerous classes; b the rest of the samples. Note. Percentages in the legend indicate the proportion of the sample in a current class. Different scales are used in diagrams a. and b.; the magnitude of growth should be compared only within each part [see PDF for image]
+
+Connection
+
+The results indicated that the two-classes solution was the most fitting in both the intervention and the control groups for Connection (see Table 5). Connection increased significantly in the most numerous class (97%) of the intervention group with moderate within-group effect size. No change was observed in the most numerous class (97%) of the control group. However, the between-group effect size was found very small. Therefore, only the within-group time intervention effect on Connection was identified from these results. Connection growth trajectories for the most numerous classes and the rest of the samples are shown in Fig. 4.Fig. 4
+
+The latent class growth trajectories of the factor scores estimated means for Connection in the intervention (n = 351) and the control groups (n = 264): a the most numerous classes; b the rest of the samples. Note. Percentages in the legend indicate the proportion of the sample in a current class. Different scales are used in diagrams a. and b.; the magnitude of growth should be compared only within each part [see PDF for image]
+
+Character
+
+The subgroup analysis revealed that in the case of Character the three-classes solution was the most fitting in the intervention group, and the two-class solution in the control group (see Table 5). No change of Character was observed in the most numerous class (79%) of the intervention group. However, Character decreased significantly in the most numerous class (87%) of the control group with moderate between-group effect size. The intervention was shown to have some effect in protecting against the decrease of Character.
+
+A significant increase of Character was also observed in a subgroup (18%) of the intervention sample (see Fig. 5). However, a similar growth appeared to be characteristic for the subgroup (13%) of the control sample. The two subgroup growth trajectories in the intervention and the control samples are also similar in terms of a higher intercept. Therefore, the observed growth in the subgroup of the intervention sample (18%) is unlikely due to the impact of the intervention program.Fig. 5
+
+The latent class growth trajectories of the factor scores estimated means for Character in the intervention (n = 351) and the control groups (n = 264): a the most numerous classes; b the rest of the samples. Note. Percentages in the legend indicate the proportion of the sample in current class. Different scales are used in diagrams a. and b.; the magnitude of growth should be compared only within each part [see PDF for image]
+
+Caring
+
+The results indicated that the two-classes solution was the most fitting in the intervention group for Caring (see Table 5). In the control group, the single class solution was most suitable. Caring increased significantly in the most numerous class (95%) of the intervention group with moderate within-group effect size. No change of Caring was observed in the control group (100%). However, between-group effect size was found small. Therefore, only the within-group time intervention effect on Caring was indicated. Caring growth trajectories for the most numerous class of the intervention group and the rest of the samples are shown in Fig. 6.Fig. 6
+
+The latent class growth trajectories of the factor scores estimated means for Caring in the intervention (n = 351) and the control groups (n = 264): a the most numerous classes; b the rest of the samples. Note. Percentages in the legend indicate the proportion of the sample in current class. Different scales are used in diagrams a. and b.; the magnitude of growth should be compared only within each part [see PDF for image]
+
+Discussion
+
+The aim of the current study was to evaluate the efficacy of the school-based positive youth development intervention program Try Volunteering on the Five Cs of positive youth development (PYD) at the 4-months follow-up after program delivery. Overall, we found between-group program effects on competence, confidence and character and within-group effects on all the Five Cs.
+
+The mean growth results obtained by applying growth modeling on the whole intervention and control samples revealed no changes in Competence, Confidence, Connection, Character, and Caring in both groups. These results are in line with the results of other studies that also used the Five Cs for the evaluation of program outcomes (e.g., White 2009; Lerner and Lerner 2013). However, when we applied the person-oriented approach and conducted the subgroup analysis, some intervention effects were found on all of the Five Cs.
+
+The most numerous classes of the intervention and the control groups were used for further evaluation of intervention efficacy. Having applied the subgroup approach to the data, we found that the most numerous classes in the intervention and the control groups comprised high proportions of the total samples. Thus, the intervention effects were calculated using substantially large subgroups, excluding only a small number of participants who in most cases represented opposite and/or very steep and/or high/low intercept changing trajectories compared to the most numerous groups which were similar to mean growth trajectories in terms of intercepts located around middle scores and relatively flat growth.
+
+Was the Intervention Capable of Fostering the Five Cs of PYD and at what Magnitude?
+
+The results of the current study revealed that the short-term school-based PYD intervention program Try Volunteering is effective in fostering Competence at the within-group and between-group levels. The overall intervention effect on Confidence was relatively large. These results confirm previous findings summarized by Catalano et al. (2004) and suggest that the relatively short intervention program, based on the PYD framework, could have a significant positive impact on social-emotional, cognitive, academic, and vocational competencies.
+
+Our study indicates that the current PYD program is successful in fostering Confidence with positive within-group and between-group effects. The overall program effect on Confidence was relatively large. The results supported the findings from Pajares and Urdan (2006) and McLaughlin (2000), indicating that participation in the PYD intervention may have a positive influence on general self-efficacy and self-esteem. As self-esteem develops throughout the lifespan (Robins and Trzesniewski 2005), the results of our study suggest that positive contextual influences during the critical developmental periods, such as adolescence (Dahl 2004), may boost it. Adolescents may benefit from this boost in a longer perspective, because, as found by Orth et al. (2012), an increase of self-esteem may have the desirable long-term effects on affectivity, depression, relationships and job satisfaction as well as general health.
+
+Not only program participants benefited from the program participation in terms of increase in Competence and Confidence, but also non-participants suffered from the decrease of it. It could be explained by the fact that as the academic year progresses, work-load and, in turn, the stress level increases. Stress and burnout make general performance poorer and induces negative self-evaluations (e.g., Schaufeli et al. 1993). Therefore, the current program seems to work not only as a promoting but also as a protective factor and may reduce possible effects of school-related stress. However, this idea should be further explored in future research.
+
+We found the within-group time effect of the Try Volunteering program on the Connection. The Connection tended to stay stable throughout the academic year in the control condition and increased significantly in the intervention group. However, the between-group effect in non-significant and within-group time effect is relatively small. The intervention program addressed mainly the relationships with peers and program leaders when the Connection factor also includes the relationships with parents/guardians and teachers. Therefore, our results support the idea that in order to foster improved relationships in broader contexts, the intervention program should cover more social domains (Catalano et al. 2004). These results are in line with identity theory, indicating the possible differences in role identities in different relationships that, most probably, could be changed only by direct influence. Also, the significant, but relatively small program effect on Connection support the idea that relationships development takes time (Roth and Brooks-Gunn 2003). On the one hand, the delivered intervention was relatively short (8 meetings), on the other hand, the change of relationships may take a while, and further assessments would be reasonable in order to test if the long-term effect on Connection appears with time.
+
+The results of present study revealed that the current PYD intervention program is effective in maintaining Character and works as a protective factor against the decrease of it. We found that Character decreased during the academic year in the control group and remained stable in the intervention group. However, the program effect on Character was relatively small. The noticeable decrease in morality and integrity in the control group could be explained by the negative peer and contextual influence (Caravita et al. 2014). We believe, exactly changing the context helped to maintain the Character in the intervention group. The program participants had an opportunity to develop social-emotional competencies, to improve relationships with peers as well as to foster empathy. All thes influences affect treatment of others, which shapes the morality in general (Killen and Smetana 2015). We also believe that program leaders may have become older peer models for the program participants. Therefore, our findings support the idea of Kirschenbaum (1995) and expand the findings of Van Goethem et al. (2014), suggesting that older peers could influence the morality of adolescents in a positive way. In addition, the relatively small effect sizes of the within-group and between-group effects on Character support the idea that in adolescence morality development in general, and moral attitudes, in particular, depend not only on personal relationships with others but also on implicit theories that are difficult to change (Van IJzendoorn 1997). We also found an interesting Character increase tendency in the higher intercept classes both in intervention and control groups. These results suggest that the morality and integrity of already highly moral adolescents tend to increase even more during the academic year, regardless the contextual changes. However, due to the small numbers of participants in these subgroups, further investigation of the findings is needed for more appropriate interpretation.
+
+In our study, we found the within-group time effect of the PYD program Try Volunteering on Caring. The effect size for this increase was relatively small. Our results confirmed the findings by Castillo et al. (2013), suggesting that the increase in empathy with emotional skill training could be achieved, however, the magnitude of this change is rather modest. The small within-group effect size and no change at all in the control group also support the previous findings by Volbrecht et al. (2007) and Van der Graaff et al. (2014), suggesting that the development of empathy depends more on brain development and early experiences than on the contextual changes.
+
+Strengths and Limitations
+
+Our study should be considered in light of its strengths and limitations. Among the strengths are applying the theoretical PYD approach in the phase of program development, delivery, and evaluation; the quasi-experimental study design with more than two measures in testing the efficacy of the current program; and use of advanced statistical analysis. The subgroup effects evaluation, addressing the person-oriented approach, and the effect sizes calculated for growth and subgroup trajectories, ensuring the correct estimation of program effects.
+
+Among the limitations is using self-report measures for the evaluation of positive youth development. We believe, additional parents/guardians and/or teachers reports could be very much informative for a better understanding of program results. The other limitation is testing relatively short-term program effects, as the last evaluation took place only in four months after program delivery. Thus, further assessments are needed in order to test, whether the current program is effective in a long-term perspective. It is possible that additional effects would appear, as the development is time-sensitive and positive influences could stimulate the emergence of positive developmental cascades (Lewin-Bizan et al. 2010). It should also be tested, whether fostering the Five Cs of PYD leads to a decrease of negative outcomes as well as an increase of contribution to self, family, and community, as suggested in the relational developmental system model of the individual â context relations (Lerner et al. 2005). In addition, the mediation modeling should be applied in order to extend our findings from stating that change did happen to the investigation of the change mechanisms. Finally, we have to note that the current program was implemented in a single community (one school). Thus, in future research, it is necessary to focus on the extent to which this program might be extended to different real-world conditions. Further actions should lead to adopting strategies that enable schools to implement the intervention without a substantial involvement of researchers. Therefore, for now, we can only indicate that the program's efficacy results are promising; however, the program effectiveness evaluation is necessary in order to confirm that program repeatedly works and in different settings (Eisner 2009). For the future research, we also suggest using the Mixed Method Design (Palinkas et al., 2015) approach that, we believe, would enrich the quantitative results with insights deriving from qualitative data.
+
+Conclusion
+
+The results of the current study indicate that changing the context in the way of implementing the PYD-framework-based intervention program is meaningful and makes the difference when seeking to foster healthy and positive adolescents' development. We believe, integrating evidence-based positive youth development programs, such as the current PYD program, into a schools' curriculum could be a helpful and logical step to take for schools seeking to accomplish their extended mission of contributing to youths thriving and well-being.

@@ -1,0 +1,174 @@
+ABSTRACT
+School belonging is a construct that describes student connections to school via a
+student‟s social and emotional attachments to others at school, commitment to adhering
+to school rules, involvement in school activities, and belief systems related to how much
+school is valued (Hirschi, 1969; Wehlage et al, 1989). Research has consistently found
+connections between higher levels of school belonging and more favorable life outcomes
+in regard to academics, behavior, attendance, school completion, and mental health.
+Research has also provided suggestions regarding components that should be present for
+programs to effectively enhance school belonging. Despite this, few research-based
+programs exist that have been designed specifically to address this construct. This study
+examined the efficacy of components of a new school-wide teambuilding program, titled
+Project: TEAM, for improving school belonging amongst elementary-age children
+PREVIEW
+v
+following one school year of implementation. In addition, the study examined the
+differential effects of the program based on student grade level and gender. Pre- and
+post-intervention surveys of school belonging were collected from 137 students at an
+intervention (n = 82) and a comparison (n = 55) school in south-central Pennsylvania.
+The results of a repeated-measures ANOVA found no significant difference in school
+belonging between students at the intervention versus comparison school. Follow-up
+independent sample t-tests revealed that students at the comparison school reported
+significantly higher levels of school belonging than students at the intervention school at
+baseline but not on post-surveys. Thus, the components of Project: TEAM appeared to
+have assisted students at the intervention school with closing the gap in reported levels of
+school belonging that was identified on baseline surveys. Additional analyses indicated
+no significant difference in reports of school belonging based on grade level; however,
+male students did report significantly higher levels of school belonging than female
+students. Though most results in this study were not significant and effect sizes were
+small, the study provided preliminary evidence suggesting that the efficacy of Project:
+TEAM for improving school belonging should be examined further on a longitudinal
+basis. Implications of the findings, as well as limitations and recommendations for future
+research are considered
+
+Introduction
+During the past few decades, research has begun to examine the influence of
+various school climate variables on student personal and academic outcomes. One
+particular variable that has repeatedly been linked to positive student outcomes
+throughout the literature is a student‟s sense of connectedness or belonging within the
+school setting. In general, students who have a higher sense of belonging in school tend
+to have more favorable personal and school outcomes (Anderman, 2002; Benner,
+Graham, & Mistry, 2008; Catalano & Hawkins, 1996; Faircloth & Hamm, 2005; Finn,
+1989; Furrer & Skinner, 2003; Goodenow, 1993; Goodenow & Grady, 1993; Hagborg,
+1994, 1998; Hirschi, 1969; Murray & Greenberg, 2000, 2001; Osterman, 2000; Wehlage,
+1989; Wehlage, Rutter, Smith, Lesko, & Fernandez, 1989).
+In the current age of high-stakes testing, many school administrators feel
+pressured to focus instruction solely on academics, not recognizing that students‟ sense of
+belonging to school is a pivotal factor for increasing student success in general (Catalano,
+Haggerty, Oesterle, Fleming, & Hawkins, 2004). Amongst other things, a significant link
+has been established between children‟s sense of connectedness in school and various
+academic (Benner et al., 2008; Faircloth & Hamm, 2005; Goodenow, 1993; Goodenow &
+Grady, 1993; Hagborg, 1998; Osterman, 2000), behavioral (Catalano & Hawkins, 1996;
+Hirschi, 1969; Murray & Greenberg, 2000, 2001), and mental health outcomes
+(Anderman, 2002; Furrer & Skinner, 2003; Hagborg, 1994; Murray & Greenberg, 2000,
+2001). In addition, research suggests that the level of belonging that a student feels
+PREVIEW
+2
+within the school setting is directly associated with a student‟s likelihood of completing
+high school (Finn, 1989; Wehlage, 1989; Wehlage et al., 1989).
+Unfortunately, despite a preponderance of evidence suggesting the benefits of all
+students experiencing a strong sense of school belonging, few programs seeking
+specifically to increase student belonging exist within the literature, and many schools
+continue to enforce policies that deter students from developing attachments within the
+school setting (Osterman, 2000; Wehlage et al., 1989).
+Student Connections with School
+A variety of terminology and definitions have been used throughout the previous
+literature to describe constructs related to school bonding (Furlong, Whipple, St. Jean,
+Simental, Soliz, & Punthana, 2003; Goodenow, 1993; Hirschi, 1969; Jimerson, Campos,
+& Grief, 2003; Libbey, 2004; O‟Farrelll & Morrison, 2003; Wehlage et al., 1989).
+Researchers have referred to constructs related to school bonding by various names,
+including school attachment, school connection, school engagement, school belonging,
+school involvement, school membership, school climate, student satisfaction with school,
+positive orientation to school, and student identification with school (Libbey, 2004;
+Goodenow, 1993). Researchers have studied the plethora of terminology, definitions,
+and measurements used to assess the constructs related to school bonding (Jimerson et
+al., 2003; O‟Farrell & Morrison, 2003), but ultimately Libbey (2004) determined that no
+one school bonding construct is superior to others in regard to how it was labeled,
+defined, or measured.
+For the purposes of this dissertation, student sense of connectedness to school will
+be referred to as “school belonging.” Based on Wehlage et al.‟s (1989) definition of
+PREVIEW
+3
+“school membership”, school belonging will be defined in this dissertation as a 4-part
+construct, consisting of 1) attachments, or student social and emotional connections with
+others in the school; 2) commitment, or the desire to conform with school rules and
+expectations even if they are not appealing; 3) involvement, or engagement in school
+activities; and 4) beliefs, or a student‟s feelings that school is valuable and worthwhile.
+Previous research suggests that student levels of school connectedness may vary
+by gender (Furrer & Skinner, 2003; Goodenow, 1003; Griner Hill & Werner, 2006;
+Hagborg, 1994), and they may change throughout the course of a child‟s education, with
+sense of belonging decreasing as children progress from elementary to secondary school
+(Anderman, 2003; Furrer & Skinner, 2003; Mitchell, 2008). Although school belonging
+tends to decline as children get older, with drastic decreases once students enter
+secondary school, research suggests that schools must implement interventions to target
+school belonging at the elementary level, prior to the decline commencing, in order to
+maximize school belonging and its associated outcomes (Hawkins, Guo, Hill, BattinPearson, & Abbott, 2001; Mitchell, 2008).
+Improving School Belonging
+In the recent decade, researchers have begun to examine how various programs
+and frameworks can be used to enhance social, emotional, and behavioral functioning at
+the school-wide level. School-wide Positive Behavior Support (SWPBS), also referred to
+at times as Positive Behavior Support (PBS) or Positive Behavior Interventions and
+Supports (PBIS), has been one of the most researched frameworks for this type of change
+(Barret, Bradshaw, & Lewis-Palmer, 2008; Office of Special Education Programs
+[OSEP], 2009; Sugai et al., 2000).
+PREVIEW
+4
+While SWPBS is not a specific program or intervention in and of itself, the model
+provides a framework for providing various levels of interventions in order to optimize
+the academic, social, emotional, and behavioral success of all students (OSEP, 2009).
+Interventions are separated into three different tiers, with tier one interventions being
+provided to all students school-wide, tier two interventions being provided to smaller
+groups of approximately 5-10% of the population who did not respond to tier one
+interventions alone, and tier three interventions being reserved for a small group of only
+1-5% of students who did not sufficiently respond to tier one or tier two interventions
+(McEvoy, 2010-2011; Sugai et al., 2000).
+Research specific to school belonging suggests that programs designed to enhance
+students‟ sense of belonging at school must focus on building relationships amongst
+students and teachers (Furrer & Skinner, 2003). Programs must also consider the social
+culture of the school (Walker & Greene, 2009; Zeichner, 1978), encourage parental
+involvement (Benner, Graham, & Mistry, 2008), encourage student participation in
+school activities (Finn, 1989), incorporate rituals specific to that school (Mullis &
+Fincher, 1996), and emphasize a sense of community amongst students (McMillan &
+Chavis, 1986). Furthermore, efforts must be made for all students – especially those who
+are considered to be at risk – to be embraced and assimilated into the school community
+(Wehlage, 1989).
+A review of existing literature provides limited information regarding schoolbased programs that are designed to enhance school belonging. Two of the most wellestablished and researched examples of programs designed to enhance school belonging
+are the Seattle Social Development Project (SSDP) and its successor, Raising Healthy
+PREVIEW
+5
+Children (RHC). Both programs were designed by the Social Development Research
+Group and are aimed at improving a variety of student outcomes by addressing both
+protective and risk factors that are deemed important for individual development
+(Catalano, Haggerty, Oesterle, Fleming, & Hawkins, 2004). The programs consider
+attachments with and commitment to prosocial school, peers, and family; as well as
+clearly defined standards for behaviors to be primary protective factors for influencing
+healthy student outcomes. Research has shown that both programs resulted in
+improvements in student commitment to school following one year of intervention
+(Catalano et al, 2004; Catalano, Mazza, Harachi, Abbott, Haggerty, & Fleming, 2003);
+however, longitudinal studies suggest that it is imperative for interventions to begin when
+children are in early elementary school (Hawkins et al., 2001; Mitchell, 2008) and for the
+interventions to continue throughout their schooling in order to result in long-term
+increases in school belonging and associated positive outcomes (Hawkins et al., 2001).
+Although not yet empirically studied, there is an emerging school-wide program,
+referred to as Project: TEAM that was designed to improve students‟ sense of belonging
+at the elementary level (Covert, 2010). While Project: TEAM incorporates some
+components that are similar in nature to the SSDP and RHC, such as encouraging parent
+involvement, providing teachers with strategies for enhancing classroom management
+and providing cooperative learning experiences, and teaching students appropriate
+interpersonal skills (Catalano et al., 2004; Covert, 2010); the program offers several
+unique features that distinguish it from prior programs of this nature (Covert, 2010).
+PREVIEW
+6
+Project: TEAM
+Project: TEAM is a school-wide program designed to enhance student
+connections to school by utilizing a team-building approach. The program was inspired
+by theories related to sports psychology and adventure-based counseling, and as such,
+there is a heavy emphasis on the development of leadership and problem-solving skills.
+Project: TEAM focuses on the development of six foundational skills, which include
+helping others, anti-bullying, resiliency, positive changes in behavior, problem
+solving/conflict resolution, and leadership (Covert, 2010). Consistent with literature
+suggesting that social and behavioral skills must be directly taught and practiced (Lewis,
+Sugai, & Colvin, 1998), the foundations of Project: TEAM are explicitly taught to
+students via classroom lessons, as well as during various assemblies and Project: TEAM
+activities. Each lesson is also accompanied by collaborative team-building activities to
+provide practice in the target skills (Covert, 2010).
+A review of the relevant literature suggests that unlike any previously researched
+program designed specifically to enhance sense of belonging to school, Project: TEAM
+aligns closely with a SWPBS framework (OSEP, 2009), providing interventions to
+students at three different tier levels depending on student need. Project: TEAM is
+designed to further develop the interpersonal and problem-solving skills of all students
+while simultaneously taking students who are at-risk for social, emotional, or behavioral
+problems and placing them into a position of leadership in order to further develop their
+skills in the areas of need. In essence, one goal of Project: TEAM is to embrace even the
+most at-risk children in the school by letting them know that they have valuable
+contributions to make to the entire school community. This approach prevents the 

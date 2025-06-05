@@ -1,0 +1,158 @@
+Abstract
+Objectives. We examined whether It’s Your Game . . . Keep It Real (IYG) reduced dating violence among ethnic-minority middle school youths, a population at high risk for dating violence.
+
+Methods. We analyzed data from 766 predominantly ethnic-minority students from 10 middle schools in southeast Texas in 2004 for a group randomized trial of IYG. We estimated logistic regression models, and the primary outcome was emotional and physical dating violence perpetration and victimization by ninth grade.
+
+Results. Control students had significantly higher odds of physical dating violence victimization (adjusted odds ratio [AOR] = 1.52; 95% confidence interval [CI] = 1.20, 1.92), emotional dating violence victimization (AOR = 1.74; 95% CI = 1.36, 2.24), and emotional dating violence perpetration (AOR = 1.58; 95% CI = 1.11, 2.26) than did intervention students. The odds of physical dating violence perpetration were not significantly different between the 2 groups. Program effects varied by gender and race/ethnicity.
+
+Conclusions. IYG significantly reduced 3 of 4 dating violence outcomes among ethnic-minority middle school youths. Although further study is warranted to determine if IYG should be widely disseminated to prevent dating violence, it is one of only a handful of school-based programs that are effective in reducing adolescent dating violence behavior.
+
+Adolescent dating violence is a serious public health concern in the United States. National estimates indicate that almost 10% of high school youths (9th–12th graders) are victims of physical dating violence,1 and more than 20% are victims of emotional dating violence.2 In addition to being associated with many negative health outcomes (i.e., substance abuse, suicide, depression, and sexual activity),3–8 adolescent dating violence may be predictive of intimate partner violence in adulthood,8–10 which has exceedingly high economic costs (particularly those related to health care).11 Thus, preventing adolescent dating violence may not only protect youths from severe health consequences, but also reduce the short- and long-term health costs associated with this type of violence.
+
+Although most research on adolescent dating violence focuses on high school youths, recent studies indicate that adolescent dating violence begins in middle school.12–14 For example, in a survey of seventh graders from diverse geographic locations, 37% reported being victims of psychological dating violence, and 15% reported being victims of physical dating violence in the last 6 months.14 Furthermore, there is mounting evidence that dating violence disproportionately affects ethnic-minority middle school youths. For instance, in a sample of multiethnic sixth graders from 4 US states, approximately one third of Hispanics and African Americans with a history of dating each reported physical dating violence perpetration, compared with only 14% of Whites.15 A similar racial/ethnic pattern emerged for physical dating violence victimization. Thus, it is becoming increasingly evident that dating violence is prevalent among middle school youths, especially among those who belong to ethnic-minority groups.
+
+Adolescent dating violence prevention programs are available, but only a few have been rigorously evaluated. Of these, only 2 school-based programs—Safe Dates and Fourth R: Skills for Youth Relationships (Fourth R)—have been shown to produce significant behavioral effects: both reduced dating violence perpetration or victimization.16–18 However, these programs may not be as effective in ethnic-minority middle school youths because they were developed for and evaluated in older, predominantly White youths. Of the relatively fewer dating violence programs developed for and evaluated in ethnic-minority youths, most have been shown to produce either no19 or inconsistent20 behavioral effects, or have been limited by a weak study design (i.e., lack of control group).21,22 Thus, there is a need for rigorously evaluated, effective dating violence prevention programs16 that specifically target younger, ethnic-minority youths.
+
+It’s Your Game…Keep It Real (IYG) is a health education program designed to delay sexual behavior and promote healthy dating relationships in ethnic-minority middle school youths. It is based on the premise that healthy relationships are foundational to healthy adolescent sexual health. In 2 previous randomized controlled trials, IYG was shown to be effective in delaying sexual initiation and reducing other sexual risk behaviors.23,24 An additional research question was whether IYG had an impact on emotional and physical dating violence perpetration and victimization. Thus, our goal was to determine if IYG reduces dating violence behavior among ethnic-minority middle school youths. We hypothesized that, by ninth grade, students who did not receive IYG would report more physical and emotional dating violence perpetration and victimization than students who did receive IYG.
+
+METHODS
+We recruited 10 middle schools in a large, urban school district in southeast Texas in the spring of 2004.24 Schools were randomly assigned to either the intervention (n = 5) or the control condition (n = 5). Students in intervention schools received IYG, whereas students in control schools received their usual health education program. The usual health education program varied from school to school, but predominantly included materials taught from the state-approved health textbook. A multiattribute randomization protocol25 that accounted for school size, geographic location, and students’ race/ethnicity was used to ensure that the 2 groups were similar at baseline. In all schools, more than 90% of the student body was eligible for free or reduced lunch, an indicator of economic disadvantage. Students with limited English proficiency were excluded from this study.
+
+Figure 1 shows the flow of students throughout the study. In each school, eligible students (n = 3007) were recruited from a class that all students were required to take, which included physical education, homeroom, or science classes, depending on the school’s recommendation. Parental permission and student assent were obtained before administration of the baseline survey. Students received a $5 incentive for returning the parental permission form. Of the 1445 students with parental permission, 1307 (90%) completed the baseline survey in the fall of 2004, when they were in seventh grade, for which they received an additional $5 incentive. Students were also surveyed in the spring semester of seventh grade (spring 2005) and eighth grade (spring 2006), as well as the fall semester of ninth grade (fall 2006). They received a $10 incentive for completing each survey. For this study, we excluded data from the seventh- and eighth-grade follow-up surveys because of the overlapping timeframes of reports of dating violence behavior.
+
+FIGURE 1—
+FIGURE 1—
+
+Open in a new tab
+Flow diagram of students randomized to the control and intervention groups: Effects of It's Your Game on Dating Violence in Youths, Texas, 2004.
+
+Because IYG is a 2-year intervention, we defined the study cohort for follow-up into ninth grade as those students who were enrolled in their originally randomized school in eighth grade and who completed the corresponding survey. Intervention students who met these eligibility criteria completed both the seventh- and eighth-grade levels of the intervention. Students in the study cohort (n = 981) were significantly more likely than those not in the study cohort (n = 326) to be female, to be younger, to live with both biological parents, and to report making grades of A and B, but they were less likely to report having a boyfriend or girlfriend and some types of dating violence behavior (P < .05). Of the study cohort, 92% completed a ninth-grade survey (n = 907). With the exception of family structure and age, there were no significant differences in baseline demographic characteristics or dating violence behavior between those students lost to follow-up and those who completed the ninth-grade survey. Attrition in the study cohort was nondifferential between the conditions. Because we wanted to focus this study on dating violence prevention among dating adolescents, we excluded students who were not currently dating,26 which was defined as having had a boyfriend or girlfriend during the past year. This resulted in a final analytical sample of 766 students. The study was originally powered to analyze the primary sexual behavior outcome (delay in sexual behavior). However, one of the a priori secondary outcomes was dating violence; post hoc power calculations revealed the study was adequately powered to detect moderate effect sizes for this outcome.
+
+Intervention
+IYG was developed using intervention mapping, a systematic instructional design approach that uses theoretical and empirical evidence and extensive input from the community to guide the intervention development process.27 IYG is grounded in social cognitive theory, social influence models, and the theory of triadic influence.28–30
+
+IYG includes both classroom- and computer-based activities in a 24-lesson curriculum (12 lessons in seventh grade, 12 lessons in eighth grade).23,24 Computer-based activities are set within a virtual world environment and include interactive skills-training exercises, peer role model videos, quizzes, animations, fact sheets, and “real world” style adolescent serials. Select activities are tailored by gender and sexual experience. In addition to group-based classroom activities, the curriculum includes 6 parent–child homework activities and individualized journaling activities at each grade level to help students personalize information.
+
+A major thematic focus of IYG is the development of healthy relationships as the foundation for healthy adolescent sexual health. Specific topics covered in the seventh-grade curriculum related to healthy relationships included identifying the characteristics of healthy and unhealthy friendships and dating relationships; skills-training related to evaluating relationships, peer pressure, and social support; setting personal limits and respecting others’ limits; and recognizing peer norms. These topics were reviewed in the eighth-grade curriculum. Parent–child homework activities focused on increasing communication regarding healthy friendships and dating relationships, using effective refusal skills, dating partner expectations, and parental rules regarding dating relationships. Trained facilitators implemented all lessons using a detailed teaching manual.
+
+Data Collection and Outcome Measures
+All data were collected using 30- to 45-minute, audio computer-assisted self-interviews on laptop computers. Students were provided with headphones to ensure their privacy. Most data collection was conducted in schools during regular class time. However, when data collection could not be conducted in schools (specifically for the ninth-grade follow-up survey), other locations were used.
+
+We used 4 outcome measures to assess dating violence: (1) physical dating violence victimization, (2) physical dating violence perpetration, (3) emotional dating violence perpetration, and (4) emotional dating violence victimization. All measures were adapted from the Peer Rejection Questionnaire,31–33 which was chosen a priori to measure dating violence behaviors. Students were asked about behaviors that occurred in reference to a boyfriend or girlfriend in the past year. Response options included “once or twice,” “a few times,” “about once a week,” and “a few times a week.” For physical dating violence, perpetration and victimization were each assessed with 1 item related to experiences of physical violence (e.g., hitting, kicking, or pushing) at least once or twice. For emotional dating violence, perpetration and victimization were each assessed with 4 items related to threats of physical violence, name-calling, put-downs, and spreading rumors. Students who endorsed at least 1 emotional dating violence item (at least once or twice) were classified as being a perpetrator or victim of emotional dating violence.
+
+Statistical Analysis
+We coded each dating violence outcome measure as either “0” or “1,” in which 0 denoted the absence of the specific type of dating violence and 1 denoted the presence of that specific type of dating violence. We used multilevel logistic regression models to determine the effect of IYG on each dating violence outcome in the total sample and by gender and race/ethnicity. We estimated 2-level random effects models, with level 1 being the student and level 2 being the school. We used the multilevel models to adjust the standard errors of the fixed parameters for the presence of intraclass correlation (ICC) among students within the same school (ICC estimates ranged from 0 to 0.02). Therefore, only random intercepts were allowed; no random slopes were modeled. Level 2 error terms were assumed to follow a multivariate normal distribution. We estimated all models using the restricted iterative generalized least-squares method in Stata version 11.2 (StataCorp LP, College Station, TX).
+
+We adjusted all logistic regression models for age, gender, race/ethnicity, and time between measures. Furthermore, we included baseline exposure to dating violence in all models to isolate the impact of the intervention on dating violence that occurred after randomization. The odds ratios (ORs) reported indicated the odds that a student in the control group engaged in the dating violence behavior relative to a student in the intervention group. We took the estimates and significance tests from the logistic regression estimates, and therefore, we adjusted for the covariates, as well as any ICC that might have been be present among students attending the same school.
+
+RESULTS
+Table 1 provides the baseline demographic characteristics and dating violence behaviors of the final analytical sample. As shown, approximately 60% of the sample was female, with a mean age of 13.0 years (SD = 0.54). The sample was 44.3% African American and 42.2% Hispanic.
+
+TABLE 1—
+Baseline Characteristics of the Analyzed Cohort of Students by Randomized Intervention Assignment: Effects of It's Your Game on Dating Violence in Youths, Texas, 2004
+
+Baseline Characteristics	Control group (n = 463), % or Mean (SD)	Intervention group (n = 303), % or Mean (SD)	Total (n = 766), % or Mean (SD)
+Gender (female)	57.0	59.1	57.8
+Race/Ethnicity**			
+ African American	40.8	49.5	44.3
+ Hispanic	42.5	41.6	42.2
+ Othera	16.6	8.9	13.6
+Age, y*	13.0 (0.51)	13.1 (0.55)	13.0 (0.54)
+Parents/guardians in home			
+ Living with 2 parents	38.0	33.8	36.4
+ Living with 1 parent	44.4	50.5	46.8
+ Living with someone other than parent	17.6	15.7	16.8
+Grades in school			
+ Mostly As and Bs	51.7	46.5	49.7
+ Mostly Bs and Cs	41.6	46.9	43.7
+ Mostly Cs and Ds	6.1	5.9	6.0
+ Mostly Ds and Fs	0.6	0.7	0.7
+Maximum parental/guardian education			
+ < high school	28.0	29.0	28.4
+ High school	23.0	28.3	25.1
+ Some college	17.6	17.2	17.5
+ College graduate	31.4	25.5	29.1
+Dating violence behavior (past 12 mo)			
+ Physical victimization	14.7	15.3	14.9
+ Emotional victimization	36.4	35.4	36.0
+ Physical perpetration	14.7	15.9	15.2
+ Emotional perpetration	38.7	37.3	38.2
+Open in a new tab
+aIncludes White, Asian or Pacific Islander, American Indian or Native American, and unspecified other.
+*P < .05; **P < .01 (statistically significant difference in baseline characteristics between the 2 groups).
+
+Physical dating violence perpetration and victimization were reported by 15.2% and 14.9% of students, respectively. Emotional dating violence perpetration and victimization were reported by 38.2% and 36.0% of students, respectively. With the exception of race/ethnicity and age, there were no significant differences in baseline demographic characteristics and dating violence behaviors between the 2 groups.
+
+By ninth grade, a higher percentage of control students than intervention students reported each type of dating violence behavior (Table 2). Multilevel logistic regression analyses revealed that control students had significantly higher odds of physical dating violence victimization (adjusted OR [AOR] = 1.52; 95% confidence interval [CI] = 1.20, 1.92), emotional dating violence victimization (AOR = 1.74; 95% CI = 1.36, 2.24), and emotional dating violence perpetration (AOR = 1.58; 95% CI = 1.11, 2.26) than did intervention students. However, the odds of physical dating violence perpetration were not significantly different between the 2 groups.
+
+TABLE 2—
+Adjusted Odds of Engaging in Dating Violence Behavior by Ninth Grade: Effects of It's Your Game on Dating Violence in Youths, Texas, 2004
+
+Dating Violence Behaviora	No.b	Control Group, %	Intervention Group, %	AOR (95% CI)
+Physical victimization	762	19.9	15.6	1.52** (1.20, 1.92)
+Emotional victimization	763	50.5	37.7	1.74** (1.36, 2.24)
+Physical perpetration	763	16.8	16.5	1.04 (0.67, 1.59)
+Emotional perpetration	760	47.7	37.5	1.58* (1.11, 2.26)
+Open in a new tab
+Note. AOR = adjusted odds ratio; CI = confidence interval.
+
+aAll models adjusted for gender, age, race/ethnicity, time between measures, and baseline behavior.
+bSample sizes vary because of inconsistent or missing data across time.
+*P < .05; **P < .01; values represent statistically significant difference in odds of a student in the control group engaging in the dating violence behavior relative to a student in the intervention group.
+
+Table 3 provides the results stratified by gender and race/ethnicity. Girls and boys in the control group had significantly higher odds of physical dating violence victimization (AOR = 1.39; 95% CI = 1.05, 1.84 and AOR = 1.84; 95% CI = 1.23, 2.74, respectively) and emotional dating violence victimization (AOR = 2.03; 95% CI = 1.44, 2.84 and AOR = 1.47; 95% CI = 1.06, 2.04, respectively) than did girls and boys in the intervention group. However, boys in the control group also had significantly higher odds of emotional dating violence perpetration (AOR = 1.85; 95% CI = 1.61, 2.13) than did boys in the intervention group. Among African Americans, only physical dating violence victimization was significantly different, with students in the control group having higher odds of this dating violence behavior than those in the intervention group (AOR = 1.65; 95% CI = 1.19, 2.28). Among Hispanics, both emotional dating violence outcomes were significantly different: students in the control group had higher odds of victimization (AOR = 1.78; 95% CI = 1.22, 2.60) and perpetration (AOR = 1.67; 95% CI = 1.00, 2.79) than did those in the intervention group.
+
+TABLE 3—
+Adjusted Odds of Engaging in Dating Violence Behavior by Ninth Grade by Gender and Race/Ethnicity: Effects of It's Your Game on Dating Violence in Youths, Texas, 2004
+
+Dating Violence Behavior	No.a	Control Group, %	Intervention Group, %	AOR (95% CI)
+Genderb
+Female (n = 443)				
+ Physical victimization	442	18.2	15.6	1.39* (1.05, 1.84)
+ Emotional victimization	442	57.2	40.8	2.03** (1.44, 2.84)
+ Physical perpetration	441	24.2	22.3	1.18 (0.50, 1.94)
+ Emotional perpetration	439	54.5	44.6	1.52 (0.87, 2.67)
+Male (n = 333)				
+ Physical victimization	320	22.1	15.4	1.84** (1.23, 2.74)
+ Emotional victimization	321	41.7	33.3	1.47* (1.06, 2.04)
+ Physical perpetration	322	7.0	8.1	0.81 (0.39, 1.67)
+ Emotional perpetration	321	38.7	27.4	1.85** (1.61, 2.13)
+Race/ethnicityc
+African American (n = 339)				
+ Physical victimization	338	24.3	18.1	1.65** (1.19, 2.28)
+ Emotional victimization	339	47.1	37.3	1.70 (0.94, 3.07)
+ Physical perpetration	339	20.1	18.7	1.23 (0.75, 2.01)
+ Emotional perpetration	335	49.2	41.9	1.50 (0.91, 2.45)
+Hispanic (n = 323)				
+ Physical victimization	320	14.7	13.5	1.21 (0.71, 2.04)
+ Emotional victimization	320	53.8	39.2	1.78** (1.22, 2.60)
+ Physical perpetration	320	12.7	13.5	0.84 (0.54, 1.30)
+ Emotional perpetration	321	44.2	31.7	1.67* (1.00, 2.79)
+Open in a new tab
+Note. AOR = adjusted odds ratio; CI = confidence interval.
+
+aSample sizes vary because of inconsistent or missing data across time.
+bAll models adjusted for age, race/ethnicity, time between measures, and baseline behavior.
+cAll models adjusted for age, gender, time between measures, and baseline behavior; racial/ethnic subgroup analyses were not conducted for the “other” subgroup because of its small sample size.
+*P < .05, **P < .01; values represent statistically significant difference in odds of a student in the control group engaging in the dating violence behavior relative to a student in the intervention group.
+
+DISCUSSION
+Few effective adolescent dating violence prevention programs are available,16–18 and even fewer specifically target ethnic-minority middle school youths, a population at high risk for dating violence.4,12,13,15 As hypothesized, we found that, by ninth grade, students who did not receive IYG had significantly higher odds of physical dating violence victimization, emotional and physical dating violence victimization, and emotional dating violence perpetration; however, the odds of physical dating violence perpetration did not significantly differ between the 2 groups. We also found that IYG effects varied by gender and race/ethnicity. Our findings indicated that this is one of a few interventions to show positive behavioral effects on adolescent dating violence outcomes in general and among ethnic-minority middle school youths in particular.
+
+The positive effects of IYG on dating violence behavior might be the result of several factors. First, IYG incorporated substantial technology, capitalizing on the appeal of technology and preference for technology-based education among students.34 In addition to supplying a wide range of learning strategies, such as video and animated characters modeling the desired behavior (e.g., saying “no” to unhealthy relationships), the technological components of IYG provided individualized intervention messages (e.g., personalized quizzes that assessed whether students had healthy relationships). Tailored educational activities were an important component of the Fourth R program, which was shown to be effective in preventing dating violence.18
+
+Second, IYG was grounded in a skills-building approach based on social cognitive models of behavior change.28–30 Thus, it explicitly targeted many determinants of dating violence behavior (e.g., knowledge of healthy dating behaviors, perceived norms regarding healthy relationships).35–38 Perceived norms might be particularly important, given that they were found to mediate the Safe Dates program’s effects on all significant behavioral outcomes,17 which supported the importance of changing dating violence–related norms to reduce dating violence behavior. Moreover, a recent study found that pro-dating violence beliefs were prevalent among middle school students, particularly among African Americans and Hispanics.15 These findings reinforced the need for dating violence programs to not only change dating violence–related norms but to also target middle school youth, especially those belonging to ethnic-minority groups.
+
+Third, IYG included a parental component in the form of homework activities designed to increase parent–child communication about healthy friendships and dating relationships. Research showed that parent–child communication was protective against sexual risk behaviors,39 and that increasing this type of communication was important for preventing dating violence in ethnic-minority youths.40,41 The Fourth R and Safe Dates programs both included parental or family components,18,42 which are necessary for dating violence programs because parents do not typically discuss dating violence with their adolescent children.43
+
+The null effect of IYG on physical dating violence perpetration might also be the result of several factors. IYG did not provide skills training specifically related to avoiding or ending unhealthy relationships or managing one’s emotional responses, and it did not emphasize beliefs about traditional gender roles on unhealthy relationships. Many of these factors were significant correlates of physical dating violence perpetration36 and important components of the Safe Dates and Fourth R programs, which were both shown to affect physical dating violence perpetration.17,18 This null finding suggested that future dating violence programs for ethnic-minority youths should include (1) skills training in effective communication and conflict resolution; (2) skills training for managing emotional responses, such as anger and stress that could be triggers for physical dating violence perpetration44,45; and (3) role-modeling activities to help promote equal gender norms within dating relationships.
+
+We also found that IYG effects varied by gender and race/ethnicity. With respect to gender, girls and boys reported similar effects for emotional and physical dating violence victimization; however, effects for emotional dating violence perpetration were found only in boys. The lack of effects for emotional dating violence perpetration in girls was not unexpected, given that IYG placed less emphasis on female-on-male perpetration than on male-on-female perpetration. Thus, it is important that future dating violence programs include realistic scenarios that also portray girls as perpetrators of dating violence to provide them with skills to reduce this behavior.3,46 This recommendation is especially timely considering we found higher estimates of physical and emotional dating violence perpetration among girls compared with boys. Previous studies reported similar results for both types of dating violence perpetration.12,13,46
+
+With respect to race/ethnicity, IYG was effective in reducing emotional dating violence victimization and perpetration among Hispanics, but it reduced only physical dating violence victimization among African Americans. One potential reason for this finding was that the type of dating violence experienced by adolescents varied by race/ethnicity. For example, a recent study found that among inner city Hispanic and African American high school girls, physical dating violence perpetration was more prevalent among African Americans, whereas psychological dating violence victimization was more prevalent among Hispanics.3 Interventions for preventing dating violence among ethnic-minority youths might therefore need to incorporate even more culturally specific content.47–49
+
+Study Limitations
+Our findings should be considered in light of some limitations. First, this study was conducted among English-speaking students in a large, urban school district in southeast Texas, and thus, might have limited generalizability to other youth populations. However, the findings could be generalized to students from other large, urban settings with English-speaking students. Limited resources precluded us from translating the intervention materials into Spanish. Second, the lower response rate of students who were given permission to participate in the study might also limit generalizability, because students who did not obtain parental permission might be more “at-risk” (e.g., more likely to experience dating violence or have other risk factors for dating violence) than students who did obtain parental permission. However, this rate was typical of other school-based studies of urban youth.50,51 Generalizability might also be limited because the participants who remained in the cohort (e.g., English-speaking only, lived with both parents, reported making grades of A and B, less likely to have had a boyfriend or girlfriend) might be at lower risk for engaging in dating violence than students who did not remain in the cohort. Fourth, although we used multilevel modeling to adjust the regression estimates and standard errors for ICC among students within the same school, a larger number of schools would be preferable and would produce more accurate estimates of the variance components in the model. However, even small higher level units (schools), such as those in this study, were shown to produce unbiased estimates of the fixed effects.52 Fourth, only 1 item was used to assess physical dating violence; however, this item was similar to the 1 item used to assess this construct in the Centers for Disease Control and Prevention Youth Risk Behavior Survey.1 Lastly, self-reported data were used; however, using the audio–computer-assisted self-interviews approach helped to increase student accuracy in responses and their perceptions of confidentiality.53
+
+Conclusions
+This study’s findings indicated that IYG was an effective program for preventing dating violence among ethnic-minority middle school youths. Its current use among many students as an effective adolescent pregnancy prevention program could increase the likelihood that even more positive effects could be seen for dating violence prevention. Additional study, however, is needed to determine if IYG should be widely disseminated in dating violence prevention efforts.

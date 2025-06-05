@@ -1,0 +1,847 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Studies in Graduate and Postdoctoral Education
+
+ISSN: 2398-4686
+
+Article publication date: 1 June 2022 Permissions
+
+Issue publication date: 4 October 2022
+
+This paper aims to identify the documented effects of the COVID-19 pandemic on early career researcher (ECR) activity, development, career prospects and well-being.
+
+This is a systematic literature review of English language peer-reviewed studies published between 2020 and 2021, which provided empirical evidence of the impact of the pandemic on ECR activity and development. The search strategy involved online databases (Scopus, Web of Science and Overton); well-established higher education journals (based on Scopus classification) and references in the retained articles (snowballing). The final sample included 11 papers.
+
+The evidence shows that ECRs have been affected in terms of research activity, researcher development, career prospects and well-being. Although many negative consequences were identified, some promising learning practices have arisen; however, these opportunities were not always fully realised. The results raise questions about differential effects across fields and possible long-term consequences where some fields and some scholars may be worse off due to priorities established as societies struggle to recover.
+
+There is a need for revised institutional and national policies to ensure that sufficient measures are implemented to support ECRs’ research work in a situation where new duties and chores were added during the pandemic.
+
+This paper provides insights into the impacts of the initial societal challenges of the pandemic on ECRs across disciplines that may have long-lasting effects on their academic development and well-being.
+
+Lokhtina, I.A., Castelló, M., Lambrechts, A.A., Löfström, E., McGinn, M.K., Skakni, I. and van der Weijden, I. (2022), "The impact of the COVID-19 pandemic on early career researcher activity, development, career, and well-being: the state of the art", Studies in Graduate and Postdoctoral Education, Vol. 13 No. 3, pp. 245-265. https://doi.org/10.1108/SGPE-10-2021-0076
+
+Emerald Publishing Limited
+
+Copyright © 2022, Emerald Publishing Limited
+
+Lockdowns and other pandemic restrictions have affected scholars’ research activities in multiple ways, e.g. delays in data collection, data analysis, writing and preparing grant applications. Access restrictions to research environments and reduced capacity levels have constrained the possibilities for engaging in research, especially in some sectors on campuses or in other shared research spaces (Termini and Traver, 2020; Wigginton et al., 2020). Specialised technical equipment, software and research materials have been rendered off limits as lockdowns and other restrictions have been implemented, and public health measures have led to prohibitions against many in-person interactions. Additional authorisation processes have been implemented in places where (limited) access is possible, which means more researcher time is spent filling forms and reviewing requests. When access is constrained in these various ways, it may not only delay research, but also disrupt research skill acquisition, hamper socialisation processes for newcomers and shift scholarly identities (Wisker et al., 2021). Academic conferences have been cancelled or shifted to virtual formats, which has redefined research communication strategies and reduced opportunities for networking and relationship building (Wang and DeLaquil, 2020). These major shifts in the research environment have made the ability and willingness to support people’s well-being particularly critical in supervisory and similar positions (Cameron et al., 2021).
+
+The pandemic has forced many academics to modify their research goals (Termini and Traver, 2020), and career goals may likewise have been revised and postponed. Yet the situation has not affected all researchers equally. Women scientists, those working in “bench sciences”, and those with young children appear to have been affected the most (Minello et al., 2020; Myers et al., 2020; Organization for Women in Science for the Developing World, 2020; Staniscuaski et al., 2021). The reduced research productivity of women (in particular, those with caring responsibilities) has thus far been evidenced through bibliographic analysis of submissions and publications of academic outputs (namely, journal articles) where researchers use authorship position as a proxy for career stage (Vincent-Lamarre et al., 2020). This evidence has been suggested to amount to an “early career bias” (Staniscuaski et al., 2021, p. 10), with several authors suggesting that early career researchers (ECRs) have been hit the hardest by the lockdown closures of childcare facilities and schools, because this stage in the academic career overlaps with the reproductive age of women (Andersen et al., 2020; Krukowski et al., 2021; Viglione, 2020). This is likely to have important short- and long-term effects on their careers, as predicted and explained by scholars in all corners of academia (Cardel et al., 2020; Corbera et al., 2020; Malisch et al., 2020; Oleschuk, 2020; Wigginton et al., 2020). Maranda and Yakubovich (2020) describe the “cascading effects” (p. 831) on the future careers of ECRs who have faced restrictions on access to their research laboratories. Indeed, it is not difficult to imagine that lockdowns, disruptions and redirected research efforts undermine confidence and jeopardise productivity in ways that could have long-term effects on the potential futures for ECRs.
+
+ECRs have reported that their supervisors are strained by the restrictions and demands placed on them during unusual times (Lambrechts and Smith, 2020). Although experiences of stress and not daring to ask for advice or help are negative, there is potential in the present situation to increase individuals’ understanding of each other and appreciation for the contributions of others (e.g. supervisors, peers and supervisees). Such recognition provides an opening for the compassion for self and others that Cameron et al. (2021) see as a critical aspect of mentors and protégés moving forward together through the pandemic.
+
+As we, the authors, are all members of a Special Interest Group (SIG) on Researcher Education and Careers, part of the European Association for Research on Learning and Instruction (EARLI), we met to discuss our own ongoing research in the area and set out to establish what is the “state of the art” of research about the current and future impacts of the pandemic on ECRs. We adopt the definition of an ECR from the SIG’s mission statement, which is “individuals with up to 10 years’ research experience including their doctorate: doctoral students, post-PhD researchers, newly-hired lecturers as well as professionals in universities and beyond” (available at: www.earli.org/node/47). Specifically, in this review, we researched how the pandemic has influenced and is influencing ECR activity and development, and what impacts it has had on researchers’ well-being. Through this literature review, we seek to answer the following research question:
+
+How has the COVID-19 pandemic affected ECR activity, development, career prospects and well-being?
+
+We conducted a systematic literature review of studies published between January 2020 and May 2021 that examined the impact of the COVID-19 pandemic on ECR activity, development, career prospects and well-being. To progress to the analysis of findings, we closed the search after May 2021, although we realise that the body of research will constantly accumulate. Our search was focused on three main themes:
+
+ECRs;
+
+research activities and development; and
+
+the COVID-19 pandemic.
+
+Within each theme, we identified keywords that we used in the database searches:
+
+“early career researcher”, “doctoral researcher”, “PhD student”, “post doc” and “academic”;
+
+“research”, “training and development”, “career” and “well-being”; and
+
+“pandemic”, “COVID-19” and “coronavirus”.
+
+We followed the guidelines for the preferred reporting items for systematic reviews and meta-analyses (PRISMA) to locate relevant literature in English (Moher et al., 2009). Our search strategy included two stages (Figure 1).
+
+Stage 1: We searched three online databases: Scopus and Web of Science, which are considered the most comprehensive bibliographic databases suited for this review (Pranckutė, 2021; Zhu and Liu, 2020) and the Overton policy database, which contains a core set of policy documents with sufficient citation linkage to academic literature (Szomszor and Adie, 2022). Through the searches, we identified 242 publications from Scopus, 84 from Web of Science and 0 from Overton. Having read the abstracts, we retained 28 publications that fit our focus from Scopus and 25 from Web of Science. At this point, we were inclusive, but in the next phase involving closer reading of the abstracts and initial reading of the methods section of the articles, we discarded contributions that did not fit the focus (e.g. teaching activities and undergraduate students), ending up with a final number of 17 across Scopus and Web of Science.
+
+Stage 2: We were aware of additional publications that might be relevant considering our focus, but which had not come up in Stage 1. We then expanded our search to higher education journals, as journals particularly in this field may have published research related to the work and development of academics during the pandemic, and we, the authors, all work within the field of education. The additional publications that we were aware of, but which had not come up in the database searches were among the well-established higher education journals according to Scopus: Studies in Higher Education, Higher Education, Journal of Higher Education, Internet and Higher Education, Research in Higher Education, Assessment and Evaluation in Higher Education, Higher Education Research and Development (HERD), Review of Higher Education, International Journal of Sustainability in Higher Education and Teaching in Higher Education. Some of these were already included in our initial database searches.
+
+We recognise that journal rankings can be critiqued (Tight, 2018). However, in this case we deemed it appropriate to use the Scopus ranking as the well-established journals fulfil criteria of peer-reviewed scientific work coinciding with our selection criteria for pieces to be included in the review. This search resulted in an additional 12 articles. To further complement our search, we identified publications through the snowball method (Hiebl, 2021) based on relevant publications from the list of references in the retained articles. This process resulted in an additional 22 articles for consideration. Results of the searches were uploaded to Mendeley where we tagged all contributions with the following markers: type of contribution (empirical, review, narrative/anecdotal, report and commentary/opinion) and type of empirical research (qualitative, quantitative, bibliometric and review). We retained this information from abstracts, and if unclear, from the main text.
+
+Each of us was responsible for reading through these articles, which were then collectively discussed in several meetings online. Through our discussions, we identified 28 publications that fulfilled all our search criteria (17 publications were retrieved from databases; four publications were retrieved from well-established higher education journals and seven publications from the reference lists). These were read in full. We created an extraction spreadsheet and documented the following information for each of the 28 articles based on the information that we could identify from the texts:
+
+reference details;
+
+method;
+
+key findings;
+
+limitations, recommendations and source of funding; and
+
+quality.
+
+For our internal purpose, we used a quality framework (Critical Appraisal Skills Programme, 2022) addressing questions about the clarity of the aims of the research; appropriateness of the research design, methodology and recruitment of participants; consideration of ethical issues; the rigour of data analysis; clarity of findings; discussion of findings in relation to prior research; value of the research; and recognition of limitations. Although this information has not been used directly as data in our review, it did help us to distinguish between the various types of contributions and identify the final set of research papers.
+
+The collective decision-making process on what to include in our review resulted in deciding to focus specifically on:
+
+peer-reviewed published contributions; and
+
+empirical studies with a description of research methods.
+
+Reports (without a theoretical grounding and sufficient methodological detail), anecdotal or position papers (which did not describe a research method), news items and solicited papers (that either did not fulfil the criteria of empirical research or peer review, or both) were excluded from the analysis. Not all papers that appeared in our searches were peer-reviewed (e.g. so-called preprints), although they may have otherwise fulfilled the criterion of empirical research. Therefore, several more papers were excluded at this point, resulting in a final selection of 11 scholarly articles describing empirical research about the impact of the pandemic on ECR experiences that was published in peer-reviewed outlets. To answer RQ1, we organised the findings from 11 published peer-reviewed empirical articles around four categories: research activity, researcher development, career prospects and well-being.
+
+Our systematic review of the literature showed that there are still limited peer-reviewed empirical studies focusing on the impacts of the COVID-19 pandemic on ECR activity, development, career prospects and well-being. Although some studies include ECRs in their samples, in the results section, the experiences of ECRs are not always differentiated from that of more established colleagues (Prieto et al., 2021). We came across many reflective accounts and commentaries from individuals or small groups of ECRs; however, these were non-empirical in nature and thus, were not included in the analysis of the results.
+
+Most studies (10) reported on effects of the pandemic on ECR activity, including the nature of research, progress and productivity, working hours and time allocations for research and other scholarly activities as well as inequalities (e.g. in relation to gender and/or caregiving responsibilities, sometimes overlapping with early career status). Other research outcomes for the studies included the effects of the pandemic on researcher development (6), career prospects (5) or well-being (8) (see Table 1).
+
+Across all articles reviewed, online questionnaires were the most commonly applied method of data collection. Online questionnaires were used:
+
+as a single data collection method in eight studies (Adarmouch et al., 2020; Aubry et al., 2021; Camerlink et al., 2021; Guintivano et al., 2021; Kappel et al., 2021; Myers et al., 2020; Ramvilas et al., 2021; Stamp et al., 2021); and
+
+in conjunction with other data sources in two studies that included email exchanges, mentor’s notes and papers co-authored by the mentor and doctoral researchers, as well as their perceptions of the effectiveness of the mentoring programme (Mullen, 2021) or website analytics and post-conference surveys (Raby and Madden, 2021).
+
+One of the papers involved data collection in the form of documents posted to an open-access preprint repository for social sciences (Cui et al., 2021).
+
+Data were collected from diverse geographical regions, including the USA, Europe, North Africa, India and New Zealand. Participants were drawn from medical and health sciences (three studies), animal behaviour (three studies, one of which also included some participants from biology and social sciences), ecology (two) and one each from education, social sciences and sciences. Cui et al. (2021) based their bibliometric analysis upon 41,858 papers produced by 76,832 authors. All other studies involved collecting data from human participants. The number of participants per study varied from small (e.g. 11 participants in Mullen, 2021) and medium (e.g. 55 participants in Adarmouch et al., 2020) to large (e.g. 4,535 in Myers et al., 2020). The majority of the authors drew on data that were collected from researchers at different academic ranks but emphasising the experiences of ECRs (Aubry et al., 2021; Camerlink et al., 2021; Guintivano et al., 2021; Kappel et al., 2021; Stamp et al., 2021). Other papers were focused on a specific group of participants. For example, Mullen (2021) collected empirical data from doctoral candidates in an educational leadership programme; Raby and Madden (2021) collected data from the participants of an online conference. Ramvilas et al. (2021) distributed their survey to registrants in a webinar targeted towards ECRs and conservation professionals; most respondents were aged between 18 and 30 years. All but one study (Raby and Madden, 2021) reported information from men and women; few trans or non-binary participants were included.
+
+Having identified the nature of evidence, the methods and data analysis techniques, the next step was to explore the key findings in relation to ECRs. The summary of challenges and opportunities experienced by ECRs related to the ongoing pandemic crisis as reported in the studies described below, is included in Table 2.
+
+When discussing researcher activities, there was a tendency to draw mostly on the negative effects of the pandemic (Adarmouch, 2020; Mullen, 2021). There is evidence on the strategies that ECRs use to cope with existing challenges (e.g. adapting quickly to remote work and using communication technologies; Adarmouch et al., 2020) and proposed policies that they perceived to be potentially effective in mitigating negative impacts now and in the future (Aubry et al., 2021; Camerlink et al., 2021; Guintivano et al., 2021). The various disruptions to usual research practices represented a major emphasis across studies. Interruptions to laboratory research and fieldwork (Aubry et al., 2021; Camerlink et al., 2021; Ramvilas et al., 2021; Stamp et al., 2021) as well as human participant research on campus and in the community (Adarmouch, 2020; Mullen, 2021) affected the activities and progress of ECRs regardless of their status. The main issues examined included academic research productivity, proposal or dissertation progress and access to data.
+
+Cui et al. (2021) examined 41,858 submissions to the largest open-access preprint repository for the social sciences, comparing the number of preprint papers deposited:
+
+6–10 weeks after the lockdown to those deposited in the 14 weeks before lockdown; and
+
+across the comparable time frames one year earlier.
+
+Although their main analysis focused on preprints from authors in the USA, comparative analyses were also provided for 24 other countries. They reported that during the first 10 weeks of the lockdown in the USA, total research productivity increased by 35%, whereas women’s research productivity dropped by almost 14% relative to that of men. While not referring to ECRs per se, the authors used academic rank as a proxy of junior, pre-tenure status and found that this intensified productivity gap is especially pronounced for assistant professors. They found a similar gender gap in productivity for six countries beyond the USA: Japan, China, Australia, Italy, The Netherlands and the UK. The authors note, however, that most submissions to the repository are from the USA.
+
+Examining time available for research activities in a large-scale survey (among faculty/principal investigators, post-doctoral researchers and doctoral students) in the USA and Europe (N = 4,535), Myers et al. (2020) found an overall decline in average working hours per week, from 61 pre-pandemic to 54. Most respondents (55%) experienced a decline in working hours, but some (18%) experienced an increase. Time allocated to research was affected more (24% decline) than time allocated to other academic tasks (teaching, administration, grant writing, editorial work and clinical activities) (11% decline). The authors found that differential impacts of the pandemic are predominantly based upon personal demographics (gender, caring responsibility for young children), with research area also being an important variable (e.g. limited access to laboratories led to 30%–40% declines in time spent on research in bench sciences).
+
+Guintivano et al. (2021) reported negative effects of the pandemic on research productivity in particular, for women and also for ECRs (e.g. non-tenured staff, post-doctoral fellows and doctoral students). Findings from their survey of the members of the international Psychiatric Genomics Consortium (123 respondents) showed that ECRs in non-permanent positions (and women) were disproportionately more affected by having to work from home due to childcare, and other domestic issues. The results were statistically significant with small to medium effect sizes (Cohen’s d) reported. These findings were corroborated by two other studies in the set (Aubry et al., 2021; Camerlink et al., 2021). Aubry et al. (2021) surveyed ecology and evolutionary biology academics in the USA. They reported that “early-career assistant professors” – men and women – on somewhat precarious contracts, “are more negatively impacted by the pandemic than those with tenure” (p. 5). They further reported that women, especially those with children found it harder to maintain high productivity during the pandemic. A pause in the tenure and promotion clock was suggested as an effective mitigating policy by over 80% of assistant professors, including men; however, the authors point out that such policies could inadvertently increase inequalities by affecting tenure rates of women more than that of men.
+
+Similar results were evident in the study of the experiences of animal behaviour and welfare ECRs around the world (Camerlink et al., 2021). Authors reported that doctoral students and ECRs (those up to seven years after obtaining their PhD degree) had lower self-perceived productivity than senior researchers, which was associated with higher self-perceived stress. Those with children saw a “more drastic impact on their work productivity” (p. 8), which the authors warned could lead to a “family gap” (p. 8) in the future, unless funders and employers adopt policies to account for the unequal circumstances faced by different groups during the pandemic. As suggested by Kappel et al. (2021), this can be attributed mainly to lack of peer support and a loss of focus due to worry or stress, but for some ECRs (e.g. doctoral students, research associates and non-permanent job holders) also due to unsuitable working environments (found also by Stamp et al., 2021); increased personal responsibilities, including those relating to caring for children or vulnerable adults, COVID-19 illness (or fear of becoming ill) for themselves or others within their households, and sometimes bereavement.
+
+In a study reporting on a four-month-long online mentoring intervention for doctoral candidates launched in January 2020, Mullen (2021) (who was also the mentor) reported negative effects on productivity due to personal, institutional and administrative changes during the pandemic that had an impact on the degree of commitments and aspirations of some doctoral researchers. The author found, however, that many doctoral students surpassed productivity expectations, and all made clear progress on their proposals or dissertations. The online mentoring programme, which offered “a flexible structure for Zoom meetings, [providing] a scheduled time to work with […] mentor” (p. 148) allowed these educational leadership doctoral researchers to overcome challenges due to the pandemic. However, as the author noted, the mentoring programme may not have been a sufficient or appropriate option for those in some other disciplines (e.g. conservation studies where laboratory and field components are required to fulfil the study objectives of doctoral/postdoctoral researchers), necessarily affecting their opportunity to continue their studies according to original timelines (Ramvilas et al., 2021). Delayed thesis submissions were reported by Stamp et al. (2021) who collected data via a qualitative survey completed by 15 doctoral students and another survey completed by 42 early- and mid-career researchers in medical and health sciences, in New Zealand (while these categories are not separated in the discussion, this includes researchers and academics with fewer than 10 years post PhD). The authors stressed that one negative effect for the doctoral researchers was that they had to acquire new funding to support themselves during the additional study period, as well international doctoral researchers had to apply for visa extensions (at additional cost).
+
+Regardless of the career stage, research productivity has been affected, among other issues (e.g. increase in non-research workload resulting in intellectual fatigue, difficulties in finding collaborators) by the limited opportunities to collect new data, including that caused by restricted possibilities to conduct field work (Ramvilas et al., 2021), inability to conduct experimental work (Stamp et al., 2021) or restricted access to human participants (Adarmouch et al., 2020). Notably, in the study based on 55 survey responses from medical faculty in one institution in Morocco, Adarmouch et al. (2020) did not find statistically significant differences between academic rank or years of work experience as an academic (with assistant and associate professors identified as junior staff equalling 40% of the sample, and number of years as a faculty member at <5 years amounting to 27.3% – either of which could be used as proxy implying an early career stage); however, the lack of statistical difference could be ascribed to the small, non-representative sample size.
+
+Researcher development was addressed less frequently in the studies than research activity. The main focus was on socialising and networking, including the benefits vs drawbacks of online scholarly events. Respondents from several studies reported fewer opportunities for informal interactions and socialising with colleagues in either virtual or face-to-face settings, which they perceived as having negative effects on their research and their well-being (Camerlink et al., 2021; Kappel et al., 2021; Stamp et al., 2021). Conversely, Camerlink et al. (2021) demonstrated that doctoral students and ECRs (those up to seven years after obtaining their PhD degree) enjoyed increased networking opportunities due to the surge in online meetings and conferences, which they may not have been able to attend in the past (in-person) due to associated costs. Despite the expansion of online opportunities offered internationally, Stamp et al. (2021) noted that few such activities accommodate New Zealand time zones.
+
+Conferences as a form for sharing research appear to function to some extent differently online compared with conferences attended in-person. Some studies suggest that participants may sign up for online events but not participate actively, as they would in face-to-face events or those for which registration costs were a consideration. For example, Raby and Madden (2021) found that of the 950 people who registered for the event, only 480 (51%) “attended”. They looked specifically at sessions either designed for ECRs (e.g. the “meet the editor” event) or those generally considered as outlets used mostly by junior scholars (e.g. poster sessions) and found low engagement, or low self-reported levels of enjoyment or perceived usefulness of the session. This finding raises questions about the nature of online conference experiences for ECRs who present their research output in poster formats, which is common for junior researchers when they first present their scholarly work. Raby and Madden also highlighted mixed responses to mentoring and networking opportunities in online conferences, with some delegates benefiting from these while others found it difficult to engage online. Indeed, not being able to interact in-person was reported as a negative experience by doctoral students and postdoctoral participants in a survey study (N = 565) by Ramvilas et al. (2021).
+
+Lack of opportunities for professional development in general was cited as an issue for some doctoral students and research associates (Kappel et al., 2021). However, the doctoral candidates in Mullen’s (2021) study reported that the online mentoring programme provided opportunities for personal and professional development, which was further evidenced through the scholarly development demonstrated by the papers they co-authored with their mentor as they were simultaneously making progress on their dissertations or doctoral research proposals. The flexible structure for video meetings provided lengthy blocks of time to interact with their mentor, which proved motivating. The mentoring programme also promoted scholarly identity development.
+
+The cancellation of scholarly events and disruptions to networking undermined future career prospects. Guintivano et al. (2021) revealed considerable concern about the impact of COVID-19 on career progression and the availability of funding, most commonly reported by ECRs and women. Similar findings were presented by Stamp et al. (2021) and Kappel et al. (2021), who reported statistically significant results in relation to doctoral students, research associates and non-permanent job holders. Stamp et al. also identified concerns about delays and disruptions in starting postdoctoral positions, particularly given that in a small nation like New Zealand most graduates must travel internationally to pursue such opportunities. Two other studies identified logical extrapolations from the data they reported to possible impacts of the pandemic on future career prospects; specifically, Camerlink et al. (2021) suggested that there will be long-term consequences for career progression post pandemic and Ramvilas et al. (2021) predicted that conservation science was unlikely to be a major government priority for jobs and funding as nations focus upon recovery from the pandemic.
+
+Negative impacts on the well-being of doctoral students were reported long before the pandemic began (Cornér et al., 2017; Pyhältö et al., 2012; Stubb et al., 2011). Not surprisingly, several papers considered in this review addressed the well-being concerns of ECRs. A major challenge for the medical and health researchers was that they were called upon to provide care in an “unusual, risky, and stressful environment” (Adarmouch et al., 2020, p. 2), including managing COVID-19 patients. Participants emphasised the “physical and intellectual fatigue” resulting from their workload changes. There were no distinctions in their study, however, between early career and more established researchers. Camerlink et al. (2021) also reported on the challenges of heightened workloads under pandemic conditions, especially for those with dependent care responsibilities. Fatigue was likewise an issue that arose across studies (Camerlink et al., 2021; Raby and Madden, 2021; Stamp et al., 2021).
+
+Guintivano et al. (2021) found that non-tenured staff/researchers (and women) reported higher stress levels caused by the pandemic. Camerlink et al. (2021) also reported higher perceived stress levels among doctoral students and ECRs (those up to seven years after obtaining their PhD degree), which, as noted above, have been associated with lower productivity levels. However, in Camerlink et al.’s (2021) study, the participants reported receiving more social support during the pandemic, which would help reduce the risk of stress and burnout. These results were supported by Kappel et al. (2021) who found that ECRs (doctoral students, research associates and non-permanent job holders) experienced more worry or stress, but many interacted with family and friends more than usual and engaged in outdoor activities, reported as coping strategies for dealing with difficulties during lockdowns.
+
+Just over one quarter of the respondents in Kappel et al.’s (2021) study reported on improved work–life balance during the pandemic, and more than half expressed an intention to consciously focus on maintaining this balance into the future. Others reported imbalances either towards more work (30%) or to more personal responsibilities (24%) (e.g. caring for children or vulnerable adults, own illness, illness within their household and sometimes bereavement) while some reported a balance shifting towards personal activities (21%) (e.g. interacting with family or friends). Aubry et al. (2021) reported stark differences in work–life balance for early career assistant professors compared to more senior scholars. Women and those with childcare responsibilities, likewise, reported poor work–life balance. In contrast, respondents in Stamp et al.’s (2021) study appreciated the opportunity that uninterrupted flexible time provided for them to focus on a chosen task.
+
+Various other measures of well-being were evident across the studies. Stamp et al. (2021) reported that their participants (junior researchers who obtained their PhD within the last five years) experienced financial strains and “zoom fatigue” and felt stressed, unsettled and isolated. Aubry et al. (2021) reported negative effects with respect to life satisfaction and anxiety about health amongst early career assistant professors, while Camerlink et al. (2021) noted mental health challenges amongst doctoral students and ECRs (those up to seven years after obtaining their PhD degree). In addition, unsuitable working environments could cause stress for ECRs (Guintivano et al., 2021; Kappel et al., 2021; Stamp et al., 2021). However, others reported developing new styles of working, post-pandemic solidarity and opportunities to work in more creative ways which, in the future, may lead to increased productivity and well-being.
+
+The systematic literature review resulted in the analysis of 11 published peer-reviewed empirical articles. Empirical evidence has been published showing that ECRs have been affected by the COVID-19 pandemic in four different areas:
+
+research activity;
+
+researcher development;
+
+career prospects; and
+
+well-being.
+
+Research activity further illuminated academic research productivity, proposal and dissertation progress and access to data.
+
+Overall, ECRs generally reported that the pandemic had primarily impacted their research activities, but there were slight differences depending on their specific status. For instance, doctoral students were particularly concerned about limited access to funding and delays in submitting their theses. Postdoctoral researchers worried more about delayed or interrupted employment or postdoctoral opportunities (Guintivano et al., 2021; Kappel et al., 2021; Stamp et al., 2021) and disruptions to laboratory activities and fieldwork (Aubry et al., 2021). Those in non-tenured positions were more concerned about reduced time spent on research (Myers et al., 2020; Stamp et al., 2021). Furthermore, the possible negative effects of the pandemic were accentuated for early career women with family responsibilities (Aubry et al., 2021; Camerlink et al., 2021).
+
+Beyond the negative consequences of the pandemic, there is some evidence of promising learning and new ways of working that have arisen as a result of lockdowns and restrictions, such as improved opportunities to attend virtual conferences and networking (Camerlink et al., 2021) and online mentoring programmes (Mullen, 2021). Nevertheless, those opportunities were not always fully realised (e.g. low attendance and limited interaction with presenters at conferences; Raby and Madden, 2021), and it remains to be seen which practices prove sustainable and helpful for ECRs in the long run.
+
+Even if the number of studies is limited, the outcome of this literature review points to the need for revised institutional policies to support ECRs post pandemic in the areas of research activity, researcher development, career prospects and well-being. In light of prior research (Devos et al., 2017; Vekkaila et al., 2013; Virtanen et al., 2017) indicating that doctoral student stress is related to an increased likelihood for attrition, a strengthened focus on supporting ECRs’ well-being (regardless of their specific status) is likely to be crucial in post-pandemic academia. The results also raise questions about differential effects across fields (Ramvilas et al., 2021) and the possible long-term consequences in post-pandemic academia and policymaking, where some fields may be worse off in the future due to priorities established for societies struggling to recover. Given such a scenario, ECRs in certain fields (women in particular) may struggle even more than their colleagues in fields deemed important in recovery and policymaking for post-pandemic societies.
+
+The database and journal hand searches for this systematic literature review were conducted in April and May 2021, which is 13–14 months after the global pandemic was declared on 11 March 2020. This is a relatively short time frame for researchers to design and implement a research study, collect and analyse the resulting data, write up the results, submit the work for publication, receive and respond to peer review comments and await the appearance in print of the final paper. Research about the effects of the COVID-19 pandemic on researchers and research activity will continue to be published for some time to account for publication lags and to capture the enduring effects of the pandemic. We are aware of preliminary results (Lambrechts and Smith, 2020; Lokhtina and Tyler, 2021; van der Weijden and Bergmans, 2021) and pre-print studies (Bilas et al., 2020; Johnson et al., 2020; Muric et al., 2020; Suart et al., 2020), which had not been published at the time of our searches. Some of these sources are cited in the introduction to this paper but did not meet the inclusion criteria for the systematic review.
+
+Despite evidence of shortened timelines for publishing coronavirus-related medical studies (Horbach, 2020), publication lags continue to exist, especially outside the medical field. Anecdotal reports from journal editors suggest that they have experienced greater than usual challenges securing timely peer review for articles submitted during the pandemic. Impassioned pleas and supportive statements have become common on journal websites and in manuscript review requests. For example, the journal HERD provides the following message at the top of all review invitations:
+
+HERD is aware of the significant impact that the COVID-19 pandemic is having on many in our community. While HERD normally aims for a 4-week turnaround on reviews, we recognise that this is not always possible, particularly given the current pandemic.
+
+Some papers about COVID-19 pandemic effects on researchers and research activity have been written and published extremely quickly. For example, Weissgerber et al. (2020) released their recommendations about conference cancellations one week after the global pandemic was declared (18 March 2020), and the final version of record was released just nine days later. The timing for that paper means that it is based upon the first days of the pandemic only. Furthermore, such early papers consist of author reflections, not analyses of empirical data. In contrast, Raby and Madden (2021) gathered data from an online conference that was launched as a replacement for the regular in-person conference. Participant responses to survey questions were gathered at the time of the conference (mid-July 2020). Raby and Madden submitted their paper just two weeks after the conference they studied, but their paper was not accepted until December 2020 and was then published in February 2021. More extensive data collection across multiple days and from less captive audiences (i.e. individuals who are not already gathered together for a shared purpose, such as these one-day conferences) would necessarily require longer data collection and analysis timelines, making it less likely that such publication would have been captured in this systematic review.
+
+Studies of the impact of the pandemic on researchers and research activities tend to involve collecting human participant data. For many researchers (potential authors and potential participants in studies of the pandemic effects), the shift to remote teaching and supervision has occupied considerable attention, especially during the earliest phases of the pandemic. Researchers with dependent care responsibilities have likewise found it challenging to focus attention on conducting or participating in research studies. Some scholars have expressed reticence to add to the burden of other researchers by inviting their participation in studies while juggling pandemic effects. Adarmouch et al. (2020) attributed the low response rate for their online survey (21.2%) to the fact that many of the medical and health researchers in their study experienced a stressful work environment as they managed COVID-19 patients and may have had “less interest in research” (p. 5).
+
+The pandemic itself affected the ability of doctoral students and academic staff (in particular, women) to conduct research studies. Some institutions halted all human participant research studies that were unrelated to the pandemic, which might be seen to provide an opening for studies that would meet the inclusion criteria for our systematic literature review. Typically, in-person interaction was allowed only if required; thus, online studies would be expected to be most common. The final set of 11 papers was consistent with this assumption: eight were based upon online surveys while two combined online surveys with website analytics or other documentation gathered from a distance (e.g. email exchanges and notes from online meetings); the remaining study (Cui et al., 2021) involved bibliometric data gathered without interaction with human participants. Given the differential effects of the pandemic based upon demographics, it is important to question which researchers have had time and opportunity to respond to online survey invitations throughout the pandemic.
+
+Likewise, our searches revealed a number of bibliometric studies (Andersen et al., 2020; Ipe et al., 2021), yet these studies do not distinguish the effects for ECRs. It is indeed a complex process to link bibliometric analyses with demographic information for the authors, including their current career stage. It is, therefore, possible that such studies are still in progress and have not yet been published.
+
+In many parts of the world, societies are gradually preparing for a return to “normal”. New policies and practices related to distance and face-to-face work may be of concern, as organisations prepare for employees to return. These are important considerations, and the solutions bear consequences for all employee groups and career levels. Based on the results of this review, we identify the need to proactively take steps and direct resources towards enhanced support for ECR activity, development, career prospects and well-being. Measures need to be put in place to alleviate challenges concerning grant applications (e.g. make use of mentoring) and delayed thesis submissions (e.g. the provision of extensions for doctoral students). ECRs (in particular, academics with caring responsibilities who may face career setbacks) should have access to sabbatical or pre-tenure research leave (e.g. adjusting promotion metrics, extending or pausing the tenure clock). It is necessary to respond to gender disparities and pay attention to the opportunities for women researchers at an early career stage to continue or resume their research work in a situation where additional chores accumulated during the pandemic may to some extent continue to burden them even after the most imminent threats of the pandemic have passed (e.g. on-campus childcare support programmes and psychological support systems). The provision of networking opportunities (e.g. writing groups and regular videoconference discussions) may have an impact on researcher development as ECRs continue advancing their involvement in scientific communities. It is important to build a sense of a learning community among ECRs through virtual or face-to-face events, including follow-up activities and nuanced discussions on their learning needs that may allow them to address their concerns about their development and knowledge transfer.
+
+Fully comprehending the consequences of the pandemic for ECRs will require that their situation is monitored for a number of years and their voices are heard. Furthermore, we remind readers of the necessity of paying attention to the support of research in different fields. Research in fields deemed important in recovery from the pandemic is absolutely vital. However, it is important to continue to recognise the role of a broad range of academic fields to ensure the holistic development and thriving of societies.
+
+We recognise that there are limitations to this review. First, although we sought to improve our review by supplementing the database searches with hand searches of well-established journals in our field (higher education), this did not cover other fields. In retrospect, it may have been worthwhile to expand the selection of journals to the medical and natural sciences, as the review showed that journals in these fields actively published on the impact of the pandemic on researcher careers. Our final set of 11 articles included just two publications from education journals, neither of which were explicitly higher education journals. While researchers tend to have an interest in investigating and reporting the circumstances in their own field (Aubry et al., 2021; Camerlik et al., 2021; Guintivano et al., 2021; Raby and Madden, 2021; Ramvilas et al., 2021), this is not an unambiguous trend. Secondly, the time frame included publications from January 2020 to May 2021. This is a relatively short time frame for a systematic review. Relevant literature has indeed been published after that time (Muric et al., 2021, and Suart et al., 2021, which are published versions of pre-print studies that appeared in our searches), and more will almost certainly be published in the future. Thirdly, our search was limited to English language publications. We are confident that relevant research has been published in other languages.
+
+Due to timing and other research challenges, many of the reports published to date are reflective or anecdotal commentaries and thought pieces that did not meet the empirical criterion for a systematic literature review. However, we acknowledged these sources to advance our own argument in the introduction but excluded these texts from the systematic review. Given the breadth and richness of some of these commentaries, a synthesis of such publications may be warranted as a future research effort.
+
+One important area of research that is evident in the published literature but not fully captured in this systematic review relates to the effects of the pandemic on academic productivity for those scholars with childcare responsibilities (Krukowski et al., 2021; Staniscuaski et al., 2021). These studies highlight differential effects of the pandemic for scholars, especially women (Yildirim and Eslen‐Ziya, 2021). Such studies, however, tend not to distinguish the particular effects of the pandemic during the early career stage that often overlaps with the child-bearing years, yet this could not always be distinguished from the effects for ECRs (Myers et al., 2020). We were unable to locate any empirical studies through our search techniques that focused specifically on the effects of the pandemic on the research and research activities of early career parents. This suggests a gap worthy of research effort.
+
+While many of the studies were based on research participants’ self-reported experiences, and as such provide insight into how individuals have experienced their work and well-being during the pandemic, longitudinal studies and studies that triangulate various data sources will be necessary to provide a fuller picture.
+
+Flowchart of the filtering process
+
+Key features and outcome measures for the 11 research studies
+
+Challenges and opportunities for early career researchers during the COVID-19 pandemic
+
+Adarmouch, L., Sebbani, M. and Amine, M. (2020), “Research activity among academic medical staff during the COVID-19 pandemic in Marrakesh”, Education Research International, Vol. 2020, doi: 10.1155/2020/6648406, Article 6648406.
+
+Andersen, J.P., Nielsen, M.W., Simone, N.L., Lewiss, R.E. and Jagsi, R. (2020), “COVID-19 medical papers have fewer women first authors than expected”, eLife, Vol. 9, doi: 10.7554/eLife.58807, Article e58807.
+
+Aubry, L.M., Laverty, T.M. and Ma, Z. (2021), “Impacts of COVID-19 on ecology and evolutionary biology faculty in the United States”, Ecological Applications, Vol. 31 No. 2, doi: 10.1002/eap.2265, Article e2265.
+
+Bilas, A. Kostic, D. Magoutis, K. Markatos, E. Narayanan, D. Pietzuch, P. and Seltzer, M. (2020), “The EuroSys 2020 online conference: experience and lessons learned”, arXiv, available at: https://arxiv.org/pdf/2006.11068.pdf (accessed 27 April 2022).
+
+Camerlink, I., Nielsen, B.L., Windschnurer, I. and Vigors, B. (2021), “Impacts of the COVID-19 pandemic on animal behaviour and welfare researchers”, Applied Animal Behaviour Science, Vol. 236, doi: 10.1016/j.applanim.2021.105255, Article 105255.
+
+Cameron, K., Daniels, L., Traw, E. and McGee, R. (2021), “Mentoring in crisis does not need to put mentorship in crisis: realigning expectations”, Journal of Clinical and Translational Science, Vol. 5 No. 1, doi: 10.1017/cts.2020.508, Article e16.
+
+Cardel, M.I., Dean, N. and Montoya-Williams, D. (2020), “Preventing a secondary epidemic of lost early career scientists. Effects of COVID-19 pandemic on women with children”, Annals of the American Thoracic Society, Vol. 17 No. 11, pp. 1366-1370, doi: 10.1513/AnnalsATS.202006-589IP.
+
+Corbera, E., Anguelovski, I., Honey-Rosés, J. and Ruiz-Mallén, I. (2020), “Academia in the time of COVID-19: towards an ethics of care”, Planning Theory and Practice, Vol. 21 No. 2, pp. 191-199, doi: 10.1080/14649357.2020.1757891.
+
+Cornér, S., Löfström, E. and Pyhältö, K. (2017), “The relationship between doctoral students’ perceptions of supervision and burnout”, International Journal of Doctoral Studies, Vol. 12, pp. 91-106, doi: 10.28945/3754.
+
+Critical Appraisal Skills Programme (2022), “CASP checklists”, available at: https://casp-uk.net/casp-tools-checklists/ (accessed 27 April 2022).
+
+Cui, R., Ding, H. and Zhu, F. (2021), “Gender inequality in research productivity during the COVID-19 pandemic”, Manufacturing and Service Operations Management, Vol. 24 No. 2, pp. 707-726, doi: 10.1287/msom.2021.0991.
+
+Devos, C., Boudrenghien, G., Van der Linden, N., Azzi, A., Frenay, M., Galand, B. and Klein, O. (2017), “Doctoral students’ experiences leading to completion or attrition: a matter of sense, progress and distress”, European Journal of Psychology of Education, Vol. 32 No. 1, pp. 61-77, doi: 10.1007/s10212-016-0290-0.
+
+Guintivano, J., Dick, D. and Bulik, C.M. (2021), “Psychiatric genomics research during the COVID‐19 pandemic: a survey of psychiatric genomics consortium researchers”, American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, Vol. 186 No. 1, pp. 40-49, doi: 10.1002/ajmg.b.32838.
+
+Hiebl, M.R. (2021), “Sample selection in systematic literature reviews of management research”, Organizational Research Methods, doi: 10.1177/1094428120986851, Advance online publication.
+
+Horbach, S.P. (2020), “Pandemic publishing: medical journals strongly speed up their publication process for COVID-19”, Quantitative Science Studies, Vol. 1 No. 3, pp. 1056-1067, doi: 10.1162/qss_a_00076.
+
+Ipe, T.S., Goel, R., Howes, L. and Bakhtary, S. (2021), “The impact of COVID-19 on academic productivity by female physicians and researchers in transfusion medicine”, Transfusion, Vol. 61 No. 6, pp. 1690-1693, doi: 10.1111/trf.16306.
+
+Johnson, R.L., Coleman, R.A., Batten, N.H., Hallsworth, D. and Spencer, E.E. (2020), “The quiet crisis of PhDs and COVID-19: reaching the financial tipping point”, Research Square, doi: 10.21203/rs.3.rs-36330/v2.
+
+Kappel, S., Schmitt, O., Finnegan, E. and Fureix, C. (2021), “Learning from lockdown: assessing the positive and negative experiences, and coping strategies of researchers during the COVID-19 pandemic”, Applied Animal Behaviour Science, Vol. 236, doi: 10.1016/j.applanim.2021.105269, Article 105269.
+
+Krukowski, R.A., Jagsi, R. and Cardel, M.I. (2021), “Academic productivity differences by gender and child age in science, technology, engineering, mathematics, and medicine faculty during the COVID-19 pandemic”, Journal of Women's Health, Vol. 30 No. 3, pp. 341-347, doi: 10.1089/jwh.2020.8710.
+
+Lambrechts, A. and Smith, K. (2020), “Impact of the COVID- 19 pandemic crisis on doctoral researchers in the UK”, White Rose Research Online, available at: http://eprints.whiterose.ac.uk/168633/ (accessed 27 April 2022).
+
+Lokhtina, I. and Tyler, M.A. (2021), “Reconstructing academic identities at risk”, Paper presented at the SIG 24 Researcher Education and Careers online symposium, 14 January.
+
+Malisch, J.L., Harris, B.N., Sherrer, S.M., Lewis, K.A., Shepherd, S.L., McCarthy, P.C., Spott, J.L., Karam, E.P., Moustaid-Moussa, N., Calarco, J.M., Ramalingam, L., Talley, A.E., Cañas-Carrell, J.E., Ardon-Dryer, K., Weiser, D.A., Bernal, X.E. and Deitloff, J. (2020), “In the wake of COVID-19, academia needs new solutions to ensure gender equity”, Proceedings of the National Academy of Sciences, Vol. 117 No. 27, pp. 15378-15381, doi: 10.1073/pnas.2010636117.
+
+Maranda, V. and Yakubovich, E. (2020), “The biomedical lab after COVID-19: cascading effects of the lockdown on lab-based research programs and graduate students in Canada”, FACETS, Vol. 5 No. 1, pp. 831-835, doi: 10.1139/facets-2020-0036.
+
+Minello, A., Martucci, S. and Manzo, L.K.S. (2020), “The pandemic and the academic mothers: present hardships and future perspectives”, European Societies, Vol. 23 No. 1, pp. S82-S94, doi: 10.1080/14616696.2020.1809690.
+
+Moher, D., Liberati, A., Tetzlaff, J. and Altman, D.J. (2009), “Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement”, BMJ, Vol. 339 No. 1, doi: 10.1136/bmj.b2535.
+
+Mullen, C.A. (2021), “Online doctoral mentoring in a pandemic: help or hindrance to academic progress on dissertations?”, International Journal of Mentoring and Coaching in Education, Vol. 10 No. 2, pp. 131-157, doi: 10.1108/IJMCE-06-2020-0029.
+
+Muric, G., Lerman, K. and Ferrara, E. (2020), “COVID-19 amplifies gender disparities in research”, 2006.06142v3arXiv, available at: https://arxiv.org/pdf/2006.06142.pdf (accessed 27 April 2022).
+
+Muric, G., Lerman, K. and Ferrara, E. (2021), “Gender disparity in the authorship of biomedical research publications during the COVID-19 pandemic: retrospective observational study”, Journal of Medical Internet Research, Vol. 23 No. 4, doi: 10.2196/25379, Article e25379.
+
+Myers, K.R., Tham, W.Y., Yin, Y., Cohodes, N., Thursby, J.G., Thursby, M.C., Schiffer, P., Walsh, J.T., Lakhani, K.R. and Wang, D. (2020), “Unequal effects of the COVID-19 pandemic on scientists”, Nature Human Behaviour, Vol. 4 No. 9, pp. 880-883, doi: 10.1038/s41562-020-0921-y.
+
+Oleschuk, M. (2020), “Gender equity considerations for tenure and promotion during COVID-19”, Canadian Review of Sociology/Revue Canadienne de Sociologie, Vol. 57 No. 3, pp. 502-515, doi: 10.1111/cars.12295.
+
+Organization for Women in Science for the Developing World (2020), “The impact of COVID-19 on women scientists from developing countries: results from an OWSD member survey”, available at: https://owsd.net/resources/news-events/impact-covid-19-women-scientists-developing-countries-results-owsd-member (accessed 27 April 2022).
+
+Page, M.J., McKenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., et al. (2021), “PRISMA 2020 statement: an updated guideline for reporting systematic reviews”, BMJ, Vol. 372 Article n71, available at: https://doi:10.1136/bmj.n71 (accessed 27 April 2022).
+
+Pranckutė, R. (2021), “Web of Science (WoS) and Scopus: the titans of bibliographic information in today’s academic world”, Publications, Vol. 9 No. 1, doi: 10.3390/publications9010012, Article 12.
+
+Prieto, D., Tricio, J., Cáceres, F., Param, F., Meléndez, C., Vásquez, P. and Prada, P. (2021), “Academics’ and students’ experiences in a Chilean dental school during the COVID-19 pandemic: a qualitative study”, European Journal of Dental Education, Vol. 25 No. 4, pp. 689-697, doi: 10.1111/eje.12647.
+
+Pyhältö, K., Vekkaila, J. and Keskinen, J. (2012), “Exploring the fit between doctoral students’ and supervisors’ perceptions of resources and challenges vis-à-vis the doctoral journey”, International Journal of Doctoral Studies, Vol. 7, pp. 395-414, doi: 10.28945/1745.
+
+Raby, C.L. and Madden, J.R. (2021), “Moving academic conferences online: understanding patterns of delegate engagement”, Ecology and Evolution, Vol. 11 No. 8, pp. 3607-3615, doi: 10.1002/ece3.7251.
+
+Ramvilas, G., Dhyani, S., Kumar, B., Sinha, N., Raghavan, R., Selvaraj, G., Divakar, N., Anoop, V.K., Shalu, K., Sinha, A., Kulkarni, A., Das, S. and Molur, S. (2021), “Insights on COVID-19 impacts, challenges and opportunities for India’s biodiversity research: from complexity to building adaptations”, Biological Conservation, Vol. 255, doi: 10.1016/j.biocon.2021.109003, Article 109003.
+
+Stamp, L.K., Cameron, V.A., Woodfield, T.B., Walker, L., Currie, M., Templeton, E., Pilbrow, A.P., Tabakakis, K., Phillips, E. and Lim, K.S. (2021), “Impact of COVID-19 on health research in New Zealand: a case study of a research-intensive campus”, Journal of the Royal Society of New Zealand, Vol. 51 No. 1, pp. S75-S85, doi: 10.1080/03036758.2020.1867202.
+
+Staniscuaski, F., Kmetzsch, L., Soletti, R.C., Reichert, F., Zandonà, E., Ludwig, Z.M., Lima, E.F., Neumann, A., Schwartz, I.V., Mello-Carpes, P.B. and Tamajusuku, A.S. (2021), “Gender, race and parenthood impact academic productivity during the COVID-19 pandemic: from survey to action”, Frontiers in Psychology, Vol. 12, doi: 10.3389/fpsyg.2021.66325, Article 663252.
+
+Stubb, J., Pyhältö, K. and Lonka, K. (2011), “Balancing between inspiration and exhaustion: PhD students’ experienced socio-psychological well-being”, Studies in Continuing Education, Vol. 33 No. 1, pp. 33-50, doi: 10.1080/0158037X.2010.515572.
+
+Suart, C., Nowlan Suart, T., Graham, K. and Truant, R. (2020), “When the labs closed: graduate students’ and postdoctoral fellows’ experiences of disrupted research during the COVID-19 pandemic”, Research Square, doi: 10.21203/rs.3.rs-59050/v1.
+
+Suart, C., Nowlan Suart, T., Graham, K. and Truant, R. (2021), “When the labs closed: graduate students’ and postdoctoral fellows’ experiences of disrupted research during the COVID-19 pandemic”, FACETS, Vol. 6 No. 1, pp. 966-997, doi: 10.1139/facets-2020-0077.
+
+Szomszor, M. and Adie, E. (2022), “Overton – a bibliometric database of policy document”, doi: 10.48550/arXiv.2201.07643. arXiv.
+
+Termini, C.M. and Traver, D. (2020), “Impact of COVID-19 on early career scientists: an optimistic guide for the future”, BMC Biology, Vol. 18 No. 1, doi: 10.1186/s12915-020-00821-4, Article 95.
+
+Tight, M. (2018), “Higher education journals: an emerging field”, International Higher Education, Vol. 94, pp. 22-24, doi: 10.6017/ihe.2018.0.10565.
+
+van der Weijden, I. and Bergmans, J. (2021), “The impact of the COVID-19 pandemic on the PhD experience in the Netherlands: first preliminary results”, Paper presented at the SIG 24 Researcher Education and Careers online symposium, 14 January.
+
+Vekkaila, J., Pyhältö, K. and Lonka, K. (2013), “Experiences of disengagement – a study of doctoral students in the behavioral sciences”, International Journal of Doctoral Studies, Vol. 8, pp. 61-81, doi: 10.28945/1870.
+
+Viglione, G. (2020), “Are women publishing less during the pandemic? Here’s what the data say”, Nature, Vol. 581 No. 7809, pp. 365-366, doi: 10.1038/d41586-020-01294-9.
+
+Vincent-Lamarre, P. Sugimoto, C.R. and Larivière, V. (2020), “The decline of women’s research production during the coronavirus pandemic”, Nature Index, available at: www.natureindex.com/news-blog/decline-women-scientist-research-publishing-production-coronavirus-pandemic (accessed 27 April 2022).
+
+Virtanen, V., Taina, J. and Pyhältö, K. (2017), “What disengages doctoral students in the biological and environmental sciences from their doctoral studies?”, Studies in Continuing Education, Vol. 39 No. 1, pp. 71-86, doi: 10.1080/0158037X.2016.1250737.
+
+Wang, L. and DeLaquil, T. (2020), “The isolation of doctoral education in the times of COVID-19: recommendations for building relationships within person – environment theory”, Higher Education Research and Development, Vol. 39 No. 7, pp. 1346-1350, doi: 10.1080/07294360.2020.1823326.
+
+Weissgerber, T., Bediako, Y., De Winde, C.M., Ebrahimi, H., Fernández-Chiappe, F., Ilangovan, V., Mehta, D., Quezada, C.P., Riley, J.L., Saladi, S.M., Sarabipour, S. and Tay, A. (2020), “Mitigating the impact of conference and travel cancellations on researchers’ futures”, eLife, Vol. 9, doi: 10.7554/eLife.57032, Article e57032.
+
+Wigginton, N.S., Cunningham, R.M., Katz, R.H., Lindstrom, M.E., Moler, K.A., Wirtz, D. and Zuber, M.T. (2020), “Moving academic research forward during COVID-19”, Science, Vol. 368 No. 6496, pp. 1190-1192, doi: 10.1126/science.abc5599.
+
+Wisker, G., McGinn, M.K., Bengtsen, S.E., Lokhtina, I., He, F., Cornér, S., Leshem, S., Inouye, K. and Löfström, E. (2021), “Remote doctoral supervision experiences: challenges and affordances”, Innovations in Education and Teaching International, Vol. 58 No. 6, pp. 612-623, doi: 10.1080/14703297.2021.1991427.
+
+Yildirim, T.M. and Eslen‐Ziya, H. (2021), “The differential impact of COVID-19 on the work conditions of women and men academics during the lockdown”, Gender, Work and Organization, Vol. 28 No. 1, pp. 243-249, doi: 10.1111/gwao.12529.
+
+Zhu, J. and Liu, W. (2020), “A tale of two databases: the use of Web of Science and Scopus in academic papers”, Scientometrics, Vol. 123 No. 1, pp. 321-335, doi: 10.1007/s11192-020-03387-8.
+
+The author order (except for the first author) is alphabetical.
+
+Irina A. Lokhtina is a Lecturer in Human Resource Management and Leadership at the University of Central Lancashire, Cyprus. She is a co-convenor of the Working Life and Learning Network of the European Society for Research on the Education of Adults and a Senior Fellow of the Higher Education Academy. Her research interests are related to workplace learning, mentoring, academic identity development and well-being.
+
+Montserrat Castelló is Full Professor in Educational Psychology at Ramon Llull University, Barcelona, where she leads the Research Institute of Psychology, Learning and Development. She is co-convenor of the EARLI SIG on Researchers education and Careers. Her research interests focus on academic and research writing, learning and identity.
+
+Agata Agnieszka Lambrechts is a postdoctoral researcher in the Faculty of Communication, Culture and Society at Università della Svizzera italiana in Lugano, specialising in higher education research. Her research interests include higher education policies and governance, access issues and academic careers, in particular in relation to gender and migration.
+
+Erika Löfström is Professor of Education at the University of Helsinki, Faculty of Educational Sciences where she leads elementary teacher education. Her research interests include research ethics and integrity, ethics in doctoral supervision, and teacher identity.
+
+Michelle K. McGinn is Associate Vice-President Research and Professor of Education at Brock University in St. Catharines, Ontario, Canada. Her primary interests relate to research collaboration, researcher development, scholarly writing and ethics in academic practice for postgraduate students and established scholars.
+
+Isabelle Skakni is the Head of the Doctoral Training Office at the University of Applied Sciences and Arts, Western Switzerland. Her research focuses on early career researchers’ experiences, training and identity development in a cross-cultural perspective.
+
+Inge van der Weijden is senior researcher, Lecturer and PhD coordinator. Her research focuses on researchers’ experiences, development of skills and (responsible) evaluation practices to better understand career development of scientists.
+
+The impact of the COVID-19 pandemic on early career researcher activity, development, career, and well-being: the state of the art
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Method
+
+Results and discussion
+
+Conclusions
+
+Figures
+
+Table 1.
+
+Table 2.
+
+References
+
+Acknowledgements
+
+Corresponding author
+
+About the authors
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Studies in Graduate and Postdoctoral Education
+
+Volume 13 Issue 3
+
+The impact of the COVID-19 pandemic on early career researcher activity, development, career, and well-being: the state of the art
+
+Abstract
+
+Introduction
+
+Method
+
+Results and discussion
+
+Conclusions
+
+Early career researcher
+
+Researcher development
+
+Researcher activity
+
+Academic career
+
+Well-being
+
+COVID-19
+
+ECRs;
+
+research activities and development; and
+
+the COVID-19 pandemic.
+
+“early career researcher”, “doctoral researcher”, “PhD student”, “post doc” and “academic”;
+
+“research”, “training and development”, “career” and “well-being”; and
+
+“pandemic”, “COVID-19” and “coronavirus”.
+
+reference details;
+
+method;
+
+key findings;
+
+limitations, recommendations and source of funding; and
+
+quality.
+
+peer-reviewed published contributions; and
+
+empirical studies with a description of research methods.
+
+as a single data collection method in eight studies (Adarmouch et al., 2020; Aubry et al., 2021; Camerlink et al., 2021; Guintivano et al., 2021; Kappel et al., 2021; Myers et al., 2020; Ramvilas et al., 2021; Stamp et al., 2021); and
+
+in conjunction with other data sources in two studies that included email exchanges, mentor’s notes and papers co-authored by the mentor and doctoral researchers, as well as their perceptions of the effectiveness of the mentoring programme (Mullen, 2021) or website analytics and post-conference surveys (Raby and Madden, 2021).
+
+6–10 weeks after the lockdown to those deposited in the 14 weeks before lockdown; and
+
+across the comparable time frames one year earlier.
+
+research activity;
+
+researcher development;
+
+career prospects; and
+
+well-being.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+1
+
+Adarmouch (2020)
+
+Medicine; surgery; lab/public health
+
+Morocco
+
+June 2020
+
+Junior staff (assistant/associate professors)
+
+√
+
+√
+
+2
+
+Aubry et al. (2021)
+
+Ecology and evolutionary biology
+
+USA
+
+May–June 2020
+
+Early career assistant professors
+
+√
+
+√
+
+3
+
+Camerlink et al. (2021)
+
+Animal behaviour and welfare
+
+Global (28 countries)
+
+June–July 2020
+
+Doctoral students; ECRs (obtained PhD within the last seven years)
+
+√
+
+√
+
+√
+
+√
+
+4
+
+Cui et al. (2021)
+
+Social sciences
+
+Global (25 countries; US predominant)
+
+December 2018–May 2020
+
+Junior, pre-tenure status
+
+√
+
+5
+
+Guintivano et al. (2021)
+
+Psychiatric genomics
+
+Global
+
+April–June 2020
+
+ECRs (faculty appointment up to five years post training, post-doctoral fellows, doctoral students)
+
+√
+
+√
+
+√
+
+6
+
+Kappel et al. (2021)
+
+Animal behaviour and welfare (mostly); biological and; social sciences
+
+Global
+
+July–August 2020
+
+Doctoral students;
+research associates; non-permanent job holders
+
+√
+
+√
+
+√
+
+√
+
+7
+
+Mullen (2021)
+
+Educational leadership
+
+USA
+
+Jan–May 2020
+
+Doctoral candidates
+
+√
+
+√
+
+√
+
+8
+
+Myers et al. (2020)
+
+Science
+
+USA; Europe
+
+April 2020
+
+Faculty/principal investigators; post-doctoral researchers; doctoral students
+
+√
+
+9
+
+Raby and Madden (2021)
+
+Animal behavior
+
+UK, EU, North America
+
+July 2020
+
+Doctoral students
+
+√
+
+√
+
+10
+
+Ramvilas et al. (2021)
+
+Biodiversity conservation
+
+India
+
+July 2020
+
+Doctoral students; postdocs
+
+√
+
+√
+
+√
+
+11
+
+Stamp et al. (2021)
+
+Health research
+
+New Zealand
+
+March–June 2020
+
+ECRs (<five years post-PhD)
+
+√
+
+√
+
+√
+
+√
+
+Researcher activity
+
+Disruption of usual research practices
+
+Adarmouch (2020), Aubry et al. (2021); Camerlink et al. (2021), Guintivano et al. (2021); Mullen (2021), Ramvilas et al. (2021); Stamp et al. (2021)
+
+Researcher activity
+
+Time for research
+
+Camerlink et al. (2021), Myers et al. (2020); Stamp et al. (2021)
+
+Researcher activity
+
+Production of research papers
+
+Stamp et al. (2021)
+
+Cui et al. (2021), Aubry et al. (2021); Camerlink et al. (2021), Mullen (2021); Ramvilas et al. (2021)
+
+Adarmouch (2020)
+
+Researcher activity
+
+Self-perceived work productivity
+
+Camerlink et al. (2021), Kappel et al. (2021)
+
+Stamp et al. (2021)
+
+Researcher activity
+
+New research foci
+
+Aubry et al. (2021)
+
+Adarmouch (2020)
+
+Researcher activity
+
+Access to data or participants
+
+Guintivano et al. (2021)
+Ramvilas et al. (2021)
+
+Adarmouch (2020)
+
+Researcher activity
+
+Mentoring others
+
+Aubry et al. (2021)
+
+Researcher development
+
+Informal interactions and socialising with colleagues
+
+Camerlink et al. (2021), Kappel et al. (2021); Ramvilas et al. (2021), Stamp et al. (2021)
+
+Raby and Madden (2021)
+
+Researcher development
+
+Online networking
+
+Camerlink et al. (2021), Ramvilas et al. (2021)
+
+Raby and Madden (2021), Stamp et al. (2021)
+
+Researcher development
+
+Professional and skills development
+
+Camerlink et al. (2021), Mullen (2021)
+
+Kappel et al. (2021)
+
+Researcher development
+
+Scholarly identity development
+
+Mullen (2021)
+
+Career prospects
+
+Job opportunities
+
+Camerlink et al. (2021), Guintivano et al. (2021); Kappel et al. (2021), Stamp et al. (2021)
+
+Ramvilas et al. (2021)
+
+Career prospects
+
+Research funding availability
+
+Guintivano et al. (2021), Kappel et al. (2021); Stamp et al. (2021)
+
+Career prospects
+
+Postdoctoral opportunities
+
+Stamp et al. (2021)
+
+Well-being
+
+Stress
+
+Aubry et al. (2021), Camerlink et al. (2021); Guintivano et al. (2021), Kappel et al. (2021); Mullen (2021), Stamp et al. (2021)
+
+Well-being
+
+Fatigue
+
+Adarmouch (2020), Camerlink et al. (2021); Raby and Madden (2021), Stamp et al. (2021)
+
+Well-being
+
+Home–work environment
+
+Guintivano et al. (2021), Kappel et al. (2021); Stamp et al. (2021)
+
+Camerlink et al. (2021)
+
+Well-being
+
+Isolation
+
+Camerlink et al. (2021), Kappel et al. (2021); Stamp et al. (2021)
+
+Well-being
+
+Workload
+
+Adarmouch (2020), Camerlink et al. (2021)
+
+Well-being
+
+Satisfaction with work–life balance
+
+Aubry et al. (2021)
+
+Kappel et al. (2021)
+
+Well-being
+
+Mental health
+
+Camerlink et al. (2021)
+
+Well-being
+
+Anxiety about health
+
+Aubry et al. (2021)
+
+Well-being
+
+Life satisfaction
+
+Aubry et al. (2021)
+
+Well-being
+
+Lack of focus
+
+Kappel et al. (2021)
+
+Well-being
+
+Financial worry
+
+Stamp et al. (2021)
+
+Well-being
+
+Physical health
+
+Camerlink et al. (2021), Kappel et al. (2021)
+
+Well-being
+
+Uninterrupted flexible time
+
+Stamp et al. (2021)
+
+Well-being
+
+Enhanced social support
+
+Camerlink et al. (2021)

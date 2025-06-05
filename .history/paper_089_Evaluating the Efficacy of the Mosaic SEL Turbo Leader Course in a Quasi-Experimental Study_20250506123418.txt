@@ -1,0 +1,56 @@
+Evaluating the Efficacy of the Mosaic SEL Turbo
+Leader Course in a Quasi-Experimental Study
+Kate E. Walton, PhD, and Alea Thompson, MEd, PhD candidate
+The Mosaic SEL Turbo Leader program is part of ACT’s social and emotional (SE)
+learning curriculum. It is designed for middle school students and includes 17 webbased lessons covering student self-efficacy and agency, positive peer and adult
+relationships and conflict strategies, and growth mindset skills and tools (for more
+information on Turbo Leader, see Mawi Learning, 2020). As with any learning product,
+it is important to evaluate the efficacy of Turbo Leader; that is, it is important to evaluate
+the degree to which evidence supports the claim that Turbo Leader serves to improve
+students’ SE skills (Mattern, 2019). This was our intent with the current study.
+Key Finding
+Overall, we found that students who engaged in the Mosaic SEL Turbo Leader
+curriculum saw significant growth in growth mindset and self-efficacy, two skills that are
+aligned with CASEL’s self-awareness competency.
+Method
+Students in a suburban Illinois middle school took part in the study. A quasi-experimental
+design was used where students were divided into two groups, one serving as the
+experimental group and one as the control group, based on their teachers. There were
+420 students in grades 6–8 in the control group and 329 students in grades 6–8 in
+the experimental group. Both groups of students took a 27-item survey, specifically,
+Panorama Education’s Social Emotional Learning survey (Panorama Education, 2016),
+in September and the same survey again in January. Five SE skills, which align to
+CASEL’s competencies, were assessed including grit, growth mindset, self-efficacy,
+sense of belonging, and emotional regulation. With the exception of grit (Cronbach’s
+alpha = .58), the scales were internally consistent with alphas ranging from .76 to .81.
+Test-retest correlations ranged from .41 to .70. The experimental group engaged in the
+Turbo Leader lessons twice per week between the two survey administrations. The
+lessons were led by school social workers, classroom teachers, and administrators
+who displayed the lessons on smart boards, facilitated discussion, and collected
+assignments.
+ACT, Inc. 2020
+© by ACT, Inc. This work is licensed under a Creative Commons Attribution-Non
+Commercial 4.0 International License.https://creativecommons.org/licenses/by-nc/4.0/
+ACT.org/research
+R1845
+Analyses and Results
+We carried out a two-way mixed design MANOVA to determine if there were group
+differences in SE skill development over time. There was a significant difference
+between groups on the SE competencies (F5,736 = 6.88, p = .00, η² = .05). Two of the
+univariate tests were statistically significant. Specifically, the experimental group saw
+greater gains in growth mindset (F1,740 = 30.65, p = .00, η² = .04) and self-efficacy (F1,740
+= 4.16, p = .04, η² = .01) than the control group (See Figure 1).
+Figure 1. Growth Mindset and Self-Efficacy Development Over Time: Turbo Leader vs. Control
+ACT Research & Policy | Data Byte | October 2020 2
+Note. Possible mean scores range from 1 to 5.
+Conclusion
+This study offers efficacy evidence for the Turbo Leader course and replicates metaanalytic findings documenting positive growth in students participating in SE learning
+programs (Mahoney, Durlak, & Weissberg, 2019). Students who engaged in the
+curriculum during a full term saw significant growth in growth mindset and self-efficacy,
+which are aligned with CASEL’s self-awareness competency (ACT, 2019). Self-efficacy
+is associated with a host of positive outcomes, such as increased effort, persistence,
+and resilience (Pajares, 1997), and growth mindset interventions are reportedly
+effective for improving academic performance (Yeager & Walton, 2011), particularly
+among academically high-risk and economically disadvantaged students (Sisk et al.,
+2018). Therefore, student development of self-efficacy and growth mindset ought to be
+accompanied by positive growth in other associated areas. 

@@ -1,0 +1,709 @@
+BACKGROUND AND OBJECTIVE: Many urban youth experiencesignificant and unremitting negative abstract
+stressors, including those associated with community violence, multigenerational poverty,
+failing educational systems, substance use, limited avenues for success, health risks, and
+trauma. Mindfulness instruction improves psychological functioning in a variety of adult
+populations; research on mindfulness for youth is promising, but has been conducted
+in limited populations. Informed by implementation science, we evaluated an adapted
+mindfulness-based stress reduction (MBSR) program to ameliorate the negative effects of
+stress and trauma among low-income, minority, middle school public school students.
+METHODS: Participants were students at two Baltimore City Public Schools who were
+randomly assigned by grade to receive adapted MBSR or health education (Healthy Topics
+[HT]) programs. Self-report survey data were collected at baseline and postprogram.
+Deidentified data were analyzed in the aggregate, comparing MBSR and HT classes, by
+using regression modeling.
+RESULTS: Three hundred fifth- to eighth-grade students (mean 12.0 years) were in MBSR
+and HT classes and provided survey data. Participants were 50.7% female, 99.7% African
+American, and 99% eligible for free lunch. The groups were comparable at baseline.
+Postprogram, MBSR students had significantly lower levels of somatization, depression,
+negative affect, negative coping, rumination, self-hostility, and posttraumatic symptom
+severity (all Ps < .05) than HT.
+CONCLUSIONS: These findings support the hypothesis that mindfulness instruction improves
+psychological functioning and may ameliorate the negative effects of stress and reduce
+trauma-associated symptoms among vulnerable urban middle school students. Additional
+research is needed to explore psychological, social, and behavioral outcomes, and
+mechanisms of mindfulness instruction.
+ aDivision of General Pediatrics and Adolescent Medicine, Department of Pediatrics, Johns Hopkins School of
+Medicine, and bAll Children’s Hospital Johns Hopkins Medicine, Saint Petersburg, Florida
+Dr Sibinga conceptualized, designed, and oversaw study procedures, including data collection,
+analysis, and interpretation, and drafted and revised the manuscript; Ms Webb assisted with
+and coordinated data collection, conducted data analysis, and contributed to the manuscript;
+Dr Ghazarian contributed to the study design and data collection procedures, conducted data
+analysis and interpretation, and revised the manuscript; Dr Ellen contributed substantively
+to the study design and procedures and to data interpretation and reviewed and revised the
+manuscript; and all authors approved the fi nal manuscript as submitted.
+This trial has been registered at www. clinicaltrials. gov (identifi er NCT02493218).
+DOI: 10.1542/peds.2015-2532
+Accepted for publication Sep 30, 2015
+ Address correspondence to Erica M.S. Sibinga, MD, MHS, Johns Hopkins School of Medicine,
+Center for Child and Community Health Research, Suite 4200, Mason F. Lord Building, Center
+Tower, 5200 Eastern Ave, Baltimore, MD 21224. E-mail: esibinga@jhmi.edu
+To cite: Sibinga EM, Webb L, Ghazarian SR, et al. SchoolBased Mindfulness Instruction: An RCT. Pediatrics.
+2016;137(1):e20152532
+WHAT’S KNOWN ON THIS SUBJECT: Many urban youth
+experience signifi cant negative stressors. Mindfulness
+instruction reduces stress and improves psychological
+functioning in adults. Research in youth is promising but has
+been conducted in limited populations. Little is known about
+mindfulness instruction for low-income minority students.
+WHAT THIS STUDY ADDS: In this randomized activecontrolled trial, school-based mindfulness instruction led
+to improved psychological functioning and lower levels of
+posttraumatic stress symptoms. High-quality mindfulness
+instruction merits consideration as primary prevention
+for mental and behavioral health problems in low-income,
+minority urban students.
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/137/1/e20152532/1062622/peds_20152532.pdf
+byUniversityLibraryUtrechtuser
+ SIBINGA et al
+Recent violence in Baltimore City
+has drawn attention to the acute
+and chronic problems experienced
+by many of the city’s poor and
+minority residents. Due to effects
+of multigenerational poverty,
+limited educational and economic
+opportunities, high levels of drug
+use and trade, and pervasive
+community violence, urban youth
+in Baltimore and many US cities are
+at increased risk for exposure to a
+variety of stresses, including early
+life stress, recurrent and chronic
+stress, and exposure to significant
+and/or recurrent traumas. As an
+example, it is estimated that 50% to
+96% of urban youth directly witness
+violence within their community.1
+The significant, recurrent, and
+chronic nature of these stressors
+may overwhelm the capacity to cope
+acutely and chronically,2 which is
+required for healthy development
+and positive trajectories. Any or all of
+these forms of stress may contribute
+to the state of toxic stress in which
+an individual’s ability to manage or
+cope with stress is overwhelmed on
+an ongoing basis. Pediatricians have
+been called to action to understand
+the complex and intertwined systems
+that are disrupted by stress,3 as well
+as to recognize that effective health
+approaches to mitigate the negative
+effects of toxic stress and trauma
+may be interventions that occur in
+the community, not only in medical
+settings.4
+In response to the pervasive
+exposure to stress and trauma, we
+have developed and previously
+tested a program of mindfulness
+instruction intended to reduce the
+negative impacts of stress and toxic
+stress among urban youth. Based
+on Jon Kabat-Zinn’s well-studied
+mindfulness-based stress reduction
+(MBSR) program for adults,5,6
+we had previously adapted and
+evaluated the MBSR program for
+use with urban youth in clinic7–9 and
+school settings.10 In particular, we
+conducted a randomized controlled
+trial (RCT) of our school-based
+12-week MBSR program compared
+with a 12-week active control (health
+education) program at a small
+middle school for city-dwelling boys.
+Compared with the active control
+program, MBSR participants had
+significantly less anxiety, improved
+coping, and borderline attenuation
+of the salivary cortisol increase
+associated with the academic term.10
+We were interested in expanding
+the program to urban public schools
+with significant need. Through
+collaboration with Elev8 Baltimore,
+a nonprofit organization aimed at
+optimizing linkage and utilization of
+school-based activities for the benefit
+of students and their families, we
+found the complementary elements
+for implementation. Elev8 Baltimore
+had experience with and presence in
+the schools and understood firsthand
+the high level of students’ exposure
+to trauma and toxic stress.
+Implementation science has
+elucidated a number of essential
+considerations for program
+expansion. The consolidated
+framework for implementation
+research articulates the importance
+of the following elements: evidencebased intervention, the outer setting,
+the inner setting, the individuals
+involved, and the process.11,12
+Attending to these elements of
+implementation and in collaboration
+with Elev8 Baltimore, we used the
+evidence-based MBSR program
+with two Elev8 Baltimore schools
+in which we could ensure high
+potential for student benefit, sitespecific awareness of school culture,
+school administration buy-in, highquality program instruction, highquality program implementation
+staff, community partnership,
+infrastructure to support ongoing
+collaboration with school and Elev8
+Baltimore, and structure and process
+for evaluation of implementation and
+program effect.
+METHODS
+Participants and Study Design
+Students were eligible to participate
+in the study if they attended fifth
+through eighth grades, including
+special education, in either of two
+Elev8 Baltimore schools selected
+for this trial, during the 2012–2013
+academic year. Conceptualized and
+presented as two complementary
+programs focused on overall
+student wellness, Healthy Topics
+(HT) and MBSR were incorporated
+into the school curriculum and
+delivered to all students during the
+“resource” class time for a portion
+of the school year, instead of classes
+such as advisory, art, or music.
+Students were randomly assigned
+by school and grade into either the
+intervention program or the active
+control program; thus, each school
+had both programs. Blinding to
+group assignment occurred at the
+data management, analysis, and
+interpretation levels. The study
+was approved by the Johns Hopkins
+School of Medicine Institutional
+Review Board.
+Intervention Program
+Our 12-week program is adapted
+from MBSR, a structured 8-week
+program of instruction in the
+cultivation of mindfulness, a practice
+of purposeful nonjudgmental
+attention to the happenings of the
+present moment.5 MBSR programs
+consist of 3 components: (1) didactic
+material related to mindfulness,
+meditation, yoga, and the mindbody connection; (2) experiential
+practice of various mindfulness
+meditations, mindful yoga, and body
+awareness during group meetings
+and encouragement of home practice;
+and (3) group discussion focused
+on the application of mindfulness to
+everyday situations and problemsolving related to barriers to
+effective practice.5,13,14 The MBSR
+program includes a number of
+formal and informal techniques,
+all of which share the goal of
+2
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/137/1/e20152532/1062622/peds_20152532.pdf
+byUniversityLibraryUtrechtuser
+PEDIATRICS Volume 137 , number 1 , January 2016
+enhancing nonjudgmental presentfocused awareness, aimed to reduce
+dysregulated focus on the past (ie,
+rumination) and worries about the
+future (ie, anxiety).
+Our previously-adapted 12-week,
+school-based MBSR curriculum10
+was taught by 2 experienced MBSR
+instructors, both with long-standing
+personal meditation practices,
+>10 years’ experience teaching
+mindfulness, and MBSR instructor
+training through the University
+of Massachusetts Center for
+Mindfulness. The MBSR instructors
+met regularly to optimize program
+implementation. The adapted MBSR
+program remains consistent with
+typical MBSR programs for adults
+and with MBSR core content.13
+In addition, the content, course
+structure, sequence of content
+presentation, and core mindfulness
+practices are maintained. Students
+attended an average of ∼80%
+(74%–85%) of the program sessions
+and anecdotally reported especially
+enjoying the mind jar and worry box
+activities.
+Active Control Program
+HT is an age-appropriate general
+health program structured to match
+MBSR, including number and length
+of classes, location, didactic and
+experiential instruction, and group
+size. The HT program covers ageappropriate topics such as nutrition,
+exercise, body systems, adolescence,
+and puberty. HT was adapted from
+the Glencoe Health Curriculum
+(McGraw Hill, 2005) and is designed
+to control for the effects of a
+positive adult instructor, peer group
+experience, attention, and time. It
+was taught by 3 trained, experienced
+health instructors. Students attended
+an average of ∼80% (76%–88%) of
+the program sessions.
+Implementation
+Our community partner, Elev8
+Baltimore, had 3 years of experience
+with school administration and
+staff at both schools. In discussion
+with Elev8, school administrators
+agreed to incorporate MBSR and
+HT programs into the school
+curriculum and work with the
+program staff to facilitate scheduling
+and implementation. Program
+staff worked closely with Elev8
+staff and program instructors to
+enhance program implementation,
+school support, and the community
+partnership. Both schools offered
+other programs to middle school
+students focused on mentorship,
+homework assistance, and afterschool activities, but no other
+programs directly targeted stress.
+Measures
+Data were collected by program staff
+(not instructors) during class time
+over 2 sequential days at baseline
+and after completion of the 12-week
+programs. Makeup data collection
+for absent students was conducted
+on a case-by-case basis over the
+following few days. Valid, reliable,
+age-appropriate self-report surveys
+were used to measure outcomes
+of interest, including mindfulness,
+psychological functioning, and
+trauma symptoms.
+Mindfulness was measured with the
+10-item Children’s Acceptance and
+Mindfulness Measure,15–17 which
+had good reliability in our sample
+(α = 0.74 and 0.73). The widely used
+Perceived Stress Scale18 showed low
+reliability within our sample (α =
+0.41 and 0.29); by using exploratory
+factor analysis (EFA) methods, we
+extracted 2 factors: positive/coping
+(4 items) and stress (6 items),
+which had improved reliability (α =
+0.64–0.75).
+Psychological symptoms measured
+were depressive symptoms
+(Children’s Depression Inventory—
+Short Form [CDI-S]19); paranoid
+ideation, hostility, somatization,
+by using the Symptom Checklist90-R (SCL-90-R)20; and anxiety
+(Multidimensional Anxiety Scale for
+Children [MASC]).21 The CDI-S had
+good reliability within our sample
+(α = 0.84). The SCL-90-R showed
+acceptable to excellent reliability in
+our sample (hostility α = 0.86 and
+0.85; somatization α = 0.87 and 0.90;
+paranoid ideation α = 0.67 and 0.71).
+The MASC is a measure of anxiety,
+with excellent reliability in our
+sample (α = 0.89).
+We assessed mood and emotion
+regulation with the following
+measures: Positive and Negative
+Affect Schedule (PANAS),22 the
+Differential Emotions Scale (DES),23
+the Aggression scale,24 and the StateTrait Anger Expression Inventory
+(STAXI-2).25 The PANAS yields 2
+factors: positive affect and negative
+affect, with good reliability in our
+sample (positive affect α = 0.81
+and 0.89; negative affect α = 0.84
+and 0.87). The DES yields several
+factors found to have acceptable
+reliability and validity in youth26 and
+adequate reliability in our sample
+(α = 0.61–0.81). The Aggression
+Scale has sufficient reliability and
+validity in similar populations27 and
+excellent reliability in our sample
+(α = 0.92). The STAXI is a measure
+of anger expressivity, from which
+we used 2 subscales: temperamental
+expressivity and reactive
+expressivity. The measure has been
+found to have adequate reliability
+and validity in African American
+youth28 and was reliable with our
+sample (α = 0.78–0.80).
+Coping was measured by using
+the Children’s Response Style
+Questionnaire (CRSQ),29 the Brief
+COPE,30 and the Coping Self-Efficacy
+Scale (CSE).31 The CRSQ measures
+3 types of reactions: rumination,
+problem solving, and distraction with
+adequate reliability (rumination α =
+0.86 and 0.87; problem solving α =
+0.68 and 0.73; distraction α = 0.67
+and 0.70). The Brief COPE measures
+14 coping approaches with 2 items
+each. Given the many subdomains,
+confirmatory factor analysis (CFA)
+method was used to identify typically
+positive coping approaches (16
+3
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/137/1/e20152532/1062622/peds_20152532.pdf
+byUniversityLibraryUtrechtuser
+ SIBINGA et al
+items: use of instrumental support,
+active coping, distraction, venting,
+positive humor, use of emotional
+support, positive reframing,
+planning, and religion) and typically
+negative coping approaches (9
+items: behavioral disengagement,
+denial, substance abuse, negative
+humor, and self-blame). The factors
+demonstrated adequate reliability
+(α = 0.73–0.88). Finally, the CSE
+creates an overall variable of coping
+self-efficacy with excellent reliability
+in this sample (α = 0.96).
+We measured posttraumatic
+symptoms by using the Children’s
+Post-Traumatic Symptom Severity
+Checklist (CPSS).32 Unfortunately,
+an administrative error led to
+the inadvertent omission of the
+CPSS from the baseline survey; we
+have CPSS data from postprogram
+only. Because all other measures
+were comparable between groups
+at baseline, we infer that CPSS
+was as well. The measure has
+adequate reliability and validity in
+socioeconomically disadvantaged
+youth33 and excellent reliability in
+our sample (α = 0.94). Furthermore,
+2 factors were generated from the
+CPSS: depressive symptoms (10
+items) and reexperiencing symptoms
+(6 items). Both factors were found to
+have good reliability (depressive α =
+0.92, reexperiencing α = 0.85).
+Sample Size
+A priori power calculations
+demonstrated power >80% with
+a sample of at least N = 90 based
+on previous work with small to
+moderate effects (β ranging from
+0.38 to 0.51; ΔR2 ranging from 0.04
+to 0.54) for associations between
+MBSR participation and outcomes of
+coping and psychological symptoms.
+Thus, ample power was present for
+this study.
+Data Analysis
+Preliminary data analysis included
+EFA and CFA to determine the most
+appropriate factor structure for each
+measure. EFA employed principal
+components analysis methods with
+varimax rotation. CFA methods used
+maximum likelihood extraction
+methods with varimax rotation
+and were used for all measures to
+examine the factor structure. EFA
+methods were used when CFA
+results suggested potential deviation
+from expected factor structures
+among established scales. Where
+applicable, EFA and CFA results
+were presented in the Measures
+section above. Preliminary analyses
+examined descriptive statistics (eg,
+means, median, proportions) for all
+study variables of interest. Given
+that data collection at both time
+points was held over 2 class periods,
+missing data due to attrition/absence
+occurred. Although we provided
+classes to 400 students at 2 schools,
+baseline data were collected from
+300 students, with subsequent data
+collection sessions ranging from 292
+to 300 students (72.8%–74.8%).
+Missing data analyses demonstrated
+that missingness was due largely to
+attrition/absence and did not present
+in an obvious pattern. Given that data
+were collected at the aggregate level
+(not linked by individual student
+over time), it was not possible to
+examine participant characteristics
+in relation to missing data over the
+course of the study. Initial analyses
+examined potential differences
+in participant characteristics and
+demographics across intervention
+groups at baseline by using
+independent samples t tests for
+continuous variables and χ2 analyses
+for categorical variables. To test the
+overall potential intervention effect,
+multivariate linear regression models
+were examined. A binary grouping
+variable (intervention versus control)
+was the main predictor with outcome
+variables of interest at follow-up. All
+models included gender, age, and
+school as covariates. Each outcome
+variable of interest was examined in
+a separate model due to collinearity.
+Given the data structure of students
+within grades and within schools,
+mixed effects models were examined
+with random effects for grade. The
+random effect for grade was not
+significant in any models and was
+thus removed from further analyses.
+We hypothesized that MBSR would
+improve participants’ psychological
+functioning.
+RESULTS
+Three hundred students in the fifth
+through eighth grades participated
+and provided survey data from 2
+urban elementary/middle schools.
+Study participants were 50.7%
+female and 99.7% African American
+(Table 1). Approximately 99% of
+participants were eligible for free or
+reduced meals. When comparing HT
+and MBSR groups at baseline, χ2 tests
+revealed no significant differences in
+gender (P = .99), ethnicity (P = .32),
+age (P = .45), nor any study variables
+of interest (P = .10–.99). The lack of
+significant differences at baseline
+suggests that randomization resulted
+in balanced study arms.
+On the basis of our randomization
+scheme, we conducted 14 separate
+classes of 21 to 37 students each
+at 2 schools. Multivariate models
+demonstrated significant differences
+between MBSR and HT program
+participants after implementation of
+the 12-week programs; compared
+with HT, students who had
+participated in the MBSR program
+showed better psychological
+functioning and coping. As shown in
+Table 2, MBSR participants reported
+lower levels of depressive symptoms
+(β = –0.16, P = .02), self-hostility
+(β = –0.14, P = .02), somatization
+(β = –0.13, P = .03), negative affect
+(β = –0.19, P = .003), negative coping
+(β= –0.13, P = .04), and rumination
+(β = –0.13, P = .03). Importantly, MBSR
+students also showed significantly
+lower levels of posttraumatic stress
+symptoms (β = –0.15, P = .02),
+including in both subdomains of
+depressive (β = –0.13, P = .03) and
+reexperiencing (β = −0.17, P = .008)
+4
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/137/1/e20152532/1062622/peds_20152532.pdf
+byUniversityLibraryUtrechtuser
+PEDIATRICS Volume 137 , number 1 , January 2016
+symptoms. No significant adverse
+events were reported.
+DISCUSSION
+In our school-based RCT of an
+adapted MBSR program compared
+with an active control (HT) for
+vulnerable urban youth, MBSR
+participants showed significant
+improvements in psychological
+symptoms, coping, and a reduction
+in posttraumatic symptoms. In
+particular, they had lower levels
+of depressive symptoms, selfhostility, somatization, negative
+mood, negative coping approaches,
+and posttraumatic symptoms.
+This rigorous school-based RCT,
+informed by implementation
+science, supports the hypothesis
+that the MBSR program is effective
+primary prevention for the negative
+effects of toxic stress and trauma,
+and ultimately beneficial for urban
+youth.
+Research on mindfulness for children
+and youth is beginning to emerge,34
+but few randomized active-controlled
+trials of school-based mindfulness
+instruction exist in the literature
+and populations are limited. Britton
+conducted a RCT in a private
+independent school comparing a
+mindfulness meditation class with
+an active control (n = 101), finding
+that mindfulness was associated with
+reductions in thoughts of self-harm.35
+A recent trial of a mindfulness
+program compared with a social
+responsibility control in a mostly
+middle-class population showed that
+mindfulness led to positive outcomes
+in psychological symptoms, cognitive
+control, interpersonal outcomes,
+and stress physiology.36 Although
+these findings are promising,
+little information is available on
+mindfulness instruction for
+low-income, urban, minority
+populations.
+Important aspects of implementation
+were addressed in this trial: an
+evidence-based program; Elev8
+Baltimore’s school-based staff
+and experience with each school’s
+students, staff, and administration;
+dedicated staff to coordinate
+program implementation and data
+collection and link with teachers
+and school staff; dedicated program
+instructors; and reasonably accepting
+administration. Furthermore, our
+RCT used specific strategies to
+ensure the delivery of high-quality
+program content and process in
+both study arms: instructors were
+trained, experienced, and dedicated
+mindfulness and health education
+instructors who brought expertise
+regarding program content and
+delivery; the mindfulness curriculum
+was previously tested and had been
+adapted from the evidence-based
+MBSR program8,10; communication
+between program and Elev8 staff
+was supported by weekly meetings;
+and the community partnership
+functioned effectively to navigate
+challenges that arose related to
+logistics, school administration, and
+implementation.
+There are a number of limitations of
+this study. These include variability
+of student session engagement and
+attendance, no information regarding
+outside student mindfulness
+exposure and/or practice,
+missing data, variability in school
+administration support for programs,
+and variability in classroom teacher
+support for programs.
+However, the trial also has a number
+of notable strengths. The RCT study
+design with an active comparison
+group (controlling for positive adult
+instructor and group activity) and
+comparable groups at baseline
+provides a high level of confidence
+that the improvements seen in
+the MBSR arm are due specifically
+to the mindfulness aspects of the
+intervention, as opposed to baseline
+differences and/or other nonspecific
+intervention effects. Furthermore,
+because this is a group-based
+prevention program, program costs
+may well be offset by decreased need
+for behavioral and mental health
+interventions.
+Given the unmanageable toxic
+stress and trauma experienced by
+many urban youth, these findings
+are important and timely. Efforts
+to improve the circumstances in
+which urban youth live are essential
+and impactful. This study provides
+additional support for efforts to
+include high-quality mindfulness
+instruction to enhance students’
+capacity to manage the inevitable
+stress and trauma they will face,
+as well as in trauma-informed
+approaches. Depressive and
+posttraumatic stress symptoms have
+been linked with impaired academic
+performance and attendance.37,38 By
+5
+TABLE 1 Baseline Characteristics, n (%)
+HT MBSR Total
+n = 141 (47.0%) n = 159 (53.0%) n = 300
+Gender (n = 298)
+ Female 71 (50.7) 80 (50.6) 151 (50.7)
+ Male 69 (49.3) 78 (49.4) 147 (49.3)
+Ethnicity (n = 258)
+ African American 129 (99.2) 128 (100) 257 (99.7)
+ White 1 (0.8) 0 (0.0) 1 (0.4)
+Grade
+ Fifth 28 (19.9) 45 (28.3) 73 (24.3)
+ Sixth 48 (34.0) 34 (21.4) 82 (27.3)
+ Seventh 15 (10.6) 45 (28.3) 60 (20.0)
+ Eighth 50 (35.5) 35 (22.0) 85 (28.3)
+Site
+ School A 98 (69.5) 90 (56.6) 188 (62.7)
+ School B 43 (30.5) 69 (43.4) 112 (37.3)
+Downloaded from http://publications.aap.org/pediatrics/article-pdf/137/1/e20152532/1062622/peds_20152532.pdf
+byUniversityLibraryUtrechtuser
+ SIBINGA et al
+providing high-quality mindfulness
+instruction during childhood,
+improvements in psychological
+symptoms, coping, and posttraumatic
+symptoms have the potential to shift
+life trajectories in meaningful ways,
+including academic performance,
+mental and physical health, and
+quality of life.
+CONCLUSIONS
+As we continue to learn that many
+adult diseases have their roots in
+childhood exposure to stress and
+trauma, it is essential to intervene
+with primary prevention strategies
+to reduce their negative effects
+among children and youth. This trial
+provides convincing evidence that
+high-quality school-based MBSR
+instruction for youth in urban public
+schools is feasible, acceptable,
+and leads to improvements in
+psychological symptoms, coping,
+and posttraumatic stress symptoms.
+Improvements in these domains may
+ultimately reduce the negative impact
+of stress and trauma experienced in
+childhood and adolescence and lead
+to significant positive shifts, when
+imagined over the life course.

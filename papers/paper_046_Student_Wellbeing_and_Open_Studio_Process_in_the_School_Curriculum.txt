@@ -1,0 +1,489 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+International Journal of Sustainability in Higher Education
+
+ISSN: 1467-6370
+
+Article publication date: 6 September 2018 Permissions
+
+Issue publication date: 20 September 2018
+
+This paper aims seeks to reflect on the transition of a school of architecture to incorporate sustainability principles as a core part of its undergraduate (Part I) programme. The paper offers a brief overview of the processes undertaken and outcomes of this to an integrated problem-based learning approach and with sustainability at its core changing both knowledge content and pedagogical approaches.
+
+Reflecting on the transition to a sustainability-based curriculum, this paper makes use of a mixed methods approach incorporating a review of literature on sustainability in architectural education, pedagogical approaches and epistemology, as well as educational issues in sub-Saharan Africa. The main study made use of an ethnographic approach, including document analysis, interviews, observations and one-on-one informal interactions with students, faculty and alumni.
+
+While the transition to a sustainability-based curriculum was achieved, with integrated studio courses at second- and third-year levels, this did not come without challenges. Divided opinions of formal education, linked to preconceived ideas of what constituted architectural education led to some resistance from students and professionals. Nevertheless, the programme serves as testament to what is achievable and provides some lessons to schools seeking to transition programmes in the future.
+
+The paper contributes to discourses on sustainability in architectural education, examining the transition taken by an architectural programme to incorporate sustainability as a core part of its curriculum. The outcomes of this process provide advice that could be useful to schools of architecture seeking to integrate sustainability into their programmes.
+
+As the first architecture programme in East Africa to integrate sustainability principles into its programme, this study provides an insight into the processes, experiences and outcomes of this transition. This reflective engagement highlights value of an enabling environment in any transitional process.
+
+Olweny, M. (2018), "Introducing sustainability into an architectural curriculum in East Africa", International Journal of Sustainability in Higher Education, Vol. 19 No. 6, pp. 1131-1152. https://doi.org/10.1108/IJSHE-02-2018-0039
+
+Emerald Publishing Limited
+
+Copyright © 2018, Emerald Publishing Limited
+
+Contemporary architectural education generally seeks to engage with topical issues; although these are often only introduced after prolonged debate on the merits and demerits of their inclusion in the curriculum. The need to incorporate sustainability into architectural education has been understood for decades, more so since the publication of Agenda 21 (United Nations Conference on Environment and Development, 1992), which compelled society to rethink its relationship with the environment; more so for architecture and its outputs, which currently contribute to environmental degradation. As part of this discourse, numerous reasons have been put forward for the incorporation of sustainability into architectural education; from technical, to political and even legal. The most compelling, however, has been the ethical imperative by Fox (2000), Williamson et al. (2003) and others, suggesting that inclusion of sustainability in architectural education is a matter of normative ethics, related to “the goals, standards, or norms that our behaviour should conform to” (Fox, 2009, p. 107). This implies that outputs of the architectural design process should uplift human wellbeing, while “doing no harm” – to borrow an adage from the medical fraternity. Regardless, the uptake of sustainability into architectural education has been relatively slow, leading Whitaker (2006) to state: “Architects are a lagging indicator for sustainable design”. As designers, the need to address future challenges of our ever-changing built environments makes it crucial that sustainability be addressed as part of architectural education. This is particularly important for developing countries across sub-Saharan Africa, where the impact of climate change is likely to be particularly significant.
+
+In the context of sub-Saharan Africa, lack of engagement with sustainability in architectural education was evident in the absence of African schools in a study by Altomonte (2010) as part of the project Environmental Design in University Curricula and Architectural Training in Europe (EDUCATE). Further, a report by the Association of African Universities (2011) on sustainability in university education across Africa indicated penetration of sustainability in engineering and allied professional programmes at less than 8 per cent. This could suggest that sustainability as a desirable outcome is not fully appreciated across much of the region, evident through utterances by professionals who have stated: “sustainability is not for us here, but for developed countries” or “our concern is for development and this sustainability thing will drive up costs”. Such sentiments raise questions about the role of architectural education in promoting sustainable built environments. With the next generation of architects being prepared to tackle unprecedented challenges linked to scarce resources and global climate change for which a dynamic appreciation of issues is required, sustainability itself can take on added relevance. Thus, the absence of sustainability within architectural education could be understood as a struggle between established attitudes to architecture and architectural education, and an appreciation of what architectural education can (or should) offer.
+
+Recognising the obligation architectural education has to the environment, and to enable development of skills beyond the needs of current practice, this paper explores the transformation of an architecture programme in East Africa[1] to incorporate sustainability as a core of its curriculum. The study made use of a mixed methods approach, to account for the diverse fields investigated. This included a literature review on architectural education in East Africa, tracing its origins from the 1950s, when technical and professional education was introduced to British tropical colonies across Africa to support post war economic development, while leaving behind pedagogical approaches that still predominate across the region. The literature review also provides an overview of sustainability within architectural education, acknowledging that curriculum adjustments could be triggers for pedagogical change. The main study made use of an ethnographic approach to review the programme, cognisant that the focus of the study was itself intertwined with the research. Methods used included document analysis, focus group discussions, one-on-one informal interactions and interviews with students, faculty and alumni. Observations in different settings across the school were also undertaken to appreciate the context of the programme. Investigations touched on the rationale for the changes, as well as the processes, outcomes and challenges experienced during the transitional process. Reflecting on the programme ten years after the changes were initiated, the paper also presents lessons learnt and gives recommendations that may be useful for schools of architecture seeking to engage with similar transitions.
+
+Formal architectural education in East Africa was first offered in 1958 at the Royal Technical College – Nairobi, in what was then British East Africa. The certificate programme was introduced as part of the post Second World War growth in technical and professional education across British tropical colonies, and geared to promoting colonial economic development on the back of the Colonial Development and Welfare Act of 1940 (Chang, 2016). The initial programme trained drafting technicians to act as assistants to fully qualified architects who had been educated in Europe. With prospects of independence, the programme was upgraded to a full-fledged professional degree, although with a curriculum that in the words of Smith (1999, p. 65), reproduced “[…] domesticated versions of [Western] knowledge for uncritical consumption”. Transposed largely unchanged from the metropolis, changes were made only after indigenous professionals, disgruntled with their own architectural education overseas, looked to engage a new generation of students with a more contextually relevant education, a drive that had led to the Tropical Architecture Conference held in London during 1953. The new professional programme remained largely unchanged until the early 1970s when ideological differences between the three original countries of the East African Community resulted in the disbanding of the University of East Africa[2]. From here on, ideology becoming a key element in post-secondary education, stifling burgeoning freedoms that had emerging during the early post-colonial period. This effectively stamped out non-conformity, and any new and unconventional ideas, contributing to a culture of self-censorship (Kithinji, 2012; Teferra and Altbachl, 2004) that would eventually impact on architectural education. The breakup of the University of East Africa led to the establishment of separate professional programmes – in Tanzania, where a Diploma in Architecture was started at the University of Dar-es-Salaam (now Ardhi University) in 1977 (upgraded to a full professional programme in 1996), while Makerere University, in Uganda launching its own programme in 1996. By 2017, there were 11 schools of architecture across East Africa: 4 each in Kenya and Uganda, 2 in Tanzania and 1 in Rwanda. Collectively, these schools admit close to 700 students annually, with intakes ranging from 30 in the independent schools, to more than 150 in some public schools – still a relatively small intake given a regional population of 180 million in 2016.
+
+Of importance in the development of architectural education in East and West Africa was the link to the architectural science discipline, with expatriate professionals stationed across the region seeking solutions to a climate regarded as a “pathological other” with respect to the “Metropolis” (Chang, 2016). Architectural science inevitably became a key part of those architectural programmes, geared to ensure maintenance of “comfort” for schools and offices, but largely for the expatriate population. Independence in the 1960s saw a decline of architectural science within architectural education, relegated to the periphery of programmes or abandoned altogether, a result of moves to decolonise education as part of postcolonial nationalist agenda. For Uganda, a military coup d’état in 1972 resulted in a flight of intellectuals, which served to freeze scientific discourse and knowledge in the early 1970s, further exacerbated by a prolonged civil war during the early 1980s. It was during the post-civil-war years (1980s and 1990s), that the first architecture programme in Uganda was launched; with environmental concerns taking a back seat to modernisation, with the ensuing development boom insulating architecture and architectural education from resource scarcity and sustainability discourse. Although traditional stand-alone architectural science modules – ventilation, natural lighting and the basics of thermal comfort – were covered, there was little evidence to indicate this knowledge was incorporated into students’ design projects. Further, little attention was given to material performance (save for structural adequacy), energy in buildings or users (considered subservient to the technology of architecture), surprising given intermittent water and energy supplies a result of crumbling and neglected infrastructure, along with growth in demand, making the need to rethink approaches to the nature of built environments plainly evident.
+
+Across much of sub-Saharan Africa, education is still viewed as didactic; transmission of proprietary knowledge and information from teacher to student, an approach that fails to acknowledge the needs of the knowledge era (Teferra and Altbachl, 2004). Within this teacher-centred approach, knowledge is presented as a series of universal truths and theories that are known, predictable and measurable and not open to critic or question. This view appears to be based on epistemological approaches that objectified knowledge, distancing it from the lived experiences of learners (Allmendinger, 2002; Magolda, 1992). The resulting positivist approach creating an education system disconnected from the lived experiences of society, a means to an end, instead of a valued outcome on its own. Within this approach, students take on disparate knowledge components to fulfil learning requirements, with little effort to enable them to understanding or apply this knowledge. It is, therefore, not surprising that literature on contemporary education in sub-Saharan Africa, such as Lumumba et al. (2000), Afoláyan (2007) and Dlamini (2008), give limited attention to the subject of sustainability. This lack of engagement with sustainability is overtly evident in the 2016 special issue of the International Journal of Sustainability in Higher Education, in which only two of the six articles were not related to South Africa. This could indicate a failure to confront fundamental assumptions of education, related to epistemological positions and the need to rethinking the relevance of knowledge, how it is produced and how it is validated (Aina, 2010). It could also suggest that the universal goal of higher education, “[…] the development of an informed, responsible citizenry and the preparation […] for a personally satisfying and socially useful career” (Keniston, 1960, p. 565), is not fully appreciated. Seeking to transform education would, thus, require breaking from traditional views of education, often perceived as the transmission of preconceived, and pre-packaged knowledge from the teacher as the “knower”, to the student as the “seeker” of this knowledge (Magolda, 1992). For architectural education, the lack of appropriate platforms through which gathered knowledge could be applied or tested further exacerbates the problem; with studio sessions often insulated from support courses. Transforming this state of affairs would, thus, require a substantial rethink of the nature of architectural education, which for Aina (2010, p. 33) “[…] implies practical and epistemological ruptures with previous ways of doing things and a reconstruction of structures, relations, cultures and institutions”. This becomes the cast-off point for the current exploration of sustainability in architectural education in East Africa.
+
+It is well established that there is a need to incorporate sustainability into architectural education. While ethics has been put forward as a compelling reason, another key motivator has been international validation, which has called for inclusion of sustainability in architectural curricula. However, there are indications that the approach to validation (criteria and procedures), may be a hindrance to the adoption of new topical issues such as sustainability or for changes to pedagogical approaches (Altomonte et al., 2014). In addition, Ostwald and Williams (2008) note that to cover the requirements for accreditation, architecture curricula over the years have become less diverse and less likely to be innovative in engaging with new issues. Nevertheless, validation still provides the impetus for the inclusion of sustainability in architectural education. For programmes in East Africa, the Commonwealth Association of Architects (CAA) is the international validating body, with the CAA “Green Book”, stating that validated programmes should ensure graduates have “[…] an adequate knowledge of the means of achieving environmentally sustainable design” (Commonwealth Association of Architects, 2008, p. 14). Recent validation reports taken from architecture schools across East Africa show the transformation to include sustainability in programmes is not happening fast enough:
+
+[…] little evidence of integration of technology, environmental design and sustainability in the design projects. (School A)
+
+[…] need for a greater level of integration of technology (environmental design, structures, construction and sustainability) in the studio design work. (School B)
+
+There are concerns regarding planning, sustainability issues, and the integration of building construction technology. (School D)
+
+While there are efforts to include sustainability within curricula, there is still a separation of sustainability issues from the design studio, which could be a failure to appreciate that “[…] studio integration is very relevant, as architects cannot completely realize their knowledge or technique unless it is realized within the project process” (Álvarez et al., 2016, p. 315). The lack of integration of sustainability into the design studio is widespread, with Salama (2007), investigating international paradigmatic trends in Arab schools of architecture, noting an alarming absence of the integration of knowledge in the design studio. A study of more than 60 architecture programmes across the world for their sustainability content by Altomonte (2010) revealed a trend towards integration of sustainability issues within the design studio, although sustainability taught in stand-alone courses was still predominant. In the context of East Africa, Olweny (2013a) revealed varying levels of engagement with sustainability in schools of architecture, but in only a few cases was it integrated into design studio courses.
+
+It is often said that the architecture design studio, where linkages between knowledge components are made and where “design happens”, is devoid of influence from support courses (Altomonte, 2009 and others). Further, within support courses, a hegemonic relationship generally persisted, with instructors as traditional intellectuals dispensing proprietary knowledge to students, the empty vessels in the educational chain. Sustainability in this context was not considered “valid knowledge”, having not been part of the instructors’ education, with students socialised into prevailing epistemological views, based on the “fit-for-practice” paradigm, a utilitarian ethic that seeks to ensure students fit into existing modes of architecture practice. Tierney (1997) questioned this approach, asking whether education should socialise students into a cultural ethos that may no longer be desirable, failing to enable engagement with the unknown future? Argyris and Schön (1974, p. 140) took this further, asking, “Whom does the profession serve?” or more pertinent for this paper, “Whom does architectural education serve?” Taking an analogy from the medical profession, would it be appropriate for a medical doctor to inform a patient that a disease could not be treated because it was not covered in the medical curriculum? Such questions were the catalyst for the change to problem-based learning in medical education (Schmidt, 1983; Stentoft, 2017), and an influence on change in architectural education as well. In the same vein, is it proper for architectural educators to neglect sustainability simply because it was not part of the traditionally architecture curriculum?
+
+The persistent view of architecture in its utilitarian ethic, which also viewed the environment as hostile to humans and therefore needing to be controlled and dominated in a “heroic mode” of development (Williamson et al., 2003), emerges as a hindrance to change in architectural education. This approach, which also regarded the environment as providing unlimited resources for human consumption, originates in the age of scientific rationality, which fostered the idea that the environment could be conquered through advances in technology (Khan et al., 2013). Sustainability in this context is a hindrance to development, and perceived in a negative light, as seen in the sentiments presented earlier: “sustainability is not for us here, but for developed countries” or “our concern is for development and this sustainability thing will drive up costs”. Within architectural education, arguments against the inclusion of sustainability, or of any new content for that matter, comes from those who maintain that the architectural curriculum is already crowded with elements which can’t be discarded, as these have traditionally been a part of the architectural curriculum (Boyer and Mitgang, 1996; Fisher, 2000). Less convincing are arguments that suggest that sustainability has no place in architectural education and should be dealt with separately from the core of the curriculum (read [D]esign), as cited in studies by Mulder et al. (2012), Paisey and Paisey (2000) and Taleghani et al. (2011). This leaves us to ponder two questions: “What is architecture?” and by extension, “What is the purpose of architectural education, its responsibility to students, the public and the environment?” With architectural education preparing students for future practice, neglecting emerging issues stands as a questionable strategy.
+
+In architectural education discourse, there is general consensus that the architecture studio holds vast potential as a model for the application and integration of learning (Boyer and Mitgang, 1996; Kuhn, 2001; Schön, 1985). This potential could be augmented through studio pedagogy and curricula built around sustainability, which would not only enhance student’s abilities in the application of knowledge, but also enable better engagement with core skills of the architectural profession (collaboration, communication and critical thinking). In seeking to integrate sustainability into architectural education, Wright (2003) puts forward three possible pedagogical approaches:
+
+sustainable design is fundamental to architecture and therefore should permeate all the curriculum;
+
+sustainable design develops out of existing courses on environmental control systems; and
+
+sustainability should be fully integrated into all courses, requiring a complete curriculum review.
+
+A decade after these were published, a review of architecture programmes in the USA by Iulo et al. (2013) identified four approaches in use to engage students with sustainability, two in line with Wright’s (2003) proposed approaches:
+
+as a core value in education and, thus, included in all courses;
+
+engaged through the technology domain, presented in environmental systems courses. The two additional approaches identified were;
+
+fulfilled through electives, with students making a choice for the sustainability-related courses they want to take; and
+
+it is specialist knowledge and occurs after graduation.
+
+The latter two indicate ongoing resistance to the incorporation of sustainability into architectural education. Gürel (2010) highlights the challenges associated with engaging with the complexities of sustainability in architecture and interior design education in Turkey, noting that students often resorted to adding high-tech solutions to designs in a belief that this was what sustainability and environmental design was all about – an outcome that reflects a common perception of sustainability in architectural education. Consequently, there is a need for greater attention to the way ideas of sustainability are introduced and incorporated into the curriculum, and to better address sustainability as a design generator.
+
+The opportunity to develop an architecture programme that addressed the issues highlighted emerged as an important point of departure for the architecture programme at Uganda Martyrs University. This was not only to address the absence of sustainability within the existing curriculum, but also to address epistemological and pedagogical challenges that influence the uptake of new content in architectural education. The discussion that follows examines the transformation of the programme to include sustainability, deliberating on the outcomes that emerged and the prospective lessons arising from this transformation. The transformation of the programme was driven by two objectives:
+
+to incorporate and integrate sustainability into the curriculum; and
+
+overhaul teaching and learning in the programme.
+
+The architecture programme, which had been inaugurated in 2000, comprised a three-year undergraduate programme – a Bachelor of Science [Building Design and Technology; BSc (BDT)], followed by a two-year graduate entry – Bachelor of Architecture (upgraded to a Master of Architecture in 2008). The BSc (BDT) programme had come up for its first full review in 2006, presenting an opportunity to reflect on the state of the programme and the needs of graduates into the future. This also presented as an opportunity to interrogate epistemological positions, pedagogical approaches, programme structures and knowledge content. Impetus for change had come from the fragmented nature of the BSc (BDT) programme, with 54 separately taught and assessed courses, with little effort to interlink these courses in design projects. Courses were taught in silos, which did not interrelate, although the original programme map did indicate superficial links between courses, as indicated in Figure 1. Further, all available timetable slots were filled with teaching activities, leaving students with little time for reflection and self-directed learning; going against a primary objective of architectural education, to “[…] enable students to develop the skills, strategies and attitudes needed for professional practice […] lay[ing] the foundation for continuous learning throughout life” (Nicol and Pilling, 2000, p. 1). Architecture, it seemed, was perceived primarily as a vocation that could be learnt through a systematic acquisition of knowledge but which did not aid the realisation of the broader social function of architecture (Argyris and Schön, 1974).
+
+Motivation to incorporate sustainability into the programme was tied to the rural environment in which the main campus of the university is located, one that suggested emphasis on the relationship between built and natural environments as a consequence of the immediate context of the school. However, it was not until the project Promoting Renewable Energy in Africa (PREA; Müller, 2008), was underway that the capacity to initiate the change was fully realised. The PREA project engaged staff in training and generated knowledge content as part of its key objective, to promoting environmentally conscious design in architectural education across sub-Saharan Africa. A review of the content of the BSc (BDT) had revealed that traditional building science content (thermal, visual and acoustic comfort etc.) had been included in the curriculum. However, issues such as alternative sources of energy and water, handling waste, considerations for environmentally conscious materials, embodied energy or even socially responsive design were not.
+
+To incorporate sustainability into the programme required acknowledging these challenges while engaging with the opportunities they presented. This in itself was difficult, given embedded aspirations that often dictate what people desire, not helped by negative association between sustainability and “low-tech” poor quality systems (Karakayaab and Sriwannawita, 2015). Therefore, to achieve change, there was a need for a review to the programme, undertaken as part of a series of planning workshops comprising all academic faculty (including sessional teaching staff), and student representatives, carried out over two two-day sessions. The workshops laid out issues to be addressed, including the pedagogical approach; relations between students and instructors; course offerings; desired outcomes (graduate attributes); and transformational learning approaches to better engage students in education and learning. Initial discussions related to values, the responsibility professionals have to future generations and the principles architecture as a profession purports to convey (Mazumdar, 1993). This had to go beyond professional propriety, which is often confused with an ethical position (Schneider and Till, 2009) while considering local developmental agenda and societal aspirations. A key point of reference was an old Kenyan adage that states: “Treat the earth well. It was not given to you by your parents, but was loaned to you by your children”. This succinctly encapsulates the values embedded in a sustainability-based approach and the role educators can take in nurturing prospective architects. It also suggests that at the core of architectural education is the engagement with values, the foregrounding of which enables individuals to acknowledge their ability to contribute to delivery of sustainable built environments.
+
+Discussions on the transformation of the programme oscillated between maintaining the status quo – merely adding new stand-alone courses – an ode to the independent silo-teaching approach, to more radical reforms that would lead to a complete rebuilding of the programme. The integrated approach emerged as the preferred model: a means to consolidation course content, while reducing the number of courses and contact hours. It was also evident that sustainability could scaffold the new curriculum, given the raison d’être of sustainability permeated different knowledge areas and a means to differentiate the programme from others across the region In part, this acknowledged calls for better connections both within the architectural curriculum, as well as with other disciplines (Boyer and Mitgang, 1996). The integrated model, presented by Radford (2005, p. 6) as one in which “[…] courses are holistic […] [and] course areas all lose their identity as separate topics”, emerged as the desired foundation for the revised programme. This would provide a means for students to engage with a “designerly way of thinking” (Donovan, 2018), through a problem-based programme, tied to the idea of “experiential learning” (Rodriguez, 2017). Instructors would contribute specialised knowledge for design projects within holistic design modules – the idea being to present architecture as a collaborative endeavour within the studio, as well as through external activities, such as, design-build projects, bringing non-architect into the studio and carrying out excursions to different communities. Engaging with these activities was in recognition of the need to immerse students in the core processes of architecture, appreciating that “collaboration is not, apparently, a strength of the architectural profession” (Parnell, 2003, p. 2) and, thus, needed to be made an overt part of the curriculum. Integrated problem-based-learning was seen as a means to tackle evident challenges within traditional architectural education, addressing the idea that “[s]tudents learn as much through the social culture and the type of teaching and learning in the school as they do by the content of the course” (Sara, 2004, p. 57).
+
+The new programme was radically different from that inaugurated in 2000, trimming course units from the original 54 to 30 and contact hours reduced from 40 in some semesters, to below 27 hours a week on average. This was achieved through consolidating knowledge streams, removing superfluous content, amalgamating courses and dispensing with “traditional” course designates (Portfolio XX; Theory and History of Architecture XX, Building Science XX, etc.), an intricate process demonstrated by the Sankey diagram presented in Figure 2.
+
+Courses adopted designations to better reflect intentions of the modules, and to contextualise subject matter. First-year courses were consolidated into three thematic areas: Design Fundamentals I & II (Design & Design Theory); Culture, Climate and Settlements I & II (History, Theory and Users) and; Natural and Built Environment Systems (Technology and Environment). At second- and third-year levels, two streams emerged: one overtly technical (Design and Construction Technologies II – V), juxtaposed against a design centred course stream. Design-centred courses at second and third year focussed on design for sustainability from four different points of view:
+
+Urban and Regional Planning and Design looked at the interdisciplinary nature of settlement planning and development;
+
+Buildings and the Environment deliberately situated building design as a confluence between the indoor and outdoor environment;
+
+Sustainable Built Environments delved into technical solutions including life-cycle energy, zero-net buildings and emerging technologies; and
+
+Architecture Design Project looked at community engagement as part of social sustainability.
+
+Technical courses explored sustainability with regard to cost, material performance and buildability. In all, this structure allowed for engagement with sustainability at different scales and depths. The revised programme structure also allowed for the addition of electives, to link research interests of academic staff with that of students and endowing students with elective choices often missing in architectural education across the region. The changes overall were deemed so significant, a new designation was needed; thus, the Bachelor of Environmental Design (BEnviDes) emerged, reflecting the renewed focus of the programme, and an opportunity to recast architectural education in East Africa.
+
+A decade after the BEnviDes Programme was launched, a review of the programme was carried out, reflecting on the transformation and its outcomes. The radically ambitious agenda had included changes to the ethos, educational approach and the way instructors interacted with students. The move to an integrated problem-based learning approach was regarded as a giant leap into the unknown, and one that should not have been made, given the fledgling school was still finding its way. The counter view was that changes were not only necessary, but were inevitable, given the broader purpose of architectural education, which went beyond just meeting the needs of current practice. It did imply dealing with the multidimensional nature of the architecture studio at the heart of architectural pedagogy, acknowledging the possibilities this could produce, while being able to help students navigate the maelstrom of options produced by an integrated approach. This did contradict perceptions of learning derived pre-university education, which presented knowledge, and by extension education, as a “proprietary commodity; held in the hands of teachers who reluctantly passed it on to students” (Olweny, 2015, p. 25). Such issues were made overt after the changes and form a key point of reference for this reflective analysis of the programme, including learning and teaching, knowledge content and outcomes. These could be grouped into three categories: internal to the programme, including students and instructors; external, including external communities such as graduates and the public; and unforeseen consequences as the result of the changes.
+
+A review of the new programme revealed a largely positive impact on teaching and learning, although there were some cases where there were challenges. For instructors, this meant being open to different solutions, while seeking to ensure students articulated their design process to justify and support propositions. This was equally challenging for instructors, with many taking on studio tutoring for the first time; having to relate theoretical content to design explorations. It became apparent to them that merely providing students with knowledge content was not a guarantee they would be able to apply it to design situations. This revelation enabled instructors to rethink their approach to knowledge formulation and dissemination within integrated studio courses, although being able to deliver this when most appropriate during the studio remains a challenge. Engagement with knowledge content within the studio has been difficult for students whose approach to learning was often based on surface learning techniques or what Orr and Gao (2011) termed “quantitative change”, an approach geared to passing exams, but not really conducive to learning. To be effective in integrated problem-based learning, a deep learning approach is desirable, encouraged through emphasis on soft skills and helping students learn-how-to-learn as a key element in the transformed programme. It also acknowledged that academic performance is a key motivator for student engagement in learning activities (Goodman et al., 2011), with many students initially experiencing a drop in their Grade Point Average (GPA), thus having an impact on students’ self-esteem (Li et al., 2018). This led to a change in assessment criteria used, and how grading was carried out, in order to match the anticipated outcomes of the new pedagogical approach.
+
+For instructors, the increased time needed for preparation of courses, and marking assignments required significant adjustment, with a few finding this too big a challenge, eventually leaving the faculty. Within the studio, changes were dramatic, with instructors responsible for “support courses” venturing into the studio for the first time, an revealing experience for these new tutors. The changes helped students better appreciate the complexity of architectural endeavours, aided by having inputs from different disciplines as part of the design process. With a broader engagement of instructors, it was possible to increase the complexity of projects tackled in integrated design studio courses, with the 2017 iteration of the second-year studio course Buildings and the Environment providing an opportunity to design a holiday resort on an island in the Maldives. Within this studio, students explored the opportunities and constraints of sustainability presented by the obvious limitations of designing for a remote island. The studio was undertaken as a vertical studio, working with Master of Architecture students who acted as project-managers and were engaged as tutors for the second-year studio. The masters’ students were in charge of overall site design, while second-year students took on the design of individual accommodation units within the larger master plan. Taking on a project outside students’ “known” world and immediate environmental context, challenged them to look beyond often taken for granted issues, resulting in explorations that would otherwise have been difficult for them to imagine. In this case, acknowledging Maldivian craft traditions as a source of inspiration, and engaging with cultural nuances as a basis for environmental solutions. Crucially, projects of this nature allow engagement with the three pillars of sustainability, economic, social and environmental, and exposure to core skills of architecture, collaboration, critical thinking and communication. The critical encounters provided by the vertical studio provided peer support for students, a key step in enabling peer review (Nicol and Pilling, 2000), while helping break down traditional power relationships within the studio (Strickfaden and Heylighen, 2010). Two proposals derived from this studio received recognition in the 2017 East African Association of Architects’ Student Competition.
+
+Seeking to gain an appreciation of how students received the new programme, a review of Student Evaluations of Teaching and Learning (SELTs) gathered from three studio cycles between 2014 to 2016 was undertaken. These provide an indication of students’ views of the integrated approach, with responses to the following questions:
+
+Overall, what is your opinion of this course?
+
+The course could be changed in the following ways to improve my learning.
+
+What did you learn from exercises and discussions in class?
+
+The SELTs had been submitted anonymously via Survey Monkey, and revealed three response categories: Integration, Sustainability and Nature of Teaching Practice, as seen below.
+
+Integration:
+
+The study of the construction and structure of a building. It enabled me further understand the relevance of Design Construction and Technologies.
+
+How to approach different design issues outside of the “norm”.
+
+It’s tough but gives you a much broader understanding of architecture.
+
+Sustainability:
+
+[…] making theory (ESD, draft policies, economic feasibility) part of the design process it helped me clarify design interventions.
+
+[…] the hard lessons it teaches because it is a general lesson for life not just class. Work is required if dreams are to be achieved!
+
+I have learnt that sustainability is much more complex and requires a consideration of many issues for a solution to accepted. I have learnt that as much as there are so many sustainability solutions available, it takes a lot of thought for them to be relevant in a certain project.
+
+Nature of Teaching Practice:
+
+I learnt that sharing ideas is a source of creative input and helps students move faster.
+
+[…] architecture is all about group work.
+
+[…] the importance of working as a team and the key importance of doing progress work.
+
+These and other similar responses suggest students did appreciate the changes, although certainly not unanimously. Some students indicating that the approach did make the design process more difficult, compelling them to think about the different components together from the beginning. For others, having different instructors in the studio proved confusing, as they often received “contradictory” advice, with the different instructors approaching the design challenge from different points of view:
+
+Interesting but very complex. too many issues to deal with yet limited time.
+
+The lectures were very engaging but the studio sessions did not match up to expectation.
+
+The instructors ought to have a strong clue on the project details before the semester begins. This will help a lot in the designing and giving of feedback to the students.
+
+The move to an integrated problem-based-learning approach did reveal some unexpected concerns, including a lack of well-documented and published regional examples to aid teaching and learning; instructors not fully equipped to engage with the varied outcomes emerging from the integrated studio process; and having a limited number of instructors with experience to deliver within an integrated approach. These obstacles were certainly not unique to East Africa, with Stentoft (2017) indicating that a problem-based approach required going beyond competencies in knowledge, requiring instructors to redefining teaching approaches, for example, how research was taught. Perceived as a core skill, research methods and techniques, which covered five broad areas: interpretative/critical evaluation; documentation/communication; data collection; experimentation/simulation; and information literacy, as derived from Groat and Wang (2002), were embedded within course units across the programme (Olweny, 2013b). For instructors, research engagements became important to generate contextual knowledge, acknowledging that a goal of architectural education is to induce “qualitative change” (Orr and Gao, 2011). Collaborative research projects, such as the Joint development of courses for energy efficient and sustainable housing in Africa (JENGA) and Energy and low income tropical housing (ELITH), provided not only knowledge content but also, through live projects and taking cues from landscape architecture education, helped build informational databases for subsequent cohorts (See Cliffin, 2011). This “ignorance based approach” (Williamson, 1997) also served to build interest in research, enabling discovery through inquisitiveness and inquiry based learning; important in overcoming a key stumbling block for universities in Africa, in which:
+
+[…] many universities and knowledge-producing systems are happy with the way things are. They are not troubled that African universities operate at the fourth and fifth tiers of global knowledge production. They have no objections to African universities’ remaining as the waiting rooms of one of the world’s greatest social laboratories (Aina, 2010, p. 36).
+
+The pace and nature of any such transformation is constrained by the prospect of epistemological change, more so where historical ideas are at the core of educational endeavours as noted by Schraw and Olafson (2002). Further, it is important to acknowledge that “societal, and thus spatial, constructs [are] emerging with such rapidity that we are (sic) can no longer educate for a fixity; instead we must educate for moving targets” (Till, 2005, p. 170). Nevertheless, while this was recognised as part of the transformation to the BEnviDes Programme, addressing epistemological change of faculty has not been adequately evaluated and, thus, cannot be suitably addressed in this paper.
+
+Looking beyond the programme, graduate destinations and activities form an important avenue for evaluating the transformation. However, given the initial cohorts have only just began taking on responsibility for design work in their own right as registered architects, their influence on architectural endeavours is still limited. Regardless, a number of graduates report being actively engaged with sustainability approaches in their design work, others report exploring use of alternative materials in design and construction, while several have taken on sustainability related positions in regional and international organisations. Although no formal survey of employers and graduates has been undertaken, informal feedback attained as part of the validation process, attests to the value the integrated programme has on how students engage with design tasks. Many students in the Masters Programme have gained employment well before completing their final semester, suggesting a pent-up demand for graduates with a holistic approach to design. A welcome, but somewhat unexpected outcome has been an increase in female students seeking and gaining entry to the programme, with the intake surpassing the 50 per cent threshold in 2016, attributable to changes to the programme: the emphasis on environmental issues striking a chord with prospective students eager to engage with social and environmental issues, and finding the BEnviDes one of the few programmes in the region to offer this opportunity. This suggests the programme is growing new values in the community, which, in turn, has begun spurning greater interests in the programme, highlighting how educational approaches can help decolonise educational outcomes as noted by Shay (2015). Particularly poignant is how this breaks away from male hegemony and gender stereotyping related to technology and science related professions in Uganda. Rather than adopting more direct affirmative action schemes, such as the “1.5 Points Scheme”, an attempt to increase female student numbers in public universities during the 1990s, but having limited impact on enrolment in science-based courses (Kwesiga and Ahikire, 2006), the student selection approach adopted for the BEnviDes Programme took a different approach. The idea was to avoid the challenges presented by the 1.5 Points Scheme, which according to Mirembe and Davies (2001), served to confirm male superiority while undermining the self-esteem of young women accepted into programmes based on lower intake scores. Selection of students, thus, looked beyond the high-school scores and included interviews, observational and reflective writing exercises.
+
+Returning to international validation, an important milestone for the programmes was its 2011 validation by the Commonwealth Association of Architects (CAA) at its first application (It comes up for its second validation visit in 2018). Of sustainability, the validation report noted: “Student work and presentations displayed a good understanding of sustainable design principles and the relationship between people and the built environment […]” (Commonwealth Association of Architects, 2011). Regardless of this achievement, the programme did receive considerable backlash from regulators, surprising given that the programme had been developed based on an existing and approved outline curriculum – the USA Architecture Education Policy (Uganda Society of Architects, 2006). Assertions included claims it was not a true architecture programme as the 3 + 2 structure did not match previously established programmes (a five-year single degree programme). Further, the reduced contact hours were deemed inappropriate, as this left students idle, therefore recommending all timetabled slots be used up to keep students “fully occupied”, negating a key element in architectural education, the need to enable personal growth and reflective thinking. Interestingly, some students also regarded the changes with scepticism, viewing the reduced hours as “cutting out important knowledge content”, thus short-changing them. There was also a general misunderstanding of the intentions of the BEnviDes, which, as a non-professional programme, provided a holistic understanding of design of built environments but was not geared to graduating professional architects; neither did it claim to enable the production of rich architectural outputs achieved after a five-year architecture professional programme. Such misconceptions, unfortunately, reflect the closed nature of architectural education, described by Till (2005, p. 167) as a prison yard, with “[…] an outer fence policed by the values of the profession and an inner fence policed by the authority of the school”. Here, preconceived ideas of what constitutes architectural education dictated the way regulators viewed the programme, affecting the evolution of the BEnviDes. Unfortunately, such challenges add weight to the notion that architects are indeed a lagging indicator of sustainability and supports the view of CAA President (1989-1991), Wale Odeleye (1991), who asserted that these problems only emerge as architects themselves fail to change with the times.
+
+This paper has presented reflections on the integration of sustainability into an architecture programme in East Africa. The proposed transformation had been viewed by many as an impossible mission given modifications to programmes rarely happened in Uganda. The ability to effect change, ground breaking in itself, was only possible through having an administrative regime open, and willing to support an alternative educational approach. Further, the faculty was fortunate to be in a situation where educational approaches and canons were not yet entrenched, which would have made change somewhat impossible or difficult at best, something which hinders change in universities across sub-Saharan Africa (Auerbach, 2017). The new programme stands as testament to the desire for change, in this case, to incorporate aspects of sustainability – social, economic and environmental – into architectural education. This was achieved through a layering of knowledge components within specific courses, and having these intertwined with processes that enable a reflective approach to design (See Figure 3). The approach that emerged providing an opportunity for innovation within the curriculum, through exploration of architecture as a confluence of the humanities, social sciences and natural sciences, ensuring “[…] a holistic education for sustainable development” (Naituli and Kronlid, 2014, p. 9). The choice of an integrated problem-based-learning approach in this case, based on specific philosophical and epistemological ideals unique and specific to the faculty, recognising that “more of the same kind of education will only compound our problems” (Orr, 2004, p. 8).
+
+Reflecting on globe trends, there is an increasing drive to better integrate knowledge elements into the design studio, indicating that the move to transform the BSc(BDT) into the BEnviDes had been both timely and appropriate. Indeed, a study by Becerik-Gerber et al. (2011) in the USA, suggested that of 101 accredited built environment programmes they studied (including architecture, architectural engineering, civil engineering, civil engineering technology, architectural engineering technology, construction engineering, construction engineering technology and construction management), 90 claimed sustainability had been integrated within the programmes. It is worth noting that the 101 responses received represented less than a quarter of the 488 schools across the USA, a possible indication that only schools interested in promoting their progressive credentials may have responded to the study call. More recent studies – by Rieh et al. (2017), who reviewed all 48 schools of architecture in South Korea, and Álvarez et al. (2016), who studied 20 “influential” schools of architecture across Asia – revealed varying approaches to the inclusion of sustainability in architectural education, although a low level of integration in the architecture studio was reported. According to Hassanpour et al. (2017), the challenge in such transitions is not about the lack of appreciation of the need for sustainability, but operational or procedural obstacles. The experiences of this transition for the BEnviDes, thus, present useful insights and lessons for schools seeking to integrate sustainability into their curricula. The following are suggestions, which could be helpful in this regard:
+
+Embracing sustainability as a core component of the architecture design studio can help students build links between design components that would otherwise not be evident.
+
+As sustainability is more than knowledge content, teaching approaches may need to be revised, moving from merely developing competence in knowledge to developing competences that help build links between knowledge components.
+
+Although not explicitly stated in this paper, the need to include students in the transitional process is extremely important and part of social sustainability. This goes beyond merely including students in curriculum discussions, but ensuring they have an appreciation of the dynamic nature of architecture and architectural education.
+
+Instead of large radical changes, it would be useful if this process were linked to regular curriculum reviews, placing sustainability as part of ongoing discourse related to knowledge and pedagogical developments in architectural education.
+
+Appreciating that learning by example is an important part of architectural education, collaboration between academic faculties within the studio is an appropriate way to encourage students to engage with teamwork and collaboration, which are important for the architecture profession.
+
+Linked to the idea of learning by example is the need to embrace new teaching approaches, moving from teachers as transmitters of knowledge, to teachers as facilitators of learning, in support of a multifaceted engagement with sustainability.
+
+Teachers and students must be open to change and transformation in their epistemological position as part of the transition to engage with sustainability in architectural education.
+
+Professional and regulatory bodies should be part of the transition process from the start, more so as validation bodies and client groups increasingly seek engagement with sustainability.
+
+Finally, there is a need to engage instructors with developments in educational pedagogy and andragogy as part of their continuous professional development to ensure their on-going growth as facilitators of learning.
+
+Moving forward, the transition to a sustainability-based BEnviDes curriculum preceded a university-wide initiative to encourage other academic units to do the same. Falling into the mould of sustainability centres, as presented by Soini et al. (2018), the new Department of Education for Sustainable Development and Community Engagement inaugurated in 2016 has the task of promoting the adoption of sustainability into more educational programmes. While this initiative indicates progress in the incorporation of sustainability into programmes at the Uganda Martyrs University, there is still a way to go before this is the norm across universities in Uganda, or sub-Saharan Africa. For architectural education, the fact that a decade after the inauguration of the changes to the BEnviDes Programme, and after the end of the United Nations Decade of Education for Sustainable Development (2005-2014), no other architecture programme across East Africa has taken on a transition to include sustainability as part of its programme is telling. There is, however, some hope, coming with the signing of the Machakos Declaration for Sustainability in Architectural Education (UN-Habitat, 2016), as part of the Energy Efficiency in Buildings in East Africa (EEBEA) project, and geared to encourage architecture schools to take action.
+
+For the faculty of the Built Environment, the past decade has provided valuable lessons crucial for transformational education, and contributing to the broader process of decolonisation of higher education across sub-Saharan Africa, and making it contextually relevant, as called for by Shay (2015). This also acknowledges that design students cannot continue to learn out-dated methods and techniques in the quest to engage with future challenges (Ozkaynak and Ust, 2012). The changes could, thus, be viewed as future-proofing the profession, equipping young professionals with the values and tools to enable them to operate effectively in the face of an unknown future. The choice of a fully integrated approach was geared to the particular context of Uganda and is, by no means, the only approach; neither are there readymade solutions to incorporate sustainability into architectural education. Regardless of the approach taken, this discussion most begins with our desires for the future generations and the goals and objectives of the programme, which will determine the most appropriate approach and the level of engagement at the different year levels – the common goal being to help student appreciate the nature of sustainability as a key part of the architecture profession.
+
+Initial BSc (BDT) Programme map – 2000 (faculty of the built environment)
+
+Sankey diagram – transformation from BSc (BDT) to BEnviDes (author)
+
+Integrated course – Sustainable Built Environments (BEnviDes – Year 3)
+
+East Africa is a geopolitical entity that originally comprises three countries: Kenya, Tanzania and Uganda. Burundi and Rwanda joined the block in 2009, with South Sudan joining in 2016.
+
+The University of East Africa incorporated Makerere University College, Uganda; University College Dar-es-Salaam, Tanzania; and Nairobi University College, Kenya.
+
+Afoláyan, M.O. (Ed.) (2007), Higher Education in Postcolonial Africa: Paradigms of Development, Decline and Dilemmas, Africa World Press, Trenton, NJ.
+
+Aina, T.A. (2010), “Beyond reforms: the politics of higher education transformation in Africa”, African Studies Review, Vol. 53 No. 1, pp. 21-40, doi: 10.1353/arw.0.0290.
+
+Allmendinger, P. (2002), Planning Theory, Palgrave, New York, NY.
+
+Altomonte, S. (2009), “Environmental education for sustainable architecture”, Review of European Studies, Vol. 1 No. 2, pp. 12-21, doi: 10.5539/res.v1n2p12.
+
+Altomonte, S. (Ed.) (2010), State of the Art of Environmental Sustainability in Academic Curricula and Conditions for Registration, Environmental Design in University Curricula and Architectural Training in Europe (EDUCATE), Nottingham.
+
+Altomonte, S., Rutherford, P. and Wilson, R. (2014), “Mapping the way forward: Education for sustainability in architecture and urban design”, Corporate Social Responsibility and Environmental Management, Vol. 21 No. 3, pp. 143-154, doi: 10.1002/csr.1311.
+
+Álvarez, S.P., Lee, K., Park, J. and Rieh, S.-Y. (2016), “A comparative study on sustainability in architectural education in Asia: with a focus on professional degree curricula”, Sustainability, Vol. 8 No. 3, pp. 290-324, doi: 10.3390/su8030290.
+
+Argyris, C. and Schön, D.A. (1974), Theory in Practice: Increasing Professional Effectiveness, Jossey-Bass Publishers, San Francisco.
+
+Association of African Universities (2011), “The promotion of sustainable development by higher education institutions in Sub-Saharan Africa: survey report”, Global University Network for Innovation ((GUNi), International Association of Universities (IAU), Association of African Universities (AAU), Accra.
+
+Auerbach, J. (2017), “What a new university in Africa is doing to decolonise social sciences”, available at: http://theconversation.com/what-a-new-university-in-africa-is-doing-to-decolonise-social-sciences-77181 (accessed 9 September 2017).
+
+Becerik-Gerber, B., Gerber, D.J. and Ku, K. (2011), “The pace of technological innovation in architecture, engineering, and construction education: integrating recent trends into the curricula”, Journal of Information Technology in Construction, Vol. 16, pp. 411-432.
+
+Boyer, E.L. and Mitgang, L.D. (1996), Building Community: A New Future for Architectural Education and Practice, The Carnegie Foundation for the Advancement of Teaching, Princeton, NJ.
+
+Chang, J.H. (2016), A Genealogy of Tropical Architecture: Colonial Networks, Nature and Technoscience, Routledge, London.
+
+Cliffin, P. (2011), “Online plant databases for design”, EDULEARN 11; 3rd Annual International Conference on Education and New Learning Technologies, Barcelona, pp. 1491-1500.
+
+Commonwealth Association of Architects (2008), Qualifications in Architecture Recommended for Recognition by CAA: Procedures and Criteria, Commonwealth Association of Architects (CAA), London.
+
+Commonwealth Association of Architects (2011), “Visiting board report for the: Bachelor of environmental design degree and master of architecture (professional) degree”, Commonwealth Association of Architects (CAA), London.
+
+Dlamini, S.N. (Ed.) (2008), New Directions in African Education: Challenges and Possibilities, University of Calgary Press, Calgary.
+
+Donovan, E. (2018), “Sustainable architecture theory in education: how architecture students engage and process knowledge of sustainable architecture”, in Filho, W.L. (Ed.), Implementing Sustainability in the Curriculum of Universities: Approaches, Methods and Projects, Springer, Cham, pp. 31-47.
+
+Fisher, S. (2000), “Architectural aesthetics in the analytic tradition: a new curriculum”, Journal of Architectural Education, Vol. 54 No. 1, pp. 35-44, doi: 10.1162/104648800564716.
+
+Fox, W. (Ed.) (2000), Ethics and the Built Environment, Routledge, London.
+
+Fox, W. (2009), “Ethics, architecture, responsive cohesion, and the transition to a more habitable future”, in Fox, W. and Radford, A. (Eds ) Ethics and the Built Environment, The University of Nottingham, Nottingham, pp. 107-123.
+
+Goodman, S., Jaffer, T., Keresztesi, M., Mamdani, F., Mokgatle, D., Musariri, M., Pires, J. and Schlechter, A. (2011), “An investigation of the relationship between students’ motivation and academic performance as mediated by effort”, South African Journal of Psychology, Vol. 41 No. 3, pp. 373-385.
+
+Groat, L. and Wang, D. (2002), Architectural Research Methods, John Wiley & Sons, New York.
+
+Gürel, M.O. (2010), “Explorations in teaching sustainable design: a studio experience in interior design/architecture”, International Journal of Art & Design Education, Vol. 29 No. 2, pp. 184-199, doi: 10.1111/j.1476-8070.2010.01649.x.
+
+Hassanpour, B., Atun, R.A. and Ghaderi, S. (2017), “From words to action: Incorporation of sustainability in architectural education”, Sustainability, Vol. 9 No. 10, doi: 10.3390/su9101790.
+
+Iulo, L.D., Gorby, C., Poerschke, U., Kalisperis, L.N. and Woollen, M. (2013), “Environmentally conscious design – educating future architects”, International Journal of Sustainability in Higher Education, Vol. 14 No. 4, pp. 434-448, doi: 10.1108/IJSHE-09-2011-0065.
+
+Karakayaab, E. and Sriwannawita, P. (2015), “Barriers to the adoption of photovoltaic systems: the state of the art”, Renewable and Sustainable Energy Reviews, Vol. 49 (September), pp. 60-66, doi: 10.1016/j.rser.2015.04.058.
+
+Keniston, H. (1960), “The goals of higher education”, Proceedings of the American Philosophical Society, Vol. 104 No. 6, pp. 565-569.
+
+Khan, A.Z., Vandevyvere, H. and Allacker, K. (2013), “Design for the ecological age: Rethinking the role of sustainability in architectural education”, Journal of Architectural Education, Vol. 67 No. 2, pp. 175-185, doi: 10.1080/10464883.2013.817155.
+
+Kithinji, M.M. (2012), “An imperial enterprise: the making and breaking of the University of East Africa, 1949-1969”, Canadian Journal of African Studies/Revue Canadienne Des Études Africaines, Vol. 46 No. 2, pp. 195-214, doi: 10.1080/00083968.2012.702084.
+
+Kuhn, S. (2001), “Learning from the architecture studio: implications for project-based pedagogy”, International Journal of Engineering Education, Vol. 17 Nos 4/5, pp. 349-352.
+
+Kwesiga, J.C. and Ahikire, J. (2006), “On student access and equity in a reforming university: Makerere in the 1990s and beyond”, Journal of Higher Education in Africa/Revue De L’enseignement Supérieur En Afrique, Vol. 4 No. No. 2, pp. 1-46.
+
+Li, J., Han, X., Wang, W., Sun, G. and Cheng, Z. (2018), “How social support influences university students’ academic achievement and emotional exhaustion: the mediating role of self-esteem”, Learning and Individual Differences, Vol. 61, pp. 120-126, doi: 10.1016/j.lindif.2017.11.016.
+
+Lumumba, N.D.A., Higgs, P., Mda, T. and Vakalisa, N. (2000), African Voices in Education, Juta and Company, Lansdowne.
+
+Magolda, M.B.B. (1992), “Students’ epistemologies and academic experiences: Implications for pedagogy”, The Review of Higher Education, Vol. 15 No. 3, pp. 265-287, doi: 10.1353/rhe.1992.0013.
+
+Mazumdar, S. (1993), “Cultural values in architectural education: an example from India”, Journal of Architectural Education, Vol. 46 No. 4, pp. 230-238, doi: 10.1080/10464883.1993.10734562.
+
+Mirembe, R. and Davies, L. (2001), “Is schooling a risk? Gender, power relations, and school culture in Uganda”, Gender and Education, Vol. 13 No. 4, pp. 401-416, doi: 10.1080/09540250120081751.
+
+Mulder, K.F., Segalàs, J. and Ferrer-Balas, D. (2012), “How to educate engineers for/in sustainable development: ten years of discussion, remaining challenges”, International Journal of Sustainability in Higher Education, Vol. 13 No. 3, pp. 211-218, doi: 10.1108/14676371211242535.
+
+Müller, H. (2008), “Promoting renewable energy in Africa (PREA)”, available at: https://ec.europa.eu/energy/intelligent/projects/en/projects/prea (accessed 5 September 2017).
+
+Naituli, G. and Kronlid, D.O. (2014), “Rethinking university education in Kenya: the case for ESD in higher education”, Association of African Universities Conference, Association of African Universities (AAU), Abuja, pp. 1-14.
+
+Nicol, D. and Pilling, S. (2000), “Architectural education and the profession”, in Nicol, D. and Pilling, S. (Eds), Changing Architectural Education: Towards a New Professionalism, E & F N Spon, London, pp. 1-26.
+
+Odeleye, W. (1991), “Address by CAA President”, Nigerian Institute of Architects Journal, No. April-June, pp. 5-6.
+
+Olweny, M.R.O. (2013a), “Environmental sustainable design and energy efficiency in architecture education in East Africa”, Commonwealth Association of Architects (CAA) Conference, Dhaka.
+
+Olweny, M.R.O. (2013b), “Research and the future of architecture education in East Africa”, Architectural Research Centers Consortium (ARCC) Conference, University of North Carolina, Charlotte, NC.
+
+Olweny, M.R.O. (2015), “Investigating the processes of socialization in architectural education; through experiences in East Africa”, Welsh School of Architecture, Cardiff University, Cardiff.
+
+Orr, D.W. (2004), Earth in Mind: On Education, Environment, and the Human Prospect, Island Press, Washington, DC.
+
+Orr, K. and Gao, Y. (2011), “Becoming an architect: the role of work-based learning in architect training”, 7th International Conference on Researching Work and Learning, East China Normal University, Shanghai.
+
+Ostwald, M.J. and Williams, A. (2008), Understanding Architectural Education in Australasia. Volume 1: An Analysis of Architecture Schools, Programs, Academics and Students, Australian Learning and Teaching Council, Sydney.
+
+Ozkaynak, M.G. and Ust, S. (2012), “New forms of design education”, Procedia - Social and Behavioral Sciences, Vol. 51, pp. 140-143, doi: 10.1016/j.sbspro.2012.08.133.
+
+Paisey, C. and Paisey, N.J. (2000), A Comparative Study of Undergraduate and Professional Education in the Professions of Accountancy, Medicine, Law and Architecture, The Institute of Chartered Accountants of Scotland, Edinburgh.
+
+Parnell, R. (2003), “Knowledge, skills and arrogance: educating for collaborative practice”, in Harder, E. (Ed.), Writings in Architectural Education, European Association for Architectural Education (EAAE), Copenhagen.
+
+Radford, A. (2005), “Kingdoms, streams and stars: organising the architectural curriculum”, in Holt-Damant, K. and Sanders, P. (Eds), Drawing Together: Convergent Practices in Architectural Education. Third International Conference of the Association of Architectural Schools of Australasia, University of Queensland and Queensland University of Technology, Brisbane.
+
+Rieh, S.-Y., Lee, B.-Y., Oh, J.-G., Schuetze, T., Álvarez, S.P., Lee, K. and Park, J. (2017), “Integration of sustainability into architectural education at accredited Korean universities”, Sustainability, Vol. 9 No. 7, doi: 10.3390/su9071121.
+
+Rodriguez, C.M. (2017), “A method for experiential learning and significant learning in architectural education via live projects”, Arts & Humanities in Higher Education, Vol. 17 No. 3, May, pp. 1-26, doi: 10.1177/1474022217711878.
+
+Salama, A.M. (2007), “An exploratory investigation into the impact of international paradigmatic trends on Arab architectural education”, Global Built Environment Review GBER, Vol. 6 No. 1, pp. 31-43.
+
+Sara, R. (2004), Between Studio and Street: The Role of the Live Project in Architectural Education, School of Architecture, University of Sheffield, Sheffield, p. 315.
+
+Schmidt, H.G. (1983), “Problem‐based learning: rationale and description”, Medical Education, Vol. 17 No. 1, pp. 11-16, doi: 10.1111/j.1365-2923.1983.tb01086.x.
+
+Schneider, T. and Till, J. (2009), “Beyond discourse: notes on spatial agency”, Footprint: Delft School of Design Journal, Vol. 4, pp. 97-111.
+
+Schön, D.A. (1985), The Design Studio: An Exploration of Its Traditions and Potentials, RIBA Publications, London.
+
+Schraw, G. and Olafson, L. (2002), “Teachers’ epistemological world views and educational practices”, Issues in Education, Vol. 8 No. 2, p. 99.
+
+Shay, S. (2015), “Decolonise more than just curriculum content – change the structure, too”, available at: http://theconversation.com/decolonise-more-than-just-curriculum-content-change-the-structure-too-44480 (accessed 9 September 2017).
+
+Smith, L.T. (1999), Decolonizing Methodologies: Research and Indigenous Peoples, Zed Books, London.
+
+Soini, K., Jurgilevich, A., Pietikäinen, J. and Korhonen-Kurki, K. (2018), “Universities responding to the call for sustainability: a typology of sustainability centres”, Journal of Cleaner Production, Vol. 170 No. 1, pp. 1423-1432, doi: 10.1016/j.jclepro.2017.08.228.
+
+Stentoft, D. (2017), “From saying to doing interdisciplinary learning: is problem-based learning the answer?”, Active Learning in Higher Education, Vol. 18 No. 1, pp. 51-61, doi: 10.1177/1469787417693510.
+
+Strickfaden, M. and Heylighen, A. (2010), “Cultural Capital: a thesaurus for teaching design”, International Journal of Art & Design Education, Vol. 29 No. 2, pp. 121-133, doi: 10.1111/j.1476-8070.2010.01653.x.
+
+Taleghani, M., Ansari, H.R. and Jennings, P. (2011), “Sustainability in architectural education: a comparison of iran and Australia”, Renewable Energy, Vol. 36 No. 7, pp. 2021-2025, doi: 10.1016/j.renene.2010.11.024.
+
+Teferra, D. and Altbachl, P.G. (2004), “African higher education: challenges for the 21st century”, Higher Education, Vol. 47 No. 1, pp. 21-50, doi: 10.1023/B:HIGH.0000009822.49980.30.
+
+Tierney, W.G. (1997), “Organizational socialization in higher education”, The Journal of Higher Education, Vol. 68 No. 1, pp. 1-16, doi: 10.1080/00221546.1997.11778975.
+
+Till, J. (2005), “Lost judgement”, in Harder, E. (Ed.) Writings in Architecture Education: EAAE Prize 2003-2005, European Association for Architectural Education (EAAE), Copenhagen, pp. 164-181.
+
+Uganda Society of Architects (2006), USA Architecture Education Policy, Uganda Society of Architects, Kampala.
+
+UN-Habitat (2016), ‘Machakos Declaration for Sustainability in Architectural Education’, UN-Habitat, Nairobi.
+
+United Nations Conference on Environment and Development (1992), “Agenda 21, Rio Declaration on Environment and Development”, United Nations, New York, NY.
+
+Whitaker, B. (2006), “Architects are lagging indicators for sustainable design”, available at: www.nytimes.com/2006/05/17/business/businessspecial2/17build.html?pagewanted=1&_r=2# (accessed 12 September 2017).
+
+Williamson, T.J. (1997), “Concept(s) of the energy-efficient house in the temperate regions of Australia: a critical review”, Department of Architecture, The University of Adelaide, Adelaide.
+
+Williamson, T., Radford, A. and Bennetts, H. (2003), Understanding Sustainable Architecture, Taylor and Francis, London.
+
+Wright, J. (2003), “Introducing sustainability into the architecture curriculum in the United States”, International Journal of Sustainability in Higher Education, Vol. 4 No. 2, pp. 100-105, doi: 10.1108/14676370310467131.
+
+Mark Olweny is currently an Associate Professor in architecture and the Associate Dean of the Faculty of the Built Environment at Uganda Martyrs University. He is a Professional Architect and Urban Designer, and holds a PhD from Cardiff University, Wales, having undertaken research in architectural education, with an interest in socialisation. His research interests centre on architectural educational and cultural environmentalism.
+
+Introducing sustainability into an architectural curriculum in East Africa
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Architectural education in East Africa
+
+Sustainability in architectural education
+
+Building a new curriculum
+
+Outcomes and reflections
+
+Conclusions
+
+Figures
+
+Notes
+
+References
+
+Corresponding author
+
+About the author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+International Journal of Sustainability in Higher Education
+
+Volume 19 Issue 6
+
+Introducing sustainability into an architectural curriculum in East Africa
+
+Abstract
+
+Introduction
+
+Architectural education in East Africa
+
+Sustainability in architectural education
+
+Building a new curriculum
+
+Outcomes and reflections
+
+Conclusions
+
+Values
+
+Sustainability
+
+Sub-Saharan Africa
+
+Epistemology
+
+Architectural education
+
+Pedagogical approach
+
+sustainable design is fundamental to architecture and therefore should permeate all the curriculum;
+
+sustainable design develops out of existing courses on environmental control systems; and
+
+sustainability should be fully integrated into all courses, requiring a complete curriculum review.
+
+as a core value in education and, thus, included in all courses;
+
+engaged through the technology domain, presented in environmental systems courses. The two additional approaches identified were;
+
+fulfilled through electives, with students making a choice for the sustainability-related courses they want to take; and
+
+it is specialist knowledge and occurs after graduation.
+
+to incorporate and integrate sustainability into the curriculum; and
+
+overhaul teaching and learning in the programme.
+
+Urban and Regional Planning and Design looked at the interdisciplinary nature of settlement planning and development;
+
+Buildings and the Environment deliberately situated building design as a confluence between the indoor and outdoor environment;
+
+Sustainable Built Environments delved into technical solutions including life-cycle energy, zero-net buildings and emerging technologies; and
+
+Architecture Design Project looked at community engagement as part of social sustainability.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility

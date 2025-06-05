@@ -1,0 +1,411 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Campus-Wide Information Systems
+
+ISSN: 1065-0741
+
+Article publication date: 1 January 2014
+
+The purpose of this paper is to propose a framework that serves as a guide to develop a curriculum and instructional strategy that is systems oriented and student-centric.
+
+The framework is based on the theories in the field of education by prominent researchers. The framework is divided into four sub-systems, input, process, output, and feedback. While the input, process, and output sections discuss basic elements critical in students’ learning, the feedback section suggests how the learning environment can be controlled and corrected based on student learning outcomes.
+
+The paper presents a framework for the student to graduate transformation process in institutions of higher education based on fundamental premise that this process is an ecosystem consisting of several interlinked and interacting sub-systems. A key driver of the transformation process should be a feasible set of expected competencies that the global market place for talent expects of college graduates. These market-valued competencies can be used to define the success of the curriculum, course design, and instructional techniques and determine the sufficiency of the resource allocation by the institution of higher education to specific academic and supporting programs.
+
+The framework that is based on integration of well-grounded theories in the field of education. Thus it adds value to the development of curriculum that is needed by the education institutions to excel and compete in the global and dynamic academic environment.
+
+S. Desai, M. and A. Johnson, R. (2014), "Integrated systems oriented student-centric learning environment: A framework for curriculum development", Campus-Wide Information Systems, Vol. 31 No. 1, pp. 24-45. https://doi.org/10.1108/CWIS-01-2013-0002
+
+Emerald Group Publishing Limited
+
+Copyright © 2014, Emerald Group Publishing Limited
+
+Transforming students into graduates who are prepared to work and to sustain their knowledge value-added capabilities in a very complex and changing global market for talent is “job one” for institutions of higher education. Each institution pursues this goal with a focus on maintaining high standards of quality in teaching, research, and service. The key to the successful achievement of job one for institutions of higher education is the robustness of the curriculum and the effectiveness and efficiency of academic programs in transforming students into well rounded and productive graduates who are able to make a positive and meaningful difference in their world.
+
+With a growing emphasis on “the cost and benefits of college education,” it is becoming increasingly critical for institutions of higher education to develop and implement a sound strategy for providing effective student to graduate transformation; while at the same time focussing on controlling costs. To that end, we propose a generic framework for academic institutions to develop an education transformation process that centers on achieving job one to the fullest potential. The proposed framework is labeled “the Integrated System Oriented Student-centric Learning Environment: A Framework for Undergraduate Curriculum.” The central thesis of the integrated systems model is that to ensure the achievement of job one for an institution of higher education, its student to graduate transformation process must address student transformation readiness, the learning environment, and program content and execution.
+
+This study proceeds in three main sections. In the next section, the theoretical background underlying the proposed framework is discussed. The proposed framework is presented in the second section. The final section contains a summary of the key elements of this study.
+
+The central focus of the framework that is proposed by this study is an integrated model for student to graduate transformation. To achieve job one, each institution of higher education must implement student to graduate transformation processes that are efficient and effective in engendering learning and meet the challenges of financial sustainable. Transformation effectiveness and efficiency depends importantly on three factors: student readiness to be transformed into productive graduates; the configuration of the learning environment; and program content and execution. Financial sustainability is an expected outcome if job one (attracting students, retaining students, and graduating students who are prepared to meet the requirements of the global talent market place) is achieved.
+
+Basically, student transformation readiness is a function of three factors: student readiness to learn or intrinsic motivation; extrinsic motivating factors (e.g. the attractiveness of the institution's physical, academic, and intangible attributes; the attractiveness of targeted careers; and job prospects); and the level of student academic preparation. These factors are in effect at each point of transition (e.g. high school to freshman, freshman to sophomores, sophomore to junior, and junior to senior; or prerequisites to advance courses) in the educational transformation process. Of the three factors, readiness to learn is arguably the most salient. It essentially involves the question of whether there is adequate intrinsic motivation and incentive for and benefit in making the level of commitment needed for successful transformation from student to graduate. Educational transformation ultimately occurs, other things equal, when students are motivated to learn and they have acquired the skills (creative and critical thinking, model development and application, decision making, and communication) required for a successful career. This is the standard that must be met if an institution of higher education seeks to achieve job one.
+
+The importance of student intrinsic motivation in the learning process is not new. Piaget (1952), in developing his theory of cognitive development marvels at the innate motivation of humans to gradually acquire, construct, and use intelligence. Freidman (2005) refers to a modified intelligence quota that is required in the global market place for talent. This modified intelligence quota involves what he terms the curiosity quotient (CQ) and passion quotient (PQ). Friedman asserts that the global market place for talent requires that the sum of CQ plus PQ be greater than the traditional level of intelligence (IQ). It is important to note, however, that both CQ and PQ are positively and directly related to the level of an individual's intrinsic motivation.
+
+Unfortunately, there is clear evidence that student intrinsic motivation declines over time. Cordova and Lepper (1996) report that, “in a variety of different settings and using a variety of measures, investigators have found children's reported intrinsic motivation in school to decrease steadily from at least third grade through high school.” The waning of student intrinsic motivation is attributable to several factors (see: Lai, 2011 for an extensive review of the literature on motivation). The finding that student intrinsic motivation for learning declines over time raises two critical questions for institutions of higher education:
+
+(1) What is the level of intrinsic motivation for learning of entering students and is it sufficient to meet the requirements of the institution's education and learning transformation process?
+
+(2) What are the needs and challenges faced by students that if met will help them achieve academically and throughout their professional careers and personal lives?
+
+The first question involves a decision by the institution of higher education given its available resources and its stewardship responsibilities to determine who are and who are not its students and potential graduates based on student interest and fit. It is also bound up with the performance expectations of the institution's graduates and the nature of the institution's education and learning transformation process. The performance expectations of the institution's graduates are set by its customers (employers and graduate and professional schools in the global talent market place) who are looking to hire college graduates or to provide further education and training to college graduates. So, for example, if employers consistently choose not to hire an institution's graduates they are in effect setting a value on the institution's performance of job one.
+
+Every institution of higher education is different and the degree to which student intrinsic motivation for learning is important to the success of job one reflects those differences. Highly selective colleges and universities typically address a student's organizational fit in the selection process. In the case of Stanford University, for example, organizational fit in the selection process includes indicators of the level of student intrinsic motivation or intellectual vitality (passion for intellectual knowledge, curiosity for learning, and initiative); prior academic performance; and personal context (see: Stanford University, 2002).
+
+Institutions that are, by mandate or mission, less selective, however, typically pay a great deal of attention to extrinsic attractiveness (location, flexibility, dormitory suites, good food, etc.) and system wide rewards (e.g. pride in attending a school with winning sports teams). These institutions implement varying degrees of intrusive intervention during early college years; but largely ignore the level of individual student intrinsic motivation. In these cases, a gap between the intrinsic motivational levels required by their academic programs can be important enough to impinge on the efficiency and effectiveness of the institution's student to graduate transformation process, and thus, the institution's ability to achieve their potential with respect to job one.
+
+The second question focusses directly on the needs and challenges faced by students as they navigate through their college learning journey and embark on their careers. The reality for many students is that their circumstances (financial, relationships, emotional, etc.); the quality of the student learning environment and campus life (level of satisfaction); and expectations or lack thereof can serve as road blocks to academic success. Also, the level of preparedness and maturity, the millennial generation factor, and the extent of self-actualization are important ingredients for student success. In addition, the attitudes, rules, and social norms expected by school administrators, faculty, and staff, as well as, a lack of a client service culture can stymie the progress of all but the most determined students.
+
+Obviously, there is wide variation in the factors affecting individual student motivation to learn. These factors include the particularities of personality (see: McLeod, 2007); cognitive (see: McLeod, 2009); behavioral (e.g. Pavlov, 1927); motivation and actualization (e.g. Maslow, 1943); social or situational (e.g. Vygotsky, 1978); or some combination of these factors. In order to achieve job one, it is incumbent on institutions of higher education to help students identify the collection of factors that are at play in suppressing student intrinsic motivation to learn and help them develop coping and mitigation strategies.
+
+It is therefore reasonable to conclude that to address the above questions concerning student intrinsic motivation to learn calls for a holistic approach that recognizes the full spectrum of human-centered and institutional effectiveness issues faced by college students. One of the principles of this approach is that it requires empathy for the wide cross-section of students (top, muddled middle, and poor performers) involving a deep dive into their lives, an improved understanding of the environment they live in, greater insights into the workings of their social networks, and being prepared to see things first hand. Another principle of this approach is that it calls for the marshaling of the entire enterprise of the institution of higher education (the school's organization/people and operations/business processes) and the full complement of its external stakeholders. This mobilization would be incomplete if the student intrinsic motivation is not included in or calibrated with curricular and non-curricular programming and, as a consequence, an institution may work hard at achieving job one, but fall short of its true potential with respect to student retention, degree attainment, and career success.
+
+The configuration of the learning environment affects the overall student learning experience. Much headway has been made in institutions of higher education in considering changes in the configuration of the learning environment with a particular focus on the way instruction or knowledge is delivered in the classroom. The awareness of the need to move from the “sage on the stage” model of instruction to the “guide on the side” model is palpable although there remain pockets of considerable resistance to this change. There is also growing recognition in higher education of the need to align classroom knowledge delivery with the distinct student thinking and learning styles. The work by Gardner (1999), who asserts there are eight components of intelligences that can be used to describe a person's learning style: bodily-kinesthetic, interpersonal, intrapersonal, linguistic, logical-mathematical, musical, naturalist, and spatial; and Sternberg (1985), who categorizes the construct of intelligence into three categories (analytical, creative, and practical) provide considerable insights for curriculum design and knowledge delivery in institutions of higher education. Other innovative approaches to instructional delivery that may have a meaningful impact on the student learning experience include: the flipped classroom; hybrid (online and face-to-face) courses; online courses; experiential and hands on learning; and massively open online courses (MOOCs).
+
+Clearly, as educational delivery methodology and communications technological dynamics continue to evolve, there will be even more avenues for reconfiguring the learning environment both inside and outside the classroom. It must be noted; however, that the learning environment is only one part of the student to graduate transformation process and must be integrated into the strategic framework that drives the entire transformation. The strategic framework must focus on making good on the institution of higher education's promise with respect to achieving job one. To accomplish this objective the strategic framework must meet the following conditions: it should encompass the entire education and learning transformation process; it must be internally consistent; and its principal outcome are graduates who are able and willing to meet the employment and/or post-undergraduate program admissions requirements that are set in the global market place for talent. The first two conditions are addressed below and the third condition is addressed in the section covering program content and execution.
+
+With respect to the first condition, this study employs Robert J. Marzano's practical translations of the most current research and theory into classroom strategies. Marzano's approach is internationally known and widely practiced by both teachers and administrators. He is a cofounder and CEO of Marzano Research Laboratory in Englewood, Colorado. Marzano's work includes Designing and Teaching Learning Goals and Objectives, The Highly Engaged Classroom, Formative Assessment and Standards-Based Grading, On Excellence in Teaching, District Leadership That Works, and The Art and Science of Teaching. This study uses Marzano's work for developing instructional strategies depending upon the performance of the students (Marzano, 2007). According to Marzano, there are not correct instructional strategies but there are good instructional strategies and these strategies can further be improved over the time (www.youtube.com/watch?v=B6U67lmKpZU&list=PL7F41132D5B63597F).
+
+With respect to the second condition, this study employees Bloom's Taxonomy, which refers to a classification of the different objectives that educators set for students learning objectives (Bloom et al., 1956). Bloom's Taxonomy divides educational objectives into three “domains”: cognitive, affective, and psychomotor. Within the domains, learning at the high levels is dependent on having attained prerequisite knowledge and skills at lower levels (Orlich et al., 2004). A goal of Bloom's Taxonomy is to motivate educators to focus on all three domains, creating a more holistic form of education (Bloom et al., 1956).
+
+The content and execution of the student to graduate transformation process should be geared toward meeting the global talent markets performance expectations of a college or university's graduates. The global talent market place consists of employers, graduate programs, and professional schools who establish their expectations with respect to a college graduates future performance through direct observation of existing employees or program participants who are alumni, word of mouth, surveys, school rankings, advisory board membership, etc. Along with discipline-specific training, the global talent market expects college graduates to possess a level of knowledge value added (the ratio of the expected value added of a graduate's competencies to the expected total cost of their employment) that exceed dynamically increasing minimum performance requirements.
+
+To address the performance expectations of graduates in each discipline requires pursuing what Treacy and Wiersema (1995) call a customer intimacy strategy. In pursuing a customer intimacy strategy the institution of higher education is compelled to focus on providing total solutions (graduates with soft and hard skills, flexibility, can-do spirit, intrinsic motivation, etc.) to global talent market place needs. To provide these solutions each institution and their academic departments and programs will need to understand that their operations and processes produce a value stream of flows of knowledge value added to the global talent market place through its graduates. Activities that increase the knowledge value-added capacity of a college's graduates must be increased because these are what the global talent market place in essence will pay for. On the other hand, activities that add training costs or do not improve the level of value-added competencies of college graduates must be reduced or eliminated.
+
+Delivering value from the global talent market perspective means that the student to graduate transformation process prepares graduates who meet the performance and cost expectations of the market. Consequently, as a best practice, faculty and academic departments will need to connect the curriculum and co-curricular elements of the institution's education and learning process to the professional employment and post-undergraduate studies market in the various disciplines. In addition, in line with best practice, each institution and its academic departments and programs should seek ways to increase the frequency of communications with employers, internship sponsors, professional and graduate schools, and community-based organizations concerning opportunities for graduates and the ever changing requirements in the global market place for talent.
+
+The key determinants of the effectiveness and efficiency of the student to graduate transformation process (student readiness to be transformed into productive graduates; the configuration of the learning environment; and program content and execution) are actually systems. It is important to note, however, that these systems together form a large ecosystem. When these systems are addressed as separate systems, which is often the case, silos form and harden and coordination becomes a vexing challenge. When these systems are addressed as a system of interconnecting and interacting parts of a whole then the opportunities for insights that connect more broadly across the entire student to graduate transformation process can be developed. Ultimately the answers that address system integration across the organization's academic and non-academic programs and educational support operations will define each institution of higher education's job one value proposition – producing graduates with the level of knowledge value added that meets or exceeds the requirements of the global talent market place (Figure 1).
+
+The main focus of this study is to provide a unifying framework that encapsulates an integrated approach to achieving higher education's job one mission. Since the proposed approach is to develop a “systems oriented student-centric framework” the framework is divided into four sub-systems. The first sub-system establishes the foundation for successful student learning and is the “input” sub-system of the framework. The second sub-system is the “process” sub-system of the framework. It focusses on the strategy and structure of the educational environment that aligns with student learning ability. The third sub-system is the “output” sub-system of the framework and it involves the assessment metrics and structure for measuring student performance. The fourth sub-system is the “feedback” sub-system which represents the control and monitoring sub-system. The feedback sub-system provides corrective actions to be taken depending upon the variations in the output sub-system. Figure 2 presents the pictorial representation of the proposed framework.
+
+The input sub-system provides the foundation for efficient and effective learning. According to Piaget learning involves the process of acquiring knowledge by the use of reasoning, intuition, and perception (Van der Maas and Molenaar, 1992). Efficient and effective learning both inside and outside the classroom is the principal job of college students. To be efficient and effective in learning, students: must possess a minimal level of intellectual capacity (IQ); must be motivated to learn; and must be empowered to learn.
+
+The minimal standards for student intellectual capacity are virtually always a part of a college or university's admissions or entrance requirements. The standards vary across institutions of higher education for non-conditional admissions. These standards include, among other things, a high school diploma, a minimum grade point average, level of performance on standardize tests (SAT, ACT, etc.), level of critical acuity and writing skills based on essays, and letters of recommendation.
+
+Student motivation with respect to learning is directly tied to intrinsic motivation factors (satisfaction with learning and achieving) and to extrinsic motivation factors (e.g. the quality of instructor student interaction, campus environment, student housing, and food, etc.). Insights drawn from Herzberg (1964) two-factor theory of worker satisfaction and dissatisfaction at work suggest can be applied in the case of student motivation for learning. Herzberg labels the factors that lead to satisfaction at work motivators (e.g. achievement, recognition, responsibility, work itself, and personal growth) and the factors that lead to dissatisfaction at work hygiene factors (e.g. work conditions, pay and job security, policies and procedures, supervision, and interpersonal relationships). In the context of the student to graduate transformation process in institutions of higher education the factors that lead to student satisfaction with learning affect student intrinsic motivation to learn; while extrinsic motivation or hygiene factors affect the level of student dissatisfaction with learning (Figure 3).
+
+According to Herzberg's two-factor theory, the key to increasing worker satisfaction levels is simply to provide adequate hygiene factors; while maximizing the motivators for a particular job. The Herzberg maxim when applied in the case of the student to graduate transformation process in higher education suggests that the campus and learning environment must be adequate to reduce the level of dissatisfaction with learning but it is crucial that students are empower to learn in order to increase student satisfaction with learning. If, for example, students have low intrinsic motivation for learning then the chances that hygiene factors can produce efficient and effective learning is likely to be remote. If students, on the other hand, have high intrinsic motivation and the hygiene factors are sufficient to minimize the level of student dissatisfaction then the expectations is that student learning effectiveness and efficiency will, other things equal, reach a high level.
+
+Standards respecting student intrinsic motivation for learning are typically integrated into the admissions requirements at the so-called highly selective colleges and universities. As mentioned earlier, colleges and universities that are, by mandate or mission, less selective typically ignore the level of new student intrinsic motivation for learning. In either case, it is not simply the level of intrinsic motivation that students exhibit at the start of their college career that matters. It is also the trajectory or transition probabilities from higher level states of student intrinsic motivation to lower level states and vice versa that matters.
+
+Student intrinsic motivation for learning involves the level of internal satisfactions that he/she receives in the process of performing in the classroom and in co-curricular activities. Suppose, for example, that student intrinsic motivation can be defined in terms of three states (see: Figure 4). In the first state (x 1) there is a high level of student intrinsic motivation for learning (i.e. motivation that well exceeds the requirements for successful completion of college-level studies). In the second state (x 2) there is a moderate level of intrinsic motivation for learning (i.e. motivation that is sufficient for successful completion of college-level studies). In the third state (x 3) the level of intrinsic motivation does not measure up to what is required for successful completion of college-level studies. If there is a higher probability of movement of students from states x 1 and x 2 to state x 3 than in the reverse direction the college's or university's student to graduate transformation process may be characterized by low yields with respect to retention, progression, and graduation rates and high per capita operating costs.
+
+It is therefore crucial that institutions of higher education implement strategies to empower students in order to increase the probabilities of students transitioning from lower levels of intrinsic motivation for learning to higher levels and to reduce the probabilities of students transitioning from higher levels to lower levels. Students must be made aware of the risk factors (maturity, cognitive behavioral skills, socialization skills, and financial education skills, as well as the student's financial, familial and emotional situation) that adversely affect intrinsic motivation for learning. They next, should be provided strategies for managing, mitigating, or eliminating the specific detrimental risk exposures that they face. In addition, evidence must be provided to explain the benefits to the student of committing to the strategy. The strategy can be facilitated through student cognitive behavioral and achievement success skills development training. Success in this endeavor will be aided by employing aggressive follow-up schedules for students with their advisors.
+
+Students should also be empowered to learn based on leveraging their own learning or thinking styles. It, of course, is quite important that instructors understand differences in student learning and thinking styles. It is arguably more important, however, that students are informed of their specific thinking and learning styles. Armed with this knowledge, students can develop a SWOT analysis with respect to their learning or thinking style and design strategies to improve learning efficiency and effectiveness. For example, Table I, which presents a basic SWOT matrix, can be used by advisors to empower student learning. First advisors can help students understand their learning styles and the environments or activities where they are likely to excel or fall short. Students can then improve learning by using the best pair-wise (strength-opportunity, weakness-opportunity, etc.) strategies for the specific learning environment or activity.
+
+The input sub-system involves personalized strategies to encourage student motivation and empowerment to learn. What one student desires from learning or has as his/her learning style strength or weakness, can differ significantly for another student. The potential benefits, however, are quite significant. First, encouraging student motivation and empowerment for learning is likely to increase student retention, progression, and graduation rates. Second, it is likely to improve the overall effectiveness and efficiency of student learning. Both of these benefits increase the productivity of the student to graduate process and, thus, increase the success of an institution of higher education in achieving its full potential respecting job one.
+
+The operations sub-system of the proposed framework is the central part of the student to graduate transformation process. It assumes that students are motivated and empowered to learn and are aware of the importance of learning. The operations sub-system involves two sets of value-added processes: learning program processes and student development and support systems (academic and career advising, mentoring, coaching, advocating, and networking). It is the learning program processes that are of interest in this study (Figure 5).
+
+The learning program processes of the operations sub-system addresses the key aspects of the student to graduate transformation process: academic and non-academic program development, improvement, and innovation; knowledge delivery systems; and execution assessment. The academic and non-academic program development, improvement, and innovation processes include the identification of current and new internal and external stakeholder needs and the development of new solutions to satisfy those needs more efficiently and effectively. Knowledge delivery systems center on producing graduates who are prepared to meet the standards of the global talent market place. Execution assessment involves an evaluation of program content and execution with respect to the achievement of efficient and effective student learning.
+
+To meet the requirements of job one each component of an institution of higher education's learning program processes must be capable of delivering educational services in an efficient and systematic fashion and must be focussed on stakeholder needs. Institutions of higher education must also calibrate their learning program processes by identifying opportunities for improvements and measuring results. Fulfilling job one requires a strong adherence to a philosophy of continuous improvement. Consistent with this philosophy, the institution of higher education must aim in each step of its learning program processes for improved service quality, increased productivity, and greater responsiveness to the changing needs and requirements of the global market place for talent.
+
+The successful pursuit of job one in the learning programs processes is rooted in the unique mix of the learning, research, instructional, and service practice at each institution of higher education. There are, however, commonalities or common themes respecting the commitment to strengthening the efficiency and effectiveness of student learning. Arguably the most important of these themes are: the logical framework for organizing the institution's student learning programs; the motivation for learning (intellectual stimulation) that is generated in the learning environment; and performance measurement of the effectiveness of the institution's knowledge delivery system in engendering efficient and effective student learning.
+
+The logical framework for student learning programs is generic and involves students reaching certain knowledge mileposts or learning objectives. The logical frame involves students entering the learning program as novices, progressing to journeyman, and then reaching some level of mastery. It is important to note that the logical frame focusses on student attainment of knowledge and not on the knowledge delivery system. That is the logical frame should be consistent with how students discover, understand, manipulate, and appropriate knowledge.
+
+Bloom et al. (1956) developed a classification system to capture the intellectual behavior important in student learning. According to this approach, learning at a higher level is dependent on having attained prerequisite knowledge and skills at lower levels. The classification system which is known as Bloom's taxonomy identifies the intended behavior of students as they: first, determine what and how well they understand specific learning objectives; next, determine how well they can use the knowledge; and finally, determine how well they have mastered the learning objectives.
+
+Bloom's taxonomy identifies three overlapping domains: the cognitive, affective, and psychomotor. The cognitive domain is the focus in this study with respect to the logical framework for student learning programs. Skills in the cognitive domain revolve around the acquisition and use of knowledge, comprehension, critical thinking (the ability to judge and evaluate learned material), and synthesis involving students making the subject material their own.
+
+The cognitive domain of Bloom's taxonomy contains six levels: knowledge, comprehension, application, analysis, synthesis, and evaluation. These levels are hierarchical, moving through the lowest order processes (knowledge) to highest (evaluation). Each of these levels is defined and introduced within a logical framework context for learning programs in Table II.
+
+The logical framework for learning programs also applies to the structure of the specific courses that comprise each learning program. The logical framework consists of four levels. The first level of the logical framework involves the discovery skills development. This process focusses on strengthening student ability to acquire and comprehend knowledge.
+
+The second level of the logical framework involves the critical thinking and reasoning skills development process. This process focusses on providing opportunities for students to learn how to think critically and utilize discernment and reasoning skills in problem solving. It is crucial that students are challenged relative to their stretch goals. The process should include a metric that will allow the instructor to measure the confidence level of the students. Such measures allow the instructor to develop exercises that will motivate students to think critically and reason in solving the problem. Over or under challenging the students can limit the effectiveness of the learning program. The rationale is similar to Locke and Latham's (2002) goal setting theory which notes that there is a relationship between how difficult and specific a goal was and people's performance of a task. These authors found that specific and difficult goals lead to better task performance than vague or easy goals.
+
+The third level of the logical framework is where students are ready to apply the knowledge and use critical thinking skills in real-world situations. Students at this level are assumed to have skills necessary to adapt to the situation on hand and provide a solution. This is beyond critical thinking level where students are focussed on single problems. At the situational skills level student should be able to demonstrate their problem-solving ability under dynamic conditions. Student skill development in dynamic conditions focusses on decision making where mid-course corrections must be made because of changing information or changing goals.
+
+The fourth level of the logical framework is where students develop their ability to reflect, analyze, synthesize, and evaluate their experiences in the earlier levels of the process. At this level students are expected to understand and be able to revise the problem if necessary. Students should be able to analyze and evaluate the situation and relate it to the previous situations and are able to determine the similarities and differences between them. Depending upon the similarities and differences the students should be able to combine the solution strategies in order to improve the efficiency of the problem solution. In the competitive environment this skill is extremely critical where the managers are required to be proactive and be able to provide effective solutions but in an efficient manner. Students are expected to be system thinkers which require them to understand the system enablers, the process within the system, the resultant output, and how it connects to other systems. System thinkers are able to mix and match the working solutions logically and develop optimal result. This implies that the students have both the broad understanding of the problem yet be able to provide specific solutions by differentiating various components of the system.
+
+Student intellectual stimulation that is generated in the learning environment is a form of extrinsic motivation for learning. As discussed earlier in this study, the learning environment is comprised of extrinsic motivating factors which, according to Herzberg (1964), can be viewed as hygiene factors. Hygiene factors influence the level of student dissatisfaction with learning, while intrinsic motivation factors affect the level of student satisfaction with learning.
+
+A key aspect of the learning environment is the format for instruction or the knowledge delivery system. According to Marzano (2007) there is no right or wrong strategy for instruction. Instead there is a good or bad strategy. Marzano reasons that the knowledge delivery strategy should be developed based on the situation at hand and improved over time based on a commitment to continuous improvement. It is important to note, however, that although there may not be a unique format for instruction and more generally for the learning environment, it is reasonable to assert that good strategies would, at minimum, do no harm to student intrinsic motivation. It is also reasonable to assert that learning environments that enhance intrinsic motivation for learning are better than those that are neutral or worse de-motivating.
+
+The learning environment at institutions of higher education is the result of the institution's efforts in aligning resources with its strategic priorities and in meeting fiscal responsibility and accreditation requirements. For example, the learning environment is expected to support the institution's efforts with respect to student retention, progression, and graduation rate goals; while at the same time support its efforts to meet accountability measures required by their board of trustees and by accreditation agencies. In addition, there are a host of requirements that are imposed on the learning environment including: minimum class size standards; low enrolled program guidelines; and finance and accounting standards of the institution.
+
+It is safe to say that, once all of these factors are taken into account, the learning environment at institutions of higher education is directly connected to their strategies respecting resource alignment and resource stewardship. Consequently, the successful implementation of good learning environment strategies can be guided by the answer to the following question:
+
+How does the institution of higher education by aligning budgets with resource allocation decisions maximize the level of satisfaction to key stakeholders; while achieving its job one mission?
+
+This question links budgetary alignment with the institution's key internal and external stakeholders. The answer to this question reflects the institution's commitment to continuously improve knowledge, skills, tools, technology, leadership, systems and processes and to improve key stakeholder satisfaction. To appropriately address this question, it is necessary to consider three entities associated with the design of the institution of higher education's learning environment: the organization (the institution's administration, board of trustees, and accreditation agencies); the practitioners (the faculty and staff); and the level of student dissatisfaction and success with learning. As shown in Figure 6, each of these three entities has a unique but interrelated perspective on the needs associated with the institution's learning environment.
+
+With respect to the players that comprise the institution's organization there are a number of indicators related to responsible resource stewardship: measures related to the effective and efficient use of valuable and scarce resources (e.g. faculty sufficiency and qualifications; minimum class size; low producing programs); measures related to operational efficiency, costs, policies and procedures, incentives, and regulations (e.g. class times, and faculty workload define operational efficiency); and measures related to operational effectiveness (e.g. recruitment, retention, progression, graduation, and student loan default rates). Risk-management costs and benefits would also fall under the institution's need for responsible resource stewardship.
+
+Practitioner needs related to job satisfaction and organizational support is tied to the institution's need for resource stewardship. Practitioner satisfaction is based on factors such as their subjective perception of their ability to deliver quality research, teaching, service, and administrative support and whether there are adequate institutional support and resources for them to effectively perform their jobs. From the perspective of the students, it is important to define and capture needs associated with both subjective and objective indicators of “dissatisfaction/satisfaction” with the institution's learning environment. Student dissatisfaction/satisfaction is based on a range of characteristics and experiences, including subjective perception of the service and student experience, the degree of personalization of care, the expectations and psychosocial needs of the student, and the ultimate academic and career success outcome.
+
+Clearly, it is not sufficient to define the learning environment in terms of the impact on student intellectual stimulation alone. The inclusion of the interests of all three entities in the design of the learning environment in one way or another is what effectively happens. It is unlikely; however, that a haphazard combination of the interest of these entities will result in what would be considered “good” strategies for instruction and knowledge delivery systems. It is important to examine the pair-wise interaction between the three entities to develop a notion of the possibilities for good strategies given each institution of higher education's unique situation.
+
+The primary consideration when evaluating the relationship between the organization and the level of student dissatisfaction/satisfaction is the impact of the operational design of the educational delivery system. For example, the design defines issues of admissions, process structures, procedures followed vs required, ratio of faculty and staff to students, degree of reliance on best practice, etc. Clearly, the specification of these parameters is significant to the institution's measures of resource stewardship and also to the student measures of dissatisfaction/satisfaction. These measures of resource stewardship and student dissatisfaction/satisfaction, then, are clearly not independent. It is, in fact, quite possible that they are at times in direct conflict.
+
+The relationship between the organization and practitioners can be defined in terms of the nature and degree of support and resources provided by the organization to practitioners and the expectations of practitioners. These variables are, in general, set or defined mainly by the organization and have implications for the culture of the institution, incentives (formal or informal) for faculty and staff, degree of time or other resource pressures on practitioners, scheduling and class size, and professional development opportunities. These in turn affect faculty and staff satisfaction as well as operational efficiency and effectiveness. As in the organization-student dissatisfaction/satisfaction relationship, how these resource and support variables are set may result in tradeoffs when viewed from the organization's perspective vs the practitioner's perspective.
+
+Finally, we consider the practitioner – student dissatisfaction/satisfaction relationship. It is not surprising that students seek trust, dependence, cooperation, satisfaction, and commitment from practitioners. They would also benefit from instruction methods that take into account their specific learning and thinking styles (see: Sternberg, 1985; Gardner, 1999). They would also benefit from contextualization, personalization, and choice in the learning process (see: Cordova and Lepper, 1996).
+
+By its very nature, the practitioner-student dissatisfaction/satisfaction relationship is inherently complex and thus difficult to reliably measure. To begin with, the interaction is in real time and subjectively experienced. For example, factors such as expectations, personalities, anxieties, and external conditions, affect both student and faculty and staff perception in their assessment of whether or not a specific practitioner-student interaction resulted in effective communication. The interaction can be further strained or constrained because of the nature of the subject of discussion, academic performance, is inherently personal and is often coupled with student uncertainty and anxiety, uncomfortable communication, or even insufficient information from which the faculty or staff must try to make an appropriate determination.
+
+The faculty and staff agenda and the student's agenda can be at odds. For instance, the faculty is focussed on student academic progress; whereas the student may have the need or desire to discuss a wide range of life and health concerns that impinge on their academic performance. The resulting conversation would likely seem frustrating and unsatisfying to both faculty and student. Faculty skills and competencies (e.g. research and service capabilities, thinking styles, and personalities) can be at odds with the personal skills and competencies required for sensitive, effective communication across a wide range of students. Finally, organizational requirements for efficiency may not be consistent with requirements for facilitating personalized, empathetic practitioner-student interactions.
+
+Although the learning environment is the result of a complex set of interactions involving an institution of higher education's key stakeholder groups, it is not impossible to configure good strategies for instruction and the knowledge delivery system. What is needed is a clear understanding and commitment to the institution's job one mission by each of the three key entities. Although institutions of higher education are a complex of separate activities and sub-activities, their core mission is job one. To achieve job one to its fullest extent requires that the people, sub-units, units, and departments in the institution of higher education operate as a cohesive whole and are not in conflict with one another.
+
+A key aspect of any system involves defining and measuring performance. In the ideal setting the performance measurement system should be comprehensive and focus all of the activities on customer requirements and organizational objectives. Past research on the evaluation of student performance in higher education have focussed on their performance in their courses. These studies can be divided into those that treat students as customers (e.g. Ivancevich and Ivancevich, 1992; Helms and Key, 1994); employees (e.g. Sirvanci, 1996), or products (Smith et al., 2005).
+
+In the case of the operations sub-system of the proposed framework the measurement of performance centers on the effectiveness of the institution's knowledge delivery system in engendering efficient and effective student learning. Students must first meet readiness standards for transformation and then enter an institution's student to graduate transformation process. When viewed in this context, performance measurement centers on the efficiency and effectiveness of student learning.
+
+In measuring how well students have ascertained knowledge a debate has arisen over whether performance should be measured based on outcomes or based on evidence of student learning behavior. Smith et al. (2005) proposed a framework based on agency theory that provides a guideline for observing differences in the types of student evaluations across various levels of college and university education. These authors compare outcome-based vs behavior-based assessment methods. They note that, while the outcome-based method focusses on the grades and approaches to maximize the efforts for better grades, the behavior-method focusses more on the desire to learn and students who are driven by self-motivation. This finding is wholly consistent with the views underlying the framework proposed in this study.
+
+The behavior-approach assessment method can be implemented as follows. First, student performance can be monitored from the first semester the student starts coursework all the way through the time that the student graduates. A student performance profile or transcript can be prepared not just for indicating course grades but also the progress made by the student in learning over the course of study in each course taken by the student. A periodic feedback mechanism will be necessary to monitor the progress made by the student in terms of learning efficiency and effectiveness. This approach requires that instructors communicate the progress of each student in a formal manner at several points in the course. The purpose of this approach is to ensure that students develop a pattern and habit of maintaining consistent learning performance which eventually will help them in their employment after they graduate.
+
+Providing students with feedback about their performance throughout each course allows them to identify problem areas and to demonstrate their earnestness and motivation for learning. Students can use various software packages to track and self-regulate their performance. For example, Barber et al. (2011) examined the extent to which student access the MyGrade application in Blackboard to monitor their progress. In support of self-regulated learning and feedback principles, students indicated that the MyGrade application helped them better monitor their course performance and increased their motivation to study and pay attention in class.
+
+In order to ensure the effective measurement of the performance proper metrics need to be identified. At the minimum the performance of students should be sufficient for them to graduate within the university defined timeframe. Typically the metrics used for performance measures are derived from the learning goals set for each course in the curriculum. As will be discussed in the next section of this study, the standards for defining learning goals must be set based on the requirements in the global market place for talent. Learning goals need to be continuously monitored and tuned in order to be in sync with changing market demands. This issue is further discussed in the Feedback Sub-system section of this study.
+
+The output sub-system represents the results of the student to graduate transformation process. The principal result – students who are well prepared for their roles in the global talent market place – reflects the degree of success of the institution of higher education's value-added activities relative to market requirements in preparing their graduates. Consequently, the targets set with respect to the appropriate level of market valued skilled that an institution's graduates must possess is based on the segments of the global market place (employers) that is targeted by the institution. When an employer hires an institution's graduates they are recognizing the value-added contribution that the institution has made in transforming its students into professional talent. In addition to hiring graduates, this group supports the institution of higher education and its academic programming by serving on advisory boards and by sponsoring internships, cooperative education, and other experiential education for students and faculty.
+
+As Figure 7 indicates, employers weigh a graduates expected value-added competencies relative to the expected cost of employment and compare these characteristics against their standards and against the capabilities of graduates from other institutions. Employers are looking for graduates that meet or exceed their standards for judgment (intellectual knowledge, problem-solving skills, analytical tools, and relevant work experience) and organizational fit (communications skills, can-do spirit, grit, emotional intelligence, team player, social skills, etc.). In addition, other things equal, institutions of higher education that produce graduates that have more expected value-added competencies relative to employment costs than their peers can simultaneously contribute to higher net benefits to employers and increased job prospects for its graduates.
+
+The initial success of the overall learning process is measured by the employability of the student upon the graduation. Although getting the job is necessary for the graduating student it is not sufficient to measure the full value added of the transformation process. A key aspect of the process of transforming students into graduates is the preparation for continued learning and growth after graduation. As a consequence, the extent of the success of the institution of higher education's output is, at least, in part determined by the level of the job obtained by the graduate. In addition, success is further measured and determined by the advancement of the graduates in a developing a successful career.
+
+The feedback sub-system of the proposed framework centers on maintaining and improving the overall effectiveness and efficiency of the student to graduate transformation process. Typically institutions of higher education setup strategies and processes to transform students into graduates who are able to perform at a certain level of competency C it ; where i represents an initial competency level and t represents a time (time when student graduate). The global market for talent, on the other hand, has expectations for college graduates to have competency level E(C t ), which is in line with the target level of value-added performance vs employment costs. Feedback then is represented by the C i −E(C t ), the difference between the target competency requirements and the actual competency of the graduate student. The magnitude of the gap C i −E(C t ) needs to be understood by the institution of higher education and strategies must be developed to take appropriate corrective action to ensure that this gap is not negative and that it is competitive with the equivalent gap for graduates of peer institutions.
+
+Accomplishing this result requires the institution of higher education's practitioners and its organization to maintain vital formal and informal contacts with the broad range of participants in the global market place for talent. For example, formal contacts could involve partnerships with employers and advisory committees. Also, after students graduate and are employed feedback can be obtained in several ways. For example, an institution can setup a formal database application system that is accessible to the alumni to provide their progress report – their current job and related activities. The reports generated from the database application could serve as a guideline for making adjustments in the curriculum development. In line with the best practice, the institution of higher education should seek ways to increase the frequency of communications with employers, internship sponsors, and community-based organizations concerning opportunities for graduates and the ever changing requirements in the global market place for talent.
+
+As mentioned earlier in this study the transformation process is an ecosystem that consists of several sub-systems that are dynamically connected together such that each sub-system influences the other. As a consequence, the feedback system for the student to graduate transformation process must be based on an analysis of the ecosystem as a whole. Each institution of higher education ecosystem is different, however, reflecting differences in mission, resources, and targeted segments in the global market place for talent. It is important to note, therefore, that a simple configuration of a “one size fits all” feedback system is difficult because there are a wide range of feedback and control systems that can be employed to ensure a robust student to graduate transformation process.
+
+While each institution's feedback system may differ, three common features each rooted in the conditions and urgent needs of an ecosystem whose behavior must change over time in response to the dynamic needs of the global market place for talent. First, the feedback system must be focussed on increasing student academic and career success. This is central to fulfilling the job one mission of institutions of higher education, which involves exceeding in the retention, progression, and graduation of students that can excel as well rounded professionals who have the intellectual knowledge, judgment, skills, tools, and experiences required of high performance, innovative, talent. Second, the feedback system should be designed to facilitate its dual function as a guide for designing or redesigning input and process sub-system variables at the student readiness, organization, practitioner, program, and course learning goal level and as a communications tool that helps ensure that all participants in the student to graduate transformation process have a clear sense of purpose and performance expectations. Third, the feedback system should be structured as a closed loop system to reflect the interconnected cycle of the student to graduate transformation process sub-systems.
+
+This study presented a framework for the student to graduate transformation process in institutions of higher education based on fundamental premise that this process is an ecosystem consisting of several interlinked and interacting sub-systems. It is the belief of the authors that it is critical that first, the students are willing to learn and second they are ready to learn. Thus in the initial stage of the transformation process care must be taken to support student intrinsic motivation for learning and to provide students with strategies that empower them to learn. The authors also argue that a key driver of the transformation process should be a feasible set of expected competencies that the global market place for talent expects of college graduates. These market-valued competencies can be used to define the success of the curriculum, course design, and instructional techniques and can be used to determine the sufficiency of the resource allocation by the institution of higher education to specific academic and supporting programs. A pilot study can be done by implementing the suggested framework into one major field of study. The study then can be expanded over other areas of study depending upon the results of the pilot study. In conclusion, the framework proposed in this study is designed to provide an organized approach to achieving efficient and effective learning in institutions of higher education and to establish a systematic approach for implementing a strategy for continuous improvement in the educational process.
+
+Factors affecting “job one” in higher education
+
+System's-oriented student-centric framework
+
+Herzberg two-factor theory
+
+Student intrinsic motivation for learning transition probability matrix
+
+Process sub-system: three components
+
+Resource stewardship and the learning environment
+
+Employer perspective of the value added of a college's graduates
+
+SWOT framework for learning style efficiency and effectiveness
+
+Description of bloom's cognitive domain levels and their application in the logical framework for learning programs
+
+Dr Mayur S. Desai is a Professor of Management Information Systems in the Jesse H. Jones School of Business at the Texas Southern University. Dr Mayur S. Desai is the corresponding author and can be contacted at: desaims@tsu.edu
+
+Dr Ronald A. Johnson is a Dean in the Jesse H. Jones School of Business at the Texas Southern University.
+
+Barber, L.K. , Bagsby, P.G. , Grawitch, M.J. and Buerck, J.P. (2011), “Facilitating self-regulated learning with technology – evidence for student motivation and exam improvement”, Teaching of Psychology, Vol. 38 No. 4, pp. 303-308.
+
+Bloom, B.S. , Engelhart, M.D. , Furst, E.J. , Hill, W.H. and Krathwohl, D.R. (1956), Taxonomy of Educational Objectives: The Classification of Educational Goals, Handbook I: Cognitive Domain, Longmans, Greene, NY.
+
+Cordova, D.I. and Lepper, M.R. (1996), “Intrinsic motivation and the process of learning: beneficial effects of contextualization, personalization, and choice”, Journal of Educational Psychology, Vol. 88 No. 4, pp. 715-730.
+
+Freidman, T. (2005), The Earth is Flat, A Brief History of the 21st Century, Farrar, Straus & Giroux, New York, NY.
+
+Gardner, H. (1999), Intelligence Reframed. Multiple Intelligences for the 21st Century, Basic Books, New York, NY, 292+x pp.
+
+Helms, S. and Key, C.H. (1994), “Are students more than customers in the classroom?”, Quality Progress, Vol. 27 No. 9, pp. 97-99.
+
+Herzberg, F. (1964), “The motivation-hygiene concept and problems of manpower”, Personnel Administrator, Vol. 27, pp. 3-7.
+
+Ivancevich, D.M. and Ivancevich, S.H. (1992), “TQM in the classroom”, Management Accounting, Vol. 74 No. 4, pp. 14-16.
+
+Lai, E.R. (2011), “Motivation: a literature review”, available at: www.pearsonassessments.com/hai/images/tmrs/Motivation_Review_final.pdf (accessed October 7, 2013).
+
+Locke, E.A. and Latham, G.P. (2002), “Building a practically useful theory of goal setting and task motivation: a 35-year odyssey”, American Psychologist, Vol. 57 No. 9, pp. 705-717.
+
+McLeod, S.A. (2007), “Psychodynamic approach in psychology”, available at: www.simplypsychology.org/psychodynamic.html (accessed October 7, 2013).
+
+McLeod, S.A. (2009), “Jean Piaget|cognitive theory”, available at: www.simplypsychology.org/piaget.html (accessed October 7, 2013).
+
+Marzano, R.J. (2007), “Using action research and local models of instruction to enhance teaching”, Educational Assessment, Evaluation and Accountability, Vol. 20 Nos 3-4, pp 117-128.
+
+Maslow, A.H. (1943), “A theory of human motivation”, Psychological Review, Vol. 50, pp. 370-396, available at: http://psychclassics.yorku.ca/Maslow/motivation.htm (accessed October 7, 2013).
+
+Orlich, D.C. , Harder, R.J. , Callahan, R.C. , Trevisan, M.S. , Brown, A.H. and Miller, D.E. (2004), “Objectives, taxonomy, and standards for instruction”, Teaching Strategies: A Guide to Effective Instruction, pp. - .
+
+Pavlov, I.P. (1927), Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex, trans and edited by Anrep, G.V. Oxford University Press, London.
+
+Piaget, J. (1952), The Origins of Intelligence in Children, International Universities Press, New York, NY.
+
+Sirvanci, M. (1996), “Are students the true customers of higher education?”, Quality Progress, Vol. 29 No. 10, pp. 99-102.
+
+Smith, M.E. , Zsidisin, G.A. and Adams, L.L. (2005), “An agency theory perspective on student performance evaluation”, Decision Sciences Journal of Innovative Education, Vol. 3 No. 1, pp. 29-46.
+
+Stanford University (2002), “Our Selection Process”, available at: www.stanford.edu/dept/uga/basics/selection/ (accessed October 7, 2013).
+
+Sternberg, R.J. (1985), Beyond IQ: A Triarchic Theory of Intelligence, Cambridge University Press, Cambridge.
+
+Treacy, M. and Wiersema, F. (1995), The Discipline of Market Leaders, HarperCollins Publishers, Scranton, PA.
+
+Van der Maas, H.L. and Molenaar, P.C. (1992), “Stagewise cognitive development: an application of catastrophe theory”, Psychological Review, Vol. 99 No. 3, pp. 395-417.
+
+Vygotsky, L.S. (1978), in Cole, M. (Ed.) Mind in Society: The Development of Higher Psychological Processes, 14th ed., Harvard University Press, Cambridge, MA.
+
+Atwood, S. , Turnbull, W. and Carpendale, J.I.M. (2010), “The construction of knowledge in classroom talk”, Journal of the Learning Sciences, Vol. 19 No. 3, pp 358-402.
+
+Blomberg, D. (2009), “Multiple intelligences, judgment, and realization of value”, Ethics and Education, Vol. 4 No. 2, pp. 163-175.
+
+Brualdi, A.C. (1996), “Multiple intelligences: Gardner's theory”, Practical Assessment, Research & Evaluation, Vol. 5 No. 10, available at: http://PAREonline.net/getvn.asp?v=5&n=10 (accessed December 16, 2012).
+
+Campitelli, G. and Gobet, F. (2010), “Herbert Simon's decision-making approach: investigation of cognitive processes in experts”, Review of General Psychology, Vol. 14 No. 4, pp. 354-364.
+
+Desai, M.S. and Pitre, R. (2009), “Developing a curriculum for on-line international business degree: an integrated approach using systems and ERP concepts”, Education, Vol. 130 No. 2, pp. 184-194.
+
+Goldstein, F.C. and Levin, H.S. (1987), “Disorders of reasoning and problem-solving ability”, in Meier, M. , Benton, A. and Diller, L. (Eds), Neuropsychological Rehabilitation, Taylor & Francis Group, London, pp. 327-354.
+
+Marshall, A. (1920), Principals of Economics, Macmillian and Company Limited, London.
+
+Schwartzman, R. (1995), “Are students customers? The metaphoric mismatch between management and education”, Education, Vol. 116 No. 2, pp. 215-222.
+
+Smith, M.E. (2005), “An agency theory perspective on student performance evaluation”, Decision Sciences Journal of Innovative Education, Vol. 3 No. 1.
+
+Sternberg, R.J. (1999), “The theory of successful intelligence”, Review of General Psychology, Vol. 3 No. 4, pp. 292-316.
+
+Sternberg, R.J. (2003), “Giftedness according to the theory of successful intelligence”, in Colangelo, N. and Davis, G. (Eds), Handbook of Gifted Education, Allyn and Bacon, Boston, MA, pp. 88-99.
+
+Sternberg, R.J. (2010), “Assessment of gifted students for identification purposes: new techniques for a new millennium”, Learning and Individual Differences, Vol. 20 No. 4, pp. 327-336.
+
+available at: www.infed.org/thinkers/gardner.htm
+
+available at: http://en.wikipedia.org/wiki/Robert_Sternberg
+
+available at: www.mindtools.com/pages/article/newHTE_87.htm
+
+available at: www.youtube.com/watch?v=B6U67lmKpZU&list=PL7F41132D5B63597F
+
+Integrated systems oriented student-centric learning environment: A framework for curriculum development
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Theoretical background
+
+Student readiness to be transformed
+
+The configuration of the learning environment
+
+Program content and execution
+
+Proposed framework
+
+Input sub-system of the proposed framework
+
+Operations sub-system of the proposed framework
+
+Output sub-system of the proposed framework
+
+Feedback sub-system of the proposed framework
+
+Summary
+
+About the authors
+
+References
+
+Further reading
+
+Web references
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Campus-Wide Information Systems
+
+Volume 31 Issue 1
+
+Integrated systems oriented student-centric learning environment: A framework for curriculum development
+
+Abstract
+
+Introduction
+
+Theoretical background
+
+Student readiness to be transformed
+
+The configuration of the learning environment
+
+Program content and execution
+
+Proposed framework
+
+Input sub-system of the proposed framework
+
+Operations sub-system of the proposed framework
+
+Output sub-system of the proposed framework
+
+Feedback sub-system of the proposed framework
+
+Summary
+
+Education
+
+Framework
+
+Systems theory
+
+Assessment
+
+Learning styles
+
+Curriculum development
+
+(1) What is the level of intrinsic motivation for learning of entering students and is it sufficient to meet the requirements of the institution's education and learning transformation process?
+
+(2) What are the needs and challenges faced by students that if met will help them achieve academically and throughout their professional careers and personal lives?
+
+How does the institution of higher education by aligning budgets with resource allocation decisions maximize the level of satisfaction to key stakeholders; while achieving its job one mission?
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility

@@ -1,0 +1,181 @@
+Abstract
+Objectives. We assessed the effectiveness of a 5-year trial of a comprehensive school-based program designed to prevent substance use, violent behaviors, and sexual activity among elementary-school students.
+
+Methods. We used a matched-pair, cluster-randomized, controlled design, with 10 intervention schools and 10 control schools. Fifth-graders (N = 1714) self-reported on lifetime substance use, violence, and voluntary sexual activity. Teachers of participant students reported on student (N = 1225) substance use and violence.
+
+Results. Two-level random-effects count models (with students nested within schools) indicated that student-reported substance use (rate ratio [RR] = 0.41; 90% confidence interval [CI] = 0.25, 0.66) and violence (RR = 0.42; 90% CI = 0.24, 0.73) were significantly lower for students attending intervention schools. A 2-level random-effects binary model indicated that sexual activity was lower (odds ratio = 0.24; 90% CI = 0.08, 0.66) for intervention students. Teacher reports substantiated the effects seen for student-reported data. Dose-response analyses indicated that students exposed to the program for at least 3 years had significantly lower rates of all negative behaviors.
+
+Conclusions. Risk-related behaviors were substantially reduced for students who participated in the program, providing evidence that a comprehensive school-based program can have a strong beneficial effect on student behavior.
+
+Substance use, violent behaviors, and early initiation of sexual activity occur at problematic levels among American youths.1–4 Early initiation of substance use and engaging in violent behaviors during childhood place children at a greater risk of psychopathology, aggressive behaviors, and continuation of substance use during adolescence and into adulthood.5–10 National estimates have indicated that approximately 43.3% of high school students had consumed alcohol, 35.9% had been in a physical fight, and 46.8% had engaged in sexual intercourse over the previous 12 months.5 Thus, prevention programs that can reduce the incidence of such behaviors should provide clear public health benefits.
+
+Appropriately designed and implemented school-based prevention programs can prevent or reduce negative behaviors,2,11,12 but some programs have not been evaluated for efficacy and effectiveness,9,13 criteria deemed crucial in determining whether a program is ready for widespread adoption by schools.14,15 Although studies indicate positive treatment effects for school-based prevention programs, the magnitude of effects is often modest.16,17 The average effect size for such programs is 0.2018 (comparable to a success rate of 9.5%), suggesting that there is considerable room for improvement in the effectiveness of prevention programs in reducing negative behaviors. In addition, accumulating evidence indicates that negative behaviors do not exist in isolation from one another,2,19 so programs that address multiple co-occurring negative behaviors are likely to be of greater overall benefit.20,21
+
+Our goal was to evaluate the preventive benefits of the Positive Action program, a comprehensive schoolwide social and character development program. We hypothesized that the Positive Action program would result in lower rates of student substance use, violence, and voluntary sexual activity, as measured by student self-reports and teacher reports. Previous quasi-experimental studies of the Positive Action program22,23 reported beneficial school-level effects on student achievement and serious problem behaviors (e.g., suspensions and violence). We build on previous research by reporting on a matched-pair, cluster-randomized controlled study.14 These features of a study are important when examining the scientific credibility of intervention findings.
+
+METHODS
+The Positive Action program intervention took place in 20 public elementary (kindergarten to fifth or sixth grade) schools on 3 Hawaiian islands. Our study followed students who were in first or second grade at baseline (the 2001–2002 academic year) and who stayed in the study schools through fifth grade (the 2005–2006 academic year for the first-grade cohort, and the 2004–2005 academic year for the second-grade cohort). Students who left study schools during the study period were dropped from the study, and students who joined study schools during the study period were added to the study (without collecting baseline data). Thus, our study also included students who entered the schools at any year during the course of the study and who were in fifth grade at the end of the study. All students responding to the survey regarding substance use, violent behaviors, and sexual activity received active parental consent and completed a questionnaire in fifth grade soliciting self-reports on substance abuse, violent behaviors, and voluntary sexual activity.
+
+Baseline Equivalency
+Schools were eligible for the study if they met all of the following eligibility criteria (using data from school report cards for the year 2000, compiled and published by the Hawaii Department of Education): (1) at least 25% of the school's students were receiving free or reduced-price lunch; (2) the school was in the lower 3 quartiles of SAT scores among Hawaiian schools; (3) the school was located on Oahu, Maui, or Molokai; (4) the school was a kindergarten to fifth- or sixth-grade public school (i.e., not a specialized academy, charter, or special-education school); and (5) the school had annual student stability rates of more than 80% (i.e., student mobility of less than 20%). There were 111 schools that met those criteria. We then used 2000 school report card data24 to stratify the eligible schools based on an index that included percentage of students receiving free or reduced-price lunch, school size, percentage of student stability, and student ethnic distribution; additional characteristics of the school (student–teacher ratio and expenditures per student); characteristics of student populations (proportions of gifted, special education, and English as a second language students); and indicators of student behavioral and school performance outcomes (disciplinary referrals, suspension rates, and standardized achievement scores).25
+
+Our stratification resulted in 19 strata containing at least 3 schools that were very similar regarding index indicators. Within each stratum, we randomly assigned 1 school to the intervention group and 1 other school to the control group until we had 20 study schools—10 intervention and 10 control. Once a stratum had supplied 1 intervention school and 1 control school, no further recruitment was made within the stratum. Control schools were asked to continue with “business as usual” without making any substantial social and character development program reforms. At baseline, no significant differences (P ≥ .05) existed between intervention and control schools with respect to any of the indicators just mentioned. After school-level randomization, we developed random-effects models (with students nested within schools) to compare self-reported and teacher-reported negative student behaviors (i.e., gets into fights, threatens others, physically hurts others, and hits others) at baseline. No significant differences (P ≥ .05) were observed between reports from control and intervention schools, indicating baseline equivalency among all schools in the study.
+
+Intervention
+The Positive Action program (http://www.positiveaction.net) is a multicomponent school-based social and character development program designed to improve academics, student behaviors, and character. It is grounded in a broad theory of self-concept26 and is consistent with comprehensive theories of health behavior like the theory of triadic influence.27 the Positive Action program has been described in detail elsewhere,22,23 but briefly, the full program consists of kindergarten through 12th-grade classroom curricula, schoolwide climate changes undertaken by the principal and a Positive Action coordinator or committee, and family and community involvement components. The sequenced elementary-school curriculum consists of 140 lessons per grade per academic year, offered in periods 15 to 20 minutes long. The total time students are exposed to the program during a 35-week academic year is approximately 35 hours.
+
+Lessons are grouped into 6 major units: self-concept, mind and body positive actions (e.g., nutrition, physical activity, decision-making skills, motivation to learn), social and emotional actions for managing oneself responsibly (e.g., emotion regulation, time management), getting along with others (e.g., empathy, respect, treating others as one would like to be treated), being honest with yourself and others, and self-improvement (e.g., goal-setting, courage to try new things, persistence). The program encourages interaction between teacher and student through structured discussions and activities, and it encourages interaction among students through structured or semistructured small-group activities, including games, role-playing, and skill practice. Principals at each participating school received a school-climate kit providing directions for a schoolwide climate program to promote the core elements of the Positive Action classroom curriculum and to encourage and reinforce positive actions throughout the entire school.22
+
+Classroom teachers delivered the intervention.28 Before the beginning of each academic year, teachers, administrators, and support staff (e.g., counselors) attended Positive Action program training sessions conducted by the program developer (Carol Allred). The training sessions lasted approximately 3 to 4 hours for the initial year and 1 to 2 hours for each successive year. Booster sessions conducted by the Hawaii-based project coordinator were provided at least once during the academic year for each school. These lasted approximately 30 to 50 minutes. Additionally, mini-conferences were held in February of each year for 5 to 6 leaders and staff (e.g., principals, counselors, teachers) from each of the 10 participating schools. The mini-conferences gave participants an opportunity to share ideas and experiences as well as to get answers to any questions regarding program implementation.
+
+Sample
+When students reached fifth grade (aged 10–11 years) they were asked to obtain active parental consent and to provide verbal assent to respond to 11 items asking about substance use (5 items), violent behavior (5 items), and sexual activity (1 item). This request garnered responses from 976 intervention students (50% girls) and 738 control students (50% girls), a response rate of 86%. We assessed differential selection bias by having all students in the study complete a separate negative behaviors scale developed for this study (i.e., blame others for mistakes, copy someone else's work, hit others, tell lies, say things to hurt others feelings, take something that doesn't belong to you, bully other kids, not feel good about who you are, get into fights, feel unhappy) in fifth grade, and we compared scale results between students whose parents provided active consent and students who did not receive active parental consent. No significant (α ≥ .05) differences between the 2 groups were observed.
+
+We analyzed descriptive characteristics (e.g., gender, ethnicity) and baseline-year (2001–2002) responses to behavior and attitudinal scales that reflect known correlates of early violence and substance use, to determine whether students who dropped out of the study were different at baseline within intervention and control groups (separately) from those who remained in the study after baseline. Additionally, we compared students in the intervention group with students in the control group who dropped out of the study after baseline.
+
+At year 5, control-group students were assessed on the negative-behavior scale described in the previous paragraph to examine whether those control-group students who were surveyed each of the 5 years were significantly different from those control-group students who entered the study after baseline. The results of the analyses (not presented here) indicated no significant differences on the negative-behavior scale.
+
+The self-identified ethnicities of students at fifth grade were as follows: primarily Hawaiian or part Hawaiian (26.1%), multiple ethnic backgrounds (22.6%), non-Hispanic White (8.6%), African American (1.6%), American Indian (1.7%), other Pacific Islander (4.7%), Japanese (4.6%), other Asian (20.6%), other (7.8%), and unknown (1.6%).
+
+Lifetime Prevalence Rates
+Student self-reports.
+Our fifth-grade respondents answered experimenter-developed survey questions about their lifetime use of substances (5 items; e.g., tobacco, alcohol), involvement in violent behaviors (5 items; e.g., carried a knife, threatened someone), and voluntary sexual activity (Table 1). Students were asked to respond on a scale of 0 to 2 (0 = no, never; 1 = yes, once; and 2 = yes, more than once). Because of the low prevalence rates of the latter 2 responses, each variable was dichotomized (0 = no, never; or 1 = ever). For the substance use and violent behavior categories, items were then summed to create a count variable (0–5) indicating how many of the 5 behaviors the student had ever performed. Previous studies29–33 have indicated that self-reports of substance use and violent behavior generally provide valid measures of student behavior.
+
+TABLE 1.
+Self-Reported and Teacher-Reported Student Substance Use, Violent Behaviors, and Voluntary Sexual Activity Among Fifth Graders: Positive Action, Hawaii, 2005–2006
+
+Boys
+Girls
+Boys and Girls
+Control Group, %	Intervention Group, %	ORa (90% CI)	Control Group, %	Intervention Group, %	ORa (90% CI)	Control Group, %	Intervention Group, %	ORa (90% CI)	Effect Sizeb
+Student self-report
+Sample size, no.	366	491		372	485		738	976		
+Substance use										
+    Smoked a cigarette (or used some other form of tobacco)	8.5	5.3	0.66 (0.30, 1.44)	6.7	2.7	0.38 (0.19, 0.76)	7.6	4.0	0.52 (0.31, 0.88)	0.41
+    Drank alcohol (beer, wine, or liquor)	22.5	12.2	0.48 (0.35, 0.65)	15.2	7.9	0.47 (0.28, 0.79)	18.8	10.1	0.48 (0.34, 0.68)	0.44
+    Got drunk on alcohol	6.6	1.6	0.24 (0.11, 0.49)	4.0	1.7	0.40 (0.16, 0.98)	5.3	1.6	0.30 (0.15, 0.57)	0.75
+    Used an illegal drug like marijuana or cocaine	5.5	1.8	0.34 (0.15, 0.78)	2.7	0.4	0.15 (0.04, 0.54)	4.1	1.1	0.28 (0.14, 0.54)	0.82
+    Got high on drugs	5.5	1.0	0.18 (0.07, 0.45)	1.6	0.4	0.25 (0.07, 0.97)	3.5	0.7	0.20 (0.09, 0.44)	0.99
+Violent behaviors										
+    Carried a knife or razor to use to hurt someone	9.0	2.7	0.27 (0.16, 0.47)	3.2	1.7	0.51 (0.22, 1.17)	6.1	2.2	0.32 (0.18, 0.57)	0.64
+    Threatened to cut or stab someone	10.1	3.3	0.30 (0.17, 0.51)	4.6	2.3	0.48 (0.25, 0.92)	7.4	2.8	0.36 (0.24, 0.53)	0.62
+    Cut or stabbed someone on purpose to hurt them	6.0	1.8	0.29 (0.15, 0.56)	1.6	0.4	0.25 (0.06, 1.06)	3.8	1.1	0.29 (0.16, 0.52)	0.77
+    Carried a gun	18.1	7.0	0.33 (0.21, 0.54)	3.5	2.1	0.58 (0.29, 1.18)	10.7	4.5	0.40 (0.26, 0.62)	0.57
+    Shot at someone	8.5	2.3	0.25 (0.13, 0.49)	2.4	0.4	0.17 (0.05, 0.61)	5.4	1.3	0.24 (0.14, 0.40)	0.89
+Sexual activity										
+    Voluntary sex with someone of the opposite gender	9.3	1.4	0.14 (0.06, 0.31)	4.6	1.0	0.22 (0.09, 0.56)	6.9	1.2	0.18 (0.09, 0.36)	1.10
+Teacher report of student behavior
+Sample size, no.	205	379		209	365		422	760		
+Substance use										
+    Smokes (or may smoke) cigarettes (or uses other form of tobacco)	14.9	7.3	0.42 (0.18, 0.94)	10.7	8.6	0.78 (0.41, 1.50)	12.8	7.9	0.54 (0.28, 1.02)	0.33
+    Drinks or may drink alcohol	15.6	12.1	0.66 (0.26, 1.67)	10.5	12.5	1.16 (0.63, 2.16)	13.0	12.3	0.81 (0.41, 1.58)	0.04
+    Uses drugs like marijuana or cocaine	19.7	5.4	0.21 (0.08, 0.53)	15.5	7.5	0.42 (0.10, 1.68)	17.6	6.4	0.27 (0.10, 0.72)	0.69
+Violent behaviors										
+    Sample size, no.	219	393		228	385		447	778		
+    Gets into a lot of fights	39.3	30.7	0.68 (0.50, 0.91)	26.8	15.3	0.52 (0.34, 0.80)	32.9	23.1	0.63 (0.47, 0.84)	0.30
+    Physically hurts others	29.7	25.6	0.84 (0.52, 1.35)	23.7	9.9	0.37 (0.19, 0.72)	26.6	17.8	0.61 (0.38, 0.97)	0.31
+    Threatens others	29.7	21.5	0.64 (0.46, 0.88)	22.4	15.1	0.67 (0.42, 1.07)	26.0	18.3	0.64 (0.47, 0.88)	0.27
+    Destroys things belonging to others	34.7	21.0	0.47 (0.33, 0.69)	19.3	10.1	0.53 (0.27, 1.05)	26.8	15.6	0.48 (0.31, 0.74)	0.41
+Open in a new tab
+Note. OR = odds ratio; CI = confidence interval. Lifetime prevalence percentages are reported. Student self-report item stem: “Have you ever … ?” Teacher report of student behavior item stem: “How well does this item describe this child?”
+
+aORs based on a 2-level logistic model (students nested within school) with treatment condition as the sole predictor.
+bCox index effect size was calculated as ES = ([ln{OddsIntervention}] × [ln{OddsControl}]) / 1.65.
+Teacher reports of student behavior.
+In years 4 and 5 of the study, teachers were asked to report on a scale of 1 to 3 how well each item in a 7-item behavioral checklist described each child in their class (1 = not at all, 2 = moderately well, 3 = very well). The checklist only included items related to substance use and violent behaviors. Four of these items focused on violent behavior (e.g., physically hurts others), and the other 3 related to use or potential use of substances (e.g., smokes cigarettes; Table 1). As with the student items, the affirmative ratings 2 and 3 were collapsed and treated as dichotomies (0 = not at all, or 1 = well), and the items were summed to construct a count of observed violent behavior (0–4) and a count for substance use (0–3).
+
+Analyses
+To examine the difference in prevalence rates between intervention- and control-group students, we initially used the dichotomized single items (Table 1) to calculate 2-level logistic models (with students nested within schools) for student and teacher reports of student behavior. As is typical for students in this age range, frequency distributions for the negative behavior count scales were skewed, with the majority of students (range = 86%–98% across behaviors) reporting zero (i.e., “No, never”) negative behaviors. Hence, the variance of the outcome scales was much larger than the mean; therefore, we conducted preliminary analyses testing for overdispersion.34 Overdispersion was taken into account in the Poisson models by including a random effect at the student level, which adds a parameter reflecting unobserved heterogeneity among observations (often as a result of unobserved covariates that vary among the units of observation).35
+
+We used the likelihood ratio test to compare nested models, as well as a 2-level Poisson model and a 2-level Poisson model with an overdispersion parameter. For the substance use count scale for student self-reports, the likelihood ratio χ2 was 347.0 (P < .001); for teacher reports, the likelihood ratio χ2 was 114.72 (P < .001). For student self-reports on the violent behaviors count scale, the likelihood ratio χ2 was 293.66 (P < .001); for teacher reports, the likelihood ratio χ2 was 174.85 (P < .001). These results indicated that the overdispersion model fit the data better for all scales, so we used the overdispersion model in all subsequent analyses.
+
+For the primary analyses, we used 2-level overdispersion random-effects Poisson models to model program effects (student self-reports and teacher reports of student behavior) for the substance use and violent behaviors count scales. We included predictors to test for treatment effects (Positive Action program = 1), for variations in effects for boys versus girls, and whether a differential treatment effect existed between boys and girls (treatment × gender interaction). For sexual activity data (these data were only obtained by student self-report), a 2-level logistic regression model was estimated with the same predictors. The treatment-effect test of significance was evaluated on a t distribution with 18 degrees of freedom to account for the unit of randomization (i.e., the school). Additionally, because of the small number of pairs (n = 10), the random-effects models were conducted as unmatched.36,37
+
+We conducted secondary analyses (2-level overdispersion random-effects Poisson models) to examine the dose response of program exposure (measured in years) on negative behaviors. We created dummy variables that corresponded with 1 to 2 years and 3 to 4 years of exposure to the program versus no exposure (i.e., control). We created these categories because of the low number of students exposed to only 1 year of the program (n = 73) and because girls in the intervention group who were exposed to 3 years of the program reported no voluntary sexual activity.
+
+All analyses were conducted with generalized linear latent and mixed models35 in Stata version 9.2 (StataCorp LP, College Station, TX). Previous reports from the Positive Action program22,23 provided empirical support for the expectation of beneficial effects (fewer negative behaviors) from exposure to the program.38 Hence, we presented all tests of significance as directional (1-tailed, with 90% confidence intervals reported) given our a priori hypothesis that the program would result in only positive effects and because the practical consequence of finding that the intervention resulted in an increase in negative behaviors would be the same as finding no difference—i.e., the implication would be that schools should not use the program.39
+
+Because of the matched-pair design and the possibility of bias in the analyses resulting from matched schools,40 conservative follow-up paired analyses were conducted to substantiate the estimates from the 2-level unmatched analyses. For that analysis, prevalence rates were collapsed at the school level to calculate the school-specific prevalence rate. Then, a paired-sample t test (with 10 pairs) was calculated to examine treatment effects.40 Polychoric correlations comparing student and teacher reports were calculated on the count scales for substance use and violent behaviors. Effect sizes for dichotomous outcomes (Cox index)41 were calculated on student-level data. The Cox index effect sizes were calculated as follows: the difference in the natural log of the odds of the event occurring in the intervention and control groups was divided by 1.65, where the odds were defined as the proportion of the students having performed the behavior across all students within the intervention and control groups, separately.
+
+RESULTS
+Table 1 presents negative behavior prevalence rates from student and teacher reports of student behaviors for boys and girls, the combined rates for intervention- and control-group students, the 2-level logistic odds ratios, and effect sizes. Comparisons of the individual items indicated that, overall, prevalence rates were lower for intervention-group students than for control-group students, with a 48% to 86% lower probability of performing a given negative behavior. Corresponding effect sizes from student reports ranged from 0.41 to 1.10, with an average effect size of 0.73 (median = 0.75). Effect sizes from teacher reports ranged from 0.04 to 0.69, with an average effect size of 0.34 (median = 0.31). Correlations between student and teacher reports were 0.18 and 0.27 for substance use and violent behaviors, respectively.
+
+The estimates for the treatment effect on substance use and violent behaviors (2-level Poisson models) and sexual activity (2-level binary model) are presented in Table 2. The intraclass correlation coefficients for the unconditional models of student self-reports were 0.06, 0.05, and 0.28 for violent behaviors, substance use, and sexual activity, respectively, and 0.04 and 0.14 for teacher reports of student violent behaviors and substance use, respectively.42,43 For substance use, student self-reported lifetime prevalence rates were significantly lower for students who received the Positive Action intervention (rate ratio [RR] = 0.41; 90% confidence interval [CI] = 0.25, 0.66). Teacher report of student substance use was nonsignificant (RR = 0.66; 90% CI = 0.30, 1.45), with an interaction effect for boys receiving the Positive Action intervention (RR = 0.59; 90% CI = 0.34, 1.00). For violent behaviors, student self-report was significantly lower for students who received the intervention (RR = 0.42; 90% CI = 0.24, 0.73), with teacher reports confirming this effect (RR = 0.54; 90% CI = 0.30, 0.77). The 2-level random-effects binary model indicated that lifetime sexual activity was lower for students attending Positive Action intervention schools (odds ratio = 0.24; 90% CI = 0.08, 0.66).
+
+TABLE 2.
+Predictors of Violent Behavior, Substance Use, and Sexual Activity Among Fifth Graders: Positive Action, Hawaii, 2005–2006
+
+Substance Usea
+Violent Behaviorsa
+Sexual Activityb
+RR (90% CI)	P	RR (90% CI)	P	OR (90% CI)	P
+Student self-report
+Groupc	0.41 (0.25, 0.66)	.007	0.42 (0.24, 0.73)	.002	0.24 (0.08, 0.66)	.013
+Genderd	1.69 (1.20, 2.39)	.006	4.44 (2.89, 6.81)	<.001	2.21 (1.33, 3.69)	.006
+Group × gender	1.07 (0.65, 1.80)	.402	0.67 (0.35, 1.28)	.158	0.61 (0.20, 1.84)	.233
+Teacher report of student behavior
+Groupc	0.66 (0.30, 1.45)	.187	0.54 (0.30, 0.77)	.004		
+Genderd	1.54 (1.04, 2.30)	.037	1.55 (1.21, 1.98)	.002		
+Group × gender	0.59 (0.34, 1.00)	.052	1.24 (0.90, 1.72)	.137		
+Open in a new tab
+Note. RR = rate ratio; CI = confidence interval; OR = odds ratio. The P values were 1 tailed.
+
+aOverdispersion random-effects Poisson estimates.
+bTwo-level binary random-effects estimates.
+cIntervention = 1; control = 0. P value evaluated on 18 degrees of freedom.
+dBoys = 1; girls = 0.
+In support of the 2-level models, the paired-sample t test results indicated a significant treatment effect for student self-report of substance use (P = .004) and violent behaviors (P = .010), although the finding for sexual activity was nonsignificant (P = .073; Table 3). Teacher reports of student behaviors indicated a nonsignificant effect for substance use (P = .058) and a significant effect for violent behaviors (P = .035).
+
+TABLE 3.
+Average Rate per School for Substance Use, Violent Behaviors, and Sexual Activity Among Fifth-Graders: Positive Action, Hawaii, 2005–2006
+
+Control Group, Mean (SD)	Intervention Group, Mean (SD)	Pa
+Student self-report
+    Substance use	0.407 (0.146)	0.227 (0.196)	.004
+    Violent behaviors	0.351 (0.082)	0.169 (0.180)	.010
+    Sexual activity	0.065 (0.0502)	0.024 (0.043)	.073
+Teacher report of student behavior
+    Substance use	0.472 (0.352)	0.247 (0.271)	.058
+    Violent behaviors	1.247 (0.602)	0.819 (0.335)	.035
+Open in a new tab
+Note. Data were calculated from a school-level matched-pair t test for average counts per school (N = 20). For the control group, n = 10; for the intervention group, n = 10.
+
+aOne-tailed paired-sample t test with 9 degrees of freedom.
+We observed a dose–response trend for both student and teacher reports of student behaviors. Students who had received 3 to 4 years of the program had significantly lower reports than did those students receiving a lower dose of the program of substance use (student self-report: RR = 0.36; 90% CI = 0.25, 0.50; teacher report: RR = 0.48; 90% CI = 0.24, 0.97), violent behavior (student self-report: RR = 0.26; 90% CI = 0.18, 0.37; teacher report: RR = 0.59; 90% CI = 0.44, 0.78), and engaging in voluntary sexual activity (student self-report: RR = 0.11; 90% CI = 0.05, 0.26; Table 4).
+
+TABLE 4.
+Dose–Response for Violent Behavior, Substance Use, and Sexual Activity Among Intervention-Group Fifth-Graders: Positive Action, Hawaii, 2005–2006
+
+Substance Usea
+Violent Behaviorsa
+Sexual Activityb
+RR (90% CI)	P	RR (90% CI)	P	OR (90% CI)	P
+Student self-report
+Gender	1.74 (1.36, 2.26)	<.001	3.64 (2.69, 5.16)	<.001	2.00 (1.27, 3.14)	0.006
+1–2 y of participation	0.73 (0.47, 1.14)	.122	0.58 (0.36, 0.92)	.028	0.42 (0.18, 0.98)	0.047
+3–4 y of participation	0.36 (0.25, 0.50)	<.001	0.26 (0.18, 0.37)	<.001	0.11 (0.05, 0.26)	<.001
+Teacher report of student behavior
+Gender	1.15 (0.88, 1.50)	.199	1.74 (1.48, 2.05)	<.001		
+1–2 y of participation	0.57 (0.27, 1.22)	.111	0.72 (0.51, 1.01)	.054		
+3–4 y of participation	0.48 (0.24, 0.97)	.043	0.59 (0.44, 0.78)	.001		
+Open in a new tab
+Note. RR = rate ratio; CI = confidence interval; OR = odds ratio. Dose response was calculated based on the number of years of exposure to the Positive Action program. The P value was 1 tailed.
+
+aOverdispersion random-effects Poisson estimates.
+bTwo-level binary random-effects estimates.
+DISCUSSION
+This cluster-randomized study extends the positive findings of previous quasi-experimental studies of the Positive Action program22,23 by examining effects on student and teacher reports of student involvement in negative behaviors. Students who received the Positive Action intervention were significantly less likely to engage in substance use, violent behaviors, and sexual activity than were students who did not. The effects sizes averaged 0.73 and 0.34 for student and teacher reports, respectively, corresponding to a reduction in likelihood of having ever done the behavior ranging from 48% to 86%, compared with students who did not receive the Positive Action intervention.
+
+The observed effects were consistent with (and sometimes stronger than) the effects reported in recent systematic reviews and meta-analyses of school-based programs targeting negative behaviors. In these studies, the average effect size was approximately .3016 for school-based substance-use programs with interactive components and ranged from 0.20 to 0.35 for programs targeting aggressive and disruptive behaviors,17 resulting in an average reduction of approximately 17.5% (range = 2.3%–45.3%).44 Hence, the effect sizes (based on student reports) observed in our study fall at the upper end of the effect-size continuum,16 suggesting that the introduction of a comprehensive schoolwide social and character development program can cause substantial reductions in the prevalence of these negative behaviors during early adolescence.2,19 The reduction in the odds of students using substances and performing violent behaviors by approximately 58% and of having sex voluntarily by 76% has provided clear public health benefits for the Hawaii school district, particularly in light of the high prevalence rates of middle-school and high school youths involved in such behaviors statewide.3
+
+The large effects observed here were likely the result of several important features of the Positive Action program. First, the Positive Action program is “interactive” in delivery: it integrates teacher–student contact and communication opportunities for the exchange of ideas, and it uses feedback and constructive criticism in a nonthreatening atmosphere. Interactive methods produce stronger beneficial program outcomes than do noninteractive delivery methods (i.e., those that are didactic in nature).16 Second, the Positive Action program is a comprehensive approach to prevention that provides the curriculum to all grades in the school at once, involving all teachers, staff, and parents. Third, the Positive Action program is a holistic approach to social and emotional development that addresses the self, emotional regulation, moral development, decision-making, skills development in these areas, and clear identification of which behaviors are positive, rather than focusing solely on the negative aspects of engaging in substance use and violence. Fourth, the program is intensive, with students receiving approximately 1 hour of exposure during a typical week. The magnitudes of the effect size differed between the student and teacher reports; this was most likely a result of teachers' inability to observe the students' behaviors at all times, leading to an underestimation of how well the item described the student.
+
+The dose–response analyses clearly demonstrate that more exposure to the program decreased the number of reported negative behaviors. Those students who received 3 or more years of the Positive Action program reported 41% to 73% fewer experiences with substance use and violent behaviors and an 89% lower rate of engaging in voluntary sexual activity than did students who received less exposure to the Positive Action program. Reductions were still observed for students exposed for 1 or 2 years (although not all of the reductions were significant), suggesting that even a short exposure had a beneficial effect. Exposing youths to the program for an additional 1 to 2 years appeared to reduce the negative behaviors by half. Hence, these findings suggest that an adequate test of the intervention's potential effectiveness could only be conducted after students had been exposed to the program for 3 or more years. This finding suggests that multiyear trials are necessary to realize the full effect of a comprehensive prevention program.
+
+This study had some limitations that require attention. First, the reports of negative behaviors were collected only during fifth grade and only for the 2 cohorts followed in the study, and therefore may not reflect the behavior of the entire student body. This limitation was a result of the study design and of restrictions required by the institutional review board that prevented the use of sensitive questions with younger (i.e., fourth grade and below) students.
+
+Second, only students who provided active parental consent and verbal assent responded to the negative behavior items. For the student self-report data, it is possible that some kind of selection effect led to a sample that was not typical of all the students in the schools studied. Our empirical tests for such a selection effect found no such difference in the area of negative behaviors. The negative behavior rates reported in this study are consistent with rates reported for children of similar ages across the Hawaii school district3 and are therefore likely to be representative of actual behavioral involvement.
+
+Also, the use of a single item to assess voluntary sexual activity is unlikely to capture all the types of sexual activity that youth engage in. Moreover, the low prevalences of the negative behaviors makes it difficult to determine whether the program would have the same size of effect on older youths (i.e., middle school), when these behaviors become more prevalent. Finally, no adjustment for type-1 error rates in the analyses (as a result of multiple tests) were made, which should be considered when interpreting the significance levels of the findings.
+
+Overall, our findings indicate that the Positive Action program can be effective in reducing multiple problem behaviors simultaneously. Programs such as Positive Action can reduce the burden on school administrators and teachers and ameliorate the demand on limited resources21 by reducing the rates of multiple problem behaviors. We are unaware of previous studies reporting the effects of prevention programs on the scale presented herein; thus, this study is likely the first to provide evidence that a comprehensive, schoolwide social and character development program can have a substantial impact on reducing problem behaviors of public health importance for more than a thousand students at a time. Although numerous school-based prevention programs exist, the Positive Action program is one of the few that has demonstrated substantial effects on multiple negative behaviors.

@@ -1,0 +1,428 @@
+Abstract
+The goal of this study was to evaluate potential mental health benefits of yoga for adolescents in
+secondary school. Students were randomly assigned to either regular physical education classes or
+to 11 weeks of yoga sessions based upon the Yoga Ed program over a single semester. Students
+completed baseline and end-program self-report measures of mood, anxiety, perceived stress,
+resilience, and other mental health variables. Independent evaluation of individual outcome
+measures revealed that yoga participants showed statistically significant differences over time
+relative to controls on measures of anger control and fatigue/inertia. Most outcome measures
+exhibited a pattern of worsening in the control group over time, whereas changes in the yoga group
+over time were either minimal or showed slight improvements. These preliminary results suggest
+that implementation of yoga is acceptable and feasible in a secondary school setting and has the
+potential of playing a protective or preventive role in maintaining mental health.
+Journal of Behavioral Health Services & Research, 2011. c) 2011 National Council for Community Behavioral
+Healthcare. DOI 10.1007/s11414-011-9249-8
+80 The Journal of Behavioral Health Services & Research 39:1 January 2012
+Address correspondence to Sat Bir S. Khalsa, PhD, Sleep Disorders Research Program, Department of Medicine, Brigham
+and Women’s Hospital, Harvard Medical School, 221 Longwood Avenue, Boston, MA 02115, USA. Phone: +1-617-
+7327994; Fax: +1-617-7327337; Email: khalsa@hms.harvard.edu.
+Lynn Hickey-Schultz, EdD, Department of Psychiatry, Harvard Graduate School of Education, Cambridge, MA 02138,
+USA. Phone: +1-617-4959384; Fax: +1-617-4953626; Email: lynnhickey99@gmail.com
+Naomi Steiner, MD, Division of Developmental-Behavioral Pediatrics, The Floating Hospital for Children, Tufts New
+England Medical Center, Mailbox #334, Boston, MA 02111, USA. Phone: +1-617-6367242; Fax: +1-617-6365621; Email:
+nsteiner@tuftsmedicalcenter.org
+Stephen Cope, MSW, Institute for Extraordinary Living, Kripalu Center for Yoga and Health, Stockbridge, MA 01262,
+USA. Phone: +1-413-4483135; Email: stephencope1@aol.com
+Deborah Cohen, MEd, Core Yoga, Cambridge, MA 02138, USA. Phone: +1-617-4704313; Email: drc@coreyoga.com
+This work was done at Brigham and Women’s Hospital, 75 Francis Street, Boston, MA 02115.
+Introduction
+Adolescents are confronted with a variety of life stressors from both school and home.
+Unmanaged stress is now believed to be a contributing and/or causal factor in the development of
+mental health and behavioral problems that are prevalent in adolescents, including anxiety,
+depression, and behavioral problems 1
+. A recent survey study indicated that 7.5% of adolescents
+meet the Diagnostic and Statistical Manual for Mental Disorders, Fourth Edition (DSM-IV) criteria
+for one or more mental health conditions. The authors concluded that life stressors were the most
+consistent predictive factor across disorders. Furthermore, personal resources such as mastery were
+consistently associated with enhanced resilience to the onset of mental health disorder episodes 2
+.
+Reinforcing the rationale for addressing adolescent mental health needs, it is estimated that one half
+of the adult population will experience at least one DSM-IV mental health disorder. The age of
+onset of most of these disorders, including the most seriously impairing conditions, occurs in
+childhood and adolescence 3
+. It has therefore been suggested that greater attention and effort should
+be devoted to interventions for the treatment of the mild and currently largely untreated child–
+adolescent disorders. This would address the significant adolescent mental health burden and also
+possibly prevent the high severity and prevalence of adult primary and comorbid mental health
+disorders 3
+.
+Accordingly, there has been some development and evaluation of a variety of school-based stress
+management and wellness programs in the hope of providing adequate coping strategies, enhanced
+resilience, and self-efficacy 4,5
+. Elements of these programs include cognitive restructuring, social
+skills, problem solving training, emotional self-control techniques, modeling, role play, and
+relaxation skills training 4,5
+. However, few programs have incorporated mind–body skills
+approaches such as yoga and meditation, which are known to be effective self-regulatory and
+stress management skills.
+Yoga is a holistic system of multiple mind body practices for mental and physical health that
+include physical postures and exercises, breathing techniques, deep relaxation practices, cultivation
+of awareness/mindfulness, and meditation. Yoga and meditation techniques have been shown to
+reduce perceived stress 6,7 and improve mood 8
+. Research documenting the therapeutic benefits of
+yoga has grown steadily for the past three decades and now includes controlled clinical trials on a
+variety of mental health conditions such as depression and anxiety. A bibliometric analysis of
+published research studies on yoga as a therapeutic intervention has revealed almost 50 published
+studies up to 2003 evaluating yoga for mental health conditions, all of which reported some
+positive benefits 9
+. Furthermore, yoga has been recommended and used clinically for both children
+and adolescents 10. Two recent systematic reviews of yoga research in pediatric populations
+concluded that there is credible preliminary evidence for the efficacy of yoga for a variety of
+mental and physical health outcomes 11,12.
+Yoga and meditation techniques seem ideally suited to prevent or alleviate the psychological
+issues encountered by secondary school adolescents. Components of yoga practice have been
+incorporated into stress management programs in schools, including relaxation techniques such as
+muscle relaxation and regulation of breathing 4,5
+. There is currently substantial interest in the
+development and application of meditation-based interventions in school settings for improvement
+of both mental health and performance 13–16. There is some research support for meditationmediated improvements, and this literature has been increasing recently. For example, studies have
+shown improvements in: (1) test anxiety and field independence in elementary school students 17;
+(2) objective measures of stress including heart rate and blood pressure in prehypertensive African
+American adolescents 18,19; (3) work habits, cooperation, and academic performance in middle
+school students; 20; and (4) restful alertness, emotional intelligence, and academic performance in
+middle school students 21. There is also a preliminary report of benefits from a combined Tai Chi
+and mindfulness-based stress reduction program 22.
+Mental Health Benefits of Yoga in a Secondary School KHALSA et al. 81
+Although it is likely that there is increasing implementation of yoga in school settings, 10 there
+are few published research studies. Most of these have been single-group trials and in special
+populations or schools. All of them were conducted in elementary school children and only one of
+them examined yoga implementation within the regular school curriculum. A pair of early studies
+reported benefits of yoga on tension and concentration in children with educational problems in a
+specialty school 23,24. A 4-year German school study of a relaxation program incorporating yoga
+for fifth grade students with abnormal examination anxiety showed significant improvements in
+aggression, helplessness in school, static balance ability, physical complaints, and stress-coping
+abilities 25. A single-group study in four Israeli elementary schools of a 13-session, 4-month yoga
+intervention within the school curriculum reported improvements in children’s concentration,
+mood, and ability to function under pressure as evaluated by the school teachers 26. A controlled
+study of an after-school yoga program in inner city elementary school students showed
+improvement in negative behaviors scores and well-being 27. Finally, in a randomized controlled
+trial in four urban Baltimore elementary schools, a 12-week after-school yoga program was shown
+to have a positive impact on problematic responses to stress, including rumination, intrusive
+thoughts, and emotional arousal 28. The purpose of the present study was to employ a preliminary,
+exploratory evaluation to identify which psychological constructs may be useful to include in
+future studies to evaluate the psychological benefits of an in-curriculum yoga program in secondary
+school adolescents.
+Methods
+Study population
+Adolescents in 7 grade 11 and 12 classes in a Massachusetts rural secondary school were
+enrolled in the study through a passive consent, opt-out procedure. The school had a 90% white
+student body demographic and a 17% low-income population. All students and parents or
+guardians were informed that the students would be participating in a yoga study and could be
+assigned to either the active intervention or the control condition. There were no exclusion criteria.
+The research protocol was approved by the Institutional Review Board of Brigham and Women’s
+Hospital. Participants were randomly assigned by class to a physical education-classes-as-usual
+group (no treatment control; three classes) or to a yoga group (active treatment; four classes).
+Intervention
+Participants in the yoga intervention attended two to three yoga sessions per week during the 11-
+week program during which either 23, 25, 31, or 32 sessions were held (depending upon the class).
+Yoga sessions were 30 min (three classes) or 40 min (one class) long and were held either two
+times (two classes) or three times (two classes) per week. (For the sake of clarity, a yoga instruction
+period will be referred to as a yoga “session”, whereas a “class” refers to the grouping of students).
+The yoga program was a modified version of the Yoga Ed program for secondary schools that is
+currently being implemented in a number of schools across the United States (http://www.yogaed.
+com). This secular program includes simple yoga postures, breathing exercises, visualization, and
+games with an emphasis on fun and relaxation and minimizing risk without unduly complex or
+physically athletic or demanding techniques. An important component of the program also includes
+development and training in the cognitive skills of mindfulness and self-awareness and a yogabased psychological and philosophical attitude. Each of the yoga instructors underwent a formal
+Yoga Ed training course had also both undergone a 200-h yoga teacher training program in the
+Kripalu yoga style.
+82 The Journal of Behavioral Health Services & Research 39:1 January 2012
+Typical 30-min Yoga Ed sessions were structured to include a 5-min initial relaxation or “time
+in,” a 5-min warm-up, 15 min of yoga poses, and a 5-min closing relaxation (times were extended
+for the 40-min sessions). Breathing techniques were incorporated during the initial relaxation and
+throughout the sessions. Each of the sessions had a theme or talking point that was discussed by the
+instructor during the session including the following: yoga philosophy and methodology (postures,
+breathing, relaxation, meditation, awareness), non-violence, mind–body interactions and awareness, body systems, stress management, emotional intelligence, self-talk and critical voice,
+contentment, discipline, decision making, values and principles, commitment, and acceptance.
+Measures
+Study staff administered a battery of self-report questionnaires to all classes in two sittings just
+prior to the start of the yoga program in mid-September, 2008, and again shortly after the end of
+the yoga program in mid-December. A few subjects (N=6) who missed the mid-December classadministered questionnaire sitting completed their questionnaires 3 weeks later. Yoga session
+attendance and spontaneous student comments, responses, and reactions to the yoga were recorded
+by the instructors.
+The Self-Report of Personality (SRP) version of the Behavior Assessment Survey for Children
+Version 2 (BASC-2) for children aged 12 to 21 years provides insight into thoughts and feelings
+and includes validity scales for helping judge the quality of completed forms. It provides a global
+score, subscale scores, and composite subscale scores (see Table 1) calculated as T-scores which
+provide cutoff thresholds for at-risk and clinically significant scores. The SRP includes 179 items
+with either true/false questions or four-point Likert-type scale questions for which higher response
+options indicate greater frequency and takes about 30 min to complete. Extensive BASC-2
+psychometric properties are reported in the manual and are, overall, considered strong 29.
+The Profile of Mood States short form (POMS-SF) is a shortened version of the POMS and
+provides a total mood disturbance score as well as subscale scores for six mood states
+(Table 1) 30. It consists of 30 mood-related adjectives that are rated on a five-point scale
+ranging from 0 (not at all) to 4 (extremely). The POMS-SF is a reliable and internally
+consistent self-report questionnaire that has been validated on adult and college student
+populations although not with adolescents.
+The Resilience Scale (RS) 31 measures the degree of individual resilience, commonly defined as
+a positive personality characteristic that moderates the negative effects of unmanaged stress and
+enhances individual adaptation. It is the capability of successfully coping with challenge, change,
+or misfortune. All 25 items in this scale are scored on a seven-point scale from 1=disagree to 7=
+agree. All items are worded positively and possible scores range from 25 to 175 with higher scores
+reflecting higher resilience. The scale has demonstrated internal consistency, reliability, and
+concurrent validity and has been recommended as the best instrument for measuring resilience in
+adolescents 32.
+The Perceived Stress Scale (PSS) is the most widely used psychological instrument for
+measuring the perception of stress 33. It is a measure of the degree to which situations in one’s life
+are appraised as stressful. Items were designed to tap how unpredictable, uncontrollable, and
+overloaded respondents find their lives. The scale also includes a number of direct queries about
+current levels of experienced stress. Respondents complete 10 items answering on a Likert scale
+from 0 (never) to 4 (very often) as to how often they felt a certain way over the past month. The
+PSS has adequate internal reliability although it has not been validated in adolescents.
+The Inventory of Positive Psychological Attitudes-32R (IPPA) provides a total score and
+subscales that measure Self-confidence during Stress and Life Purpose and Satisfaction. This selfreport instrument includes 32 items answered on a seven-point Likert scale. It has been shown to
+Mental Health Benefits of Yoga in a Secondary School KHALSA et al. 83
+possess adequate reliability and construct validity in adults but has not been validated in
+adolescents 34.
+Data analysis
+Subjects in separate classes were pooled together into yoga and control groups for analysis. To
+test whether there was an effect of class, ANOVAs were conducted on each outcome variable with
+the seven-category class variable as a predictor, and no effects of class were found. All global and
+subscale scores of the questionnaires were analyzed with a series of independent-sample t tests on
+the difference scores (posttest minus pretest) of the yoga and control groups. When significant
+differences were found between the yoga and control groups, separate one-sample t tests were
+performed on the difference scores for the two groups to examine the pattern of the within-group
+differences. Standardized effect sizes for each outcome measure were calculated as the difference
+between the mean changes of the yoga and control groups divided by the standard deviation.
+Secondary analyses included Pearson product–moment correlations to examine the effects of
+attendance on the outcomes as well as independent-sample t tests to test for gender differences. The
+statistical analyses were performed with SAS, v. 9.2 (SAS Institute, Inc.); the alpha level used to
+determine significance was pG0.05 for all analyses.
+Results
+Parents or guardians of 136 students received a consent letter. Of these, 11 students changed their
+class elective schedule options and four students/parents declined participation for religious
+reasons. The remaining 121 students (51 females, 70 males) age 15–19 years (M=16.8 years, SD=
+0.6) began participation in the study and were randomly assigned by classes: 74 students in four
+classes to the Yoga Ed group (34 females, 40 males, M=16.8 year, SD=0.6), 47 students in three
+classes to the control group (17 females, 30 males, M=16.9 year, SD=0.8). Of these 121 students,
+ten students dropped the physical education elective (two Yoga Ed, eight controls), one student
+(yoga) was suspended, and one additional student declined to participate in the yoga for religious
+reasons. Although outcome data are not available for these 12 students, their baseline data were
+compared with those of the students who remained in the study. Only one significant difference
+was found between the dropouts and the other participants on the pretest variables: the dropouts
+scored significantly higher on the PSS (20.6 vs. 17.3; t=−2.05, p=.042).
+Of the 74 students in the yoga group, 73 took at least one yoga session. Yoga sessions for some
+of the classes were cancelled due to school events (e.g., student assembly, bomb scare, etc.) on six
+different days. Attendance was analyzed both in terms of number of sessions attended and the
+percentage of available sessions attended. The average number of sessions attended for all 73
+students was 20.5 (SD=7.7), for the students with ~2 sessions per week was 18.0 (SD=5.1) and for
+the students with ~3 sessions per week was 23.7 (SD=9.2). The average number of missed sessions
+for all students was 7.4 (SD=6.0), and the percentage of available sessions attended was 73.4%
+(SD=0.2%). Yoga session attendance was just over 80% at the beginning of the yoga program and
+declined to just under 70% by the end. Although control group attendance was not taken,
+historically, the level of yoga attendance was similar to that of the physical education classes.
+No significant baseline differences were detected between groups. Three variables showed
+statistically significant change from baseline to end-program in the yoga group compared with the
+control group (Fig. 1). The amount of change in resilience as measured by the RS was significantly
+different between the yoga and control groups (p=0.014). The yoga group had an insignificant
+increase in resilience from 131.5 (SD=15.4) to 133.6 (SD=16.0), (p=0.192), whereas the control
+group significantly decreased from 131.2 (SD=18.5) to 126.5 (SD=21.9), (p=0.040). There was a
+significant difference in change between the groups for the BASC-2 subscale of Anger Control (p=
+84 The Journal of Behavioral Health Services & Research 39:1 January 2012
+Table 1
+Difference score means and t tests by intervention group for study variables
+Intervention group
+Control Yoga Standardized
+Mean SD Mean SD Effect size p Value
+BASC-2
+Emotional Symptoms Index (−) 1.10 (5.3) 0.11 (5.2) 0.19a 0.39
+School Problems Composite (−) 0.50 (7.0) −0.04 (4.7) 0.09a 0.70
+Attitude to school (−) 2.53 (8.9) −0.23 (6.3) 0.36a 0.13
+Attitude to teachers (−) 1.23 (7.7) 0.66 (5.1) 0.09a 0.71
+Sensation seeking (−) −2.43 (6.6) −0.73 (6.6) 0.26b 0.24
+Internalizing Problems Composite (−) 0.97 (4.8) −0.43 (5.3) 0.28a 0.22
+Atypicality (−) 0.67 (6.2) −0.70 (5.6) 0.23a 0.28
+Locus of control (−) 1.00 (7.5) −0.23 (6.2) 0.18a 0.40
+Social stress (−) 1.03 (5.7) 0.17 (5.3) 0.16a 0.15
+Anxiety (−) 0.97 (5.6) −0.86 (5.8) 0.32a 0.15
+Depression (−) 0.33 (6.6) −0.43 (6.1) 0.12a 0.58
+Sense of inadequacy (−) 1.60 (6.8) 0.27 (7.0) 0.19a 0.49
+Somatization (−) −1.50 (5.5) −0.44 (7.4) 0.16b 0.49
+Inattention/Hyperactivity Composite (−) −0.50 (6.8) −0.07 (6.0) 0.07b 0.75
+Attention problems (−) −0.10 (7.7) −0.14 (7.2) 0.06a 0.98
+Hyperactivity (−) −0.77 (7.3) −0.03 (6.6) 0.11b 0.62
+Personal Adjustment Composite (+) −0.69 (6.5) −0.97 (4.8) 0.05b 0.83
+Relations with parents (+) −0.41 (6.0) −1.04 (6.1) 0.11b 0.64
+Interpersonal relations (+) −1.80 (6.9) −0.16 (4.8) 0.28a 0.24
+Self-esteem (+) 0.60 (6.6) −0.01 (5.2) 0.10b 0.62
+Self-reliance (+) −1.50 (9.5) −1.56 (6.0) 0.01b 0.98
+Test anxiety (−) 0.80 (5.8) −1.34 (7.1) 0.33a 0.15
+Anger control (−) 1.69 (5.8) −0.97 (5.2) 0.48a 0.03*
+Mania (−) 0.97 (6.6) −0.47 (6.8) 0.21a 0.33
+Ego strength (+) −1.17 (5.2) −0.87 (5.5) 0.06a 0.80
+Other Questionnaires
+PSS (−) −0.19 (7.2) −0.60 (4.2) 0.07a 0.77
+POMS Total Mood (−) 1.27 (19.4) −3.55 (15.1) 0.28a 0.17
+Tension/anxiety (−) −0.03 (4.7) −0.48 (3.8) 0.10a 0.61
+Depression/dejection (−) 0.03 (5.7) −0.59 (3.9) 0.13a 0.57
+Anger/hostility (−) −0.18 (4.6) −1.00 (3.6) 0.20a 0.33
+Fatigue (−) 0.80 (4.9) −1.42 (4.3) 0.48a 0.02*
+Confusion/bewilderment (−) 0.41 (4.0) 0.25 (3.3) 0.05a 0.82
+Vigor/activity (+) −0.24 (3.9) 0.31 (4.0) 0.14a 0.51
+IPPA (+) 0.00 (0.8) 0.07 (0.5) 0.12a 0.67
+Life satisfaction (+) 0.06 (1.0) 0.03 (0.6) 0.04b 0.86
+Self-confidence (+) −0.07 (0.8) 0.11 (0.6) 0.26a 0.25
+RS (+) −4.69 (12.8) 2.08 (12.8) 0.53a 0.01*
+Sample sizes for completers: BASC-2 (70 yoga, 30 controls), RS (66 yoga, 34 controls), POMS-SF and IPPA
+(67 yoga, 34 controls), and PSS (67 yoga, 33 controls)
+Plus sign indicates a positive trait, minus sign indicates a negative trait (i.e. improvements are indicated by an
+increase in a positive trait score or a decrease in a negative trait score)
+a
+Indicates that effect size favored improvement in yoga
+b
+Indicates that effect size favored improvement in control group
+*pG0.05 is indicated between groups
+Mental Health Benefits of Yoga in a Secondary School KHALSA et al. 85
+0.028), although the changes within groups were insignificant; the yoga group decreased from 48.6
+(SD=7.9) to 47.6 (SD=7.6), (p=0.123), whereas the control group increased from 49.2 (SD=7.2)
+to 50.9 (SD=8.1), (p=0.132). A statistically significant between-group difference over time was
+observed in the Fatigue/Inertia subscale of the POMS-SF (p=0.022); the yoga group showed a
+strong decrease in fatigue from 9.1 (SD=4.5) to 7.7 (SD=3.9), (p=0.009), whereas the control
+group showed a statistically insignificant increase from 7.7 (SD=4.5) to 8.5 (SD=5.0), (p=0.344).
+There were no statistically significant changes in other measures. The outcomes for all of the
+BASC-2 subscales are shown in Table 1.
+Baseline
+Average BASC T-score
+42
+44
+46
+48
+50
+52
+Anger Control
+Yoga
+Control
+Average Resilience Score
+115
+120
+125
+130
+135
+140
+Resilience
+Yoga
+Control
+Average POMS Score
+4
+6
+8
+10
+Fatigue/Inertia
+Yoga
+Control
+End Program
+Baseline End Program
+Baseline End Program
+Figure 1
+Relative changes in Anger, Resilience, and Fatigue. Mean scores are plotted for yoga (solid bar)
+and control (open bar) groups at baseline and at the end of the program for the Anger Control
+subscale of the BASC-2, the Resilience Scale, and the Fatigue/Inertia subscale of the POMS-SF.
+Error bars represent standard errors of the mean
+86 The Journal of Behavioral Health Services & Research 39:1 January 2012
+Secondary analyses
+Yoga session attendance data for students in the yoga intervention group showed significant
+positive correlations with the change in IPPA total score (r=0.25, p=0.041) and the change in IPPA
+Life Purpose and Satisfaction subscale score (r=0.26, p=0.035). There was also a significant
+negative correlation between attendance and the change in Total Mood Disturbance Score on the
+POMS-SF (r=−0.31, p=0.012; with a significant decrease in the subscale of Tension/Anxiety (r=
+−0.25, p=0.041). A significant correlation was also observed between attendance and change in the
+BASC-2 subscale Attitude to School (r=−0.24, p=0.046). There were no significant gender
+differences in the amount of change in study variables.
+General observations, anecdotes, and spontaneous student comments recorded by the yoga
+instructors included issues affected by yoga practice related to mental state and behavior. Students
+frequently commented on the relaxing effect of the yoga sessions and their learned ability to relax,
+such as: “…enjoyed being able to let go of everything, zone out and relax.”; “…felt like the class
+was a relaxing prep for the rest of the day.”; and “Savasana [supine deep relaxation] made me relax
+and calmed me down.” Improvements in coping with stress were also commonly noted in
+comments such as: “…an opportunity to de-stress in the middle of the day and recollect myself…it
+gave me tools to use in everyday life, now I have techniques to de-stress myself on my own.”
+General improvements in mood and positive affect were also commonly reported, as reflected in
+comments such as: “I could reflect on my day in a positive way. This class gave me more energy
+and made me more content.”; “…helped me improve my posture. I’ve had feedback from friends
+and family that I’m more centered.”; and “The challenging postures were positive for me, I liked
+pushing myself. I always felt more relaxed after the class.” Some students remarked on
+improvements in sleep. Yoga instructors noted that many students made visible improvements in
+proper execution/alignment of the yoga postures and understanding of the yoga practices in
+general.
+Discussion
+This study demonstrated that inclusion of a semester-long regular yoga intervention is feasible in
+a high school setting within the school curriculum. Out of 136 potential participants in the study,
+only five declined to participate for religious reasons, whereas most all other non-participants
+dropouts were due to schedule/class elective changes. Among students randomly assigned to the
+yoga intervention, attendance was high and similar to the school's typical physical education class
+attendance levels. This attendance and the generally positive qualitative feedback suggest that the
+yoga was perceived as an acceptable practice by both parents and students in this setting.
+Although statistically significant differences between groups were found for only a few outcome
+measures, each of these favored the yoga group (Table 1). On most measures, findings suggested
+relatively small positive effects in the yoga group but marked declines in the control group, as
+illustrated in the BASC-2 Anger Control and Attitude to School subscales and the RS (Fig. 1 and
+Table 1). One exception to this was the Fatigue/Inertia subscale in which there was a relatively
+strong improvement in the yoga group (Fig. 1). Given that this study was conducted over a single
+fall semester and the post-program outcome measures were near the end of term, it is possible that
+the pattern of worsening in the controls was due the end-of-term exam stress.
+Three constructs were identified with statistically significant improvements among yoga
+participants versus controls: Anger (BASC-2 Anger Control subscale), resilience (RS), and
+Fatigue/Inertia (POMS-SF). The beneficial effect on anger control (and a trend in the POMS-SF
+Anger/Hostility subscale) are consistent with the hypothesized improvements in emotional
+intelligence/stability (self-control, self-reflection/awareness, and flexibility in emotional response)
+for meditative interventions in adolescents 16, with the few previous studies that have reported
+Mental Health Benefits of Yoga in a Secondary School KHALSA et al. 87
+improvements with meditation 21 or yoga 25,27, and with reports of positive mood changes in most
+of the elementary school-based yoga studies 23,24,26,28. The maintenance in resilience by the yoga
+participants, as compared with the significant decrements in control subjects, suggest that yoga
+may promote the kind of equanimity and personal resources that are associated with successful
+coping with stress and adversity and a protective/preventive effect of yoga on mental health. This
+positive role of yoga for stress management has been demonstrated repeatedly in adult studies of
+yoga practice 6,7
+, represents a major reason for participation in yoga practices 35, and has also been
+reported in all of the elementary school-based studies 23–28. Although it is plausible that
+improvements in fatigue/inertia are associated with yoga practice, it was somewhat surprising
+given the lack of statistically significant improvements of a number of other outcome measures that
+would have been more expected with a yoga intervention such as perceived stress, tension/anxiety,
+self-esteem, self-reliance, and somatization. One explanation could be the improvement in sleep
+anecdotally reported by beginning yoga students and also noted by some of the students in this
+study, which would improve daytime wakefulness and reduce sleepiness and fatigue 36.
+Study limitations
+Only a few showed outright statistical significance or trends between groups. There are several
+possible methodological reasons for this. For instance, the BASC-2 is a clinical instrument
+designed for identifying psychopathology in adolescents. Given that the high school participating
+was a rural high school with a largely normative population, the BASC-2 may not be the best
+instrument to identify subtle improvements in psychological variables. Another limitation may be
+that the duration of the intervention was only one semester long and perhaps insufficient to yield
+more significant outcomes. Finally, it should be borne in mind that this study was actually a
+comparative evaluation between Yoga Ed sessions and regular physical education classes, which
+themselves have psychological and physical benefits that overlap those of yoga. A comparative
+study of a curriculum of both physical education and yoga sessions combined with a curriculum of
+only physical education classes may reveal a stronger improvement in the yoga outcomes.
+However, such a study protocol might require a reduction in the number of yoga sessions due to
+scheduling constraints, and it also may be difficult to implement in many schools.
+Other study limitations were related to the exploratory nature of the investigation. The statistical
+analysis did not include adjustments for intention to treat or for multiple comparisons, so these
+results must be interpreted rather cautiously. In fact, at least two significant associations could be
+expected just by chance alone (type I errors), and any correction for multiple comparisons would
+render all of the results as not statistically significant. The strategies adopted to address these issues
+(i.e., comparing dropouts on baseline measures and limiting the number of tests conducted by
+using summary measures rather than all subscales) mitigate the limitations somewhat. In addition,
+subjects from each of the classes were pooled into yoga and control conditions. Although the
+effects of nesting in classes were tested, the small number of total classes limited a comprehensive
+investigation of a number of potentially important within-class factors such as the different
+instructors, time of day, specific curriculum differences, and any other characteristics shared by
+students in each class. Furthermore, the lack of blinding of subjects may have influenced the results
+with a positive expectation. There were also a number of irregularities in the study execution due to
+the constraints of incorporating the study into an ongoing curriculum. These included variable
+lengths of intervention, session frequency, duration of sessions, late acquisition of some outcome
+measures at end-treatment, and cancelled sessions.
+The goal of this preliminary and exploratory study was to identify potential mental health
+characteristics that might be influenced by a yoga intervention; thus, while the above study
+limitations require caution in interpretation of results, a range of mental health constructs have been
+identified which may benefit from further study.
+88 The Journal of Behavioral Health Services & Research 39:1 January 2012
+Implications for Behavioral Health
+The results of this study are particularly important and currently relevant given the association
+between psychosocial stressors and the risk of first incidence of mental health conditions in adolescents 2
+. If future studies of the delivery of a yoga intervention to adolescents in the secondary school setting
+detect improvements in stress-related measures, this may prove to be a useful preventive/protective
+practice for mental health in adolescents. This is especially noteworthy given the lack of existing school
+resources dedicated to stress management and resilience enhancement. Further studies of yoga
+interventions in urban public schools with a variety of outcome measures and longer treatment protocols
+would fulfill a stated need to preventively treat what are initially mild child–adolescent disorders 3

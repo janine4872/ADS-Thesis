@@ -1,0 +1,633 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Educational Administration
+
+ISSN: 0957-8234
+
+Article publication date: 17 September 2021 Permissions
+
+Issue publication date: 25 January 2022
+
+The purpose of this article is to present the results obtained from the investigations that have been carried out within the International Successful School Principalship Project (ISSPP) project in the Spanish for social justice.
+
+Twelve case studies have been carried out within the three lines of research proposed by ISSPP: successful principals, underperforming principals and principal leadership identity. All but one school were in challenging contexts. The methodological approach followed is based on multiple perspective case studies using a mixture of qualitative methods (interviews, focus groups and observations).
+
+Results show that successful principals not only believe in social justice through simple empathy with the concept of social justice, but also use strategies that combine transformational and instructional leadership processes and manage to reverse the bad situation of their disadvantaged schools, seeking excellence from equity. The leadership identity of successful principals is characterized to look to the future with hope, adopting a realistic utopian attitude to interpret their surrounding reality.
+
+From the case studies carried out, valuable information is obtained, which helps to understand the possibilities of implementing the ISSPP successful school leadership model in heterogeneous and disadvantaged context for equity and social justice.
+
+Moral Santaella, C. (2022), "Successful school leadership for social justice in Spain", Journal of Educational Administration, Vol. 60 No. 1, pp. 72-85. https://doi.org/10.1108/JEA-04-2021-0086
+
+Emerald Publishing Limited
+
+Copyright © 2021, Emerald Publishing Limited
+
+In Spain, the study on school leadership has been primarily associated with change and school improvement and is currently given a leading role to promote the change that the educational system needs (Bolívar, 2019a; Ministry of Education and Vocational Training (MEVT), 2020). The International Successful School Principalship Project (ISSPP) in Spain has contributed to this by developing a conceptual framework to take the step from bureaucratic direction toward transformational and shared leadership, focused on improving student learning.
+
+In Spain, the Research Network on Leadership and School Improvement (RILME) has contributed numerous investigations to the ISSPP across all its strands: Strand 1 – Leadership in successful schools; Strand 2 – Leadership in underperforming schools; Strand 3 – Identity in leadership. Many of the studies have followed the ISSPP research protocols (González-Falcón et al., 2020; Hernández-Castilla et al., 2017; Moral-Santaella et al., 2018a, 2018b, 2019; Moral-Santaella, 2020) or used the conceptual framework of the ISSPP to guide the research (Bolívar, 2019b; Cruz-González et al., 2020; Lucena et al., 2020; Ritacco and Bolívar, 2018; Sánchez-Moreno et al., 2021). These studies focus on analyzing successful leadership in public schools located in disadvantaged and marginalized contexts. Therefore, the conclusions reached by these investigations are fundamentally focused on highlighting the traits of successful leadership in disadvantaged contexts and for social justice.
+
+The purpose of this paper is to explore the Spanish research contribution to the ISSPP. It begins with a brief review of the qualities and characteristics of successful school leadership from the ISSPP (Day and Leithwood, 2007; Day et al., 2011; Gurr, 2015, 2017) and the possibilities and limitations for the development of successful school leadership in disadvantaged contexts in Spain. Next, the methodological procedures used in the studies are described, followed by presentation and discussion of the results obtained from the Spanish contribution, emphasizing the way of conceiving leadership in the Spanish context and the contribution to the international context ISSPP.
+
+The ISSPP is fundamentally aimed at identifying the characteristics of successful school leadership worldwide (Gurr, 2015, 2017) and has a broad view of what successful leadership means for students. Success includes “academic attainment and progress, participation and achievement in extra and curricular programs, and personal aspects such as social development” (Gurr, 2015, p. 143). Within the ISSPP project, many cases have focused on schools in challenging contexts (e.g. Day, 2007, in England; Gurr et al., 2018, in Australia; Moller and Vedoy, 2014, in Norway and Merchant et al., 2014 in the USA).
+
+According to ISSPP, successful principals are tenacious, committed, visionary, passionate, resilient and focused on student achievement (Day et al., 2011; Day and Leithwood, 2007; Gurr, 2015). They promote a leadership model with democratic, distributed and collaborative components and interact with teachers to manage and improve the teaching learning program without adopting an authoritarian attitude (Day and Gurr, 2014; Gurr, 2015, 2017).
+
+Within the ISSPP, it seems that both instructional and transformational leadership are necessary for successful leadership (Day et al., 2011, 2016; Day and Leithwood, 2007; Gurr, 2015, 2017; Gurr and Day, 2014). Although the ISSPP project does not identify a particular style of successful leadership, it does ratify a series of core leadership practices: establishing directions; developing people and promoting teacher professional development; refining and aligning the organization to strengthen participative and democratic processes; and improving the teaching learning program.
+
+The ISSPP project also includes studies on leadership sustainability (Moss et al., 2011) and has described the characteristics and strategies of successful principals who have sustained success over time (Day, 2007; Drysdale et al., 2011; Goode, 2017; Jacobson et al., 2011; Moos, Johansson and Day, 2011; Ylimaki et al., 2011). Gurr (2020) summarized the ISSPP findings regarding sustainability and suggested that the factors that seemed to be essential for principals to sustain their success included the following:
+
+actively engaging with others to arrive at a consensus about what a school should do
+
+personal qualities and beliefs such as resilience, commitment to making a difference
+
+engaging the school and broader community
+
+balancing competing discourses
+
+utilizing both transformational and instructional leadership practices
+
+continuing their professional learning
+
+managing accountability expectations and a positive attitude to change
+
+For successful leadership to be sustainable, principals must engage in a complex and continuous improvement process that is not based on the figure of a heroic leader. A heroic leader cannot sustain and maintain improvement by themself. The ISSPP project results speak of a post-heroic leader, who distributes leadership effectively, develops a collaborative professional culture among school members and generates a feeling of collective responsibility that guides the organization through clearly established objectives that all school members share (Day and Leithwood, 2007; Drysdale et al., 2014; Gurr and Day, 2014).
+
+According to ISSPP, the identity of successful principals is conditioned by individual and social variables (Crow et al., 2017; Crow and Møller, 2017). At an individual level, Crow and Møller (2017) suggested that the identity of principals is determined by the emotional influences of self, role and work context. Successful principals often have a strong sense of self-efficacy supported by the belief that they can make a difference (Gurr and Drysdale, 2018). With the social side, which includes the situated, historical-cultural and political dimensions of principal identity, Crow and Møller (2017) argued this is negotiated, taken for granted and constrained within cultures and contexts. Identity is an individual construction of meanings and is influenced by the political, cultural and historical environment. Even though principals’ identity is conditioned by the context and developed in adaptation to their school context, successful principals respond to their context demands and modify and change this context to achieve its improvement (Gurr et al., 2018).
+
+In Spain, the school has long been considered an instrument of social change and improvement, capable of balancing social differences. As such, different strategies for school success (academic and educational) are sought to reduce school failure and improve student learning outcomes (De la Orden, 1991). But the data and figures provided by the Ministry of Education and Vocational Training (MEVT, 2021) indicate that Spain has some of the highest rates of repeating students and early school leaving of all the European Union member states. According to the OECD (2018), the academic results of Spanish students in disadvantaged contexts continue to be lower than students in advantageous contexts. Research from the ISSPP disadvantaged contexts and for social justice in different countries around the world highlights the need to resist this evidence vehemently and indicates that leadership is a key variable in the fight against these injustices (Day, 2007; Gurr et al., 2018; Møller and Vedoy, 2014; Merchant et al., 2014). Gurr et al. (2018) describe several contextual elements that impact the work of successful principals, and these will be used to consider further the work of principals in Spain.
+
+The educational improvement policy in Spain considers the school the basic unit of improvement and the school leadership its ally (Bolívar, 2013), and at the same time it is committed to a policy that promotes equity and social justice (Tiana, 2020). But keep in mind that, since the 1990s, there have been six educational laws in Spain, with their corresponding educational reforms. Some have been conservative and neoliberal, while others have been social-democratic (Escudero, 2018). This has caused a great deal of educational uncertainty, and none of the laws has managed to alleviate the serious problem of educational inequality in Spain (Escudero, 2018; Tiana, 2015).
+
+While Spanish principals enjoy a certain autonomy in their schools, they are governed by the laws and regulations that come from the Spanish MEVT, changing as we have just mentioned, but all of them directed, in one way or another, to reduce dropout and school failure through principles of equality, equity and social justice (Tiana, 2020). But we must also bear in mind that there is no single way of conceiving social justice in Spain (Escudero, 2018; González, 2014; Murillo and Hernández-Castilla, 2014). For Bolívar (2012), social justice is based on the concept of equal opportunities and distinguishes three options (Bolívar, 2012, p. 18):
+
+A meritocratic equality of opportunities where merit and personal effort are valued (this is associated with a right-wing neoliberal ideology).
+
+A universal or equal opportunity equality in which all students should be treated equally regardless of their talent or wealth (this is associated with a social democratic ideology).
+
+Compensatory equal opportunities in which affirmative action is used to compensate for inequalities and disadvantages (this is associated with a social democratic or progressive leftist ideology).
+
+From this last approach, the principle of merit is rejected in favor of the principle of compensation, and it is recommended to equalize the curriculum through key competencies and core abilities (Bolívar, 2012). “Darwinian and predatory policies” associated with neoliberal thinking are also rejected (Escudero, 2018, p. 22), and it is recommended, among other suggestions, to limit early school leaving and eliminate school repetition (Escudero, 2018). From the equity approach to understanding social justice, it is admitted the impossibility of absolute equality, therefore, the problem is no longer “the existence of inequalities, but the just or unjust consequences that may arise from them” (Tiana, 2020, p. 18).
+
+For Tiana (2015), the Spanish educational system is “stagnant” (p. 15), and this is partly because different political ideologies influence the values of the Spanish school community. For example, there is widespread criticism about the call for excellence and equity for the 21st century (OECD, 2016). Some consider that it is mere camouflage for the prevailing competitive logic obsessed with raising student learning levels and results (Escudero, 2018). There are even authors who consider that “excellence is associated with an elitist school culture, because, in addition, it represents one of the essences of conservative and neoliberal thought in the educational field” (Guarro, 2018, p. 67).
+
+Spain is enduring an economic crisis, recently increased by the problems derived from the Coronavirus pandemic. The State School Council (CEE) forecasts are that spending on education will be determined by this situation (CCE, 2021). Heterogeneous and disadvantaged schools find themselves with a population with few resources, with many deprivations and very problematic. For this reason, it is difficult to find teachers who want to work in schools of this type (Llorent-Bedman et al., 2017). In general, teachers are characterized by complaining of an overload of tasks and administrative demands, in addition to maintaining a highly individualized culture. Principals are characterized by being especially interested in maintaining the system rather than improving it (Viñao, 2004). In addition, principals have little stability and professional identity, since they maintain a dual identity, are teachers as well as principals (Ritacco and Bolívar, 2018), are dedicated to bureaucratic issues rather than to issues related to improving teaching and have weak training in teaching–learning issues (Moral et al., 2016). Principals work long hours and have few rewards, feel saturated and even stressed in general (Moral and Amores, 2014).
+
+All Spanish schools have accountability requirements to meet (MEVT, 2021). Still, a characteristic feature of disadvantaged schools is the so-called “dictatorship of the non-alternativ” (Escudero, 2018, p. 38), in which inequality is justified and accepted, and the impossibility of improving disadvantaged students is assumed. For example, disadvantaged students are offered a less demanding curriculum, and there is even talk of dual education for different groups of students (advantaged and disadvantaged) (Bolívar and Domingo, 2018). This can include parallel curricular adaptations and different organizational measures, which in some cases lead to a double curriculum and are considered an instrument of exclusion (Domingo and Martos, 2017). Escudero (2018, p. 28) refers to the existence of “pedagogical oases of excellence,” reserved for a few who have the privilege of being included in them, causing persistent gaps, between a rich education, for the elites, and a poor, irrelevant, monotonous and boring one, for the disadvantaged. To work in disadvantaged contexts and promote social justice, the pedagogy of mere transmission and reproduction of knowledge is rejected. Education is chosen from the Freirian approach of critical pedagogy (Murillo and Hernández-Castilla, 2014), as well as a model training based on competencies (Bolívar, 2012), adopted by the Spanish educational system since the proposal of the European Council (2004). In education for social justice, it is recommended to guarantee disadvantaged students the key competencies that allow them to acquire basic learning to correct the unequal effects of meritocratic systems (Bolívar, 2012).
+
+The Spanish contribution to the ISSPP Project involves 12 case studies, covering the three strands of the ISSPP as follows:
+
+Strand 1 – Successful principals: Four multiple perspective interview and observational case studies in schools in heterogeneous and diverse contexts have been carried out by the Autonomous University of Madrid (Hernández-Castilla et al., 2017), and two multiple perspective interview case studies of schools in heterogeneous, diverse and disadvantaged context by the research team of the University of Granada (Moral-Santaella et al., 2018a).
+
+Strand 2 – Underperforming principals: Two multiple perspective interview case studies of schools in heterogeneous, diverse and disadvantaged context by the University of Granada (Moral-Santaella et al., 2018b, 2019), and two multiple perspective interview case studies of schools in disadvantage and advantage context (visible and invisible schools) have been carried out by the research group of the University of Huelva (Gonazález-Falcón et al., 2020).
+
+Strand 3 – Principal leadership identity: Two case studies based on grounded theory method, a successful principal in an disadvantaged and heterogeneous school and another underperforming in a disadvantaged and heterogeneous school, comparing the identity of these two principals, by the research group of the University of Granada (Moral-Santaella, 2020).
+
+Table 1 provides a summary of the school characteristics and the data collection procedures used for each case. Cases 1–4 are from Hernández-Castilla et al. (2017), 5 and 6 from Moral-Santaella et al. (2018a), cases 7 and 8 from Moral-Santaella et al. (2018b, 2019), cases 9 and 10 from Gonazález-Falcón et al. (2020), and cases 11 and 12 from Moral-Santaella (2020).
+
+The studies have been carried out in public schools of primary and secondary education and, fundamentally, in schools with a heterogeneous, diverse and disadvantaged population, in need of social justice (Murillo et al., 2010). Cases taking part in the research project have been selected according to the selection criteria proposed by the ISSPP project. Specifically, having good/bad student academic indicators in relation to and having good/bad educational inspection reports. Most of these schools have a very heterogeneous population and are located in disadvantaged economic and social contexts and hosted a diverse population, with numerous immigrant and gypsy families with precarious employment, or unemployed and very low educational levels. There is one exception, which is a school in a favored context, but which has been selected as an underperforming “invisible” school (González-Falcón et al., 2020). This school, classified as invisible, is located in a socioeconomic and cultural context with a good rating according to the analysis parameters of the sociocultural and economic indexes and with academic results worse so what should correspond to their area and social stratum.
+
+Strand 1 case studies began to be carried out in Spain in the early 2010s, when the LOE law was in force (Ministry of Education and Science, 2006), and strand 2 and 3 case studies were carried out between 2013 and 2017 when the LOMCE education law (Ministry of Education, Culture and Sports, 2013) was in force in Spain; LOMCE has been classified as a right-wing, conservative and neoliberal ideology law (Torres-Santomé, 2017). For data collection, the case study protocols and questionnaires provided by the ISSPP have been used (Day, 2013). The research was based on multiple perspective case study methodology (Day, 2013) that utilizes individual interviews with principals and teachers (three teachers per school); educational inspector/counselor; and group interviews with teachers, students and parents, and document collection as per the core research tools, supplemented by questionnaires and observation of the life of the school in some cases. The ISSPP’s semi-structured interview protocols were used with principals, teachers, parents, students and “governors.” In a Spanish context, the figure of “governor” cannot be located, and, therefore, it was replaced by the figure of education inspector or counselor. The interview questions focus on exploring the personal traits, dispositions and leadership strategies used by principals under the ISSPP’s successful leadership model (Day, 2013).
+
+The case studies were analyzed through content analysis (Strauss and Corbin, 1998) based on the categories proposed by the ISSPP project and associated with models of successful school leadership (Gurr, 2015, 2017). Data obtained were analyzed using NVivo software (version 10.1.3) (Moral-Santaella et al., 2018a, b, 2019), Atlas.ti 7 (Hernández-Castilla et al., 2017) and MaxQda qualitative data analysis program (González-Falcón et al., 2020).
+
+In addition to the individual analysis carried out on each case, comparative studies have been carried out that compare successful and underperforming principals (Moral-Santaella et al., 2018b, 2019) in visible and invisible schools (González-Falcón et al., 2020) (high and declining school – invisibility/low and increasing school – visibility; González-Falcón et al., 2020), as well as longitudinal studies over two years of study (2013–2014/2015–2016) (Moral-Santaella et al., 2019). To carry out these studies, the combined case study method has been used (Teddlie et al., 2008) and the longitudinal perspective highlighted by Ruspini (2008).
+
+Regarding the studies carried out within strand 3, The Grounded Theory (Strauss and Corbin, 1998) was used as base methodology, and data collection was based on observations and semi-structured interviews with the principals allowing a holistic view on principals’ identity (O'Reilly and Kiyimba, 2015).
+
+The variety and richness of the 12 case studies carried out in Spain provide valuable information on the characteristics, traits and strategies of successful and less successful principals in schools located in disadvantaged contexts and who work for social justice.
+
+The successful principals (González-Falcón et al., 2020; Hernández-Castilla et al., 2017; Moral-Santaella et al., 2018a, b, 2019) present a value system associated with their high sense of responsibility, commitment to the community and social justice. They are also empathetic, approachable and open to dialogue, and all of them maintain a dedicated attitude of service to society, trying to change it and make it fairer. While many of these traits are seen in both successful school principals and those in underperforming schools, principals of successful schools also hold high levels of academic optimism, intrinsic motivation, resilience and passion for their work, traits that are not as readily evident in principals in underperforming schools (González-Falcón et al., 2020). The successful principals also show great determination in achieving their goals and maintain high levels of control over everything that happens in their schools (Moral-Santella et al., 2018b, 2019). This control is not seen from an authoritarian perspective of restriction of freedom, but a necessary condition for the proper functioning of the school. As a teacher of one of the case studies comments, comparing the performance of two principals that her school has had (one successful/previous and others less successful/new):
+
+this (new) principal is a chess player who observes the play and eventually takes part … the presence of the other (previous) principal was more visible (in the corridor, at the door …) he had everything under control … (Moral-Santaella et al., 2018b, p. 13)
+
+These traits could be associated with the now criticized charismatic/heroic principal view, but as Day (2009) points out, successful principals are not charismatic and heroic in the traditional sense. Rather, they have an unwavering sense of their moral purpose and personal characteristics that become a benchmark for others. In other ISSPP research, Drysdale et al. (2014) suggested that successful principals could be described as post-heroic leaders, in that they are willing to take risks for the benefit of their schools, but do so with the support of many, as described in the next paragraph.
+
+Strategies used by successful principals are fundamentally aimed at developing a collaborative environment to involve teachers in improving teaching and learning. Shared or collaborative leadership is promoted, and a combination of transformational and instructional leadership is used (Day et al., 2016; Gurr, 2015, 2017). Teachers in successful schools participate, get involved and build a learning community (González-Falcón et al., 2020; Hernández-Caatilla et al., 2017; Moral et al., 2018a, b, 2019). Learning communities are less evident in underperforming schools, where it is common to find an environment lacking in enthusiasm and energy. Principals describe teachers in underperforming schools as “entrenched teachers” (Moral-Santaella et al., 2018b, p. 13), and teachers in these schools describe themselves as bored, stressed and saturated (Moral-Santaella et al., 2018b, 2019). On the contrary, successful school principals and teachers describe themselves as enthusiastic, as loving the project carried out by the school, being part of the school project, and protagonists of its implementation (Moral-Santaella et al., 2018a). Successful principals are very aware of the necessary participation of teachers and consider that: “… it is important to attend to the diversity of students, but it is even more important to attend to the diversity of teaching staff” (Moral-Santaella et al., 2019, p. 14). Parents in successful schools trust the actions of principals and students feel cared for, protected and appreciated; “he is very friendly with us … he knows our names and cares a lot about us ….” (Moral-Santaella et al., 2018a. p. 570).
+
+School direction is clear and well determined in successful schools. Successful principals use the metaphor of navigation: “if the ship does not have a good direction, it is adrift” (Moral-Santaella et al., 2019, p. 13). Some teachers in successful schools use the metaphor of the conductor of an orchestra to compare successful conductors and those who let each one play their instrument without achieving a harmonic melody and relying on “intuitive music” (Moral-Santaella et al., 2019, p. 13). Some successful principals consider that their purpose is directed toward excellence from equity (Moral-Sanaella et al., 2018a, b, 2019; Moral-Sanaella, 2020); that is, the school is successful for all students. They seek excellence from equity “almost like an obsession” (Moral-Santaella et al., 2018a, p. 570). For underperforming principals, they are less focused on curricular objectives and less concerned with excellence; the objective is “to be on time, to come to class clean, to talk with respect … the objective is not for the kids to graduate – no, we've got to start with the basics” (Moral-Santaella et al., 2018b, p. 11). In underperforming schools, a double curriculum is also observed (Domingo and Martos, 2017) since it is common to find comments such as: “some students are required, but not all equally” (Moral-Santaella et al., 2018b). Inspectors value principals who not only carry out mere bureaucratic leadership but also seek excellence.
+
+Being in the middle – see what's happening – does not lead to anywhere, you have to have an objective … that your school becomes the best, looking for excellence. Other principals are not so enthusiastic … this successful principal is always pursuing student excellence. He does not manage from a bureaucratic point of view, i.e. “Do what I have to do,” seeking no problems … but, at what cost? At the cost of not demanding anything from students, parents, or teachers. (Moral-Santaella et al., 2019, p. 14)
+
+Principals of underperforming schools complain about teachers who have no interest in improvement but consider themselves without moral strength to demand a change and better results. Principals excuse teachers because they assume that teachers have an overload of tasks. Still, at the same time, they are aware that the interest in improvement is diminishing, the energy is leaving them and a feeling of pessimism invades the schools (Moral-Santaella et al., 2019).
+
+Regarding the improvement of the teaching program, in underperforming schools, there are few expectations, and the objective is very basic: to provide to students the minimum standard to function in society. It is common to find the comment that “we are pulling the students” (Moral-Santaella et al., 2018b, p. 15), or “we contain the students” (Moral-Santaella et al., 2019, p. 17). The structure of teaching in underperforming schools often follows a basic traditional teaching protocol. On the contrary, successful schools are looking for new alternatives, new projects and new ways of making learning attractive to students. In some cases, reference is made to teach by competencies as an instrument of educational quality (Hernandez-Castilla et al., 2017). In other cases, there is talk of teaching units and curricular programs developed to be the most attractive and exciting possibilities for the diversity of students in the school (Moral-Santaella et al., 2018b, 2019). Successful principals value innovation and seek new alternatives with increasingly personalized and attractive teaching designs to motivate students. On the contrary, underperforming principals consider that you have to be realistic and go back to the basics. They have no confidence in innovation since they believe that innovative proposals are only theories that are impossible to put into practice in disadvantaged contexts and associated with “Darwinian policies” that come from the Spanish educational right (Moral-Santaella, 2020, p. 159).
+
+Regarding professional identity, successful principals have a well-defined, stable and secure identity (Moral-Santaella, 2020). Their work conforms to the wider findings of the ISSPP (Day et al., 2011; Gurr, 2015, 2017). On the other hand, the identity of underperforming principals does not reflect a clear connection with the role of a leader as described by the ISSPP, and their identity is superficial and associated with a merely bureaucratic role. It is a contingent and unstable identity conditioned by contextual variables such as the socio-economic level of the families attending the school, the lack of resources, educational regulations, political variables, etc. Specifically, the identity of the underperforming school principal has a great political conscience. It has great prejudices that lead the principal to classify teachers as right-wing like people who do not care about social injustice: “The people of the left are more involved and collaborate more because they believe in social justice” (Moral-Santaella, 2020, p. 161). By comparison, successful principals are reluctant to state or impose their political views on the school: “I never talk about politics and intend to maintain exclusively professional relationships with teachers” (Moral-Santaella, 2020, p. 159). The professional identity of successful principals is not just situational or socially determined, conditioned by the uncertain contextual or political conditions that current Spanish society experiences. Rather, it has higher purpose ambitions, and more certain in the knowledge that they can make a difference to the lives of students. It is not easily distracted from this purpose by contextual matters like changing social and political circumstances.
+
+Successful principals tend to convey positive emotions such as self-confidence and self-esteem, while underperforming principals tend to show more negative and conflicting emotions, showing an authoritarian feeling rather than a feeling of openness and cordiality: “I sail against the current …. I have had to reaffirm my philosophical position … learning to say no” (Moral-Santaella, 2020, p. 159). This comment reflects an isolated leadership, not shared, only supported by teachers of the same political vision. The identity of the successful versus underperforming principals seems to be different, with successful principals more hopeful and optimistic and underperforming principals more trapped by the many contextual and social variables. The successful principal builds their professional identity from a “realistic utopian” vision focused on improving students’ learning results. On the contrary, the underperforming principal uses a merely “realistic” view to interpret the school context’s reality and make sense of the principalship (Moral-Santaella, 2020).
+
+Thanks to the research carried out in Spain under the ISSPP Project, we have been able to appreciate two contrasted positions of successful and underperforming principals in the context of Spanish disadvantage. The traits and strategies used by underperforming principals may reflect the stagnation of the educational system referred to by Tiana (2015). But it also shows the form of performance of successful principals who improve their schools and surpass schools in advantageous contexts to school performance data (AGAEVE, 2011-2016). These successful schools could be classified as the oases of excellence described by Escudero (2018), built, not from the elite and privileged contexts but from disadvantaged schools. Postheroic principals (Gurr and Day, 2014) manage to make their projects come true, working for social justice and trying to break the vicious circle of an unjust society. There are principals who are not immersed in the political conflicts of the right/left that saturate Spanish educational life.
+
+Unfortunately, data collected by MEVT (2021) are troubling in that many schools are not achieving good results. But the research carried out as part of the ISSPP shows the path and direction to deal with this. Some principals manage to reverse the bad situation of their schools and remove them from the pessimism that is too often breathed in disadvantaged contexts, seeking excellence from equity and valuing the merit and effort of the students. Successful principals promote a professional learning community within their schools to improve the learning outcomes of their students. For this, different options can be used such as critical methodologies (Murillo and Hernández-Castilla, 2014), the development of basics competencies (Bolívar, 2012) and/or quality didactic designs that pay attention to the subject matter knowledge (Moral-Santaella and de la Herran, 2021).
+
+Currently, the trend in the Spanish educational system is toward compensatory education supported by the development of basic competencies (Bolívar, 2012) and away from the culture of deficit (Bolívar and Domingo, 2018; Escudero, 2018). The Spanish MEVT plans to eliminate student class repetition to achieve inclusion and avoid school dropouts (CEE, 2020). This could be interpreted as a surrender to the bad figures and data provided by the MEVT on school failure (MEVT, 2021). But eliminating the problem of school failure by removing the data that show the problem is not the best way to solve the problem. This could be interpreted as looking the other way, leaving the problem unsolvable. An alternative proposal would be to try to solve it by considering the ISSPP findings on successful school leadership from a realistic utopian perspective that seeks compensation, excellence and keeping the evidence of failure and repetition data as an indicator to verify progress of the Spanish educational system.
+
+The results of ISSPP studies in Spain provide a deep and elaborate insight into the possibilities of implementing the ISSPP successful school leadership findings in heterogeneous and disadvantaged contexts and reinforce the thesis that it is not the context variable that is decisive in the academic results but rather a leadership capable of involving teachers, an open and optimistic leadership with hopes and expectations, making the moral purpose of education and the purpose of social justice to reality (Hernández-Castilla et al., 2017; González-Falcón et al., 2020; Moral-Santaella et al., 2018a, b, 2019, 2020).
+
+The results of these investigations (Hernández-Castilla et al., 2017; González-Falcón et al., 2020; Moral-Santaella et al., 2018a, b, 2019, 2020) conclude with a range of essential traits, qualities and practices that identify principals who successfully work for social justice in disadvantaged contexts:
+
+Not only do they have traits of affability and empathy, and the willingness to change things but also implement a passionate leadership that applies all possible strategies to achieve their objectives. Not only do they believe in social justice through simple empathy with the concept of social justice but also are passionate about the project at hand, which leads them to implement a kind of leadership that mobilizes and wins over teachers, using control, strength and determination traits. The strategies used are those that combine transformational and instructional leadership processes.
+
+They support the project for change and improvement of learning as a matter that has to be constantly maintained and nurtured, as a living thing that would be destroyed if it stopped transmitting energy. They maintain and support a leadership adopting an optimistic and resilient attitude, believing that change is possible. They avoid the excess of educational policy that divides and confronts because it does not lead to the school’s success, demonstrating that only unites in a common project are effective.
+
+Although they are very conscious of the difficulties involved in working in disadvantaged contexts, the leadership identity that characterizes them looks to the future with hope, adopting a realistic utopian attitude to interpret their surrounding reality. They configure their professional identity, escaping from a mere realistic view of reality, to achieve its transformation. They do not confront their profession by exercising a simple bureaucratic, professional identity, just on the surface of the professional self but rather adopt a committed attitude that goes deep into the foundations where they develop their identity as persons.
+
+Our studies corroborate the findings of the ISSPP (e.g. Day, 2007; Gurr et al., 2018; Møller and Vedoy, 2014; Merchant et al., 2014) and show how principals can be effective in disadvantaged contexts and fight for equity and social justice. The next step will be to continue deepening with the new projects that ISSPP is planning to continue advancing in the search for a successful leadership capable of being impactful in disadvantaged contexts and breaking the link between poverty and low educational outcomes.
+
+School and data collection characteristics
+
+Note(s): HDD, heterogeneous, diverse and disadvantaged population; HAC, homogeneous population and in an advantaged context; EP, individual principal interviews; ET, individual teacher interviews (three teachers); EGT, Group interview with 4–6 teachers; EGS, Group interview with 4–6 students; EGP, Group interview with 4–6 parents; EI/C, Individual interview with inspector/counselor; Q, Questionnaires; OB, Observations
+
+AGAEVE (Andalusian Educational Evaluation Agency) (2011-2016), Approved Indicators, Council of Education, Seville.
+
+Bolívar, A. (2012), “Social justice and school equity. A current revisión”, International Journal of Education for Social Justice (RIEJS), Vol. 1 No. 1, pp. 9-45.
+
+Bolívar, A. (2013), Current Policies for Educational Improvement and Leadership, Aljibe, Málaga.
+
+Bolívar, A. (2019a), A School Leadership with Pedagogical Leadership Capacity, Aula Abierta, Madrid.
+
+Bolívar, A. (2019b), “A Spanish framework for school principal and professional identity: context, development and implications”, Education Policy Analysis Archives, Vol. 114 No. 41, pp. 1068-2341.
+
+Bolívar, A. and Domingo, J. (2018), “Leadership and inclusion in challenging contexts: case study in secondary education”, in Torrego, J.C. and Monge, C. (Eds), Educational Inclusion and Cooperative Learning, Síntesis, Madrid, pp. 99-121.
+
+CEE (2020), Educational Proposals of the State School Council 2020–2021, MEVT, available at: https://www.educacionyfp.gob.es/dam/jcr:be1e14d8-0887-4bc3-95e5-559edb30fbf8/propuestas-cee-curso-20-21.
+
+CEE (2021), Current Situation of Education in Spain as a Result of the Pandemic, MEVT, available at: https://www.educacionyfp.gob.es/dam/jcr:d6fb3623-2fee-47b3-899b-f9c47ae48ab8/situacion-educacion-covid--avance-15-ene.
+
+Crow, G., Day, C. and Møller, J. (2017), “Framing research on school principals' identities”, International Journal of Leadership in Education, Vol. 20 No. 3, pp. 265-277.
+
+Crow, G. and Møller, J. (2017), “Professional identities of school leaders across international contexts: an introduction and rationale”, Educational Management Administration and Leadership, Vol. 45 No. 5, pp. 749-758.
+
+Cruz-González, C., Pérez-Muñoz, M. and Domingo, J. (2020), “Marta's story: a female principal leading in challenge contexts”, School Leadership and Management, Vol. 40 No. 5, pp. 384-405, 1-22.
+
+Day, C. (2007), “Sustaining success in challenging contexts”, in Day, C. and Leithwood, K. (Eds), Successful Principal Leadership in Times of Change, Springer, Dordrecht, pp. 59-70.
+
+Day, C. (2009), “Capacity building through layered leadership: sustaining the turnaround”, in Harris, A. (Ed.), Distributed Leadership, Springer, London, pp. 121-138.
+
+Day, C. (2013), International Successful School Principalship Project (ISSPP) Members Guide, University Nottingham, Nottingham.
+
+Day, C. and Gurr, D. (Eds) (2014), Leading School Successfully. Stories from the Field, Routledge, London.
+
+Day, C. and Leithwood, K. (Eds) (2007), Successful School Leadership in Times of Change, Springer-Kluwer, Dordrecht.
+
+Day, C., Gu, Q. and Sammons, P. (2016), “The impact of leadership on student outcomes: how successful school leaders use transformational and instructional strategies to make a difference”, Educational Adminstarion Quarterly, Vol. 52 No. 2, pp. 221-258.
+
+Day, C., Sammons, P., Leithwood, K., Hopkins, D., Gu, Q. and Brownwith Ahtaridou, E.E. (2011), School Leadership and Student Outcomes: Building and Sustaining Success, Open-University-Press, Maidenhead.
+
+De la Orden, A. (1991), “School success”, Complutense Education Journal, Vol. 2 No. 1, pp. 13-25.
+
+Domingo, J. and Martos, J.M. (2017), “Prevention of school failure in secondary education”, Revista Internacional de Educación para la Justicia Social (RIEJS), Vol. 6 No. 1, pp. 329-347.
+
+Drysdale, L., Goode, H. and Gurr, D. (2011), “Sustaining school and leadership”, in Mooss, L., Johansson, O. and Day, C. (Eds), How School Principals Sustain Success over Time, Springer, Dordrecht, pp. 15-38.
+
+Drysdale, L., Bennett, J., Murakami, E., Johansson, O. and Gurr, D. (2014), “Heroic leadership in Australia, Sweden, and the United States”, International Journal of Educational Management, Vol. 28 No. 7, pp. 785-797.
+
+Escudero, J.M. (2018), “Inclusion, justice and equity for educational improvement”, in Torrego, J.C. and Monge, C. (Eds), Educational Inclusion and Cooperative Learning, Síntesis, Madrid, pp. 17-58.
+
+European Council (2004), Key Competences Lifelong Learning, UE, available at: https://ec.europa.eu/education/education-in-the-eu/council-recommendation-on-key-competences-for-lifelong-learning_en.
+
+González, T. (2014), “Leadership for social justice in educational organizations”, Revista Internacional de Educación para la Justicia Social (RIEJS), Vol. 3 No. 2, pp. 85-106.
+
+González-Falcón, I., García-Rodríguez, M.P., Gómez-Hurtado, I. and Carrasco-Macías, M.J. (2020), “The importance of principal leadership and context for school success: insights from ‘(in)visible school’”, School Leadership and Management, Vol. 40 No. 4, pp. 248-265.
+
+Goode, H. (2017), “A study of successful principal leadership: moving from success to sustainability”, Doctor of Philosophy thesis, The University of Melbourne.
+
+Guarro, A. (2018), “Critical ethics and institutional coherence as challenges for the improvement of educational inclusion”, in Torrego, J.C. and Monge, C. (Eds), Educational Inclusion and Cooperative Learning, Síntesis, Madrid, pp. 59-96.
+
+Gurr, D. (2015), “A model of successful school leadership from the international successful school principalship project”, Societies, Vol. 5, pp. 136-150.
+
+Gurr, D. (2017), “A model of successful school leadership from the international successful school principalship project”, in Leithwood, K., Sun, J. and Pollock, K. (Eds), How School Leaders Contribute to Student Success, Springer, Dordrecht, pp. 15-29.
+
+Gurr, D. (2020), “Multiple perspective and observational case study research as used in the international successful school principalship study”, in Presentation as Part of the Series Research Methodology and Application of Statistical Tools in Research, Tamil Nadu Teachers Education University (State University) with Dhupguri College of Education, September 15, 2020.
+
+Gurr, D. and Day, C. (2014), “Thinking about leading schools”, in Day, C. and Gurr, D. (Eds), Leading Schools Successfully: Stories from the Field, Routledge, London, pp. 194-208.
+
+Gurr, D. and Drysdale, L. (2018), “Leading high needs schools: findings form the international school leadership development network”, International Studies in Educational Administration (ISEA), Vol. 46 No. 1, pp. 147-165.
+
+Gurr, D., Drysdale, L., Longmuir, F. and McCrohan, K. (2018), “The leadership, culture and context nexus: lessons from the leadership of improving schools”, International Studies in Educational Administration, Vol. 46 No. 1, pp. 22-44.
+
+Hernández-Castilla, R., Murillo, J. and Hidalgo, N. (2017), “Lessons learned from the successful school leadership study: the cases of Spain in the ISSPP international project”, Journal of Educational Research (RIE), Vol. 35 No. 2, pp. 499-518.
+
+Jacobson, S., Johnson, L. and Ylimaki, R. (2011), “Sustaining school success”, in Mooss, L., Johansson, O. and Day, D. (Eds), How School Principals Sustain Success over Time. International Perspectives, Springer, Dordrecht, pp. 109-126.
+
+Llorent-Bedman, V., Cobano-Delgado, V. and Navarro-Granados, M. (2017), “Pedagogical leadership and school management in disadvantaged contexts”, Spanish Journal of Pedagogy, Vol. 75 No. 269, pp. 541-564.
+
+Lucena, C., Cruz-González, C. and Domingo, J. (2020), “Training of identity-based leadership in school principals: a systematic review of the international literature”, International Journal of Organizational Diversity, Vol. 20 No. 2, pp. 35-53.
+
+Merchant, B., Garza, E. and Murakami, E. (2014), “USA – culturally responsive leadership”, in Day, C. and Gurr, D. (Eds), Leading School Successfully. Stories from the Field, Routledge, London, pp. 174-183.
+
+Ministry of Education and Science (2006), Organic Law 2/2006, LOE.
+
+Ministry of Education, Culture and Sports (2013), Organic Law 8/2013, LOMCE.
+
+Ministry of Education and Vocational Training (MEVT) (2020), Organic Law 3/2020, LOMLOE.
+
+Ministry of Education and Vocational Training (MEVT) (2021), Data and Figures, Academic year 2020/2021, General Technical Secretariat, Madrid.
+
+Møller, J. and Vedoy, G. (2014), “Norway – leadership for social justice”, in Day, C. and Gurr, D. (Eds), Leading School Successfully. Stories from the Field, Routledge, London, pp. 163-173.
+
+Moral-Santaella, C. (2019), Competences for the Design and Development of Learning Experiences in Teacher Training, Síntesis, Madrid.
+
+Moral-Santaella, C. (2020), “A comparative study of professional identity of two secondary school principals in disadvantaged contexts”, Leadership and Policy in Schools, Vol. 19 No. 2, pp. 145-170.
+
+Moral-Santaella, C. and Amores, F.J. (2014), “Resistant architecture determinant of pedagogical leadership in secondary educations schools”, Bordón, Vol. 66 No. 2, pp. 121-138.
+
+Moral-Santaella, C. and De la Herrán, A. (2021), “Analysis of content and underlying theories in the Spanish reference texts on general didactics”, Spanish Journal of Pedagogy, Vol. 79 No. 280, pp. 435-453, doi: 10.22550/REP79-3-2021-01.
+
+Moral-Santaella, C., Amores, J.F. and Ritacco-Real, M. (2016), “Distributed leadership and improvement capacity in secondary education centers”, Studies on Education, Vol. 30, pp. 115-143.
+
+Moral-Santaella, C., García-Garnica, M. and Martínez-Valdívia, E. (2018a), “Leading for social justice in challenging school contexts”, International Journal of Leadership in Education, Vol. 21 No. 5, pp. 560-579.
+
+Moral-Santaella, C., Martín-Romera, A., Martínez-Valdivia, E. and Olmo-Extremera, M. (2018b), “Successful secondary school principalship in disadvantage context from a leadership for learning perspective”, School Leadership and Management, Vol. 38 No. 1, pp. 32-52.
+
+Moral-Santaella, C., Higueras-Rodríguez, L., Martín-Romera, A., Martínez-Valdivia, E. and Martínez-Ocaña, A. (2019), “Evolution of successful secondary school principalship in disadvantaged contexts”, International Journal of Leadership in Education, Vol. 23 No. 2, pp. 107-130.
+
+Moss, L., Johansson, O. and Day, C. (2011), How School Principals Sustain Success over Time, Springer, Dordrecht.
+
+Murillo, J. and Hernández-Castilla, R. (2014), “Leading fair schools for social justice”, Revista Internacional de Educación para la Justicia Social (RIEJS), Vol. 3 No. 1, pp. 13-32.
+
+Murillo, J., Krichesky, G., Castro, A. and Hernández-Castilla, R. (2010), “Leadership for school inclusion and social justice”, Latin American Journal of Inclusive Education, Vol. 4 No. 1, pp. 169-186.
+
+OECD (2016), PISA 2015 Results (Volume I): Excellence and Equity in Education, OECD Publishing, Paris.
+
+OECD (2018), Pisa 2018 Participants, OECD Publishing, Paris.
+
+O'Reilly, M. and Kiyimba, N. (2015), Advanced Qualitative Research, Sage, London.
+
+Ritacco, M. and Bolívar, A. (2018), “School principals in Spain: an unstable identity”, International Journal of Educational Leadership and Management, Vol. 6 No. 1, pp. 20-39.
+
+Ruspini, E. (2008), “Longitudinal research”, in Hesse-Biber, S. and Leavy, P. (Eds), Handbook of Emergent Methods, The Guilford Press, New York, pp. 437-460.
+
+Sánchez-Moreno, M., López-Yáñez, J. and Toussaint-Banville, M. (2021), “Professional identity formation of female school principals: gender and emotionality connections”, Management in Education, pp. 1-12, doi: 10.1177/08920206211016454.
+
+Strauss, A. and Corbin, J. (1998), Basic of Qualitative Research, Sage.
+
+Teddlie, C., Tashakkori, A. and Johnson, B. (2008), “Emergent techniques”, in Hesse-Biber, S. and Leavy, P. (Eds), Handbook of Emergent Methods, Guilford Press, New York, pp. 389-415.
+
+Tiana, A. (2015), “Education: challenges and proposals”, in CECS (Ed.), Spain 2015 Report. An Interview of Social Reality, Encuentro Foundation, Madrid, pp. 178-200.
+
+Tiana, A. (2020), “Equity in education”, Trasanlantica Education, Vol. 23, pp. 15-28.
+
+Torres-Santomé, J. (2017), Educational Policies and Construction of Personalities Neoiliberals and Neocolonialists, Morata, Madrid.
+
+Viñao, A. (2004), “The school directorate: a genealogical-cultural analysis”, Educaçâo, Vol. 2 No. 54, pp. 367-415.
+
+Ylimaki, R., Gurr, D. and Drysdale, L. (2011), “Sustaining improvement in challenging, high poverty schools”, Chapter 9, in Moos, L., Johansson, O. and Day, C. (Eds), How School Principals Sustain Success over Time: International Perspectives, Springer-Kluwer, Dordrecht, pp. 151-166.
+
+Cristina Moral Santaella – Lecturer of University – Department of Didactics and School Organization. Faculty of Education. University of Granada (Spain). – PhD in Educational Sciences – Research lines: Teacher Training, Educational Leadership, Curriculum and Didactic Knowledge, School Improvement, Qualitative Research – Assigned to the FORCE Group and Research (School-Centered Teacher Training) (HUM 386) – Researcher belonging to the RILME Network – School Improvement Research Network (Spain), and RIGE Network – Research network in educational management (Univeristy of Monterrey, Mexico) – Collaborator with ISSPP project (International Successful School Principalship Project) and with ISLD network (International School Leadership Development Network). ORCID CODE – org/0000–0002-7302-165X.
+
+Successful school leadership for social justice in Spain
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Successful school leadership insights from ISSPP
+
+Successful school leadership in disadvantaged contexts in Spain
+
+Methodology
+
+Findings
+
+Discussion and conclusions
+
+Table 1
+
+References
+
+Corresponding author
+
+About the author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Educational Administration
+
+Volume 60 Issue 1
+
+Successful school leadership for social justice in Spain
+
+Abstract
+
+Introduction
+
+Successful school leadership insights from ISSPP
+
+Successful school leadership in disadvantaged contexts in Spain
+
+Methodology
+
+Findings
+
+Discussion and conclusions
+
+Successful school leadership
+
+Disadvantaged contexts
+
+Social justice
+
+Spanish school leadership
+
+Principals
+
+actively engaging with others to arrive at a consensus about what a school should do
+
+personal qualities and beliefs such as resilience, commitment to making a difference
+
+engaging the school and broader community
+
+balancing competing discourses
+
+utilizing both transformational and instructional leadership practices
+
+continuing their professional learning
+
+managing accountability expectations and a positive attitude to change
+
+A meritocratic equality of opportunities where merit and personal effort are valued (this is associated with a right-wing neoliberal ideology).
+
+A universal or equal opportunity equality in which all students should be treated equally regardless of their talent or wealth (this is associated with a social democratic ideology).
+
+Compensatory equal opportunities in which affirmative action is used to compensate for inequalities and disadvantages (this is associated with a social democratic or progressive leftist ideology).
+
+Not only do they have traits of affability and empathy, and the willingness to change things but also implement a passionate leadership that applies all possible strategies to achieve their objectives. Not only do they believe in social justice through simple empathy with the concept of social justice but also are passionate about the project at hand, which leads them to implement a kind of leadership that mobilizes and wins over teachers, using control, strength and determination traits. The strategies used are those that combine transformational and instructional leadership processes.
+
+They support the project for change and improvement of learning as a matter that has to be constantly maintained and nurtured, as a living thing that would be destroyed if it stopped transmitting energy. They maintain and support a leadership adopting an optimistic and resilient attitude, believing that change is possible. They avoid the excess of educational policy that divides and confronts because it does not lead to the school’s success, demonstrating that only unites in a common project are effective.
+
+Although they are very conscious of the difficulties involved in working in disadvantaged contexts, the leadership identity that characterizes them looks to the future with hope, adopting a realistic utopian attitude to interpret their surrounding reality. They configure their professional identity, escaping from a mere realistic view of reality, to achieve its transformation. They do not confront their profession by exercising a simple bureaucratic, professional identity, just on the surface of the professional self but rather adopt a committed attitude that goes deep into the foundations where they develop their identity as persons.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+1
+
+1
+
+X
+
+400
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+2
+
+X
+
+400
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+3
+
+X
+
+700
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+4
+
+X
+
+1,200
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+5
+
+X
+
+700
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+6
+
+X
+
+900
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+2
+
+7
+
+X
+
+500
+
+X
+
+X
+
+X
+
+X
+
+8
+
+X
+
+250
+
+X
+
+X
+
+X
+
+X
+
+9
+
+X
+
+450
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+10
+
+X
+
+100
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+3
+
+11
+
+X
+
+700
+
+X
+
+X
+
+X
+
+12
+
+X
+
+250
+
+X
+
+X
+
+X

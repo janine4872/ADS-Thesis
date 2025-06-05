@@ -1,0 +1,1030 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+International Journal of Organizational Analysis
+
+ISSN: 1934-8835
+
+Article publication date: 19 August 2021 Permissions
+
+Issue publication date: 31 January 2023
+
+The purpose of this study is to explain how and why firms configure copyright practices when confronted with state-sanctioned laws and informal customs projected by local ethnic or religious communities.
+
+A multi-case inductive study of four film-producing organizations within the Nigerian film industry (i.e. Nollywood) was conducted. Specifically considered were firms that started their operations around the same time with similar founding conditions, experiences, resources and technical competencies. Field observations and multiple rounds of in-depth interviews were conducted to achieve the research objectives.
+
+The study found that firms adopted dominant or hybrid configurations when interacting with informality and formality. Dominant configurations represent the exclusive adoption of informal copyright practices while hybrid configurations refer to the blended use of informal and formal copyright practices. The second set of findings revealed that each firm’s strategic intent affected the type of interactional configuration that unfolded in the firm. Specifically, firms with social intents tended to adopt dominant configurations, whereas firms with socio-economic intents tended to adopt hybrid configurations.
+
+The study implies that firms may profit from strategically focusing on when and in what circumstances to adopt informality. Strategic intents that blend social and economic rationales may secure more positive interactive outcomes from internal and external stakeholders promoting formality and informality.
+
+This study highlights the fact that firms embedded in local religious and ethnic communities use organizational practices to solve social and institutional problems of their members. The copyright practices of these organizations encourage apprenticeship, youth empowerment and entrepreneurship in Nigeria.
+
+To the best of the authors’ knowledge, this is the first study that goes beyond macro-level analysis to investigate the interactional dynamics between formality and informality at the firm, community, and state levels. The study is also first of its kind to use copyright practices as an analytical lens to explore the interaction between informality and formality.
+
+Uzo, U., Mair, J. and Adewusi, A. (2023), "How firms strategically navigate informal and formal copyright practices: insights from Nollywood", International Journal of Organizational Analysis, Vol. 31 No. 2, pp. 508-532. https://doi.org/10.1108/IJOA-06-2020-2236
+
+Emerald Publishing Limited
+
+Copyright © 2021, Emerald Publishing Limited
+
+Copyright is a type of intellectual property that confers exclusive rights of ownership for creative works to the originator of the works. Regulations on copyright also stipulate the rights for distribution, reproduction and public performance (WIPO, 2021). Copyright practices are important because they form part of property rights that largely determine global prosperity and well-being (Acemoglu and Johnson, 2005; Besley and Ghatak, 2010; Galiani and Schargrodsky, 2010; Stulz, 2005). Copyright practices offer an interesting analytical lens for investigating the configuration of interactions between informality and informality.
+
+The link between informality and formality is a highly researched empirical and theoretical phenomenon (Dau and Cuervo-Cazurra, 2014; Igwe et al., 2020; Mhando and Kiggundu, 2018; Ulyssea, 2020; Webb et al., 2009, 2020; Yang and Pisani, 2018). Firms, policymakers, local communities and entrepreneurs are usually confronted with informality when interacting with stakeholders. Informality refers to economic activities that emerge from socially-shared and generally-unwritten rules that function largely outside of officially-sanctioned channels (Helmke and Levitsky, 2004; Mhando, 2018). On the other hand, scholars commonly refer to formality as prescribed rules governing economic behaviour that are precisely and explicitly formulated by the state independently of the personal attributes and relations of individuals who apply the rules (Webb et al., 2009; Ulyssea, 2020).
+
+Several theories have been put forth to explain the nexus between formality and informality. Some of these theories includes dualistic perspective (Lewis, 1954; Harris and Todaro, 1970; La Porta and Schleifer, 2008, 2014), rational choice theory (Maloney, 2004), legalistic perspective (Huang et al., 2020; Gindling and Newhouse, 2012), the institutional voids perspective (Igwe et al., 2020; Hack-Polay et al., 2020; Webb et al., 2020; Puffer et al., 2010; Sutter et al., 2013) and institutional theory (Houssein, 2008; Baumol, 1990; Baumol and Blinder, 2008; North, 1990) among others. One similar thread that went across these theories is that they consider informality as inferior and opposed to formality.
+
+Interestingly, informality is globally pervasive and is not only limited to resource-constrained economies (Uruthirapathy and Kiggundu, 2018). In fact, there are several economies that would have been inexistent if informality did not sustain existing formal practices (Mhando and Kiggundu, 2018). However, informality is complex and multifaceted in nature. Informal practices have varying structural compositions, configurations, interrelational dynamics and antecedents (Uzo et al., 2019; Uzo and Mair, 2021; Uruthirapathy and Kiggundu, 2018). For instance, informality in Africa is multidimensional and has multiple organizational consequences (Uzo and Mair, 2021).
+
+Despite the complex and multifaceted nature of the concept, it is surprising that extant work has not sufficiently explored the dynamics in the interactional configurations between informality and formality. The empirical reality is that firms adopt varying degrees of informality and thus progress along a spectrum from informality to formality (Williams et al., 2016). Officially registered firms in Africa, for example, tend to be embedded in local communities which promote religious, kinship and ethnic customs independent of state regulations (Uzo and Mair, 2014; Igwe et al., 2020). Property rights in Africa are neither strictly informal nor formal (Mahadevia, 2010; Reerink and Van Gelder, 2010) but are rather the result of a complex system of state-sanctioned laws as well as informal customs for business (Krishna et al., 2020). For example, firms in Malawi blend housing transaction practices drawn from informal customs with state-sanctioned practices (Chome and McCall, 2005). In Ecuador, Senegal and South Africa, firms exclusively adopt housing transaction practices drawn from informal customs (Lanjouw and Levy, 2002; Payne et al., 2009).
+
+It is worthy to note that informality and formality operate at macro (state), meso (community and firm) and micro (individual) levels. Thus, firms in these contexts are fields for different configurations of interactions between formality and informality operating at macro and meso levels. However, an under-researched analytical lens for exploring the configuration of interactions between formality and informality across levels is the copyright practices that exist.
+
+A veritable context to examine these novel issues is the Nigerian film industry (i.e. Nollywood). Nollywood is an industry within the informal economy of Nigeria (Lobato, 2010). Organizations operating in the industry are formally registered with the Corporate Affairs Commission (CAC), the government agency that incorporates businesses. However, these organizations adopt indigenous copyright arrangements prescribed by family, ethnic and religious customs to conduct their daily activities (Uzo and Mair, 2014).
+
+Therefore, this study sought to explain how and why firms configure copyright practices when confronted with formal state regulations and informal customs projected by local ethnic or religious communities. To address this how and why question, a multi-case inductive study of film-producing organizations within the Nigerian film industry was conducted. The next section reviews the literature and theoretical background for this study.
+
+The nature of the interaction between formality and informality has generated a significant level of intellectual curiosity and empirical research (Kistruck et al., 2015; Radchenko, 2014; Siqueira et al., 2014; Mhando and Kiggundu, 2018; Webb et al., 2020; Ulyssea, 2020; Yang and Pisani, 2018). For instance, the proponents of the dualistic perspective (Lewis, 1954; Harris and Todaro, 1970; La Porta and Schleifer, 2008, 2014) claim that formality and informality are incompatible because the former connotes prosperity, improvement and modernity while the latter represents failure and retrogression (Williams and Round, 2007). Similarly, Maloney (2004) asserts that business actors rely on a rational calculation of the cost and benefit in making their decisions. When the cost of adopting a formal business arrangement outweighs its benefit, business actors favour informality. Also, the proponents of the legalistic view make similar claims. The prevailing position is that informal arrangements exist as a mechanism to escape the high costs of complying with formal arrangements (Huang et al., 2020; Gindling and Newhouse, 2012).
+
+The institutional voids perspective claims that the limited access to formal institutional arrangements creates institutional voids (Khanna and Palepu, 1997), which informality exists to ameliorate Igwe et al., 2020; Hack-Polay et al., 2020; Webb et al., 2020; Puffer et al., 2010; Sutter et al., 2013). Similarly, the broader view of institutional theory is that inadequate institutional environments constrain the development of formality and thus create opportunities for informality to thrive (Houssein, 2008; Baumol, 1990; Baumol and Blinder, 2008; North, 1990).
+
+Overall, scholars largely recognize informality as inferior and opposed to formality. This is not entirely surprising because formality emerges out of an attempt to make the structure of relationships among a set of roles and the principles that govern behaviour more explicit and visible (Scott and Davis, 2007). Whereas, informality is more fluid and is governed by unwritten rules (Helmke and Levitsky, 2004). Formality focuses on routinization of organizational tasks (Scott and Davis, 2007) while informality thrives on organizational improvisation (Uzo and Mair, 2021).
+
+However, recent work has started to challenge this way of understanding the relationship between both concepts. Some scholars argue that the supposed dichotomy between informality and formality is simply misleading and inadequate (Kiggundu and Pal, 2018). These scholars contend that the studies largely have negative and biased notions about informality and frequently call for the complete substitution of formal arrangements (Peng, 2003; Rajan and Zingales, 1998; Williams, 2016; Ulyssea, 2020). There is also the mistaken notion that informality is simply an unsustainable and makeshift response to failed state regulations (Igwe et al., 2020; Hack-Polay et al., 2020; Bothello et al., 2019; Ge et al., 2019; Murithi et al., 2020; Puffer et al., 2010; Sutter et al., 2013).
+
+The empirical reality is that compressing all firms into the informal-formal dichotomy does not acknowledge that many firms in developing countries are neither totally informal nor totally formal (Williams et al., 2016). Firms rather adopt varying degrees of (in)formality depending on the characteristics of the firms. For example, Williams et al. (2016) found that high levels of informality were correlated with entrepreneurs who had a high educational status and were women. These findings suggest that viewing the informality-formality relationship as a continuum offers a more nuanced, consistent and rigorous approach to understanding the phenomenon (Boanada-Fuchs and Boanada Fuchs, 2018).
+
+Exploring the mutual interactions between informality and formality would be theoretically beneficial. Informality affects formality and vice versa. Unfortunately, extant work has not attempted to investigate the effect of these mutual interactions because most studies are narrowly confined to one level of analysis. Studies focus on macro socio-economic levels of analysis without going to the more granular level of meso and micro levels (Fayolle and Riot, 2015; Godfrey, 2015; Kiggundu and Pal, 2018; Sauka et al., 2016). This automatically prevents scholars from investigating how the interactional dynamics work across different levels of analysis. Studies have also ignored the multidimensional and complex nature of informality, which opens opportunities for exploring new interactions. When informality affects various levels and domains of life, its interaction with formality becomes more nuanced and more complex.
+
+In summary, current studies would benefit from investigating the interactional dynamics between formality and informality by studying how firms navigate these relationships when making copyright arrangements. This study therefore focused on the following research question: how and why do firms configure the interaction between formal copyright practices stipulated by state regulations and informal copyright practices promoted by local communities?
+
+Copyright law is a branch of intellectual property law. The other arm of the law pertains to industrial property matters, such as invention trademarking and other industrial inventions. Copyright is referred to as exclusive right vested in the proprietor of an intellectual invention regarding replication of work as well as usage, production and exploitation rights (Cornish, 1999). Films, software programmes and artistic creation are categorized as intellectual property. The copyright laws are chiefly promulgated to guard intellectual creations from unauthorized copying and distribution without requisite permission (Babafemi, 2007; Odunowo, 2002).
+
+The English Copyright Act of 1911 was initially responsible for copyright governance in Nigeria. The governance was possible because of an order-in-council provided in Section 25 of the same foreign Act. By 1970, the Act was replaced with the Nigerian Copyright Act of 1970 (Babafemi, 2007), which is largely a replica of the English Copyright Act. Currently, the Nigerian copyright system is governed by the Copyright Act 1988 (with its amendments of 1992 and 1999), which is now re-codified in the Laws of the Federation of Nigeria 2010 (Babafemi, 2007).
+
+Meanwhile, in a bid to enhance the copyright system in the country, Nigeria became a signatory to the Universal Copyright Convention of 1952, the Berne Conventions of 1886 and 1971 and the Rome Convention of 1961 (Asein and Nwauche, 2002). The aim of conventions is to enable the creation of unified protection for the works of the nationals of other countries as is given to the nationals of a country (Flint, 1979). Income loss, retarded industrial, economic and cultural growth, and loss of government revenue are some of the individual and societal consequences of copyright law violation (Onoyeyan, 2018).
+
+The film industry in a developing country provides an adequate setting for studying copyright practices. This is because the success of any film industry depends on the nature and enforcement of intellectual property laws to forestall piracy and other forms of intellectual property theft. Nollywood is an exciting context for conducting this study because organizations in the industry adopt a variety of communal and state-sanctioned copyright practices.
+
+The origin of Nollywood can be traced to when a local importer, more than two decades ago, acquired videocassette tapes and shot a film titled Living in Bondage, which sold over 750,000 copies (The Economist, 2006). The huge sales drew the attention of many businesspeople to the novel business of producing home videos. Just like the local importer, more than half of the people who perceived the movie production business as a gold mine had no formal training prior to joining the business. What took the place of formal training was an apprenticeship custom developed to help new entrants learn by doing. By 2009, Nollywood was recognized as the world’s second-largest producer of films in volume per annum (Nsehe, 2011) and generating revenues of $800 million per year (UNESCO, 2009). Nollywood has been a significant part of the arts, entertainment and recreation sector, which contributed 2.3% of Nigeria’s gross domestic product in 2016 (PwC, 2017). Nollywood films have become pervasive and “wildly popular” in Africa (Ajibade, 2007) as well as among African diaspora communities (Mackay, 2009).
+
+While state-sanctioned copyright laws remain dominant in the Western world, the picture is different in Nigeria, which is Africa’s largest economy and most populous nation (Okpachu and Isa, 2020), having over 250 ethnic groups with different indigenous languages, customs and traditions (Gandonu, 1978). Communal and state-sanctioned copyright laws jointly co-exist and are the common case in Africa (Murithi et al., 2020), including Nigeria.
+
+Nearly all firms operating in Nollywood are officially registered with the CAC, the government agency that formally incorporates businesses. Despite this, most of these firms do not abide by regulatory laws prescribed by the Nigerian Copyright Act and adapted from British copyright laws. Rather, they draw on indigenous rules prescribed by family, ethnic and religious customs to conduct their daily activities (Uzo and Mair, 2014). Therefore, Nollywood presents a one-of-a-kind context to examine the issues of interest in this study, which methodology is discussed next.
+
+The study adopted a qualitative multi-case research design (Davis and Eisenhardt, 2011; Eisenhardt and Graebner, 2007; Patton, 2015). A multiple-case design offers and in-depth analysis of a social phenomenon, presents empirical evidence that are more compelling, strong and reliable (Baxter and Jack, 2008), champion powerful analytical conclusions and provides a thorough understanding of the subject matter than a single case study (Stake, 2005; Yin, 2009). Besides, the design is especially relevant because research based on multiple cases tends to generate theories that are more generalizable and grounded than single cases, thus making them easier to validate with other methods (Davis et al., 2007).
+
+As at the time of this study, there were 300 film production companies registered with the Nigerian Film and Video Censors Board, the government agency regulating the film and video industry in Nigeria. Two criteria were used in selecting the sample organizations for the study. Out of the 300 companies, we selected ten organizations that had played in the industry since its commencement in 1992. A significant benefit of adopting this criterion was that the organizations that were chosen had started a business around the same time with similar founding conditions, experiences, resources, and technical competencies. The selection helped to control the background variables such as age of the organizations and there initial founding conditions (Marquis and Huang, 2010; Marquis and Tilcsik, 2013). Next, an in-depth study of four out of the ten organizations was undertaken because these four organizations provided greater access to observation and interview data over two years (Sivarajah et al., 2016). The sampling process is summarized in Figure 1.
+
+The disguised names adopted for the four organizations are: Owo, Quad, Bez and Kenny. Industry informants and directors of the other six organizations were interviewed to secure the transferability and reliability of the findings. Table 1 displays the data collected in the four cases, and Table 2 shows the data sources
+
+The study adopted a within-method triangulation (Hussein, 2009; Jonsen and Jehn, 2009; Brannen and Peterson, 2009; Yeasmin and Rahamn, 2012). That is, the study utilized two qualitative approaches for data collection purpose. A triangulation of this nature helps to facilitate validation as well as tests the consistency and reduces the possibility of bias in the findings. Besides, a triangulation of this nature is also necessary to strengthen the study`s conclusion and reduce the risk of false interpretations (UNAIDS, 2010), while increasing our understanding of the subject matter.
+
+The study collected data from semi-structured interviews and field observations. We adopted qualitative approaches to gain insights to rich contextual analysis from the specific organizations of interest (Colman and Rouzies, 2019). In addition. qualitative approach is an appropriate approach that could be used in answering research questions relating to the “how” and “why” (Yin, 2017). Besides, our approach is grounded in interpretivism, which connotes understanding the world through our interaction with others, acknowledging dynamic relationship with the data, and accepting our place within the research (See Igwe et al., 2020). We also purposively mined data from film websites/blogs and company documents provided by informants to support our findings.
+
+We purposefully interviewed film producers, actors, company CEOs, managers, associated with the four organizations that were sampled. At some point, we also engaged copyright lawyers, industry regulators, editors, and members of industry associations to validate some of the responses we gathered. In achieving this, two conditions were met. First, we interviewed participants with vast experience of how Nollywood works. Second, we engaged participants that were interested in participating in our study (Igwe et al., 2020). Informant bias was prevented by using interview guides that helped informants to report events and practices chronologically (Miller et al., 1997; Golden-Biddle and Locke, 2007). In all, 52 semi-structured interviews of 45–90 min of length were carried out over eight months. All interview sessions were tape-recorded and transcribed into the English by experts proficient in the language. Furthermore, 32 site visits to observe and pen-down daily activities of, and within, the organizations were conducted.
+
+Aside from the actors, all participants in this study were male, Christians and married. Furthermore, all categories of participants in Quad, Owo and Kenny are all affiliated to Yoruba ethnic group, whereas those in Bez are either affiliated to the Yoruba or Igbo ethnic group. The CEO, producers as well as the directors of all organizations were male with average of 23 years of experience. Their age ranged from 35 to 50 years with most attaining at least university education. A similar trend was found among the assistant production manager, technical, admin and location managers. However, more than 50% of the actors were males and their ages ranged from 40 to 55 years. The lowest and highest educational levels of the actors were secondary school and university education, respectively, with an average of two decades of acting experience. A majority of the actors were married and religiously affiliated to Christianity.
+
+Four field assistants were employed as part of the data collection process. This approach proved highly relevant as the regular visitation of the researchers to the respective organizations fostered social bonding among the researchers and participants, which allowed the latter to freely provide details that helped to answer the research questions. The authors were involved in the data analysis after data collection.
+
+In validating the interview responses, the authors asked interviewees similar probing questions at multiple stages to buttress some of the insights that were gathered from their colleagues operating within a similar organization. This method proved highly effective, as the participants validated most insights. However, reliability of the data was secured through the reconfirmation of interview responses with field observation and vice versa, as the case may be. Hence, verbal responses and the observed actions of the participants align perfectly. This practice helped to ascertain the consistency in the data.
+
+The interviews usually commenced by highlighting the overall purpose of the study (Igwe et al., 2020) and by collecting background information of respondents and the organizations they represented. The background information included tenure in the organization, educational background, role within the organization, etc. The first major set of questions were about the template for organizing in the various firms (e.g. how they plan for production, how they assemble the cast, etc.). The narrations of the interviewees highlighted the informal nature of some organizational arrangements. The next set of questions inquired about the contracting arrangements for employee recruitment and film distribution. The third section of the interview focused on respondents’ understanding and compliance with copyright practices. Insights emerging from the three sets of questions led to the fourth section, which focused on the mission-oriented imperatives and the underlying reasons for adopting copyright practices.
+
+Sample questions representing the various sections included: What is the mission of the firm? How do you enter into distribution agreements? What does copyright mean to you? The above protocols explain how the researchers conducted the interview. Table 3 displays some of the specific questions that were asked from the participants. However, the researchers modified interview questions as observations took place to ensure that they identified the underlying mechanisms behind the findings. Researchers had frequent conversations about their field experiences, which facilitated the process of identifying causal mechanisms for the empirical relationships.
+
+The data were analyzed using a grounded theory approach (Secundo et al., 2020; Uzo and Mair, 2014; Uzo et al., 2019). This approach helped to create an iterative one-two punch that moved from data to theory generation. The authors followed two steps in conducting the data analysis and developed an iterative process when moving from the data to emerging theoretical constructs (Miles et al., 2014).
+
+The authors analyzed interview data to unravel the prevalence of multiple copyright configurations of copyright practices in the firms. It was found that state-sanctioned copyright practices co-existed with religious and ethnic community-based copyright practices. More specifically, the analysis revealed two types of copyright configurations, namely, dominant and hybrid configurations. Dominant configuration refers to the firm’s adoption of copyright practices originating exclusively from informal customs of ethnic or religious communities and in defiance of the state-sanctioned Copyright Act. Hybrid configuration refers to the firm’s mixture of copyright practices originating from the formal regulations of the state (Nigerian Copyright Act) and informal customs of the ethnic community (apprenticeship custom).
+
+These configurations were categorized by analyzing the ownership, hiring and distribution practices of the sampled organizations. Regarding the ownership arrangements, the analysis revealed two broad product ownership strategies, namely, communal and personal ownership practices. Communal product ownership is categorized as the organization’s definition of its products as the property of an ethnic or religious community with multiple representatives of the community and sharing the proceeds from sales. On the other hand, personal product ownership is categorized as the organization’s definition of its products as the property of the CEO who exclusively appropriates the proceeds from sales. Next, the hiring and distribution practices were analyzed to understand the type and originating source of practice. This step made it possible for the researchers to discuss two main patterns. While all organizations adopted communal copyright practices for hiring the crew, some organizations chose to adopt state-sanctioned practices for film distribution. The next phase of the analysis was to understand the underlying reason for this puzzle.
+
+The analysis revealed that the strategic intent of the firm had an effect on the configuration of copyright practices. Two broad types of strategic intent were discovered: exclusively social intent and socio-economic intent. The exclusively social intent refers to a firm’s definition of its intent based on exclusively social goals aimed at building solidarity in the community rather than economic profits. On the other hand, the socio-economic intent refers to the founder of the firm’s vision of the goals of the firm based on individual economic and social benefits to the CEO.
+
+Consistent with the recommendations for building theory from qualitative data (Suddaby, 2006), the authors moved from data to theory until they were able to construct the conceptual edifice supporting the findings. Table 4 displays the summary of evidence, and Table 5 shows the statistics on data collected for major concepts.
+
+Ethical considerations such as anonymity, voluntariness, and non-maleficence will be adhered to during and after the research work. First, participants IDs were presented with pseudonyms to ensure anonymity. Participation in the study was voluntary. Participants was at liberty to choose to withdraw from the study anytime they deem fit. There were no physical risks associated with participation in this study. However, should participants become uncomfortable with any of the questions and issues; they were advised not to answer such questions.
+
+How do firms navigate the interaction between formal copyright rules stipulated by the state and informal copyright customs stipulated by local communities? Informality and formality do not interact in the same way across organizations. The authors found two main configurations of interactions: dominant and hybrid. Dominant configuration refers to the firm’s adoption of copyright practices originating exclusively from informal customs of ethnic or religious communities and in defiance of formal regulations of the state. Hybrid configuration refers to the firm’s mixture of copyright practices originating from the formal regulations of the state (Nigerian Copyright Act) and informal customs of the ethnic community (apprenticeship custom).
+
+To arrive at these configurations of interactions (i.e. dominant and hybrid), this study analyzed three types of copyright practices: product ownership arrangements, hiring and distribution practices of the firm. These are critical practices that determine how firms comply with copyright laws and how they define the addressable markets for their businesses. The study found that Owo and Quad adopted copyright practices that configured dominant informality whereas Bez and Kenny adopted copyright practices that created a hybrid configuration. The rest of this section presents the data to support these findings.
+
+Informality dominated the three types of copyright practices in Owo and Quad. These practices are product ownership, hiring and distribution practices of the firm.
+
+The two organizations defined film products as belonging to the ethnic community (in the case of Quad) or the religious community (in the case of Owo) and not the individual or firm. This approach to product ownership contravened the Nigerian Copyright Act stipulated by the state but supported the Christian solidarity or Esusu ethnic customs on copyright practices. The Nigerian Copyright Act (1990: 8) stipulates that:
+
+The originator of the work is the owner unless a written contract is prepared to the contrary.
+
+Owo and Quad did not follow or comply with this Act. Owo preferred to comply with the stipulations of the Christian solidarity custom while Quad complied with the stipulations of the Esusu ethnic custom. The two customs promoted communal ownership of copyright works. Data supporting this position were obtained from interviews and observations. During a film shoot in Owo, the collective ownership of the script-making process was observed. As the crew was filming a scene, an actor was repeating the following line, “I will pay you seven times your salary.” After repeating the line, other crew members intervened and added other lines to the script (field notes, Owo).
+
+Similarly, the film director of Quad pointed out that:
+
+When it comes to intellectual property, the films belong to the caucus. We share the copyright.
+
+Each gathering of the firms created stories through a dialogue process, and the dialogue director, who took the minutes of the script meeting, transformed these stories into film scenes. There was a common understanding among the cast and crew that the accounts belonged to the ethnic community and not the scriptwriter or firm (field notes, Quad).
+
+Hiring arrangements for cast and crew in Owo and Quad were based on verbal agreements rather than written contracts. This way of hiring employees went against the regulations of the Nigerian Copyright Act. Article 9–4 of the Nigerian Copyright Act (1990: 8) stipulates that:
+
+In the case of a cinematograph film or sound recording, the author shall be obliged to conclude, before the making of the work, contracts in writing with all those whose works are to be used in the making of the work.
+
+Owo and Quad chose to adopt the hiring customs stipulated by the Christian solidarity and Esusu ethnic customs respectively. The Christian solidarity custom stipulates that members of the same Christian group are bound to commit themselves and their resources to spread the evangelical message. Unwritten agreements are binding (Hendershot, 2010). On the other hand, the Esusu custom “is a custom of clubbing together of individuals or members of an extended family network for social and monetary aid” (Johnson, 1921, p. 119). Each member contributes at specific intervals, and the total amount donated by the entire group goes to each of the members in rotation (Bascom, 1952). The Esusu custom prescribes that unwritten agreements are binding on the parties (Adebayo, 1994).
+
+Evidence from interviews and observations supported this position. Owo’s film director explained:
+
+We do not agree on any specific amounts to pay the crew members. We contact them two or three weeks before the [shoot] and we don’t sign contracts.
+
+The production manager of Owo aptly corroborated this view by asking a rhetorical question:
+
+When a pastor of a Church is inviting another pastor to preach the Gospel through a film, does he ask him to sign contracts detailing the terms and amount to be paid for preaching the word of God?
+
+Observations during film shoots supported these views. For instance, during the making of a film, several members of the cast and crew, made up of pastors, young people of different parishes that wanted to participate for the first time, students of dramatic arts and a crew that was outsourced for shooting, came to the location, eager to be part of the film. There was no discussion of how much to be paid or any contracts signed (field notes, Owo).
+
+Quad also followed similar hiring practices. The film director of Quad explained:
+
+I must confess that most of our agreements are verbal. This is because verbal agreements work.
+
+In a particular film shoot, an apprentice took the lead role but did not ask to be paid or sign any contract with the company (field notes, Quad).
+
+Owo and Quad did not sign contracts with film distributors. This arrangement did not support the stipulations of the Nigerian Copyright Act. The two organizations entered into agreements without any explicit agreements on how to share proceeds. This approach to distribution was consistent with the Christian solidarity and Esusu ethnic customs that promoted trust, communal ownership and reciprocal sharing of favors. Owo’s location manager explained:
+
+We don’t sign contracts for distributors. When the film is ready, I call the distributor and we talk about the percentage each person will get from the sales.
+
+Similarly, the producer of Quad emphasized:
+
+We don’t see why we should sign contracts with distributors. Even when people pirate our films, we believe that they are helping us spread the Gospel message.
+
+Hybridization was the common way of adopting the three copyright practices in Bez and Kenny.
+
+The two organizations defined film products as belonging to the CEO rather than the community. This approach to product ownership supported the Nigerian Copyright Act stipulated by the state but contravened the ethnic apprenticeship custom on copyright practices which stipulated that products were owned by the community. Data obtained from interviews and observations highlighted this position.
+
+In the words of Bez’s CEO:
+
+I started my organization when I was bored with scriptwriting, and I needed something more challenging. After that, I created my first film.
+
+In like manner, the CEO of Kenny explained:
+
+I started my company when I observed the hunger of people in my community for local culture. I founded this business as a way of responding to the environment.
+
+This view also shaped the perception of the ownership of films in both organizations. Copyright for films was the personal property of the CEO. According to the CEO of Bez:
+
+The film is mine. It does not matter if it is funded 100% by outsiders. This does not make them owners. I own the films.
+
+Similarly, Kenny productions exhibited a similar pattern for ownership of property rights. In the words of the CEO:
+
+The point is, if someone develops a story or script and brings it to me, I pay him for it, and then the copyright becomes mine.
+
+Instances of personal ownership were also observed in the sampled organizations. For example, in Kenny, during a film shoot, an actor explained:
+
+Our boss negotiates one-off with artists; this way, he only pays them once and writes off the transaction. They cede their privileges to him (field notes, Kenny).
+
+Surprisingly, hiring arrangements for cast and crew in Bez and Kenny were based on verbal agreements rather than written contracts. This way of hiring employees went against the regulations of the Nigerian Copyright Act. Bez and Kenny chose to adopt the hiring customs of the ethnic apprenticeship custom.
+
+The ethnic apprenticeship custom stipulates the following:
+
+that the relationship between the master and the learner can last for as long as the master deems necessary without any contract; and
+
+that the former will not pay fixed wages (if any) to the latter (Agbola and Oloaoye, 2008; Adekola, 2013).
+
+Evidence from interviews and observations supported this position. The assistant production manager of Bez explained:
+
+Verbal agreements work in 90% of cases. What is written on paper is very different from what happens in practice.
+
+Similarly, the film director of Bez corroborated this view. In his words:
+
+Our boss bypasses written agreements by hiring crew members close to the day of the film shoot. Verbal agreements are common, and fees paid to crew members do not tally with initial agreements.
+
+Observations also highlighted a similar phenomenon. During a film shoot, researchers observed that there was no formal arrangement that stipulated the terms of engagement for each artist. There was simply a verbal agreement (field notes, Bez).
+
+Interview comments and observations from Kenny also portrayed a similar practice. According to the film director of Kenny:
+
+Our people do not believe in long contractual documents that [run into] several pages. In fact, they are suspicious of such documents.
+
+The film producer asked rhetorically:
+
+Why do we need to sign contracts, we’ve known our crew members for years? Don’t we trust them?
+
+For a film shoot in Kenny, the director visited the parents of a 10-year-old actor just before the shoot and verbally concluded with them to hire him without signing any written agreement (field notes, Kenny).
+
+Bez and Kenny complied with the stipulations of the Nigerian Copyright Act to sign contracts with film distributors. This approach contravened the stipulations of the ethnic apprenticeship custom. The two organizations signed contracts with broadcasters, retail distributors, cinemas and a satellite television. The CEO of Bez explained the practice as follows:
+
+I am now moving towards writing a contract for every distribution deal. I involve my lawyer in the process.
+
+The views from Kenny also corroborated this position. For instance, the CEO explained:
+
+We signed contracts for broadcast rights for several TV stations in Nigeria. We also signed an exclusive contract with MultiChoice for broadcast in Africa and Oceania.
+
+The film producer of Kenny noted:
+
+We have awarded exclusive rights for film distribution to a US-based company. We usually sign contracts for distribution and broadcast.
+
+The proposition below summarizes our findings:
+
+Firms configure interactions between informality and formality in copyright practices such that: (a) dominant configurations represent the firm’s adoption of informal copyright practices in ownership, hiring and distribution and (b) hybrid copyright configurations represent the adoption of state-sanctioned copyright practices for ownership and distribution while informal copyright practices are adopted for hiring.
+
+Why do firms adopt diverse configurations of interactions when confronted with state regulations and community customs? Findings from the analysis suggest that the nature of a firm’s strategic intent affects the configuration of interactions between state regulations and community customs. Insights from the study showed that firms with an exclusively social strategic intent tend to adopt dominant informality/configuration while firms with a socio-economic strategic intent tend to adopt a hybrid configuration. The rest of this section presents the data to explain these findings.
+
+Theoretically, a firm’s strategic intent can be defined as the aspirational plans, overarching purpose or intended direction needed to achieve the organization’s mission (O’Shannassy, 2016; APM Body of Knowledge, 2021; Hamel and Prahalad, 1989). The authors’ analysis identified three aspects of strategic intent:
+
+the firm’s definition of its purpose;
+
+the decision-making practices in place to support the ownership structure; and
+
+target audience for products.
+
+Two broad aspects of strategic intent were identified based on this analysis: exclusively social and socio-economic.
+
+The exclusively social intent refers to a firm’s definition of its intent based on exclusively social goals aimed at building solidarity in the community rather than economic profits. On the other hand, the socio-economic intent refers to the founder of the firm’s vision of the goals of the firm based on individual economic and social benefits to the CEO. While all the sampled organizations incorporated the two broad aspects of missions, the social mission was more dominant in Quad and Owo. In contrast, the socio-economic was more prevalent in Bez and Kenny.
+
+The first manifestation of Quad and Owo’s social intent was the firms’ definitions of their purpose of existence. Quad defined the firm as a caucus. The caucus is a closed association of a group of professionals of the same ethnic group belonging to the same industry who are united to promote and own products. On the other hand, Owo respondents viewed a Church as a religious association made up of Christians who share the same beliefs, modes of worship and products. These two conceptions shaped the product ownership practices of the firms. In Quad, the producer described the organization in the following words:
+
+The caucus is just like a business organization where every member of the Yoruba ethnic group has his name registered to produce his or her film.
+
+In Owo, the film director defined the organization as follows:
+
+This organization is a machine for Church evangelism. It emerged from the drama department of the Church. Films offer us the opportunity to extend the evangelical mission of the Church.
+
+The second dimension of the social intent in both firms was the approach to decision-making. The employees representing the community jointly participated in decision-making. There was abundant evidence of collective decision-making practices to support communal product ownership practices in Quad and Owo. In Quad, the caucus deliberated on how to select crew members and what roles to assign to them (field notes, Quad). Scripts were generated for films when groups of actors and producers of the caucus came together for a script meeting.
+
+The third manifestation of the social intent was the target audience of films produced by the firms. Quad and Owo ensured that the content of their films reflected the ethnic or religious interests of the communities that they served. Quad’s film director explained why:
+
+All our film promotes Yoruba culture. This is because I have a strong belief in the Yoruba language. I am interested in projecting the Yoruba culture.
+
+Owo’s film director expressed the same view:
+
+For us, film-making is a calling from God to preach the Gospel. We are here to do what God wants. We are missionaries who have a passion for seeking souls.
+
+Practices within Quad and Owo backed these assertions. Quad produced its 20 films exclusively in the Yoruba language and within the epic drama genre. Owo produced all its 12 films within the Christian drama genre. The CEO of Owo explained:
+
+We only make Christian films. It is our call to evangelism.
+
+For Quad and Owo, sticking to informality for the three copyright practices was a unique opportunity to adhere to their social intent of building stronger bonds with members of their ethnic or religious communities through reciprocal sharing. For example, sharing scripts, films or casts without signing contracts in both firms was a manifestation of trust based on the belief in future reciprocation. While this finding defies conventional logic, it reflects how exclusively social intents can propel the violation of state regulations in favour of communal customs.
+
+On the other hand, Bez and Kenny adopted socio-economic intents for their firms. The purpose of Bez was to fulfil the CEO's personal dream of moving from drama production to film-making. Similarly, Kenny's mission was to help the CEO boost his brand as a producer and director. Another dimension of this strategic intent was the personal mode of decision-making. For instance, during several visits to Bez, it was observed that the crew did not begin the day's work until the CEO had given orders to commence (field notes, Bez). The CEO also decided arbitrarily, and without consultation, the day and time to pay employees (field notes, Bez). A similar situation occurred in Kenny. For instance, during an interview with the CEO, he emphasized:
+
+I think what I have done in the last couple of years is to shift the attention in my productions away from film stars […] to make myself the focus of attention.
+
+The economic dimension of the firms’ intent reflected in the variety of audiences their movies targeted. Bez’s CEO noted as follows:
+
+I don't restrict my films to any target group or genre. I make films depending on the topical issues that I want to discuss.
+
+Likewise, Kenny’s CEO reiterated:
+
+The Yoruba culture influences my worldview about film-making, but I am also running a business and I want to make a profit.
+
+Bez produced all its films in English language but subtitled some in indigenous languages. Bez also made films in four different genres. Specifically, Bez made five drama, two action, one romance and two thriller films. Kenny produced 14 films in Yoruba language and 15 films in the English language. Furthermore, Kenny made films in six genres as follows: 18 drama films, five short films, three romance films, one documentary, one action film and one musical film.
+
+For Bez and Kenny, hybridization was an opportunity to adhere to the socio-economic intent of building trust while securing economic benefit. For instance, the technical manager of Bez explained the economic dimension of the intent:
+
+Right from the onset, the profitability of the film is essential. My boss is in a hurry to make another film to make more money. It has become a money-spinning venture.
+
+The CEO of Bez also emphasized the social dimension of the company’s intent:
+
+We hire our crew from among our friends because we want to help our own.
+
+During a film shoot, an apprentice preparing to play a role explained that he was not doing it for the money but rather for the opportunity to learn (field note, Bez). The film director of Kenny, on his part, stated:
+
+My resources are limited. Although I try to manage my costs creatively, one needs economic sustenance.
+
+At the end of a movie shoot, the producer of Kenny gave an impromptu speech to crew members where he noted that employing and casting first-timers impacts positively on the community. The firm did this as a form of corporate social responsibility to the community. It was a way of developing talent for the community (field notes, Kenny).
+
+In summary, the firm’s strategic intent affects the configuration of interactions between informality and formality because the intent defines the overarching purpose of the firm and stipulates the type of stakeholders it is accountable to. The strategic intent implicitly defines the terms of stakeholder engagement and negotiations that firms carry out with proponents of informality or formality in the local community and the society at large. The proposition below summarizes our findings:
+
+The strategic intent of firms affects the type of interactional configuration adopted such that: (a) firms that have an exclusively social intent are more likely to adopt dominant configurations than firms that do not and (b) firms that have a socio-economic intent are more likely to adopt hybrid configurations than firms that do not.
+
+The critical purpose of this paper was to explain how and why firms configure the interaction between informal and formal copyright practices emanating from the relationships with state regulators and local communities. The analysis of the data from the multi-case inductive study unraveled several findings. Firms adopted dominant or hybrid configurations when interacting with informality and formality. Dominant configurations represent the exclusive adoption of informal copyright practices while hybrid configurations refer to the blended use of informal and formal copyright practices. The second set of findings revealed that the firm’s strategic intent affected the type of interactional configuration that unfolded in the firm. Specifically, firms with social intents tended to adopt dominant configurations while firms with socio-economic intents tended to adopt hybrid configurations. The following conceptual diagram displays the study’s findings (Figure 2):
+
+This study advances the literature on informality (Dau and Cuervo-Cazurra, 2014; Webb et al., 2009; Mhando and Kiggundu, 2018; Yang and Pisani, 2018; Webb et al., 2020; Ulyssea, 2020). As far as we know, this is the first study that goes beyond macro-level analysis (Fayolle and Riot, 2015; Godfrey, 2015; Sauka et al., 2016; Kiggundu and Pal, 2018) to investigate the interactional dynamics between formality and informality at the firm, community and state levels. This is also the first known study that uses copyright practices as an analytical lens to explore the interaction between informality and formality. The finding about diverse configurations of interactions also supports the view that there are degrees of informality (Williams et al., 2016). Therefore, formality and informality are not bi-polar but rather mutually-reinforcing concepts (Boanada-Fuchs and Boanada Fuchs, 2018).
+
+This study challenges the institutional voids perspective about formal/informal interactions. Prior reviews on institutional voids view informal customs existing alongside state statutory laws as makeshift responses to failed formal institutions (Igwe et al., 2020; Hack-Polay et al., 2020; Puffer et al., 2010; Sutter et al., 2013). Thus, the informal customs are mere substitutes to state statutory laws that have little or no influence on firms. The findings from this study respond to recent calls in the literature to highlight the pre-eminence and impact of ethnic, religious and kinship customs emanating from local communities over state regulations (Bothello et al., 2019). Also, the findings suggest not only that voids do not necessarily exist but rather that informal copyright practices are better suited for setting organizational arrangements in developing countries.
+
+An interesting example of this insight from the findings is that ethnic and religious copyright customs appear to have a stronger effect than state regulations on the hiring practices of firms embedded in local communities. African firms have an almost moral obligation to provide employment opportunities to family and religious community members as a way of protecting and supporting them (Galdino et al., 2018).
+
+On the other hand, state copyright regulations appear to have a strong effect on ownership practices even among firms that adopt hiring practices emanating from informal customs. These dynamics suggest that informal copyright practices originating from ethnic and religious communities are not just second-best solutions that are hurriedly put together to address enforcement gaps in state laws drawn from the West. Instead, these are vibrant institutional orders that affect hiring and ownership practices within organizations.
+
+Another unique insight from the study is that firms with an exclusively social intent can choose to violate state copyright regulations when these stipulations do not support the social definitions of purpose of the firms. This finding is non-conventional, and it highlights the need to go beyond the rational cost view about interactions between formality and informality (Huang et al., 2020; Gindling and Newhouse, 2012; Maloney, 2004).
+
+A novel contribution of this study is the attempt to link the literature on strategic intent (Lovas and Ghoshal, 2000; Mantere and Sillince, 2007; Jarzabkowski and Kaplan, 2015; O’Shannassy, 2016) with the literature on the interactions between formality and informality. The finding that a firm’s strategic intent affected the configuration of interactions between formality and informality is insightful and new.
+
+This insight suggests that a firm’s strategic intent is a meaningful inspiration for decision-making (O’Shannassy, 2016) when the firm has interactive discussions with internal and external stakeholders about informal and formal copyright practices. Stakeholders are not simply neutral actors but active proponents of formality or informality depending on the communities they represent. Thus, navigating formality and informality is really about negotiation interactions that support a firm’s strategic intent.
+
+Another essential insight is that strategic intents of firms may not always promote formalization. This is a departure from the prevailing view in the literature that claims that strategic intents exist to formalize practices in times of uncertainty and ambiguity (Lovas and Ghoshal, 2000). Findings from this study revealed that exclusively social intents can promote informality. The shared and unwritten rituals, norms, customs associated with strategic intents (Bailey et al., 2000) can promote informal practices that connect with internal and external stakeholders.
+
+The study also revealed that the firm’s strategic intent also defined the terms and outcomes for contractual negotiations with internal and external stakeholders. The overarching purpose associated with the intent helped the firms to define the scope of negotiation regarding formal and informal copyright practices. Finally, this study highlighted the important role of the CEO in the effective execution of strategic intents. Insights from the study suggest that CEOs in film-producing organizations execute strategic intents by hiring the right employees and distributors to support the firms’ intent. CEOs with a social intent are likely to implement strategic intents in distinct ways from CEOs with a socio-economic intent.
+
+Overall, the inclusion of strategic intent in the discourse reinforced a more dynamic and multidimensional view of informality, which is a recent call of some scholars (Williams et al., 2016; Mhando and Kiggundu, 2018). The strategic intent of firms offers a new research agenda for studying how interactional dynamics of informality and formality evolve as firms confront uncertainty and ambiguity. Options are now accessible for deeper theorizing about the transition from informality to formality and vice versa. Scholars can also use copyright practices as analytical and diagnostic lenses for exploring interactional relationships.
+
+The following key points summarized our contribution to theory and knowledge:
+
+The study advances the interactional dynamics of formality and informality at firm, community and state levels.
+
+The study advances theory by using copyright practices as an analytical lens to explore the nexus between formality and informality.
+
+While other studies consider informality as a makeshift or substitute to formal laws, the study solidly established the pre-eminence of both practices in organizations in developing countries.
+
+Voids do not necessarily exist in most organizations in developing countries. Instead, what previous studies referred to as “voids” are social practices that are prevalent in the African informal economies.
+
+Bypassing formal rules do not necessarily connote violation. Instead, religious, and ethnic rules are considered superior to state laws and used for the good of the community members.
+
+The strategic intent determines how organizations configure the interactions between formality and informality.
+
+Strategic intents are used by organizations to define their terms and outcomes for contractual negotiations with internal and external stakeholders.
+
+There are a couple of managerial implications of this study. Strategic intents that blend social and economic rationales may secure more positive interactive outcomes from internal and external stakeholders promoting formality and informality.
+
+CEOs that support hybrid configurations as part of their organizational DNA may be better equipped to deal with extreme economic uncertainty and regulatory ambiguity than CEOs who do not. Hybrid configurations that appeal to target audiences outside the organization may yield unexpected, positive results. Firms may profit from developing performance tools to evaluate the level of success with hybridization.
+
+Firms may rightfully be concerned about dominant informality. Informal copyright practices may promote tensions, conflict and organizational inefficiency. However, firms may profit from strategically focusing on when and in what circumstances to adopt informality. Finally, because defining and executing strategic intents may require a substantial investment in negotiation, CEOs may profit from training employees on negotiation tactics.
+
+Policymakers have a couple of lessons to learn from this study. Regulators may have to adopt a more innovative mindset in developing measures and policies to support firms practicing informal copyright practices. A simplistic policy instrument built on biased views about informality would not deliver tangible results. It is time for policymakers to carefully study the complex and multidimensional nature of informality occurring in firms. This assessment may lead to a revised understanding of the transitions from formality to informality and vice versa. The implication of a reassessment would be revised policy objectives for revenue generation, employment creation and human capital development (Kiggundu and Pal, 2018).
+
+This study proposes some questions for future research. Subsequent studies can comparatively investigate the relational dynamics between informality and formality along the value chain of firms operating in two or more sectors. Other studies can investigate how the configurations of interactions vary across and outside of Africa.
+
+Future studies may also analyze how the change in strategic intents affects the interactional configurations of formality and informality in firms. Another interesting study would be one that focuses on studying interactional configurations in firms that have exclusively economic intents.
+
+There is also a unique opportunity to investigate the drivers of interactional configurations at the individual, interpersonal and organizational levels.
+
+This study is limited because it is a multi-case inductive study of copyright practices in four firms in one film industry. The implication is that some findings are specific to the sampled firms. It is therefore unrealistic to assume that the results could be generalized across all settings. Some scholars may also argue that informal interactions occur more frequently in creative industries, such as Nollywood, than in other industries. Equally, the study does not conduct a quantitative analysis to support the qualitative findings. Nevertheless, this is an unconventional study of a pervasive and yet insufficiently-researched phenomenon. Future scholars are highly encouraged to study more puzzling and socially-relatable phenomena.
+
+Sampling process
+
+Conceptual/theoretical diagram
+
+Case descriptions
+
+Data sources
+
+The Participants and specific sample questions
+
+Summary of evidence from data
+
+Statistics on data collected for major concepts
+
+Acemoglu, D. and Johnson, S. (2005), “Unbundling institutions”, Journal of Political Economy, Vol. 113 No. 5, pp. 949-995.
+
+Adebayo, A.G. (1994), “Money, credit, and banking in pre-colonial Africa: the Yoruba experience”, Anthropos, pp. 379-400.
+
+Agbola, T. and Oloaoye, O.O. (2008), “Labour supply and manpower development strategies in the Nigerian building industry”, A paper presented at the first departmental staff/students seminar, Department of Urban and Regional Planning, University of Ibadan, 15th January.
+
+Ajibade, B. (2007), “From Lagos to Douala: the video film and its spaces of seeing”, Postcolonial Text, Vol. 3 No. 2, pp. 1-14.
+
+APM body of Knowledge (2021), “What is strategic intent”, available at: www.apm.org.uk/resources/what-is-project-management/what-is-strategic-intent/ (accessed 12 March 2021).
+
+Asein, J.O. and Nwauche, E.S. (Eds) (2002), A Decade of Copyright Law in Nigeria, Nigerian Copyright Commission.
+
+Babafemi, F.O. (2007), Intellectual Property: The Law and Practice of Copyright, Trademarks, Patents, and Industrial Design in Nigeria, Justinian Books Limited, Ibadan.
+
+Bailey, A., Johnson, G. and Daniels, K. (2000), “Validation of a multi‐dimensional measure of strategy development processes”, British Journal of Management, Vol. 11 No. 2, pp. 151-162.
+
+Bascom, W.R. (1952), “The esusu: a credit institution of the Yoruba”, The Journal of the Royal Anthropological Institute of Great Britain and Ireland, Vol. 82 No. 1, pp. 63-69.
+
+Baumol, W.J. (1990), “Sir John versus the Hicksians, or theorist malgré lui?”, Journal of Economic Literature, pp. 1708-1715.
+
+Baumol, W.J. and Blinder, A. (2008), Macroeconomics: Principles and Policy, South-Western Publishing, Cincinnati, OH.
+
+Baxter, P., and Jack, S. (2008), “Qualitative case study methodology: study design and implementation for novice researchers”, The Qualitative Report, Vol. 13 No. 4, pp. 544-556.
+
+Besley, T. and Ghatak, M. (2010), “Property rights and economic development”, Handbook of Development Economics, Vol. 5, pp. 4525-4595.
+
+Boanada-Fuchs, A. and Boanada Fuchs, V. (2018), “Towards a taxonomic understanding of informality”, International Development Planning Review, Vol. 40 No. 4, pp. 397-421.
+
+Bothello, J., Nason, R.S. and Schnyder, G. (2019), “Institutional voids and organization studies: towards an epistemological rupture”, Organization Studies, Vol. 40 No. 10, available at: https://journals.sagepub.com/doi/abs/10.1177/0170840618819037 (accessed 12 December 2019).
+
+Brannen, M.Y. and Peterson, M.F. (2009), “Merging without alienating: interventions promoting cross-cultural organizational integration and their limitations”, Journal of International Business Studies, Vol. 40 No. 3, pp. 468-489.
+
+Chome, J. and McCall, M. (2005), “Neo-customary title registration in informal settlements: the case of Blantyre, Malawi”, International Development Planning Review, Vol. 27 No. 4, pp. 451-478.
+
+Colman, H.L. and Rouzies, A. (2019), “Post-acquisition boundary spanning: A relational perspective on integration”, Journal of Management, Vol. 45 No. 5, pp. 2225-2253.
+
+Cornish, W.R. (1999), Intellectual Property: patent, Copyright, Trademark, and Allied Rights, 4th ed., Sweet and Maxwell, London.
+
+Dau, L.A. and Cuervo-Cazurra, A. (2014), “To formalize or not to formalize: entrepreneurship and pro-market institutions”, Journal of Business Venturing, Vol. 29 No. 5, pp. 668-686.
+
+Davis, J.P. and Eisenhardt, K.M. (2011), “Rotating leadership and collaborative innovation: recombination processes in symbiotic relationships”, Administrative Science Quarterly, Vol. 56 No. 2, pp. 159-201.
+
+Davis, J.P., Eisenhardt, K.M. and Bingham, C.B. (2007), “Developing theory through simulation methods”, Academy of Management Review, Vol. 32 No. 2, pp. 480-499.
+
+Eisenhardt, K.M. and Graebner, M.E. (2007), “Theory building from cases: opportunities and challenges”, Academy of Management Journal, Vol. 50 No. 1, pp. 25-32.
+
+Fayolle, A. and Riot, P. (Eds) (2015), Rethinking Entrepreneurship: Debating Research Orientations, Routledge, London, New York, NY.
+
+Flint, M.F. (1979), Technology and Copyright: sources and Materials, MD Lomond Publishers, Mt. Airy.
+
+Galdino, K.M., Kiggundu, M.N., Jones, C.D. and Ro, S. (2018), “The informal economy in pan-Africa: review of the literature, themes, questions, and directions for management research”, Africa Journal of Management, Vol. 4 No. 3, pp. 225-258.
+
+Galiani, S. and Schargrodsky, E. (2010), “Property rights for the poor: effects of land titling”, Journal of Public Economics, Vol. 94 Nos 9/10, pp. 700-729.
+
+Gandonu, A. (1978), “Nigeria’s 250 ethnic groups: realities and assumptions”, Perspectives on Ethnicity, pp. 243-279.
+
+Ge, J., Carney, M. and Kellermanns, F. (2019), “Who fills institutional voids? Entrepreneurs’ utilization of political and family ties in emerging markets”, Entrepreneurship Theory and Practice, Vol. 43 No. 6, pp. 1124-1147.
+
+Gindling, T.H. and Newhouse, D. (2012), Self-Employment in the Developing World, The World Bank.
+
+Godfrey, P.C. (Ed.) (2015), Management, Society, and the Informal Economy, Routledge, London.
+
+Golden-Biddle, K. and Locke, K. (2007), Composing Qualitative Research, Sage.
+
+Hack-Polay, D., Igwe, P.A. and Madichie, N.O. (2020), “The role of institutional and family embeddedness in the failure of Sub-Saharan African migrant family businesses”, The International Journal of Entrepreneurship and Innovation, Vol. 21 No. 4, pp. 237-249.
+
+Harris, J.R. and Todaro, M.P. (1970), “Migration, unemployment and development: a two-sector analysis”, The American Economic Review, Vol. 60 No. 1, pp. 126-142.
+
+Helmke, G. and Levitsky, S. (2004), “Informal institutions and comparative politics: a research agenda”, Perspectives on Politics, Vol. 2 No. 4, pp. 725-740.
+
+Hamel, G. and Prahalad, C.K. (2010), Strategic Intent, Harvard Business Press.
+
+Hendershot, H. (2010), Shaking the World for Jesus: Media and Conservative Evangelical Culture, University of Chicago Press.
+
+Houssein, I.M. (2008), “Institutional and regulatory constraints and the informal sector in Djibouti”, Doctoral dissertation, Université Paris-Est.
+
+Huang, G., Xue, D. and Wang, B. (2020), “Integrating theories on informal economies: an examination of causes of urban informal economies in China”, Sustainability, Vol. 12 No. 7, p. 2738.
+
+Igwe, P.A., Odunukan, K., Rahman, M., Rugara, D.G. and Ochinanwata, C. (2020), “How entrepreneurship ecosystem influences the development of frugal innovation and informal entrepreneurship”, Thunderbird International Business Review, Vol. 62 No. 5, pp. 475-488.
+
+Jarzabkowski, P. and Kaplan, S. (2015), “Strategy tools‐in‐use: a framework for understanding ‘technologies of rationality’ in practice”, Strategic Management Journal, Vol. 36 No. 4, pp. 537-558.
+
+Johnson, W.E. (1921), Logic, University Press.
+
+Jonsen, K. and Jehn, K.A. (2009), “Using triangulation to validate themes in qualitative studies”, Qualitative Research in Organizations and Management, Vol. 4 No. 2, pp. 123-150.
+
+Khanna, T. and Palepu, K. (1997), “Why focused strategies may be wrong for emerging markets”, Harvard Business Review, Vol. 75 No. 4, pp. 41-43.
+
+Kiggundu, M.N. and Pal, S.P. (2018), “Structure and management of formal and informal business activities in entrepreneurial family and small firms in Africa”, Africa Journal of Management, Vol. 4 No. 3, pp. 347-388.
+
+Kistruck, G.M., Webb, J.W., Sutter, C.J. and Bailey, A.V. (2015), “The double-edged sword of legitimacy in base-of-the-pyramid markets”, Journal of Business Venturing, Vol. 30 No. 3, pp. 436-451.
+
+Krishna, A., Rains, E. and Wibbels, E. (2020), “Negotiating informality–ambiguity, intermediation, and a patchwork of outcomes in slums of Bengaluru”, The Journal of Development Studies, Vol. 56 No. 11, pp. 1983-1999.
+
+La Porta, R. and Schleifer, A. (2014), “Informality and development”, Journal of Economic Perspectives, Vol. 28 No. 3, pp. 109-126.
+
+La Porta, R. and Schleifer, A. (2008), “The unofficial economy and economic development”, (No. w14520). National Bureau of Economic Research.
+
+Lanjouw, J.O. and Levy, P.I. (2002), “Untitled: a study of formal and informal property rights in urban Ecuador”, The Economic Journal, Vol. 112 No. 482, pp. 986-1019.
+
+Lobato, R. (2010), “Creative industries and informal economies: lessons from Nollywood”, International Journal of Cultural Studies, Vol. 13 No. 4, pp. 337-354.
+
+Lovas, B. and Ghoshal, S. (2000), “Strategy as guided evolution”, Strategic Management Journal, Vol. 21 No. 9, pp. 875-896.
+
+Mackay, M. (2009), “Nollywood loses half of film profits to piracy, say producers”, available at: http://edition.cnn.com/2009/SHOWBIZ/Movies/06/24/nollywood.piracy/#cnnSTCText (accessed 11 August 2020).
+
+Mahadevia, D. (2010), “Tenure security and urban social protection links: India”, IDS Bulletin, Vol. 41 No. 4, pp. 52-62.
+
+Maloney, W.F. (2004), “Informality revisited”, World Development, Vol. 32 No. 7, pp. 1159-1178.
+
+Mantere, S. and Sillince, J.A. (2007), “Strategic intent as a rhetorical device”, Scandinavian Journal of Management, Vol. 23 No. 4, pp. 406-423.
+
+Marquis, C. and Huang, Z. (2010), “Acquisitions as exaptation: the legacy of founding institutions in the US commercial banking industry”, Academy of Management Journal, Vol. 53 No. 6, pp. 1441-1473.
+
+Marquis, C. and Tilcsik, A. (2013), “Imprinting: toward a multilevel theory”, Academy of Management Annals, Vol. 7 No. 1, pp. 195-245.
+
+Mhando, P.C. (2018), “Managing in the informal economy: the informal financial sector in Tanzania”, Africa Journal of Management, Vol. 4 No. 3, pp. 282-305.
+
+Mhando, P.C. and Kiggundu, M.N. (2018), “Introduction to special issue – managing Africa’s informal economy: research, practice and advocacy”, Africa Journal of Management, Vol. 4 No. 3, pp. 219-224.
+
+Miles, M.B., Huberman, A.M. and Saldaña, J. (2014), Qualitative Data Analysis: A Methods Sourcebook, AZ State University Press, AZ.
+
+Miller, C.C., Cardinal, L.B. and Glick, W.H. (1997), “Retrospective reports in organizational research: a reexamination of recent evidence”, Academy of Management Journal, Vol. 40 No. 1, pp. 189-204.
+
+Murithi, W., Vershinina, N. and Rodgers, P. (2020), “Where less is more: institutional voids and business families in Sub-Saharan Africa”, International Journal of Entrepreneurial Behavior and Research, Vol. 26 No. 1, pp. 158-174.
+
+North, D.C. (1990), Institutions, Institutional Change and Economic Performance, Cambridge University Press.
+
+Nsehe, M. (2011), “Hollywood, meet Nollywood”, available at: www.forbes.com/sites/mfonobongnsehe/2011/04/19/hollywood-meet-nollywood/#3587b56f5d7a (accessed 12 December 2019).
+
+O’Shannassy, T.F. (2016), “Strategic intent: the literature, the construct and its role in predicting organization performance”, Journal of Management and Organization, Vol. 22 No. 5, pp. 583-598.
+
+Odunowo, T.A. (2002), “Nigerian copyright law: a judicial overview”, in Asein, J.O. and Nwauche, E.S. (Eds), A Decade of Copyright Law in Nigeria, Nigerian Copyright Commission Publishers, Abuja, pp. 54-65.
+
+Okpachu, E. and Isa, M.S. (2020), “National development strategy, SDGs monitoring and evaluation: Nigerian experience”, Localising SDGs, p. 13.
+
+Onoyeyan, G. (2018), “Copyright law and photocopying practice in Nigeria”, available at: https://core.ac.uk/download/pdf/220153007.pdf (accessed 24 February 2021).
+
+Payne, G., Durand-Lasserve, A. and Rakodi, C. (2009), “Social and economic impacts of land titling programs in urban and periurban areas: a short review of the literature”, Urban Land Markets, pp. 133-161.
+
+Peng, M.W. (2003), “Institutional transitions and strategic choices”, Academy of Management Review, Vol. 28 No. 2, pp. 275-296.
+
+Puffer, S.M., McCarthy, D.J. and Boisot, M. (2010), “Entrepreneurship in Russia and China: the impact of formal institutional voids”, Entrepreneurship Theory and Practice, Vol. 34 No. 3, pp. 441-467.
+
+PwC (2017), “Spotlight - The Nigerian film industry”, available at www.pwc.com/ng/en/publications/spotlight-the-nigerian-film-industry.html (accessed 12 December 2019).
+
+Radchenko, N. (2014), “Heterogeneity in informal salaried employment: evidence from the Egyptian labor market survey”, World Development, Vol. 62, pp. 169-188.
+
+Rajan, R.G. and Zingales, L. (1998), “Power in a theory of the firm”, The Quarterly Journal of Economics, Vol. 113 No. 2, pp. 387-432.
+
+Reerink, G. and Van Gelder, J.L. (2010), “Land titling, perceived tenure security, and housing consolidation in the kampongs of Bandung, Indonesia”, Habitat International, Vol. 34 No. 1, pp. 78-85.
+
+Sauka, A., Schneider, F. and Williams, C.C. (Eds) (2016), Entrepreneurship and the Shadow Economy: A European Perspective, Edward Elgar, Cheltenham.
+
+Scott, W.R. and Davis, G.F. (2007), Organizations and Organizing: Rational, Natural, and Open Systems Perspectives, Prentice Hall, Upper Saddle River, NJ.
+
+Secundo, G., Del Vecchio, P., Simeone, L. and Schiuma, G. (2020), “Creativity and stakeholders' engagement in open innovation: design for knowledge translation in technology-intensive enterprises”, Journal of Business Research, Vol. 119, pp. 272-282.
+
+Siqueira, A.C.O., Webb, J.W. and Bruton, G.D. (2014), “Informal entrepreneurship and industry conditions”, Entrepreneurship Theory and Practice, Vol. 40 No. 1, pp. 177-200.
+
+Sivarajah, U., Kamal, M.M., Irani, Z. and Weerakkody, V. (2017), “Critical analysis of Big Data challenges and analytical methods”, Journal of Business Research, Vol. 70, pp. 263-286.
+
+Stake, R.E. (2005), The Art of Case Study Research, Sage, Thousand Oaks, CA.
+
+Stulz, R.M. (2005), “The limits of financial globalization”, The Journal of Finance, Vol. 60 No. 4, pp. 1595-1638.
+
+Suddaby, R. (2006), “From the editors: what grounded theory is not”, Academy of Management Journal, Vol. 49 No. 4, pp. 633-642.
+
+Sutter, C.J., Webb, J.W., Kistruck, G.M. and Bailey, A.V. (2013), “Entrepreneurs' responses to semi-formal illegitimate institutional arrangements”, Journal of Business Venturing, Vol. 28 No. 6, pp. 743-758.
+
+The Economist (2006), “Nollywood dreams, 29 July”, available at: www.economist.com/node/7226009 (accessed 11 December 2019).
+
+Ulyssea, G. (2020), “Informality: causes and consequences for development”, Annual Review of Economics, Vol. 12 No. 1, pp. 525-546.
+
+UNESCO (2009), Analysis of the UIS International Survey on Feature Film Statistics, UNESCO Institute for Statistics: Montreal, Canada.
+
+Uruthirapathy, A.A. and Kiggundu, M.N. (2018), “The BRIC and African countries’ informal economies: differences, similarities and some general observations”, Africa Journal of Management, Vol. 4 No. 3, pp. 389-400.
+
+Uzo, U. and Mair, J. (2021), “How informality affects habitual improvisation in firms: insights from the Nigerian movie industry”, International Studies of Management and Organization, Vol. 51 No. 2, pp. 162-184.
+
+Uzo, U. and Mair, J. (2014), “Source and patterns of organizational defiance of formal institutions: insights from Nollywood, the Nigerian movie industry”, Strategic Entrepreneurship Journal, Vol. 8 No. 1, pp. 56-74.
+
+Uzo, U., Mair, J. and Adewusi, A. (2019), “Relational activities and channel contracts: insights from channel intermediaries in Nigeria”, Journal of Strategic Contracting and Negotiation, Vol. 4 Nos 1/2, pp. 75-97.
+
+Webb, J.W., Tihanyi, L., Ireland, R.D. and Sirmon, D.G. (2009), “You say illegal, I say legitimate: entrepreneurship in the informal economy”, Academy of Management Review, Vol. 34 No. 3, pp. 492-510.
+
+Webb, J.W., Khoury, T.A. and Hitt, M.A. (2020), “The influence of formal and informal institutional voids on entrepreneurship”, Entrepreneurship Theory and Practice, Vol. 44 No. 3, pp. 504-526.
+
+Williams, C.C. (2016), “Tackling enterprise in the informal economy: an introductory overview”, International Journal of Entrepreneurship and Small Business, Vol. 28 Nos 2/3, pp. 139-153.
+
+Williams, C.C. and Round, J. (2007), “Entrepreneurship and the informal economy: a study of Ukraine's hidden enterprise culture”, Journal of Developmental Entrepreneurship, Vol. 12 No. 1, pp. 119-136.
+
+Williams, C.C., Shahid, M.S. and Martínez, A. (2016), “Determinants of the level of informality of informal micro-enterprises: some evidence from the city of Lahore, Pakistan”, World Development, Vol. 84, pp. 312-325.
+
+WIPO (2021), “What is copyright?”, available at: www.wipo.int/copyright/en/ (accessed 23 March 2021).
+
+Yang, K.M. and Pisani, M.J. (2018), “When informality meets formality: evidence from China”, Chinese Management Studies, Vol. 12 No. 1, pp. 184-201.
+
+Yeasmin, S. and Rahman, K.F. (2012), “Triangulation research method as the tool of social science research”, BUP Journal, Vol. 1 No. 1, pp. 154-163.
+
+Copyright Act, (Consolidation Ch. 68), 1988 (1999), No. 47 (No. 42)), as amended by the Copyright Amendment Decree No. 98 of 1992 and the Copyright (Amendment) Decree of 1999.
+
+Glaser, B. and Strauss, A. (1967), The Discovery of Grounded Theory, 1967, Weidenfield and Nicolson, London.
+
+Hamel, G. and Prahalad, C.K. (2010), Strategic Intent, Harvard Business Press.
+
+Lewis, W. (2000), “Economic development with unlimited supplies of labour”, Development: Doctrines of Development, Vol. 1, p. 116.
+
+Siqueira, A.C.O., Webb, J.W. and Bruton, G.D. (2016), “Informal entrepreneurship and industry conditions”, Entrepreneurship Theory and Practice, Vol. 40 No. 1, pp. 177-200.
+
+Stinchcombe, A.L. (1965), “Organizations and social structure”, Handbook of Organizations, Vol. 44 No. 2, pp. 142-193.
+
+Sutton, R.I. (1997), “Crossroads – the virtues of closet qualitative research”, Organization Science, Vol. 8 No. 1, pp. 97-106.
+
+How firms strategically navigate informal and formal copyright practices: insights from Nollywood
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Theoretical perspectives on interactional dynamics of informality and formality
+
+Research context
+
+Methodology
+
+Findings
+
+Discussion of findings
+
+Theoretical implications
+
+Figures
+
+Table 1.
+
+Table 2.
+
+Table 3.
+
+Table 4.
+
+Table 5.
+
+References
+
+Further reading
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+International Journal of Organizational Analysis
+
+Volume 31 Issue 2
+
+How firms strategically navigate informal and formal copyright practices: insights from Nollywood
+
+Abstract
+
+Introduction
+
+Theoretical perspectives on interactional dynamics of informality and formality
+
+Research context
+
+Methodology
+
+Findings
+
+Discussion of findings
+
+Theoretical implications
+
+Copyright practices
+
+Community
+
+Informality
+
+Formality
+
+Nollywood
+
+State
+
+that the relationship between the master and the learner can last for as long as the master deems necessary without any contract; and
+
+that the former will not pay fixed wages (if any) to the latter (Agbola and Oloaoye, 2008; Adekola, 2013).
+
+the firm’s definition of its purpose;
+
+the decision-making practices in place to support the ownership structure; and
+
+target audience for products.
+
+The study advances the interactional dynamics of formality and informality at firm, community and state levels.
+
+The study advances theory by using copyright practices as an analytical lens to explore the nexus between formality and informality.
+
+While other studies consider informality as a makeshift or substitute to formal laws, the study solidly established the pre-eminence of both practices in organizations in developing countries.
+
+Voids do not necessarily exist in most organizations in developing countries. Instead, what previous studies referred to as “voids” are social practices that are prevalent in the African informal economies.
+
+Bypassing formal rules do not necessarily connote violation. Instead, religious, and ethnic rules are considered superior to state laws and used for the good of the community members.
+
+The strategic intent determines how organizations configure the interactions between formality and informality.
+
+Strategic intents are used by organizations to define their terms and outcomes for contractual negotiations with internal and external stakeholders.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Date of founding
+
+February 1993
+
+February 1993
+
+March 1993
+
+June 1993
+
+Number of productions
+
+20
+
+34
+
+28
+
+20
+
+Legal status
+
+Registered
+
+Registered
+
+Registered
+
+Registered
+
+Number of full-time staff
+
+4
+
+8
+
+6
+
+5
+
+Number of contracted staff
+for the film project
+
+46
+
+22
+
+34
+
+40
+
+Profile of informants
+
+CEO, Actors, Director, Production Manager, Location Manager
+
+CEO, Actors
+Director, Producer, Admin Manager
+
+CEO, Assistant Production Manager, Director, Technical Manager, Actors
+
+Director, Producer, Actors
+
+Number of site visits
+
+6
+
+12
+
+9
+
+6
+
+Number of hours spent on observation
+
+27
+
+48
+
+42
+
+22
+
+Estimated Budget for a film project
+
+$14,000
+
+$100,000
+
+$20,000
+
+$15,000
+
+CEO
+
+1. How will you define the mission of your organization?
+2. How is the ownership of films defined in your organization?
+3. What kind of movies do you make? Who are your targeted audiences/customers?
+4. How do you distribute your movies?
+5. How do you raise funding for your movies?
+
+Producers/Production Manager/Assistant Production Manager
+
+1. How do you hire our cast and crew members and how do you pay them?
+2. How were agreements reached to hire actors? What was the negotiation process like?
+3. How was the distribution handled after the movie was made?
+4. How was this organizational ownership settled?
+5. Do you write them (i.e. scripts) yourself or you buy off the script from a script writer? Why?
+
+Director
+
+1. How would you define the mission of your organization?
+2. How do you hire your staffs?
+3. How are payments made to the crew members in your organization?
+4. How do you distribute your films?
+
+Location/Technical Manager
+
+1. In your experience, how would you define the mission of your organization?
+2. How do you sign on artists?
+3. How are your products distributed?
+
+Admin manager
+
+1. What is your staff strength?
+2. How does your organizational structure looks like?
+3. How to your organization hirer actors?
+
+Actors
+
+1. How were you hired to act?
+
+Company
+
+Bez
+
+Kenny
+
+Owo
+
+Quad
+
+Configuration of (In)formality
+
+Hybrid
+
+Hybrid
+
+Dominant
+
+Dominant
+
+Copyright Practices
+
+Aspects of
+Practices 
+
+Practice
+
+Origin
+
+Practice
+
+Origin
+
+Practice
+
+Origin
+
+Practice
+
+Origin
+
+Product
+Ownership
+
+Personal
+
+State
+Copyright
+Act
+
+Personal
+
+State
+Copyright
+Act
+
+Communal
+
+Ethnic
+community
+
+Communal
+
+Religious
+community
+
+Film
+Distribution
+
+Sign
+contracts
+
+State
+Copyright
+Act
+
+Sign contracts
+
+State
+Copyright
+Act
+
+No contracts
+
+Ethnic
+community
+
+No contracts
+
+Religious
+community
+
+Hiring
+
+No contracts,
+no tenure
+
+Ethnic
+Community
+
+No contracts,
+no tenure
+
+Ethnic
+Community
+
+No contracts,
+no tenure
+
+Ethnic
+community
+
+No contracts,
+no tenure
+
+Religious
+community
+
+Strategic Intent
+
+Purpose
+
+Social and Economic
+
+Social and Economic
+
+Social
+
+Social
+
+Decision-making
+
+Personal
+
+Personal
+
+Collective
+
+Collective
+
+Targeted Audience
+
+Broad
+
+Broad
+
+Niche
+
+Niche
+
+Hybrid Configuration
+
+27
+
+20
+
+Dominant Configuration
+
+26
+
+11
+
+Exclusively Social Intent
+
+7
+
+11
+
+Socio-economic Intent
+
+6
+
+27

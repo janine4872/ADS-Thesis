@@ -1,0 +1,460 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Health Education
+
+ISSN: 0965-4283
+
+Article publication date: 7 August 2017 Permissions
+
+The purpose of this paper is to discuss the findings of an intervention program built on the concept of children’s health literacy, particularly on its citizenship component. This intervention program employed the Investigation-Vision-Action-Change model for action-oriented teaching, where children were supported to investigate different health issues that affect them, create visions about desirable changes, and act toward desirable change. The intervention was implemented in the conditions of a post-communist country (Slovakia) where the majority of health education programs are behaviorally oriented, without giving space to children’s own perceptions and decisions. The study seeks to explore whether fostering children’s participation in forming the school environment improves the three selected factors of school well-being, namely, children’s perception of school, their subjective well-being, and violent behavior in school.
+
+A cluster-randomized controlled trial design was used where ten classes of children aged nine to ten years were randomly assigned to either experimental (n=89) or control group (n=96). The dependent variables were pre- and post-tested using measures drawn from the Health Behavior in School-aged Children study for Slovakia.
+
+The intervention program was shown to yield empirically robust effects, given the significant improvement in children’s perceptions about school, violent behavior, and their well-being, with medium-to-large effect sizes (Hedges’s g ranging from 0.74 to 0.96).
+
+The present study offers an effective approach to enhance the respect for the children’s views on issues that affect them, particularly within post-communist conditions.
+
+Boberova, Z., Paakkari, L., Ropovik, I. and Liba, J. (2017), "Democratic school health education in a post-communist country", Health Education, Vol. 117 No. 5, pp. 469-484. https://doi.org/10.1108/HE-10-2016-0050
+
+Emerald Publishing Limited
+
+Copyright © 2017, Emerald Publishing Limited
+
+In the twenty-first century, the broad purpose of health promotion and health education could be stated as creating a learning environment that links what pupils and students learn at school and what they experience and learn in their everyday lives (Marks, 2012). Therefore, the aspects of citizenship specifically aimed at emphasizing the need for civic engagement to build stronger, healthier, and safe communities are, in general, currently regarded as essential aspects of health promotion and health education. The recently published Global Strategy for Women’s, Children’s and Adolescents’ Health 2016-2030 (Every Woman Every Child, 2015, p. 38) states that “[b]y 2030, a world in which every woman, child and adolescent in every setting realizes their rights to physical and mental health and well-being, has social and economic opportunities, and is able to participate fully in shaping prosperous and sustainable societies.”
+
+Citizenship has become one of the most discussed components of the health literacy concept. Although health literacy is not an entirely new concept, its meaning has been moved from its original use in the medical context, in terms of being able to read and understand medical information, and now often refers to a broader perspective as an important competence for everyday living in a modern society (Kanj and Mitic, 2009; Wagner, 2008; Nutbeam, 2000; Zarcadoolas et al., 2005; Kickbusch, 2008). There are many components of health literacy such as health-related knowledge, various practical skills, and critical thinking skills including media literacy (see Paakkari and Paakkari, 2012). Citizenship competences, or “civic literacy,” can be seen as important components of health literacy, helping people to become empowered to act in a social context, and make appropriate health decisions and ethics (Paakkari and Paakkari, 2012; Kanj and Mitic, 2009; Sørensen et al., 2012; Laura and Paul, 2010; Eurobarometer, 2014).
+
+Including citizenship competences and active participation in public life as aspects of school health intervention may have a particular meaning in countries where they do not have a long tradition of doing so.
+
+In Slovakia, one of the post-communist countries, democracy was established in 1989. Before 1989, the state-party and its ideology had an absolute monopoly on educational institutions, and there was no recognition of the contributions of other stakeholders. Education, like in other post-communist countries, was a tool of mass indoctrination, where teacher training stressed ideological themes in all subjects, teachers and pupils did not have sufficient freedom to choose contents and methods, and the curriculum was the same everywhere across the country, without local or regional variations (Glenn, 1995; Birzea, 2012; Birzea, 1996). Collectivist values were predominant (sense of belonging, loyalty, social mobilization, discipline) while individualist values were mostly suppressed (freedom, independence, critical spirit), arguably leading to individuals’ lack of awareness of their own importance and their responsibility towards the society (Birzea, 1996). Schwartz and Bardi (1997) in their study confirmed the low importance for egalitarianism and autonomy values in the Eastern European samples, suggesting reluctance to assume responsibility for their own actions.
+
+During this period, the health education in Slovakia was not an explicit part of the curriculum; there were only general aims of school education, primarily within the school subjects such as physical education (which was oriented towards physical performance), biology (with focus on primary prevention), and national defense education (which was aimed at the protection of life). The school doctor and the school dentist were part of the school system for disease prevention. Health education was seen, as Nutbeam (2000) has put it, “in a rather limited way as contributing only to improvements in individual knowledge and beliefs about risk factors for disease, and as having only a limited role in promoting behavior change in relation to those risk factors” (p. 261).
+
+After 1989, the political changes induced systemic reforms based on the principles of democracy in all societal areas (policy, economy, and culture), including education. However, as Birzea (2012) points out, the post-communist transition toward democracy cannot be seen as only a simple regime change or linear translation process. Cultural reforms, including educational reforms, were the slowest and the most difficult, spreading over a period of at least one generation (25 years). Birzea (2012) describes six major orientations of the educational curriculum in the central and eastern countries in the transitional process, namely, democracy and democratization, strengthening of citizenship, strengthening of humanist values, strengthening of values associated with nationhood, rediscovery of religion, and the reconstruction of the European ideal (see also Birzea, 1996). In brief, the education reforms were oriented toward increased freedom for teachers, the encouragement of local initiatives, and the development of private schools (Glenn, 1995). These reforms included a focus on the skills required for social participation and shared responsibility, and encouraged political socialization at school, promotion of civic rights and duties, individualization and personalization of teaching methods, promotion of national identity, and the learning of the national language, history, and culture (UNESCO – IBE, 2012). The reforms introduced a European dimension to the school curricula, the teaching of foreign languages, and the promotion of intercultural education, while still putting emphasis on the reinforcement of national identity and the willingness to become involved in the European integrative processes as well (Pastuović, 1993).
+
+In the case of Slovakia, these trends led to new school subjects, such as citizenship education, religious education, ethics education, and western foreign languages (UNESCO – IBE, 2012), and cross-sectional themes, such as multicultural education, media education, environmental education, regional education and traditional folk culture, and the protection of life and health, themes which are usually taught within other subjects or within the school projects (Eurydice, 2009/2010).
+
+Although all the mentioned trends brought new educational perspectives, the position of health education had not significantly changed. While health education was set as a priority in the National Program of Care for Children and Youth in Slovakia for the years 2008-2015 and the Strategy of the Slovak Republic for youth for the years 2014-2020, health matters are represented as general aims within other school subjects with focus on individual health; the position of health education is not explicitly specified in the national curriculum (Eurydice, 2009/2010). The school doctor and the school dentist are no longer part of the school system. Although extracurricular health education programs and activities are common in the school practice, most of them are focused on behavioral changes with the focus on increasing physical activity, changing nutrition behavior, preventing smoking, including sex education, and strengthening children’s mental health and well-being (Bíziková, 2011; Liba, 2010; Slovíková, 2012a, b). However, such behaviorally oriented interventions may miss out on the children’s and youth’s perceptions of good and healthy life (Jensen, 1997).
+
+There was only one national initiative within the public health promotion in schools where Slovakia joined the European Network of Health-Promoting Schools in 1993. Within ten years, the Slovak Network of Health-Promoting Schools (SNHPS) had been established, counting 2,051 schools, out of which 979 were kindergarten, 960 elementary schools, and 112 secondary schools (Földes, 2004). All certificated schools were supposed to elaborate a comprehensive school project, which was implemented during one school year, and the schools were certified based on the project evaluation. Thus, the Slovak national model of health-promoting schools was based on the concept of school project. The institutional support for the elaboration of the projects was by means of recommendations published by Slovak Ministry of Education (Held, 2006). However, the analysis of the recommendations shows that all the templates of school projects were mainly focused on changes in risk behavior, represented mostly by discussions with experts (police, psychologists, doctors), educational concerts, or simple transmission of health information by frontal presentations or posters. In addition, there was no particular recommendation for children engagement within the process.
+
+Since 2005, the Ministry of Education has published a call “Health in schools” where all schools may apply for a one-year funding (no more than 1,500 euro per project). However, the last complex national report about SNHPS was published in 2004 and no comprehensive report about the structure, undertaken actions, or recommended evidence-based practices within the network has yet been published. It is legitimate to question the current role of SNHPS, given the fact that more than 2,000 schools are in the network.
+
+Although it is 27 years since the transition toward democracy, the latest periodic United Nations (2016) Slovak report about the children’s rights reiterates its previous recommendations to enhance respect for the views of the children. The Committee on the Rights of the Child recommends the development of toolkits for public consultation, including consulting with children on issues that affect them, conducting programs and awareness-raising activities to promote the meaningful and empowered participation of all children within the family, in the community, and in schools, and institutionalizing permanent participative structures to facilitate the effective engagement of children (United Nations, 2016, p. 5).
+
+Many international studies (Program for International Student Assessment (PISA); Health Behavior in School-aged Children (HBSC)) have repeatedly reported on the generally low levels of happiness and satisfaction among the Slovak students within school environment (OECD, 2013; Currie et al., 2012; Inchley et al., 2016), which makes it clear that the issue of the active participation of children in the improvement of school environment should be addressed urgently. The WHO survey HBSC (www.hbsc.org/) focuses on understanding young people’s health in their social context monitoring the school environment at several levels. The percentage of Slovak school-aged children that like school is one of the lowest across all age groups (11, 13, and 15-year old) among HBSC countries (Inchley et al., 2016, p. 53). The HBSC study also reports a low level of participation by Slovak school-aged children in the in-class decision making and at the school level (Madarasová Gecková and Dankulincová, 2015). The same trends have been shown by the PISA (www.oecd.org/pisa/), which also examines students’ (15-year old) evaluation of their happiness and satisfaction in relation to school, providing a good indication of whether educational systems are able to foster students’ overall well-being. The percentage of Slovak students who feel happy at school is one of the lowest (ranked 62 out of 64) among PISA-participating countries and economies (OECD, 2013, p. 32). Furthermore, the decline of Slovak students’ sense of belonging and attitudes toward school between 2003 and 2012 is one of the most pronounced across participating countries (see OECD, 2013).
+
+Previous studies have suggested that the characteristics associated with a positive view of school are the student participation in, and responsibility for, school life, the perception of justice and safety within the school environment, and a good relationship with teachers (Samdal et al., 1998). Previous research has linked negative disposition toward school to low academic performance and other negative outcomes, such as low levels of emotional well-being, risk behavior (Samdal et al., 2000; Garcia-Moya et al., 2015; Griffiths et al., 2012), and bullying (Wormington et al., 2016; Harel-Fisch et al., 2011).
+
+Konu and Rimpelä (2002) introduced the school well-being model where well-being is seen as an important factor in the overall school setting. The authors divided the indicators of well-being into four categories, namely, school conditions, social relationships, means for self-fulfillment, and health status. Each category contains several aspects of children’s life in school. The school environment is seen as an important factor for promoting the health and overall well-being of children and youth (Samdal et al., 1998; Vieno et al., 2005; John-Akinola and Gabhainn, 2015). Moreover, the school environment is also usually the first environment in which children experience a sense of belonging to an institution, where they observe, experience, and start to learn how society works (Luff and Webster, 2014).
+
+Like in most post-communist countries, Slovak school-aged children and students were born in democratic regime while the majority of Slovak teachers either lived their youth in or studied during the communist regime. Birzea (2012) describes this phenomenon where the new institutions and values co-exist together with mentalities and behaviors of “residual communism.” It is therefore important to focus not only on democratic aspects in education, but also on education for democracy citizenship and civic engagement with the aim to promote the health and well-being of children and youth. “Democracy is primarily participation and therefore education for democracy actually means qualification for the role of a competent participant” (Simovska, 2004a, p. 203). Schools should see children as citizens with current rights and not just as future citizens of the society (Paakkari and Paakkari, 2012).
+
+Given this perspective, there is a need to identify appropriate educational conditions where all students can learn to act as responsible and health-literate citizens. We highlight the concept of democratic health education as defined by Jensen: “Democratic health education has to be based on a holistic health concept, be action-oriented and involve the active participation of pupils” (Jensen, 1997, p. 422).
+
+The democratic approach actively involves pupils and students in making their own decisions about the health and articulating their own perceptions of a healthy life and healthy environment (Whitman, 2005). The concept of “action competence” and an educational approach called Investigation-Vision-Action-Change (IVAC) were introduced to serve as a framework for action-oriented teaching (Jensen and Schnack, 1997; Jensen, 1997, 2004). Action-oriented teaching stresses the “civic dimension,” meaning that the environment and health should not be separated if pupils and students are to acquire a coherent understanding of the dynamics behind health matters, and develops a vision for healthy life and healthy environment in which the students feel involved (Whitman, 2005; Jensen, 1997, 2000).
+
+To date, a few studies have been conducted to explore children’s health literacy (Paakkari and Paakkari, 2012; Borzekowski, 2009; Jain and Bickham, 2014; Fairbrother et al., 2016; Kostenius and Bergmark, 2016; Kilgour et al., 2015) or measurement of a related competence (Ormshaw et al., 2013; Paakkari et al., 2016). To date, there is almost no research exploring the influence of a school health literacy intervention on the school well-being in children. The theoretical and empirical treatment of the concept of health literacy has so far been focused on the level of an individual. There is a need to go beyond the individual level (Paakkari and Paakkari, 2012; Higgins et al., 2009) to extend the focus to the community level, to help young people become competent enough to engage in community collaboration. The IVAC didactic model provides an important platform for the development of children’s experience with taking actions, different forms of children’s participation, and initiating health-promoting changes based on the school-community collaboration (see Simovska, 2004b; Simovska and Jensen, 2003).
+
+The principal purpose and aim of this paper was to examine whether action-oriented teaching, using the IVAC didactic model, built on the concept of children’s health literacy, particularly around citizenship, improves children’s well-being. Our intention was to help children develop their citizenship competences and to foster their participation in forming the school environment, and to examine how this influenced the three selected factors of school well-being (Konu and Rimpelä, 2002), namely, children’s perception of school, their subjective well-being, and their violent behavior in school (being bullied, being a bully, physical fighting).
+
+Such a program is fairly new in the Slovak educational context. Moreover, this study is particularly needed, given the findings on the low levels of happiness and school satisfaction among Slovak students (OECD, 2013; Currie et al., 2012; Inchley et al., 2016) and the need to enhance respect for the views of children (United Nations, 2016, p. 5), which we have discussed earlier.
+
+The target population was represented by Slovak children attending the fourth grade of elementary school (modal age of nine to ten years). The sample inclusion criteria were as follows: the schools which the participants attended had to be regular state elementary school (special schools and schools with mixed-grade classes were excluded); the schools had to follow the national core curriculum for elementary education, without any relevant history of implementing extracurricular activities related to health education or civic-based health education.
+
+By random number generation, five elementary schools based in the eastern region of Slovakia were selected. Within each school, two fourth grade classes were randomly selected, randomly assigning the experimental treatment (intervention program) to one of them. As a result of this cluster sampling procedure, the final sample comprised 180 children (experimental group n=87; control group n=93). In terms of gender, the sample happened to be balanced with 52 percent boys and 48 percent girls. The age of participants ranged from 9.4 to 11.5, with the mean age of 10.3 years (SD=0.4).
+
+Schools were contacted by cover letters addressed to school principals with the aim of making an appointment. The school principals were informed about the aims, conditions, and process of the research. The introduction letters and information sheets were sent to schools for pupils and their parents. Informed consent for the child’s participation in the study was obtained from parents. The entire data collection process was anonymized.
+
+The study utilized a cluster-randomized controlled trial design. The intervention program (implemented in the treatment group) called Voices for Health had been designed as an intensive course spanning over 16 weeks. Control group classes followed regular curriculum plans without any extra activities related to health education. Both groups were pre-tested for baseline equivalence. The intervention was carried out solely by the first author so that the possibly confounding variables like teachers’ competence, form or content of the intervention delivery, or any other personal aspects were held constant across all the experimental groups. It was hypothesized that the given intervention program induces a significant positive change in children’s perception of school and subjective well-being and, at the same time, leads to a decrease in the prevalence of violent behavior.
+
+The conceptual framework of the intervention program Voices for Health was built on the concept of children’s health literacy, particularly on its citizenship component (Table I). The intervention Voices for Health applied the action-oriented teaching using the IVAC didactic model. It employed a number of perspectives (Table I) to be addressed in collaborative work (order of phases was flexible) aiming to actively involve children (Jensen and Simovska, 2009).
+
+The intervention comprised four steps: understanding of health; investigation of school setting; action; and achievement (Table I). The first step of the intervention focused on children’s perception of health. As suggested by Jensen (1997), any health information campaign should take into account the subjective well-being aspect (as defined by the WHO definition of health), where the target group has to be invited to take part in the discussion and be taken seriously. Given this perspective, the daily regime was seen as an appropriate framework where children were able to link generally known health information (nutrition, sleeping, physical activities, oral health, family, school, peers, etc.) with their own everyday lives. Child-centered activities aimed at health mapping were used (Crivello et al., 2008), utilizing sensory aspects of health (Jensen, 1997) where children were asked to think about their health through their senses and feelings. To give an example, children were given a task-oriented project “My daily health” where they were asked to monitor their health within one ordinary week (working days and weekend) by noting all activities and feelings during the day throughout the whole week. Children could also use a camera to take pictures, with the aim of enhancing sensory aspects of health. Children were then asked to individually reflect on a set of questions about how their daily activities and feelings were linked to their health. The awareness of the open health concept was stimulated by classroom discussion where children were guided to reflect on their experience and express their own experience and understanding of their health within the daily regime in a descriptive, critical, and collective manner (Paakkari et al., 2011). First, children were asked to answer “how” or “what” questions, which were linked to their health within the daily regime (see Table I). These questions helped them in discovering their own personal meanings of health. Then they were asked “why” questions, which were aimed at the reasoning of their ways of behaving or thinking (see Table I). After questions on their own experience and understanding about their health within the daily regime, it was important to find out what they think about the health beyond their own perspective. This led to the following questions: “What do my classmates or we (as a group) regard important in relation to health? What can be done to improve their or our health and well-being?” (Paakkari and Paakkari, 2012).
+
+The second step of the intervention focused on the school environment as a social determinant of health (Inchley et al., 2016). The children were supported to investigate the school environment in relation to their health. The children were given a map of the school area and they were asked to mark the particular areas which they felt fostered or hindered children’s health and well-being, based on perspectives in IVAC approach (see Table I). The children identified the factors in their school environment they wanted to concentrate on, in order to improve their school well-being. The children then engaged in collective reflection with other pupils, teachers, and school principal about the factors of the school environment that they felt were relevant from the perspective of their health and general school well-being. To give an example, the children organized a school election and a debate called “Voices for Health” to select a particular school environment factor with the aim to improve their school well-being.
+
+The third step of the intervention was focused on concrete action within the school environment in terms of collective selection of the particular school environmental factor. The children were asked to make a plan for implementing the action-oriented project. They were asked to collectively identify what they saw as desirable changes, actions for achieving the desirable changes, and the barriers which might prevent them from carrying out these actions. Afterwards, children collectively reflected on their plan with school principal and conducted the actions aimed to improve school well-being. The following actions were conducted – school A: “School breaks outside of school;” school B: “Improving hygiene in the canteen;” school C: “Painting the classrooms and school corridors;” school D: “Annual school event day and night in school.”
+
+The fourth step of the intervention was focused on the assessment of personal and collective achievements from action-oriented teaching. The children were asked to explore what they learnt from the experience of conducting action based on critical and descriptive reflection.
+
+Subjective well-being was measured by KIDSCREEN-10. It is an optional scale included in the HBSC study (Currie et al., 2014). It consists of ten five-point Likert-type items covering affective, cognitive, psycho-vegetative, and psychosocial aspects of mental health. The measure had been extensively cross-validated in various cultural settings (including Slovakia). The scale has a unidimensional factorial item structure, which was shown to be invariant across age groups, nationality, and socio-economic level, and an adequate internal consistency for comparisons of groups, α=0.82.
+
+With the aim of measuring school-related outcomes, the present study focused on children’s perception of school and children’s violent behavior. The scale-type measure comprised the chosen mandatory Likert-type items drawn from the HBSC study (Currie et al., 2014) in order to measure two variables, namely, perception of school and violent behavior in school. The former was a formative index (unweighted sum score) defining school satisfaction in terms of liking school and school pressure items; the latter was an index merging physical fighting, bullying others, and being bullied items. For the bullying items, the questionnaire explicitly described and explained what kinds of behavior were classified as bullying.
+
+When the children were asked to explore what they learnt from the experience of conducting action based on critical and descriptive reflection, they felt that the following were some of their personal and collective achievements:
+
+[…] at first, we thought nothing is going to change because it has been always like that […] but we could see that our voices might be heard.
+
+[…] I think that the main reason for the change in our school was that we asked all in school what they want to change.
+
+[…] we had a fear to present our plan in front of school principal.
+
+[…] it was really exciting to see how our visions comes true.
+
+[…] my mother said me to not criticizes something in school because I will have problems in school […] but we wanted to improve our school not criticizes something.
+
+[…] we found out that is much harder to make a plan for action and change than only to complain for something.
+
+[…] my parents didn’t believe that we are able to change something.
+
+[…] I feel more confident to express my wishes or visions at home.
+
+Data analysis was preceded by a screening phase. All of the variables were checked for improbable values. Apart from that, no value was regarded as an outlier. The 4.9 percent of missing data were assumed to be missing at random and handled by pairwise deletion. The actual sampling method (cluster sampling) with entire classes representing the clusters was expected to largely mitigate self-selection and other kinds of systematic biases that could, possibly, affect the results. Next, the distributions of the variables were assessed for normality. For the variables significantly deviating from Gaussian distribution, no transformations were done; thus, all the variables were preserved in their raw scales. The group distributions for most of the variables (except for the measure of well-being) significantly deviated from normal distribution (mostly due to the ordinal character of the data the measures produced).
+
+The employed sampling plan required a test to find out the presence of possible cluster effects. In the given sample, with a mean cluster size of 18.1, the intraclass correlations were rather negligible and ranged from ric=0.003 to ric=0.055, leading to design effects ranging from 1.01 to 1.94. Thus, since the magnitudes of design effects for all the variables were below the acceptable cut-off of 2 (while most fell well below that value), the data were considered to lack any multilevel structure that would need be taken into account.
+
+The data were analyzed using the analysis of covariance with post-test score as a dependent variable, treatment group as a between-subjects factor, and the observed pre-test score as a covariate. All the below reported means were adjusted for the effect of the covariate.
+
+The effect of the intervention program was first assessed with regard to children’s perception of school. Here, the experimental group subjects (M=4.23, SD=1.57, n=77) reported a significantly more positive perception of school than the control group subjects (M=3.20, SD=1.01, n=81), F(1, 155)=28.6, p<0.001, and ω2=0.13. In terms of standardized mean difference, it represented a medium effect size of Hedges’s gs=0.78.
+
+Further on, it was tested whether the intervention will lead to a positive effect in another variable, namely, well-being. On average, after controlling for the baseline condition, subjects in the experimental group showed higher scores in the standardized measure of well-being “KIDSCREEN-10” (M=36.92, SD=4.03, n=77) than the controls (M=32.63, SD=4.79, n=81), F(1, 155)=42.6, and p<0.001. Based on these self-reported values, ω2 of 0.20 denoted quite a large effect, i.e., the adjusted mean of the experimental group was almost one standard deviation above the mean that was estimated for the control group, Hedges’s gs=0.96.
+
+Lastly, it was expected that the implementation of the given intervention program would lead to a significant decrease in the prevalence of violent behavior among children. The data proved to be consistent with that hypothesis. The experimental-group children reported lower incidence of violent behavior (M=3.50, SD=0.99, n=76) than the children from the control group (M=4.81, SD=2.26, n=81), F(1, 154)=25.1, p<0.001, and ω2=0.11. Such difference in means was associated with a medium effect size of Hedges’s gs=0.74.
+
+The data suggest that the proposed intervention leads to a significant change in all of the measured variables, i.e., children’s perception of school, the prevalence of violent behavior among children, and their well-being. In the given sample, the magnitudes of the observed effect sizes ranged from medium to large. The proposed democratic approach employed by the implemented long-term intervention program was thus shown to yield empirically robust effects.
+
+For the sake of transparency and reproducibility of the data analysis, full data and R code are freely available at: https://osf.io/m5cth/.
+
+The results show that the intervention Voices for Health leads to a significant change in all measured variables.
+
+The results of the present study corroborate the findings of previous studies that a positive attitude toward school is associated with student participation in and responsibility for the school life, with the perception of justice and with safety within the school environment (Samdal et al., 1998; Gustafsson et al., 2010). Previous research documents provide a link between different characteristics of the school environment and children’s well-being (John-Akinola and Gabhainn, 2015), but there is a lack of evidence on how the school environment that fosters genuine children’s participation impacts the school well-being in children. Previous research on action-oriented teaching through the IVAC approach has focused on the form of participation (Ruge et al., 2016), on social and emotional competence (Nielsen et al., 2015), and on the development of learning outcomes, defined as a change in children’s action competence (Carlsson and Simovska, 2012), However, previously there has not been much investigation of the influence of the IVAC approach on children’s school well-being.
+
+In the intervention program, it may well have been the twinning of health literacy and the IVAC approach, with its descriptive, critical, and collective reflection (Paakkari and Paakkari, 2012) which was effective in promoting some aspects of school well-being.
+
+The intervention showed robust effects despite lasting only one school semester (16 weeks). It suggests the strength of allowing children to feel that they are able to influence factors that contribute to their own school life. This impression is supported during the fourth step of the intervention program when children evaluated their experience from the action they carried out. The experiment-group children expressed their surprise on the fact that, after the program, they were able to present their visions and plans for a healthier school environment as a collective reflection to the school principal and, particularly, that their visions and plans were heard and incorporated in school life. Moreover, they expressed the strong feeling that changes were actually possible, although, at first, they thought nothing was going to change because “it has been always like that.” This could be seen as a core aspect of the intervention in relation to Slovak cultural context as post-communist country.
+
+Such results lead us to suggest that there is a need to actively promote the concepts and competences that enhance democracy, active participation, and citizenship in Slovak educational conditions, although, as Birzea (2012) states, the post-communist transition toward democracy lasts over a period of at least one generation (25 years).
+
+This intervention based on the IVAC model would appear to be an effective way on how to implement children’s health literacy and children’s participation into the existing curriculum (Eurydice, 2009/2010).
+
+The action-oriented teaching to foster children’s health literacy in terms of active participation presents a challenge to Slovak schools and teachers, in terms of their ability to support the development of action competences in the existing cultural climate. St Leger (2001) reports that the comprehensiveness of health literacy is largely dependent on the type of school (autocratic or democratic), and on the cultural and political practices of the region or country in which the school exists. In Slovakia, this has a particular significance, given the fact that like in most of the post-communist countries, the period of moving from one type of society to another is characterized by an interregnum culture, where the new institutions and values co-exist together with mentalities and behaviors of “residual communism” (Birzea, 2012). Teachers need to ask themselves whether they have the skills and attitudes to promote action competence, and whether they are able to take into account the different kinds of students with different personal characteristics, competences, capabilities, and views (Paakkari and Paakkari, 2012).
+
+The present study has some limitations. First, although we studied the effects on well-being, children’s perception of school, and violent behavior using measures derived from the HBSC study, the questionnaire items relied on self-report. Due to the fact that children’s perception of school and well-being are by definition a subjective perception of the phenomenon, we consider the self-reported data as the most valid information available. The results show that the intervention leads to a significant change in all the measured variables in an immediate post-test but the long-term sustainability of the effects is yet to be demonstrated. Second, due to the low statistical power for that purpose, the actual cluster sampling design with n=5 experimental group clusters did not allow for any formal hypothesis testing concerning differences between experimental group schools, and any interpretation of the post-data differences would be subject to the capitalization on chance variation, lacking any control of error rates. Detailed analysis of the intervention effect by studying selected individual-differences aspects of the sampled school would require a large-scale cluster design.
+
+Lastly, the characteristics of the sample allow us to draw inferences on a population of western Caucasian children of the given age but the results may not generalize across age groups other than those studied (backed up by the data). The program might be expected to induce positive changes in various dimensions like children’s health literacy, citizenship competences, children’s engagement, or children’s action competence; however, any claims that go beyond the actual data in terms of intervention program effects other than the measured outcome variables are unwarranted and should be rather taken as a hypothesis. These assumptions need to be examined in further research where the changes in children’s citizenship competence or children’s level of health literacy will be tested using appropriate measurement.
+
+In order to be able to implement Voices for Health in many schools in such cultural climate, it is necessary to study the implementation of the program in terms of institutional support at schools and factors related to teachers’ knowledge and skills. As Schwartz and Bardi (1997) reflected, the process of shifting the values (from communist to democratic) is slow and it requires people to be truly able to experience the “new values” through transformation of the actual conditions to which they are exposed. The values that were prevalent in “Voices for Health” should not only be experienced during short interventions; instead, they should become evident in various aspects of the school day (e.g. curriculum, relationships, school ethos). Only then will the pupils learn the competencies and values relevant for taking care of one’s health and that of the others in a democratic manner.
+
+The description of the intervention program “Voices for Health”
+
+Birzea, C. (1996), “Education in a world transition: between post-communism and post-modernism”, Prospects (UNESCO), Vol. 26 No. 4, pp. 673-681.
+
+Birzea, C. (2012), “Learning from post-communist transitions: the case of educational reforms in the Central-Eastern Europe”, available at: https://lif.blob.core.windows.net/lif/docs/default-source/future-of-iran/learning-from-post-communist-transitions-the-case-of-educational-reforms-in-central-eastern-europe.pdf?sfvrsn=0 (accessed December 27, 2016).
+
+Bíziková, Ľ. (2011), “Prevencia v praxi ZŠ na Slovensku”, available at: www.statpedu.sk/sites/default/files/dokumenty/vyskumne-ulohy-experimentalne-overovania/prevencia_v_praxi.pdf (accessed December 27, 2016).
+
+Borzekowski, D.L.G. (2009), “Considering children and health literacy: a theoretical approach”, Pediatrics, Vol. 124 No. S3, pp. 282-288.
+
+Carlsson, M. and Simovska, V. (2012), “Exploring learning outcomes of school-based health promotion – a multiple case study”, Health Education Research, Vol. 27 No. 3, pp. 437-447.
+
+Crivello, G., Camfield, L. and Woodhead, M. (2008), “How can children tell us about their wellbeing? Exploring the potential of participatory research approaches within young lives”, Social Indicators Research, Vol. 90 No. 1, pp. 51-72.
+
+Currie, C., Inchley, J., Molcho, M., Lenzi, M., Veselska, Z. and Wild, F. (2014), “Health Behaviour in School-aged Children (HBSC) study protocol: background, methodology and mandatory items for the 2013/14 survey”, Child and Adolescent Health Research Unit (CAHRU), St Andrews.
+
+Currie, C., Zanotti, C., Morgan, A., Currie, D., de Looze, M., Roberts, C., Samdal, O., Smith, O.R.F. and Barnekow, V. (2012), “Social determinants of health and well-being among young people. Health behavior in school-aged children (HBSC) study: International report from the 2009/2010 survey”, WHO Regional Office for Europe, Copenhagen, available at: www.euro.who.int/__data/assets/pdf_file/0003/163857/Social-determinants-of-health-and-well-being-among-young-people.pdf (accessed October 24, 2016).
+
+Eurobarometer (2014), “European citizens’ digital health literacy. A report to the European Commission”, European Commission and Directorate-General for Communication Networks, Content and Technology, European Union, available at: http://observgo.uquebec.ca/observgo/fichiers/42526_res1.pdf (accessed October 24, 2016).
+
+Eurydice (2009/2010), “Organisation of the education system in Slovakia 2009/10”, Education, Audiovisual and Culture Executive Agency, European Commission, Brussels, available at: https://estudandoeducacao.files.wordpress.com/2011/05/eslovc3a1quia.pdf (accessed October 24, 2016).
+
+Every Woman Every Child (2015), “The global strategy for women’s, children’s and adolescents’ health (2016-2030)”, available at: www.who.int/entity/life-course/partners/global-strategy/global-strategy-2016-2030/en/index.html (accessed October 24, 2016).
+
+Fairbrother, H., Curtis, P. and Goyder, E. (2016), “Making health information meaningful: children’s health literacy practices”, SSM – Population Health, Vol. 2, pp. 476-484, available at: http://www.sciencedirect.com/science/journal/23528273/3
+
+Földes, T. (2004), “Školy zapojené do Národnej siete škôl podporujúcich zdravie”, available at: http://web.uips.sk/download/mas/zdravaskola2003_web.doc (accessed December 27, 2016).
+
+Garcia-Moya, I., Brooks, F., Morgan, A. and Moreno, C. (2015), “Subjective well-being in adolescence and teacher connectedness: a health asset analysis”, Health Education Journal, Vol. 74 No. 6, pp. 641-654.
+
+Glenn, L.C. (1995), Educational Freedom in Eastern Europe, Cato Institute, Washington, DC.
+
+Griffiths, A.-J., Lilles, A., Furlong, M.J. and Sidhwa, J. (2012), “The relations of adolescent student engagement with troubling and high-risk behaviors”, in Christenson, S.L., Reschly, A.L. and Wylie, C. (Eds), Handbook of Research on Student Engagement, Springer Science + Business Media, New York, NY, pp. 563-584.
+
+Gustafsson, J.-E., Westling, A.M., Alin Åkerman, B., Eriksson, C., Eriksson, L., Fischbein, S., Granlund, M., Gustafsson, P., Ljungdahl, S., Ogden, T. and Persson, R.S. (2010), School, Learning and Mental Health: A Systematic Review, The Royal Swedish Academy of Sciences, The Health Committee, Stockholm.
+
+Harel-Fisch, Y., Walsh, S.D., Fogel-Grinvald, H., Amitai, G., Pickett, W., Molcho, M., Due, P., de Matos, M.G., Craig, W. and Members of the HBSC Violence and Injury Prevention Focus Group. (2011), “Negative school perceptions and involvement in school bullying: a universal relationship across 40 countries”, Journal of Adolescence, Vol. 34 No. 4, pp. 639-652.
+
+Held, Ľ. (Ed.) (2006), Teória a prax výchovy k zdravej výžive v školách, TYPI/VEDA, Bratislava.
+
+Higgins, W.J., Begoray, D. and MacDonald, M. (2009), “A social ecological conceptual framework for understanding adolescents health literacy in the health education classroom”, American Journal of Community Psychology, Vol. 44 Nos 3/4, pp. 350-362.
+
+Inchley, J., Currie, D., Young, T., Samdal, O., Torsheim, T., Augustson, L., Mathison, F., Aleman-Diaz, A., Molcho, M., Weber, M. and Barnekow, V. (2016), “Growing up unequal: gender and socioeconomic differences in young people’ s health and well-being”, Health Behaviour in School-aged Children (HBSC) study: International report from the 2013/2014 survey”, available at: www.euro.who.int/__data/assets/pdf_file/0003/303438/HSBC-No7-Growing-up-unequal-full-report.pdf?ua=1 (accessed October 24, 2016).
+
+Jain, A.V. and Bickham, D. (2014), “Adolescent health literacy and the internet”, Current Opinion in Pediatrics, Vol. 26 No. 4, pp. 435-439.
+
+Jensen, B.B. (1997), “A case of two paradigms within health education”, Health Education Research, Vol. 12 No. 4, pp. 419-428.
+
+Jensen, B.B. (2000), “Health knowledge and health education in the democratic health-promoting school”, Health Education, Vol. 100 No. 4, pp. 146-154.
+
+Jensen, B.B. (2004), “Environmental and health education viewed from an action-oriented perspective: a case from Denmark”, Journal of Curriculum Studies, Vol. 36 No. 4, pp. 405-425.
+
+Jensen, B.B. and Schnack, K. (1997), “The action competence approach in environmental education”, Environmental Education Research, Vol. 3 No. 2, pp. 163-178.
+
+Jensen, B.B. and Simovska, V. (2009), Conceptualizing Participation – the Health of Children the Health of Children and Young People, WHO, Copenhagen.
+
+John-Akinola, Y.O. and Gabhainn, S.N. (2015), “Socio-ecological school environments and children’s health and wellbeing outcomes”, Health Education, Vol. 115 Nos 3/4, pp. 420-434.
+
+Kanj, M. and Mitic, W. (2009), “Promoting health and development: closing the implementation gap”, available at: www.who.int/healthpromotion/conferences/7gchp/Track1_Inner.pdf (accessed October 24, 2016).
+
+Kickbusch, I. (2008), “Health literacy: an essential skill for the twenty-first century”, Health Education, Vol. 108 No. 2, pp. 101-104.
+
+Kilgour, L., Matthews, N., Christian, P. and Shire, J. (2015), “Health literacy in schools: prioritising health and well-being issues through the curriculum”, Sport, Education and Society, Vol. 20 No. 4, pp. 485-500.
+
+Konu, A. and Rimpelä, M. (2002), “Well-being in schools: a conceptual model”, Health Promotion International, Vol. 17 No. 1, pp. 79-87.
+
+Kostenius, C. and Bergmark, U. (2016), “The power of appreciation: promoting schoolchildren’s health literacy”, Health Education, Vol. 116 No. 6, pp. 611-626.
+
+Laura, J. and Paul, M. (2010), “Towards a framework for critical citizenship education”, Curriculum Journal, Vol. 21 No. 1, pp. 77-96.
+
+Liba, J. (2010), Výchova k zdraviu, Prešovská univerzita, Prešov.
+
+Luff, P. and Webster, R. (2014), “Democratic and participatory approaches: exemplars from early childhood education”, Management in Education, Vol. 28 No. 4, pp. 138-143.
+
+Madarasová Gecková, A. and Dankulincová, Z. (Eds) (2015), “Národná správa o zdraví a so zdravím súvisiacom správaní 11-, 13- a 15-ročných školákov na základe prieskumu uskutočneného v roku 2013/2014 v rámci medzinárodného projektu ‘Health Behaviour in School Aged Children (HBSC)’”, avaliable at: www.coherent.sk/docs/hbsc-narodna-sprava-2013_2014_final.pdf (accessed October 24, 2016).
+
+Marks, R. (Ed.) (2012), Health Literacy and School-based Health Education, Emerald Group Publishing Limited, Bingley.
+
+Nielsen, L., Meilstrup, C., Nelausen, K.M., Koushede, V. and Holstein, E.B. (2015), “Promotion of social competence. Experiences from a mental health intervention applying a whole school approach”, Health Education, Vol. 115 Nos 3/4, pp. 339-356.
+
+Nutbeam, D. (2000), “Health literacy as a public health goal: a challenge for contemporary health education and communication strategies into the 21st century”, Health Promotion International, Vol. 15 No. 3, pp. 259-267.
+
+OECD (2013), “PISA 2012 results: ready to learn – students’ engagement, drive, and self-beliefs (volume III)”, available at: www.oecd.org/pisa/keyfindings/PISA-2012-results-volume-III.pdf (accessed October 24, 2016).
+
+Ormshaw, M.J., Paakkari, L.T. and Kannas, L.K. (2013), “Measuring child and adolescent health literacy: a systematic review of literature”, Health Education, Vol. 113 No. 5, pp. 433-455.
+
+Paakkari, L. and Paakkari, O. (2012), “Health literacy as a learning outcome in schools”, Health Education, Vol. 112 No. 2, pp. 133-152.
+
+Paakkari, L., Tynjälä, P. and Kannas, L. (2011), “Critical aspects of student teachers’ conceptions of learning”, Learning and Instruction, Vol. 21 No. 6, pp. 705-714.
+
+Paakkari, O., Torppa, M., Kannas, L. and Paakkari, L. (2016), “Subjective health literacy: development of a brief instrument for school-aged children”, Scandinavian Journal of Public Health, Vol. 44 No. 8, pp. 751-757.
+
+Pastuović, N. (1993), “Problems of reforming educational systems in post-communist countries”, International Review of Education, Vol. 39 No. 5, pp. 405-418.
+
+Ruge, D., Nielsen, K.M., Mikkelsen, E.B. and Jensen, B.B. (2016), “Examining participation in relation to students development on health-related action competence in a school food setting”, Health Education, Vol. 116 No. 1, pp. 69-85.
+
+Samdal, O., Nutbeam, D., Wold, B. and Kannas, L. (1998), “Achieving health and educational goals through schools – a study of the importance of the school climate and the students’ satisfaction with school”, Health Education Research, Vol. 13 No. 3, pp. 383-397.
+
+Samdal, O., Wold, B., Klepf, K.I. and Kannas, L. (2000), “Students’ perceptions of school and their smoking and alcohol use: a cross-national study”, Addiction Research, Vol. 8 No. 2, pp. 141-167.
+
+Schwartz, S.H. and Bardi, A. (1997), “Influences of adaptation to communist rule on value priorities in Eastern Europe”, Political Psychology, Vol. 18 No. 2, pp. 385-410.
+
+Simovska, V. (2004a), “Student participation: a democratic education perspective-experience from the health-promoting schools in Macedonia”, Health Education Research, Vol. 19 No. 2, pp. 198-207.
+
+Simovska, V. (2004b), “Student participation – simulation or reality?: a vignette from the Macedonian network of health promoting schools”, Health Education, Vol. 104 No. 3, pp. 163-173.
+
+Simovska, V. and Jensen, B.B. (2003), Young-Minds.Net/Lessons Learnt: Student Participation, Action and Cross-Cultural Collaboration in a Virtual Classroom, Danish University of Education Press, Copenhagen.
+
+Slovíková, M. (2012a), “Preventívne aktivity a činnosti realizované v centrách pedagogicko-pychologického poradenstva a prevencie”, Prevencia, Vol. 12 No. 2, pp. 50-56.
+
+Slovíková, M. (2012b), “Prevencia v školských zariadeniach rezortu školstva”, Prevencia, Vol. 12 No. 3, pp. 10-19.
+
+Sørensen, K., Van den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z. and Brand, H. (2012), “Health literacy and public health: a systematic review and integration of definitions and models”, BMC Public Health, Vol. 12 No. 1, pp. 80-92.
+
+St Leger, L. (2001), “Schools, health literacy and public health: possibilities and challenges”, Health Promotion International, Vol. 16 No. 2, pp. 197-205.
+
+UNESCO – IBE (2012), “World data on education, Slovak Republic, 7th Edition, 2010/11”, available at: www.ibe.unesco.org/sites/default/files/Slovakia.pdf (accessed March 2, 2017).
+
+United Nations (2016), “Convention on the rights of the child”, available at: http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CRC%2fC%2fSVK%2fCO%2f3-5&Lang=en (accessed October 24, 2016).
+
+Vieno, A., Perkins, D.D., Smith, T.M. and Santinello, M. (2005), “Democratic school climate and sense of community in school: a multilevel analysis”, American Journal of Community Psychology, Vol. 36 Nos 3-4, pp. 327-341.
+
+Wagner, T. (2008), “Rigor redefined”, Educational Leadership, Vol. 66 No. 2, pp. 20-25.
+
+Whitman, C.V. (2005), “Implementing research-based health promotion programmes in schools: strategies for capacity building”, in Clift, S. and Jensen, B.B. (Eds), Research Programme for Environmental and Health Education at the Danish University of Education, Danish University of Education Press, Copenhagen, pp. 107-136.
+
+Wormington, S.V., Anderson, K.G., Schneider, A., Tomlinson, K.L. and Brown, S.A. (2016), “Peer victimization and adolescent adjustment: does school belonging matter?”, Journal of School Violence, Vol. 15 No. 1, pp. 1-21.
+
+Zarcadoolas, C., Pleasant, A. and Greer, D.S. (2005), “Understanding health literacy: an expanded model”, Health Promotion International, Vol. 20 No. 2, pp. 195-203.
+
+Democratic school health education in a post-communist country
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Democracy in health education, health education for democracy
+
+Method
+
+Results
+
+Discussion
+
+Table I
+
+References
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Health Education
+
+Volume 117 Issue 5
+
+Democratic school health education in a post-communist country
+
+Abstract
+
+Democracy in health education, health education for democracy
+
+Method
+
+Results
+
+Discussion
+
+Health education
+
+Schools
+
+Citizenship
+
+Health literacy
+
+Investigation Vision Action Change
+
+Well-being
+
+Violence
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+1st: understanding of health
+
+Investigation
+
+Personal perspectives
+How would you describe your health by using different adjectives, adverbs or interjections?
+How would you describe your health by using your senses?
+How do your daily activities affect your health?
+How do your descriptions, explanations, and understanding of your health relate to your everyday life?
+Collective perspectives
+May our descriptions, explanation and understanding of health affect others? How?
+Is your notion of health different from your schoolmates’ view?
+What is different (similar)? Why?
+What makes these it different?
+What do we understand/imagine by the term health?
+
+Open health concept
+
+To explore subjective dimension of health from personal and collective perspective
+
+Classroom-based critical and descriptive reflection, photo voice, health mapping (body/town map), diary “My daily health”
+
+2nd: investigation of school setting
+
+Investigation
+
+How does the school environment affect our health?
+What influences are we exposed to and why?
+Why is this issue important to me?
+What is it significant to us/others, now and/or in the future?
+
+School environment and health
+
+To explore and evaluate the influence of school environment on health
+
+Health mapping (school map), participatory dialogue process, action-oriented school project
+
+Vision
+
+Which alternatives are possible in general?
+Which alternatives are possible for us?
+Which alternatives do we prefer?
+Are these alternatives suitable for everyone (for us)? Why?
+
+School environment as a community
+
+To evaluate the appropriateness of various alternatives from personal and collective perspective. To discern what is good for me from what is good for us
+
+Ethical and collective reflection, school elections “Voices for Health”
+
+3rd: action
+
+Action and change
+
+Which changes would lead to a desirable state?
+What consequences can the proposed changes have?
+What kind of action can we make to achieve the changes?
+Which barriers might prevent us carrying out these actions?
+Which barriers might prevent actions from resulting in change?
+Which action will we initiate?
+Was our decision-making collective?
+Is everyone involved into the action?
+What is my position within the action?
+
+School environment as a community
+
+To take ethically responsible actions
+
+Collective reflection of the action-oriented project with school principal, action-oriented school project
+
+4th: achievements
+
+Evaluation
+
+Which changes did we achieve?
+Were they expected or unexpected?
+How did these changes affect us, our everyday life?
+What are the reasons of our success/failure?
+What can we do different in future?
+What did we learn?
+
+Experiences from action
+
+To explore learning from experience from personal and collective perspective
+
+Descriptive and critical reflection

@@ -1,0 +1,214 @@
+Highlights
+•
+A research protocol for a pragmatic randomised controlled trial of the PAX ‘Good Behaviour Game’ in disadvantaged schools.
+•
+Outlines a research design that will assess whether the GBG programme over a 12-week period can improve a number of specific outcomes in primary 3 children.
+•
+Outcome measures will include both child and teacher reported behaviours, assessing several primary and secondary outcomes related to self-regulation, cooperative learning, self-esteem and pro-social behaviour.
+•
+A process evaluation to measure the fidelity, delivery and acceptability of programme and control schools activities.
+Abstract
+This paper presents the research protocol for a pragmatic randomised controlled trial of the PAX ‘Good Behaviour Game’ in disadvantaged schools. The PAX ‘Good Behaviour Game’ (GBG) is an evidence-based universal prevention programme that blends its themed activities and materials with normal class instruction. The main outcome of the programme is to teach the children the mental ability to self regulate and in doing so, promoting positive behaviour in the classroom. The protocol outlines a research design that will assess whether the GBG programme over a 12-week period can improve a number of specific outcomes in primary 3 children, in a sample of schools identified as disadvantaged. The outcome measures will include both child and teacher reported behaviours, assessing several primary and secondary outcomes related to self-regulation, cooperative learning, self-esteem and pro-social behaviour, including a process evaluation to measure the fidelity, delivery and acceptability of programme and control schools’ activities.
+Previous article in issue
+Next article in issue
+Keywords
+Randomised control trialRCTPAXGood behaviour gameGBGSelf-regulationPositive reinforcementSelf esteemClassroomProsocial behaviourCooperative learning
+1. Background
+Classroom behaviour is a high priority for education authorities who now require that head teachers/principals set out measures in their behaviour policy which aim to: promote good behaviour, self-discipline and respect; prevent bullying and ensure that pupils complete assigned work in the classroom. The GBG has already been shown to reduce aggressive behaviours in later life (Kellam & Anthony 1998; Kellam, Reid, & Balster, 2008) and has an evidence base of positive public health and educational outcomes from trials implemented in different parts of the world including the US, Belgium and the Netherlands (Dijkman, Harting, & Van, 2015; Kellam et al., 2008; Leflot, Van Lier, Onghena, & Colpin, 2013). As a result, interest in the GBG within the UK and Ireland has intensified in recent years with several trials and feasibility studies taking place. There is the potential that the GBG will make a positive contribution by helping to improve self regulation, self-esteem, prosocial behaviour and learning in schools facing significant socioeconomic disadvantage. To date, there have been no trials of the GBG conducted in NI or anywhere with a similar post conflict environment.
+2. Intervention
+The GBG is a universal behavioural programme, which is designed to be delivered on a whole class basis and can be used by teachers as a classroom management strategy. It helps children of any age to learn how to work together, to create a positive learning environment by promoting each child’s positive behaviour. The PAX Game is made up of a number of kernels including the Classroom Vision, PAX language, PAX Quiet, PAX Game (Granny’s wacky prizes), Beat the Timer (transition games) and Tootle notes (PAXis Institute, 2014). The central kernel is the PAX Game, which is characterized by rewarding teams for complying with certain criteria, known as the ‘Classroom Vision’, developed by the children and their teacher. The Classroom Vision sets out the agreed desirable and undesirable behaviours. The more desirable behaviours and good things in the classroom vision are called PAX and the less desirable and unwanted behaviours are called Spleems. The novel use of these names reduces the use of negative language in the classroom and helps children to distinguish between the desirable and undesirable behaviour. Spleems can be different in the context in which they are used, for example Spleems during music will be different than those during reading time.
+A classroom playing the PAX Game typically has 3–5 PAX teams at any given time. The teacher can generate the teams either randomly or deliberately, depending on the context of the game. The teams can be given identity in a number of ways, for example, by the use of coloured armbands, fun names or simply by seating location. The teams should be balanced to ensure that all children are represented as well as possible. Children who are considered more difficult should never be placed on one team, nor should they be excluded from playing. Teams should be frequently rotated so that children learn how to help each other succeed. Every team can win if it has 3 or fewer Spleems during a PAX Game. The teacher, an adult or a designated class PAX leader can record the Spleems. The team-based approach uses peer encouragement and group rewards called Granny’s Wacky Prizes to help children follow the rules of the game and adhere to the Classroom Vision. Granny’s Wacky Prizes are randomly selected by the teacher or by a nominated child in the winning team. The prizes are fun, play-based, brain breaks, which can last for a few seconds or a few minutes. The prizes include rewards such as 30 s air guitar to their favourite music or time to rest in silence with the lights off. Granny’s Wacky Prize bag has many prize options for the children to choose from and they are encouraged to help invent new and unusual suggestions to add to the prize selection.
+Another kernel of the PAX GBG is the use of Tootle Notes. These are paper-based communications amongst the children, expressing PAX to each other. These can be student-to-student, student-to-adult, adult-to-adult, and adult-to-student. Throughout the term all children in the class should receive a Tootle Note so that no child is left out. The Tootle Notes can be displayed in the classroom, kept by the children or brought home. The PAX Game can also be played during transitions, for example, going on breaks or clearing up after a lesson, in this instance the ‘Beat the Timer’ kernel can be used. If the children win the game they receive a Granny’s Wacky Prize.
+The final Kernel, which is used throughout the PAX Game, is PAX Quiet. This involves the use of a harmonica to gain the children’s attention and achieve silence. The teacher gently blows the harmonica in a non-threatening manner and raises his/her hand to make the peace sign. The children respond to this cue by also raising their hands in the peace sign, with all eyes on the teacher in a quiet manner. When using the PAX GBG teachers and other adults should notice PAX positively and discuss Spleems in a neutral manner. It is also important to ensure that there is no identification of individual children who have ‘Spleemed’. The overall GBG programme is designed to be used by teachers in a classroom environment but can be used, as needed, anywhere in the school environment where the children who are familiar with the GBG are present.
+Each teacher involved in the intervention will receive two days of PAX GBG training and a teacher pack that includes everything they need to implement the programme in their classroom. Teachers in non-intervention schools will receive the training and pack as part of ‘waiting list control’. Teachers involved in the intervention will deliver the GBG programme over a 12-week period using a week-by-week roll out schedule, which will identify all aspects of the game to be implemented. The GBG is played 3 times per day; it initially lasts 10 min but can stretch to 40 min (over the academic year), as the children’s self-regulation and behaviour improves. During the 12-week implementation, class observations will be carried out to ensure the programme delivery meets those set out by the Programme Developer and the PAX Partner Trainers. The teachers who will be trained in the PAX GBG will take a short test and if they successfully implement the programme they will receive a GBG certification from the PAX GBG Partners. Table 1 below summarises the PAX GBG programme implementation using the TiDier Checklist (Hoffmann et al., 2014)
+Table 1. TiDier Checklist for the PAX GBG.
+
+Item	Description
+Brief Name
+1	PAX Good Behaviour Game
+Why
+2	To teach the children the mental ability to self regulate and in doing so, promoting positive behaviour in the classroom.
+What
+3	Materials
+PAX GBG Partner training 1 week (PAXis Institute, Tucson Arizona)
+PAX Teacher Training (2 days)
+PAX tailored PPT training slides
+PAX Manual
+PAX Teacher Pack including: Harmonica (PAX Quiet), Tootle notes, posters, timer, name sticks, Granny’s wacky prize pack, score board (count Spleems)
+Teacher 12 week implementation plan
+Teacher observation sheets
+PAX Quiz
+4	Procedures:
+2 day teacher training session
+On site visits, coaching, email help and correspondence with intervention groups.
+Teacher de-brief event
+5	Who Provided
+Training provided to Teachers by PAX Partner Trainers
+P3 teachers implemented the PAX GBG in intervention schools
+How
+6	Describe the modes of delivery (e.g. face-to-face or by some other mechanism, such as internet or telephone) of the intervention and whether it was provided individually or in a group.
+Children are actively involved in creating and agreeing their own classroom vision. The Teacher delivers it on a whole class basis. The game is played in teams.
+Where
+7	The GBG is designed to be used by teachers in a classroom environment but can be used, as needed, in the school environment where the children familiar with the GBG are present
+When and How Much
+8	The GBG is played 3 times per day; it begins at 10 min but can stretch to 40 min (over the academic year), as the children’s self-regulation and behaviour improves.
+Tailoring
+9	The PAX GBG training and testing will be piloted to refine the processes by gaining feedback on the structure, content and duration of the PAX GBG training. The Teachers in pilot schools will also provide feedback on various aspects of the programme.
+Modifications
+10.	Only the main kernels of the PAX GBG will be implemented. Further modifications to the programme can be facilitated based on the feedback from the pilot study.
+How Well
+11	Planned: Preliminary evidence on how well the programme is working will be assessed using the feedback from the pilot and main study.
+12.	Actual: This will be determined by the results.
+3. Underpinning theory of intervention
+As shown in the logic model (Fig. 1), the overall aim of the GBG programme is to increase self-regulation, which as a result can improve behaviour and emotional wellbeing. This is achieved through the use of evidence-based Kernels (Embry and Biglan, 2008, Embry, 2004). Within the GBG, the Kernels promote self-regulation by: teaching the children to stop and start, using rewards for good behaviour, positive reinforcement, encouraging the children to maintain attention and to adhere to the classroom vision which they compiled and agreed with their teacher. It promotes rules of pro-social behaviour and peer concern for classmates by rewarding teams for maintaining behaviour standards (Chan, Foxcroft, Smurthwaite, Coombes, & Allen, 2012).
+Fig. 1
+Download: Download high-res image (441KB)
+Download: Download full-size image
+Fig. 1. Logic Model.
+
+4. Theory of change
+The GBG study is underpinned by self-regulation theory (SRT) which refers to the learning of conscious, self management that involves the process of guiding one's own thoughts, behaviours, and feelings to attain personal goals. It includes the process of impulse control and the management of short-term desires (Zimmerman, 2001). Fig. 2 illustrates how the Kernels of the GBG may improve self-regulation in those children receiving the programme, which will enable the children to self-regulate their behaviours and teach them to take control of their own interactions with their peers. Co-operative learning and peer relationships are strengthened by the use of positive reinforcement in response to good behaviour demonstrated by the children both on an individual and team basis. The main rewards are team driven with the team initially receiving rewards after the game and a reward at the end of the week for the winning team. This system is based on the theory of social interdependence that suggests when efforts are structured cooperatively students will exert more effort, build more positive and supportive relationships and develop in more healthy ways such as psychological health, self-esteem, the ability to manage stress and adversity (Johnson & Johnson, 1999). Thus, it aims to develop children’s ability to self-regulate and work as part of a team in a manner that is conducive to both themselves and the whole team.
+Fig. 2
+Download: Download high-res image (228KB)
+Download: Download full-size image
+Fig. 2. Theory of Change and Intervention.
+
+5. Research plan
+The GBG study will be a cluster randomised controlled trial (with schools as clusters) complemented by a process evaluation. The study will primarily look at the effect of the GBG on self-regulation, cooperative learning, self-esteem and prosocial behaviour in children in primary schools. Pre and post-test measures of children in 20 schools will assess the efficacy of the GBG programme in optimal conditions on a small scale and is potentially underpowered to detect small significant effects of the programme and therefore is not a definitive trial but rather a pilot trial.
+The study will address the following questions:
+1.
+What is the impact of the GBG programme at post-test and at the end of the programme on self-regulation, cooperative learning, self-esteem and pro-social behaviour for participating children?
+2.
+Does the GBG have a differential impact on children depending on: their gender and their socio-economic status and/or the socio-economic profile of the school?
+3.
+Does the impact of the programme differ significantly according to variations in implementation fidelity? (Process evaluation)
+4.
+What is the cost-effectiveness of the GBG programme?
+6. Design summary
+1.
+Logic Model: A logic model has been developed for the GBG intervention (Fig. 1). The logic model will help guide a thorough process evaluation and help us interpret the findings of the RCT. The SPIRIT guidelines have been consulted to help structure the protocol for this trial (SPIRIT, 2015).
+2.
+RCT Evaluation: The main outcomes will be evaluated using an ‘intention to treat’ analysis. The RCT will test for changes in both child and teacher reported behaviour, assessing several primary and secondary outcomes related to self-regulation, self-esteem and pro-social behaviour. Any changes in the intervention group receiving the 12-week GBG programme will be measured against the control group who do not receive the treatment.
+3.
+Process evaluation: A process evaluation will supplement the RCT to measure the fidelity, delivery and acceptability of the programme. Guided by the MRC Framework (Moore et al., 2015) the process evaluation will seek to assess whether the GBG manual was used, how often the game was played, how well the teacher implemented all aspects of the GBG programme and whether the children involved enjoyed the process. To help assess this, a short test after training, observations in the classroom, feedback questionnaires from teachers, a teacher de-brief session and child feedback questionnaires will be used. In addition, there will be a questionnaire for teachers in the control group to help identify any programmes and activities in control schools that may affect the outcomes of the RCT.
+7. Assessment procedures
+All children in both intervention and control groups will be tested before and after the intervention:
+a
+All children will be tested prior to teacher training and programme intervention; Teacher and child questionnaires will be used. The child questionnaires are designed to capture how well the children self-regulate and how they feel about themselves (self-esteem). The teacher questionnaires will assess the children’s behaviour and how well they respond to classroom’s social demands.
+b
+The children will be asked to fill in a socio-metric questionnaire to assess if the GBG has had any impact on cooperative learning through measurement of peer nominations.
+c
+Post-test measures will be repeated with all children 12 weeks after the programme has started in the intervention schools.
+d
+A 12-week teacher implementation plan will be used to record weekly data on elements implemented, timesheets, ‘Spleems’ counted and issues encountered. This will be collected at post-test and will help measure the programme’s delivery fidelity.
+e
+A child satisfaction questionnaire at post-test will be used to assess how the children felt about the GBG programme and its implementation.
+f
+The teachers will be asked to fill in a questionnaire at post-test for their feedback regarding the GBG programme and the implementation process.
+g
+All questionnaires will be filled in online using Lime Survey (Table 2).
+Table 2. Measurement tools.
+
+Outcome	Instrument	Completed by	No. of items
+Primary Outcomes measures
+Self regulation	Child Self-Control Rating scale (Rorhbeck et al. 1991)	Pupil	33
+Self Esteem	(Rosenberg, 1965)	Pupil	10
+Behaviour	Teacher Observation of Classroom Adaptation-Checklist (Kellam et al., 2008)	Teacher	21
+Behaviour	The Strengths and Difficulties Questionnaire (Goodman et al., 2000)	Teacher	25
+
+Secondary Outcomes measures
+Spleems	12 week implementation plan including Spleem count sheet	Teacher	Total over 12 weeks
+Cooperative Learning	Peer nominations (Tolmie et al., 2010)	N/A	5 x (no. of children in class)
+
+Implementation factors
+•
+Implementation factors
+•
+PAX classroom vision
+•
+PAX language
+•
+PAX quiet
+•
+PAX game
+•
+Granny’s wacky prizes
+•
+Transition games
+•
+Tootle notes
+12 week implementation plan & post test questionnaire	Teacher	
+Dosage	12 week implementation plan	Teacher	
+Satisfaction	Child satisfaction questionnaire	Child	14
+
+Demographic variables
+Gender	Advance info from teachers	Teacher	
+Religion	Advance info from teachers	Teacher	
+FSME	Advance info from teachers	Teacher	
+SEN	Advance info from teachers	Teacher	
+The teacher questionnaire will consist of 48 questions to include the Strengths and Difficulties Questionnaire, which measures the primary outcome of pro-social behaviour (SDQ; Goodman, Ford, Simmons, Gatward, & Meltzer, 2000). These will be measured on a 3-point scale ranging from not true to certainly true. The Teacher Observation of Classroom Adaptation-Checklist will be used to measure social adaption, mainly the teacher's judgment about how a student is responding to classroom social demands (Kellam et al., 2008; Werthamer-Larsson, Kellam, & Wheeler, 1991). The scale responses will be ranked on a 6-point likert scale marked “almost never” to “almost always”.
+The child questionnaire will include the Child Self-Control Rating scale to measure self-regulation (Rorhbeck, Azar, & Wagner, 1991) on a 5-point likert scale which ranges from “not at all like” me to “a lot like me”. The Rosenberg measure will be used to assess self-esteem (Rosenberg, 1965). The questions will be rated on a 4-point likert scale, ranging from “strongly agree” to “strongly disagree” The full questionnaire will comprise 44 questions. The children will also fill in a socio-metric questionnaire on peer nominations, which ask about their preferences of peers during different parts of the school day and outside the classroom (Tolmie et al., 2010). This questionnaire will be used pre and post test, to explore how well the children who are participating in the GBG pilot (both control and intervention groups) get on with others in their class, both in and out of school. The children will work their way through their entire class list, ticking the boxes for each heading that applies to a given person. The 4 headings they will consider are; who they actually work with often as part of a group in numeracy lessons, who they like working with in numeracy lessons, who they like spending time with at school break time and finally who they like spending time with outside of school. Children will be given personal space and coverage for their answers to these questions. The questionnaires will be compiled in a child friendly format and the data collection will be streamlined through the use of iPads. These will merge via 3/4G mifi Internet connection with a central university server and database. The data will be gathered using Lime Survey. At the end of the 12-week trial, all the teachers involved in the implementation will take part in a focus group and all data will be transcribed to enable analysis.
+In addition, a child satisfaction questionnaire will be administered at post-test and will be used to assess how the children felt about the GBG programme and its implementation. Questions will ask how they rate the programme generally, their enjoyment of the GBG, if they use or talk about the game outside of the classroom and how the well teacher implemented the programme. Classroom observations will be carried out in all classrooms involved in the study and will be timed to coincide with GBG sessions.
+8. Sample
+The primary school area selection for this study will be based on the percentage of children entitled to free school meals (FSME) defined by DENI statistics for 2013/14. The Belfast area has the highest percentage of primary school children receiving free school meals, 46.2% in comparison to an average of 31% across the rest of NI. The schools sampled therefore will be those with above 47% FSME entitlement. The schools will be sampled to ensure a balance of sectors and will be based on a minimum class size of 15, and with a minimum enrolment of 175 for 2013/2014. In order to facilitate ease of access, the data collection will take place in primary schools located within a 10-mile radius of Belfast city centre.
+A small feasibility study will take place prior to the main pilot. This will look at the teacher-training model, implementation and testing procedures. Teachers will be trained in the PAX GBG during a two-day training session at Queen’s University Belfast. The schools will receive the PAX GBG programme for 5 weeks and proceed as normal with regular curriculum and usual classroom activity during this time. The feasibility study will also help refine the processes by gaining feedback on the structure, content and duration of the PAX GBG training. It will consider the suitability of chosen measures in line with other factors (including, for example, age, gender, special educational needs, and English as an additional language). The questionnaires will be tested and any suitable amendments will be made to improve the layout, content and the method of testing in the classroom. All changes arising from the study will be implemented in advance of the main pilot RCT
+In total, 56 schools will be invited to take part and 22 Schools will be recruited to allow for attrition, with the final aim of 20 schools in total. This assumption is based on our experience of recruitment and retention ratios from previous primary school based trials. Each school will be sent an information pack, which includes details of the GBG, the reason for the study, ethical information, timescales and contact details of personnel who will be involved in the study. The schools will be asked to respond if they want to take part in the research and this will be followed up by a telephone call to confirm whether or not they wish to take part.
+The baseline data will be collected before the 20 schools are randomly assigned into intervention and control groups. The 10 teachers in the intervention group of schools will be trained in the delivery of the GBG and schools in the intervention group will receive the programme for 12 weeks during one academic year. Schools in the control group will not receive the programme but will proceed as normal with regular curriculum and usual classroom activity. Schools in the control group will have the opportunity to implement the GBG after the trial (as a ‘waiting-list’ control group) and the teachers will have the opportunity to attend training after the trial has taken place. An advance pupil information database will be sent to teachers before testing to obtain the gender, first name, middle name, surnames, date of birth and special educational needs of the children who will be taking part in the study.
+9. Randomisation
+The final school sample should contain an even balance of School type. The sample should also be evenly balanced with FSME percentages, class and school sizes. In order to do this a stratified randomisation method will be used.
+10. Sample size calculation and analysis
+The selected sample size should be large enough to detect our pre-specified Effect Size. Fig.3 illustrates the estimation of power for the GBG provided by Optimal Design software, using standard estimates of: ρ=0.05; ICC = 0.1; r2 = 0.50; Number of clusters J = 20; average class size n = 25. The ICC is in line with similar programmes such as Roots of Empathy, which has shown ICCs of between 0.1 and 0.3. The calculation also suggests that there is an 80% power to detect a standardized effect of 0.30. In education, effects in the range of 0.20 or 0.30 tend to be considered meaningful and those of around 0.50 or higher tend to be viewed as large.
+Fig. 3
+Download: Download high-res image (97KB)
+Download: Download full-size image
+Fig. 3. Power analysis.
+
+The reported Alpha values for measures are summarized in Table 3.
+Table 3. Reported Alpha values.
+
+Teacher	Alpha
+TOCA (all)	0.96
+Subscale Concentration	0.97
+Subscale Pro-social	0.83
+Subscale Disruptive behaviour	0.95
+
+SDQ (all)	0.73
+Subscale Emotional	0.78
+Subscale Conduct	0.774
+Subscale Hyperactivity	0.813
+Subscale Peer problems	0.604
+Subscale Pro-social	0.774
+
+Child
+Rosenberg	0.77
+CSCRS	0.9
+The data will be analysed using multilevel modeling and linear regression and will be conducted using Stata version 14 (Stata Corporation, College Station, Tx, US). The main effects of the programme implementation on the outcomes will be obtained on an intention-to-treat basis. Missing data will be addressed using MICE (Multiple Imputation by Chained Equations). In addition, a framework approach will be used to code emergent themes and assist with the interpretation of qualitative data from interviews and focus groups. The qualitative data will be subject to a thematic content analysis using NVIVO.
+11. Personnel
+•
+Professor Allen Thurston, Zhengzhou University China & Queen’s University Belfast, UK.
+•
+Professor Frank Kee, School of Medicine, Dentistry and Biomedical Sciences − Clinical Professor Centre for Public Health, Queen’s University Belfast.
+•
+Dr. Liam O'Hare, Senior Research Fellow, Social Sciences, Education and Social Work, Queen’s University Belfast.
+•
+Dr. Katrina Lloyd, Lecturer in the Centre for Evidence and Social Innovation, School of Social Sciences, Education and Social Work, Queen’s University Belfast.
+•
+Joanne O’Keeffe, PhD Student, Social Sciences, Education and Social Work, Queen’s University Belfast.
+12. Timescales
+The planned timescale for the research is from January 2015 until December 2017. Table 4 below outlines a summary of the key milestones.
+Table 4. Work plan and timeline for the protocol.
+
+
+13. Cost
+The cost of implementing the programme will include resources and personnel time spent on delivering the programme with follow up support. The cost of the GBG implementation will be estimated per pupil over a one-year period and will include:
+13.1. Financial costs
+GBG teacher pack (purchased directly from the PAXIS Institute).
+Teacher training and subsistence.
+Sub teacher provision.
+Photocopying and trainer recourses.
+13.2. Time costs
+Teacher classroom prep time (one off).
+Trainer in-class support visits and observations.
+14. Ethics
+The full details and plan for this study will be submitted to the Research Ethics Committee at the School of Education in Queen’s University Belfast. In addition, the University will conduct full Access NI Police checks on all personnel working with children. The consent of the all participants involved in the programme, including teachers and principals, will be obtained through the use of consent forms. Principals will be asked to give their consent to allow the teachers to participate in this study. Consent forms will be sent to parents/guardians in an ‘opt out’ format, no testing will commence until all steps are completed, a reasonable cut-off date will be put in place for the return of those wishing to opt out of the programme and research. The children will also be asked whether they consent to participating before beginning the data collection. Careful consideration will be given to those children whose parents decide to ‘opt out’ of the GBG research. The GBG has not previously been shown to cause any physical or psychological harm to the participants involved.
+The proposed tablet based data collection will enable data collection by merging via Wi-Fi and 3/4G Internet connection with a central university database. The data collected will be saved automatically via the online programme and extracted onto a secure University system, which is saved regularly and backed up using several large servers to ensure security. There will be restricted access to this data and it will be password protected. Passwords will be compiled using an identity safe password generator. Encryption will be used on occasions whereby data needs to be sent to someone who does not have access to a secure storage system. The data collected will be stored on a secure network and will be retained for a minimum of 5 years after which it will be destroyed if no longer needed for research. All answers given by the children will be treated as highly confidential and the data collected will be made anonymous before analysis. The children involved in the research will be allocated an identification number and all data relating to the children will be held in a separate database. Any names and the names of children or indeed the schools will not be included in any reports.

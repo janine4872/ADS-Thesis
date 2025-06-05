@@ -1,0 +1,251 @@
+Abstract
+Peer bullying increases in times of school transition, influenced by changing peer and friendship groups, new schooling environments and greater stress. Covert forms of bullying, including cyberbullying, become more common in secondary school and cause considerable distress and long-term harm. The period of transition to secondary school is therefore a critical window for intervening to manage and prevent bullying. A three-year cluster randomised control trial was conducted to develop, implement and evaluate the Friendly Schools Project intervention which aimed to reduce bullying and aggression among more than 3,000 students who had recently transitioned to secondary school. Intervention schools were provided with individualised training and resources to support students’ transition and reduce bullying using a multi-level comprehensive intervention addressing classroom curriculum, school policies and procedures, the social and physical environment, pastoral care approaches and school-home-community links. Although the observed effect sizes were small, the intervention had a consistently significant positive effect across a range of outcomes, including bullying perpetration, victimisation, depression, anxiety, stress, feelings of loneliness and perceptions of school safety at the end of the students’ first year in secondary school. However, none of these differences were sustained into the students’ second year of secondary school. These findings demonstrate the immediate value of whole-school interventions to reduce bullying behaviour and associated harms among students who have recently transitioned to secondary school, as well as the need to provide strategies that continue to support students as they progress through school, to sustain these effects.
+
+1 INTRODUCTION
+Transition to secondary school is a challenging time in adolescents' lives, occurring during a period of rapid physical, social and emotional change (Aikins, Bierman, & Parker, 2005; Barton & Rapkin, 1987). Changing school structures, with larger and more variable classroom groups, unknown peers and older students can lead to feelings of vulnerability (Hanewald, 2013; Humphrey & Ainscow, 2006). Approximately 30% of students report having difficulty in adjusting to a secondary school environment (Waters, Lester, & Cross, 2014).
+
+Bullying in Australia, as in other countries (Nansel et al., 2001; Pellegrini & Long, 2002; Pepler et al., 2006), tends to peak during late childhood and early adolescence (Cross et al., 2009), coinciding with students’ transition from primary to secondary school. Although this may be associated with hormonal changes and the increasing importance of peer relationships (Pellegrini & Long, 2002; Salmivalli, 2010), the school transition itself appears to independently contribute to an increase in bullying (Rigby, 1996). This may reflect the impact of larger peer groups, changing friendship structures and the subsequent desire to establish social dominance or belonging (Farmer et al., 2015; Juvonen & Ho, 2008; Pellegrini & Long, 2002; Pellegrini & Van Ryzin, 2011; Salmivalli, 2010; Smith, 2010), or less frequent contact and fewer close relationships between students and staff (Espelage, Hong, Rao, & Thornberg, 2015). Greater stress due to academic demands and a new school environment may also exacerbate aggressive behaviours (Nansel, Haynie, & Simonsmorton, 2003). Students who are preparing to transition to secondary school report a range of concerns and fears about the new environment, including the size of the school, academic demands, making new friends and the possibility of bullying (Rice, Frederickson, & Seymour, 2011; Waters et al., 2014).
+
+Although bullying in primary and secondary school may involve both overt and covert behaviours, covert bullying—and particularly cyber-bullying—becomes increasingly prevalent among adolescents (Yeager, Fong, Lee, & Espelage, 2015). These behaviours are often “relational”, i.e., damaging to an individual's connectedness to others (e.g., through social exclusion or the spreading of rumours), especially among girls (Wang, Iannotti, & Nansel, 2009). This is of concern, as covert and cyber-bullying can be more distressing for young people than overt bullying (Cross et al., 2009). Furthermore, students who are bullied during school transition—as well as the perpetrators of this bullying—have greater difficulty in adjusting to the secondary school environment and have more negative perceptions of their school climate (Forrest, Bevans, Riley, Crespo, & Louis, 2013; Nansel et al., 2003). The period of transition to secondary school is therefore a critical window for intervening to manage and prevent bullying (Farmer et al., 2015) and interrupt the development of aggressive peer relationships (Pepler, Jiang, Craig, & Connolly, 2008). Bullying has serious consequences for students’ psychological health (Hase, Goldberg, Smith, Stuck, & Campain, 2015; Hemphill et al., 2011), physical health (Frisén & Bjarnelind, 2010; Sourander et al., 2010), social connectedness, well-being and support (Brown, Demaray, & Secord, 2014; Jankauskiene, Kardelis, Sukys, & Kardeliene, 2008) and academic engagement and achievement (Kowalski & Limber, 2013; Sourander et al., 2010). It is implicated in later substance use and anti-social and violent behaviour (Kim, Catalano, Haggerty, & Abbott, 2011; Ttofi, Farrington, & Lösel, 2012) and those who bully others are more likely to have children who engage in bullying (Farrington, 1993).
+
+Reviews indicate that well-designed school-based interventions can significantly reduce bullying (Evans, Fraser, & Cotter, 2014; Menesini & Salmivalli, 2017). Whole-school approaches are more successful than single-component approaches (such as classroom curriculum learning or traditional disciplinary actions only) when they include socio-ecological strategies delivered in the classroom, school and home and at the individual level (Farrington & Ttofi, 2009; Ttofi & Farrington, 2011). The Finnish KiVa programme, which incorporates various levels of intervention, has reduced bullying in both randomised-controlled trials and nationwide dissemination (Kärnä, Voeten, Little, Alanen et al., 2011; Kärnä, Voeten, Little, Poskiparta, Alanen et al., 2011). However, it was more effective in primary schools than in secondary schools (Yeager et al., 2015). Indeed, a meta-analysis indicates that, overall, bullying interventions have poor effectiveness in secondary schools (Yeager et al., 2015), indicating a need for further research to identify effective strategies for adolescents. Examples of successful interventions in secondary schools are limited, with some studies failing to significantly reduce bullying prevalence or change student attitudes about bullying (Cowie, Hutson, Oztug, & Myers, 2008; Houlston & Smith, 2009).
+
+Many failed approaches have been single-focus interventions, such as peer support programmes, which may have provided an insufficient systemic dose to reduce bullying (Cowie et al., 2008; Ttofi & Farrington, 2011). They may also have failed to address the differences between primary and secondary students’ peer relationship dynamics and development (Stevens, De Bourdeaudhuij, & Van Oost, 2000; Troop-Gordon, 2017). Compared to pre-adolescents, adolescents value and benefit more from autonomy support (Chirkov & Ryan, 2001), conform less to rules, place greater importance on peer acceptance and conformity with group norms (LaFontana & Cillessen, 2010) and have more “pro-bully” and less “pro-victim” attitudes (Duffy & Nesdale, 2009; Stevens, Van Oost, & De Bourdeaudhuij, 2000). They are often unwilling to talk with adults about their bullying experiences (Duffy & Nesdale, 2009; Hunter, Boyle, & Warden, 2004) and are more likely to react aggressively than to seek help (Stevens, De Bourdeaudhuij et al., 2000). Intervention strategies that are effective in primary schools may therefore be less effective among students who have transitioned to secondary schools (Stevens, De Bourdeaudhuij et al., 2000; Stevens, Van Oost et al., 2000). Given the complex nature of bullying among young adolescents, interventions must be multi-focused and tailored to meet their strengths and needs (Farrington & Ttofi, 2009; Ttofi & Farrington, 2011).
+
+The Friendly Schools Project (FSP) described in this article built on a decade of research findings, beginning with the Friendly Schools intervention research in primary schools (Cross, Monks, Hall et al., 2011). A three-year cluster randomised control trial was conducted to develop and implement whole-school strategies to reduce the prevalence of frequent bullying and positively influence common mediators of bullying by encouraging students’ normative beliefs about non-acceptance of bullying; increasing their feelings of support from school staff and peers if bullied; improving their empathy and social competence; increasing their reciprocated friendships; increasing feelings of school-connectedness; and reducing problem behaviours, absenteeism and loneliness. The FSP intervention used a socio-ecological approach (Bronfenbrenner, 1995) that considered the factors that influence students’ bullying experiences at multiple levels, including cognitive and emotional development, family engagement, peer interactions and the cultural and societal conditions to which they are exposed. Its conceptual framework also draws on the Attachment Theory (Bowlby, 1988), the Social Cognitive Theory (Bandura, 1986, 1989 ) and the Problem Behaviour Theory (Jessor & Jessor, 1977).
+
+The research in this article hypothesised that students who received the FSP intervention would report less bullying, victimisation and perpetration and greater improvements in feelings of depression, anxiety, loneliness and safety at school than those who received the usual Western Australian (WA) bullying prevention curriculum and policy interventions.
+
+2 METHOD
+2.1 School selection and recruitment
+The study cohort comprised 3,462 Grade 8 students (mean age 13 years) recruited from 21 Catholic education secondary schools in Perth, Western Australia. These schools were chosen to reduce the transition attrition that typically occurs as students move from primary to secondary school. Many students in Australian Catholic primary schools (more so than in other school sectors) move as an intact cohort from their “feeder” primary school to their Catholic secondary school. Catholic schools in Australia include a range of cultural and social backgrounds, with an increasing proportion of students with little connection to the religious community (Rymarz & Cleary, 2016a, 2016b ). One Sydney-based study found that 25% of students attending Catholic schools were not Catholic (Rymarz & Cleary, 2016a). Of the 29 Catholic secondary schools in the metropolitan area in Perth, 21 (72.4%) consented to participate (one agreed to participate only as a comparison school). Eight declined because of competing priorities. Prior to randomisation, schools were stratified by size (using a median split with larger schools >811 and smaller schools ≤811 total students) and socioeconomic status (SES). Low- and high-SES groups were determined using the Catholic Education Office of WA's SES Index Modified A which maps the addresses of each student enrolled in the school to an Australian Bureau of Statistics Census collector district. Each school's SES is the weighted average of individual student profiles. One additional school was added as a comparison school when the study cohort was in Grade 8 to offset a school that was originally included as a comparison school but requested resources and staff professional development. This school's data are not included in these analyses.
+
+2.2 Student recruitment
+Students were recruited in two waves. First, the parents and all Grade 7 students enrolled in 2005 to attend Grade 8 in a participating secondary school were invited to participate. Second, the parents and all Grade 8 students enrolled in participating schools in 2006 who had not been approached in 2005 (new enrolments to the schools) were approached. All students in this study commenced secondary school in Grade 8. Parents received a letter which requested their active consent for their child to participate. Those who had not responded after three weeks were sent a follow-up information letter and consent form which again requested active consent. Four weeks later, parents who had not responded were sent a final follow-up letter requesting passive consent for their child to participate (i.e., those who did not explicitly opt-out would provide passive consent). The research protocol and school and parent consent procedures were approved by the Edith Cowan University Human Research Ethics Committee 04-62.
+
+Longitudinal student self-report data were collected at three time points. Baseline surveys were completed at the start of Grade 8 following transition to secondary school, Post 1 data at the end of Grade 8 and Post 2 data at the end of Grade 9 (aged 14 years). Of the 3,769 eligible students, parental consent was obtained for 91.8% (n = 3,462). In total, 3,068 students completed surveys at Baseline (81.4% of those eligible; 88.6% of those who consented). Over half (n = 1,808, 58.9%) were registered to be enrolled in the secondary schools and were recruited in 2005, the remainder being recruited in 2006 (n = 1,260, 41.1%). Most students who completed Baseline surveys responded at all three data points (n = 2,690, 87.7%), 325 (10.6%) completed a survey at two other data collection points and 53 (1.7%) only completed the Baseline survey. Although school staff were prompted at each data collection to follow up with absent students, 6% of students had left the school and the remaining missing data were due to absence on the day. Most students who left the school would have moved to another school, as it is a legal requirement to attend school until Grade 10 in WA. Participants included approximately 50% males and 70% attended a co-educational secondary school. An overview of the recruitment, randomisation and data collection procedure is provided in Figure 1.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Friendly Schools Project: Recruitment, randomisation and response rates
+2.3 Instruments
+2.3.1 Victimisation and perpetration
+Victimisation was assessed using a seven-item categorical index adapted from Rigby and Slee (1998) and Olweus (1996). The items assessed physical, verbal and relational and bullying over the previous 10-week school term. For each item, students rated how often they were bullied on a 5-point scale (1 = never, 2 = only once or twice, 3 = every few weeks, 4 = about once a week, 5 = most days). A victimisation score was calculated for each student by averaging the seven items, with a higher score indicating more victimisation experiences (baseline α = 0.82). Perpetration was assessed using a similar seven-item index which asked students how often they bullied others. A perpetration score was calculated for each student by averaging the perpetration items, with a higher score reflecting greater involvement in bullying perpetration (baseline α = 0.79).
+
+2.3.2 Loneliness
+Loneliness was measured using seven items adapted from a 15-item loneliness at school scale (Cassidy & Asher, 1992) which were measured on a five-point scale ranging from strongly disagree to strongly agree. A factor analysis confirmed its uni-dimensionality (CFI > 0.9, SMR < 0.10 at all-time points). A mean loneliness score was calculated at each time point for each student, with higher scores reflecting greater feelings of loneliness (baseline α = 0.88).
+
+2.3.3 Safety
+Safety at school was a single item adapted from the Peer Relations Questionnaire (Rigby & Slee, 1998) and measured on a three-point scale (1 = No, I never feel safe at school, 2 = Yes, some of the time, 3 = Yes, all or most of the time) for each time point, with a higher value reflecting greater feelings of safety.
+
+2.3.4 Mental well-being
+Self-reported depression, anxiety and stress were assessed using the Depression Anxiety Stress Scale (Lovibond & Lovibond, 1995) which comprised seven items measured on a four-point scale (from 0 = not at all to 3 = applied to me very much, or most of the time). A depression, anxiety and stress score was calculated at each time point for each student by adding the items, with higher scores reflecting greater feelings of depression (α = 0.90), anxiety (α = 0.85) and stress (α = 0.86).
+
+2.4 Intervention and comparison conditions
+The FSP intervention was co-developed with students for students as they moved from primary school to Grades 8 and 9 in secondary school and included three key phases:
+Pre-transition: Preparing for transition education booklets for parents and students; capacity-building engagement with primary and secondary school staff (end of Grade 7).
+Transition: Training and resources to support whole-school and staff; classroom resources for Grade 8 students and newsletter tips for parents.
+Post-transition: Maintenance and resources for school staff to focus on Grade 9 student social competence, bystander and advocacy support.
+In accordance with a socio-ecological model (Bronfenbrenner, 1995) and the World Health Organization's Health Promoting Schools framework (World Health Organization, 1998), the intervention used a whole-school approach that targeted pastoral care staff, classroom teachers, individual students and parents/carers. The components, core messages, implementation strategies, delivery timing and dose are shown in Table 1. The transition components were tailored by survey and focus group data collected from slightly older students in order to better understand the needs, strengths and concerns of students who recently transitioned to secondary school. The pre-transition resources for parents and students called “Buzz” were developed to include the unique characteristics of each intervention school.
+
+Table 1. Friendly Schools intervention components
+Intervention component (delivered by schools to school community)	Core understandings and skills	Implementation strategy	Timing Year 1 Grade 8	Timing Year 2 Grade 9	Dose
+Student	
+
+Organisational and academic changes during transition
+Maintaining and making new friendships
+Transition magazines†	✓		2 Editions
+Pre-transition
+
+Students’ pro-victim attitudes
+Advocate for themselves and others
+Cope adaptively with bullying
+Regulate their emotions and react assertively rather than aggressively to bullying
+Seek help and provide support to others
+Provide bystander support especially cyber bullying
+Curriculum	✓	✓	Year 8—8 hr of classroom activities
+During transition	Post-transition	Year 9—3.5 hr of curriculum activities
+Parent	Help their child to:	Transition booklets†	✓		2 Booklets
+
+Build social competence and minimise harm from bullying
+Understand secondary school and prepare for changes
+Maintain and make new friendships
+Pre-transition
+School newsletter items	✓	✓	Up to 30 newsletter items over 2 years of study
+During transition	Post-transition
+Whole-school	Core elements:	School implementation team select evidence-based strategies using a staged implementation process according to school needs and capacity	✓	✓	Over 2 years of study
+Policy and procedures
+Supportive school culture
+Physical environment
+Staff, student and parent confidence and competence
+Engagement of parents and community
+Implementation (delivered by researchers)	
+
+School intervention implementation capacity
+Common understandings and consistent approaches to bullying
+Bullying prevention skills
+Social and emotional development
+School implementation team training and manual	✓	✓	6 hr
+Group
+All school staff training	✓	✓	2 hr
+In-school
+Classroom curriculum teacher training and curriculum resources	✓	✓	2 hr
+In-school
+School implementation team coaching	✓	✓	1 hr
+In-school × four times per study year
+† Distributed to approximately 59% of the cohort pre-transition in Grade 7.
+2.5 Implementation support for intervention schools
+A tiered training and coaching support to meet each school's organisational context and build implementation capacity was provided in each study year. It comprised:
+A two-hour in-school training for all school staff: to raise their awareness of the intervention and establish common understandings and consistent approaches to bullying prevention and management.
+A six-hour group training for school implementation teams: attended by approximately six senior pastoral care staff from each school to support the implementation of the whole-school, student and parent components. Each team received a manual to guide whole-school implementation.
+A one-hour in-school “coaching” session four times per year with each school's implementation team. Coaching assisted schools through a staged improvement process to identify student and staff needs, select appropriate strategies and implement and review their efforts to reduce and manage bullying.
+A two-hour in-school training for Grade 8 and then Grade 9 teaching staff who were delivering the classroom curriculum.
+2.6 FSP intervention components
+The FSP intervention comprised three components targeting students, parents and the whole school. The student component provided information and strategies to help to manage the transition from primary school through classroom curricula and educational magazines. The theory of change on which the classroom curricula was based focused on increasing students’ pro-victim and reducing their pro-bully attitudes; building their capacity to advocate for themselves and others; empowering them to cope with bullying; helping them to regulate their emotions and react assertively rather than aggressively to bullying; and encouraging them to seek help and provide support to others (see Table 1).
+
+A review of students’ and teachers’ use of and satisfaction with the Grade 8 FSP curriculum led to fewer classroom activities in the second year of the intervention to better match the class time available to teachers. Other changes included a stronger focus on social relationships, advocacy and bystander support especially related to cyber-bullying. The recommended classroom intervention lasted for six hours for Grade 8 students and 3.5 hr for Grade 9 students.
+
+Students recruited in 2005 (approximately 59% of the cohort) also received two editions of the “Buzz” transition magazine which provided information about the organisational and academic changes they would experience and tips to help them to maintain old and build new friendships. They were mailed to students with their FSP parents’ booklets just before they commenced secondary school.
+
+The parent component comprised two booklets sent to parents before their child transitioned to secondary school and up to 30 newsletter items over the two years of the intervention, providing parenting tips to build children's social competence and minimise harm from bullying. The booklets provided information and strategies to help parents to understand their children's new secondary school, prepare their children for these changes and help them to maintain friendships and make new friends. They were tailored to suit each school's transition needs.
+
+The whole-school component was designed to help schools to enhance students’ social relationships and peer support, review bullying-related policies and procedures and their implementation (involving the school community), enhance their school culture and physical environment, provide positive behaviour management strategies and less punitive-based responses to bullying and strengthen school-home-community links.
+
+The FSP comparison schools implemented their usual transition, social and emotional and bullying prevention policies and practices as required by the Australian curriculum authorities.
+
+2.7 Data analyses
+The intervention impact on the scale scores was tested using Tobit regression (Osgood, Finken, & McMorris, 2002; Tobin, 1958), as the continuous dependent variables in this study had highly-skewed distributions (i.e., concentrations of cases at the minimum values of each dependent variable; Table 2). Use of traditional regression analyses with highly-skewed data such as these can lead to biased results (Grogan-Kaylor & Otis, 2003) and a loss of power (Osgood et al., 2002). Tobit regression in which combined probit and linear models are fitted has been applied in similar studies with data of this nature (Delva, Grogan-Kaylor, Steinhoff, Shin, & Siefert, 2007; Grogan-Kaylor & Otis, 2003; Osgood et al., 2002; Wang, Selman, Dishion, & Stormshak, 2010). One advantage is that the probability of the outcome occurring (a value other than the minimum being observed) and the severity of the outcome are modelled simultaneously.
+
+Table 2. Descriptive statistics—dependent variables
+Baseline	Post 1	Post 2
+Victimisation (Range 0–1.609)			
+Intervention	Mean	0.223	0.270	0.310
+Std. Deviation	0.266	0.299	0.371
+% zero	34.3	30.4	29.7
+Comparison	Mean	0.190	0.269	0.306
+Std. Deviation	0.2506	0.3016	0.3496
+% zero	39.9	29.9	29.3
+Total	Mean	0.207	0.269	0.308
+Std. Deviation	0.259	0.300	0.360
+% zero	37.1	30.1	29.5
+Perpetration (Range 0–1.609)
+Intervention	Mean	0.106	0.142	0.204
+Std. Deviation	0.167	0.216	0.317
+% zero	55.4	50.1	45.5
+Comparison	Mean	0.088	0.150	0.188
+Std. Deviation	0.162	0.251	0.303
+% zero	60.9	49.9	45.9
+Total	Mean	0.097	0.146	0.196
+Std. Deviation	0.165	0.234	0.310
+% zero	58.1	50.0	45.7
+Depression (Range 0–1.386)
+Intervention	Mean	0.254	0.233	0.279
+Std. Deviation	0.333	0.342	0.371
+% zero	45.3	52.9	46.2
+Comparison	Mean	0.242	0.247	0.277
+Std. Deviation	0.334	0.346	0.368
+% zero	49.7	48.6	45.7
+Total	Mean	0.248	0.240	0.278
+Std. Deviation	0.333	0.344	0.370
+% zero	47.4	50.8	46.0
+Anxiety (Range 0–1.386)
+Intervention	Mean	0.247	0.196	0.234
+Std. Deviation	0.303	0.288	0.324
+% zero	39.1	49.9	45.4
+Comparison	Mean	0.221	0.215	0.227
+Std. Deviation	0.293	0.307	0.320
+% zero	44.4	46.2	46.7
+Total	Mean	0.234	0.205	0.230
+Std. Deviation	0.298	0.298	0.322
+% zero	41.7	48.1	46.0
+Stress (Range 0–1.386)
+Intervention	Mean	0.318	0.275	0.333
+Std. Deviation	0.330	0.332	0.364
+% zero	31.8	40.8	33.2
+Comparison	Mean	0.313	0.293	0.323
+Std. Deviation	0.332	0.339	0.357
+% zero	33.9	38.4	35.9
+Total	Mean	0.315	0.284	0.328
+Std. Deviation	0.331	0.336	0.360
+% zero	32.8	39.6	34.5
+Loneliness at school (Range 0–1.609)
+Intervention	Mean	0.403	0.352	0.385
+Std. Deviation	0.363	0.371	0.405
+% zero	24.9	34.8	33.2
+Comparison	Mean	0.369	0.368	0.384
+Std. Deviation	0.361	0.388	0.389
+% zero	29.1	32.8	31.4
+Total	Mean	0.387	0.360	0.384
+Std. Deviation	0.363	0.380	0.397
+% zero	27.0	33.8	32.3
+Feel safe at school	% (n)	% (n)	% (n)
+Intervention	77.6 (1,200)	75.2 (1,117)	74.2 (1,003)
+Comparison	79.1 (1,175)	72.6 (1,018)	74.2 (9,76)
+Total	78.3 (2,375)	73.9 (2,135)	74.2 (1,979)
+Note
+Means and standard deviations of log transformed data presented due to highly skewed distributions and in line with data used in analyses.
+To account for the interdependence of responses from students in the same schools, random intercepts models used the Tobit procedure in Stata 10 (StataCorp, 2007). The variables were transformed since Tobit regression models require that values above the minimum follow an approximate normal distribution (Osgood et al., 2002). The fit of the models was assessed by calculating the R2 value as the square of the correlation between the observed and predicted values.
+
+Logit regression with random intercepts was applied for the binary safety at school variable. To allow for baseline differences, since schools and not individuals were randomised to study conditions, the baseline values of the dependent variables were included as covariates in the models. Additionally, potential confounding variables were controlled for. These included gender, school size, type (co-educational, girls only, boys only) and SES. Data were assumed to be missing at random (MAR), with missingness dependent only on the variables included in the statistical models.
+
+3 RESULTS
+A total of 329 students (10.7%) was lost to follow-up by the end of the study. Selective and differential attrition were assessed with regard to the dependent variables at Baseline and gender using Mann-Whitney and chi-square tests. Selective attrition tests compared those lost and not lost to follow-up. Those lost to follow-up had higher scores on the victimisation (z = 2.32, p = 0.020) and loneliness (z = 2.13, p = 0.033) scales and felt less safe at school (χ2(1) = 10.3, p = 0.001). Tests for differential attrition showed no differences except that students lost to follow-up in the intervention group were lonelier than those in the comparison group (z = 2.51, p = 0.012).
+
+Figure 1 presents the number of respondents by study condition and time. At the beginning of Grade 8 (i.e., Baseline), the study conditions differed significantly on victimisation (z = 3.94, p < 0.001), perpetration (z = 3.55, p < 0.001), anxiety (z = 2.83, p = 0.005), loneliness at school (z = 2.96, p = 0.003) and gender (χ2(1) = 7.6, p = 0.006). Victimisation and perpetration levels were significantly higher at Baseline in the intervention group, as were feelings of anxiety and loneliness. This group also included relatively more males than the comparison group (53% vs. 47%). No differences were found for symptoms of depression (z = 1.78, p = 0.075), stress (z = 0.65, p = 0.519) and safety at school (χ2(1) = 1.1, p = 0.299).
+
+The many subjects with scores equal to the minimum value for each variable are shown in Table 2, particularly bullying perpetration, depressive symptoms and anxiety, with between 42% and 58% of the students reporting no perpetration behaviour or internalising symptoms.
+
+For victimisation, there is a slightly lower increase in the mean score from Baseline to Post 1 in the intervention group than in the comparison group. Additionally, the percentage that was not exposed to bullying in the intervention group decreased from 34.3% to 30.4% between Baseline and Post 1. The comparable increase in the comparison group was 10%—a 6% difference. Similarly, for depressive symptoms, the percentage who reported no symptoms increased from 45.3% to 52.9% in the intervention group compared with almost no increase in the comparison group.
+
+Overall, the Tobit regression results indicated a significant positive impact of the intervention in the first follow-up data collection (Post 1) at the end of Grade 8 (see Table 3). Controlling for differences at Baseline, significant group effects were found for each dependent variable at Post 1. No differences were found in the second follow-up at the end of Grade 9.
+
+Table 3. Tobit and logistic regression results testing differences between intervention and comparison groups at post data collections
+Dependent variable	z	p	B	SE	Effect size	R 2
+Victimisation Post 1 (n = 2,924)	2.60	0.009**	0.034	0.013	0.113	0.30
+Victimisation Post 2 (n = 2,705)	1.64	0.100	0.029	0.018	0.081	0.17
+Perpetration Post 1 (n = 2,871)	2.44	0.015*	0.046	0.019	0.197	0.23
+Perpetration Post 2 (n = 2,651)	‒0.02	0.987	‒0.000	.025	0	0.14
+Depressive symptoms Post 1 (n = 2,710)	2.38	0.017*	0.053	0.022	0.154	0.25
+Depressive symptoms Post 2 (n = 2,520)	0.10	0.917	0.003	0.030	0.008	0.16
+Anxiety Post 1 (n = 2,709)	2.78	0.005**	0.060	0.021	0.201	0.21
+Anxiety Post 2 (n = 2,518)	0.21	0.830	0.006	0.026	0.019	0.12
+Stress Post 1 (n = 2,754)	2.10	0.036*	0.038	0.018	0.113	0.23
+Stress Post 2 (n = 2,549)	‒1.04	0.299	‒0.025	0.024	‒0.069	0.14
+Loneliness Post 1 (n = 2,940)	2.69	0.007**	0.052	0.019	0.137	0.31
+Loneliness Post 2 (n = 2,714)	1.22	0.222	0.034	0.028	0.086	0.15
+T	P	OR	95% CI	
+Safety Post 1 (n = 2,853)	‒2.19	0.028*	0.81	[0.67, 0.98]	
+Safety Post 2 (n = 2,633)	0.11	0.912	1.01	[0.84, 1.22]	
+Notes
+CI: confidence interval. Models controlled for gender, school size, school type, school SES and baseline value of dependent variable. Effect size for continuous dependent variables calculated as regression coefficient divided by SD of dependent variable at relevant post-test measurement. Effect size for binary dependent variable given by the odds ratio.
+* p < 0.05,
+** p < 0.01.
+The data and analyses indicate that outcomes on all measures were less severe on average at Baseline in the comparison group than in the intervention group (e.g., bullying, victimisation and perpetration were lower at Baseline), but increased relatively more in the comparison group, such that levels in the two groups were similar at Post 1. Hence, following transition, levels of victimisation and perpetration, psychological distress and loneliness at school increased more sharply for the students in the comparison group than for those in the intervention group. These similar levels between the groups were sustained into Post 2, i.e., the end of Grade 9. Thus, despite starting at lower levels for all the student outcomes at the beginning of secondary schooling, these lower levels were not sustained in the comparison group, increasing post-transition to be comparable to those of the intervention group at Post 1 and Post 2 level. Effects were small, ranging between 0.11 and 0.20. Additionally, the odds of feeling safe (always or most of the time) at school were significantly lower in comparison schools than in intervention schools at Post 1 (OR = 0.8, 95% CI [0.67, ‒0.98]), but these differences had dissipated at Post-2 level.
+
+4 DISCUSSION
+Successful school transition is critical to adolescents’ well-being (Evangelou et al., 2008; Jindal-Snape & Foggie, 2008), particularly to prevent bullying (Patton et al., 2000; Sourander, Helstelä, Helenius, & Piha, 2000; Topping, 2011). Unlike the findings of previous interventions targeting secondary schools (Cowie et al., 2008; Houlston & Smith, 2009), the FSP had a small but positive impact on student bullying and associated mental health and social and safety issues during the year immediately following transition to secondary school. Comparison students experienced significantly greater average increases in victimisation and perpetration, loneliness, depression, anxiety and stress from the time they entered secondary school to the end of their first year than intervention students. Similarly, the decline in the percentage of students who felt safe at school was slightly higher in the comparison group than in the intervention group. However, changes from the end of Grade 8 to the end of Grade 9 were similar in both groups.
+
+The greater perceptions of safety and lower levels of depression, anxiety, stress and loneliness, and bullying, victimisation and perpetration among the students who received additional support during and after transition are consistent with previous research. Poor transition experiences are associated with bullying, victimisation, depression and anxiety, poor well-being measures, greater psychological stress, poor relationships with peers and liking school less (Akos, 2002; Barber & Olsen, 2004; Blackwell, Trzesniewski, & Dweck, 2007; Rice et al., 2011), with consequences for future learning and well-being.
+
+Transition to secondary school happens at a time when adolescents are increasingly dependent on peers for social support, whilst also experiencing greater pressure to attain social status, which may result in more frequent bullying (Espelage & Holt, 2001). Importantly, students who have difficulty in forming friendships in secondary school can feel isolated and anxious (Frey, Hirschstein, Edstrom, & Snell, 2009; Pereira & Pooley, 2007). The FSP intervention may have been effective in reducing Grade 8 students’ loneliness and increasing their feelings of safety because it included whole-school and classroom activities designed to increase their social competence, the quality of their friendships and positive actions to reduce bullying among their peers (Jindal-Snape & Foggie, 2008; Lester, Cross, Dooley, & Shaw, 2012; Patton et al., 2000; Sourander et al., 2000; Stevens, De Bourdeaudhuij et al., 2000).
+
+Prior to the commencement of this study, formative research identified students’ concerns about their transition to secondary school, including bullying, getting lost, making friends, dealing with a heavier workload, travelling to school and their sporting ability (Bohnert, Aikins, & Arola, 2013; Coffey, 2009; Jindal-Snape & Foggie, 2008; Kingery & Erdley, 2007; Lawson, Wyra, Skrzypiec, & Askell-Williams, 2008; Smith, Akos, Lim, & Wiley, 2008; Topping, 2011; Zeedyk et al., 2003). The FSP intervention fostered reciprocal links between the students’ primary and secondary schools to ease their (and their parents’) concerns and facilitate the transition process (Potter, Schlisky, Stevenson, & Drawdy, 2001; Smith & Lim, 2007; Smith et al., 2008; Zeedyk et al., 2003) through the student “Buzz” magazines and parent booklets which were distributed at the end of Grade 7 and before entry to secondary school However, only about 60% of the cohort received these booklets. Future efforts to engage parents would be strengthened by strategies that encouraged more active involvement rather than focusing on “top-down” informational approaches (Downes & Cefai, 2016).
+
+The FSP intervention engaged the whole-school community, including teachers, allied health staff, students and parents, as recommended by Cohen and Smerdon (2009) who suggest that successful transition programmes need to involve all the school community members and address social, academic and logistic factors. The FSP intervention enabled schools to tailor their transition activities to engage new students and parents before they arrived at their school. The Grade 8 intervention also actively involved students, their parents and the professionals who influence students’ academic, personal and interpersonal functioning following their school transition (Barber & Olsen, 2004; Lawson et al., 2008). Its multifaceted nature was key in its efficacy. Interventions that target only a single aspect of transition found no independent effect on secondary school retention and experiences (Farrington & Ttofi, 2009; Ttofi & Farrington, 2011). Communication between parents and the secondary school is critical for a successful transition (Coffey, 2009). The FSP intervention enabled about 60% of the parents to be prepared for their children's transition to secondary school, which was crucial since they tended to report finding the transition a difficult process (Jindal-Snape & Foggie, 2008). As recommended by Mizelle (2005), the FSP intervention provided students with information about their new school and involved parents via newsletter information, with a focus on meeting their concerns and needs. This is key to optimal transition, as parental guidance in the form of consistent support, monitoring and positive intervention contributes to a smoother transition for students (Hanewald, 2013; Jindal-Snape & Foggie, 2008; Van Ryzin, Stormshak, & Dishion, 2012). The school-based coaching activities provided by the FSP intervention were designed to help schools to cope with intervention fatigue, as whole-school approaches are complex and require significant commitment. The low-dose “coach” support provided in person or by phone could be supported at a system level (i.e., a single one-hour call four times per year). Most schools reported that this level of contact kept them on track and focused on the actions needed. As discussed in the next section, coaching was tapered in the second year of the study, which may have contributed to fewer intervention effects in this year.
+
+4.1 Second year findings
+Several factors related to the implementation and design of the Grade 9 intervention may have contributed to the lack of sustained positive impacts. Given that most students’ transition-related concerns decrease as they become accustomed to their new school, it is perhaps not surprising that intervention schools curtailed their implementation of the FSP student transition activities in the second year of this trial. Intervention teachers’ attention to the Grade 9 cohort may also have diminished in the second year of the study because of the success of the previous year's FSP transition activities. They may have felt encouraged by their involvement in supporting school transition during the first year of this study and thus focused their attention on the new transitioning cohort. This may have limited staff support for the Grade 9 cohort. Furthermore, the tapering of the FSP whole-school implementation coaching in the second year of the study may have reduced the school's commitment to this project.
+
+Another explanation for the lack of second year effects is that implementation may have decreased due to less engaging intervention content. Qualitative process data collected from teachers indicated that students found the content less relevant in Grade 9 than in Grade 8. The second year of the intervention extended the content included in the first year, addressed ways to enhance social relationships, encouraged help-seeking from adults, increased advocacy and provided activities to encourage positive bystander activity to reduce harm from bullying, including cyber-bullying. Greater student involvement in developing intervention content, especially as it addressed cyber-bullying, may have improved its delivery by teachers and uptake by students (Cross, Lester, Barnes, Cardoso, & Hadwen, 2015). It may also be necessary to develop new strategies to enhance effectiveness among older adolescents rather than simply “aging up” interventions used for younger students (Yeager et al., 2015). For example, the intervention may have needed to focus more on the increasing importance of peer influence during adolescence (Collins & Steinberg, 2006).
+
+Overall, this points to the need for developmentally-targeted bullying interventions where whole-school activities are tailored to meet each year level's needs. Activities that are relevant for the first year of secondary school may differ greatly from those needed subsequently. Developmental research that investigates adolescents’ social and emotional needs in different years is likely to inform future interventions. Since some adolescents continue to feel anxious after their first year of secondary schooling, it will be important for schools to identify what early intervention or treatment support can be maintained for these students (Galton & Morrison, 2000; Osborn, McNess, & Pollard, 2006). Future research should focus on effective transition strategies for different student groups as they progress through secondary school.
+
+5 LIMITATIONS
+Several limitations were associated with this study. As the sample was recruited only from Catholic secondary schools, bias may have occurred. Furthermore, the relatively small benefits of the FSP intervention need to be tested in other school sectors, particularly as Catholic schools can be smaller, better resourced and have greater capacity for pastoral care initiatives than Government schools. Parent non-consent and student attrition may also have resulted in selection bias. Differential attrition can lead to over- or underestimation of intervention effects. Intervention group students lost to follow-up were lonelier at school than those lost in the comparison group, hence the observed loneliness odds ratio is likely to be an inflated estimate of the intervention effect for this variable. Although we had hoped to recruit most of the student cohort before their transition to Grade 8, approximately 40% of the Grade 8 cohort were not yet enrolled in the secondary school and hence not on the lists supplied by schools used for recruitment in 2005. Therefore, not all students and parents received the FSP support materials prior to transition, which may have resulted in an underestimate of the intervention impact. The self-reported nature of student data may result in over- or under-reporting of bullying behaviour, perhaps due to social desirability bias. However, the randomised intervention-comparison group design should reduce the impact of this limitation.
+
+6 CONCLUSIONS
+The FSP intervention reduced bullying among students during the year following their transition to secondary school. It also reduced their self-reported experience of loneliness and improved their perception of school safety and levels of anxiety, depression and stress. The primary mechanism in this study was intervention and professional learning (including individualised coaching) efforts to enhance staff, parent and peer support for students during and following school transition, a crucial time of social dislocation. Although the positive outcomes were not sustained to the end of the second year of secondary school, this may be related to intervention failure or diminishing intervention implementation. These results suggest the need for continued support for secondary school staff, parents and peers during students’ second year of secondary school when schools may be distracted by or dedicating more of their limited pastoral care resources to supporting the new group of Grade 8 students.
+
+In sum, this whole-school intervention shows promise in the prevention of bullying and negative outcomes among early secondary students in Australian schools and is one of the first studies to demonstrate effectiveness in improving bullying outcomes for adolescents following their transition to secondary school. Future research should consider mechanisms to enhance secondary schools’ focus on students' well-being and behaviour as they transition to and move through secondary school. Secondary schools appear to need more support, primarily because of their size, to increase the relevance of pastoral care interventions and meet the needs of different groups of students, such as through student co-design and leadership.

@@ -1,0 +1,454 @@
+Copyright © 2025 by Psychological Society of South Africa
+
+An examination of the psychometric properties and dimensionality of the Aggression-Problem Behavior Frequency Scale in a sample of Black South African adolescents
+
+Abstract
+
+Method
+
+Results
+
+Discussion
+
+Conclusion
+
+Acknowledgments
+
+Funding
+
+References
+
+Similar articles:
+
+Sage recommends:
+
+Also from Sage
+
+About
+
+Information for
+
+South African Journal of Psychology
+
+Access/Profile
+
+Cart
+
+Browse by discipline
+
+Information for
+
+Contents
+
+PDF/EPUB
+
+Cite article
+Share options
+Information, rights and permissions
+Metrics and citations
+Figures and tables
+
+Cite article
+
+Share options
+
+Information, rights and permissions
+
+Metrics and citations
+
+Figures and tables
+
+Available access
+The factor structure of the Normative Beliefs about Aggression Scale as used with a sample of adolescents in low socio-economic areas of South Africa
+Show Details
+
+Available access
+The importance of identifying the dimensionality of constructs employed in simulation and training for AI
+Show Details
+
+Available access
+Comparing Fit and Reliability Estimates of a Psychological Instrument using Second-Order CFA, Bifactor, and Essentially Tau-Equivalent (Coefficient Alpha) Models via AMOS 22
+Show Details
+
+SAGE Knowledge
+Entry
+McDonaldâs omega hierarchical
+Show Details
+
+SAGE Research Methods
+Whole book
+Scaling Procedures
+Show Details
+
+SAGE Research Methods
+Book chapter
+Reliability
+Show Details
+
+CQ Library Elevating debate
+
+Sage Data Uncovering insight
+
+Sage Business Cases Shaping futures
+
+Sage Campus Unleashing potential
+
+Sage Knowledge Multimedia learning resources
+
+Sage Research Methods Supercharging research
+
+Sage Video Streaming knowledge
+
+Technology from Sage Library digital services
+
+About Sage Journals
+
+Accessibility guide
+
+Historical content
+
+Advertising disclaimer
+
+Permissions
+
+Terms of use
+
+Sage discipline hubs
+
+Sage microsites
+
+Authors
+
+Editors
+
+Librarians
+
+Promoters / Advertisers
+
+Researchers
+
+Reviewers
+
+Societies
+
+Frequently asked questions
+
+ISSN: 0081-2463
+
+About Sage
+
+Contact us
+
+CCPA - Do not sell my personal information
+
+CCPA
+
+Privacy Policy
+
+Total Aggression
+
+.90 [0.88–0.92]
+
+2.02
+
+0.06
+
+0.84
+
+1.72
+
+1.38
+
+1.34
+
+Physical Aggression
+
+.81 [0.77–0.85]
+
+1.95
+
+0.06
+
+0.89
+
+1.71
+
+0.99
+
+1.29
+
+Non-physical Aggression
+
+.77 [0.72–0.82]
+
+2.38
+
+0.07
+
+1.11
+
+2.00
+
+0.63
+
+1.09
+
+Relational Aggression
+
+.80 [0.75–0.84]
+
+1.81
+
+0.06
+
+0.91
+
+1.50
+
+3.94
+
+1.91
+
+Total Aggression (TA)
+
+–
+
+.87**
+
+.84**
+
+.86**
+
+Physical Aggression (PA)
+
+–
+
+.67**
+
+.60**
+
+Non-physical Aggression (NPA)
+
+–
+
+.66**
+
+Relational Aggression (RA)
+
+–
+
+χ2 (df)
+
+390.98 (135)
+
+291.58 (132)
+
+255.14 (117)
+
+p-value
+
+Non-significant
+
+<.001
+
+<.001
+
+<.001
+
+GFI
+
+<0.95
+
+0.84
+
+0.88
+
+0.89
+
+TLI
+
+<0.90
+
+0.81
+
+0.88
+
+0.88
+
+CFI
+
+<0.90
+
+0.83
+
+0.89
+
+0.91
+
+RMSEA
+
+>0.08
+
+0.09 [CI90: 0.08–0.10]
+
+0.07 [CI90: 0.06–0.08]
+
+0.07 [CI90: 0.06–0.08]
+
+SRMR
+
+>0.08
+
+0.07
+
+0.06
+
+0.05
+
+AIC
+
+Lower levels
+
+462.98
+
+369.89
+
+363.14
+
+Throw something at someone
+
+.44
+
+.54
+
+Been in a fight
+
+.63
+
+.32
+
+Threatened to hurt a teacher
+
+.18
+
+.33
+
+Shoved/pushed another kid
+
+.55
+
+.44
+
+Threatened someone with a weapon
+
+.54
+
+.23
+
+Hit/slapped another kid
+
+.73
+
+.17
+
+Threatened to hit another kid
+
+.67
+
+.08
+
+Insulted someone’s family
+
+.61
+
+.13
+
+Teased someone
+
+.54
+
+.26
+
+Put someone down
+
+.59
+
+.23
+
+Gave mean looks to another student
+
+.61
+
+.37
+
+Picked on someone
+
+.65
+
+.12
+
+Didn’t let another student be in your group
+
+.64
+
+.21
+
+Told another student you wouldn’t like them
+
+.48
+
+.30
+
+Tried to keep others from liking another kid
+
+.55
+
+.41
+
+Spread false rumour
+
+.54
+
+.44
+
+Left another kid out on purpose
+
+.55
+
+.57
+
+Said things about another student to make others laugh
+
+.52
+
+.18
+
+ECV
+
+75%
+
+10%
+
+4%
+
+11%
+
+Omega/OmegaS*
+
+.92
+
+.82
+
+.78
+
+.82
+
+OmegaH/OmegaHS**
+
+.83
+
+.20
+
+.10
+
+.24

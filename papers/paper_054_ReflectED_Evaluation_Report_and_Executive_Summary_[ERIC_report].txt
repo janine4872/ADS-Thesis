@@ -1,0 +1,427 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Business & Industrial Marketing
+
+ISSN: 0885-8624
+
+Article publication date: 2 March 2015 Permissions
+
+The purpose of this paper was to examine the antecedents of strategic supplier relationships in conjunction with outcomes of product and service quality and financial performance. The management of strategic supplier relationships involves the selection and development of suppliers that share common goals and strategies of the partnering organization.
+
+Structural equation modeling using partial least squares is used to verify and test these relationships.
+
+Top management support, technological preparedness and trust were found to have significant positive influences on the management of strategic supplier relationships. Strategic supplier relationships were found to have a positive influence on product and service quality outcomes and financial performance.
+
+The results provide new and original empirical evidence on the relationship between the antecedents and outcomes of strategic supplier relationships.
+
+The findings can contribute to the management of supplier relationships, resulting in improved product and service quality outcomes and financial performance.
+
+The research adds empirical evidence to the literature on the factors that contribute to effective supplier relationships and the customer- and firm-related outcomes of this process.
+
+Jack, E.P. and Powers, T.L. (2015), "Managing strategic supplier relationships: antecedents and outcomes", Journal of Business & Industrial Marketing, Vol. 30 No. 2, pp. 129-138. https://doi.org/10.1108/JBIM-08-2011-0101
+
+Emerald Group Publishing Limited
+
+Copyright © 2015, Emerald Group Publishing Limited
+
+Effectively managed strategic supplier relationships involve the selection and development of suppliers with similar goals and with the willingness of the supplier to adapt to the needs of the buyer (Wathne and Heide, 2000, 2004). Organizations develop strategic relationships with suppliers to reduce costs, improve quality and to develop competitive advantage (Petersen et al., 2008). Effectively managed strategic supplier relationships are reported to contribute to higher levels of customer service and reduced costs (Stank et al., 1999). Despite the importance of managing strategic supplier relationships, much of the previous research in the area has focused primarily on supplier selection (Sarkis and Talluri, 2002). Specific research that addresses the factors that influence effectively managed strategic supplier relationships has not been previously reported, although related work has been reported on business-to-business and supply chain buyer-seller relationships (Cannon and Homburg, 2001; Cousins et al., 2006; De Ruyter et al., 2001; Heide and Miner, 1992; Palmatier et al., 2006, 2007; Rinehart et al., 2004). In addition, research has not been conducted on the factors that contribute to strategic supplier relationships in conjunction with the performance results that may occur.
+
+The purpose of this research is to identify the influence of firm- and customer-related antecedents on the effective management of strategic supplier relationships and to identify how these relationships affect quality outcomes for the customer and the financial performance of the firms under study. Specifically, the research investigates how top management support within the company influences the management of strategic supplier relationships. The influence of technological preparedness as a capability of developing customer solutions is examined, as well as the influence of trust between the retailer and its suppliers. Outcomes of the management of strategic supplier relationships are examined for the end-user and for the firm. Product and service quality outcomes are customer-related and financial performance outcomes are firm-related. The relationship between these customer-related and firm-related outcomes of strategic supplier relationships is also tested.
+
+The domain of the research focuses on business-to-business relationships between retailers and their supplier partners. Although retailers may be thought of as consumer marketers, their relationship with suppliers represents a business-to-business or an industrial marketing relationship (Cooke, 1986). Retailers are an important component of the supply chain, as they may dictate the channel norms and act as a boundary spanner for the entire supply chain. The retailer plays a vital role in selecting and working with cooperating organizations to achieve common goals (Sarkis and Talluri, 2002; Xie and Johnston, 2004). Retailers represent an important population to study, as they are focal firms within the supply chain (Autry and Griffis, 2008; Levy and Grewal, 2000), and represent an important sector of the business-to-business marketplace. The research is based on a survey of 295 retailers and is analyzed with structural equation modeling (SEM) using partial least squares (PLS) (Ringle et al., 2005). The research contributes to the literature by:
+
+identifying and measuring the salient dimensions of strategic supplier management;
+
+empirically investigating the influence of antecedents (top management support, technological preparedness and trust) that contribute to supplier relationships; and
+
+identifying the customer- and firm-related outcomes (product and service quality and financial performance) of strategic supplier relationships.
+
+In addition to the academic contribution, managers may benefit from these results by identifying and enhancing specific activities that contribute to effective supplier relationships.
+
+The literature indicates that there are organizational and technical preconditions for effectively implementing supply chain management practices (Kotzab et al., 2011). It involves the firm and its business-to-business suppliers developing strategies that contribute to their joint success and selecting suppliers with similar goals (Wathne and Heide, 2000; Wilson, 1995). This notion involves the selection of appropriate suppliers with common goals and strategies, and managing this process in an ongoing manner. Strategic supplier relationships share common goals that are accomplished through joint purpose and execution (Wilson, 1995). The nature of common goals is related to the strategy of the firms involved, but it is also based on the culture of the organizations. Strategically linked organizations share cultural characteristics such as a willingness to share risks and rewards, and a desire to share resources (Chen and Huang, 2007; Mello and Stank, 2005). Common goals and having similar values and beliefs are related to a shared cultural perspective (Chen and Huang, 2007; Mello and Stank, 2005; Weiss and Jap, 1995; Wilson, 1995). This also is related to positive outcomes. Firms that have similar values, beliefs and practices can achieve synergy and improved results (Weiss and Jap, 1995). An important component of this initial step that has been cited in the literature is the selection of suppliers that are not opportunistic and are seeking only benefit for themselves (Wathne and Heide, 2000). In a strategic supplier relationship, partners work with each other toward a common goal and not in their own self-interest alone (Anderson and Narus, 1990; Sarkis and Talluri, 2002; Wathne and Heide, 2000).
+
+Well-managed strategic supplier relationships connect customers, manufacturers and suppliers, and play a vital role in the long-term well-being of the overall supply chain (Sarkis and Talluri, 2002; Ting and Cho, 2008). In order for supplier relationships to succeed, alignment of the strategic orientations and the socialization of supply chain partners are needed (Baier et al., 2008; Cousins and Menguc, 2006; Petersen et al., 2008; Sandberg, 2007). This success can be measured across several different dimensions. By collaborating with business-to-business partners, organizations can develop economies of scale, improve supplier competencies, improve supplier service quality and improve inventory management (Stank et al., 2001; Williams and Tokar, 2008). Collaboration among supply chain members reduces costs and achieves higher levels of customer service (Stank et al., 1999). These coordinated efforts produce better outcomes than what one firm can achieve alone (Anderson and Narus, 1990), and in the process form linkages that hold the strategic partners together (Han, 1991). Retailers’ relationships with suppliers are studied in this research as a business-to-business relationship within the channel. The retailer often leads the supply chain in activities that foster channel efficiency by reducing task redundancy and allocating tasks appropriately (El-Ansary and Robicheaux, 1974). Retailers represent the final interface and have the most interaction with the customer (Arnold et al., 2005; Sparks and Wagner, 2003).
+
+To further understand the management of strategic supplier relationships, a review of the literature was conducted to identify its possible antecedents and outcomes. Based on the notion of organizational and technical preconditions for effectively adopting and implementing the supply chain management (Kotzab et al., 2011), the antecedents of managing strategic supplier relationships were found to fall into three categories. The first precondition is related to internal organizational aspects of the firm. The second precondition is related to the shared perspective between the retailer and supplier on the selection and use of technology, as it relates to the needs of the customer. The third precondition is related to the cultural and cooperative interface between the firms, as they develop the customer solution. Top management support was identified as a key internal firm antecedent (Huffman and Hegarty, 1993; Van Egeren and O’Connor, 1998). Technological preparedness was identified as the means of having the technical capability and shared technical perspective to develop the customer solution (Richey et al., 2007; Wilson, 1995) and trust was identified as a key partner-related antecedent of strategic supplier relationships (Handfield and Bechtel, 2002; Huang et al., 2008). In terms of the outcomes of strategic supplier relationships, the literature indicates that several positive outcomes may occur for the retailer and for customers (Stank et al., 1999, 2001; Williams and Tokar, 2008). The retailer outcome was identified as financial performance based on actual and anticipated profit per customer and return on investment (Andraski, 1998; Boyaci and Gallego, 2004; Vickery et al., 2003). Customer-related outcomes were measured in terms of product and service outcomes based on product and service quality, and the reputation of the firm with its customers (Baier et al., 2008; Sandberg, 2007; Petersen et al., 2008).
+
+The antecedents of strategic supplier relationships are now specifically examined. Top management support was identified as an antecedent that is internal to the partnering firms. Technological preparedness and trust represent partnering-related antecedents that are based on the relationship between the firm and its supplier. Top Management Support represents the positive impact of management’s influence over a policy or action. The literature indicates that top management support improves the management of the overall strategic process and optimizes the organization’s resources to best achieve a competitive advantage (Huffman and Hegarty, 1993). Top management support also improves the performance of the organization in terms of achieving goals and initiatives as well as financial outcomes (Van Egeren and O’Connor, 1998). It, therefore, follows that top management support may be hypothesized to influence the effective management of strategic supplier relationships.
+
+Technological preparedness represents a partnering-related antecedent that is a combination of the partnering firms being both technologically capable and having a shared perspective on the selection and use of technology (Richey et al., 2007). These two dimensions of this antecedent are both important to the successful management of strategic supplier relationships. For the partner firms to effectively make use of technology, they need to have a similar level of capability and to have a similar perspective and focus on the use of that technology (Tong et al., 2008). Shared technology also contributes to increasing commitment to a business relationship and represents interdependence on the resources and benefits derived from the partnering firms (Dwyer et al., 1987). These two elements are also seen to contribute to improved performance for both partners (Richey et al., 2007; Wilson, 1995). Given the support in the literature for a linkage between technological preparedness, shared strategies and performance outcomes it follows that this antecedent may have a positive impact on strategic supplier relationships.
+
+Trust is a partnering-related antecedent that is considered central to business relationships (Young, 2006). Trust represents the degree of confidence in the other firm’s willingness to act in regard to the mutual benefit of both firms (Moorman et al., 1992). When partners have trust in each other and are committed to a relationship, they are more likely to meet customer needs and achieve profitability (Anderson and Weitz, 1992). Trust is based on the firm’s perception of their partner’s expertise and reliability (Ganesan, 1994) and can develop early in a relationship, especially if communication is face-to-face and personal (Huang et al., 2008). Trust improves the relationship quality between business-to-business customers (Kumar et al., 1995; Lambe et al., 2000), it decreases perceptions of risk (Handfield and Bechtel, 2002) and it increases loyalty (Jambulingam et al., 2011). Given that trust is instrumental to business-to-business relationships, it is appropriate to hypothesize that it will also positively influence, specifically the management of strategic supplier relationships. Based on the relationships identified in the literature and extending it to strategic supplier relationships, the following hypotheses are given:
+
+H1Top management support positively influences the effective management of strategic supplier relationships.
+
+H2Technological preparedness positively influences the effective management of strategic supplier relationships.
+
+H3Trust positively influences the effective management of strategic supplier relationships.
+
+The outcomes of the effective management of strategic supplier relationships are now discussed. Two conceptual outcomes are identified. First, improved product and service quality outcomes for the end-user are hypothesized to result from strategic supplier relationships. Second, improved financial performance for the firm engaging in the strategic supplier relationship is hypothesized to occur. The relationship between the product and service quality outcomes for the customer and financial performance for the firm is then examined as a final hypothesis.
+
+Quality outcomes represent the end-user’s perception of the quality of the products, services and reputation of that firm. The notion of an effective strategic supplier relationship is closely related to producing end-user-related quality outcomes in bringing a product or service to market. The literature suggests that the alignment of the strategic orientations and the socialization of supply chain partners produce benefits for the end-user customer (Baier et al., 2008; Petersen et al., 2008; Sandberg, 2007). Given that an effectively managed strategic supplier relationship involves the selection and development of suppliers based on joint retailer supplier strategies, it follows that those strategies will result in benefits for the customer (Wathne and Heide, 2000). It is therefore justified from the literature to hypothesize that an effectively managed strategic supplier relationship has a positive influence on product and service quality outcomes.
+
+Given the strategic benefits of effectively managing strategic supplier relationships, it follows that this will result in improved financial performance for the retail firm (Andraski, 1998; Boyaci and Gallego, 2004; Vickery et al., 2003). Relationship quality based on trust between channel partners has also been identified related to performance (Siguaw et al., 1998). It follows that improved product and service quality outcomes for the customer may result in better performance for the retail firm due to more and better-satisfied customers. This is supported in the literature where evidence exists that positive customer-related outcomes have a beneficial effect on the selling firm’s performance (Dess and Robinson, 1984; Kirca et al., 2005; Kohli and Jaworski, 1990; Slater and Narver, 1994; Smith et al., 1999). Thus, a positive relationship between product and service quality outcomes and financial performance can be hypothesized.
+
+Based on the relationships identified in the literature, the following hypotheses are given related to the outcomes of effectively managed strategic supplier relationships:
+
+H4Effective management of strategic supplier relationships positively influences customer product and service quality outcomes.
+
+H5Effective management of strategic supplier relationships positively influences financial performance.
+
+H6Product and service quality outcomes positively influence financial performance.
+
+The hypotheses and the research framework are seen in Figure 1. The analytical methods and results are now discussed.
+
+An online survey was conducted by a research firm of US retail business owners and executives. The sample was limited to top management or business owner, as the issues under study could best be understood from a key decision-maker’s perspective. These respondents were selected because they are most likely to engage in leadership behaviors such as establishing strategic supplier relationships. While there is some debate about online surveys, research suggests that Internet panels do not have a significant negative impact on the data (Dennis, 2001; Pollard, 2002) and allow researchers to conduct high-quality research (Braunsberger et al., 2007). A total of 1,429 respondents were invited to visit the online survey. Respondents who did not answer “yes” to the key question, “do you interact frequently with your key suppliers?” were not allowed to continue through the survey. An additional control was used that asked if these respondents interacted with suppliers more than three times per month. Of those who answered “yes” to this question, 318 completed the survey. Twenty-three of these completed surveys were dismissed due to incompletion, leaving 295 complete surveys with a final response rate of 20.6 per cent. To rule out any potential non-response bias, early-to-late responders were compared across all study variables and demographics. No significant differences were found between early and late respondents across these study variables. The respondents represented a wide cross section of retail firms by size and industry.
+
+Several existing scales were used to operationalize the constructs. Three items were adapted from Jaworski and Kohli (1993) to assess the role that top management plays in strategic supplier partnering. The technological preparedness scale, consisting of four items, was adapted from Richey et al. (2007). The three-item scale for trust was adopted from Morgan and Hunt (1994). The three-item scale for strategic supplier relationships was developed based on several sources in the literature (Chen and Huang, 2007; Mello and Stank, 2005; Sarkis and Talluri, 2002; Wathne and Heide, 2000; Weiss and Jap, 1995; Wilson, 1995). The quality outcomes scale consisted of three items adapted from Morgan and Piercy (1998). The financial performance scale consisted of three items and was also adapted from Morgan and Piercy (1998).
+
+Of the six constructs in the hypothesized model, five were reflective and one (strategic supplier management) was formative. As this study includes a formative construct, a component-based technique for SEM, such as PLS is required (Chin and Todd, 1995; Petter et al., 2007). PLS, as developed by Wold (1982) and implemented by Lohmoeller (1989), is a non-parametric estimation procedure that seeks to maximize the variance explained in the endogenous variables in a hypothesized SEM. Fornell and Bookstein (1982) demonstrated that although PLS uses different statistical procedures than the covariance-based approaches (e.g. Lisrel), in many cases, they both produce similar results for the measurement and structural models.
+
+To evaluate the measurement model, several tests were performed to establish convergent validity and discriminant validity of the measures. First, the survey data were analyzed to address possible instances of covariation, tests of normality, skewness and kurtosis. None of the items in the survey showed inappropriate skewness or kurtosis. The data appeared to be normally distributed. Second, a single-factor model was specified to check for common methods bias and the results indicated a poor fit, suggesting the existence of multiple factors.
+
+For the five reflective measures, several tests were performed to establish convergent and discriminant validity (Bollen, 1989). For the convergent validity, factor loadings were examined to ensure that the items loaded cleanly on only those constructs to which they were intended to load. Here, convergent validity is demonstrated if:
+
+the factor loadings for each indicator with its intended factor is at least 0.4;
+
+for each factor, scale reliability is established with Cronbach’s alpha in excess of 0.70; and
+
+the average variance extracted (AVE) for each construct is greater than 0.50 (Gefen and Straub, 2005).
+
+As shown in Table I, these conditions have been met. In addition, the composite reliabilities for the constructs ranged from 0.88 to 0.98, while the AVE ranged from 0.66 to 0.94. These results demonstrated that the reflective measures displayed reasonable levels of convergent validity. Discriminant validity is demonstrated if:
+
+the square root of each construct’s AVE is greater than its inter-construct correlations; and
+
+items loadings on their respective constructs are greater than their loadings on other constructs.
+
+As shown in Table II, by comparing the inter-construct correlations with the square root of their respective AVEs (shown on the diagonal), this condition for discriminant validity has been met. In addition, the researchers compared the item cross-loadings to ensure that the item loaded higher of its intended construct than it did on any other construct and this second condition for discriminant validity has also been met.
+
+The hypothesized model contains one reflective first-order construct and a formative second-order construct (strategic supplier management). For content validity of this construct, the literature search suggested that the essence of strategic supplier management can be effectively captured by three dimensions: developing strategies that contribute to their joint success, selecting suppliers with similar goals and working with suppliers that act in the best interest of the firm (Chen and Huang, 2007; Mello and Stank, 2005; Wathne and Heide, 2000; Weiss and Jap, 1995; Wilson, 1995). Two of these dimensions were adapted from the Wathne and Heide’s (2000) conceptualization of governance mechanisms, in particular, selection and socialization. For this measure, construct reliability was established by indicator validity and absence of multicollinearity. Using a bootstrapping and resampling procedure with SmartPLS software, indicator weights on the respective construct were obtained along with t-values for path significance. In this case, the weights for these three indicators were 0.21, 0.67 and 0.26. Also, using the bootstrapping resampling procedure, all three weights were found to be significant. To obtain the variance inflation factor (VIF) scores to test for multicollinearity, OLS regression was performed using SPSS, with the PLS construct scores as dependent variable and the indicators as independent variables. Here, the VIFs for the three indicators ranged from 2.3 to 2.99 (where VIFs above 10 are of concern), indicating that this formative construct met the requirements of indicator validity.
+
+Convergent and discriminant validity are assessed by examining the patterns of correlation between the items and constructs (Petter et al., 2007). Using this approach, Diamantopoulos and Winklhofer (2001, p. 272) argue that formative items should correlate with a “global item that summarizes the essence of the construct”. This “global item” is calculated by summing the product of item values with their corresponding PLS item weights. From this product, a modified multi-trait, multi-method matrix of item-to-construct and item-to-item correlations can be produced. Convergent validity is demonstrated if the items of the same construct correlate significantly with their corresponding composite construct value (item-to-construct correlation; Campbell and Fiske, 1959; Loch et al., 2003). As shown in Table III, this condition has been met, where all items correlated significantly (p < 0.01) with the construct composite value. Hence, the results indicate an acceptable level of convergent validity. Discriminant validity was also demonstrated where the item-to-construct correlations are higher with each other than with other construct composite values (Loch et al., 2003).
+
+Using the PLS procedure, there are three criteria for evaluating the structural model:
+
+the variance explained (R2) for the endogenous variables;
+
+the redundancy which measures the power of exogenous variables to predict endogenous variables, and it is calculated as the product of the square of structural correlation and AVE (Ringle et al., 2005); and
+
+the predictive relevance of the model as estimated using the Stone-Geisser test (Geisser, 1975; Stone, 1974).
+
+First, the explained variance for the model was relatively good, as the model explains 65 per cent of the variance in strategic supplier management, 21 per cent of the variance in quality outcomes and 31 per cent of the variance in financial performance. Note that R2 values of 0.02, 0.15 and 0.35 are considered to demonstrate small, medium or large effects at the structural level (Chin, 2010). Second, the redundancy measure for each of the endogenous variables (strategic supplier management, quality outcomes and financial performance) was 0.11, 0.17 and 0.22, respectively, thereby supporting the prediction capability of the exogenous variables. Third, the predictive relevance of the model was evaluated using a blindfolding procedure to assess the model’s ability to reproduce the observed variables using two different types of prediction techniques: cross-validated redundancy (estimated using latent scores) and cross-validated communality (estimated using the latent variables). Here, the cross-validated redundancy for each of the three endogenous variables was 0.45, 0.18 and 0.26, respectively. Also, the cross-validated communality for these three endogenous variables was 0.70, 0.82 and 0.84, respectively. Note that a cross-validated redundancy Q2 above 0.50 is considered indicative of a highly predictive model (Chin, 2010). Given these results, there is evidence that the model had predictive relevance. Therefore, it is concluded that the structural model is well supported.
+
+While the PLS procedure does not explicitly offer significance test results (e.g. p-values) for the model parameters, a bootstrapping and resampling procedure were used to assess the significance of the path coefficient by evaluating 5,000 random samples of 308 original cases evaluated with substitutions (Henseler et al., 2009). The hypothesized model with results is shown in Figure 2 along with the standardized path coefficients. The statistical results seen in Table IV indicated that each of the antecedents had a significant effect on strategic supplier management. H1 was supported indicating a positive relationship between top management support and the management of strategic supplier relationships (β = 0.38, t-value = 6.33). H2 was supported indicating a positive relationship between technological preparedness and the management of strategic supplier relationships (β = 0.15, t-value = 2.47). H3 was supported indicating a positive relationship between trust and the management of strategic supplier relationships (β = 0.47, t-value = 8.39). For H4, the management of strategic supplier relationships was also found to have a significant relationship to quality outcomes (β = 0.46, t-value = 7.59). For H5, quality outcomes were found to have a significant relationship to financial performance (β = 0.23, t-value = 3.65). Finally, H6 was supported indicating a positive association between the management of strategic supplier relationships and financial performance (β = 0.41, t-value = 7.60).
+
+These results support each of the hypothesized relationships. Top management support, technological preparedness and relationship quality were all found to be positively related to managing strategic supplier relationships. Strategic supplier management was found to be positively related to quality outcomes and to financial performance. Quality outcomes and financial performance were also found to be related to each other. It should be noted that the quality outcomes and financial performance scales are based on perceptions by the managers of the retail firms. This is consistent with previous research where perceived measures are necessary as objective measures reported by the firm are not available to the researchers (Ailawadi et al., 2004; Dess and Robinson, 1984; Slater and Narver, 1994). The findings of the research supported the antecedents and outcomes of strategic supplier management that were developed from the literature review as well as the overall model of these relationships that was tested using SEM.
+
+This study has made a contribution to the marketing literature by, for the first time, identifying and testing the factors that contribute to the effective management of strategic supplier relationships. The contribution also stems from examining the outcomes of these strategic supplier relationships. Specific research that addresses these relationships was not previously reported, despite the importance of this area. The findings of the research have important implications for both theory and for managerial practice. In terms of theory, the literature indicated that top management support of the goals of an organization would contribute to its success (Van Egeren and O’Connor, 1998). This was confirmed by the linkage observed from top management support to effectively managed strategic supplier relationships and subsequent financial performance. Top management support was also seen in the literature to be related to the firm’s customer outcomes as well as to partner collaboration (Sandberg, 2007). Again, this was confirmed in the present research where top management support in combination with the management of strategic supplier relationships had a positive influence on quality outcomes that can be observed by the end-user. Technological preparedness was viewed in the literature to efficiently control operations and to contribute to favorable performance for the relationship partners (Richey et al., 2007; Wilson, 1995). The results again support these relationships as technological preparedness in conjunction with effectively managed strategic supplier partnerships improve customer quality outcomes and, in turn, positively influence the firm’s financial performance. Trust was identified in the literature as being related to the strength and length of a partnering relationship (Geyskens et al., 1998; Kumar and Van Dissel, 1996). The results of the present research support this relationship.
+
+Related to managerial practice, there are several implications that are directly related to the findings. A major implication pertains to the finding that the outcomes of the management of strategic supplier relationships were found to be beneficial for both the firm and its customers. Although various actions by management may lead to improved product and service quality outcomes, the notion that these improvements may occur due to better managed retailer–supplier relationships may not be as clear to managers. The findings of this research may bring this aspect into a more focused perspective. In a similar fashion, the notion of financial performance being improved by effectively managed retailer-supplier relationships may also be less visible to management than other possible actions. The results indicate that the time and effort spent in developing and fostering strategic supplier relationship does in fact improve the financial performance of the firm. Top management support and technological preparedness as specific preconditions are encouraged and justified to develop and foster strategic supplier relationships and their resulting positive outcomes. Trust is also important for management to possess as a precondition; however, it is important to note that it may also serve as a moderator or as an outcome of a strategic supplier relationship.
+
+This paper has made a contribution to the literature by identifying the influence of firm and partnering-related antecedents on the effective management of strategic supplier relationships and by indentifying the results of this process as measured by quality improvements for the customer and financial performance for the firm. Several areas for future research should be considered in light of the present work. This research was conducted using retailers as the basis for understanding strategic supplier relationships. The retailer was a valuable unit of analysis for the setting of this research as the role of the retailer is increasing in today’s competitive economy. However, future research can evaluate strategic supplier relationships from the perspectives of manufacturers or distributors.
+
+Although the antecedents considered in this research were based on the literature reviewed and were found to be significant, there is no doubt that other antecedents may also be considered in future research. The outcomes considered in the research relate to product and service quality improvements for the customer and impacts on the performance of the firm. Although these represent overall measures of customer and firm outcomes, there are other aspects of these outcomes that warrant future investigation. For example, what specifically are the dimensions of quality that are improved? How do these differ by products compared to services? Is it possible that there are negative outcomes related to the strategic supplier relationship process? What is the turning point where the trade-offs between increased managerial effort and associated product and service results become less desirable? How are the product and service benefits seen by the customer compared to the firm? Is it possible that the benefit threshold is different between customers and the firm?
+
+This research focused on the antecedents and outcomes of the management of strategic supplier relationships, not on the specifics dimensions of the relationship itself. Therefore, the research treated the effective management of strategic supplier relationships as a single formative construct (with three dimensions) that encompassed the overall selection and development of suppliers with the objective of mutual goals and shared success. Additional research is warranted that can examine strategic supplier relationships based on other possible dimensions related to this construct (Sarkis and Talluri, 2002). Future research may also be conducted to address the limitations of this research. One such limitation was that respondents were asked to provide perspectives from both their channel partners and end-users. To obtain a more complete picture of the strategic supplier partnering process, a dyadic perspective could be employed in both instances in future research. Despite these limitations, the research has examined and shown the value of an important area of business-to-business relationships that have major positive impacts on firms, their suppliers and customers.
+
+Hypothesized model
+
+SEM results
+
+Scale reliability
+
+Correlation analysis (with square root of AVE on the diagonal)
+
+Item-to-construct correlation matrix (formative construct)
+
+SEM results
+
+Eric P. Jack is the Associate Dean in the School of Business at the University of Alabama at Birmingham. He received his PhD from the University of Cincinnati. His research interests include operations strategy with special emphasis on flexibility, quality management and supply chain management. His research has been published in various journals including Journal of Operations Management, Production and Operations Management, Business Horizons, International Journal of Physical Distribution & Logistics Management and Journal of Services Marketing. His work experience includes 21 years as a US Air Force officer where his responsibilities at various international locations involved facility planning, design, construction and maintenance.
+
+Thomas L. Powers is Research Professor of Marketing in the School of Business at the University of Alabama at Birmingham. He received his PhD from Michigan State University. Prior to his academic career, he was a marketing manager with Ford Motor Company. He has published over 150 journal articles and conference proceedings and serves on a number of journal editorial boards. He has received several awards for teaching and research, and has been both an American Marketing Association and Academy of Management Doctoral Consortium Fellow. He has also been a Senior Fulbright Scholar, teaching and conducting research at the Pontifica Universidade Catolica in Rio de Janeiro, Brazil. Thomas L. Powers is the corresponding author and can be contacted at: tpowers@uab.edu
+
+Ailawadi, K.L. , Dant, R.P. and Grewal, D. (2004), “The difference between perceptual and objective performance measures: an empirical analysis”, Marketing Science Institute Working Paper Series No. 04-001.
+
+Anderson, E. and Weitz, B. (1992), “The use of pledges to build and sustain commitment in distribution channels”, Journal of Marketing Research , Vol. 29 No. 1, pp. 18-34.
+
+Anderson, J.C. and Narus, J.A. (1990), “A model of distributor firm and manufacturer firm working partnerships”, Journal of Marketing , Vol. 54 No. 1, pp. 42-58.
+
+Andraski, J. (1998), “Leadership and the realization of supply chain collaboration”, Journal of Business Logistics , Vol. 19 No. 2, pp. 9-11.
+
+Arnold, M. , Reynolds, K. , Ponder, N. and Lueg, J. (2005), “Customer delight in a retail context: investigating delightful and terrible shopping experiences”, Journal of Business Research , Vol. 58 No. 8, pp. 1132-1145.
+
+Autry, C. and Griffis, S. (2008), “Supply chain capital: the impact of structural and relational linkages on firm execution and innovation”, Journal of Business Logistics , Vol. 29 No. 1, pp. 157-174.
+
+Baier, C. , Hartmann, E. and Moser, R. (2008), “Strategic alignment and purchasing efficacy: an exploratory analysis of their impact on financial performance”, Journal of Supply Chain Management , Vol. 44 No. 4, pp. 36-52.
+
+Bollen, K.A. (1989), “Structural equations with latent variables”, Wiley Series in Probability and Mathematical Statistics , Wiley, New York, NY.
+
+Boyaci, T. and Gallego, G. (2004), “Supply chain coordination in a market with customer service competition”, Production and Operations Management , Vol. 13 No. 1, pp. 3-22.
+
+Braunsberger, K. , Wybenga, H. and Gates, R. (2007), “A comparison of reliability between telephone and web-based surveys”, Journal of Business Research , Vol. 60 No. 7, pp. 758-764.
+
+Campbell, D.T. and Fiske, D.W. (1959), “Convergent and discriminant validation by the multitrait-multimethod matrix”, Psychological Bulliten , Vol. 56 No. 2, pp. 81-105.
+
+Cannon, J.P. and Homburg, C. (2001), “Buyers-supplier relationships and customer firm costs”, Journal of Marketing , Vol. 65 No. 1, pp. 29-43.
+
+Chen, Y. and Huang, P. (2007), “Bi-negotiation integrated AHP in suppliers selection”, Benchmarking: An International Journal , Vol. 14 No. 5, pp. 575-593.
+
+Chin, W.W. (2010), “How to write up and report PLS analyses”, In Vinzi, V.E. , Chin, W.W. , Henseler, J. and Wang, H. (Eds), Handbook of partial least squares , Springer-Verlag Berlin, Heidelberg, pp. 655-690.
+
+Chin, W.W. and Todd, P.A. (1995), “On the use, usefulness and ease of use of structural equation modeling in MIS research: a note of caution”, MIS Quarterly , Vol. 19 No. 2, pp. 237-246.
+
+Cooke, E.F. (1986), “What is business and industrial marketing?”, The Journal of Business & Industrial Marketing , Vol. 1 No. 1, pp. 9-9.
+
+Cousins, P.D. , Handfield, R.B. , Lawson, B. and Petersen, K.J. (2006), “Creating supply chain relational capital: the impact of formal and informal socialization processes”, Journal of Operations Management , Vol. 24 No. 6, pp. 851-851.
+
+Cousins, P.D. and Menguc, B. (2006), “The implications of socialization and integration in supply chain management”, Journal of Operations Management , Vol. 24 No. 5, pp. 604-604.
+
+De Ruyter, K. , Moorman, L. and Lemmink, J. (2001), “Antecedents of commitment and trust in customer-supplier relationships in high technology markets”, Industrial Marketing Management , Vol. 30 No. 3, pp. 271-286.
+
+Dennis, J.M. (2001), “Are internal panels creating professional respondents?”, Marketing Research , Vol. 13 No. 2, pp. 34-38.
+
+Dess, G.G. and Robinson, R.B. (1984), “Measuring organizational performance in the absence of objective measures: the case of the privately held firm and conglomerate business unit”, Strategic Management Journal , Vol. 5 No. 3, pp. 265-273.
+
+Diamantopoulos, A. and Winklhofer, H.M. (2001), “Index construction with formative indicators: an alternative to scale development”, JMR, Journal of Marketing Research , Vol. 38 No. 2, pp. 269-277.
+
+Dwyer, R.F. , Schurr, P.H. and Oh, S. (1987), “Developing buyer-seller relationships”, Journal of Marketing , Vol. 51 No. 2, pp. 11-27.
+
+El-Ansary, A. and Robicheaux, R. (1974), “A theory of channel control: revisited”, Journal of Marketing , Vol. 38 No. 1, pp. 2-7.
+
+Fornell, C. and Bookstein, F. (1982), “Two structural equations models: LISREL and PLS applied to consumer exit-voice theory”, Journal of Marketing Research , Vol. 19 No. 4, pp. 440-452.
+
+Ganesan, S. (1994), “Determinants of long-term orientation in buyer-seller relationships”, Journal of Marketing , Vol. 58 No. 2, pp. 1-19.
+
+Gefen, D. and Straub, D. (2005), “A practical guide to validity using PLS-graph: tutorial and annotated example”, Comminications of AIS , Vol. 16 No. 25, pp. 91-109.
+
+Geisser, S. (1975), “The predictive sample reuse method with applications”, Journal of the American Statistical Association , Vol. 70 No. 350, pp. 320-328.
+
+Geyskens, I. , Steenkamp, E.M. and Kumar, N. (1998), “Generalizations about trust in market channel relationships using meta-analysis”, International Journal of Research in Marketing , Vol. 15 No. 3, pp. 1-21.
+
+Han, S-L. (1991), “Antecedents of buyer seller long-term relationships: an exploratory model of structural bonding and social bonding”, Unpublished dissertation , PA State University.
+
+Handfield, R. and Bechtel, C. (2002), “The role of trust and relationship structure in improving supply chain responsiveness”, Industrial Marketing Management , Vol. 31 No. 4, pp. 367-382.
+
+Heide, J.B. and Miner, A.S. (1992), “The shadow of the future: effects of anticipated interaction and frequency of contact on buyer-seller cooperation”, Academy of Management Journal , Vol. 35 No. 2, pp. 265-265.
+
+Henseler, J. , Ringle, C.M. and Sinkovic, R.R. (2009), “The use of partial least squares path modeling in international marketing”, Advances in International Marketing , Vol. 20, pp. 277-319.
+
+Huang, X. , Gattiker, T. and Schwarz, J. (2008), “Interpersonal trust formation during the supplier selection process: the role of the communication channel”, Journal of Supply Chain Management , Vol. 44 No. 3, pp. 53-75.
+
+Huffman, R.C. and Hegarty, W.H. (1993), “Top management influence on innovations: effects of executive characteristics and social culture”, Journal of Management , Vol. 19 No. 3, pp. 549-574.
+
+Jambulingam, T. , Kathuria, R. and Nevin, J. (2011), “Fairness-trust-loyalty relationship under varying conditions of supplier-buyer interdependence”, Journal of Marketing Theory and Practice , Vol. 19 No. 1, pp. 39-56.
+
+Jaworski, B. and Kohli, A. (1993), “Market orientation: antecedents and consequences”, Journal of Marketing , Vol. 57 No. 3, pp. 53-70.
+
+Kirca, A.H. , Jayachandran, S. and Bearden, W.O. (2005), “Market orientation: a meta-analytic review and assessment of its antecedents and impact on performance”, Journal of Marketing , Vol. 69 No. 2, pp. 24-41.
+
+Kohli, A.K. and Jaworski, B.J. (1990), “Market orientation: the construct, research propositions, and managerial implications”, Journal of Marketing , Vol. 54 No. 2, pp. 1-18.
+
+Kotzab, H. , Teller, C. , Grant, D.B. and Sparks, L. (2011), “Antecedents for the adoption and execution of supply chain management”, Supply Chain Management , Vol. 16 No. 4, pp. 231-245.
+
+Kumar, K. and Van Dissel, H. (1996), “Sustainable collaboration: managing conflict and cooperation in interorganizational systems”, MIS Quarterly , Vol. 20 No. 3, pp. 279-300.
+
+Kumar, N. , Scheer, L. and Steenkamp, J. (1995), “The effects of supplier fairness on vulnerable resellers”, Journal of Marketing Research , Vol. 32 No. 1, pp. 54-65.
+
+Lambe, C. , Spekman, R. and Hunt, S. (2000), “Interimistic relational exchange: conceptualization and propositional development”, Journal of the Academy of Marketing Science , Vol. 28 No. 2, pp. 212-225.
+
+Levy, M. and Grewal, D. (2000), “Guest editors’ overview of the issue supply chain management in a networked economy”, Journal of Retailing , Vol. 76 No. 4, pp. 415-429.
+
+Loch, K.D. , Straub, D. and Kamel, S. (2003), “Diffusing the internet in the Arab world: the role of social norms and technological culturation”, IEEE Transactions on Engineering Management , Vol. 50 No. 1, pp. 45-63.
+
+Lohmoeller, J.B. (1989), Latent Variable Path Modeling with Partial Least Squares , Physica-Verlag, Heidelberg.
+
+Mello, J. and Stank, T. (2005), “Linking firm culture and orientation to supply chain success”, International Journal of Physical Distribution & Logistics Management , Vol. 35 Nos 7/8, pp. 542-554.
+
+Moorman, C. , Zaltman, G. and Deshpande, R. (1992), “Relationships between providers and users of market research: the dynamics of trust within and between organizations”, Journal of Marketing Research , Vol. 24 No. 3, pp. 314-328.
+
+Morgan, N. and Piercy, N. (1998), “Interactions between marketing and quality at the SBU level: influences and outcomes”, Journal of the Academy of Marketing Science , Vol. 26 No. 3, pp. 190-209.
+
+Morgan, R. and Hunt, S. (1994), “The commitment-trust theory of relationship marketing”, Journal of Marketing , Vol. 58 No. 3, pp. 20-38.
+
+Palmatier, R.W. , Dant, R.P. and Grewal, D. (2007), “A comparative longitudinal analysis of theoretical perspectives of interorganizational relationship performance”, Journal of Marketing , Vol. 71 No. 4, pp. 172-194.
+
+Palmatier, R.W. , Gopalakrishna, S. and Mark, B.H. (2006), “Returns on business-to-business relationship marketing investments: strategies for leveraging profits”, Marketing Science , Vol. 25 No. 5, pp. 477-493.
+
+Petersen, K. , Handfield, R. , Lawson, B. and Cousins, P. (2008), “Buyer dependency and relational capital formation: the mediating effects of socialization process and supplier integration”, Journal of Supply Chain Management , Vol. 44 No. 4, pp. 53-65.
+
+Petter, S. , Straub, D. and Rai, A. (2007), “Specifying formative constructs in information systems research”, MIS Quarterly , Vol. 31 No. 4, pp. 623-656.
+
+Pollard, W. (2002), “Use of consumer panel survey data for public health communication planning: an evaluation of survey results”, American Statistical Association Proceedings of the Section on Health Policy Statistics , Alexandria.
+
+Richey, R.G. , Daugherty, P.J. and Roath, A.S. (2007), “Firm technological readiness and complementarity: capabilities impacting logistics service competency and performance”, Journal of Business Logistics , Vol. 28 No. 1, pp. 195-228.
+
+Rinehart, L.M. , Eckert, J.A. , Page, T.J.Jr and Atkin, T. (2004), “An assessment of supplier-customer relationships”, Journal of Business Logistics , Vol. 25 No. 1, pp. 25-62.
+
+Ringle, C.M. , Wende, S. and Will, A. (2005), “SmartPLS 2.0 (beta)”, available at: www.smartpls.de
+
+Sandberg, E. (2007), “Logistics collaboration in supply chains: practice vs theory”, International Journal of Logistics Management , Vol. 18 No. 2, pp. 274-293.
+
+Sarkis, J. and Talluri, S. (2002), “A model for strategic supplier selection”, Journal of Supply Chain Management , Vol. 38 No. 1, pp. 18-28.
+
+Siguaw, J. , Simpson, P. and Baker, T. (1998), “Effects of supplier market orientation on distributor market orientation and the channel relationship: the distributor perspective”, Journal of Marketing , Vol. 62 No. 3, pp. 99-111.
+
+Slater, F. and Narver, J.C. (1994), “Does competitive environment moderate the market orientation-performance relationship?”, Journal of Marketing , Vol. 58 No. 1, pp. 46-55.
+
+Smith, A.K. , Bolton, R.N. and Wagner, J. (1999), “A model of customer satisfaction with service encounters involving failure and recovery”, Journal of Marketing Research , Vol. 36 No. 3, pp. 356-372.
+
+Sparks, L. and Wagner, B. (2003), “Retail exchanges: a research agenda”, Supply Chain Management , Vol. 8 Nos 3/4, pp. 201-209.
+
+Stank, T. , Crum, M. and Arango, M. (1999), “Benefits of interfirm coordination in food industry supply chains”, Journal of Business Logistics , Vol. 20 No. 2, pp. 21-41.
+
+Stank, T. , Keller, S.B. and Daugherty, P.J. (2001), “Supply chain collaboration and logistical service performance”, Journal of Business Logistics , Vol. 22 No. 1, pp. 29-49.
+
+Stone, M. (1974), “Cross-validity choice and assessment of statistical predictions”, Journal of the Royal Statistics Society, Series B , Vol. 36 No. 2, pp. 111-147.
+
+Ting, S. and Cho, D. (2008), “An integrated approach for supplier selection and purchasing decisions”, Supply Chain Management , Vol. 13 No. 2, pp. 116-127.
+
+Tong, P. , Johnson, J.L. , Umesh, U.N. and Lee, R.P. (2008), “A typology of interfirm relationships: the role of information technology and reciprocity”, The Journal of Business & Industrial Marketing , Vol. 23 No. 3, pp. 178-192.
+
+Van Egeren, M. and O’Connor, S. (1998), “Drivers of market orientation and performance in service firms”, Journal of Services Marketing , Vol. 12 No. 1, pp. 39-58.
+
+Vickery, S. , Jayaram, J. , Droge, C. and Calantone, R. (2003), “The effects of an integrative supply chain strategy on customer service and financial performance: an analysis of direct versus indirect relationships”, Journal of Operations Management , Vol. 21 No. 5, pp. 523-539.
+
+Wathne, K. and Heide, J. (2000), “Opportunism in interfirm relationships: forms, outcomes, and solutions”, Journal of Marketing , Vol. 64 No. 4, pp. 36-51.
+
+Wathne, K. and Heide, J. (2004), “Relationship governance in a supply chain network”, Journal of Marketing , Vol. 68 No. 1, pp. 73-89.
+
+Weiss, B.A. and Jap, S.D. (1995), “Relationship marketing and distribution channels”, Journal of the Academy of Marketing Science , Vol. 23 No. 4, pp. 305-320.
+
+Williams, B. and Tokar, T. (2008), “A review of inventory management research in major logistics journals: themes and future directions”, International Journal of Logistics Management , Vol. 19 No. 2, pp. 212-232.
+
+Wilson, D.T. (1995), “An integrated model of buyer-seller relationships”, Journal of the Academy of Marketing Science , Vol. 23 No. 4, pp. 335-345.
+
+Wold, H. (1982), “Software modeling: the basic design and some extensions”, in Joreskog, , K.G. , Wold, and H. (Eds), Systems Under Indirect Observation (Part II) , North-Holland, New York, NY, pp. 1-54.
+
+Young, L. (2006), “Trust: looking forward and back”, The Journal of Business & Industrial Marketing , Vol. 21 No. 7, pp. 439-445.
+
+Xie, F.T. and Johnston, W.J. (2004), “Strategic alliances: incorporating the impact of e-business technological innovations”, The Journal of Business & Industrial Marketing , Vol. 19 No. 3, pp. 208-222.
+
+Managing strategic supplier relationships: antecedents and outcomes
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+1. Introduction
+
+2. Managing strategic supplier relationships
+
+3. Method and results
+
+4. Discussion
+
+5. Summary and directions for future research
+
+About the authors
+
+References
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Business & Industrial Marketing
+
+Volume 30 Issue 2
+
+Managing strategic supplier relationships: antecedents and outcomes
+
+Abstract
+
+1. Introduction
+
+2. Managing strategic supplier relationships
+
+3. Method and results
+
+4. Discussion
+
+5. Summary and directions for future research
+
+Marketing strategy
+
+Relationship management
+
+Supplier relationships
+
+Management
+
+Service quality
+
+Suppliers
+
+identifying and measuring the salient dimensions of strategic supplier management;
+
+empirically investigating the influence of antecedents (top management support, technological preparedness and trust) that contribute to supplier relationships; and
+
+identifying the customer- and firm-related outcomes (product and service quality and financial performance) of strategic supplier relationships.
+
+the factor loadings for each indicator with its intended factor is at least 0.4;
+
+for each factor, scale reliability is established with Cronbach’s alpha in excess of 0.70; and
+
+the average variance extracted (AVE) for each construct is greater than 0.50 (Gefen and Straub, 2005).
+
+the square root of each construct’s AVE is greater than its inter-construct correlations; and
+
+items loadings on their respective constructs are greater than their loadings on other constructs.
+
+the variance explained (R2) for the endogenous variables;
+
+the redundancy which measures the power of exogenous variables to predict endogenous variables, and it is calculated as the product of the square of structural correlation and AVE (Ringle et al., 2005); and
+
+the predictive relevance of the model as estimated using the Stone-Geisser test (Geisser, 1975; Stone, 1974).
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility

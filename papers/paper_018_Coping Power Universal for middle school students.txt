@@ -1,0 +1,325 @@
+ABSTRACT
+Introduction
+The present study examined the efficacy of the universal prevention version of the Coping Power Program in reducing behavioral and emotional problems and in promoting prosocial behaviors in middle-school classrooms.
+
+Methods
+The study used a randomized control study design; and the sample included 839 middle-school Italian youths (411 males), attending 40 middle-school classrooms. The students were in seventh or eighth grade, and they had an average age of 13.24 years (SD = .65; range 12–14 years). Ninety students were Africans, the rest were Caucasian. Teachers and parents completed the Strengths and Difficulties Questionnaire, before and after intervention. We used the 24-session universal prevention adaptation of Coping Power, which aims to improve children's emotional regulation and social problem-solving skills.
+
+Results
+Linear mixed models and effect sizes indicated that behaviors improved as a result of the Coping Power intervention. Specifically, the program was effective in reducing internalizing problems and increasing prosocial behaviors.
+
+Conclusions
+The Coping Power Universal effectively adapts an existing evidence-based program, and is believed to be a useful strategy also to improve social emotional skills in middle-school students.
+
+Highlights
+
+•We adapted Coping Power Universal for middle-school students.
+•The study involved 839 middle-school Italian youths.
+•The program was effective in reducing students' internalizing problems.
+•The program was effective in increasing students' prosocial behaviors.
+1. Introduction
+Early adolescence is an important window of opportunity in youths' development. Youths in middle school experience a wealth of biological, cognitive, social-emotional, and environmental changes (Roeser, Eccles, & Sameroff, 2000). Relentlessly, they turn themselves into young adults; their bodies start changing and their way of thinking too. Parents-child relationships may fester: youths aspire to be more independent and frequently engage in risky behaviors; on the other hand, parents want their children to be safe and require more self-regulation and discipline. Peers become some of the most important individuals in youths' lives, anyway establishing and maintaining friendships is not always easy. This is the period when they develop their knowledge, build interpersonal relationships, shape their psychosocial identities and forge their paths (Brown, 2004; Collins & Laursen, 2004a). Such malleability means that experiences during this period can influence numerous aspects of their development, including their psychological well-being and, consequently, opens the door to the possibility to intervene in this delicate developmental phase to fulfill youths’ needs and help them to build a positive life journey (Keating, 2011; Kim, Riser, & Deater-Deckard, 2011).
+
+In Italy, the site of this trial, youths attend the middle school from 11 years up to 14 years. In Italian middle school (scuola secondaria di primo grado) youths stay with the same class group every period, every day and for all the three years of middle school, with teachers moving from one classroom to another. School subjects and curricula are the same for all the class members. Usually, Italian youths attend the middle school located in their neighborhood. The transition to the middle school can be demanding for youths, who face multiple changes, including moving to a new school, classroom with larger groups of students, an increase in the number of teachers, with different teaching styles and expectations about their students' behavior, and the greater amount of studying (Eccles & Roeser, 2011).
+
+This delicate developmental phase can be hindered by several factors, including the emergence of behavioral problems in early adolescents themselves and/or in other schoolmates. Indeed, externalizing behavioral problems can increase during middle school (Fosco, Stormshak, Dishion, & Winter 2012), as well as internalizing ones (Rueger, Chen, Jenkins, & Choe, 2014). Externalizing behavioral problems are of particular concern at middle school where they may disrupt the school routine, inhibit learning and create interpersonal problems for those involved. They are associated with short and long-term adverse academic and psychological outcomes in youths (Schwartz, Lansford, Dodge, Pettit, & Bates, 2018). Moreover, minor forms of conduct problems can become more severe (Lewis et al., 2017), and schools that do not effectively prevent this growth may create a condition in which violence is normatively acceptable (Wittmer, Sinclair, Martin, Tucker, & Lang, 2013). Wang, Iannotti, and Nansel (2009) estimated that 21% of American middle school students were involved in physical aggression and 54% were involved in verbal aggression. In Italy, Longobardi, Prino, Fabris, and Settanni (2019), in a sample of 277 students found that 52% of them reported being a victim of physical aggression. This developmental period is of high interest also because it marks an important shift in the prevalence of internalizing problems. Although the peak onset of internalizing problems does not occur until the adult years, adolescence brings a marked increase in the incidence rates of these difficulties (Beesdo, Knappe, & Pine, 2009; Rudolph & Flynn, 2009). However, Longobardi, Settani, Prino, Fabris, and Marengo (2019) showed that a positive class climate and a good relationship with teachers could protect against increases in internalizing and externalizing problems in early adolescents.
+
+The Italian middle school curricula include some activities and some programs that aim to support the social-emotional competencies of students. Unfortunately, even if several interventions for middle-school classes are currently available worldwide (for a review see Hale, Fitzgerald-Yau, & Viner, 2014), and the Second Step middle-school program (see for instance, Espelage, Low, Polanin, & Brown, 2015) is one of the most prominent examples, Italy lacks the systematic implementation and evaluation of these interventions for middle-school pupils. That is why, in view of the fact that the Coping Power approach is well known in Italy, and several studies demonstrating the successful adaptation of the Coping Power Program as a universal prevention model in Italian nursery and primary schools (Muratori et al., 2015; 2016a,b; Muratori, Bertacchi, Giuli, Nocentini, & Lochman, 2017; Muratori et al., 2019a), we decided to develop a new version of the Coping Power Universal (CPU) for middle-school classes. The CPU provides teachers with a specific training to help them handle more efficiently difficult behaviors inside the school context and to foster the development and implementation of Social Emotional Skills.
+
+1.1. Coping Power Universal as a social emotional learning tool
+The importance of promoting both academic and personal development, including social and emotional skills, has been widely recognized. Social and emotional skills involve the processes that let individuals understand and manage emotions, show empathy to others, establish and achieve positive goals, and develop and maintain positive relationships. The Collaborative for Academic, Social, and Emotional Learning (CASEL, 2013) has identified five different social and emotional skills categories that reflect intrapersonal and interpersonal domains, specifically: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making. The Italian Ministry of Education (“Ministero dell’Istruzione, dell’Università e della Ricerca”) also recognized that these competencies are critical to being a good student. Indeed, the MIUR exhorts schools to focus on the cultural, emotional, social and relational harmonic development of each middle school student.
+
+The CPU aims to develop and improve youths’ social and emotional skills. We will present each social and emotional skill, as described by the CASEL and CPU activities that are intended to implement them.
+
+Self-awareness has been defined as the capacity to detect and label emotions and thoughts. It also includes the ability to understand that these events may influence one's behavior, as well as, the ability to assess strengths and limitations. Basically, self-awareness allows youths to know what they are feeling or thinking in a specific moment and create a realistic evaluation of their abilities, which is the base for the establishment of a positive sense of self-confidence. Module 2 of the CPU is specifically focused on emotion awareness. Throughout sessions, youths learn to identify behavioral, cognitive, and physiological features of several emotional states in both themselves and others. Moreover, Module 6 of the CPU exhorts youths to find out what their and schoolmates' qualities and strengths are.
+
+Self-management represents the ability to handle one's feelings, thoughts, and behaviors effectively within different life contexts (e.g., school, home, peer group). This lets emotions, thoughts, and behaviors, facilitate rather than interfere with one's tasks. It includes managing stress, delaying gratification, motivating oneself, and setting and working toward achieving personal and academic goals. Module 3 of the CPU is dedicated to self-control abilities. Activities aim to help youths to identify different coping strategies to manage their emotions and behaviors, with a specific focus on anger. Self-instructions, distraction, and deep/diaphragmatic breathing are some of the coping skills taught. Youths are invited to practice the strategies they learned, to find which one better addresses their needs.
+
+Social awareness involves the ability to take the perspective of and empathize with others, and sense what they are feeling. It also includes the capability to understand social and ethical norms for behavior, and to interact in a positive manner with different groups. As mentioned above, Module 2 focuses on emotion awareness and recognition and allows youths to better understand what other people feel. Moreover, Module 4 is specifically focused on implementing perspective-taking ability: a wealth of activities (e.g., illusion activities, pictures depicting ambiguous situations) are delivered to teach youths that situations can be seen from different points of view, that different persons may interpret differently the same event.
+
+Responsible decision-making pertains to make constructive and respectful choices about personal behavior and social interactions based on consideration of ethical standards, safety concerns, social norms, the realistic evaluation of consequences of various actions, and the well-being of self and others. Basically, it requires youths to make choices assessing risks, costs, and benefits of actions, to respect other people and to take responsibility for their decisions. During Module 5 sessions students are presented with a sequential problem-solving scheme, they learn to define a problem in resolvable steps and to find a solution based on its consequences. The problem-solving method is first applied to fictional characters, and then students use it to solve real problems raised in the school setting.
+
+Finally, relationship skills refer to the ability to establish and maintain positive and rewarding relationships with different individuals and groups. This involves communicating clearly, listening actively, cooperating, resisting inappropriate social pressure, negotiating conflict constructively, and seeking and offering help when needed. The problem-solving scheme described above is also applied to social relationships and to solve quarrels with schoolmates and peers, helping youths to negotiate conflict in a positive manner. Module 5 also includes activities to implement refusal skills.
+
+The CPU for middle-school students aims to improve students' emotional awareness and regulation and to improve students' ability to recognize and better understand others’ emotions and points of view and to cope with social conflict. We hypothesized that this program may foster the reduction of both externalizing and internalizing problems; and, at the same time, may promote the emergence of more prosocial behaviors in students. We expect these results, in part, because previous studies have showed that the Coping Power Program is capable of reducing externalizing, as well as internalizing problems, and of promoting more prosocial behaviors (Lochman, Powell, Boxmeyer, Ford, & Minney, 2014a; Muratori et al., 2016a, 2017, 2015). We aimed to test this hypothesis in a totally independent sample from the samples used in our previous studies.
+
+2. Method
+2.1. Participants and procedures
+The sample included 839 middle-school students (411 males), attending 40 middle-school classrooms, located in Italian urban context. The students were in seventh or eighth grade and had an average age of 13.24 years (SD = .65; range = 12–14 years). Ninety youths are Africans. Twenty-nine youths of the classes had an intellectual or sensory disability. Teachers involved in the project had a mean number of 10 years of experience with children. Randomization to the condition was performed at the classroom level, with half of the classrooms assigned to receive CPU, and the other half assigned to receive the usual personal, social, and academic curriculum taught in Italian middle schools. A total of 497 middle-school students attended classrooms assigned to the CPU condition. The randomization procedure was carried out after the entire group of participants had completed the baseline evaluation, and an independent researcher generated the allocation sequence. Although the control group appears to have been less impaired (see Table 2), there are no significant differences between experimental and control groups in Strengths and Difficulties Questionnaire baseline-scores, children's age, teachers' age, number of females, and the number of children with disabilities.
+
+Researchers provided information about the study to parents and students. They also obtained parents' and students' written consent for the assessment, intervention, and research data collection procedures. Parents were informed that, during the following school year, their children would receive the CPU or not. Parents were given the opportunity to opt their children out of the study; however, no parents asked that their children be excluded from participation. Parents were not informed of the randomly assigned condition of their children's classrooms.
+
+In October 2017, all 20 teachers of the CPU classes attended an initial 12-h training course. One teacher implements the program, usually he/she primarily teaches Italian literature and language. Teachers implemented the program from November 2017 to April 2018. At the end of the program, teachers of control classrooms were interviewed to verify that they had not received information about the intervention. Complete data at both time points were obtained for 805 students (4.1% attrition). Informed consent was obtained from all students included in the study and their parents. The procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1964, and its later amendments or comparable ethical standard.
+
+2.2. Measures
+Teachers and parents completed a baseline assessment in September 2017 (T1) and a post-intervention assessment in May 2018 (T2). Teachers and parents completed the Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997), Italian validated version (for the norms of the SDQ in Italian populations see Tobia, Gabriele, & Marzocchi, 2011). The SDQ is a 25-item questionnaire that assesses for behaviors associated with (1) conduct problems (e.g., bullying), (2) hyperactivity (e.g., squirming), (3) emotional symptoms (e.g., worrying), (4) peer problems (e.g., not liked by other children), and (5) pro-social behavior (e.g., helping) in children ages 4–16. The SDQ uses a Likert-type scale from 0 to 2. In accordance with Goodman, Lamping, and Ploubidis (2010), the two factors (internalizing and externalizing) were considered as outcomes for the SDQ. For each of the 2 factors, the score can range from 0 to 20 if all items are completed. Higher scores mean more behavioral problems. The current study also used prosocial behaviors SDQ scale as outcome measure, the score can range from 0 to 10. High scores mean more prosocial behaviors. The Cronbach's alpha for these scales are: .83 for internalizing, .82 for externalizing, and .88 for prosocial behaviors of SDQ teacher reported; and .81 for internalizing, .82 for externalizing, and .85 for prosocial behaviors of SDQ parent-reported.
+
+2.3. Teacher training
+Classroom teachers, after undergoing a 12 h training, delivered the CPU intervention. The trainers were two school psychologists with several years of experience in teacher training and in delivering Coping Power in school settings. The CPU trainers also provided teachers with active supervision during the implementation of the program. Throughout the training, the CPU trainers explained the theoretical framework of the program and its experimental evidence to teachers and demonstrated the activities that characterized every session. The main techniques used during the workshop were brainstorming and role-playing. Additionally, once a month teachers attended 2-h supervision, during which they had the opportunity to reflect on former and further sessions, and discuss how to solve difficulties found when delivering the CPU. Teachers had to attend at least 90% of the planned supervision meetings. The training provided by the school psychologists was mandatory for teachers in the CPU classes and they were considered eligible for intervening only after completing it.
+
+2.4. Intervention adherence
+The CPU handbook offered a clear description of the purposes and activities of every session. Following every lesson, teachers had to complete a checklist, in order to report their degree of implementation of the CPU activities and to record youths' involvement. In order to determine whether teachers themselves correctly understood the principles underpinning the activity delivered, teachers completed a questionnaire. For example, after a session focused on the presentation of the “anger thermometer”, teachers were asked to explain why recognizing three levels of anger is so important for students. The questionnaire regarding all CPU sessions included 72 items, each item having 4 options (1 choice was correct). A certified CPU supervisor reviewed teachers' responses assigning 1 point to each correct teachers’ response. The mean of this fidelity score was 66 (SD = 4).
+
+2.5. Intervention
+The Coping Power Program, in its original form, is an evidence-based targeted prevention intervention that has yielded positive results with students at risk of developing behavioral problems, and with children diagnosed with disruptive behaviors (Lochman et al., 2014b; Lochman & Wells, 2002; Zonnevylle-Bender, Matthys, & Lochman, 2007). Six years ago we discussed with John Lochman, who co-developed the original version of Coping Power, about the potential for adapting the child component of the program as a universal prevention program. We followed these basic principles during the adaptation process: the contextual social-cognitive model guided the selection of targets of both version of the Coping Power; the universal program included the same set of principles, and the same set of practices and activities as the original version. However, the Coping Power Program in its original version includes structured activities for small groups of 6–8 children; consequentially, we had to modify several activities to make them applicable to a class of 20–25 students. We made also some cultural adaptation for the CPU (see Muratori et al., 2017 for a detailed description of all these adaptations).
+
+In view of several studies demonstrating the successful adaptation of the Coping Power Program as a universal prevention model in Italian nursery and primary schools (Muratori et al., 2015; 2016a,b; Muratori et al., 2017; Muratori et al., 2019b), a new version of the Coping Power Universal has been developed, in order to be implemented in middle-school classes. It relies on the same theoretical model, principles, and techniques of the CPU for primary schools, but the activities have been modified to be developmentally appropriate for the older age group.
+
+The CPU for middle school involves the same six modules of the primary school version of the CPU, but they have been adapted to permit their implementation in the Italian middle-school routine. In addition to the six modules, a preliminary unit has been added as an introduction to key aspects of the program. During each modules the lessons focus on: the achievement of short and long-term goals (Module 1), the implementation of feelings awareness (Module 2), emotional regulation (Module 3), perspective-taking abilities (Module 4), problem solving skills (Module 5), and the promotion of interaction with positive schoolmates (Module 6). The middle school program has the same basic structure as CPU for primary schools: it involves the use of a story as a guide throughout the program's module, the use of didactic and experience-based activities, and the establishment of a behavioral contract agreed with pupils.
+
+The aims of CPU for middle school are the same as those of the CPU version for primary school; however, we adapted several activities of the CPU for primary schools to make them more consistent with youths' needs. First of all, as the increase in peer problems during early adolescence may, in part, be due to the increased emphasis on peer relations, we created a story about five youths who struggle with peer issues. The story, entitled “We are a group”, talks about these guys who are classmates and want to become a rock-band. They have a goal: playing at the party for prom. The guys will soon face the difficulties of becoming a rock band since disagreements emerge between the various personalities and some dynamics hamper the life of the group. The characters of this story will cope with these difficulties. In contrast to the primary school program, in which the program's story has a single main character, in the middle school program the story “We are a group” includes 5 main characters, to also encourage each student to identify with one of those. The teacher read the story during class-time, and it serves to introduce the program's modules. The program includes several activities, from brainstorming (circle time), to written re-elaboration, and experiential activities (role-playing, simulate, exercises, etc.). A key aspect of the middle-school program is that students themselves conduct parts of these activities. Substantial changes have been made also in the goal sheet technique. Students themselves choose their weekly goals, which are set for their potential contribution to a better climate in the classroom. See Table 1 for a detailed description of the intervention.
+
+Table 1. Description of the Coping Power Universal for middle schools.
+MODULES	SESSIONS	GOALS	STORY	ACTIVITIES
+Opening Module
+
+Building Group Cohesion
+
+SEPTEMBER
+
+Session 1
+
+Presentation of the program structure
+
+Illustration of the main activities of the program: Reading the story, social skill training, monitoring monthly goals and multidisciplinary school activities related to the topics of each module
+
+Knowing the characters of the story “We are a group”
+
+Engaging students in an activity to build group cohesion
+
+Chapter 1–9
+
+The characters of the story “We are a group” are presented: five adolescents who want to create a rock band and have to face the audition at school
+
+Activities to build group cohesion
+
+Activities to present the general purpose and structure of the program
+
+Module 1
+
+Group structure and behavioral goal setting procedure (long-term and short-term goals)
+
+OCTOBER
+
+Sessions 2-3
+
+Describing the process of personal goal settings
+
+Reviewing progress in achieving goals
+
+Introducing the “buddy system”
+
+Reinforce understanding of the process of goal setting
+
+Chapter 10
+
+The guys realize that it is not easy to become a group: they decide to set themselves a goal for the group and personal goals to improve their behavior in the group context
+
+Establishment of classroom rules
+
+Establishment of rules for the goal-setting procedure
+
+Goal sheets of all students are described in a poster placed in the classroom
+
+Group prizes setting
+
+Module 2
+
+Awareness of feelings and physiological arousal related to anger
+
+NOVEMBER
+
+Sessions 4-5-6
+
+Identifying the behavioral, cognitive and physiological components of various emotional states
+
+Identifying various cues of anger and other feelings
+
+Identifying different levels of anger and other feelings
+
+Chapter 11–12
+
+The guys begin to talk about their emotions and the ways they can express them, starting with a boy who has a lot of fear and can't express his anger. The guys recognize that expression of feelings may be difficult
+
+Discussion and role-play concerning identification of different feeling states and emotional triggers
+
+Discussion about how can be difficult to express feelings and feelings normalization
+
+Module 3
+
+Anger and self-control
+
+DECEMBER, GENUARY, FEBRUARY
+
+Sessions 7-8-9-10-11
+
+Identifying different methods of coping with anger and other feelings
+
+Practicing with anger coping/self control
+
+Practicing with self-instruction and distraction as coping skills
+
+Encouraging generalization of this skill to the classroom
+
+Teaching self-control through deep breathing
+
+Chapter 13–14
+
+A quarrel takes place inside the group and a girl in a burst of anger attacks the others and breaks a guitar; then she apologizes with the others and explains how many bad things happened that day: the other guys give her advice to manage the anger
+
+Brainstorming activities to find strategies to cope with anger
+
+Activities concerning anger coping/self control; self-talk or self-statements exercises; deep/diaphragmatic breathing exercise
+
+Module 4
+
+Perspective-taking
+
+MARCH
+
+Session 12-13-14-15
+
+Establishing the concept of perspective taking
+
+Identifying different perspectives of a situation
+
+Applying perspective taking to a social situation
+
+Chapter 15
+
+The proposal of a member of the group to bring changes to the musical piece, provokes an aggressive reaction from another guy in the group who, however, will later try to see things from another perspective. This episode helps group members to understand that situations can be seen from different points of view
+
+Perspective taking exercises
+
+Exercises with a picture that depicts an ambiguous conflictive situation
+
+Observation of some situation in the school context from different points of view, “Why Did this Happen?” exercise
+
+Brief role-play having each group member portray a character in the story
+
+Module 5
+
+Social problem solving and refusal skills
+
+APRIL
+
+Session 16-17-18-19-20-21-22
+
+Identifying the Problem-Solving steps
+
+Defining a problem in solvable steps
+
+Discussing ways of resisting peer pressure and sharpening refusal skills
+
+Chapter 16–17
+
+Two guys in the group disagree on a decision taken by the group, but they say they agree. Then they find the courage to express dissent and with the whole group they manage to solve the problem. The boys reflect on ways to express dissent and resist peer pressure
+
+Problem-solving exercises related to characters of the story
+
+Exercises for problem identification and solutions generation
+
+Exercises for the identification of consequences of solutions and their evaluation
+
+Exercises for the implementation of refusal skills
+
+Module 6
+
+Positive Quality Development and Peer Relationship
+
+MAY
+
+Session 23-24
+
+Identifying personal strengths and how these strengths help when joining in positive peer activities and groups	
+Chapter 18–19–20
+
+The boys reflect on the path they made to become a group and on the qualities and strengths of each member.
+
+The children think about positive qualities and strengths of their classmates
+
+Strength “Bombardment”
+
+Table 2. Descriptive statistics for the students’ variables.
+Teachers reports
+
+(N = 805)
+
+Parent reports
+
+(N = 730)
+
+Experimental M (SD)	Control M (SD)		Experimental M (SD)	Control M (SD)
+Internalizing T1	3.32 (3.13)	2.65 (3.33)	Internalizing T1	3.66 (3.10)	3.40 (3.02)
+Internalizing T2	2.74 (2.92)	2.61 (2.89)	Internalizing T2	3.29 (2.84)	3.72 (3.11)
+Externalizing T1	4.08 (4.42)	3.31 (4.13)	Externalizing T1	4.46 (4.08)	4.01 (3.24)
+Externalizing T2	3.53 (3.92)	3.02 (3.70)	Externalizing T2	3.81 (3.46)	3.88 (3.24)
+Prosocial T1	6.85 (2.55)	6.98 (2.61)	Prosocial T1	8.07 (1.94)	8.48 (1.91)
+Prosocial T2	7.53 (2.34)	6.74 (2.78)	Prosocial T2	8.69 (1.90)	8.55 (1.83)
+The intervention was delivered during the school day. The CPU for middle school manual provides the structure and activities for each lesson; however, teachers were encouraged to adjust the level of presentation and amount of practice as dictated by the developmental level of each class. Teachers were also encouraged to generalize their use of CPU concepts across the school day, and we created a set of school materials inspired by CPU to allow teachers to reinforce program concepts. These flexible implementation strategies enhance the integration of CPU into daily middle school activities. It is important to note that CPU does not include a parent component.
+
+We compared the effects in the CPU classes with those in business-as-usual classes. These middle school classes received the standard school curriculum provided in Italian schools. No structured SEL interventions were addressed in the control classes.
+
+2.6. Analyses
+Hypotheses were tested in SPSS with linear mixed-effects models (MIXED) with full-information maximum likelihood (ML) estimation (West, 2009). The analysis featured a fourth-level (measurement occasion within individuals within classes, within schools) random-intercept model, to account for within-subjects correlations, within-class correlations, and within-school correlations. Analyses tested whether CPU affected significantly the change across time of the outcomes. The main CPU effect was tested across the whole sample and the slope within each sample was then calculated together with effect size estimates. Effect size estimates (ES) from pretest-posttest-control group designs were calculated following suggestions from Morris (2008). In particular, the results from the Morris study favored an effect size based on the mean pre-post change in the treatment group minus the mean pre-post change in the control group, divided by the pooled pretest standard deviation, according to the definition of Carlson and Schmidt (1999). The ES by Morris (2008) are interpreted in the same way as Cohen's (1988). All analyses were conducted within SPSS 25 with the significance level set at .05.
+
+3. Results
+3.1. Intervention effects
+In the analyses of teachers’ reports, results indicate significant interactions of group by time for SDQ internalizing scale and prosocial behaviors (see Table 3). As detailed by the descriptive statistics in Table 2, scores in the internalizing area decreased across time in the CPU group, and the prosocial behavior scores increase in this group.
+
+Table 3. Mixed Model predicting change in students’ outcomes as reported by teachers.
+Internalizing	Externalizing	Prosocial
+B (SE)	P	B (SE)	P	B (SE)	P
+Intercept	2.725 (.436)	.000	3.21 (.427)	.000	7.19 (.416)	.000
+Time	-.034 (.174)	.842	.122 (.199)	.540	-.174 (.135)	.199
+Experimental group	.024 (.553)	.966	.356 (.541)	.515	.252 (.528)	.635
+Time BY Experimental group	.621 (.214)	.004	.440 (.245)	.072	-.505 (.166)	.003
+Subjects: Random intercept	3.449 (.309)	.000	9.719 (.648)	.000	1.806 (.166)	.000
+Classrooms: Random intercept	2.394 (.605)	.000	1.896 (.575)	.000	2.329 (.561)	.000
+Note. Statistically significant results (p < .05) from the deviance tests for the fixed effects and from the Wald tests for the random effects are in boldface.
+In the analyses of parents’ reports, results indicate significant interactions for group by time SDQ internalizing and externalizing scales and prosocial behaviors (see Table 4). Each of these outcomes decreased across time for the CPU group (see Table 2), except for the pro-social behavior scores that increase in the CPU group.
+
+Table 4. Mixed Model predicting change in students’ outcomes as reported by parents.
+Internalizing	Externalizing	Prosocial
+B (SE)	P	B (SE)	P	B (SE)	P
+Intercept	3.744 (.311)	.000	3.872 (.297)	.000	8.548 (.172)	.000
+Time	-.316 (.186)	.090	.121 (.194)	.533	-.065 (.124)	.602
+Experimental group	-.394 (.415)	.350	-.006 (.399)	.987	.135 (.231)	.561
+Time BY Experimental group	.688 (.253)	.007	.533 (.263)	.043	-.545 (.169)	.001
+Subjects: Random intercept	3.735 (.387)	.000	7.075 (.594)	.000	1.368 (.156)	.000
+Classrooms: Random intercept	.768 (.293)	.009	.499 (.275)	.069	.195 (.090)	.030
+Note. Statistically significant results (p < .05) from the deviance tests for the fixed effects and from the Wald tests for the random effects are in boldface.
+3.2. Effect size estimation
+Table 5 presents the intervention effect sizes considering the pre-post test and the two groups. Except for prosocial, the effect sizes for the teacher-rated outcomes are small. The effect sizes for the parent-rated outcomes are from small (internalizing scale) to moderate (prosocial scale). The effect size for externalizing behavior is very small.
+
+Table 5. Effect size estimates.
+ES
+Teachers
+Internalizing	.17
+Externalizing	.06
+Prosocial	.36
+Parents
+Internalizing	.23
+Externalizing	.14
+Prosocial	.28
+Note. ES = Effect size from Pretest-Posttest-Control Group Design (Morris, 2008).
+4. Discussion
+The present study sought to test the efficacy of the CPU for middle schools in reducing youths’ emotional and behavioral problems, as well as in increasing their prosocial behaviors. Students in the CPU condition, compared to those in the control group, showed a reduction in internalizing problems as well as an improvement in prosocial behaviors in both home and school contexts. Moreover, parents noticed a small improvement in externalizing problems for CPU students.
+
+Schools play a crucial role in promoting the development of children and adolescents by fully equipping them for their future. To fulfill this role schools should not limit their focus to the regular academic program and fostering students' social and emotional skills should be considered a core task of school systems. To meet these demands, several programs addressing social and emotional development have been created and introduced into schools' curricula. Globally, studies showed that alongside their main effects on social and emotional competences (Weare & Nind, 2011), these interventions also yield significant indirect effects, such as reduction of anxiety and depression (see for instance Durlak, Weissberg, Dymnicki, Taylor, & Schellinger, 2011), prevention of conduct problems and aggressive behavior (Wilson & Lipsey, 2007), improved attitudes toward school and enhanced school achievements (Payton et al., 2008; Wilson & Lipsey, 2007) and promotion of positive or prosocial behavior (Durlak et al., 2011; Payton et al., 2008). Moreover, studies stated that SEL interventions are usually equally successful at all educational levels (Durlak et al., 2011), thus they might represent an important tool in middle schools too. Although, the original version of the Coping Power was originally developed for children with aggressive behaviors, more broadly the CPU for middle school aims to foster the development and implementation of youths’ social and emotional skills.
+
+The CPU activities are set up to improve students' emotional awareness and regulation and, at the same time help them to find more effective strategies to handle problems and challenging situations. Furthermore, the CPU for middle school sought to improve students' ability to recognize and better understand others' emotions and points of view and to cope with social conflict. On one hand this may foster the reduction of internalizing problem and, at the same time, promoting the emergence of prosocial behaviors and the establishment of positive relationships between classmates, changing the entire classroom environment. Previous studies has also showed that the original version of the Coping Power Program may have significant effects not only on externalizing problems, but in internalizing ones, too (Lochman et al., 2014a). The current findings were also consistent with previous ones suggesting the positive potential of the CPU in promoting prosocial behaviors in nursery and primary schools (Muratori et al., 2016a, 2017, 2019b, 2015). Considering that adolescents spend most of their times at school, and its potential role in supporting (or weakening) their development, these findings are promising. Adolescents’ adjustment is related to the nature of the context that they experience, and an environment ruled by aggressive and disruptive behaviors may inhibit learning and create interpersonal problems. On the contrary, a more positive climate, characterized by cohesion and cooperation, can bring beneficial effects and foster youth development and learning. Studies showed that a positive school environment is related to higher self-esteem, fewer behavioral and emotional problems, and better academic achievements (for a review see, Ryan & Patrick, 2001).
+
+Middle school years represent a compelling, but delicate developmental phase for adolescents. Youths have to face a wealth of changes and transitions, including more independence from parents and increased intimacy with peers (Collins & Laursen, 2004b); all these challenges make them more vulnerable to the development of psychological problems, such as depression (Saluja et al., 2004), behavioral problems (Fosco et al., 2012), and substance use (Wang, Dishion, Stormshak, & Willett, 2011). The Coping Power contains a number of features, including contingency management, personal goal setting, emotional awareness and regulation, perspective taking, and social problem solving which may prevent a wide range of different difficulties. However, we did not find specific intervention effects on externalizing behavioral problems in the school context. Other school-based interventions appeared to be effective in reducing aggressive and disruptive behaviors in youths (Conduct Problems Prevention Research Groups, 2010; Kellam et al., 2008). One prominent example is the Second Step middle-school program (Espelage et al., 2015), which is a violence-prevention curriculum created to reduce the development of social, emotional, and behavioral problems. The CPU intervention and the Second Step curriculum share several features, such as the focus on social and emotional competencies, though the latter one also involves a “Family Overview Video” to engage parents’ support, whilst the CPU program does not include a parent component. Also the original Coping Power includes a parent component, and it showed significant effects in reducing externalizing behavioral problems (Lochman & Wells, 2002). We can speculate that in order to be effective in reducing externalizing behavioral problems, an intervention should include activities for students and parents.
+
+Interestingly, the CPU seems to effectively transfer students' improvements in the home context for all outcomes. Improvements in parent perceptions are notable given that this is not typically seen for comparable interventions without a direct parent intervention component. Perhaps the students’ improvements in social competence influenced their behavioral adjustment in school, as well as, in home context (Bornstein, Hahn, & Haynes, 2010). However, we need studies with more specific measures of social competencies to confirm this speculation.
+
+Overall, these findings suggest that the Coping Power provides youths with useful strategies, which do not remain anchored to the school context: they become part of their background and can be used anytime they need to. However, while post-intervention assessment is important to assess immediate impact, we did not administer further follow-up assessments. Future studies, collecting long-term follow-up data would be a strong indication of maintenance of these effects.
+
+4.1. Limitations and implications of the findings
+Strengths of the current trial are the use of a randomized controlled trial method, and applying a multi-informant approach to assess the broader impact of the program; however, the study also has several limitations. Our study was limited to one follow-up point (immediately following the intervention), and it is unclear whether our findings would dissipate over a longer follow-up period or hold up. Other limitation of the current study is related to the lack of blindness in one of the sources of data (teacher's reports). We also believe more work is needed to better understand the mechanisms by which the interventions were effective in improving students' behavior. We focus on the efficacy of the intervention in this paper. Further work is necessary to examine how the interventions work. We also did not include an evaluation of other factors, which may have influenced children's outcomes such as the teacher, youth and parent characteristics (Lochman et al., 2009; Pisano et al., 2017). Finally, we did not collect objective information about teachers' adherence in implementing the program. Teachers scored very highly on intervention knowledge questionnaire, but there is no evidence to suggest that knowledge might be associated with adherence or quality delivery.
+
+Considering the aforementioned limitations, and also considering that the effect size are small (except for prosocial SDQ scale), the current study has some implications for school and prevention fields. In the CPU, teachers deliver the intervention activities: this method of implementation might be considered a promising procedure whereby, after being trained in an intervention program, teachers are better able to reinforce emerging improvements in their students’ skills during typical school day activities. Further, teachers can apply the intervention with future classes without incurring additional training costs for the school. It also appears that CPU can be successfully implemented at different educational levels (Muratori et al., 2016b, 2019a); these multiple levels of intervention could reduce the expenditure of resources that might have been used for the adoption of multiple programs (Tilly, 2008). Overall, using an experimental design in Italian middle schools, we have provided preliminary evidence that indicates that CPU can be effective in reducing emotional and behavioral problems in middle school students. These results are encouraging and offer support to our contention that multiple levels of lessons, activities and pedagogy can be effective with students in middle school. Although preliminary, our findings are particularly intriguing because our program can be implemented with very few extra costs to schools.
+
+Ethical approval
+The authors assert that all procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1964, and its later amendments or comparable ethical standard.

@@ -1,0 +1,628 @@
+Effects of the Cyberbullying Prevention Program Media
+Heroes (Medienhelden) on Traditional Bullying
+Enrique Chaux1
+*, Ana Marıa Velasquez  2
+, Anja Schultze-Krumbholz3
+, and Herbert Scheithauer3
+1
+Department of Psychology, Universidad de los Andes, Bogota, Colombia  2
+Center for Research in Education-CIFE, Universidad de los Andes, Bogota, Colombia  3
+Department of Education and Psychology, Freie Universitat Berlin, Berlin, Germany €
+..................... .................... ..................... .................... There is considerable debate over whether cyberbullying is just another form of bullying, or whether it is a problem distinct
+enough to require specific intervention. One way to explore this issue is to analyze whether programs designed to prevent
+traditional bullying help prevent cyberbullying, and whether programs designed to prevent cyberbullying prevent traditional
+bullying. The main goal of the current study was to analyze the spillover effects of the cyberbullying prevention program Media
+Heroes (Medienhelden) on traditional bullying. Media Heroes promotes empathy, knowledge of risks and consequences, and
+strategies that allow bystanders to defend victims from cyberbullying. Mixed ANOVAs were conducted comparing pretest and
+post-test (6 months after intervention) measures of 722 students (ages 11–17) assigned to a long (15 sessions) intervention, a short
+(1 day) intervention, and a control group. In addition to confirming the previously reported effects on cyberbullying, Media
+Heroes was found to reduce traditional bullying. Effects were larger for the long-version of the program than for the short 1-day
+version. No effects were found on victimization by either cyberbullying or traditional bullying. Strategies to complement
+traditional and cyberbullying prevention efforts are discussed. Aggr. Behav. 42:157–165, 2016. © 2016 Wiley Periodicals, Inc.
+..................... .................... ..................... ....................
+Keywords: traditional bullying; cyberbullying; program evaluation; school-based prevention; Media Heroes
+INTRODUCTION
+As cyberbullying became the subject of academic
+analyses, a question has been raised about whether it
+should be considered as just another form of bullying, or
+whether it is a problem with distinctive characteristics
+and dynamics. On the one hand, cyberbullying has some
+specific characteristics which may differentiate it
+qualitatively from traditional bullying (Campbell,
+2005; Slonje & Smith, 2008; Suzuki, Asaga, Sourander,
+Hoven, & Mandell, 2012; Tokunaga, 2010; Ybarra &
+Mitchell, 2004)1
+. For instance, due to the physical
+distance associated with cyberbullying, it may be more
+difficult to generate empathy toward the potential victim.
+Also, the option of anonymity could lead to more severe
+levels of aggression. From the victim’s point of view, the
+experience can seem harsher as offenses are quickly
+observed by a much larger audience, are present all day
+and every day, and may be perceived as a situation
+without escape. On the other hand, several studies have
+shown that victims of cyberbullying tend to be victims of
+traditional bullying (Katzer, Fetchenhauer, & Belschak,
+2009a; Olweus, 2012; Raskauskas & Stoltz, 2007), and
+that cyberbullies tend to be traditional bullies (Katzer,
+Fetchenhauer & Belschak, 2009b; Li, 2007; Olweus,
+2012; Raskauskas & Stoltz, 2007). However, not all
+studies have found this co-occurrence between cyberbullying and traditional bullying. In particular, based on
+an online survey, Ybarra, Diener-West, and Leaf (2007)
+found that only 37% of those who were victimized
+electronically during the last month had also been
+Contract grant sponsor: European Commission; contract grant number:
+JLS/2008/DAP3/AG/1211-30-CE-0311025/00-69 (DAPHNE III).
+Conflict of interests: The third and fourth authors were some of the
+leaders in the development of the Media Heroes program. The first
+author has been involved in the adaptation and replication of the program
+in other cultural contexts.
+Correspondence to: Enrique Chaux, Department of Psychology,
+Universidad de los Andes, Carrera 1 E # 18A-70, Bogota, Colombia.
+E-mail: echaux@uniandes.edu.co
+Received 24 November 2014; Revised 13 October 2015; Accepted 22
+October 2015
+DOI: 10.1002/ab.21637
+Published online in Wiley Online Library
+(wileyonlinelibrary.com).
+1
+We use the term “traditional bullying” instead of the commonly used
+term “face-to-face bullying” since traditional bullying includes relational
+or indirect aggression, which are usually not face-to-face (Archer &
+Coyne, 2005).
+AGGRESSIVE BEHAVIOR
+Volume 42, pages 157–165 (2016)
+© 2016 Wiley Periodicals, Inc.
+victims of bullying at school. To date, there is still no
+agreement on whether cyberbullying is a different entity
+from traditional bullying.
+Risk factors for cyberbullying and traditional bullying
+might be similar. For instance, lack of empathy has been
+shown among cyberbullies (Pfetsch, M€uller, & Ittel,
+2014; Renati, Berrone, & Zanetti, 2012; SchultzeKrumbholz & Scheithauer, 2009, 2013; Steffgen, K€onig,
+Pfetsch, and Melzer, 2011), as well as among traditional
+bullies (Chaux, Molano, & Podlesky, 2009; Decety,
+Michalska, Akitsuki, & Lahey, 2009; Endresen &
+Olweus, 2001). Those showing low levels of empathy
+might be at risk for participating in both cyber and
+traditional bullying.
+Peer dynamics observed in traditional bullying might
+also be present in cyberbullying situations. Specifically,
+traditional bullying has been shown to occur in a social
+context where bystanders are present (Atlas & Pepler,
+1998; Craig & Pepler, 1997) and can play different
+roles (Salmivalli, Lagerspetz, Bj€orkqvist, Osterman, & €
+Kaukiainen, 1996). Peers can contribute to the maintenance or escalation of aggression if they actively
+reinforce the bullying or if they remain passive without
+intervening (O’Connell, Pepler & Craig, 1999). They
+can also stop the bullying when they intervene on behalf
+of the victim (Hawkins, Pepler & Craig, 2001). These
+same roles seem to be present in cyberbullying situations
+and participant roles seem to coincide. For example,
+Wachs (2012) found that 59.2% of defenders, 63.4% of
+passive bystanders, and 63.6% of assistants of cyberbullying were also defenders, passive bystanders, and
+assistants of traditional bullying, respectively.
+The debate about whether traditional bullying and
+cyberbullying are different phenomena is crucial for
+deciding whether the same strategies that have been
+shown to be effective in the prevention of traditional
+bullying should also be implemented to prevent
+cyberbullying, or whether new strategies are needed.
+One way to tackle this issue is to test whether
+interventions designed to prevent traditional bullying
+prevent cyberbullying, and whether interventions designed to prevent cyberbullying prevent traditional
+bullying. Williford et al. (2014) tested the former of
+these options and found that KiVa, a school-based
+program that seeks to prevent traditional bullying,
+mainly by promoting empathy and involvement among
+observers of bullying situations, was able to reduce
+cyberbullying and cybervictimization after a year of
+implementation. Garaigordobil and Martınez-Valderrey
+(2015) tested the second option and found that
+Cyberprogram 2.0, a program designed to prevent
+cyberbullying, was able to significantly reduce traditional bullying. The current study seeks to contribute to
+this debate by analyzing this latter option, that is,
+whether a program designed to prevent cyberbullying
+can have an effect on traditional bullying. In particular,
+the main goal of the study was to identify the effect that
+Medienhelden (Media Heroes), a school-based program
+designed to prevent cyberbullying, can have on
+victimization by traditional bullying (i.e., traditional
+victimization) and on traditional bullying perpetration
+(i.e., traditional bullying) in schools.
+MEDIA HEROES (Medienhelden)
+Media Heroes (Medienhelden in German) is a
+theoretically based preventive intervention program
+developed in Germany for the school context (Schultze-Krumbholz, Zagorscak, Siebenbrock, & Scheithauer,
+2012; W€olfer et al., 2014). Based on the Theory of
+Planned Behavior (Ajzen, 1991) and on the participant
+roles approach to understanding bullying dynamics
+(Salmivalli, 2010), Media Heroes seeks to prevent
+cyberbullying mainly by promoting empathy, providing
+knowledge about definitions, Internet risks and safety,
+and legal consequences, and promoting assertive ways for
+bystanders to intervene. Two versions of Media Heroes
+were developed: (i) a long-version consisting of fifteen
+45-min sessions and (ii) a short-version consisting of four
+90-min sessions that is supposed to be implemented on a
+single day. Activities include role-playing, debates,
+analyses of written stories, news and films, cooperative
+learning, and student–parent presentations (for more
+details see Schultze-Krumbholz et al., 2012; SchultzeKrumbholz, Zagorscak, Siebenbrock & Scheithauer, this
+issue; W€olfer et al., 2014). Evaluation of Media Heroes
+showed that it contributed to the reduction of cyberbullying perpetration, as well as to increases in empathy,
+perspective-taking skills, self-esteem, and subjective
+health, especially among those who received the longversion of the program (Schultze-Krumbholz, W€olfer,
+J€akel, Zagorscak, & Scheithauer, 2012; W€olfer et al.,
+2014 see also Schultze-Krumbholz, this issue).
+As mentioned, perpetrators of cyber and traditional
+bullying (as well as victims of cyber and traditional
+bullying) are sometimes the same individuals. In such
+cases, an effect of Media Heroes on traditional bullying
+might be due to the fact that they stopped being bullies
+(or they were no longer victims) of both types. In other
+words, evidence for a spillover effect might be stronger
+if Media Heroes also had an effect on those who were
+traditional bullies but not cyberbullies (or traditional
+victims but not victims of cyberbullying) at the
+beginning. Thus, a secondary goal of the study was to
+investigate the differentiated effects of Media Heroes on
+those who were traditional bullies (traditional victims),
+cyberbullies (victims of cyberbullying), both or none,
+before the implementation of the program.
+Aggr. Behav.
+158 Chaux et al.
+Two hypotheses, related to the main and secondary
+goal of the study, were tested:
+(1) Assuming that traditional bullying and cyberbullying are specific cases of a larger problem, it was
+predicted that since Media Heroes has been shown to
+reduce cyberbullying (W€olfer et al., 2014), it would
+also reduce traditional bullying.
+(2) These reductions should also be found among those
+students who were initially perpetrators of traditional bullying but not of cyberbullying, and among
+those who were initially victims of traditional
+bullying but not of cyberbullying.
+METHODS
+The current study is based on a pretest–post-test
+quantitative experimental evaluation of the Media
+Heroes program in which schools randomly assigned
+participating classes to three conditions: long-version,
+short-version, and control group.
+Participants
+Participants of the evaluation of Media Heroes were
+1,075 adolescents (mean age 13.36; range 11–17 years;
+SD ¼ 1.00) from five schools in Berlin, Germany. Four
+(78.4% of students) were academic college preparatory
+schools (Gymnasien), and one (21.6% of students) was
+a school which offers academic and vocational degrees
+(Gesamtschule). These schools were self-selected,
+responding to an invitation to participate in the
+research project. Schools were located in neighborhoods from a diversity of socio-economic backgrounds
+(2 high, 2 middle, and 1 low SES;). Participants were
+initially 897 students, but there was attrition of 19.5%
+of students from pretest to post-test. Thus, longitudinal
+data for the outcome variables was available for 722
+students. Sample size was determined by the number of
+students who agreed to participate, and whose parents
+had signed consent forms, from all the participating
+classrooms of the five schools which agreed to
+participate. No specific sample size calculation was
+conducted. However, the sample size obtained is
+consistent with what is needed to detect small to
+medium effect sizes according to known effect sizes
+usually found in preventive intervention evaluation
+studies (e.g., Merrell, Gueldner, Ross, & Isava, 2008;
+Wilson, Lipsey, & Derzon, 2003). No significant
+differences were found between participating and
+nonparticipating students on several variables measured at Time 1 (e.g., cyberbullying; SchultzeKrumbholz, Zagorscak, W€olfer, & Scheithauer,
+2014). About half (51.8%) of participants were girls.
+Procedure
+Participating schools decided whether they would
+implement the long- or short-version of the program.
+They were asked to randomly select intervened and
+control classes. Teachers in control classes were asked
+not to implement the program for 12 months, and
+received the program materials at the end of such period.
+Of the 35 participating classes, 12 received the longintervention, 7 the short-intervention and 16 were
+control groups. No particular differences were observed
+between schools that chose long- or short-versions.
+Participation in the intervention was obligatory, as
+part of students’ ethics classes. However, participation
+in the evaluation was voluntary. Letters explaining the
+study and consent forms were given to the students to
+pass on to their parents, and only students who agreed to
+participate and who returned their parents’ consents
+were allowed to take part in the study. Teachers collected
+the consent forms and informed the researchers which
+students had received their parents’ permission to
+participate. Data about non-participation, collected in
+21 of the 35 classes, indicated that 4.8% of students were
+not allowed to participate (non-participation ranged
+from 0% to 20% in different classes). Pretest measures
+were collected before the intervention started (January 2011) and 9 months later (i.e., approximately six
+months after the intervention finished, in November/
+December 2011). Before the implementation, teachers
+received sixteen hours of training (see more details in
+Schultze-Krumbholz et al., this issue).
+Measures
+Students responded the European Cyberbullying
+Intervention Project Questionnaire (ECIPQ; Del Rey
+et al., 2015), a collection of measures developed as part
+of the European Cyberbullying Intervention Project, a
+collaborative research project funded by the European
+Union (see bullyingandcyber.net). Specifically, Traditional Bullying (i.e., Traditional Bullying Perpetration;
+a ¼ .80) was measured with seven self-reported items
+(e.g., “I spread rumors about someone”). Traditional
+Victimization (i.e., Victimization by Traditional Bullying; a ¼ .77) was also measured with seven items (e.g.,
+“Someone hit, kicked, or pushed me”). Cyberbullying
+(i.e., Cyberbullying Perpetration; a ¼ .88) was measured
+with 11 items (e.g., “I said nasty things to someone or
+called them names using texts or online messages”).
+Cybervictimization (i.e., Victimization by Cyberbullying; a ¼ .70) was also measured with 11 items (e.g.,
+“Someone posted embarrassing videos or pictures of me
+online”). Response options were “no,” “once or twice,”
+“once or twice a month,” “once a week,” and “more than
+once a week.” The following global introduction was
+Aggr. Behav.
+Effects of Media Heroes on Traditional Bullying 159
+presented before the questions: “In this section we’re
+going to ask you about possible experiences concerning
+bullying and cyberbullying in your context of life
+(school, friends, people you know ...), both as a victim
+of bullying and/ or as a bully. Your answers will be
+confidential. Have you experienced any of the following
+behavior in the last 2 months?” No specific definitions of
+bullying or cyberbullying were provided. del Rey et al.
+(2015) present validity information about the measures.
+Analytic Plan
+Bivariate Pearson’s correlations were initially conducted to explore the relations between the four outcome
+variables (cyberbullying, traditional bullying, cybervictimization, and traditional victimization) at the pretest
+and post-test.
+Given the nested nature of the data (students within
+classes), the assumption of independence of observations could be violated. In this case, standard errors
+could be biased and therefore need to be corrected, for
+example, by means of multilevel modeling. To test
+whether this correction was necessary, exploratory
+analyses were then conducted to calculate intraclass
+correlations (ICC) and design effects. A correction was
+considered necessary when design effects exceeded 2
+(Muthen & Satorra, 1995).
+Results did not show a need to account for the nesting
+of the data (described below). Therefore, comparisons of
+changes in students’ outcomes as a function of their
+experimental condition were analyzed via two-way
+interactions in mixed ANOVAs. Two types of analyses
+were conducted, corresponding to each of the goals of
+the study. To address the main goal, four sets of mixed
+ANOVAs were run, one for each outcome: cyberbullying, traditional bullying, cybervictimization, and traditional victimization. Pretest and post-test scores were
+included in the analyses as repeated measures and the
+experimental condition was included as a fixed factor.
+Moderation by sex was examined by including the twoway interaction between sex and time (pretest vs. posttest), and the three-way interaction between sex, time,
+and group (control, long- and short-intervention) in
+repeated ANOVAs with cyberbullying, traditional
+bullying, cybervictimization, and traditional victimization as outcomes.
+To respond to the secondary goal of the study, a
+second set of mixed ANOVAs replicated the former
+ones, but included the initial bullying/victimization
+status as an additional factor. Specifically, for bullying,
+children were divided into four categories: cyberbully
+only (0 in score of traditional bullying, but greater than 0
+in score of cyberbullying), traditional bully only (0 in
+cyberbullying, but greater than 0 in traditional bullying),
+both cyber- and traditional bully (greater than 0 in both),
+and nonbully (0 in both). Accordingly, for victimization,
+children were divided into: cybervictim only (0 in
+traditional victimization, but greater than 0 in cybervictimization), traditional victim only (0 in cybervictimization, but greater than 0 in traditional victimization), both
+cyber- and traditional victim (greater than 0 in both), and
+nonvictim (0 in both). Cut-off points of zero versus
+greater than zero were chosen given the low levels of
+traditional bullying and cyberbullying among the
+students in the sample. Results were similar when
+medians were chosen as the cut-off points. Cut-off points
+greater than the medians were not chosen because the
+low number in some groups did not permit us to conduct
+the moderation analyses. These analyses intended to
+differentiate the effects of the program depending on the
+students’ initial status.
+RESULTS
+Bivariate Pearson’s correlations showed significant
+correlations between the outcome measures at both the
+pretest and posttest (Table I). Correlations were large
+(>.6) between cyberbullying and traditional bullying (at
+both pretest and post-test), and between cybervictimization and traditional victimization (at post-test).
+In order to examine possible baseline differences
+between the experimental conditions (long-, short-intervention, and control), one way ANOVAs were conducted
+separately for each outcome at pretest. These comparisons
+yielded non-significant differences across the three
+experimental conditions (for cyberbullying, F(2,883)¼ .45,
+P¼ .64; for traditional bullying, F(2,881)¼ 2.35, P¼ .10,
+cybervictimization, F(2,889)¼ 2.06, P¼ .13; for and traditional victimization, F(2,890)¼ .77, P¼ .46). These results
+confirmed the comparability of the groups across the
+conditions.
+To explore whether or not it was necessary to account
+for the nesting of the data via multilevel analyses, ICCs,
+as well as design effects, were calculated for the
+outcomes. As children from the three experimental
+conditions did not differ in the outcomes’ scores at
+pretest, we were able to calculate an index of outcome
+change based on difference scores (post-test–pretest).
+Then, we examined ICCs for each of the four outcomes:
+ICC(Dcyberbullying) ¼ 0.03; ICC(Dtraditional bullying) ¼ 0.04; ICC(Dcybervictimization) ¼ 0.02; and
+ICC(Dtraditional victimization ¼ 0.02).
+Design effects were estimated based on the following
+formula:
+1 þ ð Þ average cluster size  1 ICC
+Multilevel analysis is considered necessary when the
+design effect value is above 2. Taking into consideration
+that the average cluster size was 25, all values for the
+Aggr. Behav.
+160 Chaux et al.
+difference scores were found to be below or just on this
+threshold (1.76, 2.03, 1.55, and 1.39, for cyberbullying,
+traditional bullying, cybervictimization, and traditional
+victimization, respectively). Therefore, we ruled out the
+need to account for the nesting of the data.
+Program Effects
+To address the main goal of the study, four sets of
+mixed 2  3 (time  condition) ANOVAs were conducted to test for the program effects on each outcome
+(see Table II for descriptive statistics). Results showed
+statistically significant interactions between time (prestest, posttest) and condition (long-, short-intervention,
+control) for cyberbullying (Wilk’s l ¼ .98,
+F(2,706) ¼ 6.50, P ¼ .00, h
+2 ¼ .02) and for traditional
+bullying (Wilk’s l ¼ .99, F(2,706) ¼ 5.37, P ¼ .00,
+h
+2 ¼ .01). As shown in Table II, pairwise comparisons
+indicated that, for cyberbullying, children in the control
+group increased significantly in this behavior, while
+children in the long intervention showed a significant
+decrease (see Fig. 1). In the case of traditional bullying, a
+significant decrease was found for the long intervention,
+whereas children in the control group and in the short
+intervention did not significantly change after the
+implementation of the program (see Fig. 2). Analyses
+of moderation by sex did not reveal any significant
+effects. A tendency (P ¼ 0.057) was found, however, for
+a three-way interaction by which changes in cyberbullying according to group (increase in control group, no
+changes in short-intervention, and decrease in longintervention) were found for boys, but not for girls.
+Program Effects As a Function of Initial Status
+In order to examine whether the program had
+differential effects depending on the initial status of
+children in terms of their level of bullying and
+victimization, children were categorized depending on
+whether the behavior was observed to any extent. That
+is, if children had a score equal to zero, they were treated
+as non-bullies or -victims. Conversely, those who had a
+score different from zero were thought as being prone to
+bullying or victimization. This categorization led to the
+following groups and sample sizes: for bullying
+perpetration: cyberbully only (N ¼ 34), traditional bully
+TABLE I. Pretest and Posttest Correlations Among the Outcome Variables
+Cyberbullying Traditional bullying Cybervictimization Traditional victimization
+Cyberbullying 0.20 0.63 0.35 0.22
+Traditional bullying 0.60 0.41 0.26 0.40
+Cybervictimization 0.33 0.38 0.21 0.44
+Traditional victimization 0.24 0.53 0.62 0.38
+Note. Coefficients above the diagonal correspond to pretest scores. Coefficients below the diagonal correspond to posttest scores. Coefficients on the
+diagonal correspond to pretest and posttest correlations.
+P < .01.
+TABLE II. Pretest and Post-test Scores by Each Experimental Condition, With Pairwise Comparisons Test of Significance
+N Mean pretest (SD) Mean postest (SD) Post-test–pretest P Cohen’s d
+Cyberbullying
+Control 347 0.08 (0.22) 0.14 (0.48) 0.06 .00 .16
+Short intervention 135 0.08 (0.18) 0.08 (0.24) 0.00 .95 .00
+Long intervention 227 0.10 (0.29) 0.04 (0.11) 0.06 .02 .27
+Traditional bullying
+Control 348 0.34 (0.45) 0.39 (0.68) 0.05 .10 .09
+Short intervention 135 0.29 (0.44) 0.23 (0.45) 0.06 .22 .14
+Long intervention 226 0.32 (0.48) 0.21 (0.39) 0.10 .01 .25
+Cybervictimization
+Control 352 0.09 (0.19) 0.13 (0.33) 0.04 a .15
+Short intervention 132 0.11 (0.22) 0.14 (0.30) 0.02 a .11
+Long intervention 230 0.09 (0.18) 0.09 (0.19) 0.00 a .00
+Traditional victimization
+Control 352 0.41 (0.48) 0.38 (0.59) 0.03 a .06
+Short intervention 136 0.41 (.56) 0.37 (0.60) 0.04 a .07
+Long intervention 230 0.37 (0.52) 0.25 (0.39) 0.11 a .26
+Statistically significant difference. a
+Pairwise comparisons significance tests were not conducted for these variables, given that no significant interactions were found in the main analyses.
+Aggr. Behav.
+Effects of Media Heroes on Traditional Bullying 161
+only (N ¼ 327), both cyber- and traditional bully
+(N ¼ 251), and non-bully (N ¼ 272). For victimization:
+cybervictim only (N ¼ 47), traditional victim only
+(N ¼ 314), both cyber- and traditional victim
+(N ¼ 311), and non-victim (N ¼ 218).
+Mixed 2  3  4 (time  condition  initial status)
+ANOVAs were conducted for each of the four outcomes.
+Three-way interactions were found for traditional
+bullying perpetration (Wilk’s l ¼ .98, F(6,697) ¼ 2.11,
+P ¼ .04, h
+2 ¼ .02) and for traditional victimization
+(Wilk’s l ¼ .98, F(6,703) ¼ 2.12, P ¼ .04, h
+2 ¼ .02).
+Further pairwise comparisons showed that differences
+in traditional bullying perpetration could be found
+particularly for nonbullies and for children who initially
+scored greater than zero in both cyber- and traditional
+bullying. In the first case, nonbullies increased their
+bullying behavior in the control (mean difference
+¼ 0.14, P ¼ .01) and short intervention (mean difference
+¼ 0.17, P ¼ .04) conditions, whereas non-bullies in the
+long intervention (mean difference ¼ 0.07, P ¼ .21)
+condition did not change significantly after the implementation of the program. For children grouped in the
+cyber- and traditional bullying category, a significant
+decrease in traditional bullying behavior was observed
+for the short (mean difference ¼ 0.29, P ¼ .00) and
+long (mean difference ¼ 0.32, P ¼ .00) intervention
+conditions, while no significant change was observed in
+the control group (mean difference ¼ 0.06, P ¼ .24).
+That is, in the control group, traditional bullying
+increased for those who were initially not bullies of
+any kind, and remained for those who were initially
+bullies of both kinds. In contrast, in the long-intervention
+group, traditional bullying did not increase for those who
+initially were not bullies of any kind, and decreased for
+those who were already bullies of both kinds.
+In the case of traditional victimization, pairwise
+comparisons revealed significant differences fortraditional
+victims only, cybervictims only, and non-victims. In the
+case of traditional victims only, there was a decrease in
+traditional victimization for the short (mean difference ¼
+0.23, P¼ .01) and long (mean difference¼ 0.15,
+P¼ .02) interventions, while the control group (mean
+difference ¼ 0.02, P¼ .62) did not change significantly.
+For nonvictims, a significant increase was observed for the
+control (mean difference¼ 0.13, P¼ .04) and short
+intervention (mean difference¼ 0.21, P¼ .03) conditions,
+whereas children in the long intervention did not change
+significantly (mean difference ¼ 0.07, P¼ .30). Finally, a
+non-expected result was found for cybervictims only.
+Although children in the control (mean difference ¼ 0.17,
+P¼ .19) and long intervention (mean difference¼ 0.07,
+P¼ .72) conditions did not change significantly, children
+in the short intervention condition showed an increase
+(mean difference ¼ 0.82, P¼ .00) in traditional victimization, after the intervention.
+Summarizing, in the control group, victimization by
+traditional bullying increased among those who were not
+victims of any kind of bullying and remained for those
+who were already victims of traditional bullying. In
+contrast, in the long-intervention (but not in the shortintervention), victimization by traditional bullying did
+not increase among those who were not victims of any
+kind of bullying and decreased for those who were
+already victims of traditional bullying.
+DISCUSSION
+The results of the current study confirmed that
+participating in Media Heroes, a program developed
+specifically to prevent cyberbullying, led to a reduction
+in traditional bullying perpetration (although not
+victimization), in addition to the previously reported
+reduction of cyberbullying perpetration (W€olfer et al.,
+2014). These effects were found to be greater for the long
+version of the program than for its short version. The
+positive effects on traditional bullying perpetration were
+confirmed for those who initially reported not bullying
+(neither cyber nor traditional bullying) as there was a
+significant increase in the control group that was not
+observed in the long intervention. Furthermore, the
+positive effects were also found for those who
+simultaneously reported some cyberbullying and some
+Fig. 1. Program effects on cyberbullying.
+Fig. 2. Program effects on traditional bullying.
+Aggr. Behav.
+162 Chaux et al.
+traditional bullying, but not for those who only reported
+some traditional bullying (but no cyberbullying). Thus,
+the spillover effect of Media Heroes on traditional
+bullying perpetration was partially confirmed.
+No significant effects were found on victimization by
+either traditional or cyberbullying when the three
+conditions (control, short and long-interventions) were
+compared. There are some possible reasons to explain
+the difference between the effects on perpetration but not
+on victimization. First, as cyberbullying is not restricted
+to those who share the same classes or schools, students
+in the intervention classes might still be victims of
+cyberbullying generated by students from classes or
+schools (or other individuals) not intervened by the
+program. Second, after the intervention, students might
+be more aware of cyberbullying being a problematic
+behavior. Thus, a possible reduction in instances of
+cybervictimization could have been compensated by an
+increase in tendency to report cyberbullying if they have
+been targeted. Finally, it might take longer to evidence
+changes in the perception of being victimized than in
+the perception of being a perpetrator because the effects
+of aggression (especially relational and cyberbullying)
+might continue long after the perpetrators have stopped
+behaving aggressively.
+Although no significant direct effects were found on
+traditional victimization, some interactions were observed when initial levels of victimization were
+considered. In particular, positive effects were found
+for those who at the beginning were not victims of
+cyberbullying but were victims of traditional bullying, as
+well as for those who were initially nonvictims (either of
+cyber or traditional bullying). In addition, a surprising
+increase in the number of students who reported being
+victims of traditional bullying was found for those who
+participated in the short intervention and who, initially,
+had only reported being victim of cyberbullying. A
+possible explanation might be that, with the intervention,
+they became aware that they were also being victims of
+traditional bullying.
+In general, the results support the idea that an
+intervention designed to prevent cyberbullying can
+help prevent students from bullying others in traditional
+ways as well. This complements the evidence that KiVa,
+a program designed to prevent traditional bullying, can
+affect the prevention of cyberbullying (Williford et al.,
+2014), and that Cyberprogram 2.0, a cyberbullying
+prevention program, can also prevent traditional bullying (Garaigordobil & Martınez-Valderrey, 2015). These
+results suggest that traditional bullying and cyberbullying are related sufficiently closely for prevention efforts
+for one to have spillover effects on the other. This result
+should not be understood, however, as confirmation that
+only one of them is needed in the effort to prevent both.
+In contrast, it suggests that careful analyses should be
+conducted to identify the most effective ways to
+complement them. One option could be to focus
+prevention efforts on different types of bullying in
+different ages. For instance, prevention of traditional
+bullying might be more appropriate at elementary grades
+where contact with the virtual media is still limited and
+where programs like KiVa seem to be more effective
+(K€arn€a et al., 2011a,b, 2013). In contrast, prevention of
+cyberbullying might be more significant to students in
+secondary grades since interactions during adolescence
+occur in great part through electronic media. A
+cyberbullying prevention program might become an
+opportunity to remember, practice, and deepen the
+knowledge, attitudes, and socio-emotional competencies
+they might have learned in elementary school, and to
+apply them in a context that is meaningful to the
+challenges facing their adolescent relationships.
+There are some limitations to the study that need to be
+acknowledged. First, it is based entirely on self-reports
+which could be influenced by social desirability.
+Although having control groups reduces the risk of
+social desirability affecting the results, as the same bias
+could be present in the reports from those in the control
+groups, it does not eliminate such risk completely
+because the intervention itself could have increased the
+students’ desire to present themselves as less aggressive.
+Although the sample size was large enough to evaluate
+the direct effects of the program, the moderation
+analyses implied the comparison of many small groups,
+limiting its power. The fact that some significant
+interactions were found indicates that the effects are
+large enough to be observed even with small sample
+sizes. Another limitation was that the levels of bullying,
+and of cyberbullying in particular, were small at the
+pretest. As such, the effects of the intervention could
+have been limited because of the limited range for
+improvement.
+Randomization occurred at the classroom levels, that
+is, some classes within the same schools were in the
+control group while others received the interventions.
+Thus, another limitation is that there could have been
+contamination of the effects from the treated classes to
+the control classes, implying that the real effects of the
+program could have been larger than the observed
+effects. Finally, the evaluation was conducted in a
+specific urban multicultural context for which Media
+Heroes was specifically developed. It is not clear
+whether the effects would be the same in other cultural
+contexts. In order to investigate this, a replication is
+starting in a very different cultural context, with a higher
+level of bullying and cyberbullying, and with a larger
+sample. This could elucidate the positive effects that a
+program such as Media Heroes could have on a global
+Aggr. Behav.
+Effects of Media Heroes on Traditional Bullying 163
+problem such as cyberbullying, and on traditional
+bullying as well.
+In any case, the results are promising with respect to
+the challenge of preventing traditional bullying and
+cyberbullying, and suggest that traditional bullying and
+cyberbullying may be close enough for interventions to
+profit from the synergy when preventing one can help
+prevent the other.

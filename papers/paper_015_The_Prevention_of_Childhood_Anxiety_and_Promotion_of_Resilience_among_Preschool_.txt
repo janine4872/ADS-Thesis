@@ -1,0 +1,856 @@
+This study is the first to examine the effectiveness of the Fun FRIENDS program, a
+school-based, universal preventive intervention for early childhood anxiety and
+promotion of resilience delivered by classroom teachers. Participants (N= 488)
+included children aged 4-7 years attending 1 of 14 Catholic Education schools in
+Brisbane, Australia. The schools were randomly allocated to one of three groups, the
+intervention, active comparison and waitlist control group. Parents completed
+standardised measures of anxiety and behavioural inhibition, resilience, social and
+emotional functioning and behaviour difficulties in addition to parental stress and
+anxiety, at pre- and post- and 12-month follow up. Teachers also completed a parallel
+measure of social and emotional strength at the three time points. Comparable results
+were obtained for the intervention and comparison groups; however the intervention
+group achieved greater reductions in behavioural inhibition, child behavioural
+difficulties and improvements in social and emotional competence. In addition
+significant improvements in parenting distress and parent-child interactions were
+found for the intervention group, with gains were maintained at 12-month follow-up.
+Teacher reports revealed more significant improvement in social and emotional
+competence for the intervention group. Clinical implications of the findings are
+discussed, along with limitations and directions for future research.
+Key Words: child, anxiety, prevention, early intervention, universal
+3
+Introduction
+Anxiety disorders are among the most prevalent psychiatric disorders in children and
+adolescents (Costello et al., 2003; Hirshfeld-Becker, Micco, Mazursky, Bruett &
+Henin, 2011; Kessler et al., 2005). The prevalence of anxiety disorders in a
+community sample of preschool aged children (2 – 5 years) has been reported as 9.5%
+(Edwards, Rapee, Kennedy, & Spence, 2010; Egger & Angold, 2006), with up to
+28.8% of children developing an anxiety disorder during their lifetime (Kessler et al.,
+2005; Merikangas et al., 2010). If untreated, anxiety has the potential to cause
+significant disruption to a child’s developmental trajectory due to the chronic course
+and low rates of remission (McLoone, Hudson, & Rapee, 2006). Further, childhood
+anxiety may fail to be recognised as many anxious children present as shy,
+cooperative or compliant within the school setting (Albano, Chorpita, & Barlow,
+2003). However young children (under the age of 8 years) presenting with anxiety
+sympotomology have only recently been included in intervention studies (Van der
+Sluis et al., 2012). Regardless of the limited research focus, results have been
+promising in terms of the potential benefits of cognitive behavioural therapy (CBT)
+based interventions for young anxious children (Cartwright-Hatton et al., 2011;
+Hirshfeld-Becker et al., 2008; 2010; Kennedy et al., 2009; Monga et al., 2009; Pincus
+et al., 2008; Rapee et al., 2005; van der Sluis et al., 2012; Waters et al., 2009).
+The majority of children with anxiety disorders do not receive appropriate
+intervention (Hirschfeld et al, 1997; Merikangas et al., 2010; Olfson et al, 2003;
+Sawyer et al, 2000). Research indicates that as many as 80% of children and
+adolescents in need of mental health services fail to receive such intervention
+(Cobham, 2012; Essau, 2005). A number of barriers to accessing psychological
+intervention exist including cost, time, availability, commitment, and location
+particularly for families living in rural areas (Barrett & Pahl, 2006; Jorm & Wright,
+2007). Many children presenting with anxiety suffer for years before receiving help
+(Thompson, Hunt & Issakidis, 2004), with the average delay between symptom onset
+and consultation with a mental health professional ranging from 6 to 14 years
+(Christiana et al., 2000; Kessler et al., 1998). An additional concern is treatment nonresponse, which may be associated with multiple factors (Donovan & Spence, 2000;
+Ginsburg et al., 2011). Taken together, these findings have inspired a conceptual shift
+4
+in the development and implementation of mental health intervention worldwide
+(Delaney & Staten, 2010), from traditional models of psychological intervention
+delivery, to an increased focus on prevention as a way of improving both the
+immediate health of children and young people and contributing to longer-term
+resilience. Consequently there has been an increased emphasis on developing
+innovative prevention protocols for preschool aged children (Bayer et al., 2011;
+Bienvenu & Ginsburg, 2007; Fox et al., 2012; Fox, Haplern, & Forsyth, 2008;
+Hirshfeld-Becker & Biederman, 2002). Such early preventive interventions have the
+potential to reduce rates of depression, with anxiety typically preceding co-morbid
+depressive disorders (Bienvenu & Ginsburg, 2007; Flannery-Schroeder & Kendall,
+2004), and may be most powerful when targeted at high-risk life transitions, such as
+entry to primary school or other significant transition points (Hirshfeld-Becker et al.,
+2008), affording young children and their parents the opportunity to learn positive
+coping and emotional regulation skills. Given many of the barriers associated with
+accessing psychological intervention, and the high drop-out rates there is an increased
+need for cost effective and accessible intervention delivered in a universal context
+such as the school environment.
+Cognitive Behavioural Therapy (CBT) Parent-Based Intervention
+A review of the literature identified several studies addressing early prevention and
+intervention with this population, with many of these focused on the parent as the
+target of the intervention. One of the earliest studies incorporating a preventive
+intervention with an experimental design (N= 45) (La Freniere & Capuano, 1997)
+assessed the effectiveness of a 20 session (6 month) integrated home-based prevention
+program for anxious/withdrawn preschoolers. At post intervention, significant
+immediate improvements in terms of teacher-rated social competence were identified
+for children in the intervention group, with total levels of parental stress also
+achieving a significant decline over the 6-month intervention. Similarly, a pilot study
+examining the effectiveness of a selective prevention based parent program for
+anxiety and behavioural inhibition (BI) (N = 7) (Rapee & Jacobs, 2002), which aimed
+to minimise cost through minimal therapist input and long-term educational value
+resulted in marked reductions in BI and anxiety diagnoses in children to 12 month
+follow up.
+5
+In an extension to this study, Rapee, Kennedy, Ingram, Edwards, & Sweeney (2005)
+conducted a larger scale selective prevention study examining the effects of a
+universal CBT based prevention program for parents (N = 146, aged 36 - 62 months).
+The intervention was designed to be brief to provide maximum potential for public
+health implementation and targeted an identified risk factor for anxiety, an
+inhibited/withdrawn temperament and included 6, 90-minute sessions. Children of
+parents in the educational parent group demonstrated a significantly greater decrease
+in anxiety diagnoses at 12-month follow-up, relative to the monitoring control
+condition.
+The effectiveness of a parent based early intervention program facilitated in a group
+format (N = 71) (Kennedy, Rapee, & Edwards, 2009) demonstrated a significant
+reduction in the frequency and severity of anxiety disorders and inhibition for children
+in the intervention group, relative to children on the waitlist with further improvement
+at 6 month follow-up. The findings provide further support for the benefits of early
+parent based interventions to alter the developmental trajectory of anxiety in a highrisk group of young children.
+The REACH for RESILIENCE (N = 734, aged 3 – 6 years), CBT based intervention,
+developed exclusively for parents was trialed in 25 preschools over a three month
+time period using a controlled-trial design (Dadds & Roth, 2008). Results
+demonstrated decreases in teacher reported internalising and externalising difficulties
+and a higher percentage of the intervention group moved from at-risk to low-risk
+status following the intervention. This study represents one of a very few universal
+trials with this population.
+More recently, Rapee, Kennedy, Ingram, Edwards andSweeney (2010) conducted a
+randomised controlled trial of a brief parent based intervention program, designed to
+prevent anxiety in young children (N = 146). Children of parents that participated in
+the intervention were found to have a reduced risk of suffering from symptoms of
+anxiety at middle childhood (three year follow-up). This study is significant in that it
+represents the first to demonstrate lasting changes in children’s symptoms of anxiety,
+following a brief intervention in early childhood. This simple low cost intervention
+may potentially alter the trajectory of anxiety and related disorders in young inhibited
+6
+children and provides promise for the effectiveness of parent-based intervention for
+the prevention of early child anxiety.
+A very recent study piloted the Confident Kids program (van der Sluis et al., 2012), a
+CBT based parent intervention developed for parents of children aged 4 – 7 years (N
+= 26). The intervention was delivered in four 2-hour group parent sessions across a 4
+week period, with parent’s taking the role of “therapist coaches” for their children.
+Comparable results to previous studies were obtained, with significant decreases in
+child anxiety and behavioural inhibition as reported by both parents and teachers (van
+der Sluis et al., 2012). This study provides further support of the value of
+incorporating a parental component to early intervention with young children.
+CBT Child- and Parent-Based Interventions
+A number of studies have examined the efficacy of early intervention for childhood
+anxiety which include both child and parental components. For example, the efficacy
+of a CBT-based intervention for anxiety, the “Being Brave” (N = 64) program
+(Hirshfeld-Becker, et al. 2008; Hirshfeld-Becker, et al., 2010). This program is a
+developmentally appropriate, manualised CBT-based intervention program for
+children and their parents, targeting identified risk factors for anxiety. Significant
+reductions in anxiety disorder diagnoses were obtained with outcomes maintained at
+two-year follow up. A similar intervention protocol for early childhood anxiety,
+Taming “Sneaky Fears” (N = 32), based on a CBT framework (Monga, Young &
+Owens, 2009) obtained comparable results, with significant reductions in anxiety
+disorder diagnoses and clinician-rated improvement in functioning. These findings are
+comparable to results obtained following CBT protocols for older children (Barrett,
+Rapee, & Dadds & Ryan, 1996; Kendall, 1994; Kendall & Southam-Gerow, 1996)
+and provide promising preliminary data for the adaptation of a CBT-based parent and
+child protocol for early childhood and enhancing positive coping skills.
+Waters, et al., (2009) conducted a trial assessing the efficacy of a group-based
+cognitive behavioural intervention for young anxious children aged 4 to 8 years (N =
+80). A parents-only CBT group intervention “Take ACTION” was directly compared
+with the same intervention delivered to both children and parents, relative to a waitlist-control condition. No significant differences between the two active conditions on
+7
+other outcome measures were found. The study represents a valuable contribution to
+the literature, providing support for the exclusive delivery of a CBT intervention to
+parents of young anxious children as a viable intervention approach.
+The first-ever universal school-based efficacy trial of the Fun FRIENDS program
+(Barrett, 2007a,b) was recently conducted for young children (N = 263) (Pahl &
+Barrett, 2010). This study represents one of very few universal trials which focus on
+young anxious children, in addition to a parental component to the intervention. Fun
+FRIENDS is a developmentally appropriate, play-based CBT intervention and
+prevention program for anxiety and social and emotional skill development,
+developed as a downward extension of the FRIENDS for Life program (Barrett, 2004,
+2005). Immediately post intervention no significant differences were obtained;
+however, at 12-month follow up, improvements were found on anxiety, BI and socialemotional competence for children in the IG. The results from this study provide
+support for the use of universal intervention programs for young children
+implemented within the school context.
+The most recent preventive intervention for anxious preschoolers and their parents
+involved a trial of the new Strengthening Early Emotional Development (SEED)
+program (Fox, et al., 2012) to promote social and emotional and behavioural
+competencies (N= 16, aged 3-5 years). SEED incorporates content from other
+evidence-based group programs including the Preschool PATHS and the Cool Kids
+program (Domitrovich, Cortes, & Greenberg, 2007; Rapee, Lyneham, & Schneiring,
+2006). The intervention produced improvements in child emotional knowledge and
+social reasoning skills in addition to reductions in parental anxiety and development
+of more positive parental attitudes towards their children, providing further support
+for the potential of preventive programs for early childhood anxiety.
+The above literature review indicates a number of areas of concern. First, anxiety
+disorders are among the most prevalent psychiatric disorders in young children
+(Edwards, Rapee, Kennedy, & Spence, 2010; Egger & Angold, 2006) and have the
+potential to cause significant developmental disruption (McLoone, Hudson, & Rapee,
+2006) therefore enhancing our understanding of risk and protective factors is critical.
+Second, the prevention of early childhood anxiety represents a significantly neglected
+8
+area of research, with limited attention to the effectiveness of child based early
+intervention and prevention programs. Third, child-focused early interventions which
+include a parental component have produced promising outcomes for the prevention
+and treatment of early child anxiety, replication of these findings is required. Fourth,
+there is a clear need for cost–effective universal preventive interventions for young
+children.
+Universal interventions where the population is the target of intervention (Mrazek &
+Haggerty, 1994) are receiving increasing support as viable and cost effective
+approaches to early intervention for anxiety (Lowry-Webster et al., 2001; Pahl &
+Barrett, 2010; Stallard et al., 2007). Schools represent an optimal context for
+prevention and early intervention efforts. The focus on the collective rather than
+individual level avoids labeling children and normalises the promotion of positive
+social and emotional skills. This practice also increases maintenance of these skills
+due to sustained daily contact with children, peer support and inclusion of social and
+emotional skill development as part of standard curriculum. Further, this approach
+may neutralise many pragmatic and perceptual barriers to accessing community based
+mental health services (Kendall, Settipani, & Cummings, 2012) and represents an
+ideal context to practice and perfect skill acquisition (Barrett & Pahl, 2006).
+Although there is a need for early intervention models, the effectiveness of such
+intervention protocols for younger children remain largely unknown (Egger &
+Angold, 2006; Eley et al., 2003; Spence, Rapee, McDonald, & Ingram, 2001; Sterba,
+Egger, & Angold, 2007), which highlights a need for a prevention program with
+established effectiveness in this population.
+The primary objective of this study was to extend Pahl and Barrett’s (2010) pilot
+study and evaluate the effectiveness of the Fun FRIENDS intervention, delivered as a
+universal curriculum-based program to reduce anxiety and BI and enhance social and
+emotional competence in young children. The study aimed to compare the outcome
+of the Fun FRIENDS intervention group (IG) with the You Can Do It Active
+Comparison (CG) and wait-list control groups (WLG) at pre, post and 12-month
+follow-up. It was hypothesised the IG would be significantly more effective than the
+CG, and that both interventions would be more effective than the waitlist. More
+specifically, it was hypothesised that child anxiety symptoms would decrease from
+9
+pre to post-intervention and continue to improve at follow-up for the IG. Further it
+was predicted that positive coping skills (approach behaviours, help seeking) and
+emotional regulation skills (self soothing, anxiety management) would increase and
+maladaptive coping (avoidance behaviour and reassurance seeking) would decrease
+from pre to post- intervention, for the IG with results maintained at 12-month followup.
+The second objective of the study was to explore whether it was possible to have a
+positive impact on levels of parental (mother and father) anxiety and distress. It was
+expected that maternal and paternal anxiety and distress in the intervention group
+would decrease as rates of anxiety decreased in the child. Thus the inclusion of
+parents in the intervention may be critical in terms of educating parents and enhancing
+positive coping skills for themselves and their children.
+Method
+Recruitment
+Schools were recruited via email correspondence sent by Brisbane Catholic Education
+Administration, Australia inviting all 104 Catholic Education preschools and primary
+schools in the greater metropolitan area of Brisbane to participate in the research
+project. 16 of the schools that volunteered to participate following the initial email
+were contacted, and an information meeting outlining the project was held for
+principals and teachers for each of the 16 schools. 14 of the 16 schools that
+demonstrated initial interest, agreed to participate in the study. The majority of the
+children attending these schools (and characteristic of the general population of
+Brisbane) were White, and working to middle class. Detailed information about
+ethnicity was not obtained.
+Once informed consent had been obtained from each of the principals, the
+participating schools were matched on socioeconomic status and then the schools
+were randomly assigned to an intervention group (IG), active comparison group (CG)
+or waitlist control group (WL). Following random assignment letters were sent to the
+families in each school inviting parents to attend an information evening discussing
+the rationale for the research project and details of what would be required of each
+family should they consent to participate.
+10
+Participants
+The final sample consisted of 488 children (271 females, 217 males) between the aged
+of 4 and 7 years (mean age = 5.42 years, SD =0.67) across 14 schools. Random
+assignment of the schools to the three conditions, resulted in the final sample of 160
+children (95 female, 64 male) in the IG, 196 children (101 female, 95 male) in the CG
+and 130 children (75 female, 58 male) in the WLG. 440 fathers and 484 mothers
+completed the battery of questionnaires. Approximately 3.3% of the sample reported
+an annual family income (Australian dollars) under $30,000, 13.3% between $30,000
+and $60,000 and 76.5% of the sample reported an income above $60,000. The schools
+ranged in terms of enrolment number from 249 to 641 students and socioeconomic
+status of the schools ranged from 1033 - 1200 based on the Index of Community
+Socio-Educational Advantage (ICSEA, mean = 1000, SD = 100). The number of prep
+and pre prep classes varied across the schools from 1 to 4 classes participating in the
+research. 31 teachers participated in the study.
+Measures
+Parents and teachers of children who consented to be involved in the research
+completed a battery of questionnaires at three different points in time (preintervention, post-intervention and 12-month follow-up). These measures are detailed
+below;
+Parent Completed Measures for Child
+Preschool Anxiety Scale
+The Preschool Anxiety Scale (PAS; Spence, Rapee, McDonald, & Ingram, 2001),
+adapted from the Spence Children’s Anxiety Scale, is a 34-item parent report
+assessment designed to assess childhood anxiety symptoms as defined by the
+Diagnostic and Statistical Manual, 4th Edition (DSM-IV, APA, 2000). The PAS
+provides a total score of anxiety (minimum score 0, to a maximum score of 112), in
+addition to five subscale scores: separation anxiety, physical injury fears, social
+phobia, obsessive-compulsive disorder, and generalised anxiety disorder. The PAS
+has adequate psychometric properties and good construct validity with the Child
+Behaviour Checklist (Achenbach, 1991; 1992; Achenbach & Rescorla, 2000),
+11
+correlations ranging from .59 to .68. Both parents completed the PAS conjointly in
+this study.
+Behavioural Inhibition Questionnaire
+The Behavioural Inhibition Questionnaire (BIQ; Bishop, Spence, & McDonald, 2003)
+is a 30-item parent report questionnaire assessing the frequency of behaviours
+associated with behavioural inhibition (BI) across a 7-point likert scale. The measure
+provides a total BI score, in addition to 6 specific scores characteristic of BI; peer
+situations, physical challenge, separation/preschool, performance situations,
+unfamiliar adults and general novel situations. The BIQ has demonstrated good
+psychometric properties, with high internal consistence (.87 for mother report, .85 for
+father report) and strong convergent validity (.87 for mother, .86 for father) against
+the inhibition scale of the Temperament Assessment Battery for Children – Revised
+(Martin, 1994), and good internal consistency for all informants. Parents were invited
+to complete this measure conjointly.
+Behavioural and Emotional Rating Scale, Second Edition,
+The Behavioural and Emotional Rating Scale (BERS-2; Epstein & Sharma, 1998) is a
+52-item parent report measure, designed to assess five factors related to children’s
+emotional and behaviour strengths; interpersonal strengths, family involvement,
+intrapersonal strength, school functioning and affective strength. The BERS-2 has
+demonstrated excellent inter-rater reliability (r> .83) and moderate to excellent testretest reliability ranging from .53 to .99 (Epstein et al, 1999). This measure was used
+to assess social-emotional competence, parents were invited to complete this
+conjointly.
+Strengths and Difficulties Questionnaire
+The Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997) is a 25-item
+measure designed to assess psychological adjustment in children aged 3 to 16 years.
+The items are divided between 5 scales: Emotional difficulties, Conduct Problems,
+Hyperactivity and Inattention, Peer Difficulties, and Pro-Social Behaviour.
+Participants are required to indicate either “not true (0), “somewhat true” (1) or
+“certainly true” (2) for each of the statements, with higher scores indicative of more
+significant problems for each subscale, excluding pro-social behaviour where higher
+12
+scores indicate positive adjustment. The SDQ has sound psychometric properties for
+all subscales (Vostanis, 2006), internal consistency (mean Cronbach a: .73), crossinformant correlation (mean: 0.34), or retest stability after 4 to 6 months (mean: 0.62).
+(Goodman, 2001; Goodman & Scott, 1999). Assessment of the psychometric
+properties of the SDQ based on an Australian sample generated evidence moderate to
+strong internal reliability across all SDQ subscales (Hawes & Dadds, 2004).
+Adequate validity was also achieved in terms of the relationship of the SDQ subscales
+to one another. In addition correlations between the subscales, teacher ratings, and
+diagnostic interviews demonstrated sound external validity (Hawes & Dadds, 2004).
+Parents were invited to complete this measure conjointly.
+Devereux Early Childhood Assessment Clinical Form
+The Devereux Early Childhood Assessment Clinical Form (DECA-C, LeBuffe &
+Naglieri, 1999) is a standardised, norm-referenced behaviour rating scale that
+evaluates behaviour related to social and emotional resilience and concerns in
+preschool aged children aged 2-5 years. The DECA evaluates the frequency of
+positive behaviours (strengths) as well as negative behaviours (concerns). The
+positive behaviours related to resilience include three Protective Factors Scales;
+initiative (11 items), self control (8 items) and attachment (8 items). The Total
+Protective Factors Scale is a composite of the three scales and provides an overall
+indication of the strength of the child’s protective factors. The behaviours related to
+social and emotional problems comprise four Behavioural Concern Scales; Attention
+problems (7 items), Aggression (7 items), Emotional control problems (8 items) and
+Withdrawn/depressed (9 items). A Total Behavioural Concerns Scale is a composite
+of the four-behavioural concern scales, provides an overall index of the magnitude
+and severity of the child’s beahvioural problems. Studies indicate that the DECA-C is
+a reliable instrument for assessing social and emotional competence and behaviour in
+preschool aged children (Buhs, 2003; Chittooron, 2003; Reddy, 2007). Internal
+reliability alpha coefficients for parents range from a low of .66 on Withdrawal/
+Depression to .78 on Emotional Control Problems, with a median of .76. The
+development and standardisation of the DECA, including all original psychometric
+studies, are described in detail in the DECA technical manual (LeBuffe & Naglieri,
+1999). The DECA was normed on a representative American sample of 2,000
+children across 28 states. Half of the children in the sample were rated by a parent or
+13
+other family caregiver; and half by a preschool teacher. It is important to note that
+whilst the measure was normed on a sample of children aged 2-5 years, in the current
+trial the DECA was administered to all children in the sample with ages ranging from
+4 – 7 years. Parents were invited to complete this measure conjointly.
+Parent Completed Measures for Self
+Depression, Anxiety and Stress Scale
+The Depression, Anxiety and Stress Scale (DASS-21; Lovibond & Lovibond, 1994) is
+a 21-item self-report assessment measure. This measure provides an assessment of
+parental anxiety, depression and stress. The measure has demonstrated excellent
+psychometric properties with good reliability, with Cronbach’s alpha ranging from
+0.73 to 0.82 for the anxiety subscale and 0.82 for depression (Clara, Cos & Enns,
+2001; Henry & Crawford, 2005; Lovibond & Lovibond, 1995). Studies have reported
+good estimates of internal consistency reliability for scale scores (range=.82 to .97)
+in both clinical and nonclinical samples (e.g., Henry & Crawford, 2005; Lovibond &
+Lovibond, 1995).The measure has also been found to correlate strongly with other
+widely used measures of depression and anxiety (Augustine., et al., 2012; Sukantarat,
+Williamson, & Brett, 2007). Mothers and fathers were invited to complete this
+measure independently from one another.
+Hospital Anxiety and Depression Scale
+The Hospital Anxiety and Depression Scale (HADS; Zigmond & Snaith, 1983) is a
+self-assessment instrument for detecting clinically significant depression and anxiety
+in patients attending outpatient medical clinics and for discriminating between anxiety
+and depression. It has been widely used as a screening instrument outside of the
+hospital setting, and also for rating psychiatric patients. The HADS is a self-report,
+14 item scale with seven items measuring anxiety (HADS-A) and seven measuring
+depression (HADS-D). Scores range from 0 - 21 for each scale; higher scores
+represent more distress. The time frame refers to mood during the previous week.
+The HADS appears to have psychometric properties, with correlations between the
+two subscales reported to vary from.40 to.74 (mean.56) (Bjelland, Dahl, Haug &
+Neckelmann, 2002). Cronbach's alpha for HADS-A varied from.68 to.93 (mean.83)
+and for HADS-D from.67 to.90 (mean.82). The sensitivity and specificity for both
+HADS-A and HADS-D (0.80) were reported to be consistent with the General Health
+14
+Questionnaire (GHQ; Goldberg, 1978). Correlations between the HADS and other
+commonly used questionnaires designed to assess anxiety and depression were
+reported to be within the range of .49 to.83. (Bjelland, Dahl, Haug & Neckelmann,
+2002). Mothers and fathers were invited to complete this measure independently
+Parenting Stress Index, Short Form
+The Parenting Stress Index, Short Form (PSI – SF; Bidin, 1994) is a 36-item parent
+report measure which provides an overall measure of stress within the parent child
+relationship and includes three sub scales; Parental Distress, Parent-Child
+Dysfunctional Interaction and Difficult Child. The PSI-SF is designed for the early
+identification of parenting and family characteristics that fail to promote normal
+development and functioning in children, children with behavioural and emotional
+problems, and parents who are at-risk for dysfunctional parenting. Studies of testretest reliability (r =0.84) and internal consistency (α = .91) demonstrate high to
+excellent reliability (Abidin, 1995). The total score on the PSI-SF was used as a
+measure of parenting stress. Mothers and fathers were invited to complete this
+measure independently.
+Measure Completed by Teachers
+The Devereux Early Childhood Assessment Clinical Form, Teacher Report (DECAC, LeBuffe & Naglieri, 1999) is identical to the parent report form. This is a
+standardised, norm-referenced behaviour rating scale that evaluates social and
+emotional resilience and concerns in preschool aged children. The DECA evaluates
+the frequency of positive behaviours (strengths) as well as negative behaviours
+(concerns). For teachers, the alpha coefficients range from .80 on
+Withdrawal/Depression to .90 on Attention Problems, with a median of .88.
+Procedure
+Phase One: Pre-assessment Screening
+All parents were sent an information sheet and pre assessment questionnaire detailing
+the research project. Participants were informed that all responses would be
+confidential and would only be viewed by research staff and that they were free to
+withdraw at any time. In addition it was made clear that the intervention would be
+delivered during class time and at no cost to parents. None of the schools involved in
+15
+the current research project had been directly involved with the Fun FRIENDS
+program before this research project. Of the 14 schools that agreed to participate,
+none of the parents refused to allow their child to participate in the program, this is
+consistent with the pilot Fun FRIENDS study (Pahl and Barrett, 2010) and is likely
+due to the fact that the program was implemented as part of school curriculum.
+Pre-intervention assessment was conducted within a two-week time period with
+questionnaires sent to teachers and parents through school administration, with
+completed questionnaires returned to classroom teachers. Teachers completed the
+DECA for each child in their class participating in the research. The option to
+complete the questionnaires individually with the researcher was offered to parents to
+ensure all participants comprehended the questions regardless of academic or English
+language ability.
+Post intervention assessment was conducted within two weeks of completion of the
+program and approximately 24 weeks following pre-assessment screening. At 12
+month follow up the same procedure was adhered to, with schools sending the
+questionnaires to parents and collected by the classroom teachers within a two week
+time limit.
+Intervention
+Intervention Protocol – Fun FRIENDS
+The Intervention program used was the Fun FRIENDS program. Fun FRIENDS is a
+developmentally appropriate downward extension of the FRIENDS for Life program
+created for the prevention of anxiety and promotion of social and emotional skills and
+resilience in early childhood (Barrett, 2007). The program name Fun FRIENDS is an
+acronym for the strategies taught within the program, with each letter corresponding
+to a specific skill. See Table 1, for a description of session content. The primary
+components of the program include relaxation, cognitive restructuring, attention
+training and graded exposure to anxiety provoking situations and problem solving,
+which are facilitated by peer and family support. The Fun FRIENDS program
+actively involves parents, teachers and children to promote skill acquisition and
+reinforcement of skills across contexts.
+16
+The intervention commenced approximately two weeks following pre-intervention
+assessment. Teachers were advised that the programs were to be delivered across two
+school terms with a recommended delivery schedule of one session per week.
+Further, the teachers were instructed that the program was to be delivered in
+chronological, however there was significant opportunity for creativity within each
+session. Teachers were provide with a leader’s manual outlining the content and
+process for each of the 10 sessions (Barrett, 2007) and each child was provided with a
+Family Learning Adventure workbook which provides step-by-step instruction for
+home implementation of the session skills (Barrett, 2007b).
+Teacher Training
+Prior to commencement of the program all classroom teachers across the 4 schools
+allocated to the Intervention Group attended a one-day intensive training workshop,
+which provided psycho-education about childhood anxiety, the theoretical rationale of
+Fun FRIENDS and instruction in delivery and facilitation of the program. Content
+also addressed ethical issues associated with running groups with children and group
+process skills. The Fun FRIENDS Group Leader Manual (Barrett, 2007a) training
+manual, training aids, handouts, exercises, discussion questions, videos and overheads
+were standardised across training workshops via a training manual and resource kit
+(Barrett, 2007a). The lead researcher, a registered Clinical Psychologist, was
+responsible for conducting the training of all teachers allocated to the Fun FRIENDS
+program in addition to facilitating parent talks for all of the participating schools.
+Regular contact was initiated by the lead researcher with all teachers from the
+participating schools to provide support and answer questions relating to the
+implementation of the programs or address any questions arising. In addition the You
+Can Do It team was also available for consultation through the lead researcher to
+address questions arising from the implementation of this program. Regular
+consultation and communication with parents across all of the 14 schools was also
+maintained through updates in school newsletters. Parents were also provided with
+contact details for the researchers should they wish to discuss any concerns or provide
+feedback. In order to assess the integrity of the intervention protocol the teachers
+within the Fun FRIENDS intervention group were required to complete a weekly
+checklist indicating compliance with the manual session content.
+17
+Parent Sessions
+Parents were encouraged to attend two parent sessions across the course of program
+implementation and coincided sessions 4 and 7. Parent sessions were conducted
+during the evening to increase the possibility that both parents may be able to attend.
+Session content included educating parents about child anxiety, social and emotional
+competence and resilience and outlined each of the component skills of the Fun
+FRIENDS program. Parents were encouraged to practice the skills and strategies in
+the home environment to ensure generalisation across contexts.
+Insert Table 1 here.
+Intervention Protocol - The You Can Do It Comparison Group (YCDI)
+The You Can Do It CBT based social and emotional skills was included as an active
+control condition. This program is endorsed as an effective school based program,
+designed to be delivered at a universal level by teachers in the classroom setting to
+promote confidence and social and emotional strength (Ashdown & Bernard, 2012;
+Bernard & Walton, 2011; Bernard 2006). A recent study, similar in design to the
+current trial, examined the effect of the You Can Do It program on the social and
+emotional development and academic achievement of preparatory and grade 1
+students attending a Catholic school in Melbourne, Australia (N = 99) (Ashdown &
+Bernard, 2012; Bernard & Walton, 2011). The program was delivered over 10 weeks
+by classroom teachers, with results indicating a statistically significant improvement
+in social and emotional competence and well being in children and a reduction in
+problem behaviours as rated by teachers.
+Unlike the Fun FRIENDS program, You Can Do It does not involve any specific
+training for facilitators in terms of the implementation of the program. Teachers
+received the program material and manual and were required to administer the
+program as per the implementation directions.
+The main objective of the You Can Do It program is the development of young
+people’s social and emotional capabilities, including: Confidence, Persistence,
+18
+Organisation, Getting Along, and Resilience. Central to the development of these 5
+Foundations is instilling in young people 12 Habits of the Mind that support and
+foster the 5 Foundations, including Accepting Myself, Taking Risks, Being
+Independent, I Can Do It, Giving Effort, Working Tough, Setting Goals, Planning My
+Time, Being Tolerant of Others, Thinking First, Playing by the Rules, and Social
+Responsibility (includes the values of Caring, Doing Your Best, Freedom, Honesty,
+Integrity, Respect, Responsibility, Understanding, Tolerance, and Inclusion) (Bernard,
+1997).
+Parent Training
+The same initial parent information evening that was offered to parents in the IG, was
+also offered to the Comparison Group. An additional parent session was conducted
+by You Can Do It program educators half way through the program to provide parents
+with further information about how to reinforce the skills at home. The parent
+evenings at each of the schools was facilitated by the Director of the You Can Do It
+program.
+Program Implementation
+Following consent and completion of the same battery of questionnaires as the IG, the
+schools were provided with the You Can Do It program and resources. The teachers
+were responsible for implementing the program as per the guidelines for teachers set
+out in the manual. As per the IG, the comparison You Can Do It program was
+implemented once per week for approximately one hour across school two terms,
+facilitated by classroom teachers. A registered psychologist was available during the
+period of implementation to provide support for the teachers and respond to questions.
+Teachers were provided with the program manual and all required props and puppets.
+Wait-list Group
+The five schools allocated to the monitoring comparison group received the same
+initial parent information evening. The identical process of completing questionnaires
+was followed as for the IG and CG, with questionnaires completed at pre, post and 12
+month follow-up. The schools continued with standard curriculum as normal for the
+12-month wait period, with Clinical Psychologists available for consultation during
+19
+this period of time. Following the 12-month wait, all of the schools were offered the
+Fun FRIENDS program.
+Results
+Preliminary analysis
+Preliminary analysis revealed large amounts of missing data for each of the father
+response measures (ranging from 25% for the defensive responding scale to 16% for
+the DASS-21). The PSI-SF was not completed by 10% of mothers at follow-up, and
+8% of mothers at post-test. All remaining variables had less than 6% missing data.
+In all, 200 of the 488 participants were missing on at least one observation. There
+were 15 cases that were missing on more than 30% of their data, and these data were
+removed to prevent potential bias arising from these non-responders. For the
+remaining participants data was clustered according to the pattern of responding using
+the VIM package in R (R Development Core Team. 2007). Only one clear pattern of
+missing data was observed, with 6.3% of respondents missing all father response data.
+The remaining participants showed no tendency to respond in any given pattern,
+suggesting that the data appear to be effectively missing at random across the data set.
+Due to the large amounts of missing data on some variables, it was decided to analyse
+only complete data points, using Linear Mixed Effects models for the analysis of the
+overall effect of the intervention. Linear mixed effects models include all
+observations, which are valid at each time point and are recommended as they reduce
+bias, which might otherwise be created in excluding those respondents with
+incomplete data (Cnaan, Laird, Slassor, 1998). Although there may still be issues of
+generalisability of the findings, the analysis of complete data is less problematic for
+multivariate analyses than is imputation of data when data are extensively missing as
+these analyses make less assumptions about the nature of the missing data and
+therefore produce less biased estimates (Kalton & Kasprzyk, 1982).
+Examination of the distributions of the continuous measures revealed significant
+skewness as well as significant outliers among a large number of clinical measures.
+For each variable that was significantly skewed an appropriate transform was
+identified from the ladder of powers (square root, log, inverse and inverse log), which
+transformed the variable to non-significantly skew (Tabachnick and Fidell, 2007). All
+20
+of the Parent BERS-2 measures were negatively skewed, as well as the following
+Parent report subscales on the DECA; attachment, initiative, protective factors, and
+self control. The parent report hyperactivity subscale on the SDQ was also negatively
+skewed. These variables were reflected before transformation, and then re-reflected
+to retain their direction. Only the BIQ social novelty scale could not be transformed
+with this method, this variable was transformed using the best power transform using
+the Box-Cox procedure (Box & Cox, 1964). The optimal power for this variable was
+0.72. Significant outliers were winsorized at 3 standard deviations to reduce their
+influence on analyses (Tabachnick & Fidell, 2007).
+Insert Table 2 here.
+Insert Table 3 here.
+Exploratory Factor Analysis – Parent data
+An exploratory factor analysis was conducted on all measures using principal axis
+factoring with oblimin rotation. Examination of the scree plot (Figure 1) showed
+potentially 5 factors with eigenvalues > 1, and a discontinuity after the fifth factor.
+Examination of both the four- and five-factor solutions revealed an identical factor
+structure for the first 4 factors, while the 5th factor comprised only a single variable;
+the DECA protective factors scale, which loaded more strongly on the second than on
+the 5th factor, and therefore the four-factor solution was preferred in the interest of
+interpretability.
+Insert Figure 1: Scree Plot here.
+Examination of the factor loadings (table 4) for the oblique factor solution revealed a
+simple structure. Based on the interpretation of the factor loadings, the first factor
+was labeled behavioural and emotional functioning as it comprised only of 5 items
+from the BERS-2 scale, the second was labeled behavioural difficulties (as it
+positively loaded behavioural problems from the SDQ (4 items) and DECA (5 items),
+and negatively loaded protective factors from both tests) the third was labeled
+Inhibition as it comprised the PAS social anxiety scale, the BIQ social and situational
+novelty scales, and the BIQ physical challenges scale, and the fourth factor was
+21
+labeled parenting stress as it comprised 6 items solely from the parenting stress index.
+After standardization of the items, Cronbach’s alphas for the index items on each
+scale were .86 (factor 1), .88 (factor 2), .78 (factor 3), and .86 (factor 4).
+Intercorrelations between the factors are provided in table 5.
+Insert table 4.
+Insert table 5.
+Baseline differences
+Preliminary one-way ANOVAs on each of the factors revealed that there was no
+significant difference in the baseline scores for Factor 4, however significant baseline
+differences were identified between the groups on factors 1 through 3 (F(2, 470) =
+13.54, p < .001 for factor 1, F(2, 466) = 3.31, p = .037 for factor 2, F(2,470) = 17.33,
+p < .001). For factor 1 the waitlist group scored significantly higher than either of the
+two treatment groups (p < .05), but the treatment groups did not differ significantly.
+For factor 2 (behavioural difficulties) the waitlist group scored significantly higher
+than the Fun Friends, but not the You can do it group (p < .05), while for factor 3 the
+waitlist group scored significantly lower than both of the treatment groups and in
+addition the You can do it group scored significantly higher than the Fun Friends
+group (p < .05). To account for this, the followup analyses for the group differences
+were performed using ANCOVA controlling for baseline scores as recommended by
+Rausch, Maxwell, and Kelley (2003).
+Intervention Effects
+A two-way linear mixed effects model was conducted examining each of the factor
+scores at three time points (pre-test, post-test and at 12 months follow-up) for each of
+the three groups (Fun Friends, You Can Do It, and Waitlist). Models included time as
+a categorical repeated measures factor, group as a categorical between-subjects factor,
+and participant identification and school as a random factor to account for the nested
+nature of the design. Models were compared using a variety of covariance structures
+as is recommended, including first-order autoregressive, compound symmetry and
+scaled identity and model selection was based upon the Akaike Information Criterion
+22
+(AIC). For factors 2-3 the first-order autogressive model provided the best fit, while
+for factors 1 and 4 the compound symmetry model provided the lower AIC.
+Behavioural and Emotional Strength
+Analysis revealed significant main effects of time for all factors (F(2,939) = 453.84, p
+<.001 for behavioural and emotional strength, F(2,912.92) = 299.85, p <.001 for
+behavioural difficulties, F(2,971.14) = 289.99, p <.001 for behavioural inhibition, and
+F(2,897.89) = 55.32, p <.001 for Parenting Stress). There were significant two-way
+interactions between time and group for factors 1 – 3 (F(4,939.01) = 50.39, p <.001
+for BERS-2, F(4,912.93) = 6.37, p < .001 for behavioural difficulties, and F(971.14) =
+59.62, p <.001 for inhibition).
+For the three factors that exhibited a significant interaction, simple effects of time
+were examined for each of the three intervention groups. Analysis revealed that for
+behavioural and emotional strength, all groups improved significantly from pretest to
+post-test and continued to improve significantly from post-test to follow-up (F(2, 310)
+= 352.59, p < .001 for Fun FRIENDS, F(2, 371.06) = 160.86, p < .001 for You Can
+Do It, and F(2, 258) = 31.21, p < .001 for the Waitlist group). Controlling for
+baseline scores, the Fun Friends group improved significantly more than either the
+You can do it group (p < .001) or the Waitlist group (p = .007) at post-test, and
+improved significantly more than both other groups at follow-up (p < .001). The You
+can do it group improved significantly more than the Waitlist group at follow-up (p <
+.001 ) but not at post-test (p = .061).
+Behavioural Difficulties
+All groups differed significantly from pre-test to post-test, in terms of behavioural
+difficulties and continued to improve from post-test to follow-up F(2,310) = 202.75, p
+<.001 for Fun-Friends, F(2,362) = 85.31, p <.001 for You Can Do It, and F(2,253) =
+32.69, p <.001 for the Waitlist group). Controlling for baseline scores, both the Fun
+FRIENDS group and the You Can Do It group improved significantly more than the
+Waitlist group at post-test (p < .001 and p = .002 respectively), while the Fun Friends
+and You can do it groups did not differ (p = .095). At follow-up, neither group
+improved significantly more than the waitlist, controlling for baseline scores, however
+23
+the Fun Friends group did improve significantly more than the You can do it group (p
+= .021).
+Behavioural Inhibition
+In terms of behavioural inhibition, both the Fun FRIENDS and the Comparison Group
+improved significantly from pre-test to post-test and then continued to improve
+significantly from post-test to follow-up (F(2, 327.4) = 375.77, p < .001 for FunFriends, and F(2, 384.69) = 106.84, p < .001 for You Can Do It), while the Waitlist
+group did not improve significantly from pre-test to post-test or from post-test to
+follow-up, but did have overall lower scores at follow-up than at pretest (F(2, 260.68)
+= 3.23, p < .001). Controlling for baseline scores, both the Fun FRIENDS and You
+Can Do It groups improved significantly more than the Waitlist group, and the Fun
+Friends group improved significantly more than the You can do it group both at posttest and at follow-up ( all ps < .001).
+Insert Figure 2: Four Factor Scores at Pre, Post and 12 month Followup here.
+Comparison of the Fun-Friends intervention for high-versus low-anxious
+children
+To establish whether the Fun-Friends intervention was significantly more effective for
+high-anxious than for low-anxious children, those children scoring in the top third on
+the PAS total score were compared to those scoring in the bottom third of the group.
+Two-way linear mixed effects models were conducted comparing the high- and lowanxious children in terms of their intervention gains, and the interaction term was
+examined to determine whether a significant difference in improvement existed
+according to the basline anxiety of the child.
+Significant interactions were found for the behavioural and emotional strength factor
+(F(2, 184.19) = 5.16, p = .007) the behavioural difficulties factor (F(2, 189.54) = 4.32,
+p = .015), and the behavioural inhibition factor (F(2,179.42) = 15.48, p < .001).
+Followup simple effects for the BERS-2 factor demonstrated that both high- and lowanxious children improved significantly from pretest to post-test and from post-test to
+follow-up, however this improvement was greater for the high anxious children.
+24
+Examination of figure 3 shows that although the high anxious children initially
+displayed lower scores than the low-anxious group, by the followup time point both
+groups had equivalent scores.
+Insert Figure 3: Levels of Social and Emotional Competence at Pre, Post and Followup for the Fun FRIENDS group here.
+Follow-up simple effects of time for the Behavioural difficulties factor showed
+significant intervention effects for both the high-anxious group (F(2, 106.45) = 43.85,
+p < .001) than for the low-anxious group (F(2,74.2) = 44.4, p < .001 ). Both high- and
+low-anxious groups improved from pretest to post-test, and both reverted to some
+extent at followup, but were still significantly improved relative to baseline. The high
+anxious group however experienced slightly more improvement (and reverted slightly
+more) than the low anxious group (see figure 4).
+Insert Figure 4: Levels of Behavioural Difficulties at Pre, Post and Follow-up for the
+Fun FRIENDS group.
+Follow-up simple effects of time for the Inhibition factor showed greater intervention
+effects for the high-anxious group (F(2, 224.15) = 194.26, p < .001) than for the lowanxious group (F(2, 224.15) = 107.79, p < .001 ). Both high- and low-anxious groups
+improved from pretest to post-test, but only the high-anxious group continued to
+improve from post-test to follow-up. For the Inhibition measure the high-anxious
+group did not reach the same performance level as the low-anxious group (figure 5).
+Insert Figure 5: Levels of Behavioural Inhibition at Pre, Post and Follow-up for the
+Fun FRIENDS group.
+Teacher Protective factors rating
+A two-way linear mixed effects model conducted on the teacher ratings of the DECA
+protective factors scale. Analysis revealed a significant main effect of time,
+F(2,904.54) = 32.68, p <.001. Analysis also revealed a significant time*group
+interaction, F(4,904.55) = 8.699, p <.001, shown in Figure 5. Only the Fun FRIENDS
+group changed significantly over time, F(2,284) = 35.69, p <.001. The Fun FRIENDS
+25
+group improved significantly from pretest to post-test, and maintained this level of
+function at follow-up. Controlling for baseline differences, the Fun FRIENDS group
+improved significantly more than either the You can do it group or Waitlist group at
+both post-test and follow-up (ps < .001), while the You can do it and Waitlist groups
+did not differ significantly.
+Insert Figure 5: Teacher Protective Factors at Pre, Post and Follow-up for the Fun
+FRIENDS group, here.
+A supplementary analysis was then conducted comparing teacher and parent ratings
+of the DECA protective factors. The analysis revealed a significant large main effect
+of respondent, such that parents overall rated the protective factors scale higher than
+did teachers F(1,751.43) = 334.76, p <.001, as well as a main effect of time,
+F(2,745.78) = 433.93, p <.001, and a significant two-way interaction between
+respondent and time F(2,745.78) = 192.14, p <.001. There were significant simple
+effects of time for both parents, F(2,309.13) = 916.63, p <.001, and teachers,
+F(2,282.82) = 38.76, p <.001. For both kinds of respondents, the post-test scores
+differed significantly to pretest scores, and follow-up scores did not differ
+significantly to scores at posttest. Parents however showed significantly larger
+intervention effects than did teachers.
+Insert Figure 6: Comparison of Teacher and Parent Ratings of Protective Factors for
+the Fun FRIENDS group, here
+Comparison of mother and father distress ratings
+A two-way linear mixed effects model comparing mother and father ratings of
+parental distress revealed a very large main effect of respondent, F(1,713.661) =
+4173.673, p <.001, such that fathers rated their distress a great deal higher overall
+than did mothers. There was also a significant main effect of time, F(2, 698.55) =
+24.92, p <.001, such that scores improved significantly from pretest to post-test for
+both groups, but did not change from post-test to follow-up. There was no significant
+interaction between the factors, F(2,695.87) = 2.13, p = 0.119. Refer Figure 6
+Insert Figure 7: Comparison of Mother and Father Levels of Parental Distress, here.
+26
+Discussion
+This study was the first to examine the effectiveness of a universal school based
+delivery of the Fun FRIENDS program with children aged 4-7 years. The findings
+provide promising support for early intervention models for reducing anxiety and
+increasing social and emotional strength in this population regardless pre-intervention
+anxiety symptomatology. This has important implications for the prevention and
+treatment of anxiety in early childhood as it suggests that classroom based universal
+early intervention programs are sufficient to produce clinically significant change.
+The fact that intervention gains were maintained 12 months post intervention provides
+further support and provides evidence for the importance of preventive universal
+intervention in early childhood. Given that formal education in early childhood has a
+clear focus on social-emotional development, prevention programs that target
+emotional regulation and social competence have the potential to reinforce skill
+acquisition during the optimal developmental period (Humphries & Keenan, 2006).
+A review of the main findings shows that compared with children in the WL
+condition, children in the two active conditions demonstrated greater symptom
+reduction and enhancement of social and emotional competence. Overall, both active
+intervention conditions appear to have produced significant and comparable gains,
+however the Fun FRIENDS intervention produced greater improvements at post and
+follow up. The results have clear implications for early intervention, providing
+support for the positive impact of the Fun FRIENDS program in terms of enhancing
+social and emotional competence in this population. Delays or impairments in
+emotional regulation and social competence are associated with maladaptive coping
+behaviour and increased risk of childhood psychopathology including anxiety
+disorders (Southam-Gerow & Kendall, 2002).
+Another finding of the study demonstrated significant decreases in BI from pre to post
+assessment and at 12 month follow up for the IG suggesting that changes in anxiety
+can positively impact BI. Research indicates the enhancement of a child’s ability to
+regulate emotional reactivity may contribute to a resilience process and subsequently
+lead to decreases in BI, and potentially reducing symptoms of anxiety (Ballespí, Janeé
+& Riba, 2012).
+27
+A significant finding of the study was that fathers rated levels of parental distress and
+negative perceptions of their child’s behaviour a great deal higher overall than did
+mothers, however both mothers and fathers showed significant improvements over
+time. This may occur through the process of enhancing parental confidence and
+fostering heightened awareness. Improved insight may translate into flexibility of
+maladaptive parenting attitudes and behaviours such as over control and over
+protection. Further by teaching parents positive coping strategies to assist their
+children to regulate emotions, this may result in a decrease in frustration and greater
+understating of their child’s anxiety. These results provide support for the inclusion
+of parents in interventions for young children with anxiety, and has implications for
+behavioural difficulties as the study had a positive impact on behavioural issues post
+intervention. Whilst this was not a specific objective of the intervention this is an
+important finding given the negative impact on bullying and difficulties with peer
+relationships on development and psychosocial functioning.
+A comparison of high versus low anxiety in the active group showed that despite
+differing baseline scores pre assessment, both groups achieved a comparatively
+positive response post intervention with continued improvement at 12-month followup. Further analysis on the high versus low anxiety groups demonstrated decreased
+BI for both groups, with only the high anxious group maintaining improvements at 12
+month follow-up. This finding may suggest that independent of risk status it is
+possible to positively impact levels of behavioural inhibition and enhance positive
+coping behaviour for highly anxious children through a universal intervention.
+However the dose requirements for children presenting with high behavioural
+inhibition may be greater than children with low levels at initial assessment.
+In terms of protective factors both parents and teachers reported improvements in
+children’s emotional and behavioural competence over time for the IG, with parents
+reporting larger improvements. Whilst there was a difference in the extent of
+improvement between parents and teachers, this concordance is important as it
+suggests that the Fun FRIENDS intervention facilitated by teachers in the school
+setting has the potential to enhance positive coping and resilience across contexts.
+28
+Limitations
+There were a number of limitations of this study. First, the lack of adherence and
+social validity data may have implications for the validity of some of the findings. It is
+recommended that future studies include both adherence and social validity
+assessment. Likewise there may have been an issue with the continuity or delivery of
+the program given the number of teachers involved. Secondly, the level of missing or
+incomplete data represents a significant limitation. It is likely that much of this
+missing data is related to the length of the questionnaires and the fact that the schools
+allocated to the 12-month wait list did not have any short-term incentive to
+participate. It is recommended that future researchers address this issue in the form of
+incentive or by offering assessment via telephone or Internet. Lastly there may have
+been some issue with consistency regarding the number of participating classes per
+school which may have impacted on results.
+Strengths
+A strength of the study was the methodology employed because of the inclusion of
+both a comparison, 12-month waitlist group and allows for more control of maturation
+and other factors that may impact results. Further, the inclusion of asset based as well
+as deficit measures is also of value, as the focus of the intervention is not simply to
+achieve reduction in symptoms but also promotion of optimal wellness and positive
+coping through skill acquisition.
+The Fun FRIENDS program is a manualised program. The use of a facilitators
+manual outlining the important components of the intervention, balanced with the
+opportunity for facilitators to be flexible and creative while tailoring the intervention
+is an advantage and addresses the criticisms associated with other manualised
+programs (see Addis, Cardemil, Duncan & Miller, 2006; Addis & Krasnow, 2000).
+This approach to intervention is consistent with Kendall and Beidas’s (2007) call for
+“flexibility within fidelity” an umbrella term referring to the application of central
+components of intervention, whilst customising to the child (Kendall, Settpiani &
+Cummings, 2012).
+A further strength of the study is the inclusion of both mother and father measures of
+anxiety and distress. This is of value due to the relative neglect of the father’s role in
+29
+early child childhood anxiety with recent research showing a child’s reactive
+temperament has an adverse effect on father’s parenting in particular (Bögels &
+Phares, 2008; Majdandžić, de Vente, Feinberg, Aktar & Bögels, 2011).
+Future Directions
+Summary
+The majority of school based prevention programs have focused on older children and
+adolescents. Given the high prevalence and early onset of anxiety disorders, there
+may be significant advantages in preventive intervention targeting young children in
+an attempt to avoid significant suffering and impairment. Findings from this trial of
+the Fun FRIENDS intervention provide preliminary support for the effectiveness of
+universal implementation of the program in schools, for children with varying levels
+of pre intervention anxiety. Improvements in behavioural inhibition, social and
+emotional competence and reductions in behavioural difficulties were observed in
+addition to decreases in levels of parenting distress. The next step in evaluating the
+effectiveness of this program will be to replicate the findings, conducting a
+randomised controlled trial with long term follow up and the inclusion of additional
+measures. There are a number of implications of this study, which are discussed.
+It is recommend that future studies may benefit from designing psycho educational
+sessions, either briefer or enhanced accessibility for parents via internet or phone to
+improve parental participation. This may have increased benefits for child and
+parental anxiety and may enhance maintenance of treatment gains. Furthermore,
+longer term follow-up of more than two years is recommended in an attempt to detect
+real prevention effects as the literature suggests that follow up of this length is
+required in order to ascertain prevention effects (Humphries & Keenan, 2012).
+Given our limited understanding of the aetiologial models for anxiety in preschoolers
+the inclusion of measures such as parenting behaviour and parent-child interactional
+processes is also recommended. Given the importance of the relationship between
+childhood anxiety and parental attitude further research is required to assess whether
+changes in emotional regulation mediates changes in anxiety. This study demonstrates
+that a low costs, universal intervention is effective at reducing anxiety and at the same
+30
+time addresses the multitude of barriers children and families face when accessing
+help. 

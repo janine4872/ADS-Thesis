@@ -1,0 +1,420 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Research in Innovative Teaching & Learning
+
+ISSN: 2397-7604
+
+Open Access.
+Article publication date: 17 April 2018
+
+Issue publication date: 29 June 2018
+
+An understanding of the effects of zero tolerance policies in schools has resulted in rethinking of approaches to prevent conflict and creating a healthy school climate. Restorative practices (RP) have been looked to as an alternative to zero tolerance policies. At the same time, social emotional learning (SEL) programming has been implemented to provide students with the skills to communicate and build relationships with peers. The purpose of this paper is to provide a look at the historical context shaping the development of RP, and explore connections between RP and SEL. Considerations for implementation and conceptual models for implementing RP are also discussed.
+
+Informed by education policy analysis methods, this essay places RP in their broader context, explores RP and considers such practices important to study due to the unintended effects stemming from “traditional” obedience-oriented punitive approaches to school discipline (American Psychological Association Zero Tolerance Task Force, 2008; O’Malley and Austin, 2014).
+
+Based on the analysis of current research, the authors explain that when RP are implemented with SEL programming, it is an opportunity for educational practitioners to address issues around race, gender, disability, and other aspects of diversity. By integrating these approaches together, RP become a vehicle to develop students’ SEL skills, which includes communication skills, kindness, empathy, and caring.
+
+An understanding of how zero tolerance policies have played out in the school setting has resulted in rethinking of current approaches to preventing conflict. Subsequently, educational leaders and professional associations have led a shift toward alternative models and practices in school discipline.
+
+District, state, and federal policymakers have pressed for more constructive alternatives that foster a productive and healthy instructional climate without depriving large numbers of students the opportunity to learn (Skiba and Losen, 2016, p. 4). These approaches include RP, as well as integrating SEL into school practices and the curriculum.
+
+Several challenges and opportunities lie ahead. Based on the firsthand work with schools and districts implementing restorative and SEL practices, as well as the knowledge and insights gained from this analysis of research, one important need to consider is the need to integrate school disciplinary practices, including RP, into the school context and existing structures.
+
+By conducting this study of the research evidence on RP, the authors were able to gain insights into questions, including: How have school practitioners applied RP as an alternative to zero tolerance policies?
+
+Hulvershorn, K. and Mulholland, S. (2018), "Restorative practices and the integration of social emotional learning as a path to positive school climates", Journal of Research in Innovative Teaching & Learning, Vol. 11 No. 1, pp. 110-123. https://doi.org/10.1108/JRIT-08-2017-0015
+
+Emerald Publishing Limited
+
+Copyright © 2018, Kristina Hulvershorn and Shaila Mulholland
+
+Published in the Journal of Research in Innovative Teaching & Learning. Published by Emerald Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcode
+
+Restorative practices (RP) are the overarching philosophy and actions that regard relationships and learning from harm as paramount in any community setting. The International Institute for Restorative Practices (IIRP) defines RP as including the use of “informal and formal processes and practices that proactively build relationships and a sense of community to prevent conflict and wrongdoing” (Wachtel, 2016, p. 1). RP encompass a spectrum of actions from proactively building community to responding in restorative ways when serious harm has occurred. Social emotional learning (SEL) programming supports the goals of RP by providing a “coordinated and coherent approach to helping children recognize and manage their emotions, appreciate the perspectives of others, establish positive goals, make responsible decisions, and handle interpersonal situations effectively” to enhance a student’s connection to school (Payton et al., 2008).
+
+Informed by education policy analysis methods, this paper explores RP and considers such practices important to study due to the unintended effects stemming from “traditional” obedience-oriented punitive approaches to school discipline (American Psychological Association Zero Tolerance Task Force, 2008; O’Malley and Austin, 2014). Based on our analysis of current research, we explain that when RP are implemented with SEL programming, it is an opportunity for educational practitioners to address issues around race, gender, disability, and other aspects of diversity. By integrating these approaches together, RP become a vehicle to develop students’ SEL skills, which includes communication skills, kindness, empathy, and caring.
+
+Thus, efforts to integrate SEL within the school culture and curriculum go hand-in-hand with the development of RP. With these ideas in mind, we explored the literature with attention to understanding how educational practitioners might employ and integrate RP and SEL skills in the school setting. We sought to gain insights into questions, including: How have school practitioners applied RP? What are factors to consider in the implementation of RP? And, can an understanding of students’ social and emotional learning needs enhance our overall understanding and assessment of RP?
+
+We begin our analysis by providing historical context of the development of RP, including a discussion of zero tolerance policies and the unintended consequences of such policies. After exploring RP and its connection to SEL, we explore the implementation of RP in schools. With a focus on developing and supporting relationships, we conclude our paper by discussing three models that may help to link RP with SEL approaches. With this work we hope to contribute useful research to support efforts to address school discipline and conflict in a peaceful and constructive manner, and help to address the roots of violence in both schools and society (Bickmore, 2011). Through this review of the literature, we were able to expand our understanding of the connections between the work occurring in schools that is both dedicated to developing students’ skills in SEL and to implementing RP.
+
+During the 1980s and 1990s, school administrators’ concerns about school violence led to an increase in implementation of zero tolerance policies (Curtis, 2013; Skiba, 2014). Zero tolerance has been described as a “broad term that generally reflects rigid, mandated-response approaches to school discipline” (Monahan et al., 2014, p. 1110). The term became widely adopted in schools in the “early 1990s as a philosophy or policy that mandates the application of predetermined consequences, most often severe and punitive in nature, that are intended to be applied regardless of the gravity of the behavior, mitigating circumstances, or situational context” (American Psychological Association Zero Tolerance Task Force, 2008, p. 852).
+
+One of the most common criticisms of zero tolerance policies is that students of color and students with disabilities tend to be more harshly punished under these policies, compared to white students. There is a high degree of racial disparity in school suspension and expulsion in US schools (Skiba et al., 2002). Specifically, research shows ineffective outcomes for zero tolerance approaches and negative impacts on social and academic outcomes, particularly for students from historically disadvantaged groups in education – students of color, poor children, and children with disabilities (Gregory et al., 2010; Thompson, 2016). The disproportionate discipline of students of color may be due to lack of training in culturally competent practices and/or racial stereotypes; and lack of teacher preparation in classroom management (American Psychological Association Zero Tolerance Task Force, 2008, p. 854).
+
+Another criticism of zero tolerance policies in schools is concerned with the increases in security and police presence. Skiba (2014) suggests that zero tolerance advocates believe that the failure to suspend or expel students allows “the cycle of disruption and violence to gain a solid toehold in our schools and community” (p. 28). However, there is a lack of evidence to show that school suspensions prevent future misbehavior or make schools safer (Gregory, Clawson, Davis and Gerewitz, 2016) or that suspensions and expulsions reduce school disruptions or improve the school climate (Skiba, 2014). On the contrary, research has found that out of school suspension and zero tolerance approaches do not reduce or prevent misbehavior (Hannigan and Hannigan, 2016); that zero tolerance policies have contributed to the school-to-prison pipeline (Skiba et al., 2002); and that these types of school disciplinary actions place students at risk for juvenile justice system involvement (Monahan et al., 2014; Thompson, 2016). Reasons cited for the ineffectiveness of zero tolerance policies are due to: inconsistency of implementation; poor outcomes for the school climate; and unfair application of the policy (Skiba, 2014). Often such policies do not work because the root cause of the misbehavior is not addressed. Positive behavior intervention supports (PBIS) is one strategy intended to address this issue.
+
+In 2000, Skiba and Peterson posited “a new perspective on school discipline” (p. 340) and described the emergence of a comprehensive model of prevention to address “the complexity of emotional and behavioral problems in schools” (p. 341). They further explained that this model of school discipline might be conceptualized as an early response opposed to a zero tolerance approach to school violence. This is a valuable point to consider; it helps illustrate a useful idea and key takeaway from the research literature, that RP are both proactive and reactive (National Center for Mental Health Promotion and Youth Violence Prevention, 2009).
+
+RP has its roots in restorative justice, which is “a process whereby all the parties with a stake in a particular offense come together to resolve collectively how to deal with the aftermath of the offense and its implications for the future” (Braithwaite, 1999, p. 5). Although restorative justice has a long history rooted in indigenous cultures, it is still considered a relatively new approach in schools in the USA (Gregory, Soffer, Gaines, Hurley and Karikehalli, 2016). Models of restorative justice can be grouped into three categories: circles, conferences, and victim-offender mediations (Latimer et al., 2005). Restorative justice is a way of “looking at criminal justice that emphasizes repairing the harm done to people and relationships rather than only punishing offenders” (Wachtel, 2016, p. 2).
+
+The benefits of restorative justice include emphasizing recovery of the victim through redress, vindication, and healing (Van Ness and Strong, 2014) and coming together to restore relationships (Llewellyn and Howse, 1998). Although related strategies may contain restorative elements, if they do not bring together the victim, the offender, and the community, they are not considered restorative justice strategies. Community building provides a foundation to help support discipline procedures.
+
+RP provide an alternative to the “punitive school disciplinary policies” that have been shown to be ineffective and racially discriminatory (Anyon, 2015, p. iii). There are several compelling reasons that schools consider restorative justice. These elements include giving schools that are seeking to limit out of school suspension/expulsion tangible and meaningful tools; giving schools the ability to address disproportionality of discipline on students of color; and evidence that such practices can improve teacher morale and retention. As Curtis (2013) notes, even with “seemingly clear-cut policies in place, teachers still decide which infractions are serious enough to report to the office and thereby determine when students are disciplined” (p. 1257). This is also an important point to consider for how teachers themselves become engaged in and are able to develop skills in relationship building and other RP. Some of the problems with students considered to be defiant relate to a lack of skills in communication and conflict resolution and underuse of effective behavior strategies due to inadequate teacher training (Espelage et al., 2016; Skiba and Peterson, 2000). We offer this scenario as an example:
+
+Teacher: Tina, you were talking during a test. Give me your paper.
+
+Student: I was talking because Shaila stole my pencil again and I’m already in trouble with my mom because she stole my basketball. Teacher: That isn’t the problem. You were talking during a test. Student (irritated): She was talking too. See? I told you this teacher hates me.
+
+Teacher: Don’t be disrespectful to me in my classroom when you were the one who broke the rule. Go to the dean’s office.
+
+As we described in the previous section, an understanding of how zero tolerance policies have played out in the school setting has resulted in rethinking of current approaches to preventing conflict. Subsequently, “educational leaders and professional associations have led a shift toward alternative models and practices in school discipline. District, state, and federal policymakers have pressed for more constructive alternatives that foster a productive and healthy instructional climate without depriving large numbers of students the opportunity to learn” (Skiba and Losen, 2016, p. 4). These approaches include RP, as well as integrating SEL into school practices and the curriculum. Skiba and Losen (2016) summarized these alternative strategies that address school climate and school discipline as:
+
+Relationship building (i.e. through approaches such as RP).
+
+SEL approaches (e.g. improving one’s ability to understand social interactions and regulate emotions).
+
+Structural interventions (i.e. PBIS).
+
+RP are one form of relationship building. RP are rooted in restorative justice and support the development of positive relationships, which in turn, create healthy climates while also helping to generate a number of other benefits to support the success of students in school. Part of the work with supporting RP is helping schools to demystify skill building so that teachers and staff can respond with needed skill building strategies during times of conflict or when negative behaviors arise. When students are provided an opportunity to participate in RP, they get to participate in role playing on the conflicts experienced, and are able to receive support for skill development from a trusted adult and/or a small group of students.
+
+It has long been known that a healthy school climate requires “instruction in important social skills” (Skiba and Peterson, 2000, p. 335), and a safe and healthy school climate is a “prerequisite to academic rigor” (International Institute for Restorative Practices, 2009, p. 3). Greenberg et al. (2003) recommend that SEL instruction begin in preschool and continue through high school. School-based SEL programs often entail implementing policies and practices that may help students (as well as teachers, staff, and administrators) to learn and apply knowledge, skills, and attitudes that enhance personal development, social relationships, health, and well-being (Taylor et al., 2017).
+
+SEL “helps students to recognize emotions first in themselves and then in others so they can also develop empathy. SEL curricula directly teach children appropriate actions and provide a safe environment for them to practice what they learn” (Gunter et al., 2012, p. 151). SEL programs promote positive behaviors such as caring, empathy, and kindness to improve relationships between students, and between students and teachers. Thus, understanding the connection(s) between RP and the goals of SEL programming makes sense. Furthermore, the “stability and security of the student-teacher relationship is also foundational to SEL” (p. 152). Students able to have strong relationships with adults in school have been found to gain a sense of belonging. Gregory et al. (2011) also suggest that understanding the teacher-student relationship is critically important given that positive teacher-student relationships among all racial groups are essential to creating an equitable and supportive school climate that does not rely on punitive approaches to behavior.
+
+Finally, PBIS and other structural interventions have been used as a method for schools to help change student behavior (Thompson, 2016). PBIS is thought to be effective because of the school-wide system that is developed, consisting of a team of teachers, staff, and administrators. Sprague (2012) described PBIS as organized around three main themes: prevention; multi-tiered support; and data-based decision making. Thus, the idea that PBIS is concerned with preventing problem behavior disciplinary procedures; and that behavioral expectations are applied consistently school-wide, are two key characteristics and goals of PBIS. Sprague (2012) explained that “the focus is on establishing a positive social climate, in which behavior expectations for students are highly predictable, directly taught, consistently acknowledged, and actively monitored” (p. 5). Finally, although the above strategies have been thought of and defined as alternatives, it is important to note that these as practices can and are being integrated together by schools and districts.
+
+In recent years, researchers have devoted greater attention to the connections between the approaches of RP, SEL practices, and structural interventions. Indeed, it is important to note that practitioners and researchers are recognizing the possibilities for improving school discipline models by integrating both restorative and SEL practices (and structural strategies such as PBIS) and models. Sprague (2012), for example, examined the integration of school-wide PBIS and restorative discipline.
+
+The recent SEL movement has helped to create more attention and interest in the social, emotional, behavioral, and mental health outcomes. According to Chafouleas et al., increased concern has emerged about these outcomes and how they connect to overall success in school to the multi-tiered supports of PBIS. Furthermore, “multi-tiered prevention logic” has created an opportunity to integrate trauma-informed approaches into schools and “are built on foundations involving early identification of risk, varied levels of intervention support designed to teach skills and prevent more serious problems, and continual data-driven evaluation of response” (p. 144).
+
+Research on SEL (Durlak, 2015; Taylor et al., 2017) may help to make additional connections between RP and neuroscience. Gregory, Clawson, Davis, and Gerewitz (2016) posit a need for more research and empirical evidence into developmentally appropriate school discipline interventions that can be integrated into daily instructional practices. Researchers have already integrated these current approaches to inform understanding around creating healthy school environments that support student learning. Increasingly, more attention is paid to how emotions influence learning, relationships, and behaviors (Desautels, 2016). For example, Mary Helen Immordino-Yang’s work examines the neurological and psychological bases of social emotion and self-awareness and the implications for learning, development, and schools. Daniel Reisel’s “The Neuroscience of Restorative Justice” lecture applied both neuroscience and restorative justice theories together to ask questions about the brain and rehabilitation in the criminal justice setting.
+
+SEL is the “process whereby children are able to acknowledge and manage their emotions, recognize the emotions of others, develop empathy, make good decisions, establish positive friendships, and handle challenges and situations effectively” (Gunter et al., 2012, p. 151). Researchers have been able to identify and examine specific learning outcomes for SEL programming and curriculum. These “Core SEL Competencies” are: self-awareness; self-management; social awareness; relationship skills; and responsible decision making. When these SEL concepts are implemented along with RP, the advantage is that the concepts are not presented in a vacuum; rather, these SEL competencies are learned through the filter of the community. For example, “responsible decision making” is defined by the community itself. “Self-management” becomes desirable because the relationships and community are enticing enough to pull students in, rather than push them out.
+
+Often proactive circles are filled with content from the participants themselves. Rather than teach a lesson on how to handle stress or anger, a circle allows the teacher to turn it over to students to discuss ways that they have experienced successful management of stress and/or anger. These strategies that come from within the community are often more likely to be heard and acknowledged by the students; and relevant and workable for the students. Further, in a restorative conference, often discussing misdeeds allows us to understand the missing skillset and “prescribe” specific lessons or skill development. In practice, these most often look like the need for emotional regulation, conflict resolution, and communication skills. The community, in all its diversity, is affirmed, by being the lens through which these social and emotional skills are learned and refined. There are multiple ways of being together and building relationships, and one is not necessarily superior.
+
+One 2009 report by the National Center for Mental Health Promotion and Youth Violence Prevention, called Implementation Guidelines, described restorative justice practices as “a brand new way of looking at resolving conflict, restoring relationships, and problem solving, especially in the school setting” (p. 7). As a result, buy-in, changes in culture and behavior, and especially training and evaluation become essential to a successful implementation.
+
+Training is the most significant cost in implementing RP in schools (National Center for Mental Health Promotion and Youth Violence Prevention, 2009). Prior to training beginning, we often hear about the importance of buy-in to successfully implement RP:
+
+It requires buy-in at all levels of the school system and community, as well as a commitment to using and working through the restorative practices, not just with students but also among staff, to create a culture that produces results in students’ behaviors. And it is an investment in time, staff, and training
+
+(p. 5).
+
+Buy-in and support for RP can be encouraged with the use and presentation of the data that is available on schools that have integrated RP into the school culture. Community members and leaders throughout the school community may help to serve as helpful advocates in communicating the benefits of RP for students and the school community. Policy studies conducted on policy implementation, specifically, may help provide further insights into how educational practitioners gather support and buy-in for a particular program or idea.
+
+Training is one of the next important steps in the implementation process for RP and SEL programming. Along with the National Center for Mental Health Promotion and Youth Violence Prevention’s Implementation Guidelines, the International Institute for Restorative Practices (2009) Improving School Climate: Findings from Schools Implementing Restorative Practices provides several great examples from schools to show the various ways the implementation of a program can be supported through training (and these data may also be helpful for other schools and districts considering RP). The training approaches vary from introductory trainings to trainings specifically on facilitating circles. In addition, the train-the-trainers approach may help to reduce training costs, make implementation more sustainable, and may help to create a leadership team that will support the sustainability of RP and SEL programming.
+
+Finally, an organizational culture change is critical for implementing and meeting the desired outcomes and/or impact. Evaluation of a newly implemented program will begin on an ongoing basis, and may begin in the early stages of implementation to help ensure program fidelity. Both RP and SEL programs involve multiple components and require school resources to implement. In such cases, the intensity and duration of the activities provided will relate to program effectiveness (Wang et al., 2015). One unique aspect of integrating the two approaches of RP and SEL together is that this may present some challenges in evaluating and/or determining which components are most essential to meeting a school or district’s intended goals.
+
+To conclude our analysis we review theoretical perspectives and models that may help guide: the development of social emotional skills; and the implementation of RP. Based on this goal, three key models emerged from the literature as particularly helpful and useful to the work of restorative and SEL practices in the school setting: continuum of RP; social discipline window; and Morrison’s (2004) hierarchy of restorative responses. To provide more detail and overview of RP, we briefly review these models with the goal in mind to guide and support the implementation of RP. Based on the findings from this discussion and analysis, implications for the design of schools and educational systems will be offered. In our discussion, we highlight school districts that have implemented RP to provide further insight into how practitioners make sense of and apply RP.
+
+RP range from informal to formal (McCold and Wachtel, 2001). In the San Francisco Unified School District, for example, RP are based on principles and processes that emphasize the importance of positive relationships as central to building community and repairing relationships when harm has occurred.
+
+According to Morrison (2013), there are a number of different continuums of response; “no doubt, in practice there are many more” (p. 39). Morrison notes that there are various continuum models and approaches available and not one continuum has been shown to be more effective than the other – “school communities mix and match these models developing a continuum of response that fits their needs and concerns” (p. 40). Furthermore, research and development can “establish and test different models, and levels, of responsive regulation through a whole-school approach” (p.40). Indeed, as Braithwaite (2002) suggested, “a whole-school approach is needed that not just tackles individual incidents but also links incidents to […] the culture of the school” (p. 60).
+
+According to Morrison (2013) one of the first to be documented was McCold and Wachtel’s (2001) continuum of RP (Figure 1). Ted Wachtel founded the IIRP, one of the leading providers of professional development and training in the field of RP. On this continuum, the informal practices include affective statements that help to communicate people’s feelings, and affective questions cause people to reflect on how their behavior has affected others. Small impromptu conferences, as well as a group or circle, are less structured and do not require the level of preparation required for formal conferences, as shown in the model.
+
+The IIRPs social discipline window (Figure 2) is useful to dispel myths that RP are permissive and “soft on crime.” The ideal is where the leader and the students are working with one another to create environments, which are conducive to high expectations, learning from mistakes, and positive relationships. This is a particularly useful tool in that it allows professionals to see the balance necessary to sustain a restorative environment. It also dispels the myth that RP are overly tolerant and “soft on crime.” It is important to note that the support axis (shown in Figure 2) must include SEL. To support students to do better, they must be able to access pathways to do better, which often mean new ways of communicating and getting their needs met. Without meaningful SEL (even if only de facto SEL instruction after a problem occurs) there is not enough support to sustain positive behavior change.
+
+In summary, by introducing the notion of a balance of control and support, teachers have an aspirational vision for their classroom and all staff have common language to understand what needs to be added or removed when certain environmental factors are not working for students. It allows us to shape environments so that our students are given the best combinations of factors that will encourage them to thrive.
+
+To understand what a restorative setting or school might look like, Morrison’s (2004) hierarchy of RP has been used to show how a school and its various stakeholders participate in the school community, from a RP perspective. Reminiscent of the PBIS pyramid, Figure 3, which is adapted from Morrison’s model, demonstrates how important the foundation is of relationship building. The IIRP go so far as to say that 80 percent of RP work should be proactive. By investing in this proactive bottom tier, relationships are fortified so that they can weather challenging conversations and conflicts in circles. All work, in this diagram, is outlined in reference to relationships.
+
+This notion of how central relationships (student to student, teacher to student, teacher to administrator, etc.) are to the health and effectiveness of a school is common sense and widely believed, but rarely discussed in education. Take, for example, a teacher who made you uncomfortable or with whom you had a strained relationship. Likely, that teacher is not one who you recall as a particularly effective teacher or one who taught you a great deal. Contrast that with a teacher who made you feel cared for and supported. Likely, that was a teacher who was able to motivate you to work hard and to learn as much as possible. That is the core underlying philosophy of RP and of SEL: relationships matter. The more work we invest at the bottom two tiers, the less there will be to do at the top tier and the more effective the top tier work will be when it is necessary.
+
+Several challenges and opportunities lie ahead. Based on our firsthand work with schools and districts implementing restorative and SEL practices, as well as the knowledge and insights gained from this analysis of research, we conclude with a discussion of implications for practice and policy.
+
+One important need to consider is the need to integrate school disciplinary practices, including RP, into the school context and existing structures. One of the most commonly cited reasons when there is difficulty to implement (perhaps any school-wide initiative) is time. Although initially training, planning, and implementation do take a great deal of time, the tradeoff is that less time is then spent in dealing with conflict and behavior problems; instead, more time is spent on task and learning, and because teacher retention improves, less time is spent hiring and onboarding new staff. In addition, there still remains limited comfort, familiarity, and knowledge of both RP and SEL, in general. It would be easy to offer a “binder” of how to do this, but if the protocols are not inclusive of the school community and its strengths, weaknesses, and needs, it would not work.
+
+There are also several other factors related to implementation that are important to consider. For example, how do school administrators create the needed processes, supports, and provide information required to encourage buy-in from teachers and staff? Professional development and resources for staffing are very likely to be needed. For example, a full-time RP coordinator with the responsibility “to sustain all the other essential strategies for success” may benefit a school greatly and would require funding for a person who could play an important role in developing relationships, monitoring student agreements, providing coaching and training to other staff members (Anyon, 2015, p. 8). The need to balance staff buy-in while simultaneously implementing can be challenging for schools. Staff led protocols and processes are ideal, but can be challenging to implement in real time – especially when they are unlike procedures the staff has experienced. In this regard, these procedures can often require trial and error to be readily accepted by the staff and functional for the whole school community.
+
+In addition, educational leaders and practitioners are realizing, as Carter et al. (2017) explained, the need to create safe spaces for school personnel to talk openly about race, to better understand why racial disparities occur, and to support student-teacher relationships, in general. They further noted that addressing the race aspect of racial discipline disparities may require specific strategies for improving relationships and preventing and handling conflict. For example, efforts to improve the cultural responsiveness of instruction has been shown to be beneficial for the classroom and student outcomes (Brown et al., 2010; Carter et al., 2017).
+
+Conflicts are defined as the oppositions among interests, ideas, or demands and can arise in any community, which include schools (Bickmore, 2011). Bickmore explains that how educators handle these conflicts can directly and indirectly shape the learning experiences of students. She further notes a difference between “negative peace” and “positive peace.” Whereas negative peace focuses on controlling problems through exclusion and force, positive peace creates options and supports relationships to address conflicts constructively. Public schools offer “logical places to facilitate learning and practice of thoughtful, inclusive conflict dialogue, as a key element of creating positive, sustainable peace;” however, implementing peacebuilding strategies is especially difficult in schools where “poor and racialized students are clustered in under-resourced schools, and constrained by standardized curriculum and testing” (p. 2). Restorative justice leverages the social needs and impulses by teaching kids proactively first (learning about their peers in circles (e.g. morning meeting or community circle) then graduates into circles that are strong enough to withstand conflict and harm.
+
+At the same time, Smith et al. (2015) also suggest that adults avoid escalating situations and to keep in mind that “all too often, adults become too confrontational and assert their power too forcefully” (p. 78). They suggest Wolfgang’s (2008) continuum, which guides teachers on how to respond to or prevent problem behaviors along a continuum based on the intensity of the issue. This continuum ranges from looking (making eye contact or using a simple gesture) to directing (such as separating students to prevent a problem from happening).
+
+Educators’ role in preventing problems and conflict was a constant theme emerging from the research reviewed. In recent years, there has been wide interest across various human service sectors, including education, in the concept of trauma-informed care. Evans and Coccoma (2014) explain that this term refers to an attempt to create a paradigm shift, where trauma-informed approaches in the school setting have expanded. They further elaborate that to make the paradigm shift, there is a need to move from asking the question “What is wrong with you?” to asking “What has happened to you?” (National Center for Trauma-Informed Care, n.d.). Future research into neuroscience related to trauma and best practices appropriate for the K-12 school setting, as well as in higher education, can provide more understanding into how trauma impacts the brain and influences behavior.
+
+The trauma-informed schools approach encourages educators and other human service providers to approach individuals’ social and personal challenges with an informed understanding of the impact trauma can have on the entire human experience. Evans and Coccoma (2014) note that advances in neuroscience research support a trauma-informed approach. Specifically, new insights on the neurobiological changes that can occur in the human brain because of traumatic events provide important evidence and support for why schools should consider implementing trauma-informed practices.
+
+As we prepared to synthesize the evidence learned from articles, models, and reports on RP pertaining to school discipline policies, we agreed that a paradigm shift is needed within many schools. Hansberry (2016) in the guide, Restorative Practice in Schools: Theory, Skills, and Guidance, optimistically encourages the reader to think restoratively:
+
+A restorative mindset holds that the best way to deal with a problem or incident is to bring those involved, and affected, together (if possible) to discuss what has happened and how people have been affected. The next task is to help people to take responsibility for their misdeeds and bad decisions, and decide on a way that the harm might be repaired. This is a far more sophisticated approach than simply punishing those we judge to have wronged others […]. The ability to do this face-to-face restorative work is something that we can teach young people to do, beginning the moment they enter formal education settings. It is useful to think of restorative practice as a pedagogy rather than a bag of tricks that we pull out to use with some students in some situations
+
+(p. 26).
+
+As complex as this may seem, as it is admittedly a profound divergence from most schools’ disciplinary paradigms, we have found that the practitioners who really “get it” and who are natural and successful at implementing this work are characterized by a few remarkably simple traits, all of which are native to us when we consider how we, as humans, most like to be treated:
+
+They are willing to see the humanity in every situation: conflicts are less about behavior and rules which were broken and more about the humans and their needs. They are able to see the child who was simply doing the best they could with the tools they had and work to help give that child more tools the next time around. They keep their eye on the big picture: this classroom is a group of humans, much more alike than we are different, trying to grow and learn together.
+
+They trust others, especially youth: by expecting that students will rise to the occasion of solving their own problems they teach students that they are wise and capable. They know when they need to let go of control and let the experts get to work! They let it go when a solution is not one that they would have chosen because they know that making and living with your own solutions is an invaluable learning experience.
+
+They are willing to be wrong: many situations we see in restorative circles involved some inadvertent escalation by school staff. Modeling what it looks like to own our own mistakes is one of the greatest ways to teach accountability and to sustain relationships.
+
+They are creative: they come up with ways to make time for circles, to have the restorative chats their groups need, and to model restorative language, even when it seems like they do not have enough time or tools. They view the obstacles to implementation as challenges to solve.
+
+The Peace Learning Center (Indianapolis, Indiana) has collected stories on restorative justice conferences from the past two years. Please visit: https://peacelearningcenter.org/restorative-justice/
+
+Restorative practices continuum
+
+IIRP’s social discipline window
+
+Relationship pyramid
+
+American Psychological Association Zero Tolerance Task Force (2008), “Are zero tolerance policies effective in the schools?: an evidentiary review and recommendations”, The American Psychologist, Vol. 63 No. 9, pp. 852-862.
+
+Anyon, Y. (2015), “Taking restorative practices school-wide: insights from three schools in Denver”, a report of the Denver School-based Restorative Practices Partnership, Denver School-Based Restorative Justice Partnership, Denver, CO.
+
+Bickmore, K. (2011), “Location, location, location: restorative (educative) practices in classrooms”, ESRC “Restorative Approaches to Conflict in Schools” Seminar (Vol. 4), February, University of Edinburgh, Scotland.
+
+Braithwaite, J. (1999), “Restorative justice: assessing optimistic and pessimistic accounts”, Crime and justice, Vol. 25, pp. 1-127, available at: www.jstor.org/stable/1147608
+
+Braithwaite, J. (2002), Restorative Justice & Responsive Regulation, Oxford University Press.
+
+Brown, J.L., Jones, S.M., LaRusso, M.D. and Aber, J.L. (2010), “Improving classroom quality: teacher influences and experimental impacts of the 4Rs program”, Journal of Educational Psychology, Vol. 102 No. 1, pp. 153-167.
+
+Carter, P.L., Skiba, R., Arredondo, M.I. and Pollock, M. (2017), “You can’t fix what you don’t look at acknowledging race in addressing racial discipline disparities”, Urban Education, Vol. 52 No. 2, pp. 207-235.
+
+Collaborative for Academic, Social, and Emotional Learning (2007), CASEL Briefs: Youth and Schools Today: Why SEL is Needed, Collaborative for Academic, Social, and Emotional Learning (CASEL), Chicago, IL.
+
+Curtis, A.J. (2013), “Tracing the school-to-prison pipeline from zero tolerance policies to juvenile justice dispositions”, Georgetown Law Journal, Vol. 102 No. 1, pp. 1251-1277.
+
+Desautels, L. (2016), “How emotions affect learning, behaviors, and relationships”, Scholarship and Professional Work – Education, Paper No. 97, Indianapolis, available at: http://digitalcommons.butler.edu/coe_papers/97 (accessed January 6, 2018).
+
+Durlak, J.A. (Ed.) (2015), Handbook of Social and Emotional Learning: Research and Practice, Guilford Publications, New York, NY.
+
+Espelage, D.L., Rose, C.A. and Polanin, J.R. (2016), “Social-emotional learning program to promote prosocial and academic skills among middle school students with disabilities”, Remedial and Special Education, Vol. 37 No. 6, pp. 323-332.
+
+Evans, A. and Coccoma, P. (2014), Trauma-Informed Care: How Neuroscience Influences Practice, Routledge, New York, NY.
+
+Greenberg, M.T., Weissberg, R.P., O’Brien, M.U., Zins, J.E., Fredericks, L., Resnik, H. and Elias, M.J. (2003), “School-based prevention: promoting positive social development through social and emotional learning”, American Psychologist, Vol. 58 Nos 6/7, pp. 466-474.
+
+Gregory, A., Cornell, D. and Fan, X. (2011), “The relationship of school structure and support to suspension rates for Black and White high school students”, American Educational Research Journal, Vol. 48 No. 4, pp. 904-934.
+
+Gregory, A., Skiba, R.J. and Noguera, P.A. (2010), “The achievement gap and the discipline gap: Two sides of the same coin?”, Educational Researcher, Vol. 39 No. 1, pp. 59-68.
+
+Gregory, A., Clawson, K., Davis, A. and Gerewitz, J. (2016), “The promise of restorative practices to transform teacher-student relationships and achieve equity in school discipline”, Journal of Educational and Psychological Consultation, Vol. 26 No. 4, pp. 325-353.
+
+Gregory, A., Soffer, R., Gaines, E., Hurley, A. and Karikehalli, N. (2016), “Implementing restorative justice in schools: lessons learned from restorative justice practitioners in four Brooklyn schools”, available at: www.brooklyncommunityfoundation.org/sites/default/files/lessons_learned_about_early_implementation_of_restorative_justice_in_schools_for_distribution.pdf (accessed January 6, 2018).
+
+Gunter, L., Caldarella, P., Korth, B.B. and Young, K.R. (2012), “Promoting social and emotional learning in preschool students: a study of strong start pre-K”, Early Childhood Education Journal, Vol. 40 No. 3, pp. 151-159.
+
+Hannigan, J. and Hannigan, J. (2016), “Comparison of traditional and innovative discipline beliefs in administrators”, CLEARvoz Journal, Vol. 3 No. 1, pp. 39-46.
+
+Hansberry, B. (2016), A Practical Introduction to Restorative Practice in Schools: Theory, Skills and Guidance, Jessica Kingsley Publishers.
+
+International Institute for Restorative Practices (2009), Improving School Climate: Findings from Schools Implementing Restorative Practices, International Institute of Restorative Practices Graduate School, Bethlehem, PA.
+
+Latimer, J., Dowden, C. and Muise, D. (2005), “The effectiveness of restorative justice practices: a meta-analysis”, The Prison Journal, Vol. 85 No. 2, pp. 127-144.
+
+Llewellyn, J. and Howse, R. (1998), Restorative Justice: A Conceptual Framework, Law Commission of Canada, Ottawa.
+
+McCold, P. and Wachtel, T. (2001), “Restorative justice in everyday life”, in Braithwaite, J. and Strang, H. (Eds), Restorative Justice and Civil Society, Cambridge University Press, Cambridge, pp. 114-129.
+
+Monahan, K.C., VanDerhei, S., Bechtold, J. and Cauffman, E. (2014), “From the school yard to the squad car: school discipline, truancy, and arrest”, Journal of Youth and Adolescence, Vol. 43 No. 7, pp. 1110-1122.
+
+Morrison, B. (2004), “Restorative justice in schools”, in Elliott, E. and Gordon, R. (Eds), New Directions in Restorative Justice, Routledge, New York, NY, pp. 26-52.
+
+Morrison, B. (2013), “Beyond the bad apple”, Restorative Approaches to Conflict in Schools, pp. 123-131.
+
+National Center for Mental Health Promotion and Youth Violence Prevention (2009), Restorative Justice: Implementation Guidelines, Education Development Center, Inc., Newton, MA.
+
+O’Malley, M. and Austin, G. (2014), “What Works Brief #11: proactive and inclusive school discipline strategies”, WestEd, San Francisco, CA, available at: http://californias3.wested.org/tools
+
+Payton, J., Weissberg, R.P., Durlak, J.A., Dymnicki, A.B., Taylor, R.D., Schellinger, K.B. and Pachan, M. (2008), “The positive impact of social and emotional learning for kindergarten to eighth-grade students: findings from three scientific reviews”, technical report, Collaborative for Academic, Social, and Emotional Learning (NJ1).
+
+Skiba, R.J. (2014), “The failure of zero tolerance”, Reclaiming Children and Youth, Vol. 22 No. 4, pp. 27-33.
+
+Skiba, R.J. and Losen, D.J. (2016), “From reaction to prevention: turning the page on school discipline”, American Educator, Vol. 39 No. 4, pp. 4-11, 44.
+
+Skiba, R.J. and Peterson, R.L. (2000), “School discipline at a crossroads: from zero tolerance to early response”, Exceptional Children, Vol. 66 No. 3, pp. 335-346.
+
+Skiba, R.J., Michael, R.S., Nardo, A.C. and Peterson, R.L. (2002), “The color of discipline: Sources of racial and gender disproportionality in school punishment”, The Urban Review, Vol. 34 No. 4, pp. 317-342.
+
+Smith, D., Fisher, D. and Frey, N. (2015), Better than Carrots or Sticks: Restorative Practices for Positive Classroom Management, ASCD, Alexandria, VA.
+
+Sprague, J. (2012), “School-wide positive behavior interventions and supports and restorative discipline in schools”, available at: www.calstat.org/publications/pdfs/2014_restorative_practice_and_PBIS_monograph_final.pdf (accessed January 6, 2018).
+
+Taylor, R.D., Oberle, E., Durlak, J.A. and Weissberg, R.P. (2017), “Promoting positive youth development through school‐based social and emotional learning interventions: a meta‐analysis of follow‐up effects”, Child Development, Vol. 88 No. 4, pp. 1156-1171.
+
+Thompson, J.L. (2016), “Eliminating zero tolerance policies in schools: Miami-Dade public school’s approach”, available at: http://digitalcommons.law.byu.edu/cgi/viewcontent.cgi?article=1390&context=elj
+
+Van Ness, D.W. and Strong, K.H. (2014), Restoring Justice: An Introduction to Restorative Justice, Routledge, New York, NY.
+
+Wachtel, T. (1999), “Restorative justice in everyday life: beyond the formal ritual”, paper presented at the Reshaping Australian Institutions Conference: Restorative Justice and Civil Society, The Australian National University, Canberra, February 16-18, available at: www.iirp.edu/eforum-archive/4221-restorative-justice-in-everyday-life-beyond-the-formal-ritual
+
+Wachtel, T. (2016), “Defining restorative. International institutes for restoratives practices”, available at: www.iirp.edu/images/pdf/Defining-Restorative_Nov-2016.pdf (accessed January 6, 2018).
+
+Wang, C., Couch, L., Rodriguez, G.R. and Lee, C. (2015), “The bullying literature project: using children’s literature to promote prosocial behavior and social-emotional outcomes among elementary school students”, Contemporary School Psychology, Vol. 19 No. 4, pp. 320-329.
+
+Wolfgang, C.H. (2008), Solving Discipline and Classroom Management Problems: Methods and Models for Today's Teachers, John Wiley & Sons, Inc., Hoboken, NJ.
+
+Cavanagh, T., Vigil, P. and Garcia, E. (2014), “A story legitimating the voices of Latino/Hispanic students and their parents: creating a restorative justice response to wrongdoing and conflict in schools”, Equity & Excellence in Education, Vol. 47 No. 4, pp. 565-579.
+
+Chafouleas, S.M., Johnson, A.H., Overstreet, S. and Santos, N.M. (2016), “Toward a blueprint for trauma-informed service delivery in schools”, School Mental Health, Vol. 8 No. 1, pp. 144-162.
+
+Durlak, J.A., Domitrovich, C.E., Weissberg, R.P. and Gulotta, T. (2016), Handbook of Social and Emotional Learning: Research and Practice, Guilford Publications, New York, NY.
+
+Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D. and Schellinger, K.B. (2011), “The impact of enhancing students’ social and emotional learning: a meta-analysis of school-based universal interventions”, Child Development, Vol. 82 No. 1, pp. 405-432.
+
+Dusenbury, L. and Weissberg, R.P. (2017), “Social emotional learning in elementary school: preparation for success”, Edna Bennett Pierce Prevention Research Center, Pennsylvania State University, pp. 1-12, available at: https://healthyschoolscampaign.org/wp-content/uploads/2017/04/RWJF-SEL.pdf
+
+Immordino-Yang, M.H. (2015), Emotions, Learning and the Brain: Exploring the Educational Implications of Affective Neuroscience, W.W. Norton & Co, New York, NY.
+
+Louis, K.S., Murphy, J. and Smylie, M. (2016), “Caring leadership in schools findings from exploratory analyses”, Educational Administration Quarterly, Vol. 52 No. 2, pp. 310-348.
+
+Payne, A.A. and Welch, K. (2015), “Restorative justice in schools: the influence of race on restorative discipline”, Youth & Society, Vol. 47 No. 4, pp. 539-564.
+
+Poulou, M.S. (2017), “Social and emotional learning and teacher-student relationships: preschool teachers’ and students’ perceptions”, Early Childhood Education Journal, Vol. 45 No. 3, pp. 427-435.
+
+Wachtel, T. and McCold, P. (2001), “Restorative justice in everyday life”, Restorative Justice and Civil Society, pp. 114-129.
+
+Wadhwa, A. (2015), Restorative Justice in Urban Schools: Disrupting the School-to-Prison Pipeline, Routledge, New York, NY.
+
+Wentzel, K.R. and Ramani, G.B. (Eds) (2016), Handbook of Social Influences in School Contexts: Social-Emotional, Motivation, and Cognitive Outcomes, Routledge, New York, NY.
+
+Restorative practices and the integration of social emotional learning as a path to positive school climates
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+License
+
+Introduction
+
+Historical context of RP: early development to current state
+
+RP and SEL
+
+Integration of RP and SEL
+
+Implementation: training and evaluation
+
+Theoretical models to support the implementation of restorative and SEL practices
+
+Continuum of RP
+
+Social discipline window
+
+Relationship pyramid: Morrison’s (2004) hierarchy of restorative responses
+
+Implications for practice and policy
+
+Conclusion
+
+For further reading
+
+Figures
+
+References
+
+Further reading
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Research in Innovative Teaching & Learning
+
+Volume 11 Issue 1
+
+Restorative practices and the integration of social emotional learning as a path to positive school climates
+
+Abstract
+
+Introduction
+
+Historical context of RP: early development to current state
+
+RP and SEL
+
+Integration of RP and SEL
+
+Implementation: training and evaluation
+
+Theoretical models to support the implementation of restorative and SEL practices
+
+Continuum of RP
+
+Social discipline window
+
+Relationship pyramid: Morrison’s (2004) hierarchy of restorative responses
+
+Implications for practice and policy
+
+Conclusion
+
+For further reading
+
+Climate
+
+School discipline
+
+Restorative practices
+
+Social emotional learning
+
+Trauma-informed care
+
+Relationship building (i.e. through approaches such as RP).
+
+SEL approaches (e.g. improving one’s ability to understand social interactions and regulate emotions).
+
+Structural interventions (i.e. PBIS).
+
+They are willing to see the humanity in every situation: conflicts are less about behavior and rules which were broken and more about the humans and their needs. They are able to see the child who was simply doing the best they could with the tools they had and work to help give that child more tools the next time around. They keep their eye on the big picture: this classroom is a group of humans, much more alike than we are different, trying to grow and learn together.
+
+They trust others, especially youth: by expecting that students will rise to the occasion of solving their own problems they teach students that they are wise and capable. They know when they need to let go of control and let the experts get to work! They let it go when a solution is not one that they would have chosen because they know that making and living with your own solutions is an invaluable learning experience.
+
+They are willing to be wrong: many situations we see in restorative circles involved some inadvertent escalation by school staff. Modeling what it looks like to own our own mistakes is one of the greatest ways to teach accountability and to sustain relationships.
+
+They are creative: they come up with ways to make time for circles, to have the restorative chats their groups need, and to model restorative language, even when it seems like they do not have enough time or tools. They view the obstacles to implementation as challenges to solve.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility

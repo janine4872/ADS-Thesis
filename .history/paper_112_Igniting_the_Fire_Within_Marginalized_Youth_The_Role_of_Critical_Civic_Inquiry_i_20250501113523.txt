@@ -1,0 +1,456 @@
+Copyright © 2025 by SAGE Publications
+
+Igniting the Fire Within Marginalized Youth: The Role of Critical Civic Inquiry in Fostering Ethnic Identity and Civic Self-Efficacy
+
+Abstract
+
+Psychological Empowerment
+
+Facilitating Psychological Empowerment
+
+CCI
+
+Method
+
+Results
+
+Discussion
+
+Implications
+
+Limitations
+
+Conclusion
+
+Declaration of Conflicting Interests
+
+Funding
+
+References
+
+Biographies
+
+Similar articles:
+
+Sage recommends:
+
+Also from Sage
+
+About
+
+Information for
+
+Urban Education
+
+Access/Profile
+
+Cart
+
+Browse by discipline
+
+Information for
+
+Contents
+
+PDF/EPUB
+
+Cite article
+Share options
+Information, rights and permissions
+Metrics and citations
+Figures and tables
+
+Cite article
+
+Share options
+
+Information, rights and permissions
+
+Metrics and citations
+
+Figures and tables
+
+Available access
+The Development of Latinx Youth Critical Consciousness in an Afterschool Program: Insights From Latinx Youth Critical Reflection and Critical Action Toward Educational Injustice
+Show Details
+
+Available access
+Race Talk During the 2020 U.S. Presidential Election: Emerging Adults’ Critical Consciousness and Racial Identity in Context
+Show Details
+
+Available access
+Pathways to Critical Consciousness: A First-Year Teacher’s Engagement With Issues of Race and Equity
+Show Details
+
+SAGE Knowledge
+Book chapter
+Culturally Relevant Pedagogy
+Show Details
+
+SAGE Knowledge
+Whole book
+The SAGE Handbook of Critical Pedagogies
+Show Details
+
+SAGE Knowledge
+Whole book
+The SAGE Encyclopedia of Out-of-School Learning
+Show Details
+
+CQ Library Elevating debate
+
+Sage Data Uncovering insight
+
+Sage Business Cases Shaping futures
+
+Sage Campus Unleashing potential
+
+Sage Knowledge Multimedia learning resources
+
+Sage Research Methods Supercharging research
+
+Sage Video Streaming knowledge
+
+Technology from Sage Library digital services
+
+About Sage Journals
+
+Accessibility guide
+
+Historical content
+
+Advertising disclaimer
+
+Permissions
+
+Terms of use
+
+Sage discipline hubs
+
+Sage microsites
+
+Authors
+
+Editors
+
+Librarians
+
+Promoters / Advertisers
+
+Researchers
+
+Reviewers
+
+Societies
+
+Frequently asked questions
+
+ISSN: 0042-0859
+
+Online ISSN: 1552-8340
+
+About Sage
+
+Contact us
+
+CCPA - Do not sell my personal information
+
+CCPA
+
+Privacy Policy
+
+School
+
+A
+
+10 (35.7)
+
+14 (30.4)
+
+B
+
+8 (28.6)
+
+16 (34.8)
+
+C
+
+10 (35.7)
+
+16 (34.8)
+
+Class standing
+
+Freshman
+
+0
+
+1 (2.2)
+
+Sophomore
+
+28 (100)
+
+34 (73.9)
+
+Junior
+
+0
+
+11 (23.9)
+
+Gender
+
+Male
+
+17 (60.7)
+
+29 (63.0)
+
+Female
+
+11 (39.3)
+
+17 (37)
+
+Ethnicity
+
+Latina/o
+
+15 (53.6)
+
+27 (58.7)
+
+Multiethnic
+
+4 (14.3)
+
+7 (15.2)
+
+White
+
+4 (14.3)
+
+5 (10.9)
+
+African American
+
+2 (7.1)
+
+2 (4.3)
+
+Native American
+
+1 (3.6)
+
+0
+
+Not provided
+
+2 (7.1)
+
+5 (10.9)
+
+U.S. born
+
+Yes
+
+26 (92.9)
+
+40 (87)
+
+No
+
+2 (7.1)
+
+6 (13)
+
+For U.S.-born generation
+
+1st-generation U.S. born
+
+8 (28.6)
+
+21 (45.7)
+
+1.5-generation U.S. born
+
+3 (10.7)
+
+4 (8.7)
+
+2nd-generation U.S. born
+
+2 (7.1)
+
+4 (8.7)
+
+2.5-generation U.S. born
+
+3 (7.1)
+
+1 (2.2)
+
+3+ generation U.S. born
+
+5 (39.3)
+
+9 (19.6)
+
+For non-U.S. born, years in United States
+
+11.50 (2.12)
+
+7.6 (3.85)
+
+Age
+
+15.43 (0.57)
+
+15.63 (0.71)
+
+MEIM-R
+
+Time 1
+
+3.15 (0.84)
+
+3.29 (0.71)
+
+0.76
+
+71
+
+.45
+
+Time 2
+
+2.93 (1.11)
+
+3.55 (0.89)
+
+2.94
+
+72
+
+.004
+
+CCA
+
+Time 1
+
+3.40 (0.80)
+
+3.31 (0.66)
+
+−0.57
+
+72
+
+.58
+
+Time 2
+
+3.20 (0.91)
+
+3.73 (0.70)
+
+2.78
+
+72
+
+.007
+
+PCS
+
+Time 1
+
+3.69 (1.30)
+
+3.54 (1.07)
+
+−0.53
+
+72
+
+.60
+
+Time 2
+
+3.35 (1.33)
+
+3.67 (1.50)
+
+0.9
+
+72
+
+.37
+
+Ethnic identity
+
+Time
+
+1
+
+71
+
+0.03
+
+Group
+
+1
+
+71
+
+4.56
+
+Time × Group
+
+1
+
+71
+
+4.57*
+
+0.94
+
+0.06
+
+Civic self-efficacy
+
+Time
+
+2
+
+71
+
+0.99
+
+0.97
+
+0.03
+
+Group
+
+2
+
+71
+
+1.14
+
+0.97
+
+0.03
+
+Time × Group
+
+2
+
+71
+
+4.75*
+
+0.88
+
+0.12

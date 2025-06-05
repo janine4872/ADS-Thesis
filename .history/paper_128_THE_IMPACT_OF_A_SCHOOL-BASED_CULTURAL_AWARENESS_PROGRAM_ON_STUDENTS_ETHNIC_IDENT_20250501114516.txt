@@ -1,0 +1,492 @@
+We are using cookies to give you the best experience on our website, but you are free to manage these at any time. To continue with our standard settings click "Accept". To find out more and manage your cookies, click "Manage cookies".
+
+Important note for authors: phishing scams.
+
+Journal of Educational Administration
+
+ISSN: 0957-8234
+
+Article publication date: 25 October 2021 Permissions
+
+Issue publication date: 10 May 2022
+
+This article explores the connection between Culturally Responsive School Leadership (CRSL) and Positive School Leadership (PSL) and how both engage with a concept that deeply connects both leadership expressions – trust.
+
+A multi-year, single site case study method examined a district-level equity leader, and her struggles and successes with promoting equity and positive culture throughout a large suburban district in the US.
+
+Trust, established through regular interactions, allowed the district's leadership equity team to build positive relationships with building leaders. Trust was not only a mitigating factor on the relationships themselves, but also regulated the extent to which equitable practices were discussed and implemented in the district. Trust allowed conflicts to surface and be addressed that led to individual and organizational change.
+
+The case highlights the importance of both CRSL and PSL principals, along with the idea of “soft power” in cultural change, to foster equity in schools. Established trust does not erase the difficulties of enacting CRSL/PSL, but allows the difficulties to be addressed. The authors found that dynamic, iterative, regular interactions over a long period reinforced trust allowed CRPSL to take root in the district.
+
+The authors use a single subject case to argue that the core of empirical work moving forward should draw on an integration of culturally responsive leadership.
+
+Banwo, B.O., Khalifa, M. and Seashore Louis, K. (2022), "Exploring trust: culturally responsive and positive school leadership", Journal of Educational Administration, Vol. 60 No. 3, pp. 323-339. https://doi.org/10.1108/JEA-03-2021-0065
+
+Emerald Publishing Limited
+
+Copyright © 2021, Emerald Publishing Limited
+
+School leaders are increasingly aware of the many ways in which social vulnerabilities that originate outside the school, differentially shape the experiences and potential for flourishing among students from different backgrounds (Milner, 2013, Many prescriptions for addressing these inequities rely on within-school structural innovation – new roles (trauma-informed counselors, social workers), more rigorous and intensive instruction, changes in disciplinary practices or other systemic interventions. In this paper, we argue that changing leadership assumptions, behaviors and practices through Culturally Responsive School Leadership (CRSL) and Positive School Leadership (PSL) must also be at the center of efforts to facilitate the engagement of underachieving and marginalized groups. Using an illustrative case, we examine how social justice leadership can integrate challenges to existing power structures while at the same time build long-term trusting relationships within the school system and between the schools and minority, immigrant, or low-income communities.
+
+The importance of trust in leadership has been a significant theme in research on organization and schooling (Hoy and Tschannen-Moran, 1997; Bryk and Schneider, 2002). Despite the almost universal acknowledgment of the importance of trust in the school settings, fewer authors have tackled how trust develops in settings where racial, gender and ethnic disparities are a focal concern (Beard, 2013; Beard et al., 2018). We use a longitudinal case of a single organizational to argue that the core of empirical work moving forward should draw on an integration of culturally responsive leadership (Khalifa et al., 2016) and positive school leadership (Hoy and Tarter, 2011; Cherkowski et al., 2018; Cherkowski and Walker, 2014; Murphy and Louis, 2018). In this intersection, we focus on trust and power through the intentional building of constituent organizational relationships.
+
+The theoretical backbone of both Culturally Responsive School Leadership (CRSL) and Positive School Leadership (PSL) share roots in the centrality of critical self-reflection in education. While distinct, they both draw on changing how leaders understand teachers' position within the school, classroom and learning process. Moreover, they also spotlight how developing students' sense of belonging requires establishing relationships based in humility and service. Today's world, which is characterized by conflict, global migration and increased awareness of preexisting cultural diversity, requires educational leaders to be aware and responsive to the needs and perspectives of rapidly changing and dynamic communities. Increasingly, leaders must be responsible for how their actions shape their students' complex identities in these increasingly diverse settings. Our case reflects each of these requirements.
+
+Khalifa (2019) and Murphy and Louis (2018) regard a leader's capacity to influence and produce system change as a crucial step in improving education and student outcomes within learning organizations. However, few studies address how system change can be culturally responsive. Freire (2000) suggests that teachers must embrace the messiness of critical reflection in the intersection between power, oppression and pedagogy, and his perspective is increasingly reflected in empirical studies of school (Normore and Jean-Marie, 2008; Ezzani, 2020). However, the role of principals and districts in improving educational chances for minoritized children has been muted in recent educational discourses. With a renewed focus on asset-based, caring relationships in schools (Smylie et al., 2016), we also ask: how can PSL situate culturally responsive and anti-oppressive education for minoritized students at the center of learning activities? And, in a CRSL framing, what PSL practices do CRSL leaders frequently exhibit in their daily work? By highlighting an African American female's leadership practices in a mid-sized suburban district, we will explore both questions more deeply.
+
+Within positive organizational psychology, the idea of asset-based leadership and humility has provided a useful starting point for efforts to pursue genuine improvements in the workplace. The application of positive leadership studies to schools emerged in the mid-2000s (Hoy and Tarter, 2011). Hoy and Tartar's intent was to integrate positive organizational psychology (Cameron et al., 2003) with their long line of work on school effectiveness. Their work expanded their focus on school characteristics that contribute to student achievement by identifying those that were consistent with positive organizational psychology: efficacy, organizational trust, happiness, optimism, zest (energy), high quality connections and relationships, and resilience. Subsequent educational leadership research using a positive psychology lens suggests that it has a strong relationship with these and other critical variables that mediate the relationship between leadership and school performance, such as self-esteem and motivation, student engagement and individual learning (Smylie et al., 2016). Moreover, a positive leadership disposition and reciprocal trusting relationships with teachers is also associated with growth in collective professional knowledge and social capital, positively affecting various student outcomes (Louis and Murphy, 2017).
+
+Others have positioned Seligman's (2011) concept of flourishing as the central desired outcome for all members (Cherkowski and Walker, 2016). Their work challenges the prevalent assumption that academic learning is the singular critical objective of schooling, instead advocating for an expanded focus on social and even spiritual development (Palmer, 1998). They, like others in the positive psychology tradition, propose a focus on the wholeness of the lives of students and adults. Like Murphy and Louis (2018), they emphasize the importance of relationships, but focus on redefining a school's raison d’ȇtre as well as exploring how formal leaders can foster flourishing and a high-trust climate. More recently, Cherkowski et al. (2018) identify trust, compassion and hope as critical to flourishing.
+
+Culturally responsive leadership, like positive leadership, emphasizes the driving force of values for individual leaders but prioritizes anti-oppressive and culturally responsive education as a required element of practice, a value that is not explicit in current PSL scholarship. One of the most significant objectives of culturally responsive school leaders is the humanization of minoritized youth in and out of school. According to Khalifa (2019), leaders must promote schools that embrace the identities of minoritized youth, implement and promote culturally responsive pedagogy, and establish culturally responsive relationships with parents and community members.
+
+Khalifa (2019) argues that a leader's critical self-reflection recognizes both the history of marginalization of oppressed groups and the role leaders play in either reproducing or contesting oppressive contexts. Leaders bear a particular responsibility for explicitly articulating how a school's organization will center students' concerns and ways of being, particularly when it comes to cultural productions like inclusion and acceptance of minority students' cultural productions (Asante, 1991). Four specific behaviors provide opportunities to drive cultural responsiveness within a school:
+
+Critical Self-Awareness focuses on the need to interrogate ways that leaders, and their organizations, contribute to, reproduce or contest oppressive practices in schools (Gooden, 2005; McKenzie et al., 2008). This also requires leaders to be deeply aware of differences between school-centric and community-centric expressions of education.
+
+Culturally Responsive Curricula and Teacher Development requires responsive leaders to support new curriculum and instruction modes that improve the learning and humanization of minoritized students (Khalifa, 2019). This includes community assets and experiential knowledge.
+
+Culturally Responsive and Inclusive School Environments addresses school climate and spaces, and how they influence disparities in educational outcomes. Environments that affirm students' identity are critical, as is a school leader's ability to leverage resources that foster embedded cultural affirmation (Dantley and Tillman, 2006; Riehl, 2000).
+
+Engaging Students and Parents in Community Contexts incorporates adults outside the school as bearers of culturally appropriate knowledge. Thus, leaders establish routines for learning from and advocating for community knowledge, self-determination and goals (Ishimaru, 2018; Khalifa et al., 2016). This component highlights the place-based focus of CRSL.
+
+In this study, we followed a school district-level leader for three years, interviewing her multiple times, along with other educators, school and district leaders, parents and students in the district. What emerged is a type of leadership that highlights aspects of Positive School Leadership that are Culturally Responsive. The case highlights both congruence and tensions that emerge when placing CRSL in conjunction with PSL. To give one example, CRSL requires persistent identification of oppressive structures and practices that are “normal” and therefore largely invisible, a perspective that is less often present in PSL. PSL, in contrast, prioritizes empowerment and distributed leadership, which is not a major theme of CRSL. Although we see PSL and CRL as two different strategies to improve schooling, both contribute to understanding power, culture and organizational equity.
+
+Below is a matrix that summarizes differences in focus and proposed commonalities between the two approaches derived from analyzing the references cited above (Table 1). The integrative components do not fully subsume the contributions from either line of work. Rather, they highlight components that we examine in our case.
+
+The Highline Public Schools' [1] cultural liaison position has evolved from a classroom assistant to a district-wide leadership role tasked with enacting cultural change. Over 30 years, Highline, a large suburban district that is both economically and racially diverse, developed this position with an explicit focus on equity, and eventually established a district Office of Equity and Inclusion to focus on shared cultural affinity with marginalized students. Jessica Dawson, a veteran administrator and head of DPS's Office of Equity and Inclusion (OEI), has been the driving force behind DPS's culturally responsive work since her arrival in the district 20 years ago. Although the cultural liaison program did not originate with her, she has shaped and expanded it into one of the most respected equity and inclusion initiatives in her state. It currently employs more than ten school-based liaisons, with specialists for the predominant lingual, ethnic, and racial groups represented in the student and family population.
+
+The cultural liaison program was adopted into Midwest State's regulations for special education in 2001. As envisioned by the state, the program serves to advocate for minoritized families and students to ensure equitable access to school and district services. A cultural liaison, according to the regulations, means a person who is of the same racial, cultural, socioeconomic or linguistic background as the pupil, and who
+
+Provides information to the school's special education team about the pupil's racial, cultural, socioeconomic, and linguistic background;
+
+Assists the team in understanding how racial, cultural, socioeconomic, and linguistic factors impact educational progress; and
+
+Facilitates the pupil's parent's understanding and involvement in the unique education process.
+
+Ishimaru et al. (2016) identified the typical cultural liaison (broker) position as fostering conformity of non-dominant families to the existing professional norms. In contrast, Highland Public Schools (HPS) expanded the state's expectations and incorporated a more reciprocal and challenging perspective, emphasizing student and family voice, incorporated into an Office of Equity and Inclusion. Jessica regards student voice as a critical, organizational tool in need of continuous examination by developing healthy, culturally responsive relationships. For Jessica and HPS, attention to student and family engagement has sought to infuse equitable affirmations and cultural responsiveness into every aspect of the district's culture and administrative practice. Jessica's team is a part of HPS's strategy to form deep, familiar relationships with minoritized students and families to improve learning outcomes and student social development.
+
+Our case study explores how district-level leadership enacts CRSL practices on a system level and which aspects of this practice correlated with CRSL and PSL. Further, we examine the role of trust and organizational and social power in establishing relationships to support CRSL and PSL. Although Jessica and her team regard their position as an opportunity to advocate for students and their families, they also understand that their role in HPS is to build capacity for equity and inclusion. This capacity-building means guiding teachers, students and parents into a district that fully values and respects all students' authentic cultural productions.
+
+Our inquiry used a multi-year (September 2016–March 2020) qualitative case study research design that used embedded observations and interviews that included district and school administrators, teachers, students and community members. The qualitative research approach was based on the premise that organizational cultures, practices and realities are socially constructed, complicated, and in constant motion. Our approach was guided by an interpretative and descriptive approach to social phenomena, particularly the meaning people use to understand their world and reality. In this paper, we focus on how participants' personal racialized experiences, through knowledge and understanding of history or personal perceptions, are used as an organizational “meaning-making” device for social analysis (Elliott and Timulak, 2005).
+
+Data analysis was conducted using a content analysis method. During analysis, sub-themes were developed and interpreted for each of the conceptual areas. The interviews were conducted during the years 2016–2020. The authors administered the interviews, which were recorded and transcribed using a digital transcription service website.
+
+This case explores how positive school leadership can be culturally responsive through the underlying vision and strategy that prioritizes establishing trust while, at the same time, creating opportunities to shape and level set power between organizational members.
+
+First, we found Jessica and her district-wide team of cultural liaisons centering notions of “organizational fairness” for minoritized students. This overt equity-centered work appealed to the moral and ethical PSL convictions of improving children and families' lives. Jessica's commitment to equity and fairness served as a “positive” opportunity to confront racism (social power) and correct the district's history of negative minoritized student's cultural integration (institutional power). However, the racialized nature of their work caused Jessica and her team to experience high levels of stress and exclusion as they sought to challenge power and build trust with district colleagues; it was part of the cost of engaging in educational justice work.
+
+Second, Jessica and the cultural liaisons nudged colleagues (teachers and administrators) into a disposition of criticality – allowing them to define their equity work as an element of continuous improvement. In many cases, the Office of Equity and Inclusion (OEI) was tasked with serving as a cultural interpreter to help their colleagues navigate cultural differences and white cultural privilege. Centering the goal of reflective practice activated a disposition to question existing formal and informal power structures. We saw their cultural interpretations as a practice of CRSL that encouraged teachers and administrators to self-reflect on how their actions and assumptions could limit their minoritized student population's success and social development. Supporting their colleagues' critical self-reflection through student, family and school engagement increased trust and dialogues that positively shifted policies and practices into a form of holistic critical reflection.
+
+Consistent with Murphy and Louis (2018), Jessica regards her work as influencing how her district constructs its CRSL knowledge and positive social connections while challenging the district's power dynamics to improve students' schooling experience. The following examination of Jessica's leadership will take place in three focus areas. First, we explore how an intentional focus on relationships generates trust, critical self-reflection and an adaptable organization ready for a structural change. Second, we look at how she works around the inevitable conflicting perspectives that she encounters. Finally, we examine how Jessica uses the practice of CRL and PSL as an organizational tool of reimagination – pushing and pulling the organization into deep reflection and cultural responsiveness. Additionally, we regard the three focus areas as Jessica's team enacting structural change and demonstrating how leaders can reconceptualize the many shades of power (legal, social, and relational knowledge) as a leverage point to move the organization in a more CRSL and PSL frame.
+
+During one of our later interviews, Jessica recounted a story about a parent's relationship with one of her school leadership teams. Jessica described the relationship as deteriorating to the point that the mother began fashioning tissues in the form of a Ku Klux Klan [2] mask and placing them on the table during school meetings. What Jessica understood was that this was a signal sent as a sign of the mother's frustration, hurt and powerlessness, “she would take a tissue and cut the eyes out and make a Ku Klux Klan (KKK) mask…it was incredible.” The mother, according to Jessica, “was not being heard or valued” as a capable and concerned parent interested in the well-being of her child outside of the traditional “A, B, C grading framework.” She went on:
+
+The mother did not have a person to trust or be honest with her. So when [when I joined the school team and] she began throwing that tissue on the table… I swiped it off because she knew I was there to help her son get a good and equitable education.
+
+For Jessica, this signal of racialized frustration was a cue for immediate intervention. Moreover, according to Jessica, the mother's reactions revealed a broader systemic problem: a belief that the school did not care about children like her son. Through affirming her own relationship with the mother's children, Jessica was able to break through the perceived injury and reset the home and school relationship on a more productive ground, and to use the experience as a learning opportunity for the school's leadership team.
+
+This event was offered as an example of Jessica's priority of building relationships in challenging settings. Using a PSL frame, we found that her position requires building culturally responsive organizational capacity by ignoring accepted power differentials and attending to the social signals sent by others who may be traditionally considered “less than” (students) or “not us” (parents). For her part, Jessica regards relationship-focused work as a critical element of her office and those in it, building her district's capacity for when things like culture, histories and systematic practice fall short of being flexible and inclusive of all members. She demands that her cultural liaisons recognize and allow signals to be perceived, decoded and preserved in the organizational memory for later use (Van Den Brink, 2020). Additionally, Jessica's focus on fairness (equity) and cultural responsiveness (inclusivity) as a capacity-builder demonstrate the critical link between PSL and CRL because both frameworks require a critical focus on how minimizing status differentials, through caring and trust, influence organizational behavior and experience.
+
+Jessica described how she negotiated the relationship between the same mother and the principal after her initial intervention,
+
+A couple of days after I intervened with the mother, she (the mother) came in the door… and I said, “Mom, you look like you are coming in here to beat Jim (the principal) up’, [and] she fell out laughing. Jim looked at me and said,” Can you say that? I told him [that] I could, but he can't…
+
+Jim's initial discomfort at Jessica's culturally responsive exchange disrupted his previous inability to understand the social signals the mother was sending. Jessica's project of ignoring power differential and assuming value in the signals sent by others gave her the foundation to see and intervene in a process that her colleague failed to understand. By naming the “power” of the mother's response in front of the principal, she defused a tense situation and caused another school leader to take note. Taken together, Jessica offered this scenario as an example of how she regards the need to challenge notions of power. For her, it was an illustration of how her focus on fairness (equity) and cultural responsiveness (inclusivity) as a capacity-builder occurs in small exchanges in which she demonstrates that the situation could be something other than what it initially appeared.
+
+Her focus on modeling during small exchanges illustrates the common focus of both CRSL and PSL on the power of interactions/exchanges to shape trust and relationships. Her emphasis on the exchanges that enable relationships was also part of her strategy to spend much of her time in school buildings:
+
+I learn from students all the time. I know right when I see a student, oh no he or she is upset. This kind of getting to know students is why we focus on school building leaders because they can reach out and touch kids easier than the higher-ups.
+
+Jessica and the cultural liaisons were able to develop the capacity for critical self-reflection in teachers and leaders throughout the district, and self-reflection led to a reorientation of how the district's educators and leaders approached their work. Notably, it informed how they understood their obligation to highlight students' and families of color needs in their regular tasks. Because of the framing of equity and cultural responsiveness, HPS leaders began to see the merit of anti-oppressiveness and embrace culturally responsive education as an ethical and moral commitment.
+
+Jessica spoke about how her office of diversity and inclusion looks for opportunities to identify the social signals sent by her students and use them as an organizational opportunity to improve. She also regards this practice as signaling to the students their own ethnic and cultural identities within the organization. Her approach is consistent with Calabrese Barton and Osborne (2001a, b) and Ladson-Billings (1999), who regard altering classroom discourse as a challenge to organizational power and rules and to forge a process that promotes teacher and leader's cultural responsiveness.
+
+One of the primary objectives of CRSL is to make patterns, practices, and policies that are oppressive toward minoritized students more visible. Jessica and the cultural liaisons are frequently asked to solve racially or culturally based disputes between minoritized students and staff (most often white). What allows them to serve as cultural brokers and interpreters is that they are deeply trusted and respected by the minoritized students as well as the broader staff. This trust allows them to speak honestly and truthfully, without being accused of being unfair or biased.
+
+Jessica regards this dual trust role as being linked to her honesty about her past school struggles and her outward display of compassion for students and families struggling to get back on a path of success. As an official district representative and a friend, Jessica believes her team must not only demonstrate “love” of students while they are in school but “care” for the future adults her students will become. At the core of how Jessica enacts her CRSL is through what she describes as an “outward display of compassion,” which she regards as modeling students' healthy and compassionate relationships with adults.
+
+Jessica's office understands that minoritized student voices are not, in many cases, respected and heard and regards championing their voice as a strategy to shift how power is expressed through discourse and messaging. Moreover, her focus on “healthy relationships” is regarded as an opportunity to deepen her students' appreciation of local cultural liaisons as trusting adults in their building. Thinking more deeply about power and HPS's cultural liaison program highlights how Jessica's early insistence that a student advocate be assigned to every school shifts how power is wielded and used. Moreover, her understanding of advocacy is expressed by her as “Well, the first thing I try to be as honest as possible, so if I can do something, I tell them I can do it.”
+
+Nevertheless, even with her focus on student advocacy, she understands the critical position of her office in relation to school staff, as well as students:
+
+I will not lie to people. After kids misbehave, I tell them they misbehaved. Moreover, if they are not misbehaving. I tell them I do not believe that they were acting up, and it must be an issue with the teacher.
+
+The focus on honesty can create conflict, and she acknowledges that, at times, her job is a series of negotiations between school staff who experience discomfort with a changing demographic character of the district and students and families who experience harm from institutions lacking responsive leadership.
+
+Jessica's sense of responsibility for the potential unanticipated harm in the district's organizational routines and assumptions requires wrestling with how to insert new questions into its operations. For example, she has served with several superintendents and senior district leadership teams, and she sees the current team as more focused on maintaining public relations and competitive student test scores [3]. In response, Jessica's office has shifted its focus from the district toward more intentional collaborations with school-based leaders. Jessica encourages her liaisons to,
+
+work with the principals on difficult issues, like race and differences… be an ear for the principals, give them articles to read, and then discuss it with them. Just talking about things that have happened. Let's sit down and go over the week, what worked, what did not work, what was missing…
+
+This also allows Jessica's team to address the varying socioeconomic and racial/ethnic composition of HPS schools. By focusing principals' attention on assets, both in the community and within their school, Jessica can help reinforce their sense of their school's positive uniqueness. Her work at the school level becomes a lever for “managing upward”. Indeed, HPS cultural liaisons also regard their advocacy as an opportunity for the district to strengthen students' overall schooling experience by reimagining differences as assets and opportunities. This two-track approach of district-wide policy change and intentional localized improvement in practice connects to CRL and PSL, both of which ask leaders to reframe advocacy into a growth-based approach that primes the organization for innovation.
+
+While focusing on schools, her team's approach is to improve student experiences both through district policy improvement and building district capacity by frequent less formal interactions with district staff to “get the importance of equity.” Because she sees current school-based leaders as future district leaders, supporting principals' culturally responsive leadership is investing in the district. Jessica does not directly challenge but frames cultural alternatives – between an asset-based developmental approach and an outcomes-focused achievement approach – as tools for organizational growth. This forward-thinking approach also connects to Murphy and Louis' (2018) PSL assessment that found associations between the growth in teachers' professional knowledge and social capital, positive equity climate, and various student outcomes.
+
+Practitioners of CRSL regard practices of criticality as centered around rigorous self-reflection, through which interpretations of institutional practices, narratives, and experiences of minoritized students and their families can be assessed. For example, in the US, racial reforms have been more difficult in many cases because of the undiscussed history of racial/ethnic oppression and ensuing sensibilities of guilt, fragility or denial that white educators and leaders may exhibit (DiAngelo and DiAngelo, 2006). This often results in reforms intended to improve the experience of minoritized students that are extrapolated from current practices instead of (re)imagining what a culturally responsive school would be like.
+
+Jessica's role as a cultural interpreter is, thus, vital. Her position on the leadership team allows her to raise questions that have centered the Highline Public Schools' position on equity and inclusion within their formal organization. The district staff (and parents) rely on Jessica's office to voice questions and concerns that become translated into genuine equity improvements. This demonstrates that both Jessica and HPS understand organizational power and the impact of having an advocate for minoritized voice in upper levels of leadership.
+
+Jessica, for example, recounted ongoing concerns that white female teachers impose exclusionary discipline more often on East African male students because of a stereotypical assumption that Muslim men do not respect women. Jessica raised this story as an example of how her team, particularly her East African cultural liaisons, are positioned within their district as “the first point of contact for [East African] students and families at risk” of teachers' essentialist thinking. The Equity and Inclusion Office also serves as an institutional pipeline to the senior-levels of DPS district administrators. In this case, Jessica's office was positioned as a cultural broker with the administrative ability to investigate and take steps to disrupt essentialist attitudes students and families found harmful.
+
+While racial and cultural biases were evident in how the district and school staff treated East African, Black, and Latino students, Jessica and her staff constantly challenged their views and practices to humanize and increase cultural understanding of non-white students. Jessica and her office's formal and informal positioning at these critical junctions within the district served to extend several CRSL and PSL, mainly through “value-based leadership” and “centrality of caring and trusting relationships.” Jessica, her team, and her district regard the dynamism of equity work as building a district of inclusion. Moreover, they associate this energy with expanded ideas of ownership of their learning space.
+
+Murphy and Louis (2018) regard this as building the trust needed to provide the organization's groups and teams with a moral foundation, while CRSL also looks to embed the community-school relationship into the system. Trust matters for Jessica, and trust is nurtured out of an understanding of power. Moreover, trust is a critical method for gathering data for systematic improvement. For example, her intentional efforts to investigate and harness the experiences of East African families provided a systematic data source that shifted the power dynamic within their school's organization. Jessica's leadership is not just about feelings or simple solutions to smooth social interactions. On the contrary, it is her persistent attention to the question of power and ownership of the entire district, a goal supported and backed by her district, senior leadership team, and moreover by CRL and PSL frameworks.
+
+At the heart of Highline's equity work is system change through ongoing dialogues that negotiate difficult challenges of organizational purpose and power using local data and experience, along with national programs (Check & Connect; Anderson et al., 2004a, b), workplace diversification and active adult learning strategies over a long period of time.
+
+We observed an approach to integrating marginalized students that relies on building trust through practices that encourage critical reflection among educational professionals. Moreover, we saw these integrations as disrupting existing power relations while enlarging opportunities for authentic inclusion among less influential students and families. Jessica's focus on positive relationships allowed her office to navigate multiple perspectives on equity issues and engage with leadership teams in ways that troubled their positions as gatekeepers and modeled healthy minoritized student and family experiences with school. Only someone who has built trust among both sides can translate that social capital into change that challenges barriers and traditional organizational power and rules.
+
+Even in a case in which a state policy supports district investment in equity, CRSL and PSL frameworks and practices do not erase difficulties and conflicts. On the contrary, both embrace the importance of soft power (the ability to attract and co-opt), in contrast to hard power (the ability to coerce) (Ko, 2012) in mediating conflict. Scholars writing in the positive psychology perspective stress the need to shift hierarchical relationships to emphasize both interconnection and autonomy, in which positional power is less important than creating individual and organizational flourishing (Murphy and Louis, 2018). Similarly, a culturally responsive focus emphasizes the need for leaders to shift from nebulous conversations about differences to discourses that include power. What is common to both is a focus on the nature of meaningful, trusting interactions that can foster trust, love and care. Both focus on the importance of critical reflective approaches leaders can take to disrupt notions of power and control within their formal organizations. In Jessica and her colleague's case, the intent was explicit: to shift the district's working framework from the centric power perspectives of leaders to focus on how students experience organizational neglect and harm stemming from their lack of access to power.
+
+We see how cultural liaisons use “soft power” to reframe the experiences of minoritized families and students as organizational assets at the school level. In the case of Highland schools, the district was able to explore how notions of power can be dynamic and ever-shifting– which includes honest admission of failures and asking for help. Murphy and Louis (2018) describe this change as “requiring personal and professional trust” and a belief that others are caring, attentive, and willing to “speak the truth to power” (p. 23). In other words, the effectiveness of “soft power” in this case challenges assumptions in some critical texts about the inevitable need to define explicit or hard challenges to power to advance racially equitable change. However, the ability of Jessica and her team to operationalize soft power was focused on inclusion and belonging. In other words, her strategy is relational rather than structurally grounded.
+
+The Office of Inclusion and Equity's ability to incorporate culturally responsive lenses within a system that was designed as culturally and organizationally neutral is at the core of this case. Rather than creating new and distinctive cultural initiatives, Jessica added on to the district's established programs. Jessica identified the district's online learning support systems (Check & Connect), administrative meetings, professional development training, and many other leadership and reforms as culturally neutral. However, through the team's equity focus and their understanding of power and privilege, these existing programs have become places of “soft conflict” consistent with her emphasis on soft power, encouraging everyone to pursue critical self-reflection (Khalifa, 2019). Jessica perceived her work as surfacing marginalization discourses, guiding her role as a Culturally Responsive and Positive School Leader from a starting point of humility. She consistently remained focused on and concerned with how individual students she interacts with experience the world – but offering the district's leadership team and other members a sense of familiarity associated with established programs, some of which were based on national models and others of which were homegrown.
+
+Supplementing discourse with data to highlight student marginalization, particularly organizational and leadership language and signals allowed Jessica to promote the message that “big, higher-level organizational messages” mattered less for inclusion than “little but significant” signals marginalized students. Taking this idea a little further, Table 2 explores the tools and practice of PSL and CRL and how they played out through Jessica's work.
+
+Jessica's opinion of these organizational signals was that they were indications of politics (needs and desires) that required her office to be first “be humble about what is said and what is being communicated by students and their families” and second to have a clear understanding of how her team's disposition can positively amplify or harm student voice and experiences. Organizational politics are informal, unofficial and sometimes behind-the-scenes efforts to sell ideas that influence an organization, increase power or achieve other targeted objectives (Brandon and Seldman, 2004). There is a focus on the political nature of organizational behaviors for CRL proponents, particularly in promoting inclusive and open school spaces for marginalized students to be culturally recognized and academically thrive. Jessica's role is to infuse fairness and trust into the organization through her work with students and be an agent for organizational change (negotiating organizational politics and power).
+
+What is distinctive about this leadership approach is Jessica's ability to use her “soft power.” One consequence was to use the increasing acknowledgment of her expertise to her ability to make explicit requests for reflection and change that could come from parents and students as well as from adult professionals. For CRSL, organizational resources (politics) are challenged and made available to the traditionally marginalized groups. For PSL, the idea of team development and team building among adults are keys to increasing productive mutual influence (collective power), but looking at this case study, along with others that examine student voice and non-combative community power, we can see those perceptions of power and its influence are not well incorporated into the PSL framework. In other words, expanding PSL frameworks to include a focus on incorporating marginalized communities as a positive resource is an important future direction. Moving the organization toward positivity looks like how Jessica creates overlapping alliances that synergistically build substantial social capital (communal power) to use as a basis for a responsive momentum.
+
+What is truly distinctive about CRSL within the context of a school organization is the idea of challenging, emphasizing and changing the definitions of “whose knowledge counts,” or put differently, whose membership is not by the selection of some external socially validated measure of belonging. Jessica as a member of a marginalized community with training and a history of implementing CRSL and understands the necessity of inclusionary practices.
+
+In particular, Jessica's work highlights a multi-year strategy for system change that begins with establishing and developing relationships – and then moves into structural and policy changes that support the goal of fostering more equitable and inclusive schools. This runs counter to a long history of school reform in the United States (and other countries), which often begins with systemic structural changes, ranging from desegregation to mandated “Multi-Tiered Systems of Support” (Gamm et al., 2012). These have yet to eliminate the inequitable conditions that they were designed to address, often due to weak implementation at the local level. Jessica's story suggests that a different form of leadership may contribute to the development and adaptation of structures that have potential but, without persistent “soft power,” leadership may be derailed.
+
+Obviously, our case, which comprises an exploratory analysis of a single office in a single US district, cannot provide a blueprint for creating more responsive schools. What it does reveal is the complexity of equity work that requires changing hearts and dispositions as well as policies and practices. In addition, we focus on the potential for integrating two complementary but distinct approaches to improvement: Culturally Responsive and Positive School Leadership. As we examined the case of the Highline Public Schools, it was clear that we could not ignore the importance of trust – a feature of schools that has been examined in many studies. However, we also found that to explain the enduring and cumulative success of the equity leadership initiatives, we needed to examine how creating trust while excavating power imbalances that leave many minority students and families feeling voiceless and unrepresented, was critical.
+
+Our examination suggests that authentic explorations of power, race and difference served as an opportunity for individual and collective growth –while fostering problem-solving and trust. Thus, this case invites additional conversations about how trusting relationships allow schools to uncover prevalent assumptions about race and power to create a more responsive organizational culture. The intended and unintended culturally exclusionary practices of schools of schools, which have harmed students and their families, require school leaders to be concerned with disrupting accepted patterns.
+
+Jessica and her team understand their role as unmasking patterns of cultural domination by attending to marginalized students and families' social signals and using these as opportunities to give less powerful organizational members access to the machinery of organizational change and leadership. Nevertheless, her team also needed to deal sympathetically with the discomfort that disruptions cause and situate themselves in a space between teachers and staff (who may not be ready for a changing organization) and students and families experiencing harmful exclusion. Positive leadership, in this case, requires careful pushing and pulling of actors towards a lasting culturally responsive foundation.
+
+The practice of establishing trust with white educators allowed her to embrace the histories and the raw experiences of children while at the same time moving adult practices into a critically reflective and culturally responsive frame. PSL emphasizes the importance of “shifting power” within schools through team power, individual empowerment, and shared organizational values but has been silent on the importance of engaging students in power formulation. The direct assumption of power shift at the group level is a significant contribution of CRSL makes. Positive organizational studies should, as a consequence, attend to understanding and challenging power within systems. Care and fairness are essential but can be paired with a larger project that is determined to address embedded practices encountered by the marginalized.
+
+A cautionary note is in order because trust is critical but transient, contested and easily lost in schools. In fact, it is reasonable to assume that PSL's focus on educational professionals could conflict with CRSL's focus on minoritized students and communities because of the need for CRSL leaders to critique current practices (or people). Nevertheless, we see significant overlap because, as our case suggests, authentic and caring critique prods schools toward organizational effectiveness and keeps them true to their moral commitment to create equitable educational experiences. This article outlines the impact that leaders can have within districts when they display both positive and culturally responsive school leadership practices, resulting in something we are considering as Culturally Responsive Positive School Leadership (CRPSL).
+
+This case suggests that trust is the gasoline in the CRPSL engine for CRPSL change because it allowed a district-level leader to insert submerged (minoritized) perspectives into district deliberations. An Office of Equity and Inclusion gives weight to the most underserved community members, and Jessica's office is in a position to push the district and school-level administrators into considering cultural responsiveness in all aspects of their leadership.
+
+Perhaps the most significant implication of this study is the need for authenticity and vulnerability. The proliferation of ill-defined equity positions – a common structural response to the demands of minoritized communities – may easily result in conformity to the status quo or exiting the district (Khalifa, 2019). However, Jessica's story allows us to think about ways that, at a district level, leaders can embrace, uphold and implement school leadership practices that are both positively disruptive and responsive to communities.
+
+Proposed integrative framework: relational aspects of culturally responsive school leadership (CRSL) and positive school leadership (PSL)
+
+CRSL/PSL activity matrix within pre-existing district programs
+
+All names are pseudonyms.
+
+A violent American racist terrorist group known for its hooded white masks.
+
+In this state, parents may choose to enroll their child in a different district.
+
+Anderson, A.R., Christenson, S.L., Sinclair, M.F. and Lehr, C.A. (2004a), “Check & Connect: the importance of relationships for promoting engagement with school”, Journal of School Psychology, Vol. 42 No. 2, pp. 95-113.
+
+Anderson, A.R., Christenson, S.L., Sinclair, M.F. and Lehr, C.A. (2004b), “Check & Connect: the importance of relationships for promoting engagement with school”, Journal of School Psychology, Vol. 42, pp. 95-113.
+
+Asante, M.K. (1991), “The Afrocentric idea in education”, The Journal of Negro Education, Vol. 60 No. 2, pp. 170-180.
+
+Banwo, B. (2020), “African communitarianism as Black student motivation: an institutional exploration of collectivism in African-centered education”, Unpublished Doctoral Dissertation, University of Minnesota, Minneapolis.
+
+Beard, K.S. (2013), “Character in action: a case of authentic educational leadership that advanced Equity and excellence”, Journal of School Leadership, Vol. 23, pp. 1015-1046.
+
+Beard, K.S., Arnold, N.W. and Douglas, T.-R. (2018), “Special issue introduction: the psychology of educational leadership”, Journal of School Leadership, Vol. 28, pp. 712-717.
+
+Blank, M.J., Melville, A. and Shah, B.P. (2003), Making the Difference: Research and Practice in Community Schools, ERIC.
+
+Brandon, R. and Seldman, M. (2004), Survival of the Savvy: High-Integrity Political Tactics for Career and Company Success, Free Press, New York City.
+
+Bryk, A.S. and Schneider, B. (2002), Trust in Schools: A Core Resource for Improvement, Russell Sage, New York.
+
+Calabrese Barton, A. and Osborne, M. (2001a), “Chapter 1: marginalized discourses and pedagogies: constructively confronting science for all in classroom practice”, Counterpoints, Vol. 150, pp. 7-32.
+
+Calabrese Barton, A. and Osborne, M. (2001b), Teaching Science in Diverse Settings, Peter Lang US, Bern.
+
+Cameron, K., Dutton, J.E. and Quinn, R. (Eds) (2003), Positive Organizational Scholarship, Berrett-Kohler, San Francisco.
+
+Cherkowski, S. and Walker, K. (2014), “Flourishing communities: re-storying educational leadership using a positive research lens”, International Journal of Leadership in Education, Vol. 17, pp. 200-216.
+
+Cherkowski, S. and Walker, K. (2016), “Purpose, passion and play: exploring the construct of flourishing from the perspective of school principals”, Journal of Educational Administration, Vol. 54 No. 4, pp. 378-392.
+
+Cherkowski, S., Hanson, K. and Walker, K. (2018), “Flourishing in adaptive community: balancing structures and flexibilities”, Journal of Professional Capital and Community, Vol. 3 No. 2, pp. 123-136.
+
+Dantley, M.E. and Tillman, L.C. (2006), “Social justice and moral transformative leadership”, Leadership for Social Justice: Making Revolutions in Education, pp. 16-30.
+
+DiAngelo, R.J. and DiAngelo, R.J. (2006), White Fragility in Racial Dialogues, Information Age, Greenwich, CT.
+
+Elliott, R. and Timulak, L. (2005), “Descriptive and interpretive approaches to qualitative research”, in Miles, J. and Gilbert, P. (Eds), A Handbook of Research Methods for Clinical and Health Psychology, Oxford University Press, Oxford, pp. 147-159.
+
+Ezzani, M. (2020), “A principal's approach to leadership for social justice: advancing reflective and anti-oppressive practices”, Journal of School Leadership, 1052684620908347.
+
+Freire, P. (2000), Pedagogy of the Oppressed, 30th anniversary ed., Continuum, New York, 2000. Print.
+
+Gamm, S., Elliott, J., Halbert, J.W., Price-Baugh, R., Hall, R., Walston, D., Uro, G. and Casserly, M. (2012), Common Core State Standards and Diverse Urban Students: Using Multi-Tiered Systems of Support, Council of the Great City Schools.
+
+Gooden, M.A. (2005), “The role of an African American principal in an urban information Technology high school”, Educational Administration Quarterly, Vol. 41 No. 4, pp. 630-650.
+
+Hoy, W.K. and Tarter, C.J. (2011), “Positive psychology and educational administration: an optimistic research agenda”, Educational Administration Quarterly, Vol. 47, pp. 427-445.
+
+Hoy, W.K. and Tschannen-Moran, M. (1997), “Trust in schools: a conceptual and empirical analysis”, Journal of Educational Administration, Vol. 36, p. 1998.
+
+Ishimaru, A.M. (2018), “Re-imagining turnaround: families and communities leading educational justice”, Journal of Educational Administration, Vol. 56, pp. 546-561.
+
+Ishimaru, A.M., Torres, K.E., Salvador, J.E., Lott, J., Williams, D.M.C. and Tran, C. (2016), “Reinforcing deficit, journeying toward equity: cultural brokering in family engagement initiatives”, American Educational Research Journal, Vol. 53, pp. 850-882.
+
+Khalifa, M. (2019), Culturally Responsive School Leadership, Harvard Education Press, Cambridge.
+
+Khalifa, M., Gooden, M.A. and Davis, J.E. (2016), “Culturally responsive school leadership: a synthesis of the literature”, Review of Educational Research, Vol. 86, pp. 1272-1311.
+
+Ko, M.H. (2012), “Glossing and Second Language vocabulary learning”, TESOL Quarterly, Vol. 46 No. 1, pp. 56-79.
+
+Ladson-Billings, G.J. (1999), “Preparing teachers for diverse student populations: a critical race theory perspective”, Review of Research in Education, Vol. 24, p. 211.
+
+Louis, K.S. and Murphy, J.F. (2017), “Trust, caring and organizational learning: the leader's role”, Journal of Educational Administration, Vol. 55, pp. 103-126.
+
+McKenzie, K.B., Christman, D.E., Hernandez, F., Fierro, E., Capper, C.A., Dantley, M., González, M.L., Cambron-McCabe, N. and Scheurich, J.J. (2008), “From the field: a proposal for educating leaders for social justice”, Educational Administration Quarterly, Vol. 44 No. 1, pp. 111-138.
+
+Milner, H.R. (2013), “Analyzing poverty, learning, and teaching through a critical race theory lens”, Review of Research in Education, Vol. 37, pp. 1-53.
+
+Murphy, J. and Louis, K.S. (2018), Positive School Leadership: Building Capacity and Strengthening Relationships, Teachers College Press, New York.
+
+Normore, A.H. and Jean‐Marie, G. (2008), “Female secondary school leaders: at the Helm of social justice, democratic schooling and equity”, Leadership and Organization Development Journal.
+
+Palmer, P. (1998), The Courage to Teach, Jossey-Bass, San Francisco.
+
+Riehl, C.J. (2000), “The principal's role in creating inclusive schools for diverse students: a review of normative, empirical, and critical literature on the practice of educational administration”, Review of Educational Research, Vol. 70, pp. 55-81.
+
+Seligman, M.E. (2011), Flourish: A Visionary New Understanding of Happiness and Well-Being, Free Press, New York.
+
+Singleton, G.E. (2012), More Courageous Conversations about Race, Corwin Press, Thousand Oaks, CA.
+
+Smylie, M., Murphy, J. and Louis, K.S. (2016), “Caring school leadership: a multidisciplinary, cross-occupational model”, American Journal of Education, Vol. 123, pp. 1-35.
+
+Van Den Brink, M. (2020), “‘Reinventing the wheel over and over again’. Organizational learning, memory and forgetting in doing diversity work”, Equality, Diversity and Inclusion: An International Journal, Vol. 39, pp. 379-393.
+
+Goddard, J.A., Molyneux, P.M. and Wilson, J.O. (2001a), European Banking: Efficiency, Technology and Growth, Wiley, Chichester.
+
+Goddard, R., Tschannen-Moran, M. and Hoy, W.K. (2001b), “A multilevel examination of the distribution and effects of teacher trust in students and parents in urban elementary schools”, The Elementary School Journal, Vol. 102, pp. 3-17.
+
+Exploring trust: culturally responsive and positive school leadership
+
+Abstract
+
+Keywords
+
+Citation
+
+Publisher
+
+Introduction
+
+Literature review
+
+Culturally responsive leadership (CRSL)
+
+Case study site, participants and research focus
+
+Findings: the case of Jessica Dawson and the Highland Public Schools
+
+Discussion
+
+Conclusion
+
+Table 1
+
+Table 2
+
+Notes
+
+Works Cited
+
+Further reading
+
+Corresponding author
+
+Services
+
+About
+
+Policies and information
+
+Discover Journals, Books & Case Studies
+
+Browse our content
+
+Publish with us
+
+My products
+
+Register for a profile
+
+Cart
+
+Login
+
+Home
+
+Journals
+
+Journal of Educational Administration
+
+Volume 60 Issue 3
+
+Exploring trust: culturally responsive and positive school leadership
+
+Abstract
+
+Introduction
+
+Literature review
+
+Culturally responsive leadership (CRSL)
+
+Case study site, participants and research focus
+
+Findings: the case of Jessica Dawson and the Highland Public Schools
+
+Discussion
+
+Conclusion
+
+Organizational change
+
+Organizational development
+
+Culture techniques
+
+Culturally responsive leadership
+
+Equity theory
+
+Critical Self-Awareness focuses on the need to interrogate ways that leaders, and their organizations, contribute to, reproduce or contest oppressive practices in schools (Gooden, 2005; McKenzie et al., 2008). This also requires leaders to be deeply aware of differences between school-centric and community-centric expressions of education.
+
+Culturally Responsive Curricula and Teacher Development requires responsive leaders to support new curriculum and instruction modes that improve the learning and humanization of minoritized students (Khalifa, 2019). This includes community assets and experiential knowledge.
+
+Culturally Responsive and Inclusive School Environments addresses school climate and spaces, and how they influence disparities in educational outcomes. Environments that affirm students' identity are critical, as is a school leader's ability to leverage resources that foster embedded cultural affirmation (Dantley and Tillman, 2006; Riehl, 2000).
+
+Engaging Students and Parents in Community Contexts incorporates adults outside the school as bearers of culturally appropriate knowledge. Thus, leaders establish routines for learning from and advocating for community knowledge, self-determination and goals (Ishimaru, 2018; Khalifa et al., 2016). This component highlights the place-based focus of CRSL.
+
+Provides information to the school's special education team about the pupil's racial, cultural, socioeconomic, and linguistic background;
+
+Assists the team in understanding how racial, cultural, socioeconomic, and linguistic factors impact educational progress; and
+
+Facilitates the pupil's parent's understanding and involvement in the unique education process.
+
+Authors
+
+Editors
+
+Librarians
+
+Researchers
+
+Reviewers
+
+About Emerald
+
+Working for Emerald
+
+Contact us
+
+Publication sitemap
+
+Privacy notice
+
+Site policies
+
+Modern Slavery Act
+
+Accessibility
+
+Centered on students' trusting experience
+
+Value-based leadership supporting all members
+
+Centered on adults' trusting experiences
+
+Centrality of differences in power and racial/cultural between groups
+
+Caring and trusting relationships that balance shifting power and trust-building relationships within a specific cultural context
+
+Centrality of school culture, particularly asset-based, personalized relationships
+
+Importance of physical space and inclusion/exclusion of its members
+
+The importance of broadly-based inclusion, membership and belonging within a particular organized setting
+
+Importance of empowered, decentralized membership
+
+Centrality of shifting community-school power relationships
+
+Focus on leading in and outside the school
+
+Centrality of groups and teams
+
+Check & connect (Anderson et al., 2004a, b)
+
+Cultivating student/parent voice to reduce dropouts
+
+C&C is used to gauge needed responsive behavior to support student engagement
+
+Culturally responsive curricula and teacher preparation
+Culturally responsive and inclusive school environments
+
+Asset-base, authentic, relationally grounded
+
+Courageous conversations (Singleton, 2012)
+
+Using the experience of marginalized students to facilitate staff conversations about race
+
+Cultural liaisons use frequent intentional conversations with teachers to make minoritized students' experiences visible. Their focus on student experience helps teachers and schools track and gauge student needs
+
+Culturally responsive and inclusive school environments
+
+Growth-based adult development
+
+Adult-led community/School coalitions building (Blank et al., 2003)
+
+Forming parental affinity groups to encourage participation of minoritized communities
+
+Forming affinity groups (for example, among East Africans or Hispanics) helps the district uncover “invisible” behaviors and empower parents to communicate with the district
+
+Engaging students and parents in community contexts
+
+Asset-base, value-centered, virtue- based, relationally grounded
+
+Workplace diversification
+
+Hiring persons from underrepresented communities in highly visible positions
+
+Building-based cultural liaisons allow students to be more comfortable sharing concerns. Marginalized communities are more likely to come into the school when seeing someone they could “trust”
+
+Critical self-awareness
+Culturally responsive curricula and teacher preparation
+Engaging students and parents in community contexts
+
+Service-grounded
+
+Active adult learning strategies (teacher engagement)
+
+Utilizing critical organizational data as an opportunity to facilitate personal/equity growth with critical self-reflection practices (initiated by Jessica)
+
+District equity data supported an “organizational stress test” process (Banwo, 2020), and increased organizational capacity to function under unexpected equity crises
+
+Critical self-awareness
+
+Value-centered, relationally grounded
+
+Youth-led learning communities and youth community development
+
+Embedding affinity groups within the schools as support for students struggling with racialized experiences
+
+Development of student affinity-based communities
+
+Engaging students and parents in community contexts
+
+Asset-base, virtue- based, relationally grounded
+
+Advocacy for district-wide equity professional development
+
+Leveraging state and district commitments to improving minoritized student experiences by introducing equity research
+
+Equity training and adults (district-level leadership)
+
+Culturally responsive curricula and teacher preparation
+
+Value-centered, transcendent, authentic

@@ -1,0 +1,375 @@
+Keywords: Orff Schulwerk; Empathy; Social competence.
+Abstract. The quasi-experimental design included students in two kindergarten classes, where one
+class of 28 students was randomly assigned to receive the treatment while the other class of 28
+served as the control group. The intervention was a 16-session Orff music curriculum over a period
+of eight weeks, aimed at improving children’s social emotional competence. The results indicated
+that, after participating in the Orff-based musical program, children in the treatment group were
+rated significantly higher in responsibility, social competence and self regulation as compared to
+children in the control group beyond that accounted for by the pretest scores and gender. No
+statistically significant improvements in children’s empathy was found after participation in this
+program.
+Introduction
+Orff Schulwerk is not only an effective way of teaching music for children and adolescents, but
+also an approach to address non-musical goals in educational and clinical interventions. This study
+adds to the research base by conducting an intervention for migrant children in a suburban school in
+Shanghai to improve their social emotional competencies. In this current study, the aim is to
+enhance the student participants’ emotional competency and social skills through receiving the
+Orff-based curriculum. This study informs Chinese music educators and kindergarten teachers
+regarding teaching strategies for improving children’s social competence in a new way of a
+music-based curriculum.
+Literature Review
+Psychological Functions of Music
+Evidence from many researches indicates there are underlying influences of music and music
+education on non-musical capacities [5, 12, 15, 16]. This exploratory research provides some of the
+first empirical data regarding the possible benefits of using an Orff-based curriculum to enhance
+migrant children’s social emotional competence in the setting of a Chinese suburban school with
+kindergarteners. The findings add to the research literature which focuses on the influence of Orff
+Schulwerk on children’s social and psychological development and the non-musical functions of
+musical activities. This inquiry informs Chinese music educators and kindergarten classroom
+teachers regarding teaching strategies for improving children’s social emotional competence
+through the use of a music-based curriculum.
+These influences are not only related to musical accomplishment, but also associated with
+psychological wellness. In ancient Greece, music education was so important that it was considered
+as a basic discipline in education [2]. Several great philosophers considered music to impact human
+emotion and cognition. Aristotle proposed that music could imitate emotion and character of
+humans, such as gentleness, happiness, anger, sadness and braveness [6]. Both Aristotle and Plato
+considered that exquisite music could make people graceful [19]. When people listen to and imitate
+music with various emotional expressions, they may be filled with emotions of the same nature; if
+999
+and when exposed for a long time to music of base emotions, the receivers’ disposition might be
+influenced that way [19].
+A growing body of evidence indicates that music education or music intervention can be
+considered as effective methods to enhance the social competence of children and adolescents [2,
+9]. Music can express one’s emotions through the arrangement of notes and rhythm. As one
+function of music is to influence people’s emotions, it is not a surprise to find music education can
+have an impact on social development. Thoma, Scholz, Ehlert, and Nater, find that qualitative
+aspects of music listening are significantly related to the psychological functioning, mediated by
+emotion regulation and dispositional stress reactivity [20].
+Orff Schulwerk
+Orff Schulwerk (Schoolwork) is a music education approach for children, adolescents and adults
+founded by Carl Orff (1895-1982), a German musician and music educator [17] (Shamrock, 1988).
+Orff Schulwerk has a system of teaching strategies that include singing, movement, speech,
+instrumental playing, and a series of textbooks for teaching music within elementary schools.
+However, it does not require the direct use of textbooks in different countries. In fact, the utilization
+of the Orff approach is encouraged for music educators, teachers, professors and composers to
+develop their own materials from folk songs, instruments and other local resources under the big
+“umbrella” of the idea “Elementar Musik” and teaching strategies [18]. Findings from research,
+examining the effects of Orff-based musical curriculum and Orff-based musical therapy
+intervention indicate improvement in children’s psychological well-being [4]. In addition, it is
+found that employing the ideas from Orff Schulwerk has positive effects on children’s social
+communication, self-efficacy, social skills and emotional regulation in South Korea [25].
+Social Emotional Competence
+The Ministry of Education in China issued the “Guide of Learning and Development for Children
+from Three to Six” (“Guide”) in the year 2010. The expert panel in early childhood education spent
+six years developing this “Guide” based on studying related policies from 13 countries and two
+years of research. This research recruited approximately 3,600 children, their parents and their
+teachers in China [14]. More detailed explanations and standards of every field are provided. It is
+pointed out that the social development process of children from three to six years old is the basis
+for improving their socialization and healthy personalities, mainly including interpersonal behaviors
+and social adaptation identified in the “Guide.” Early childhood is the key period for social
+development; good interpersonal and social adaptation have positive impacts on children’s physical
+and mental health development, academic achievement and intellectual development. Engaging in
+communication with adults and peers, children can learn not only how to get along with people, but
+also how to see themselves, practice positive ways to treat others, and gain abilities to acquire skills
+to adapt to social life [14].
+Migrant Children
+In China, migrant children are youth who are under 18 years old live in a town or suburban areas
+without local household registration [7]. Under this binary system, schools in suburban areas are
+facing two challenges: one is the shortage of qualified teachers; the other one is the high proportion
+of migrant children [21, 22]. In Shanghai, the educationally advanced areas are mostly located in
+urban districts; in contrast, suburban areas and districts show an obvious lack of quality educational
+resources and services [21].
+Furthermore, in Shanghai, four out of every 10 children are migrant children, and the proportion
+is even higher in suburban schools [1]. It is reported that, although the number of migrant children
+is increasing, their families encounter many economic, social welfare and social-cultural obstacles
+that make it difficult for them to adapt to city life [8, 24]. There is growing evidence indicating that
+migrant children in China, in general, suffer from different kinds of psychological problems. They
+may have the risks of experiencing depression, separation anxiety, feelings of inferiority, and
+1000
+loneliness, and perform poorly in self regulation, adaptive behaviors, learning habits, and academic
+achievement [3, 10, 11].
+Because of the shortage of qualified teacher resources and the higher proportion of migrant
+children in China’s large municipalities of millions of people, migrant children in suburban
+kindergartens may have potential risks and challenges regarding their psychological wellness and
+development. Therefore, there is a need to pay attention to young migrant children’s social
+development and mental wellness [3, 10, 23]. However, few studies employ the strategies of Orff
+Schulwerk as a framework aimed at improving children’s social emotional development in the
+contexts of schools.
+Research Questions
+This present inquiry is designed to engage kindergarten students, from migrant families, in an
+integrated curriculum using an Orff approach to study its influence on improving children’s social
+emotional competencies in a suburban school in Shanghai, China.
+Based on the literature review and the instrument employed, the research questions are as follow:
+1. Does participation in the Orff-based musical curriculum improve migrant kindergarteners’
+responsibility after controlling for gender and initial levels of responsibility?
+2. Does participation in the Orff-based musical curriculum improve migrant kindergarteners’
+social competence after controlling for gender and initial levels of social competence?
+3. Does participation in the Orff-based musical curriculum improve migrant kindergarteners’ self
+regulation after controlling for gender and initial levels of self regulation?
+4. Does participation in the Orff-based musical curriculum improve migrant kindergarteners’
+empathy after controlling for gender and initial levels of empathy?
+Methodology
+Two kindergarten classes with 28 children in each class, from five to six years of age, were to be
+selected, wherein both of each class would be children of migrant workers. One class was to be
+randomly assigned as the control group, with the other one serving as the treatment group. Each
+class had two classroom teachers taking charge of their daily activities. When selecting the classes
+of students, criteria related to teacher characteristics also were considered. Teachers needed to have
+worked with the children for at least six months so that they would know them sufficiently well to
+complete the data collection instrument pertaining to their students. In addition, the researcher tried
+to select control and treatment group teachers who had similar educational training and work
+experience. The sampling unit was the class but individual students served as the unit of statistical
+analysis.
+Table 1.
+Time Content
+Week Monday
+10:00 am-10:30 am
+Wednesday
+10:00 am-10:30 am
+1 Lesson 1 Review of lesson 1
+2 Lesson 2 Review of lesson 2
+3 Lesson 3 Review of lesson 3
+4 Lesson 4 Review of lesson 4
+5 Lesson 5 Review of lesson 5
+6 Lesson 6 Review of lesson 6
+7 Lesson 7 Review of lesson 7
+8 Lesson 8 Review of lesson 8
+Teacher participants completed the Chinese version of teacher form of Social Emotional Assets
+and Resilience Scales to provide their perspectives of their students’ social emotional competence.
+1001
+The teacher form of SEARS has four subscales: Self-regulation, responsibility, empathy and social
+competence [13].
+Children in the treatment group received this Orff-based curriculum twice a week. Each lesson was
+completed in one week: the first class was spent teaching the new lesson and the second class of the
+week reviewed the previous session. The schedule of the intervention and the assessment are shown
+in Table 1.
+Result
+Table 2 shows the means and the standard deviations of responsibility, self regulation, social
+competence and empathy of the pretest and posttest scores for each group. According to the results
+of the independent-samples t-tests, using alpha = .05, there was evidence to suggest that the
+responsibility posttest scores differ, on average, between the control group and the treatment, t(54)
+= 2.080, p = .04. There was evidence to suggest that the social competence pretest scores differ, on
+average, between the control group and the treatment, t(54) = -2.065, p = .04. There was evidence
+to suggest that the self regulation pretest scores differ, on average, between the control group and
+the treatment, t(54) = -3.346 , p = .001.There was evidence to suggest that the empathy pretest
+scores differ, on average, between the control group and the treatment, t(54) = -2.552, p = .01.
+Table 2. Descriptive Statistics by Subscales by Condition.
+Treatment
+(n=28)
+Control
+(n=28)
+t p
+M SD M SD
+Responsibility Pretest 2.13 .47 2.03 .65 .70 .48
+Posttest 2.52 .33 2.23 .68 2.08 .04
+Social competence Pretest 1.63 .39 1.92 .65 -2.07 .04
+Posttest 2.15 .38 2.17 .60 -.11 .91
+Self regulation Pretest 1.39 .31 1.81 .57 -3.35 .001
+Posttest 1.99 .33 2.05 .66 -.42 .68
+Empathy Pretest 1.66 .75 2.04 .73 -2.55 .01
+Posttest 2.04 .565 2.16 .72 -.81 .42
+Table 3 provides the correlations among the main variables, using pretest scores above and
+posttest scores below the diagonal. As would be expected from the t-test results, as shown in the
+correlations matrix, the condition and responsibility posttest scores were significantly correlated (p
+< 0.05, two-tailed). Also, the four indicators of social emotional competence were highly correlated
+before and after the intervention.
+Research question one (RQ1) asked whether participation in an Orff based musical curriculum
+improved migrant kindergarteners’ responsibility or not after controlling for gender and initial
+levels of responsibility. A sequential multiple regression was conducted. In Model 1, the control
+variable (gender) was entered along with the corresponding pretest (i.e., that measures initial levels
+of responsibility). In Model 2, the condition (treatment, coded 1; control, coded 0) was added to the
+Model 1 variables. As shown in Table 2, in Model 1, the control variable (gender) was entered
+along with the corresponding pretest (i.e., that measures initial levels of responsibility); together,
+the two variables explain almost 59.7% of the variance in posttest responsibility scores (see Table
+20). In Model 2, the condition (treatment, coded 1; control, coded 0) was added to the Model 1
+variables. Model 1 was statistically significant and the addition of knowing whether the student
+participated in the treatment or not (condition) accounted for an additional 4.1% of the variance in
+posttest scores of responsibility, ΔR2
+ = .041, F (1, 52) = 5.862, p = .019. (Table 4).
+1002
+Table 3. Correlations between Social Emotional Competence, Condition and Control Variable
+(n = 56).
+1 2 3 4 5 6
+1. Condition
+.095 -.271* -.414** -.328* -.036
+2. Responsibility
+.272* .726** .735** .801** .478**
+3. Social
+competence -.015 .813** .900** .822** .323*
+4. Self regulation
+-.057 .845** .915** .881** .337*
+5. Empathy
+-.109 .777** .884** .869** .421**
+6. Gender
+-.036 .384** .267* .309* .396**
+ * p < 0.05 (two-tailed) ** p < 0.01 (two-tailed)
+Note:
+1. Condition (1=treatment, 0=control); Gender (1=girl, 0=boy).
+2. Correlations involving the four indicators of social emotional competence above the diagonal use pretest scores;
+those below the diagonal use posttest scores.
+Table 4. Summary of the Models Predicting Posttest Scores of Responsibility.
+Model R R
+2 Adjusted R2
+Change Statistics
+ ΔR2 F df1 df2 p
+1 .772a .597 .581 .597 39.204 2 53 .000
+2 .798b .638 .617 .041 5.862 1 52 .019
+Notes: Model 1: (Constant), Responsibility Pretest, Gender
+Model 2: Model 1 Predictors above plus Condition (1=Treatment, 0=Control)
+Table 5 shows the regression coefficients of the variables in the models. For "condition," the
+coefficient was significant t (52) = 2.421, p = .019 with b = .222 and β = .204. The positive
+coefficients were in the predicted direction, in that program participation, on average, is associated
+with higher posttest responsibility scores; therefore, there was evidence to suggest that the treatment
+improved responsibility, after controlling for gender, and initial levels of self regulation that the
+teachers reported for their students. Based on Cohen’s f2, the effect size was .113 which was
+considered to be more than a small (.02) but less than a medium (.15) effect size (Cohen, 1988).
+Table 5. Effects of the Intervention on Responsibility.
+Model B SEB β t p
+1 (Constant) .828 .185 4.467 .000
+Gender .022 .109 .020 .201 .841
+Pretest .739 .096 .763 7.682 .000
+2 (Constant) .764 .179 4.259 .000
+Gender .045 .104 .041 .435 .666
+Pretest .710 .093 .733 7.650 .000
+Condition .222 .092 .204 2.421 .019
+ Note: Condition (1=treatment, 0=control); Gender (1=girl, 0=boy).
+1003
+Research question two (RQ2) asked whether participation in an Orff-based musical curriculum
+improved migrant kindergarteners’ social competence or not after controlling for gender and initial
+levels of social competence. A sequential multiple regression was conducted. In Model 1, the
+control variable (gender) was entered along with the corresponding pretest (i.e., that measures
+initial levels of social competence). In Model 2, the condition (treatment, coded 1; control, coded 0)
+was added to the Model 1 variables. As shown in Table 6, in Model 1, the control variable (gender)
+was entered along with the corresponding pretest (i.e., that measures initial levels of social
+competence); together, the two variables explain almost 59.3% of the variance in posttest social
+competence scores. In Model 2, the condition (treatment, coded 1; control, coded 0) was added to
+the Model 1 variables. Model 1 was statistically significant and the addition of knowing whether the
+student participated in the treatment or not (condition) accounted for an additional 4% of the
+variance in posttest scores of social competence, ΔR2 =.040, F (1, 52) = 5.658, p = .021.
+Table 6. Summary of the Models Predicting Posttest Scores of Social Competence.
+Model R R
+2 Adjusted R2
+Change Statistics
+ ΔR2 F df1 df2 p
+1 .770a .593 .577 .593 38.582 2 53 .000
+2 .795b .633 .612 .040 5.658 1 52 .021
+Notes: Model 1: (Constant), Social Competence Pretest, Gender
+Model 2: Model 1 Predictors above plus Condition (1=Treatment, 0=Control)
+Table 7 shows the regression coefficients of the variables in the models. For "condition," the
+coefficient was significant t (52) = 2.379, p = .021 with b = .225 and β = .208. The positive
+coefficients were in the predicted direction, in that program participation, on average, is associated
+with higher post-test social competence scores; therefore, there was evidence to suggest that the
+treatment improved social competence, after controlling for gender, and initial levels of social
+competence that the teachers reported for their students. Based on Cohen’s f2, the effect size was
+.109 which was considered to be more than a (.02) but less than a medium (.15) effect size (Cohen,
+1988).
+Table 7. Effects of the Intervention on Social Competence.
+Model B SEB β t p
+1 (Constant) .809 .161 5.027 .000
+Gender .023 .101 .021 .228 .820
+Pretest .755 .092 .763 8.238 .000
+2 (Constant) .599 .178 3.364 .001
+Gender .010 .097 .009 .103 .918
+Pretest .814 .091 .823 8.915 .000
+Condition .225 .094 .208 2.379 .021
+ Note: Condition (1=treatment, 0=control); Gender (1=girl, 0=boy)
+Research question three (RQ3) asked whether participation in an Orff based musical curriculum
+improved migrant kindergarteners’ self regulation or not after controlling for gender and initial
+levels of self-regulation. A sequential multiple regression was conducted. In Model 1, the control
+variable (gender) was entered along with the corresponding pretest (i.e., that measures initial levels
+of self regulation); together, the two variables explain almost 49.5% of the variance in posttest
+self-regulation scores. In Model 2, the condition (treatment, coded 1; control, coded 0) was added to
+the Model 1 variables. Model 1 was statistically significant and the addition of knowing whether the
+1004
+student participated in the treatment or not (condition) accounted for an additional 6.2% of the
+variance in posttest scores of self-regulation, ΔR2 = .062, F (1, 52) = 7.210, p = .01. (Table 8).
+Table 8. Summary of the Models Predicting Posttest Scores of Self-Regulation.
+Model R R
+2 Adjusted R2
+Change Statistics
+ ΔR2 F df1 df2 p
+1 .703a .495 .476 .495 25.958 2 53 .000
+2 .746b .556 .531 .062 7.210 1 52 .010
+Notes: Model 1: (Constant), Self Regulation Pretest, Gender
+Model 2: Model 1 Predictors above plus Condition
+ (1=Treatment, 0=Control)
+ Table 9 shows the regression coefficients of the variables in the models. For "condition," the
+coefficient was significant t (52) = 2.685, p = .010 with b = .282 and β = .275. The positive
+coefficients were in the predicted direction, in that program participation, on average, is associated
+with higher posttest self regulation scores; therefore, there was evidence to suggest that the
+treatment improved self regulation, after controlling for gender, and initial levels of self-regulation
+that the teachers reported for their students. Based on Cohen’s f2, the effect size was .140 which
+was considered to be more than a small (.02) but less than a medium (.15) effect size (Cohen,
+1988).
+Table 9. Effects of the Intervention on Self-Regulation.
+Model B SEB β t p
+1 (Constant) .848 .171 4.970 .000
+Gender .085 .107 .082 .795 .430
+Pretest .700 .108 .671 6.474 .000
+2 (Constant) .517 .203 2.547 .014
+Gender .052 .102 .050 .509 .613
+Pretest .830 .113 .796 7.334 .000
+Condition .282 .105 .275 2.685 .010
+ Note: Condition (1=treatment, 0=control); Gender (1=girl, 0=boy).
+Research question four (RQ4) asked whether participation in an Orff-based musical curriculum
+improved migrant kindergarteners’ empathy or not after controlling for gender and initial levels of
+empathy. A sequential multiple regression was conducted. A sequential multiple regression was
+conducted. In Model 1, the control variable (gender) was entered along with the corresponding
+pretest (i.e., that measures initial levels of empathy); together, the two variables explain almost
+44.3% of the variance in posttest empathy scores. In Model 2, the condition (treatment, coded 1;
+control, coded 0) was added to the Model 1 variables. Model 1 was statistically significant but
+Model 2 was not statistically significant. The addition of knowing whether the student participated
+in the treatment or not (condition) could be accounted for in posttest scores of empathy, ΔR2 =
+.009, F (1, 52) ＝ .863, p = .357 (Table 10).
+Table 10. Summary of the Models Predicting Posttest Scores of Empathy.
+Model R R
+2 Adjusted R2
+Change Statistics
+ ΔR2 F df1 df2 p
+1 .665a .443 .422 .443 21.063 2 53 .000
+2 .672b .452 .420 .009 .863 1 52 .357
+Notes: Model 1: (Constant), Empathy Pretest, Gender
+Model 2: Model 1 Predictors above plus Condition (1=Treatment, 0=Control)
+1005
+Table 11 displays the regression coefficients of the variables in the models. For "condition," the
+coefficient was not significant t (52) = .929, p = .357 with b = .116 and β = .102. The positive
+coefficients were in the predicted direction, in that program participation, on average, was
+associated with higher posttest empathy scores; however, there was not sufficient evidence to
+suggest that the treatment improves empathy, after controlling the gender and initial levels of
+empathy that the teachers reported for their students. Based on Cohen’s f2, the effect size was .016
+which was not considered to be even a small (.02) effect size (Cohen, 1988).
+Table 11. Effects of the Intervention on Empathy.
+Model B SEB β t p
+1 (Constant) .915 .199 4.601 .000
+Gender .169 .130 .147 1.299 .200
+Pretest .590 .113 .590 5.220 .000
+2 (Constant) .794 .238 3.331 .002
+Gender .154 .131 .134 1.177 .245
+Pretest .628 .121 .629 5.213 .000
+Condition .116 .125 .102 .929 .357
+ Note: Condition (1=treatment, 0=control); Gender (1=girl, 0=boy).
+Four multiple regressions were conducted and the results show that the intervention had positive
+effects on students’ social emotional competency (specifically participants’ responsibility, social
+competence and self regulation) after controlling for gender along with their initial levels of
+responsibility, social competence and self regulation, respectively.
+Discussion
+The ability of children to perceive mood and feeling, and to understand their emotional status
+provides a foundation for furthering their good social relations and prosocial behaviors. However,
+the findings in this current study suggest that the Orff-based musical curriculum can improve
+children’s empathy but not to a statistically significant extent. There are two reasons for this result,
+one is the intervention is a short-term program, and the other one is that for children in the early
+childhood, it may be more difficult to master and apply the skills of empathy than the other three
+aspects of social emotional competence.
+Recommendations on Further Studies
+The design of the experiment can be also adjusted for different participants (both migrant and
+local children) based on their levels of social emotional competence and characteristics. In addition,
+future research studies might lengthen the intervention and collect delayed posttest scores to explore
+the long term influence of the Orff-based curriculum, as studies in other countries tended to use
+longer interventions.
+Summary
+ This exploratory research provides some of the first empirical data regarding the possible benefits
+of using an Orff-based curriculum to enhance migrant children’s social emotional competence in
+the setting of a Chinese suburban school with kindergarteners. The findings add to the research
+literature which focuses on the influence of Orff Schulwerk on children’s social and psychological
+development and the non-musical functions of musical activities. This inquiry informs Chinese
+music educators and kindergarten classroom teachers regarding teaching strategies for improving
+children’s social emotional competence through the use of a music-based curriculum

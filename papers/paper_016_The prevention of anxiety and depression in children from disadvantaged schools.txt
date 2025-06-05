@@ -1,0 +1,513 @@
+abstract
+A randomised controlled trial evaluated the Aussie Optimism Program in preventing anxiety and
+depression. Grade 7 students (n ¼ 496) from disadvantaged government schools in Perth Western
+Australia, participated. Six schools were randomly assigned to Aussie Optimism and six schools received
+their usual health education lessons. Students completed questionnaires on depression, anxiety, attribution style, and social skills. Parents completed the Child Behavior Checklist. No significant group effects
+were found for student-reported data. Parents of intervention group only students reported reductions in
+internalizing problems at post-test. No follow-up group effects were significant. Students and teachers
+found the program acceptable.
+Crown Copyright  2009 Published by Elsevier Ltd. All rights reserved.
+Anxiety and depression have become important targets for
+prevention because of their early onset, significant health burden,
+persistence into adulthood, and comorbidity with other problems
+(Feldner, Zvolensky, & Schmidt, 2004; Horowitz & Garber, 2006).
+Depression is often comorbid with, or follows childhood anxiety
+(Flannery-Schroeder, 2006). Common psychosocial risk factors
+such as parental depression, violence and loss events, having no
+friends, and poor sibling relationships (Shanahan, Copeland, Costello, & Angold, 2008) have been identified, as well as cognitive
+vulnerabilities (Gibb & Coles, 2005). Intervening with common risk
+and protective factors in late childhood may lead to prevention for
+both disorders in adolescence. This study investigates the efficacy
+of a prevention program, the Aussie Optimism Program (AOP), which
+targets social and cognitive risks for internalizing problems as part
+of the primary school health curriculum.
+Aussie Optimism has two components. Social Life Skills (SLS;
+Roberts, Ballantyne, & van der Klift, 2003) was developed to overcome interpersonal risks, such as poor social skills and social
+problem solving, lack of social support, (Goodman, Gravitt, & Kaslow, 1995; Rudolph, Hammen, & Burge, 1994), and friendship
+difficulties (Shanahan et al., 2008). Optimistic Thinking Skills (OTS;
+Roberts, Ballantyne, et al., 2003; Roberts, Roberts, et al., 2003)
+targets cognitive vulnerabilities, including pessimistic attribution
+style (Seligman, Reivich, Jaycox, & Gillham, 1995), negative selfperceptions and future expectations (Beck, Rush, Shaw, & Emery,
+1979; Gibb & Coles, 2005). Rational problem solving and problemand emotion-focused coping are targeted to reduce stress (Grant
+et al., 2006).
+Depression prevention programs have achieved positive
+outcomes for anxiety and vice versa. Roberts, Kane, Bishop,
+Matthews, and Thomson (2004) found that the Penn Resilience
+Program (PRP) resulted in reductions in anxiety at follow-up, and
+anxiety mediated a 30-month reduction in depressive symptoms.
+Gillham et al. (2006) child and parent version of PRP produced large
+effects for anxiety and small to moderate effects for depression over
+1-year follow-up. When implemented universally with children in
+small groups, the Friends for Life anxiety prevention program
+reduced anxiety and depressive symptoms for anxious children for
+up to 12-months (Barrett, Farrell, Ollendick, & Dadds, 2006).
+Recent reviews suggest that targeted programs (e.g., PRP and
+Adolescents Coping with Stress) are more effective for depression
+(Horowitz & Garber, 2006), but universal (e.g. Friends for Life) and
+targeted programs (e.g., Dadds, Spence, Holland, Barrett, & Laurens,
+1997; Queensland Early Intervention Anxiety Program) are effective
+for anxiety (Feldner et al., 2004). AOP is implemented universally,
+but targets students attending schools in low socio-economic areas,
+with daily risks such as low family income, broken families, conflict,
+and other stressful life events. It has a similar theoretical base to the
+PRP, but incorporates techniques to change cognitions, emotions
+* Correspondence to: Clare M. Roberts, School of Psychology, Curtin University of
+Technology, GPO Box U1987, Perth, Western Australia 6845, Australia. Tel.: þ61 8
+9266 7992; fax: þ61 8 9266 2464.
+E-mail addresses: c.roberts@curtin.edu.au (C.M. Roberts), r.kane@curtin.edu.au
+(R. Kane), b.bishop@curtin.edu.au (B. Bishop), c.cross@ecu.edu.au (D. Cross), Bret.
+Hart@health.wa.gov.au (B. Hart). 1 Donna Cross is currently at the School of Exercise, Biomedical and Health
+Sciences, Faculty of Computing, Health and Science, Edith Cowan University, 2
+Bradford Street, Mt Lawley, WA 6050, Australia.
+Contents lists available at ScienceDirect
+Behaviour Research and Therapy
+journal homepage: www.elsevier.com/locate/brat
+0005-7967/$ – see front matter Crown Copyright  2009 Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.brat.2009.09.002
+Behaviour Research and Therapy 48 (2010) 68–73
+and behaviors relevant to both anxiety and depression (e.g., Kendall,
+2006; Seligman et al., 1995; Stark, 1990). Teachers implement the
+program in upper primary classes as part of the health curriculum.
+This study investigates the efficacy of AOP. We expected AOP to
+reduce child and parent reports of anxiety and depressive symptoms compared to a usual care condition, and parent reports of
+externalizing problems which are often co-morbid with depression
+Angold, Costello, and Erkanli (1999). We expected AOP to enhance
+social skills and optimistic attributional styles and that these would
+mediate effects on anxiety and depression. Clinical effects predicted lower prevalence and incidence of children with clinical
+symptoms in the AOP group. Maintenance of effects at 6- and
+18-month high school follow-ups was expected. Moderation effects
+of gender and student risk status are also investigated.
+Method
+Participants
+Participants were 496 Grade 7 students, aged between 11 and 13
+years (M ¼ 11.99, SD ¼ .33), from 12 government primary schools in
+Perth, Western Australia. The schools were randomly sampled from
+the lowest decile of socio-economic status (SES) based on the
+Census Index of Relative Socio-economic Status (Australian Bureau
+of Statistics, 1996). Pairs of schools were matched on SES, school
+size, and number of Grade 7 students, and members of each pair
+were randomised to conditions. There were 274 students (54.8%,
+n ¼ 151 females) in the intervention group, and 222 (53.4%, n ¼ 119
+females) in the control group. Participation rates were similar for
+intervention (Student ¼ 89.3%; Parent ¼ 61.3%) and control groups
+(Student ¼ 85.8%; Parent ¼ 56.5%). Deletion by case was used to
+manage attrition. By 18-month follow-up, 75.4% (n ¼ 377) of the
+students were available, but only 30% (n ¼ 207) of the parents. More
+intervention students (28.8%, n ¼ 79) than control students (19.8%,
+n ¼ 44) dropped out (c2 (1, N ¼ 496) ¼ 5.27, p ¼ .02) (Table 1).
+Student measures
+The Child Depression Inventory (CDI) measured depressive
+symptoms (Kovacs, 1992). This scale assessed depressed affect,
+somatic symptoms, depressive behaviour, low self-esteem, and
+anhedonia (Cronbach’s a ¼ .86). A cut-off score of 15, recommended by Kovacs as indicating moderate to severe depressive
+symptoms, identified 16.8% (n ¼ 73) high risk students. Pre-test CDI
+scores correlated significantly with RCMAS scores (r ¼ .71) and
+CASQ-R composite negative scores (r ¼.55). The pre-test mean, 7.85
+(SD ¼ 7.24), was lower than the normative sample for 8–12 yearolds (M ¼ 10.5, SD ¼ 7.3).
+The Revised Children’s Manifest Anxiety Scale (37-item RCMAS;
+Reynolds & Richmond, 1985) assessed physiological symptoms,
+worry, over-sensitivity, social and concentration concerns (Cronbach’s a ¼ .87; 9 month test-retest reliability ¼ .64). A cut-off score
+of 16 was used to identify 17.3% (n ¼ 75) high risk children. This cutoff accorded with the CDI cut-off at one standard deviation above
+the mean for 11-year-old boys and close to this score for 11-year-old
+girls (Reynolds & Richmond). The mean pre-test score for this
+sample (M ¼ 7.98, SD ¼ 6.60) was lower than the standardisation
+sample (M ¼ 11.42, SD ¼ 5.75).
+The Children’s Attributional Style Questionnaire – Revised
+(24-item CASQ-R; Thompson, Kaslow, Weiss, & Nolen-Hoeksema,
+1998) assessed attribution style for positive and negative events in
+8–13-year-olds. Low composite positive (CP) scores and high
+composite negative (CN) scores indicate pessimistic explanations.
+Moderate internal consistency (CP: Cronbach a ¼ .53–.60; CN:
+Cronbach a ¼ .45–.46) and test–retest reliability (CP: r ¼ .53; CN:
+r ¼ .38) were reported. Significant correlations with the CDI total
+(r ¼ .46 for CP; r ¼ .49 for CN) and the RCMAS total (r ¼  .41 for
+CP; r ¼ .34 for CN) indicated good convergent validity.
+The Matson Evaluation of Social Skills with Youngsters (38-item
+MESSY; Matson, Macklin, & Helsel, 1985) measured appropriate
+social skills and inappropriate assertiveness. Higher scores indicated poorer social skills. Spearman–Brown correlation coefficients
+were .94 (appropriate social skills) and .98 (inappropriate assertiveness). Test–retest reliability over 9 months was .52 for appropriate social skills and .57 for inappropriate assertiveness.
+Inappropriate assertiveness correlated .33 with the RCMAS social
+concerns subscale, and .44 with the CDI total. Factorial validity has
+been established for 4-18-year olds.
+Student process evaluation
+Social Life and Optimistic Thinking measures were developed.
+Each comprised 25 statements on program satisfaction and the
+usefulness of skills taught, rated on a 5-point Likert scale from 1
+(not at all) to 5 (very much). Students indicated the activities they
+enjoyed and skills they used most.
+Parental measures
+Demographic information
+Parents completed a demographic questionnaire.
+Internalizing and externalizing problems
+The Child Behaviour Checklist (CBCL) measured internalizing
+and externalizing problems. Reliability and validity has been
+Table 1
+Demographic data for intervention and control group children who completed both
+pre-test and post-test.
+Variable Intervention
+(n ¼ 237)
+Control
+(n ¼ 191)
+Group difference
+Child age in years (SD) 11.99 (.34) 11.99 (.33) t(266) ¼ .084,
+p > .05
+Child gender (%)
+Males 123 (44.9%) 103 (46.4%) c2 (1, N ¼ 428)
+Females 151 (55.1%) 119 (53.6%) ¼ .10, p > .05
+Ethnic Origin (%)
+Australian 123 (44.4%) 97 (43.5%) c2 (2, N ¼ 255)
+Other English speaking 13 (4.7%) 9 (4.0%) ¼ .17, p > .05
+Other non-English speaking 22 (7.9%) 15 (8.7%)
+Not stated 119 (43.0%) 102 (45.7%)
+Annual Family Income (%) (Australian Dollars)
+Less than $20,000 41 (14.8%) 31 (13.9%) c2 (2, N ¼ 260)
+$20,000–$50,000 80 (38.9%) 69 (30.9%) ¼ 1.64, p > .05
+Greater than $50,000 41 (14.8%) 24 (10.8%)
+Not stated 114 (41.1%) 99 (44.4%)
+Family status (%)
+Single parent family 42 (15.2%) 42 (18.3%) c2 (2, N ¼ 271)
+2-parent family 124 (44.8%) 81 (36.3%) ¼ 5.10, p > .05
+Non-parent carers 6 (2.2%) 6 (2.7%)
+Not stated 105 (41.1%) 94 (44.4%)
+Family history of mental health problems (%)
+Maternal history
+of problems
+20 (7.2%) 19 (8.5%) c2 (1, N ¼ 300)
+¼ .41, p > .05
+Not stated 105 (46.2%) 95 (42.6%)
+Paternal history
+of problems
+18 (6.5%) 12 (5.4%) c2 (1, N ¼ 266)
+¼ .77, p > .05
+Not stated 153(55.2%) 113 (50.6%)
+Child history of mental health problems (%)
+No problems 152 (54.9%) 110 (49.3%) c2 (1, N ¼ 272)
+1 or more problem 20 (7.2%) 20 (9.0%) ¼ .24, p > .05
+Not stated 105 (37.9%) 93 (41.7%)
+C.M. Roberts et al. / Behaviour Research and Therapy 48 (2010) 68–73 69
+established in many studies cross-culturally (Achenbach, 1991).
+Total raw scores ranged from 0 to 62 for internalizing, and 0 to 66
+for externalizing. Cronbach a was .89 for boys and .90 for girls for
+internalizing, and .93 for externalizing in both genders. One week
+test–retest reliability for internalizing was .90 for boys and .87 for
+girls; and for externalizing, .91 for boys and .95 for girls (Achenbach). Externalizing correlated with student inappropriate social
+skills (r ¼ .275, p < .01), and internalizing with the CDI (r ¼ .29,
+p < .01) and the RCMAS (r ¼ .33, p < .01).
+Teacher measures
+Program integrity
+Program integrity was assessed by teacher logbooks, student
+workbook samples, and blind independent observations of three
+randomly selected lessons per teacher. Teacher logbooks included
+a checklist for each lesson and a 10-point overall success rating
+scale (1 ¼ little success, 10 ¼ highly successful). These were cross
+checked against five randomly sampled student workbooks from
+each class. Independent observers completed the same logbooks
+for observing lessons.
+Procedure
+Ethical approval was granted by the Curtin University Human
+Ethics Committee in 2000. Data were collected from 2000 to
+2003. Principals were invited by letter and a phone call to
+participate in the study. A presentation was then made to the
+principal and Grade 7 teachers in Term 1. All 12 schools consented
+and were then advised on their condition. Active consent was
+requested from Grade 7 students and their parents. Information
+letters were forwarded to parents on school letterhead, and
+parent information sessions were conducted at each school.
+Parents agreed to participate by returning an active consent form.
+Where consent forms were not returned by a due date, parents
+were asked to return a non-consent form if they did not want to
+participate, otherwise the child was included in the study. This
+active/passive consent procedure was approved by the Curtin
+University Human Ethics Committee in 2000. Active consent was
+given by 84.6% of parents (n ¼ 424). The remaining 15.4% (n ¼ 77)
+consented passively.
+Questionnaires were read to whole classes by trained research
+assistants, blind to group allocation. Students were made aware of
+their rights to withdraw from the study at any point, thanked for
+their participation, and all questions were answered. Pre-test
+assessments were conducted in Term 1 Grade 7 and post-test
+assessments in Term 4 Grade 7. The 6- and 18-month follow-ups
+were conducted in the middle of Grades 8 and 9 after students had
+moved to high school. Pre- and post-test, parent questionnaires
+were sent home with students and returned to their child’s school
+in a sealed envelope. Both follow-up questionnaires were mailed to
+parents and returned in pre-paid envelopes. Phone contact was
+used to enhance response rates at each assessment. Where questionnaires indicated clinical scores, parents were contacted by
+a psychologist and provided with advice on management and
+appropriate referral services.
+Intervention and control conditions
+Intervention group
+The Aussie Optimism Program included two components: SLS
+(Roberts, Ballantyne, et al., 2003) and OTS (Roberts, Ballantyne,
+et al., 2003; Roberts, Roberts, et al., 2003). These components each
+contained ten 60-minute lessons to be taught at times convenient
+to the teachers (see Table 2). The lessons included didactic
+information; interactive activities such as role-plays, games, and
+co-operative learning tasks; cross curriculum applications; worksheets; and homework activities to integrate skills into the home
+setting. Each lesson related to interpersonal or self-management
+skills, consistent with the Western Australian Health Education
+Curriculum. Teachers implemented one module per week for
+20 weeks.
+Ten intervention group teachers completed 16 hours of training,
+consisting of information on the symptoms and burden of anxiety
+and depression, mental health promotion strategies, activity
+demonstrations, skills practice and feedback, and discussion of
+implementation issues for individual classrooms. These teachers
+received program manuals, resources, and student workbooks,
+plus eight 60-minute coaching sessions to support the
+implementation.
+Control group
+Control group teachers implemented 20 regular health education lessons relating to self-management and interpersonal skills.
+They used a variety of resources, but the lessons had similar
+learning outcomes as AOP. A 30-minute presentation on building
+resilience within the school curriculum was conducted for these
+teachers. Control group teachers received training and resources in
+Year 2 of the research project.
+Results
+Design and data analysis
+A cluster randomised control trial with a treatment as usual
+control group was conducted. Primary outcomes comprised
+student reports of anxiety and depression, and parent reports of
+internalizing symptoms. Secondary outcomes included student
+reported social skills and attribution style, and parent reports of
+externalizing symptoms.
+A two-group (intervention versus control) ANCOVA for each
+outcome was conducted at each post-intervention assessment. In
+order to control for intra-school dependencies in the data, school
+was included as a nested factor (SPSS 15.0, 2006). Chi-square and
+logistic regressions investigated clinical significance (STATA 10,
+StataCorp, 2007). A similar study by Roberts et al. (2004) reported
+‘small’ to ‘moderate’ CDI effects, ICCs of .02, within-group variability of 63, and pre-post correlations on the outcome of .64.
+Inputting these values to Murray, Varnells, and Blitstein (2004)
+formula indicated 10 schools with 30 students each for an 80%
+chance of detecting intervention effects at a ¼ .05.
+Primary outcome analyses
+No significant group effects were found for depression at posttest (F [1, 14.03] ¼ .76, p ¼ .397, h2 ¼ .05), 6-months follow-up
+Table 2
+The content of the Aussie Optimism Program.
+Optimistic thinking skills Social life skills
+1. Awareness & Identification of feelings 1. Introduction & feelings
+2. Identification of self talk 2. Decision making
+3. Linking thoughts & feelings 3. Communication skills
+4. Thinking styles 4. Assertiveness I
+5. Putting it all together 5. Assertiveness II
+6. Generating alternatives 6. Negotiation
+7. Looking for evidence 7. Coping skills
+8. Challenging unhelpful thoughts 8. Networks
+9. Decatastrophising 9. Friends & family
+10. Review & self-evaluation 10. Review & transition
+70 C.M. Roberts et al. / Behaviour Research and Therapy 48 (2010) 68–73
+(F [1, 12.34] ¼ .196, p ¼ .67, h2 ¼ .016), or 18-months follow-up (F [1,
+16.34] ¼ .349, p ¼ .56, h2 ¼ .02). Neither were there significant
+group effects for anxiety at post-test (F [1, 12.54] ¼ 3.54, p ¼ .08,
+h2 ¼ .22), 6-months follow-up (F [1, 11.59] ¼ .83, p ¼ .67, h2 ¼ .067),
+or 18-months follow-up (F [1, 15.83] ¼ 3.61, p ¼ .08, h2 ¼ .186).
+Table 3 shows that the mean scores for both groups declined over
+time within the normal range on the CDI and the RCMAS.
+Compared to control parents, intervention parents reported
+significantly lower levels of child internalizing problems at posttest (F[1, 12.58] ¼ 6.10, p ¼ .029, h2 ¼ .327), but no significant
+differences in child externalizing problems (F[1, 11.64] ¼ 3.92,
+p ¼ .07, h2 ¼ .252). Group effects were no longer evident at
+6-months follow-up (Internalizing: F[1, 16.45] ¼ 3.63, p ¼ .074,
+h2 ¼ .181; Externalizing: F [1, 12.73] ¼ .065, p ¼ .80, h2 ¼ .005) or
+18-month follow-up (Internalizing: F[1, 14.38] ¼ 1.74, p ¼ .21,
+h2 ¼ .108; Externalizing: F [1, 1 5.96] ¼ .667, p ¼ .43, h2 ¼ .04).
+Random effects regression analyses, to control for the school
+effects, indicated that neither student pre-test risk status (high or
+low) nor gender moderated intervention effects on post-intervention levels of depression or anxiety (p-values ranged .052–.982).
+Time effects
+At post-test, intervention parents reported a significant reduction in internalizing problems within the normative range (F [1,
+134] ¼ 8.35, p ¼ .004, h2 ¼ .059), while control group parents
+reported no change in symptoms (F [1, 101] ¼ .88, p ¼ .35, h2 ¼ .009)
+Table 4.
+Secondary outcomes analyses
+There were no significant group effects for either positive (PA) or
+negative attributions (NA) at post-test (PA: F [1, 13.42] ¼ .48, p ¼ .50,
+h2 ¼ .03; NA: F [1, 12.41] ¼ 1.57, p ¼ .23, h2 ¼ .112), 6-months (PA: F
+[1, 20.52] ¼ .02, p ¼ .88, h2 ¼ .001; NA: F [1, 14.48] ¼ .45, p ¼ .51,
+h2 ¼ .03), or 18-months (PA: F [1, 13.13] ¼ .09, p ¼ .76, h2 ¼ .007; NA:
+F [1, 12.94] ¼ .29, p ¼ .60, h2 ¼ .02). Similarly no significant group
+effects for social skills were observed, (Post-test: F [1, 16.29] ¼ 1.06,
+p ¼ .39, h2 ¼ .06; 6-month: F [1, 12.18] ¼ .86, p ¼ .37, h2 ¼ .07; and
+18-months: F [1, 13.97] ¼ 2.85, p ¼ .11, h2 ¼ .17).
+Risk group analysis
+There were no significant group differences in the prevalence of
+high risk students with clinical CDI and/or RCMAS scores; 27.8%
+(n ¼ 77) of intervention and 25.1% (n ¼ 56) of control group
+students at pre-test, 16.1% (n ¼ 37) and 11.8% (n ¼ 20) at 6-months,
+and 14.4% (n ¼ 29) and 11.9% (n ¼ 22) at 18-month follow-up.
+However, at post-test the proportion of students reporting high risk
+levels of internalizing problems was significantly larger in the
+intervention group, 22.4% (n ¼ 54), compared to the control group,
+13%, (n ¼ 25), c2
+[1, N ¼ 434] ¼ 6.43 p ¼ .01. This represented a 5%
+drop in the intervention group and 12% for the control group.
+Binary logistic regression, indicated that pre-test risk status
+accounted for 20.3% of the variance in the likelihood of being in the
+high risk group at post-test (Nagelkerke R2 ¼ .203, p ¼ .000), while
+the intervention only accounted for an additional 2.6% of the variance (Nagelkerke R2 change ¼ .026, p ¼ .006).
+Chi-square analyses on the incidence of new high risk cases in
+pre-test healthy students indicated no significant differences. At
+post-test there were 21 (11.6%) new cases in the intervention
+group versus 10 (6.9%) in the control group. At 6-months there
+were 10 (6%) new intervention cases and 4 (3.2%) control cases.
+By 18-months follow-up the intervention group had only 5
+(3.5%) new cases, with 4 (3%) in the control group. However,
+more control group (n ¼ 31, 68.9%) versus intervention group
+students (n ¼ 25, 44.6%) recovered from high risk status at posttest (c2
+[1, N ¼ 101] ¼ 5.94, p ¼ .015). This result was influenced
+by the 7.9% (n ¼ 18) of control students versus 3.5% (n ¼ 10) of
+intervention students who received mental health help between
+pre- and post-test. No other group recovery differences occurred
+over time.
+Teacher and student evaluations
+The mean percentage of content covered for the Social Life Skills
+(SLS) lessons reported by teachers and cross checked against
+student workbooks ranged from 87.3% to 98.3% (M ¼ 95.3%). For the
+Optimistic Thinking Skills (OTS) lessons, mean percentage of content
+covered per lesson was 97.5–100% (M ¼ 98.04%). There was 100%
+agreement between independent observers and teachers. Independent observers’ mean ratings of overall lesson success was high,
+M ¼ 8.37, (SD ¼ .93) for SLS, and M ¼ 8.85, (SD ¼ 1.01) for OTS.
+Student attendance checklists indicated that only 5.2% of students
+were absent for more than 25% of the SLS lessons, while 31.4% of
+students missed up to 25% of the modules. Nine percent of students
+were absent for more than 25% of the OTS lessons, while 46.6% of
+the students missed up to 25% of the modules.
+Teachers positively endorsed the program. They reported that
+the structure of the program provided students with a safe environment in which to discuss personal issues and they noted
+a number of positive changes in the students, including increased
+confidence among quieter students, and a reduction in bullying
+behavior. The teachers also reported increased confidence in their
+own ability to deal with interpersonal conflicts in the school
+environment after implementing the program.
+The percentage of students, who rated the utility of SLS lessons
+as average or above, ranged from 68.7% for ‘‘Learning about How to
+Get Along With Family Members’’ to 79.0% for ‘‘Learning How to be
+Assertive’’. For OTS, 67.3% of the students gave ratings of average or
+Table 3
+Means and standard deviations for student and parent-reported primary outcome measures at pre-test, post-test, 6-, and 18-months follow-up.
+Total sample RCMAS CDI CBCL – Parent internalizing CBCL – Parent externalizing
+Pre Post 6-mth 18-mth Pre Post 6-mth 18-mth Pre Post 6-mth 18-mth Pre Post 6-mth 18-mth
+Intervention
+M 8.21 6.57 5.74 5.60 7.91 7.24 6.66 6.66 6.99 5.34a 5.40 5.40 9.48 7.78 7.81 7.23
+SD 6.65 6.18 5.70 5.85 6.92 6.66 6.71 6.56 7.72 5.21 5.55 5.43 9.66 7.50 8.21 6.65
+n 237 237 227 198 237 237 227 199 135 135 108 110 135 135 108 110
+Control
+M 7.69 5.46 5.75 4.71 7.78 6.29 5.85 6.29 7.18 8.11 6.47 6.08 9.89 10.65 9.39 8.11
+SD 6.53 5.32 5.70 4.74 7.63 6.84 6.53 6.92 6.87 10.41 6.48 5.94 9.50 12.17 10.45 8.03
+N 191 191 169 180 190 190 168 180 102 102 94 88 102 102 94 88
+Note: RCMAS ¼ Reynolds Children’s Manifest Anxiety Scale; CDI ¼ Children’s Depression Inventory; CBCL ¼ Child Behavior Checklist. a
+Significant group difference at p < .05.
+C.M. Roberts et al. / Behaviour Research and Therapy 48 (2010) 68–73 71
+above for the lessons. The final lessons of each program (SLS:
+‘‘Talking about High School’’; OTS: ‘‘Learning about My Strengths and
+Planning for the Future’’) were rated most highly on utility
+(MSLS ¼ 3.53, MOTS ¼ 3.06). Student satisfaction levels were slightly
+above average for SLS (M ¼ 3.15, SD ¼ .96), and slightly below
+average for OTS (M ¼ 2.78, SD ¼ 1.00). Students reported more
+satisfaction with SLS (t(223) ¼ 6.49, p < .01). The SLS program
+(M ¼ 3.94, SD ¼ 1.01) was also rated more highly than OTS
+(M ¼ 3.47, SD ¼ 1.15) on ease of understanding (t(223) ¼ 5.91,
+p < .01). Students nominated SLS module ‘‘Learning to negotiate’’ as
+the most enjoyable (44 nominations), while "Networks" was
+nominated the least enjoyable module (27 students). Both student
+and teacher reports indicated that role-plays were the most
+popular activities. Students reported using SLS assertiveness the
+most (71 endorsements). For OTS, games and quizzes were listed as
+the most enjoyable activities (84 students). The skill most used
+from OTS was awareness of and tuning into ‘‘self-talk’’, endorsed by
+53 students. Identifying and changing ‘‘Pest Thoughts’’ was the
+second most popular OTS activity (44 students).
+Discussion
+Contrary to expectations, student reports of anxiety and
+depression showed no significant group differences at any assessment point. Instead, the means for both groups declined within the
+normal range over time. Expected effects were found for intervention group parents, who reported lower levels of internalizing
+problems than controls at post-test. However, this effect was not
+sustained and was not apparent for externalizing problems. There
+were no group effects on the risk and protective factors targeted by
+the intervention nor were moderator effects apparent for pre-test
+risk status or gender. While it is gratifying that parents of intervention children noticed fewer internalizing symptoms in their
+children after the intervention, these results are disappointing.
+The lack of effect on primary outcomes could reflect the low pretest levels of student internalizing symptoms, despite their low SES
+risk status. This is unlikely to be a sampling effect, as 88% of the
+available students participated. However, students may have
+minimised their symptoms, as parent data indicated rates of
+internalizing and externalizing problems above those of an
+Australian prevalence study (Sawyer et al., 2000). Students who
+dropped out had higher self and parent-reported pre-test symptoms. Hence, the power to detect group effects was reduced,
+particularly at 18-months follow-up.
+At pre-test, approximately 25% of students reported high risk
+symptom levels. This proportion decreased in both groups over time.
+However, more intervention group students remained high risk at
+post-test compared to the control group. The incidence of new high
+risk cases decreased over time for both groups, but fewer high risk
+intervention group students recovered at post-test. This was related
+to a higher proportion of high risk students in the intervention group
+at pre-test, and twice as many control students receiving help for
+mental health problems between pre- and post-test.
+Program implementation, fidelity, and student attendance were
+high. Hence, it is unlikely that the program was ineffective because
+of poor implementation or low student participation rates. Qualitative feedback from teachers suggests that they were satisfied
+with the program content and were able to implement the activities confidently. However, as teachers taught classes of 20–30
+students, it is possible that the dose of the program received by
+individual children was low. AOP targeted largely individual
+cognitive and social risk and protective factors for depression and
+anxiety, but did not intervene with family or school factors.
+Parental depression, rejecting or controlling disciplinary styles,
+parent–child conflict and school violence/bullying are also associated with depression and anxiety (Shanahan et al., 2008). AOP did
+not specifically target these factors, which may have had an impact
+on recovery rates. Future research would do well to incorporate
+parent and school components.
+This universal trial with low SES students had more limited
+outcomes than Gillham et al.’s (2006) indicated trial of PRP and
+a universal trial of the Friends for Life program (Barrett et al., 2006).
+AOP has a similar theoretical basis as PRP, but it was implemented by
+teachers with whole classes, without a parent program. Differences in
+theimplementationmay explain these results. PRPisimplemented by
+psychologists in small groups of 10–15 students, as is Friends for Life
+albeit at times with school staff. In comparison, AOP is curriculumbased and implemented by teachers with whole classes. While
+program integrity and students satisfaction was good, students may
+have had limited practice or individualised feedback with this format.
+Small group formats are more costly for schools, but they do provide
+more individual practice particularly for high risk students.
+The strengths of this study included a high student recruitment
+rate. Both student and parents were used to measure outcomes,
+and teachers and independent observers assessed program integrity. The study was conducted under real world conditions which
+were acceptable to schools and conducive to sustainability, and the
+intervention was relatively inexpensive. These features are attractive from a public health stance. However, if such a program has
+limited effects observed only by parents, it will not result in
+significant prevention effects.
+In conclusion, the results of this study suggest that a universal
+cognitive-behavioral intervention developed to be integrated into
+the primary school curriculum can be taught by regular classroom
+teachers. Support for the efficacy of the program came from
+parental reports only. However, in the current format, AOP has not
+been associated with consistent short or long-term effects for
+internalizing symptoms. A small group format may provide a more
+intensive and individualised experience for students at high risk. In
+addition, significant family risk and protective factors were not
+Table 4
+Means and standard deviations for secondary outcome measures at pre-test, post-test, 6-, and 18-months follow-up.
+Total sample CASQ-R Positive events CASQ-R Negative events MESSY – Social skills total score
+Pre Post 6-mth 18-mth Pre Post 6-mth 18-mth Pre Post 6-mth 18-mth
+Intervention
+M 7.34 7.44 7.76 7.80 3.01 2.77 2.85 3.03 83.96 88.14 83.63 85.11
+SD 2.23 2.34 2.28 2.51 1.88 1.90 1.89 1.93 21.04 21.78 21.90 20.58
+n 234 234 225 197 234 234 225 197 232 232 218 193
+Control
+M 7.39 7.70 7.74 7.83 2.76 2.50 2.60 2.75 80.69 84.71 85.00 87.45
+SD 2.21 2.16 2.40 2.11 2.05 1.76 2.00 1.91 17.53 19.20 21.08 20.97
+n 191 191 168 180 191 191 168 180 181 181 168 178
+Note: CASQ-R ¼ Children’s Attribution Style Questionnaire – Revised; MESSY ¼ Matson Evaluation of Social Skills with Youngsters.
+72 C.M. Roberts et al. / Behaviour Research and Therapy 48 (2010) 68–73
+addressed by this program. For the future, an adjunctive program
+that targets family risk and protective factors for childhood anxiety
+and depression may enhance the program efficacy. In addition,
+booster sessions or spreading the 20 modules over the final two
+years of primary school, may improve the efficacy of the program.
+These changes would provide opportunities for more guided
+practice and reinforcement of the skills over a longer time period.
+This study indicates that the challenge remains to provide
+sustainable prevention programs, which can be easily implemented
+within schools, providing effective and affordable prevention for
+anxiety and depression.

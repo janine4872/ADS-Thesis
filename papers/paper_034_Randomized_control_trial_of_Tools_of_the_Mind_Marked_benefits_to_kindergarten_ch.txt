@@ -1,0 +1,423 @@
+Storage Preferences
+
+Impaired handwriting is a learning disorder. One reason for this is poor motor coordination, which leads to poor letter formation and ordering. It is also a brain disorder that may interfere with spelling, organization of thoughts, spatial planning, and handwriting performance of children [39], [81]. According to Davis Ronald’s book, the occurrence of writing disorders is approximately 5 to 20% in school children [17]. An average child usually spends his/her 30 to 60% of the time on handwriting activities in the school [64]. Handwriting is part of cognitive, kinesthetic, and perceptual-motor functions [21]. Children with writing disorders (dysgraphia) experience various core handwriting problems, such as illegible handwriting, poor motor control, poor spatial planning, inconsistent forms and sizes of letters, and speed strokes. Poor handwriting may negatively affect a student’s self-esteem and academic success [14]. Moreover, legible handwriting is a significant achievement in academic life. Hence it necessitates deeper research studies by educators and health professionals [25].
+
+Recent research in digital technologies has demonstrated the effectiveness of contemporary technologies in assisting children with learning and academic disabilities [78], [79]. The increased use of technology in education is obvious with the extensive range of digital applications and smart devices, which can help educators, improve their students’ performance inside and outside the classroom [58]. Researchers are now focusing on special learning environments and developing interactive applications using digital technologies that can address different disabilities in the early stages [99]. It can be used to train, assist, and stimulate students’ learning process [99]. Researchers have suggested that the latest education technologies may make students more creative and improve their learning abilities [75]. The transformation from traditional teaching methods to technology-enhanced learning has profound implications for teachers and children with special needs [43], [70]. Despite traditional educational systems, emerging technologies with different drives are beneficial for enhancing the teaching-learning process [97]. Different studies have shown that touch devices such as tablets and smartphones help children with writing difficulties correct their writing through automated exercises and activities [29], [48], [83], [99], [66]. This can foster the academic success of young children [65]. Hence, the primary objective of this study is to design and develop a touch-based therapeutic application to enhance hand dexterity for handwriting readiness.
+
+From recent scientific studies [56], [69], [2], it is obvious that digital technologies play an important role in transforming education. Harper et al. found that assistive technology may have positive implications for both academic and non-academic activities in children with learning disabilities [52]. This has positively influenced the learning experience and improved the educational ambitions of young children [56]. Neumann and Neumann [69] stated that early experience with digital technologies shapes children’s communication and literacy skills. A large amount of research is currently being conducted to explore the benefits of using ICT as a learning platform for individuals, especially children with learning difficulties [101]. The potential benefits of mobile devices, such as laptops, personal digital assistants, and mobile phones, have been explored as learning tools in the classroom and outside learning [109]. Empirical evidence provides a promising path for research on the design of digital learning environments [34], [62]. Hence, the integration of digital technologies into occupational therapy interventions has been found to be effective. Belson et al. [7] showed that a digital pen could be used to increase the quality of note-taking strategies and reduce cognitive effort during note-taking. Oyelere et al. [73] identified that mobile learning applications have a positive impact on students’ learning achievements. Mobile learning systems have a higher penetration rate than laptops and desktops, and offer convenient and cost-effective ways to access higher education [113], [114]. Nedungadi et al. [68] found that the use of mobile technology and WhatsApp, along with other applications, could empower teachers and improve the quality of education. Research findings have suggested that conceptualized learning applications can encourage children to master their academic skills [47]. Zhang [117] explored the benefits of computerized training on students’ writing behavior and written products. Innovative technologies enabled the learners to access their education at a lower cost and with a high degree of reliability [2], [81]. It has been identified that use of mobile computing devices leads to an increase in the quality and quantity of learning outcomes [27], [110].
+
+In school-aged children, about 10 to 30% are reported to experience difficulties in mastering handwriting skills [54]. This may have an impact on the children’s psychosocial development. Poor handwriting is a neuromotor condition characterized by faster and cruder movements, lack of inhibition in co-movements, and poor coordination of fine motor skills [96]. Students with writing difficulties lack automaticity in handwriting skills, including letter inconsistencies, irregular letter sizes and shapes, poor spatial organization on the line and page, and incomplete letters [86]. Graham and Miller say that parents and teachers should be aware of the different types of handwriting difficulties and various learning strategies for their children. Different learning strategies can be tailored according to the individual’s needs. This may decrease children’s frustrations [31]. Enstrom mentioned that in the school curriculum, handwriting is one of the poorest elements taught by teachers [24]. Hence, children in schools require remediation programs to improve their handwriting. Research on technology reveals that software tools will not replace good or adequate teaching but act as enhanced instruction to meet students’ individual learning needs [16]. Moreover, these supporting aids are considered elements of future development in technologies for the classroom [18].
+
+Researchers have explored the potential benefits of automated analytic techniques for understanding handwriting difficulties [95]. Many researchers [11], [26], [65], [57] have recently shifted their attention to the effectiveness of technology-assisted instruction on the learning-outcome of students with mild and moderate disabilities, especially in the basic skill areas of reading, written expression, language, and mathematics. Therefore, researchers have explored the benefits of integrating productive applications on tablet computers in elementary school education [18]. One study assessed the impact of a digital notebook with personalized exercises and extrinsic feedback on beginner writers. The findings from the study showed that the stylus-oriented tablet application had a positive benefit in the acquisition of handwriting skills in kindergarten children [10]. Similarly, a study on haptic-based applications found it to be effective for acquiring handwriting skills in both adults and children [74]. EasyLexia is a mobile application for children with learning difficulties, and the authors claimed that it is a promising tool [101]. Liu found that the integration of multimedia instructions based on multimedia learning theory was effective for elementary school students in mathematics [57]. Chang and Yu [14] identified that computer-assisted handwriting practices with sensory feedback can improve writing quality and fluency. Another study found that concrete feedback in the form of visual cues plays an important role in self-correction [59]. Hamilton identified that multisensory associative guided instruction can be used to enhance the spelling ability of dyslexic children [37]. A study of kinder tools using specific activities found that these activities were effective in enhancing fine motor and visual-motor perceptual skills [61]. Lin et al. [57] investigated the effects of tablet computer applications on fine motor skill development in preschool children. From this study, it was found that tablet computer applications might be advantageous for educational and therapeutic purposes. Whittaker et al. identified that a properly designed stylus with touch technology encourages handwriting development in children with cognitive and fine motor delays [115]. Similarly, Berninger et al. [9] investigated the effect of iPad based writing instructions for 4–9 grade students with specific learning difficulties. The results showed that computerized writing instruction helped children improve their handwriting skills. Hopcan and Tokel (2021) explored the effectiveness of a mobile writing application for acquiring handwriting skills in children with dysgraphia. The authors found that students acquired their handwriting skills in terms of letter formation, spelling, and words [42]. Kim et al. stated that if an intelligent user interface can determine children’s fine motor skills automatically, teachers and parents can assess children’s fine motor skills and help them improve by practicing drawings with touch-enabled devices or pencils and paper [53]. Research explores the use of a tangible environment that provides specific affordance for students in future studies, which will help them develop their domain knowledge [98].
+
+We found that different applications offer fun and creative ways to practice fine motor skills in early learners. Applications such as Xylophone, Bugs and Buttons 2, Dexteria Jr., iTrace, iWriteWords, Writing Wizard, LetterSchool, Jake’s Never Land Pirate School, Touch and Write Phonics, and Tozzle are specifically designed for early learners to encourage their motor skill development [88]. Kids can easily download applications from app stores and begin to practice. However, the effectiveness of many of these applications has not yet been substantiated by researchers. The application ‘Xylophone’ is intended for early learners to encourage fine motor practice in the non dominant-hand. ‘Bugs and Buttons 2’ is a game oriented application and may be beneficial for children with dyspraxia and other fine motor issues. ‘Dexteria Jr’ is one of the applications designed for the youngest children with special needs. The application ‘iTrace’ is handwriting skill practice app for young learners to develop letter writing and may be useful for children with fine motor problems. Similarly, ‘iWriteWords’ is a letter practice application for children. The application ‘Writing Wizard’ allows children to learn cursive handwriting [89]. Learning cursive handwriting is difficult, but it increases neural activity in the brain [93]. The application ‘LetterSchool’ is a handwriting stimulating app with animated features that helps children remember the correct letter formation. ‘Jake’s Never Land Pirate School’ is one of the applications used for early learners. ‘Touch and Write Phonics’ is a letter tracing app for beginners. The application ‘Tozzle’ is used to develop hand-eye coordination in children. EasySketch is a sketch-based educational application for enhancing fine motor skills in children through sketching and writing activities [53]. Martens et al. mentioned that most educational apps under ‘educational categories’ are not based on established curricula and have not received any inputs from developmental specialists or educators [59]. Another touch-based application named ‘Write-Rite’ claims that it can be used to enhance handwriting proficiency in children with dysgraphia [85].
+
+From the literature review, it is evident that technological tools have the potential to scaffold students’ learning needs. This motivated us to design and develop a software application to enhance hand dexterity in children with writing difficulties.
+
+Handwriting difficulties are a common issue among children and are mostly faced by school-aged children. A human handwriting sample can be related to the different motor abilities of a person and the theory of handwriting. Handwriting production is viewed as a constrained modulation of the underlying oscillatory process [41]. Moreover, many theories are associated with handwriting. For example, the kinematic theory of rapid movements proposed by R. Plamondon stated that the production of rapid movements by hand is the result of a log-normal impulse response from the agonist and antagonist neuromuscular systems [82]. According to Pei et al., letter strokes resemble a well-structured pattern. In addition, the pattern function was validated by its significant associations with handwriting kinematics, language style, cognitive abilities, and the hand [77].
+
+The 3 basic components–sensory, perceptual-motor, and cognitive skills–are required to accomplish handwriting performance [25]. Hence, the fundamental idea was to develop a touch-based application to provide a set of hand therapeutic activities for children with poor handwriting skills to improve their hand dexterity. We decided to develop a prototype of the proposed application with known software requirements and then gradually evolve to a final product through iterations. The application is named ‘HanDex’, because it is intended to improve hand dexterity. Shamir-Inbal and Blau [99] recommended that teachers integrate tablet computers into their instructional design. These therapeutic activities are intended to improve hand dexterity. Hence, all the activities are designed for tablet computers and are touch-based activities. These activities include Finger Aerobics (pinching activity), hand-eye coordination activity (Pattern Trace), Letter Pick-up, Art with Geometry, and Letter Tracing activity.
+
+The pinching activity in the software application was mainly intended to develop a tripod grip in fingers to hold a pen/pencil and to improve their hand-eye coordination. In this game-oriented activity, the participant has to pinch the ants that appear randomly on the screen. There are different levels in this game, and the speed of the activity increases as the level increases. For this purpose, we have used the principle that the velocity of the arm movement affects the grip force, and this force is used to perform tasks with the hand [46]. The hand-eye coordination activity was developed based on oscillation theory for handwriting production. This theory postulates that modulations of vertical and horizontal oscillations are responsible for the letter height control and slant constraints [41]. Letter pick-up activities were included in the application based on the alphabetic principle [59]. The fourth activity, Art with Geometry, was designed based on a review of past studies, as in drawing geometrical figures that could improve grapho-motor capabilities, good memory, and early literacy in preschool children [53], [99]. The final activity, letter tracing, uses the principle of motor learning theory for handwriting improvement [119].
+
+This section describes the methodology used for the development of the prototype hand dexterity application. We used the evolutionary prototyping model as our software development life cycle (SDLC) model [87], [92], because prototypes can be easily perceived and evaluated by the end-user [1]. Understanding the strengths and challenges of a learner can enhance the design of technological tools for education [20]. This is applicable when we develop any software application, and understanding end-user characteristics is beneficial for eliciting the requirements. The prototype was developed by conducting phases, such as requirement analysis, design, coding, testing, and user evaluation of the prototype. The basic idea was to include some therapeutic activities in the software that may scaffold children with writing difficulties to enhance their fine motor skills and improve their hand-eye coordination. A prototype of the new software was built based on several HCI guidelines [30], [91]. The following sections describe the various phases of prototype development.
+
+In this phase, we visited various special schools and early intervention centers in Kerala, India, such as (District Early Intervention Centers (DEIC) of Alappuzha and Ernakulam in Kerala) and Enlight Center for Holistic Development, Trivandrum, Kerala (ECHD), to understand their problems and requirements. We interacted with different stakeholders, such as occupational therapists, doctors, special educators, clinical psychologists, and parents, to learn more about the interventions used, specific remedial approaches, the relevance of technology in special education, traditional teaching instructions used for children with writing difficulties, and the demographic characteristics (age, gender, etc.) of the children. The details of these aspects were collected from the schools and intervention centers. The interaction gave us an insight into the procedures used in each center to identify the children with learning disabilities (LD), their remediation methods, the scarcity of teachers to give personal attention to each child, the long duration required to train each child, students’ interest in electronic gadgets compared to the conventional methods, and the characteristics of LD children, such as their motor disorders and cognitive impairments. All of these aspects point towards the necessity for technology-based training for children with LD.
+
+When we interacted with stakeholders, we specifically asked about common handwriting difficulties among children with dysgraphia. They mentioned different indicators such as cramping of fingers, wrist, and palms while writing, difficulty in letter-formation, poor legibility, poor pencil grip, poor spatial planning on paper, mixing upper-case and lower-case letters, and unfinished letters. One of the clinical psychologists mentioned that writing difficulties cannot occur alone in children. It is comorbid and may be associated with dyslexia, ADHD, dyscalculia, and other motor difficulties.
+
+During our visit, we also observed some of the training sessions given by the special educators to students with writing difficulty and noticed that most of the children had poor fine motor skills, which might have affected their handwriting performance. During the interaction, occupational therapists expressed their interest in technology-based solutions, and they believed that this would assist students in accessing the tool more easily. Moreover, we could get an opportunity to interact with parents of children with learning difficulties. They mentioned that it would be beneficial to integrate technology-based instructional approaches with traditional teaching methods for students with writing difficulties. They said that they could train their children at home if they had gadgets or technology-based tools. This insight motivated us to develop a training application with hand therapeutic activities to train children with poor handwriting skills. Based on the inputs received from all stakeholders, we decided to introduce training sessions using an existing fine motor development software application. So we have reviewed the existing applications for fine motor coordination and its scientific studies and finalized to use the app called ‘Dexteria’ for children with writing difficulty. Short et al. have identified that the application of ‘Dexteria’ has a positive impact on fine motor coordination in the non-dominant-hand [100]. Similarly, Larsen et al. identified that ‘Dexteria’ is a well-developed tablet application for motor practice in stroke patients who struggle with loss of dexterity [55]. Similar to Dexteria, there are other applications based on fine motor tasks that may improve handwriting proficiency.
+
+A pilot study on children with dysgraphia [48] and a couple of case studies on children with poor handwriting [103] were conducted to check the effectiveness of the application and elicit the initial requirements for building the prototype of the new software. Similarly, the Dexteria app has two motor activities and a letter-tracing activity to improve fine motor skills in children. Pilot training was performed on nine children at DEIC, Alappuzha, to determine whether this application is effective for fine motor development [48]. The nine participants were diagnosed with dysgraphia by a pediatrician. Another set of case studies was conducted among two children with poor handwriting, as mentioned by their teachers [103]. These studies showed that improving fine motor skills may improve handwriting skills because they examined the impact of hand therapeutic exercises using touch devices (iPad) on fine motor skill development and handwriting performance. During training, the therapists and parents of the participants were allowed to observe their children’s performance. The study was based on a pretest and posttest. We measured changes in their handwriting after a set of training sessions. We also collected feedback from the parents about our training. After the training session, the parents and the therapists have noticed some minor drawbacks in the existing software system, as the system does not provide any feedback during practices, and one of the activities named ‘pinch it’ was tough for the children. This helped us comprehend the impact of existing software on children with handwriting difficulties and became convinced of the need for technology-based environments for practicing. We have been motivated by the experimental results and interaction inputs, confirming the possibility of designing and developing a software tool to train children with handwriting difficulties. The insights from these studies helped us design a set of therapeutic activities based on available theories. Thus, we can determine the primary requirements for a software application as follows.
+
+Provide a simple, multi-touch interface.
+
+Provide haptic activities with proper and timely feedback.
+
+Provide multiple activities to improve their manual dexterity.
+
+Apply HCI principles in software design.
+
+Include game-oriented activities with a score, levels, etc. to motivate the children.
+
+Provide visualization of the progress of each task (for participants, their parents and teachers).
+
+In this phase, based on the above-mentioned user requirements, we developed a quick design to develop a prototype of the software for children with writing difficulties. When designing apps for children, guidance for app designers is limited [59]. We have followed some user interface guidelines in the design process, such as user expectations, error recovery, user feedback, navigation, reduced cognitive load, simplicity, user motivation, etc., [91], [94]. These guidelines were chosen early in the design phase to make the system more user-friendly and effective for end users. The literature suggests that understanding the cognitive behavior and requirements of the end-user is one of the important factors required for designing an application [36], [108]. Tablets have pedagogical potential in developing digital wisdom, and the added value of tablet use lies in mobile learning in out-of-class settings [99]. Hence, we designed our activities for a touch-based tablet PC and followed the five metaphors of mobile learning applications (using a device as a toolbox, creative mind, participation activator, shared mobile desktop, and connected world) [67], [99], [111]. Generally, educational games have a positive effect on children’s learning processes and experiences [76]. In addition, gamified learning activities have been identified as promising techniques for engaging and improving students’ learning behaviors [45]. Employing multi-touch interactive games in education provides a scaffolding tool to improve students’ learning performance [44]. Therefore, we included game-oriented activities to encourage children to be actively involved in activities to improve their dexterity skills. We decided to include five distinct hand therapeutic activities, Finger Aerobics, Pattern-Trace, Letter Pick-up, Art with Geometry, and Letter-Trace, to improve fine motor skills in children. These activities were designed based on the handwriting theory and different multisensory instructions for handwriting development [63], [84], [90]. We followed the universal design principles from prior research experiments that support therapeutic purposes [33]. The universal design principles used in our design are visual design (e.g., icons and visual complexity), interaction styles (e.g., direct manipulation and menus), and use of input devices (e.g., pointing, dragging, and multimodal touch using a stylus) [12], [30], [38], [107].
+
+To design a software interface, it is important to examine users’ cognitive development in terms of perception, memory, symbolic representation, problem solving, and language skills [40]. Therefore, designers must understand the nature of the user’s attachment to technological devices and user perception [72]. The main HCI design principles, such as simplicity, learner expectations, navigation rules, and user feedback, are explained in the following sections.
+
+A fundamental design principle of mobile applications is to include only the necessary information. We should not overload the user with unnecessary information. Hence, we decided to make the interfaces as simple as possible after considering the age and cognitive ability of the users. It was decided to use English as the language in the interfaces and follow the minimalistic design shown in the layouts (Fig.1 and Fig.2).
+
+Layout of main menu.
+
+Show All
+
+Layout of hand therapeutic activities.
+
+Show All
+
+Every user has certain expectations from the application in terms of symbols used and the functionality provided. The various elements designed for the interface should be easily understandable and follow existing conventions for symbols and terminology. Because the younger generation is familiar with electronic gadgets such as smartphones and computers, we have designed our interactive interfaces accordingly.
+
+Navigation is an important feature to achieve usability. This aids users in accessing the required information and traversing the application. Navigation controls should be consistent in structure and behavior. We designed an entry interface with a simple menu (Fig.1) so that the candidates could easily choose their activities. During the exercises, users could go back and forth by clicking the corresponding button provided at the interface. The prototype is designed such that the pattern-tracing actions are reversible and allow the users to correct their erroneous actions during training.
+
+Because mobile devices have a limited screen area, we divided the available area to organize items optimally. Because the app is designed to improve hand dexterity, a major portion of the screen is used as a workspace for hand therapeutic activities. Most of the other buttons were arranged towards the margins on the screen. Hence, users can easily access the required items on the interface. The layout of these activities is shown in Fig 2.
+
+The system should provide meaningful and informative feedback for each user action. This prototype was designed to offer immediate visual and audio feedback to children to focus on their goals. Thus, the interface provides error messages, audio alerts, and visual signals when the user commits mistakes during training. This helps children focus on their therapy exercises and correct their errors during training.
+
+To ensure user data integrity, our prototype employs a firebase data authentication service to store students’ information, game scores, time taken to complete a task, and login credentials. It is a real-time database used in Android applications and synchronized with Google accounts.
+
+The main objective of this principle is to guide new users. Before the commencement of every activity, a new user should receive a set of instructions so that he/she can understand how to proceed with the activity. Thus, each activity started with an instruction page.
+
+Excessive information processing required by a user during the interaction can increase their cognitive load. To reduce the cognitive load, we offered visual and audio cues to help children recognize the activities rather than recall them from their working memory. In addition, the content used in the interface is legible and prevents visual clutter on the screen.
+
+The idea behind this principle is that the interface should engage users and motivate them to achieve their goals. Thus, we designed game-oriented exercises with different levels of difficulty and rewards, based on their performance.
+
+Thus, the interfaces in the prototype system were designed as described above. The design mainly focuses on modules and interfaces. In addition to the design, a high-level view of the system was drawn to show the structural aspects of the system, as shown in Fig. 3.
+
+Software architecture of HanDex application.
+
+Show All
+
+The application has three types of users: learners, instructors, and admin. Each user should register with the system before logging in and must be connected to the internet to access the database. Initially, the learner has to register by giving registration details such as name, class, school, and parent’s ID, which will be stored in the database. Registered learners can directly login to the application and start their activities according to the instructions. We have provided another user access to an instructor who can add students and monitor their performance. The instructor has the provision to send emails to the parents. The third user, Admin, can access the user information and can interact with the system to add, edit, delete, troubleshoot, etc.
+
+The prototype was implemented using the Android development kit SDK version 28, Glide version 4.9.0 for image view, and UNITY 2019.2.9f1 to develop the game-oriented activity. The user interfaces are defined through XML files, and XML layout files place a view instance for the user’s response. This system uses a firebase authentication API service to manage the user login and registration. To enable data security, the application uses the Firebase authentication libraries Firebase auth 11. +. + and Firebase real-time database 11. +. +. It stores all the records of the learner, including name, class, school, parents’ login credentials, and their performance data and time for completing each activity. The prototype is developed in such a way that it can store the activity data of each child during the training and allow the parents and teachers to monitor the performance. The following libraries were used to implement the prototype:
+
+Firebase database: This library has been used to store student performance such as the time of completion and accuracy-based score in tracing activity. The score is an indication of how accurately the student can trace the given path, and it is a pixel-based calculation coded in the programs. This information can then be used to generate messages during an activity.
+
+Firebase auth: This library allows user verification and stores user login credentials.
+
+Text to voice: Text-to-speech Java library in Java SDK, which provides a high-quality audio stream and allows Java applications to incorporate speech synthesis into user interfaces.
+
+Pixel manipulation: Here, we used Android bitmap classes in Java to store the image content in memory for user interaction.
+
+CFAlertDialogue 1.1.0: This library is particularly used for display and alert dialog on the Android platform so that students can choose their option to continue or cancel in between their activities.
+
+Glide: This library is an open source library that can be used to load images easily and efficiently. Here, the application uses Glide version 4.9.0 for animated images loaded in the Letter Pick-up activity.
+
+Firebase storage: Used to upload images produced by the learner to the cloud storage. Moreover, a firebase real-time database is a cloud database, and the data are imported and exported to JavaScript object notation (JSON). As mentioned earlier, the system has five main therapeutic activities. The next section describes each of these activities.
+
+The core part of the prototype is a set of hand therapeutic activities designed to enhance hand dexterity for better handwriting. Visual-motor integration and hand-eye coordination skills are two predictors of handwriting [50]. In other words, visual-motor tasks function as a major part of the brain, so the neurological condition plays an important role in the development of motor skills [105]. Handwriting assessment should take into account general visual-motor abilities, handwriting process and product measures, and tripod pinch strength [21], [80]. This information should be included when designing interventions to address handwriting deficiencies [8]. Eye-hand coordination and visual-motor integration are represented by different tasks, such as tracing, copying forms, relying upon dots to reproduce a shape (spatial relations), and drawing geometrical shapes [106]. Hence, various activities for hand-eye coordination and Finger Aerobics are embedded in the application based on existing studies [31]. This human-machine interactive learning environment may help enhance the user’s fine motor skills, visual-motor integration, tripod grip, and alphabet formation through tracing, drawing, and pinching activities. The five activities in the application prototype are Finger Aerobics, Pattern-Trace, Letter Pick-up, Art with Geometry, and Letter Trace. These activities have the potential to enhance hand dexterity, because they are based on existing principles. Finger Aerobics is a game-oriented activity where the child has to pinch on the screen to pick ants that randomly appear on the screen. This would develop a grip force on the forefinger (index finger) and thumb to hold the pen/pencil. This activity uses the principle that the velocity of arm movement affects the grip force [46]. Pattern Trace Activity is a hand-eye coordination activity in which the child has to trace different patterns. The principle behind this tracing activity is that horizontal and vertical oscillations are responsible for the production of slanted lines and spatially separated letters [41]. This could also improve graph-motor skills. The letter pick-up activity was introduced to familiarize the participants with the sound of each letter and the correct order of the spelling of the displayed animals/fruits on the screen. Several studies have found a relationship between phonological awareness, children’s interaction with letter-sound knowledge, and their understanding of the alphabetic principle [13], [19], [51], [60]. Activity Art with Geometry mainly focuses on tracing and reproducing various mathematical shapes. This could improve graph-motor capabilities, good memory, and early literacy in preschool children. This was selected based on the drawing acquisition protocol with the selected graphomotor tasks. Mastering these elements is a prerequisite for mastering legible handwriting [22], [28]. The Letter Trace activity is for alphabet tracing (upper and lower case) to help letter-production, based on different movements such as left, right, top, bottom, and curvy lines. This letter tracing activity is selected to develop the visual-motor experience of handwriting letters, and it facilitates alphabet recognition and production [49]. The following sections describe each activity in detail:
+
+Researchers have suggested that decreased pinch strength may result in reduced motor control in specific muscles in children with dysgraphia. To develop a pencil grip/pincer grasp in children, the application employed a ‘pinching’ activity to improve the grip force to hold a pencil/pen. The pinching exercise encourages fine motor coordination and hand control. During this activity (see Fig. 4), ants appear on the screen randomly, and the user has to pinch them using the thumb and index finger to make them disappear, leaving a red mark on the screen. The pinching exercise is composed of six different levels of anti-pinching. During this activity, the student had to pinch 30 ants in 60 s. At higher levels of activity, the ants will move faster, so as the level increases, the player has to increase the speed of the pinching activity. Children can play and proceed at each game level in a user-friendly manner. When they complete one level successfully, the system generates ‘success’ messages at different levels and may motivate the child to involve more in the game. Mainly, this activity is aimed at improving tripod grip and may also increase hand muscle strength.
+
+Screenshot of ‘pinching’ (Finger Aerobics) activity.
+
+Show All
+
+This activity helps children to improve their graph motor skills, by tracing different patterns (sinusoidal, saw-tooth, square wave etc.) (see Fig. 5). To trace different shapes, children have to follow the tracing paths from left to right, top to bottom, through jagged and curved lines within a designated space. They have to draw a pattern by connecting the red points in the pattern. The red points were placed where there is a maximum point of curvature which followed the rule of stroke segmentation based upon the curvature [118]. The oscillation theory of handwriting motivated us to design these patterns so that children can trace these patterns and improve the modulation of horizontal and vertical oscillation of their hands, and this horizontal and vertical oscillation is responsible for the production of slanted lines and spatially separated letters [41]. This can help to enhance fine motor control over letter formation and orient their hand movements in different directions.
+
+Screenshots of pattern trace activity.
+
+Show All
+
+In this activity, the students had to make their hand movements according to the trace path. During this time, the system generates visual and audio cues such as ‘Going good, continue tracing’ when they go correctly through the tracing path, and the system generates messages such as ‘Going wrong, try again’ when students deviate from the tracing path. The system identifies the deviation from a given path by making a pixel-based comparison between the given and traced paths. The system generates the message ‘success’ when a student completes the tracing path as per the instructions. The score of a tracing activity indicates how accurately the participant has traced the path, and it is calculated by dividing the total number of pixels in the path by the number of pixels that the participant can correctly trace. The percentage shows the accuracy level at which the child could trace the path. The score calculations were coded as expressions in the program.
+
+This activity (see Fig. 6) mainly focuses on the child’s ability to recognize and identify the letters connected with particular words using phonemes. Here, we used different libraries of objects (animals and fruits) to represent words for alphabet recognition. In this activity, the child has to recognize the animal/fruit displayed on the screen and pick the correct alphabet for that object from the given jumbled alphabet shown by the system. The principle behind this activity is that ‘learning and practicing with the sounds of letters creates phonics concepts in the brain [63].
+
+Screenshots of letter pick-up activity.
+
+Show All
+
+This activity (see Fig.7) may help children draw geometrical figures with the correct shape to encourage curved movements and spatial organization. It includes two subtasks: drawing a geometric figure and drawing concentric circles. Here, children have to trace the circle initially and then reproduce a circle based on the given radius and center point.
+
+Screenshots of circle drawing activity (with scaffolding).
+
+Show All
+
+This activity may help develop good control over drawing vertical, horizontal, and round-shaped structures that enhance visual-spatial skills [102]. The principle behind this activity is that drawing different geometric shapes is formative for the development of writing skills and fine motor control [106].
+
+The second task was to draw concentric circles. The aim of this activity was to develop visual-spatial ordering in children with writing difficulties. This activity instructs the child to draw an innermost circle along the given path and repeat the same on the remaining outer circle paths (see Fig.8). Subsequently, a self-trial with minimal scaffolding was introduced (see Fig.9). The child was able to reproduce concentric circles along the dotted lines. The space between circles may influence children’s perception of spatial relationships among circles.
+
+Screenshots of concentric circle drawing activity (with scaffolding).
+
+Show All
+
+Screenshots of concentric circle drawing activity (minimal scaffolding).
+
+Show All
+
+Research has proved that visual-motor practice with any symbol could lead to an increase in letter recognition and visual-motor coordination [112], [116]. So we have designed a letter tracing activity (Fig. 10) that mainly helps to learn English alphabet formation. It provides a list of letters (uppercase and lowercase) from which the child can pick one and start tracing. It focuses on hand positions within the four parallel lines to help the child to understand each alphabet’s size and shape. It also enables the orthographic coding skills in children to remember the letters or letter formation [32].
+
+Screenshots of letter tracing activity (old).
+
+Show All
+
+As mentioned earlier, these distinct activities were designed based on various theories for improving hand-eye coordination, spatial organization, and tripod grip in children with writing difficulties. The system will provide instructions and feedback from time to time during the activities, which would help users make correct hand movements on the interface. Each of the above-mentioned activities has a mechanism to display various parameters, such as success/failure, score, and/or time taken to complete each task during the activity (see Fig.11). The system also saves relevant parameters for each therapeutic activity. For example, parameters such as the accuracy value of the tracing activity, time taken to complete an activity, number of successful attempts, number of failed attempts, etc., will be saved in the firebase database for each activity in the student’s account (see Fig.12). We have included textual and graphical representations of these data to monitor the performance of therapeutic tasks (see Fig. 13 and 14). The data generated during the training on each activity will be securely uploaded to a database server in the child’s account, and the instructor may analyze this data to assess the daily performance of each child during the therapeutic activities. However, the final handwriting assessment of a child is to be conducted through a pretest posttest evaluation method, as mentioned in Section VI.
+
+Screenshot of activity score displayed.
+
+Show All
+
+Screenshot of firebase database.
+
+Show All
+
+Screenshot of student performance during a therapeutic activity.
+
+Show All
+
+Graphical representation of student performance in a therapeutic activity. Zero shows that the attempt has failed.
+
+Show All
+
+After the prototype development, we conducted a prototype evaluation to obtain feedback on design, usability, functional aspects, etc. to develop the actual system.
+
+After developing the prototype, we conducted an evaluation using different participants in multiple iterations. The aim of this test was mainly to obtain feedback from the users on the aesthetics (color, layout, interaction mechanisms, etc.) and ergonomics (navigation, metaphors, information dissemination, feedback mechanism, operability, consistent interaction, etc.) of the interfaces, and second, to obtain feedback about the functional aspects. Ardito [5] stated that no consolidated evaluation methodology is available for e-learning applications. Therefore, we conducted a heuristic evaluation of the prototype to obtain feedback from the children. Seven children with/without poor handwriting, an occupational therapist, a researcher in educational technology, and a software engineer evaluated the prototype. The details are presented in Table 1. The purpose was to obtain maximum feedback from each participant on each activity, mainly from a usability perspective, to refine the application. However, we asked the software engineer and the ET researcher to evaluate the functional aspects of the activities, which means whether the included activities make sense and would contribute to handwriting performance. We had three phases of activities during the evaluation: instruction and introduction of the app, exploration, and feedback.
+
+We started by providing a set of instructions to the participants and then introduced our software prototype to the participants. This included a familiarization session on the five hand therapeutic activities. They were then instructed to follow the instructions given at the start of each activity and to start exploring each activity with the intention of evaluating the interfaces and providing feedback. There were no time restrictions on this task. After their trials, we interacted individually with each participant to understand their user experience with the application interfaces and suggestions for improving or modifying the user interfaces for a better user experience. They were interviewed by the experimenter and their responses to each activity were noted.
+
+Initially, three students (Female/7 years, Male/11 years, Male/12 years) from a special learning center, named Enlight Center for Holistic Development in Trivandrum, participated in the user evaluation. They had writing difficulties that were assessed by the occupational therapist of this center, and they were undergoing hand therapy using traditional methods at this center. Participants were allowed to explore all five hand therapeutic activities on a tablet computer. After that, we individually interacted with each child to learn their experiences and feedback on the activities. The feedback was more or less the same. They mentioned that they felt difficulty at higher levels of pinching activity, where they were expected to perform more pinching. They also suggested that increasing the thickness of the tracing path of the activities ‘Pattern trace’ and ‘letter trace’ would make it less difficult for them. Because the tracing path was thin, they could not obtain a better score. They were not satisfied with the navigation provided during the Pattern-tracing activity.
+
+After the students’ evaluation process, we approached the clinical psychologist at the center to interact with the app and provide feedback. She observed the students during usability testing. She explored the system herself and made some suggestions about the application such as to increase the number of geometry objects in the ‘Art with Geometry’ activity and to increase the number of objects in the ‘letter pick-up’ activity. She also suggested increasing the width of tracing paths to make it easier for students. She commented that the usage of the word ‘kill’ in the Finger Aerobics activity was inhumane. After collecting feedback, we incorporated suitable changes, mainly increasing the width of the patterns and letters. We have also added a set of fruit names to the ‘Letter pick-up’ activity, along with the animal names.
+
+In the second iteration, the participant was one 15 year old boy (10th standard). He told us that his parents and teachers asked him to improve his writing skills. We also observed that the students had an uncommon hand orientation when writing in the notebook. He mentioned that in the pattern-tracing activity, the sawtooth dotted lines have some issues. Even if we draw exactly over the dotted lines, the system shows errors in the traced pattern. Similarly, when he drew through the path of the circle and completed it as per the instructions, the system showed an error when he exceeded the starting point. According to him, this circle was correctly traced. In the letter-tracing activity, the letters were placed on four red lines. He mentioned that if we made any marks by mistake in between the red lines without touching the letter path, the system did not provide any feedback about the mistake. He also suggested giving complex words to the letter pickup activity. After collecting his comments, we rectified mistakes in the pattern and letter-tracing activities.
+
+After the evaluation process, he decided to practice hand therapeutic activities and interacted with the system for almost 25 hours over a span of eight weeks and shared his experience and observations. He told us that the pinching activity helped him improve his finger grip, which was a major writing problem. He also added that handwriting speed improved significantly after practice.
+
+In the next round of evaluation, three students (Female/ 13 years, Female/13 years, and Male/13 years) from different schools in Ernakulam District of Kerala participated. They had legible handwriting skills. After the evaluation session, they mentioned that the back and forth buttons were unsuitable for the application. In addition, it has been pointed out that there is an unnecessary delay at the beginning of every activity. They mentioned that including cursive letters would be beneficial for older students, because cursive letters are mandatory in higher classes in Kerala. Two of them suggested increasing the size of the letters during the letter tracing activity. After their evaluation, we incorporated relevant suggestions into the software.
+
+In the next iteration, we asked an ET researcher (Female/ 45 years) to evaluate the app and give her suggestions. She provided suggestions to improve the navigation and to give a refresh button in the tracing activities so that they could immediately restart tracing if something went wrong. She suggested keeping the interfaces consistent in terms of color, layout, button positions, etc. The modified interface is shown in Fig. 15.
+
+Screenshot of navigational attributes.
+
+Show All
+
+She also suggested some changes in activities. For example, she suggested providing the basic circle tracing activity in three incremental phases: circle with full support (Fig. 15), with partial support (Fig.16), and circle with minimal support (Fig. 17). In minimal support, we provide only the center and radius. This incremental approach would help students easily acquire visual-spatial recognition.
+
+Screenshot of circle drawing activity (partial support).
+
+Show All
+
+Screenshot of circle drawing activity (minimal support).
+
+Show All
+
+Another suggestion was to remove the ‘letter pick-up’ activity because it may support learning the spelling of provided words only. This has nothing to do with handwriting. She suggested adding a ‘lazy eight’ activity where students could trace through an infinity symbol (Fig.18). Lazy eight is a movement-based brain gym learning exercise that can be utilized as an effective tool to enhance writing performance among first-grade pupils [71]. This would help in letter formation, which is pivotal for the development of handwriting skills. Students can trace the image with their left and right hands separately for a specified duration. Moreover, we can ask students to perform this activity with their left hand and right hand separately, and then by comparing the score for each hand, we can identify the student’s hand dominance (Left or Right). A hand with a higher score was dominant. An equation for the score calculation was provided in the software. It is based on the accuracy and speed at which the student completes the lazy eight activity. Writing with one’s dominant hand makes handwriting easier.
+
+Screenshot of hand dominance (lazy eight) activity.
+
+Show All
+
+In the letter trace activity, the letter-choosing menu was vertically oriented with a radio button, and the tracing interface was a separate one (Fig.10). However, this is not user-friendly in terms of navigation. Therefore, she suggested bringing a palette of letters to the left side of the screen and keeping the letter-tracing area on the right side. Based on this feedback, we have modified the interface (Fig.19). She suggested adding a set of simple instructions on how to perform the activity before the commencement of every activity (see Fig. 20). These instructions should be available in a click on every interface, which can help novices proceed with their activities without confusion.
+
+Screenshot of letter tracing activity.
+
+Show All
+
+Screenshot of instructions for novice.
+
+Show All
+
+In the fifth iteration, the prototype was evaluated by a software engineer (Male/45 years). He commented that if we could provide a helpful video for the novices, it would be easy for them to start with the activities. We did not consider this because we provided a one-page instruction at the beginning of every activity, and this instruction is available whenever required by clicking a button on the right top corner of each screen. He suggested providing a writing area for the children so that after their practice, they could write and see their progress in the app itself. So we have added an activity ‘Write it’, which provides a writing area with minimal tools (Fig. 21). This can also be used to conduct a pretest and posttest, and the handwritten text can be saved in the student’s account.
+
+Screenshot of ‘write it’ activity.
+
+Show All
+
+The initial round of software evaluation was performed by 7 children with or without handwriting difficulties. From this software evaluation, we have identified that the students mainly gave responses about the thickness of tracing activities, difficulty level of the pinching activities, feedback about geometric figures, and ease of use. The responses were more or less the same. Moreover, these minor participants had no previous experience in interface evaluation and no adequate knowledge of the technical aspects of the application. In usability testing, a software product is evaluated in terms of aesthetics, software design, functionality, and user satisfaction [87]. Since the end users were children below 15 years old, we included two participants from the software industry and education technology field to check the functional aspects of the software. They had expertise in e-learning application development and software design. They observed that features such as visual and audio cues and recovering login credentials in the application did not work properly. They provide insights into adding relevant features and deleting irrelevant features. Based on this feedback, we have modified the application. Thus, the app has been evaluated mainly with respect to usability requirements, and based on the evaluation feedback from the participants, the UI design and some of the activities have been modified. The final menu with 6 hand therapeutic activities and a Writing activity (‘write it’) is shown in Fig. 22.
+
+Screenshot of HanDex main menu.
+
+Show All
+
+After five rounds of usability evaluation, the software was ready for the experiment to check whether the app was effective for students with poor handwriting. As a preliminary step, we compared our app with another fine motor skill application, Dexteria, and the results are presented in Table 2. HanDex has six hand therapeutic activities to facilitate finger grip, hand-eye coordination, spatial organization, letter formation, and fine motor skills. Therefore, HanDex has more features and feedback facilities than Dexteria does. However, it is essential to conduct experiments to check its effectiveness in children with handwriting issues. Therefore, we decided to conduct a couple of case studies in children with handwriting difficulties. The basic aim of these case studies was to measure the effect of HanDex on handwriting performance in children with writing difficulties.
+
+In the case study, we used a pretest-posttest single-subject design to measure the impact of the software application. Initially, we conducted a pretest to determine the participants’ handwriting performance and finger grip. After the pretest, we provided training to the participants using HanDex, where they were allowed to perform various hand therapeutic activities in different sessions. Each session was almost one hour long. We have given multiple sessions to the children in different weeks. After the software training, we conducted a posttest to evaluate the participants’ handwriting performance. Two handwriting examiners independently evaluated the pretest and posttest samples. They used a handwriting performance rubric taken from [35], which has eight parameters to assess on a scale of 1–5 leading to a maximum of 40 marks. The parameters were letter formation, placement, letter sizing, spacing of letters, legibility, speed, neatness, and spacing of words. Ali et al. [3] used the same rubric to evaluate English handwriting in first graders after a fine motor skill intervention. The rubric used is given in Table 3. Each parameter was assessed on a 5 point Likert scale. Since it is a subjective process, after the independent evaluation, both raters discussed their assessment values and came to a consensus wherever they had different values. The case studies are described in the following sections.
+
+The participants were two primary-school children with handwriting difficulties. The children were 9 years old and were studying in the third grade in an aided school in Kochi, Kerala. These children were selected for the study based on a report from their class teachers. Their parents were also concerned about their poor handwriting skills. They were not clinically assessed for any learning disability. The students participated in the experiments with written consent from their parents.
+
+During this phase, a pretest (see Fig. 29 and 31) was conducted to determine the students’ current handwriting performance. We conducted the experiment in a quiet classroom inside the school campus with permission from the school management. The participants were asked to copy an English passage on an unruled A4 size paper using a pencil without an eraser. The experimenter did not use the ‘write it’ facility of HanDex for the pretest because the participants were more comfortable writing on paper. The class teacher and special educator were allowed to observe during the experiment. After the pretest, the experimenter evaluated the handwriting samples. Before the intervention, the experimenter introduced the hand-therapeutic application, ‘HanDex’, installed on a Samsung Galaxy tablet computer. Participants were made aware that HanDex provides six therapeutic activities: Finger Aerobics, Pattern Trace, Circle Trace-Basic, Circle Trace-Advanced, Hand Dominance, and Letter Trace.
+
+Pinching exercises/ finger Aerobics.
+
+Show All
+
+Pattern tracing.
+
+Show All
+
+Circle drawing-basic.
+
+Show All
+
+Circle drawing-advanced.
+
+Show All
+
+Hand dominance.
+
+Show All
+
+Letter trace.
+
+Show All
+
+Handwriting performance of participant-1 before intervention.
+
+Show All
+
+Handwriting performance of participant-1 after the intervention.
+
+Show All
+
+Handwriting performance of participant-2 before intervention.
+
+Show All
+
+After the pretest, the children were asked to perform all six activities on a tablet computer one by one. The first activity, Finger Aerobics (see Fig. 23), is a game-oriented activity to develop pencil/pen grip in children. The second activity, Pattern Trace (see Fig. 24), was used to develop visual-motor integration. The third activity, Circle Trace-Basic (see Fig. 25), may help children to enhance curved movements and drawing skills. The fourth activity, Circle Trace-Advanced (see Fig. 26), helps children develop visual-spatial skills. The fifth activity, Hand-Dominance (see Fig. 27), is used to identify the dominant hand and also to develop hand-eye coordination in children with writing difficulties. Finally, the Letter Trace (see Fig. 28) activity was used to teach the letter size and shape (both uppercase and lowercase). The teachers, special educator, and experimenter observed the participants while they interacted with the software application. The experimenter allotted sufficient time for every participant to complete all activities in the software application. Initially, each student spent more than one hour completing all the activities in the application. After one week, the participants mastered and completed the activities within one hour. The experimenter conducted three training sessions per week for each participant. Each participant received approximately 20 hours of handwriting training to develop hand dexterity.
+
+After the intervention, the experimenter conducted a posttest similar to the pretest, and the evaluation of these samples was performed by handwriting examiners. Then, both the pretest and posttest results were compared to determine the impact of HanDex-based training on each case.
+
+CASE 1: The first case was a 9 years old boy with poor handwriting. Initially, a pretest was conducted in which the experimenter asked the boy to copy an English passage on butterflies. The pretest result is shown in Fig. 29, where we can observe that the student has written letters of different sizes (especially in the first sentence). We can also see that the applied pressure is not uniform, which is an indication of poor finger grip during handwriting. This also reduces the handwriting speed. Besides this pretest sample, we have also assessed his class worksheets and notebooks, and realized that the student had messy handwriting, spelling difficulties, poor spacing of words and letters, lack of awareness of punctuation symbols, and difficulties in forming different letters such as ‘b’, ‘e’, ‘f’, ‘g’, ‘h’, ‘l’, ‘s’ etc. During the study, we provided three software training sessions per week, and the participant received a total of 18 sessions to develop hand dexterity. After the training session, the experimenter conducted a posttest (see Fig. 30) similar to the pretest for evaluating his handwriting progress. The scores of the eight parameters (letter formation, placement, letter sizing, spacing of letters, legibility, speed, neatness, and spacing of words) in the pretest and posttest of participant-1 were assessed by two raters independently. They then discussed their assessment values and arrived at a consensus, which is presented in Table 4. The results showed that HanDex-based training had an impact on hand dexterity and handwriting skills in the participant.
+
+CASE 2: The second case was a 9 years old girl with handwriting difficulties. Her pretest sample is shown in Fig. 31, where she has written an English passage about butterflies. From the pretest performance, we have observed that the participant had difficulties in writing the letters uniformly, uneven spacing between the letters and words, issues in formation of letters (like ‘b’, ‘c’, ‘f’, ‘m’ etc.) and spelling difficulties. Based on her handwriting difficulties, we introduced our hand therapy application to the participant. She practiced the six activities on a tablet computer for three sessions per week and received a total of 18 sessions. Then, we conducted a posttest (see Fig. 32) similar to a pretest to see her progress in handwriting performance. The eight parameters related to handwriting were assessed in a manner similar to that in case 1. The scores of these parameters in the pretest and posttest of participant-2 are given in Table 5.
+
+Handwriting performance of participant-2 after intervention.
+
+Show All
+
+The results shown in Tables 4 and 5 prove that HanDex-based training has an impact on hand dexterity parameters, such as letter formation, placement, letter size, spatial organization, speed, and overall legibility. Thus, we confirmed that touch-based hand therapeutic exercises were beneficial for participants in improving their handwriting. This is obvious from the pretest-posttest samples (Fig. 29, 30, 31, and 32).
+
+Technology-based education has a positive effect on learning outcomes in school children. A survey of special educators pointed out the importance of technology incorporated in this field [99]. Empirical evidence from different studies has demonstrated that assistive technologies integrated with traditional therapies consistently improve children with specific learning disabilities [14], [15], [26], [104]. Moreover, the authors examined the effectiveness of the Dexteria app in children with dysgraphia [48] and in children with poor handwriting [103]. These pilot studies proved that iPad-based fine motor skill development training seemed to be effective for enhancing dexterity performance. During the evaluation of the Dexteria app, parents of the participating children and therapists mentioned that this app does not provide any feedback, and one of the activities named ‘Pinch it’ seemed harder for children. Dexteria is a paid application with an iOS operating system, which is not affordable for children from poor socioeconomic backgrounds. Therefore, there is a need for a sophisticated, yet simple and cost-free application to support students with poor handwriting. This motivated us to design and develop a full-fledged application (HanDex) by incorporating six activities to improve hand dexterity in children with writing difficulties. We strongly believe that these activities would be effective because they are implemented to support fine motor skill development and hand-eye coordination. Moreover, it is based on the well-known oscillation theory of handwriting. Our initial case studies have demonstrated this. Generally, handwriting skills develop at the age of 7–8 years and attain automaticity at the age of 9 [4], [25], [102], [112]. Therefore, we designed and developed a software application for children in the age group 8–12 years. Research has shown that age appears to influence sensory-processing abilities and affects daily performance tasks, such as handwriting [23]. Similarly, a study has proven that tracing has adverse effects on the development of handwriting performance in children, and copying is better than tracing to develop handwriting skills [6]. However, the tracing activities provided in HanDex may help students modulate the vertical and horizontal oscillations of the writing tool to produce better handwriting.
+
+This paper describes the design, development, and efficacy evaluation of the application HanDex for enhancing hand dexterity in children with poor handwriting. It is an Android application that uses the touchscreen technology. We followed various user interface guidelines to develop this application. The application mainly focuses on developing fine motor and visual-motor integration skills to improve hand dexterity. It comprises six activities to improve hand-eye coordination, strengthen hand muscles and pencil grip, and improve visual-spatial organization. The activities provided by the app may help students modulate the vertical and horizontal oscillations of the writing tool to produce better handwriting. The main advantage of the app is that it provides audible feedback and visual cues when haptic interactions in the activities go wrong, so that the child can immediately correct his/her movements. In addition, our application provides a gaming experience that makes the learning process attractive. This may motivate and guide children, which may have a positive effect on learning outcomes. Various data during the training, such as student login details, their finished task, errors, score for each activity, and level of performance, are stored in a database. Two case studies were conducted to verify the effectiveness of the app. The results showed that the application ‘HanDex’ has an impact on letter formation, placement, letter size, spatial organization, speed, and overall legibility in children with handwriting difficulties. Thus, touch-based hand therapeutic activities are beneficial for fine motor skill development in children with writing difficulties. Based on our case studies, we recommend that fine motor development activities should be included in the curriculum of school children with the intention of improving their handwriting.
+
+In this digital era, the support of technological tools is complementary to the existing remediation methods for children with learning difficulties. It supports parents, special educators, and occupational therapists in assisting children with learning difficulties in classroom premises and in-home practice. In the future, we need further training sessions with children having poor handwriting skills to make more observations and strong conclusions on the efficacy of the software application. Based on the results, we can modify our app further to make it robust. This evolutionary process may require several rounds of evaluation and improvisation until a full-fledged app is obtained. Another future direction is to integrate a machine learning component into this learning environment, so that occupational therapists or doctors can easily detect deficits in the writing skills of a child.
+
+The authors would like to thank all their participants, special teachers, and clinical psychologists of the Enlight Center for Holistic Development, Trivandrum, and the District Early Intervention Centers of Alappuzha and Ernakulam for their participation in this study. They would like to thank Athul Krishna for helping them code the software application. They would also express their sincere gratitude to the participants for their support and feedback during prototype evaluation.
+
+2017 International Conference "Quality Management,Transport and Information Security, Information Technologies" (IT&QM&IS)
+
+Published: 2017
+
+2020 IEEE Frontiers in Education Conference (FIE)
+
+Published: 2020
+
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | IEEE Ethics Reporting | Sitemap | IEEE Privacy Policy
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2025 IEEE - All rights reserved, including rights for text and data mining and training of artificial intelligence and similar technologies.
+
+Design and Development of an Android App (HanDex) to Enhance Hand Dexterity in Children With Poor Handwriting
+
+Document Sections
+
+Abstract:
+
+Introduction
+
+Related Works
+
+Supporting Theory for HanDex Application
+
+Development of Prototype
+
+Evaluation of Prototype
+
+Case Studies Using HanDex
+
+Conclusion and Future Research
+
+Authors
+
+Figures
+
+References
+
+Citations
+
+Keywords
+
+Metrics
+
+IEEE Personal Account
+
+Purchase Details
+
+Profile Information
+
+Need Help?
+
+Follow
+
+Targeted Advertising
+
+Personalisation
+
+Analytics
+
+IEEE.org
+
+IEEE Xplore
+
+IEEE SA
+
+IEEE Spectrum
+
+More Sites
+
+Donate
+Cart
+Create Account
+Personal Sign In
+
+Donate
+
+Cart
+
+Create Account
+
+Personal Sign In
+
+Browse
+
+My Settings
+
+Help
+
+I.
+Introduction
+
+II.
+Related Works
+
+III.
+Supporting Theory for HanDex Application
+
+IV.
+Development of Prototype
+
+V.
+Evaluation of Prototype
+
+Provide a simple, multi-touch interface.
+
+Provide haptic activities with proper and timely feedback.
+
+Provide multiple activities to improve their manual dexterity.
+
+Apply HCI principles in software design.
+
+Include game-oriented activities with a score, levels, etc. to motivate the children.
+
+Provide visualization of the progress of each task (for participants, their parents and teachers).
+
+CHANGE USERNAME/PASSWORD
+
+PAYMENT OPTIONS
+
+VIEW PURCHASED DOCUMENTS
+
+COMMUNICATIONS PREFERENCES
+
+PROFESSION AND EDUCATION
+
+TECHNICAL INTERESTS
+
+US & CANADA: +1 800 678 4333
+
+WORLDWIDE: +1 732 981 0060
+
+CONTACT & SUPPORT

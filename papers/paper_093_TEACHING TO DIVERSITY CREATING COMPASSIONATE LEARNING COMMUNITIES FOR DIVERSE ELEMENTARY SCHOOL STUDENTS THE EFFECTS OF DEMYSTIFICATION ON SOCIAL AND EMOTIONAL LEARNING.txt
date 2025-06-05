@@ -1,0 +1,1741 @@
+ABSTRACT
+Across North America concerns have been raised about the social, emotional, and
+mental health of our youth. Many primary prevention programs have been proposed to
+address these issues, however, few have met the criteria for effective interventions, including
+being longitudinal, cross-curricular, emphasizing specific concepts and skills, and being
+within the skills and understandings of teachers and the school system at large (McCombs,
+2004). The Respecting Diversity (RD) program is a social and emotional learning (SEL)
+intervention designed by teachers that uses a Multiple Intelligences (MI) framework to
+develop self-awareness, self-respect and respect for diverse others. It teaches skills such as
+goal setting, meta-cognition, and perspective taking that underlie SEL. The program is
+designed to develop, a safe, positive classroom climate to begin the school year, and facilitate
+social and academic learning.
+The study herein was intended to explore emotional and behavioral outcomes of the
+RD program. The study involved 218 intermediate (grades 4-7) students and their teachers,
+divided into intervention and control groups. Students were assessed pre and post
+intervention for the development of self-awareness, self-respect, awareness of others, and
+respect for others. Measures of classroom climate were also included. Students completed
+several measures of SEL, and a selected sample were interviewed to obtain detailed
+information about their experiences in inclusive diverse classrooms, and with the RD
+program itself. Data were analyzed using both qualitative and quantitative methods,
+including thematic content analysis procedures and repeated measures MANCOVA’s.
+Both students and teachers indicated that the RD program significantly increased
+students’ self-respect, awareness of others, and respect for others, while students in control
+iii
+classrooms decreased in these factors. Classroom climate also significantly improved for
+treatment classrooms, and, similarly, decreased in control classrooms. Results are discussed
+in terms of their educational implications, limitations, and suggestions for further research.
+Introduction and Literature Review
+Children of the same age enter today’s classrooms with differing learning profiles
+(i.e., learning strengths and challenges), background knowledge, and experience (Schirmer &
+Casbon, 1995). Students do not learn alone but, rather, in diverse communities, interacting
+with their teachers, in the company of their peers, and bringing with them the values and
+teachings of their families. In recent years unacceptably high rates of school violence,
+bullying, school dropout, youth suicide, and other negative behaviors have been documented
+(McCombs, 2004; Zins & Elias, 2006). These behaviors have taken a toll on students’ social
+and emotional well-being, evidenced by rising rates of depression, emotion-related illnesses,
+and expressions of fear and hopelessness (Hymel, Schonert-Reichl, & Miller, 2006; ModrcinMcCarthy & Dalton, 1996). Students with mental health problems and deficits in socialemotional competence have difficulty learning, and in some cases, may disrupt the
+educational experiences of their peers (Cooper, 2008; Greenberg et al., 2003).
+According to Weissberg, Kumpfer, and Seligman (2003), while preventing these
+problem behaviors is a worthwhile endeavor, “it is undisputable that young people who are
+not drug abusers, who are not depressed or suicidal, who are not antisocial or in jail, and who
+are not school dropouts may still lack the resources to become healthy adults, caring family
+members, responsible neighbors, productive workers, and contributing citizens” (p. 427).
+Relatively few children have personal competencies, values, attitudes, and environmental
+supports that protect against high-risk behavior and encourage the growth of positive
+behaviors. Thus, developing all students’ self-respect and respect for others in a diverse
+community of learners has become a paramount challenge for educators (Levine, 2001).
+2
+To educate means “to develop and cultivate” (Merriam-Webster, 1978). To teach, on
+the other hand, is defined as “to cause to know; to show how; to guide; to make to know the
+consequences of” (Merriam-Webster). Education, therefore, includes more than instruction in
+academic subjects, and teaching includes more than just content delivery. Education must
+develop the whole child and cultivate all of the skills, attitudes, and knowledge necessary for
+successful integration into society. Thus, practices such as inclusion that aim to educate
+students in the full sense of the word must promote their social, emotional, and physical
+development, in addition to their academic achievement. As Elias (2001) eloquently put it,
+“Schools should prepare students for the tests of life, not a life of tests” (p. 1).
+Recent years have witnessed a growing proportion of school-age children
+demonstrating social-emotional and behavioral problems that interfere with their
+relationships, academic achievement, and their potential to be contributing members of their
+community (e.g., Greenberg, Domitrovich, & Bumbarger, 2001; Zins & Elias, 2006).
+Findings from a number of recent research investigations indicate that schools are among the
+most effective socialization contexts in our culture, and among the most influential in guiding
+the social and emotional learning of elementary school children (Schonert-Reichl, Smith, &
+Zaidman-Zait, 2006). Schools provide a unique opportunity for encouraging the development
+of social competence because many of students’ interpersonal interactions occur in a setting
+in which adults can intervene and thus, foster positive growth and development. A growing
+number of studies exist suggesting that children’s social and emotional learning can be
+fostered via classroom and school-based intervention efforts (Durlak & Weissberg, 2007;
+Graczyk et al., 2000; Greenberg et al., 2001). Given the data indicating a rising rate of
+3
+children at risk, school-based programs that develop all children’s social and emotional
+learning must be a priority for educational researchers and practitioners.
+In Canada, the Charter of Rights and Freedoms guarantees linguistic rights of the
+founding English and French cultures, Aboriginal rights, the right to an equitable education
+for all children, and the preservation and enhancement of our multicultural heritage. The
+right to an “equitable” education, and the enhancement of multiculturalism, influence
+inclusive school systems. Many schools in Canada take part in anti-racism and multicultural
+programming (Gill & Chalmers, 2007). Inclusive education, defined in British Columbia as
+“the principle that all students are entitled to equitable access to learning, achievement and
+the pursuit of excellence in all aspects of their educational programs,” has been mandated
+(http://www.bced.gov.bc.ca/policy/policies/special_ed.htm). Inclusion in this definition
+means that students attend their neighborhood schools, and are enrolled in regular education
+classrooms. According to the Ministry of Education, the emphasis on educating students with
+special needs in neighborhood school classrooms with their age and grade peers, however,
+does not preclude the appropriate use of resource rooms for short term pull-out instruction
+(e.g. for small-group reading intervention for a half hour a day).
+To support inclusion and diversity, several provinces have added social and emotional
+curricula to their mandate. For instance, in British Columbia, the province in which the
+current study took place, the Ministry of Education defines social responsibility as one of
+four “foundational skills,” equal in importance to reading, writing, and numeracy. In Ontario,
+the government has begun a $2 million initiative to support character education in schools.
+Despite these rights, and efforts, many Canadian youth continue to struggle socially and
+emotionally. Approximately 20% of children and adolescents, well over 800,000 children in
+4
+Canada, experience mental health problems severe enough to warrant mental health services
+(Kutcher & Davidson, 2007; Romano et al., 2001).
+In a recent study of 7,235 Canadian youth aged 10 to 16, 33% of boys and 30% of
+girls reported being the victims of bullying in the previous few months (Schonert-Reichl &
+Hymel, 2007). This victimization was associated with increased health problems, not only for
+the victims, but also for students who had witnessed bullying, who reported higher levels of
+depression than students who had not been so exposed. Substance abuse also continues to be
+a significant issue for youth in Canada (Leslie, 2008). Health Canada surveys indicate the
+mean age for the first use of alcohol is 11 years. Students in grades 7-9 reported initial use of
+cannabis at age 12, and 12.5% of these students reported using substances other than alcohol,
+tobacco, or cannabis.
+Recent reports indicate Canada spends about $14.4 billion dollars a year on the
+treatment of mental illness, and it is estimated that this number will continue to increase until
+it becomes the largest health care cost in the country (McEwan, Waddell, & Barker, 2007).
+Yet, about 75% of children with mental disorders do not seek or receive treatment. Programs
+in schools could reach many of these children. Thus, a combination of academic learning and
+social and emotional curricula with an emphasis on prevention and health is called for
+(Hymel et al., 2006).
+In the current study, the experiences of elementary school-aged children in diverse,
+intermediate (grades 4-7), inclusive classrooms were explored, and the effects of a multiple
+intelligences based program designed to increase students’ self and social awareness and
+respect, key factors in the development of social and emotional health, were evaluated.
+“Respecting Diversity” (RD) is a theoretically derived social competence program, based on
+5
+the framework for social and emotional learning (SEL) proposed by Zins, Bloodworth,
+Weissberg, and Walberg (2004), and using a multiple intelligences (MI) framework derived
+from the work of Gardner (1993). The study reported herein is the first attempt to examine its
+impact empirically.
+Social and Emotional Learning
+What is Social and Emotional Learning?
+The construct of social and emotional learning (SEL) has evolved from the research
+investigating emotional intelligence, which is based on the work of Salovey and Mayer, and
+popularized by Goleman (1995) (Elias, 2004; Kelly, Longbottom, Potts, & Williamson,
+2004). The use of the term emotional intelligence is related to Gardner’s (1983) multiple
+intelligences theory where interpersonal intelligence is defined as the capacity to detect and
+respond appropriately to the moods, motivations and desires of others and intrapersonal
+intelligence as the capacity to be self-aware and in tune with inner feelings, values, beliefs
+and thinking processes (Lazear, 1992). Gardner’s interpersonal and intrapersonal
+intelligences were combined in the construct of emotional intelligence (Goleman, 2004).
+Emotional intelligence was defined as a type of social intelligence that involved the ability to
+recognize and monitor one’s own and others’ emotions, and use this information to guide
+thoughts and actions (Salovey & Mayer, 1990). The use of the term intelligence to describe
+social-emotional abilities is controversial (Kaufman & Kaufman, 2001). Regardless of the
+term, whether intelligence, competence, learning, or skills, we must not lose sight of the fact
+that there is a vast array of research to support the importance of social and emotional
+development in students’ academic and personal success and satisfaction (Kelly et al., 2004;
+Thomas & Rohwer, 1986).
+6
+SEL has been defined in several ways that have common themes. According to Zins
+et al. (2004), SEL is the process through which children enhance their ability to integrate
+thinking, feeling, and behaving to achieve important life tasks. It has also been defined as the
+process through which we learn to recognize and manage emotions, care about others, make
+good decisions, behave ethically and responsibly, develop positive relationships, and avoid
+negative behaviors (Weissberg, Resnik, Payton, & O’Brien, 2003) or as “ (a) mastery and
+appropriate use of interpersonal and small-group skills…(b) internalization of prosocial
+attitudes and values needed to achieve goals, solve problems, become emotionally involved
+in school and work, and succeed in school and throughout life” (Johnson & Johnson, 2004, p.
+40). According to the Collaborative for Academic, Social, and Emotional Learning
+(CASEL), SEL is now defined as “the process of acquiring and effectively applying the
+knowledge, attitudes, and skills necessary to recognize and manage emotions, developing
+caring and concern for others, making responsible decisions, establishing positive
+relationships, and handling challenging situations capably” (Zins & Elias, 2006, p. 1).
+The Importance of SEL
+Research indicates that SEL has positive effects on many aspects of children’s
+development, including academic performance, physical, mental, and emotional health,
+prosocial behaviors, and citizenship (Zins & Elias, 2006). SEL also affects job/career
+success, as employers seek employees who work well with others, and interact positively
+with the public (Goleman, 2006). SEL reduces the risk of maladjustment, failed relationships,
+interpersonal violence, substance abuse, and unhappiness (Elias et al., 1997). The classical
+analytic intelligence, or IQ, has been shown to account for only 20-25% of the variance in
+job/academic performance, leaving 75 – 80% of the variance unexplained, and accounted for
+7
+by a variety of factors, including SEL, since SEL has been show to be related to academic
+and career success (Hymel et al., 2006).
+Many studies in the field of prevention research have focused on risk factors for
+students in high-risk categories. However, it seems logical that prevention research should
+also focus on protective factors that prevent students from becoming at risk (Graczyk et al.,
+2000). Universal programs that promote protective factors for all youth can reach the
+broadest population possible at an early age (Hymel et al., 2006). Schools are being called
+upon to address the human need for connectedness with one another and with the teachings
+of diverse peoples (Palmer, 1998/1999). According to Palmer, when schools fail to do so,
+students become bored and alienated. Alienation in a population of any age is caused by
+failing to provide supports for social and emotional issues (Ryan & Deci, 2000). Alienation
+can result in an increased rate of loneliness for students, as they are unable to establish
+positive peer relationships and a social network (Marcoen & Goossens, 1993). Given that
+alienation has been shown to be significantly associated with school dropout, gang activity,
+and poor peer, school-student, and teacher-student relationships (Brown, Higgins, Pierce,
+Hong, & Thoma, 2003), reducing alienation has become a key goal for schools. Creating a
+classroom environment where students feel safe, secure, and have a sense of belonging will
+help reduce alienation, fear and anxiety (Curran, 2003; Dwyer, 2002). Classroom climates in
+which there is a high degree of cooperation result in greater academic achievement (Ghaith,
+2003). Youths who are attached and committed to school, are highly involved in school, and
+have positive beliefs or aspirations towards school and school achievement are much less
+likely to become seriously involved in delinquency and drug use (Sprott, 2004). It seems
+logical, then, that the development of SEL skills is more likely to occur in environments in
+8
+which mutual respect, cooperation, caring, and decision making are the norm. In other words,
+classroom climate counts.
+In addition to fostering a sense of community, it is important for all teachers to
+promote the affirmation of diversity in their classrooms. Teachers are now faced with larger
+and more diverse classrooms that include students with social, emotional, and behavioral
+challenges (Hymel et al., 2006). Alienation has been shown to increase for students with
+diverse cultural and learning profiles (Brown et al., 2003). Combating bullying and
+alienation, therefore, requires instilling in children a respect for all peoples, regardless of
+culture, ability, or appearance. When teachers and peers learn to see the diverse backgrounds
+of their students/classmates as resources, these students’ experiences and learning profiles
+become positive contributions to the social, emotional, and academic life of the classroom,
+and students develop respect for self and other (Brown et al., 2003). By recognizing that
+people have different talents, we accept that everyone has something to contribute to the
+community (Dwyer, 2002). Thus, teachers who meet children's diverse needs are more likely
+to have children in their classroom who perceive school favorably (Brock et al., 2008).
+Attention to social and emotional issues has thus become a necessity for teachers and
+schools, as they try to meet the challenge of teaching children in a changing and complex
+world where inclusion is valued (Hymel et al., 2006).
+There is little argument that, ideally, all children would learn to be compassionate,
+kind, and responsible citizens of their communities, and that schools have some role to play
+in this process. However, debate has raged over to what extent schools can or should be
+asked to devote time to social and emotional learning given their emphasis on academic
+learning (Elias, Zins, Graczyk, & Weissberg, 2003). What is not recognized in this argument
+9
+is the link between social and emotional development and academic success. Strengthening
+students’ sense of community in school increases academic motivation and aspirations, and
+has a substantial effect on academic achievement (Brock et al., 2008; Zins et al., 2004).
+Wang et al. (1997) examined 28 categories of influence on learning. They found that eight of
+the 11 most influential categories involved social and emotional factors, including studentteacher social interactions, classroom climate, and peer factors. SEL improves school
+attitudes, behavior, and performance, including performance on standardized tests (Malecki
+& Elliott, 2002; Porath, 2003; Zins & Elias, 2006). In a meta-analysis of 270 research
+studies, Weissberg et al. (as cited in Hymel et al., 2006) found that students participating in
+SEL programs ranked at least 15 percentile points higher on achievement tests than students
+who did not participate. In fact, Welsh, Parke, and Widaman (2001) found a significant
+direct-path coefficient from social to academic competence (.47) during the middle
+elementary school years. Not only do students in SEL programs improve academically,
+students who then leave schools with SEL programs for schools that do not have them
+decrease in academic achievement (Fonagy et al., 2005). Amazingly, Caprara et al. (2000)
+found that students’ academic achievement in grade 8 could be better predicted from
+knowing their grade 3 prosocial behavior scores than from knowing their grade 3 academic
+achievement. Clearly, then, social and emotional skills are a significant influence on
+academic development.
+This relationship between SEL and academic learning can be explained, at least in
+part, by brain function. Meaningful learning involves multiple aspects of the brain.
+According to Gardner (1993), anatomically distinct areas of the brain are responsible for
+processing different kinds of information (e.g. visual images, language, sensory information,
+10
+etc.), thus resulting in the concept of “multiple” intelligences. Brain research has shown that
+learning requires both cognitive and affective processes, as emotions control a variety of
+academic precursors such as attention and memory (Levine, 2001; McCombs, 2004). This
+means that students must feel safe, comfortable, and positive about themselves and their
+community for them to be able to stay focussed, learn, and remember (Dwyer, 2002).
+SEL interventions have been shown to have the capacity to change brain function,
+and indeed, brain structure, producing adaptive responses in social and intellectual
+functioning (Davidson, 2008; Goleman, 2006). Multiple areas of the frontal and prefrontal
+lobes of the brain are involved in processing social and emotional information and decision
+making. These same areas are also involved in critical and analytical thinking; therefore,
+development or overwhelming of this area affects academic learning as well as social and
+emotional learning (Dwyer, 2002). Training in skills related to SEL has been shown to
+regulate brain response, such that students with SEL training can recover more quickly
+neurologically (i.e., literally reduce the response in the amygdala; lower levels of the stress
+hormone cortisol) from a negative stimulus (e.g., an incident of bullying or fearful
+experience), allowing them to regulate their thinking, problem solve, and respond more
+appropriately (Davidson, 2008). Thus, focusing only on academic instruction in an effort to
+help students improve academic, personal/social, and job performance is unlikely to lead to
+success (Adelman & Taylor, 2000; Noddings, 1995). Addressing students’ social and
+emotional development is therefore not an “add on” to the curriculum, but rather is an
+integral and necessary process for helping all students succeed.
+11
+Key Factors in SEL
+In classrooms inclusive of children with diverse cultural backgrounds, languages, and
+abilities, social and emotional skills become increasingly important if a supportive and caring
+learning environment is to be established. Children are required to negotiate social situations
+with others who interpret these situations in light of their diverse background experiences,
+values, and beliefs. Diversity in much of the research has focused on racial and cultural
+diversity (Pickett, 2008). However, diversity in learning strengths and challenges also creates
+challenges for students working and living cooperatively in learning communities (Greenberg
+et al., 2001). Ideally, preventative interventions help all students develop resiliency and selfworth, while at the same time facilitating positive social interactions and classroom climates.
+It is important that educators recognize that diversity, or diverse learners, does NOT refer to
+children with exceptional needs, or to children who are members of minority races alone. All
+children are diverse – body type, socio-economic status, personalities, ethnicities, languages,
+family constructions, and learning styles all contribute to the makeup of a diverse classroom.
+What we know from brain research is that even a group of so-called “typical” learners from
+Caucasian, middle class families would be diverse in how they learn best, their interests,
+background knowledge, and their social and emotional development (Gardner, 1983). Thus,
+teaching to diversity requires that teachers create a learning climate and activities that allow
+all children to feel safe, respected, and valued for what they have to contribute. The most
+effective schools seem to be those that are most able to build upon and integrate all of their
+diverse elements with greatest “synergy” (Elias, Zins, Graczyk, & Weissberg, 2003, p. 306).
+According to Greenberg et al. (2001), SEL programs can develop protective factors in
+children that reduce the likelihood of psychological or mental health problems in adolescence
+12
+and later life. In the elementary school years, research has clearly demonstrated that key
+amongst these protective factors is self and social awareness, and respect (Greenberg et al.,
+2001; Zins et al., 2004).
+According to the framework proposed by Zins et al. (2004), and accepted by CASEL
+and many others in the field of SEL, there are five social and emotional competencies
+underlying SEL:
+1. Self-Awareness
+2. Self-Management
+3. Social Awareness
+4. Relationship Skills
+5. Responsible Decision Making
+In this framework, self-awareness incorporates elements of self-respect delineated in the
+literature, such as taking pride in one’s accomplishments and developing self-efficacy.
+However, self-respect can be distinguished from self-awareness in children because selfawareness does not necessarily include an acceptance of, and pride in, one’s strengths and
+challenges. One can recognize that they have strength in athletics, for instance, and
+challenges with reading. This recognition implies self-awareness. However, depending on the
+value the child places on athletics and literacy skills, this recognition/awareness may or may
+not result in self-respect. Thus, in the current study, self-awareness and self-respect were
+separated into distinct concepts to be developed/assessed. To keep language consistent,
+relationship management and responsible decision-making were then referred to as respect
+for others, as this underlies engagement in positive interactions with diverse peers. Thus, a
+four factor model of SEL was developed for the study.
+13
+Self- and social awareness. Self-awareness involves recognizing and acknowledging
+one’s strengths and challenges (Brandt, 1998; Hippe, 2004; Jaouen, 1990). Children who are
+self-aware are reflective: they know their strengths and challenges, and set realistic goals
+based on them. They are able to recognize their own emotions, and are aware of how they are
+perceived by others. Social awareness, on the other hand, involves the ability to perspective
+take (Zins et al., 2004). Children with well-developed social awareness recognize that others
+have differing strengths and challenges, are therefore able to understand others’ reactions to
+situations, and suggest win-win solutions to problems.
+Self- and social respect. Children who show self-respect are neither harshly critical
+nor falsely confident in speaking of themselves. They accept their strengths and challenges,
+take pride in their accomplishments, and believe in their ability to achieve their goals. Selfrespect, then, involves “accepting one’s current reality as well as striving towards one’s
+future potential” (Hippe, 2004, p. 240). Children who have self-respect embrace their
+strengths and see them as tools for achieving their goals and overcoming their challenges
+(Hippe). They are willing to take risks and try challenging tasks. These students become
+emotionally involved in school, and feel a sense of belonging within its walls.
+Respect for others parallels self-respect, in that it not only implies a realistic
+understanding of others’ strengths, challenges, and perspectives, but also an
+acceptance/valuing of them. Students who are respectful of others demonstrate empathy for
+others, and accept the relative strengths and challenges of others in relation to their own.
+They can work cooperatively with others, utilizing their own and others’ abilities
+appropriately (Johnson & Johnson, 2004). Socially, respect for others implies an appreciation
+for diversity (Zins et al., 2004). Students who respect others value the contributions of their
+14
+classmates, seek partnerships and friendships with others of diverse abilities and
+backgrounds, and show appreciation when supported by others. They take pride in others’
+achievements, and develop prosocial goals. Students with well developed respect for others
+will stand up for others when they witness injustice, and avoid behaviors that negatively
+impact people in their environment.
+Previous research has found that school and classroom climates have important
+effects on children's perceptions and behaviors (Brock et al., 2008; Sprott, 2004). Classrooms
+provide different emotional, social, and academic environments, and these factors affect
+student’s social and emotional learning, which in turn, affects the classroom climate (Keogh,
+1998). An emotionally supportive classroom when children are 10 to 13 years old has been
+shown to be related to lower levels of violence two years later, when the children were 12 to
+15 years old (Sprott, 2004). In order to assess the outcomes of any program, intervention or
+curriculum designed to promote SEL, therefore, it is important to acquire baseline measures
+of classroom climate, and compare them to post intervention measures.
+Operational Definition of SEL
+In a diverse classroom community of learners in which the goal is to learn in ways that
+develop both academic and social success for all, social and emotional learning can therefore
+be defined as the process of developing self and social awareness and respect within a
+compassionate learning community.
+Important Components of SEL Programs
+Research has begun to document important attributes of effective social and
+emotional learning programs (Goleman, 2004). Effective programs for developing social and
+emotional learning have been found to have several key components, including teaching
+15
+specific skills such as self-awareness, self-respect, empathy (respect for others), perspective
+taking (awareness of others), and cooperation (Zins et al., 2004). As well, effective programs
+that address non-academic student needs must be integrated into comprehensive school
+programs if they are to be successful over the long term (McCombs, 2004). The use of
+traditional short-term, primarily didactic, isolated (uncoordinated) efforts to promote SEL is
+not as effective as long-term coordinated efforts. Despite these research findings, the vast
+majority of SEL programs continue to be designed and taught as separate curricula, for a
+short, specified period of time with little or no linkage to other subjects or daily life in the
+classroom (Cooper, 2008; Zins et al., 2004). As well, many current programs tend to focus on
+emotional regulation and problem solving rather than on developing self and social respect.
+Review of Existing SEL Programs
+RD’s emphasis is on the promotion of positive development among all children and
+youth. Protective factors such as bonding to school, learning to take the perspectives of
+others, and developing emotional resilience as the result of self-respect keep children from
+harm’s way or buffer the effects of negative experiences (Zins & Elias, 2006). According to
+Zins and Elias, SEL programming is “intended to enhance the growth of all children, to help
+them develop healthy behaviors, and to prevent engaging in maladaptive and unhealthy
+behaviors” (p. 2). As such, SEL programs have been developed with two distinct purposes: to
+promote protective factors and develop competencies for all children/youth, or to prevent
+maladaptive behaviors in targeted samples of children/youth deemed “at risk.” The RD
+program addresses the first purpose; many of the comprehensive programs in existence focus
+on the second purpose. For instance, recently a group of prevention researchers developed an
+SEL program called “Fast Track.” This program is a school wide program that is intended to
+16
+prevent conduct disorder and associated adolescent problem behaviors (Greenberg et al.,
+2001). The program targets those at risk for externalizing behaviors, and works with both the
+children and their families.
+In the Lower Mainland of British Columbia, a commonly implemented SEL program
+is “Second Step.” The Second Step model focuses specifically on skills to understand and
+prevent violence (Grossman & Neckerman, 1997). In the Grossman and Neckerman study,
+Second Step was shown to reduce aggression as measured by coded observations, though not
+according to parent and teacher ratings. Second Step, while perhaps useful for this one
+specific aspect of SEL, does not meet the criteria set out by Zins et al. (2004) for effective
+SEL programs, as it is short term and not integrated into the regular curriculum of the
+classroom, nor does it extend beyond violence prevention to the larger scope of SEL.
+Another program being implemented across Canada and in New Zealand is “The
+Roots of Empathy” (ROE). ROE has as its cornerstone monthly visits by an infant and
+his/her parent(s) that serve as a springboard for lessons that teach infant development,
+emotion knowledge, and perspective taking (Gordon, 2007). This program focuses on
+developing empathy and emotional understanding, and reducing aggression. ROE thus has a
+wider focus than many programs.
+One of the first comprehensive SEL programs was cooperative learning. Students not
+only experienced the excitement of learning academic material from one another, they also
+developed important skills in negotiation and conflict resolution, and a peer culture for
+supporting academic achievement (Johnson & Johnson, 2004). The Child Development
+Project (CDP) took this one step further, integrating cooperative learning opportunities, a
+developmental approach to discipline, and a democratic approach to classroom management
+17
+(Battistich, Schaps, & Wilson, 2004). The Child Development Project closely resembles the
+RD program in some specific ways; it involves students working together and building
+classroom climate, and it emphasizes the promotion of positive development, rather than
+prevention of negative paths. However, CDP does not focus on diversity issues explicitly, a
+critical element in inclusive classrooms. In fact, CDP was found not to impact concern for
+others (Battistich et al., 2004).
+One of the more promising universal prevention programs is Promoting Alternative
+Thinking Strategies (PATHS). PATHS focuses on developing social and emotional
+competence through cognitive skill building (Greenberg et al., 2001). It has shown
+significant promise longitudinally in promoting children’s social problem solving and
+emotional understanding. However, PATHS does not explicitly seek to develop respect for
+others in diverse learning communities; much of the research conducted on PATHS
+curriculum has been conducted in non-inclusive classrooms, or special education classes (see
+for instance, Kam, Greenberg, & Kusche, 2004) .
+As a program designed by teachers for teachers, the RD program therefore differs in
+some significant ways from other SEL programs. The program was initially designed by the
+author, and then reviewed and modified by many teachers of grades K-12 over a 6-year
+period. Most SEL programs are highly scripted in their implementation, requiring teachers to
+teach them as a separate curriculum. The RD curriculum provides teachers with a nine-lesson
+script which is flexible in its implementation. Teachers can break lessons into parts, integrate
+them with other curricula, and extend them as they wish. The curriculum is meant to be
+differentiated to fit the unique context of each classroom, while still maintaining particular
+concepts/skills, as most curricula are. For instance, most science curricula are meant to
+18
+promote scientific learning/thinking, and include particular concepts and skills, but do not
+prescribe to teachers exactly how they be taught, in what time frame, etc. Thus the curricula
+recognize teachers’ expertise and can flex to fit the context of individual classrooms. The RD
+curriculum is meant to promote social and emotional learning/thinking; includes particular
+concepts and skills; but similarly does not prescribe an exact delivery model.
+Another unique feature of the RD program is that it uses a multiple intelligences
+framework to facilitate SEL. MI theory is widely known as an educational framework for the
+delivery of content area curricula. A search of the Chapters bookstore website turned up 111
+resource books for teachers and parents on the subject (http://www.chapters.indigo.ca/).
+Many resources exist that support teaching through the intelligences, and whether they use
+MI specific language or not, most curricula and university teacher training courses instruct
+teachers in the use of multi-modal teaching (e.g. teaching through the use of visual tasks,
+hands-on kinesthetic learning, etc.). Thus the RD program fits within teachers’ skill set, and
+is easily extended across the curriculum. According to Taylor and Dymnicki (2007),
+researchers have offered little information about how to infuse SEL interventions into the
+regular academic curriculum and create opportunities for students to learn through authentic
+experiences. By using MI as a framework, the RD program aims to do just this.
+The potential benefits of promoting positive development among all youth, not just
+those with identified risk factors, have been recognized by others in the prevention field (e.g.,
+Albee, 1996; Battistich et al., 2000; Cowen, 1994). However, the health promotion model has
+received far less consideration in the field than the risk-reduction, prevention of disorder
+model.
+19
+Purpose of the RD Program
+The purpose of the RD program is to provide a framework for SEL that integrates
+social and emotional learning with academic instruction for diverse learners, thereby
+facilitating the development of self-respect and respect for others. This framework is of
+critical importance if we are to create compassionate learning communities, and positively
+influence many of the problem behaviors in our schools and communities.
+Goals of the “Respecting Diversity” (RD) Program
+Given the framework for effective programs delineated by Zins et al. (2004), it is
+clear that SEL programs need to develop self and social awareness and respect, and do so in
+an integrated fashion that creates a compassionate learning community. Greenberg (2004)
+pointed out that if research in SEL is to move forward, researchers will be required to
+collaborate with schools and teachers rather than researchers approaching schools to get their
+permission to test programs not currently in use. Evidence based practices have not been as
+widely used as they could be, and researchers have had difficulty influencing teachers,
+educational leaders, and schools to adopt SEL practices (Zins & Elias, 2006). The RD
+curriculum was developed by teachers in elementary inclusive school classrooms (including
+the author of this study), with the intention of developing social responsibility, the term used
+in British Columbia for social and emotional learning and competence. The program was
+integrated across the curriculum, and directly reflected prescribed learning outcomes of the
+Ministry of Education related to Career and Personal Planning, Anti-Bullying, Inclusive
+Education, and Social Responsibility (see Appendix G). Goals of the program include
+developing specific components of self and social awareness and respect, such as selfefficacy, goal setting, demystification of individual and class learning profiles, emotional
+20
+resiliency, perspective taking, empathy, and valuing diversity, as well as the creation of a
+positive, inclusive classroom climate.
+Self-efficacy, or the belief that one can be successful, is an important part of selfrespect, and a factor in student achievement (Thomas & Rohwer, 1986). Perceived selfefficacy can also affect self-management and coping efforts, as a student is more likely to
+persevere in a task that is challenging if they believe they will ultimately be successful, and
+thus develop greater emotional resiliency (Carns & Carns, 1991). In turn, students are then
+more capable of setting goals and being self-motivated and disciplined. High self-efficacy
+may also protect students from internalizing the effects of any teasing or taunting related to
+bullying, or becoming bullies themselves (King, Vidourek, Davis & McClellan, 2002; Weir,
+2001). Students' perceived control and competence are also significant predictors of selfesteem and academic performance (Deci & Ryan, 2000; Grolnick, Ryan, & Deci, 1991;
+Wiest, Wong, & Kreil, 1998). Thus programs that encourage teachers to project hope –
+convincing students of their worth, power, and ability to achieve - are vitally important in
+diverse learning communities (McCombs, 2004). A learning model that is based on
+developing caring relationships and respect for the unique way each child perceives the
+world and learns is therefore advocated.
+Developing self-awareness and respect necessitates helping students understand their
+unique learning profile. This in turn allows students to become aware of how they learn best,
+and see their strengths and what they can contribute (Brandt, 1998; Jaouen, 1990). Thus
+students need to know how their mind works, recognize their strengths and challenges, know
+how to use their strengths to make choices for academic activities (e.g. choosing a project or
+elective course that suits their abilities) and see how their learning profile can make valuable
+21
+contributions to their community and future career choices (Levine, 2001, 2002; Prescott,
+2001).
+Social awareness and respect allow students to appreciate diversity, develop respect
+and empathy for others, and gain an understanding of diverse learning profiles and the
+advantages to this diversity within a community (Peavey & Leff, 2002; Smith, 1999).
+Valuing diversity increases students’ tolerance for each other’s differences, and allows
+students to manage their relationships within diverse learning communities in prosocial ways
+(Brandt, 1998; Jaouen, 1990). Students working together in classrooms make up social
+systems. The work atmosphere and the social relations in these classes constitute the
+classroom climate. Students, teachers and school management influence this climate (Sprott,
+2004). In a class characterized by a nurturing climate, teachers emphasize co-operation and
+pupils work well together. A positive relationship between the climate and the children’s
+adjustment, including self-esteem, interest and motivation, behavior and school achievement,
+has been found in a considerable number of studies (Somersalo, Solantaus, & Almqvist,
+2002).
+In terms of peers, it has been suggested by several authors that feelings of acceptance
+and being valued can be achieved through the development of peer support systems that
+encourage a sense of community (Humphrey, 2003; Somersalo, Solantaus, & Almqvist,
+2002). Thus the social context of a classroom is extremely important in shaping the child’s
+sense of self (Humphrey, 2004). The RD curriculum seeks, therefore, to develop self and
+social awareness and respect through activities that allow students to learn about their own
+and their classmates’ learning profiles, and work cooperatively to achieve their goals.
+22
+Multiple Intelligences (MI)
+Traditional curricula and instructional techniques focus on a narrow range of
+information processing and teaching techniques, primarily written and text based, and
+therefore create an educational disadvantage by which some students are favoured over
+others (Gardner, 1995; Hearne & Stone, 1995). This leaves students with differing learning
+profiles (e.g., those who do not learn best through text) to struggle to learn in ways that do
+not best fit with their learning strengths. Thus, for instance, a student with strength in visual
+and spatial processing, who might one day be a great architect, can be made to feel incapable
+because he/she is not as good a writer as others, and art is seen as being of secondary
+importance. These same students are then perceived by peers to be less able, which can lead
+to bullying or taunting (Mishna, 2003; Norwich & Kelly, 2004). For these students, negative
+outcomes in emotional, social, and academic development are commonly the result
+(McDougall, DeWit, King, Miller & Killip, 2004; Newcomer & Barenbaum, 1995). Thus,
+the presence of students with diverse learning profiles in inclusive classrooms necessitates a
+curricular framework that supports both social and emotional learning and multiple methods
+of engaging students in academic activities.
+The theory of multiple intelligences (MI) (Gardner, 1983) is a regular education
+reform movement that appears to include many of the teaching philosophies, techniques, and
+assessment methods found to be effective for developing social and emotional learning and
+positive classroom climates. Students learn well through their strengths, and are more
+motivated academically when given opportunities to work in strength areas (Dwyer, 2002;
+Elias, 2004). This can be accomplished by helping students work through their multiple
+intelligences (Armstrong, 1994). As Elias eloquently states, “Working through multiple
+23
+intelligences is more than just pedagogy. It represents finding windows into the souls of
+children and ways to reach them in powerful and meaningful ways” (p. 58). Based on
+Howard Gardner’s research with typical children and adults and those with brain injuries at
+Harvard’s Project Zero (Gardner, 1983), MI challenges current theories surrounding
+intelligence, learning, teaching, curriculum, and assessment (Blythe & Gardner, 1990).
+Gardner postulated seven different intelligences, and later added an eighth (Checkley, 1997),
+as an alternative to the current single intelligence construct reflected in traditional IQ
+measures. Gardner (1995) believed that traditional curricula and instructional techniques
+utilize only two of the eight intelligences, verbal-linguistic and logico-mathematical. Thus,
+practices based on MI have often been cited as appropriate and facilitative of inclusion, since
+they are designed to accommodate a diverse range of learners (Armstrong, 1994; Eichinger &
+Downing, 1996; Falvey, Givner, & Kimm, 1996).
+MI and SEL
+Gardner’s eight intelligences include two social and emotional constructs.
+Interpersonal intelligence
+Allows us to develop a genuine sense of caring and empathy for each other.
+Through interpersonal intelligence we ‘stand in another person’s shoes’, so to
+speak. It is a person-to-person way of knowing through which we maintain
+our individuality but also become more than ourselves as we identify with and
+become a part of others. (Lazear, 1992, p. 17).
+Intrapersonal intelligence, on the other hand,
+Involves an awareness of the internal aspects of self – feelings, thinking
+processes, intuition, or spirituality. Both self-identity and the ability to
+24
+transcend self are a part of intrapersonal intelligence. When we experience a
+sense of unity…feel the lure of the future, or dream of heretofore unrealized
+potentials in our lives, it is the result of our intrapersonal way of knowing.
+(Lazear, 1992, p. 18).
+Interpersonal intelligence appears to include the SEL components of social awareness
+and respect. Intrapersonal intelligence incorporates self-awareness and respect. The
+recognition of these intelligences, and development of them in students, would therefore
+provide a vehicle for SEL programs, as well as engaging students in academic activities that
+are more likely to be motivating and self-managed, and build self-efficacy. However, before
+these intelligences can be developed, they must be introduced to students and teachers, in a
+way that facilitates students’ self-understanding, and appreciation for others.
+Demystification
+A process that allows students to explore their own learning profiles, the diversity of
+profiles that make up their community, and the advantages to this diversity would be a
+powerful tool in the development of children’s social and emotional well-being.
+Demystification is a process that provides children with more accurate personal insight
+(Levine, 2001). Helping students understand their strengths and challenges, and the
+advantages of having diverse learners in a classroom community, helps students to develop
+emotional resiliency and acceptance of others (Adelman & Taylor, 1984; Shepard, 2004).
+Demystification can take place one to one, in small groups, or in a classroom setting. The
+goals of demystification are to develop student’s self and social awareness and respect. In
+this study, the process of facilitating understanding of self and others is therefore referred to
+as demystification.
+25
+Purpose of the Study
+Prevention Research aims to promote the well being of children and youth and to
+reduce the prevalence of high-risk behaviors and poor outcomes in children, families and
+communities (The College of Health and Human Development Prevention Research Centre,
+2008). The current research was designed in the Prevention Research paradigm, and had two
+distinct purposes: 1. to investigate children’s experiences of respect for diversity in inclusive
+classrooms, and 2. to investigate the extent to which the RD curriculum, which involves the
+demystification of learning profiles using a series of multiple intelligences-based learning
+investigations, facilitates the development of students’ self and social awareness and respect.
+Intermediate classrooms (grades 4-7) were introduced to an RD curriculum that allows
+students to become metacognitively aware (i.e., be demystified) of their learning strengths
+and challenges, and explore the advantages and disadvantages of a diversity of learning
+profiles within classroom communities. The present study contributes to and extends the
+literature on evaluations of school-based primary preventive interventions in several ways.
+First, this research was designed to investigate the efficacy of an SEL curriculum that
+develops self and social awareness and respect, rather than emotional regulation or problem
+solving. Controlling anger, and developing conflict resolution skills teaches children how to
+react when a problem has occurred, but they do not create a climate where respect for others
+and a sense of security decreases conflicts overall. Second, the RD program is long term in
+its implementation, and is cross-curricular. Third, this research focuses on the evaluation of a
+curriculum exploring children’s experience of respect for self and others in diverse, inclusive
+classrooms. Fourth, this research investigates the use of a Multiple Intelligences (MI)
+framework for developing social and emotional learning. While there is much talk of the
+26
+intuitive utility of MI for differentiating instruction, the author was unable to find any
+research investigating the outcomes of MI curriculum and instruction for social and
+emotional learning. Finally, this investigation focuses on the evaluation of a social emotional
+competence promotion program that is a “routine practice program” – that is, a program that
+is already being implemented in elementary schools by school staff. Wilson et al. (2003)
+pointed out the need to differentiate between evaluations of demonstration programs and
+routine practice programs. They defined demonstration programs as those in which
+researchers set up a program evaluation under very controlled conditions. Demonstration
+programs tend to be implemented by the researchers and/or teachers who are closely
+supervised by the researchers. By contrast, routine practice programs are programs that have
+been in practice in schools for some years. Evaluations of demonstration programs often have
+high internal validity; however they have questionable external validity because they tell us
+little about the program’s effectiveness under normal daily implementation by classroom
+teachers in the field. The RD curriculum, as stated earlier, is flexible in its implementation,
+and in practice by teachers – thus increasing its external validity. Internal validity for such
+programs can be increased and supported by cooperative work between researchers and
+teachers, thereby insuring fidelity to the goals of the program, while providing flexibility in
+its delivery.
+The demands on schools to be accountable for educational achievement, behavioral
+management, health education, and social, emotional, and character education have grown
+immensely. Unfortunately, researchers are often unaware of the competing demands on
+teachers and schools, and each discipline proposes additional programming without an
+adequate understanding of the precarious balance of time, resources, priorities, and skills
+27
+school staffs must manage (Sarason, 1996). Schools have thus been overwhelmed by wellintentioned, but fragmented, isolated prevention and promotion programs for such issues as
+substance abuse, racism, multiculturalism, emotional regulation, violence prevention, teen
+pregnancy, and conflict resolution, among others. These programs are often unrealistic in
+their expectations, if not actually disruptive to the central mission of schools (Greenberg et
+al., 2003). Thus, a program developed by teachers, that fits within the curriculum,
+professional skills, and vision of the schools, may be more likely to be implemented and thus
+sustainable (Greenberg, 2004).
+Research Questions
+1. How aware of their own and others’ learning and social/emotional experiences are
+intermediate students in inclusive, diverse classrooms?
+2. How is respect for self and others experienced/demonstrated by students in
+intermediate inclusive, diverse classrooms?
+3. Is the social and emotional development of students in diverse intermediate
+classrooms facilitated by Multiple Intelligences curriculum and teaching, as measured
+by students’ self and social awareness and respect?
+Specifically:
+i. Is there a significant difference in students’ self-awareness and respect following
+an introduction to multiple intelligences theory and individual and group
+demystification regarding the value of diverse learning profiles?
+ii. Is there a significant difference in students’ social awareness and respect
+following an introduction to multiple intelligences theory and individual and
+group demystification regarding the value of diverse learning profiles?
+28
+CHAPTER 2
+Method
+It is critically important to create a classroom climate and set of opportunities that
+allow social-emotional learning (SEL) skills to flourish in ways that also reflect individuals’
+strengths (Elias, 2004). In so doing, students are able to develop self-respect as they become
+aware of their own strengths, and how to use them to achieve academic and social success.
+As they learn alongside others, they are also given the opportunity to recognize and see value
+in the strengths of others.
+Background
+Until recently, children have rarely been asked about their experiences in the
+education system (Hennessey, 1999). However, as diversity increases, and the complexity of
+the educational environment grows, it is less and less likely that adults alone, without the
+invested participation of the students themselves, can know all there is to know about, and
+solve, all of the problems our students face. Student perspectives can improve educational
+programming by making curriculum more accessible, creating collaborative processes,
+empowering students, and motivating them to participate in their education (Cook-Sather,
+2002). School aged children have been shown to make competent decisions regarding
+personal health and education (Weithorn & Campbell, 1982). This research, therefore, was
+designed to be a dual investigation, first, of teachers’ and children’s experiences of respect
+for diversity in inclusive classrooms, and second, of the extent to which an SEL program,
+Respecting Diversity (RD), involving the demystification of learning profiles using a series
+of multiple intelligences-based learning investigations, facilitates the development of
+students’ self and social awareness and respect. Multiple intelligences pedagogy could
+29
+provide a framework for connecting social and emotional learning with academic pursuits.
+However, this has not previously been proposed. The current research is therefore connecting
+two bodies of literature in unique ways.
+Program Evaluation
+In the field of prevention science, programs often undergo a four phase sequence of
+evaluations to determine their efficacy in achieving their aims (College of Health and Human
+Development Prevention Research Centre, 2008). In the Etiology phase, an examination of
+etiological work that may lead to the creation and implementation of an intervention is
+undertaken. In the Formative Evaluation phase an evaluation is designed to produce
+qualitative and quantitative data and insight during the early developmental phase of an
+intervention, including an assessment of (1) the feasibility of program implementation; (2)
+the appropriateness of content, methods, materials, media, and instruments; and (3) the
+immediate (e.g., 1 hour to 1 week) or short-term (e.g., 1 week to 6 months) cognitive,
+psychosocial, psychomotor (skill), and/or behavioral impact of an intervention for a welldefined population at risk. In the Efficacy Evaluation phase an evaluation of the extent to
+which a new (untested) intervention produced significant changes in a behavioral impact or a
+health outcome rate is explored: Did the intervention produce significant changes among a
+sample population at risk under optimal program-practice conditions? In the final phase, An
+Effectiveness Evaluation of the extent to which an existing (tested) intervention with
+documented internal validity produced a significant change in a behavioral impact or health
+outcome rate is undertaken: Did the intervention produce a significant change among a large,
+representative sample of a well-defined population at risk under normal program-practice
+conditions?
+30
+The RD program was created and implemented as a grassroots response to the
+growing diversity in inclusive, elementary school classrooms. The etiology phase, therefore,
+occurred prior to the undertaking of this research. Teachers honed this program initially in
+primary classrooms, before it began to be taught to practicing teachers from K-7, and later at
+the university level to student teachers preparing to teach grades K-12. Thus feasibility of
+implementation and the appropriateness of content, methods, and materials were also
+confirmed in clinical practice before formal research was ever undertaken.
+In a pilot study (Katz & Porath, 2005) designed to provide further, more detailed
+formative evaluation, the RD program was implemented by the first author with fourteen
+students in grades 4-7 who were both gifted and learning disabled. Following the program,
+students and parents were interviewed to explore their perceptions of the outcomes of this
+experience for themselves and/or their child. Parent and student responses were then coded
+using a content analysis procedure reflecting outcomes related to self-awareness, self-respect,
+social awareness, respect for others, and/or other themes.
+Results indicated that students believed that the program had increased selfawareness, and awareness and respect for others. Parents, by contrast, felt strongly that the
+program’s greatest impact was on their child’s self-respect, and on other themes such as
+parent-child relations, and improved attitudes toward school. The pilot study was used to
+hone interview questions and frameworks for coding responses and outcomes in the current
+study. However, the outcomes are limited in terms of their generalizability, due to the small
+sample size, lack of a control group, and uniqueness of the profiles of students who are both
+gifted and learning disabled.
+31
+The current phase of assessment reflects, therefore, a final phase of the formative
+evaluation of this curriculum. That is, this study focused on the immediate (e.g., 1 hour to 1
+week) or short-term (e.g., 1 week to 6 months) cognitive, psychosocial, emotional, and/or
+behavioral impact of an intervention for a well-defined population. The study thus expanded
+and developed the pilot study in several ways. First, the sample (218 students) was much
+larger, and was comprised of diverse students (i.e., students of all ability levels and learning
+styles, including students with exceptional needs) from regular education classrooms.
+Second, a control group was used, and classrooms were randomly assigned to treatment or
+control group situations. Third, because a “central question (of current research) is how
+effective are prevention programs under ‘real world conditions’” (Greenberg, 2004, p. 8),
+regular classroom teachers were trained in program implementation, and implemented the
+program in their own classrooms. Fourth, a blind coder was used to review qualitative
+interviews to first surface students’ and teachers’ experiences of the program, before
+thematic analysis took place by the author. This allows outcomes related and not related to
+self and social awareness and respect to be surfaced directly from the data, and reliability
+measures to be taken. Finally, quantitative measures were included in addition to the
+qualitative measures to triangulate the data.
+The methodology for this study parallels common practice in the field of SEL
+program evaluation (e.g. Greenberg, Kusche, Cook, & Quamma, 1995). This involves pre
+intervention/program delivery and post intervention measurement processes using both
+qualitative and quantitative measures. A quasi-experimental control group pretest-posttest
+design was used. To address the research questions, there is no choice but to adopt a quasiexperimental design. One of the realities of program adoptions in school districts is that these
+32
+decisions are driven by district policy and not by evaluators interested in determining the
+effect of a particular program or intervention. As a result, evaluators, by and large, cannot
+control how students and teachers are assigned. This reality makes experimental design
+nearly impossible and forces evaluators to use quasi-experimental design at best (Slayton &
+Llosa, 2005). Statistical methods for control of these nesting effects were used, and will be
+discussed in a later section.
+A number of experts in the field of prevention science have suggested that program
+evaluations be directed by recent theory and research in children’s social and emotional
+development (Schonert-Reichl et al., 2006). In this methodology, the underlying theoretical
+framework of the program was used to determine the measures/variables to be studied (e.g.
+self and social awareness and respect), and explore the transformative nature of the program.
+Reviews of evaluations of prevention programs in the area of social competence promotion
+suggest the importance of examining multiple dimensions of competencies and behaviors
+(Graczyk et al., 2000; Schonert-Reichl et al., 2006). Thus, self and social awareness and
+respect (4 factors of SEL), and class climate were investigated, in addition to other variables
+students perceive as important outcomes of diverse classrooms, and the RD program, as
+surfaced by thematic coding analysis.
+Design
+Debate has raged over the benefits of qualitative and quantitative research in the field
+of program evaluation for many years (Slayton & Llosa, 2005). However, recent research has
+indicated that a combination of the two methods may be most powerful (Ercikan & Roth,
+2006; Smith, 1994), and many authors now argue that, in addition to the use of quantitative
+methods, scientifically based research designs should employ qualitative methods when the
+33
+goal of the research is to evaluate program effectiveness (Patton, 1987). Elias and others have
+identified the need for a new model of researcher they term “a participant conceptualizer and
+praxis explicator” (as cited in Greenberg, 2004, p.10). To conduct program evaluation
+research, Greenberg argued that multiple methodologies are needed, including naturalistic
+and descriptive studies in addition to experimental trials.
+Quantitative research can clearly indicate whether there are changes from pre to post
+intervention. Qualitative methods have the power to explain why and how program outcomes
+were or were not attained, as they allow researchers to eliminate potential explanations for
+differences between the treatment and comparison groups (Rossi, 1994). A second benefit of
+using rich narrative data can be that they add significantly to the usefulness of the findings
+for policy-making purposes (Slayton & Llosa, 2005). Finally, it seems misdirected to talk
+about program outcomes related to students’ feeling about themselves without directly
+speaking to them; children’s insights can help us to understand the effects and evaluate the
+effectiveness of SEL programs (Hennessy, 1999). As Cook-Sather (2002) poignantly states,
+“There is something fundamentally amiss about building and rebuilding an entire system
+without consulting at any point those it is ostensibly designed to serve” (p. 3). In the study
+herein, therefore, several dimensions of social and emotional learning were examined both
+quantitatively and qualitatively, including class climate, self-awareness, self-respect, social
+awareness, and respect for others. Other themes that emerged from content analysis of the
+interviews are also discussed.
+34
+Participants and Settings
+School District
+Participants were drawn from a large suburban public school district in British
+Columbia, Canada, in which the author teaches part time. The district serves 22,512 students
+from grades K-12. The district supports a full inclusion model (based on the BC Ministry of
+Education definition) for elementary students – all students attend their neighborhood school
+and are enrolled in regular education classrooms. Support services are provided in school and
+in class to facilitate inclusion. Students in the schools speak more than 57 languages, and
+more than 60% of the student population is learning English as a second language.
+Schools
+Five elementary schools participated in the study (see Table 1). All schools enrolled
+students from K- Grade 7. Treatment group classes and control group classes were located in
+separate schools, to avoid transference of program materials/ideas. Two schools served as
+treatment schools. Teachers in the schools participating in the study supported each other
+through co-planning and discussion. Three schools served as control group schools, and no
+intervention was made in these schools between pre and post testing.
+35
+Table 1
+School Demographic Data
+Group School # Number of
+classrooms
+/teachers
+involved
+Total
+Student
+Population
+ESL % SES (%
+Below
+Poverty
+Line)
+Treatment 1 3 300 58% 26.4
+Treatment 2 2 403 67% 33.2
+Control 3 1 300 48% 26.4
+Control 4 2 507 72% 19.3
+Control 5 1 385 56% 33.2
+Teachers. Teachers involved in the study ranged in experience, age, and education
+level (see Table 2).
+36
+Table 2
+Teacher’s Demographic Data
+Teacher # Age Experience Education Level
+1 54 15 Masters
+2 60 36 Bachelors
+3 45 8 Bachelors
+4 59 19 Post Baccalaureate
+5 38 6 Bachelors
+6 56 18 Masters
+7 32 5 Bachelors
+8 59 24 Post Baccalaureate
+9 41 2 Bachelors
+Students. Two hundred and eighteen students from grades 4-7 took part in the study
+(See Table 3 for demographic information). Forty-nine and a half percent were boys, while
+50.5% percent were girls. Mean age was 11 years. Students for whom English was a second
+language made up 67.4% of the sample, which is common in the Lower Mainland of British
+Columbia. The dominant languages spoken were Asian in origin; for specific breakdowns of
+first language spoken, see Table 3. The treatment group consisted of 121 students, while the
+control group had 97 students. Chi square analyses were used to investigate any group
+differences, including differences in gender, age, first language, and ability. A significant
+difference was found for grade (X2 [3,N=218]=7.754, p<.051), with the treatment group
+37
+having more grade fives, while the control group had more grade sixes. All subsequent
+analyses controlled for grade.
+38
+Table 3
+Student Demographic Data
+Category Treatment Group Control Group Total
+4 34 23 57
+5 28 12 40
+6 18 26 44
+Grade
+7 41 36 77
+9 years 34 22 56
+10 years 28 13 41
+11 years 18 26 44
+12 years 40 36 76
+Age
+13 years _1 0 _1
+Gender Male 59 49 108
+Female 62 48 110
+English 45 26 71
+Chinese 56 44 100
+Punjabi 1 4 5
+Tagalog 11 8 19
+Spanish 1 2 3
+First
+Language
+Other 7 12 19
+Ability Exceptional Needs 20 16 36
+Typical 101 81 182
+39
+Participation in the study was high (see Table 4 for specifics), with 94% of eligible students
+participating. Students who had moderate to severe cognitive disabilities, or who had not
+developed sufficient proficiency in the English language to take part in the programs’
+activities and complete measurement scales and interviews were excluded from the study.
+Table 4
+Participation Rates by Classroom
+Classroom # Grade Level Group Participants
+/Eligible
+Participants
+% Participation
+1 7 Treatment 22/26 85
+2 4/5 Treatment 23/23 100
+3 5/6 Treatment 24/24 100
+4 4/5 Treatment 24/27 89
+5 6/7 Treatment 28/28 100
+6 6/7 Control 25/26 96
+7 6/7 Control 22/25 88
+8 5/6 Control 27/27 100
+9 4 Control 23/25 92
+Total Participation 218 94
+40
+The Intervention
+Training Procedures
+ SEL programs, no matter how well developed, researched, and acclaimed, can only
+be successful with appropriate implementation. When important program components are not
+delivered, or are altered, or when pacing or affective quality is changed, program outcomes
+can be affected. Previous research has indicated five components of successful
+implementation: (a) the degree to which program components were delivered as prescribed
+(adherence), (b) the frequency and duration of the program administered (dosage), (c)
+qualitative aspects of the program delivery (e.g. content, affective quality), (d) participant
+responsiveness, and (e) program differentiation - the extent to which only the experimental
+group received the intervention, (Domitrovich & Greenberg, 2000).
+Few studies in the literature have throughly investigated implementation. In their
+review, Domitrovich and Greenberg (2000) found that only 21% of studies investigated more
+than one dimension of implementation, despite linking variability in implementation indices
+to program outcomes. Dane and Schneider (1998) differentiated between strategies that
+promote integrity and implementation, and procedures that verify them. For instance,
+creating a manual with clear instructions and training of program deliverers promotes
+implementation, while meeting with deliverers throughout the intervention period and having
+them keep records of adherence, dosage, etc. verifies implementation.
+To promote program implementation, intervention teachers attended a three hour
+training workshop with the author and were provided with a manual detailing lesson plans,
+extensions, etc. (see Appendix A). Weekly consultation and observation meetings were held
+on an individual basis, intended to enhance the quality of implementation through modeling,
+41
+coaching, and providing ongoing feedback regarding program delivery. At times these
+meetings were one to one after school, and at other times, took place in the classroom with
+students present, during RD lessons. At these times, the author co-taught lessons, gave
+feedback to the teachers, or clarified ideas for students when requested to do so.
+To verify implementation, teachers were asked to keep records of any changes they
+made to lesson plans, dosage, their feelings about each section/lesson, and the reponses of the
+children. Teachers also kept records of the extensions of the program, for instance, the
+frequency of use of the language of multiple intelligences across the curriculum, references
+to program lessons, etc. Finally, teachers were surveyed at the end of the program to
+ascertain their feelings about the RD program, and the extent to which it was extended
+throughout their teaching (see Appendix B).
+Program Procedure
+ Quality SEL programs have been found to share several common characteristics.
+They view students as active learners, and employ interactive techniques such as group work,
+discussions, cooperative learning, and role-plays (Graczyk et al., 2000). The RD program
+involves nine introductory lessons in which students explore their own learning strengths and
+challenges, and those of others in their community (see Appendix A). They work both
+individually and in small groups on tasks that require a variety of intelligences/approaches,
+and discuss how their strengths, and the strengths of others, are reflected in task outcomes.
+They complete a survey which identifies their strengths and challenges by intelligence and
+explore career options related to their profile. They engage in role-plays and discussions
+concerning what the world would be like without different types of diversity. Students also
+study brain anatomy to gain an understanding of how different learning profiles all reflect
+42
+strengths in different aspects of brain function, and are equally "smart" and important to a
+community's survival. All of these lessons are in keeping with British Columbia Ministry of
+Education “Health and Career Education” (2006) learning outcomes for these grade levels,
+and thus posed no ethical risk to participants. Teachers were encouraged to use the
+vocabulary and framework of multiple intelligences theory throughout their curriculum to
+connect this program to the everyday life of the classroom. Resources were provided to
+teachers to facilitate their ability to plan science, social studies, math, and literacy activities
+using an MI framework.
+Data Collection
+The school district in which the study was conducted has a formal process for
+application to conduct research. Once district permission was received, principals were
+approached at a meeting to recruit volunteers to participate in the study. Five principals
+volunteered. Teachers within these five schools were then presented with the opportunity to
+take part in the study at school based staff meetings. Nine teachers volunteered, and all were
+included in the study. Classes were divided into upper intermediate (grade 6/7) classes, and
+lower intermediate (grade 4/5) classes, and then randomly assigned to treatment or control
+groups. Following this, parental consent and student assent were sought and received.
+Teachers were asked to send home and collect consent forms from parents (using active
+consent). The researcher then introduced the study to the students, and assent was sought in
+writing. Thus teachers, parents, and students were all asked to actively give consent/assent to
+the study. As schools are often reluctant to have students placed in non-treatment groups, it
+has been suggested that analyses that utilize a phase-in of a program over time may lead to
+more acceptable design models for collaboration between schools and researchers
+43
+(Greenberg, 2004). Thus, subsequent to the end of data collection, teachers from the control
+group classrooms were trained in the RD program, so as not to deny any of the participants
+its benefits.
+Each child was individually assessed twice, pre- and post-intervention, over a two
+month period. Multiple measures, including qualitative and quantitative measures, were used
+to assess all five variables (self- awareness, self-respect, social awareness, respect for others,
+and class climate) (see Appendix C). Completion of these scales took approximately an hour
+each time (i.e., one hour pre-intervention, and one hour post-intervention).
+Measures
+Many of the quantitative scales used were created and/or utilized by the Child
+Development Project (CDP), a consortium involved in designing and assessing SEL
+programs (scales can be attained from their website, http://www.devstu.org/cdp/).
+1. Scales of Self-Awareness:
+a. The Revised Self-Consciousness Scale, (Scheier & Carver, 1985) includes
+sub-scales on private and public self-consciousness. This measure has been
+used in a wide variety of studies, and reports internal consistency of .75 and
+.84, respectively. Test-retest reliability was also reported at .76 and .74,
+respectively. The private self-consciousness scale focuses on children’s
+“tendency to think about and attend to the more covert, hidden aspects of
+self…for example, one’s privately held beliefs, aspirations, values, and
+feelings.” (p 687). Items such as “I generally pay attention to my feelings” and
+“I’m constantly thinking about my reasons for doing things” measure
+children’s inner awareness and propensity for reflective thinking. Public self-
+44
+consciousness refers to an awareness of those aspects of self observed by
+others and the import given to how one is perceived by others. Items such as
+“I care a lot about how I present myself to others” and “I’m concerned about
+what other people think of me” are used to assess students’ degree of
+reflectivity regarding the impression they create of themselves in social
+settings.
+2. Scales of Self-Respect:
+a. Two subscales of the Marsh Self-Description Questionnaire (SDQ) (Marsh,
+1992) were used to measure students’ self-respect. The Academic Self
+Concept Subscale was used to assess participants’ respect for their abilities
+and accomplishments in school. Reliability for this subscale was reported at
+.89. Items such as “I learn things quickly in all school subjects” and “I like to
+try challenging projects/activities” reflect students’ confidence and emotional
+involvement in an academic realm. In addition, the General Self Concept
+Subscale was used to measure students’ respect for their abilities and
+accomplishments outside of school. Reliability for this subscale was reported
+as .89. Items such as “I have a lot to be proud of” and “In general, I like being
+the way I am” reflect students’ acceptance of their strengths, achievements,
+and challenges in and out of school.
+b. In addition to the SDQ, items from the self-efficacy, emotional control, and
+relationships with peers subscales of the Resiliency Inventory (RI) (Song,
+2004), were used to assess students’ belief in their ability to achieve their
+goals, emotional management, and their sense of belonging within a social
+45
+network. Items such as “When there is a lot to think about or do, I can break it
+into smaller pieces and handle one thing at a time until everything gets done”
+and “I am popular among friends” reflect these factors.
+3. Scales of Social Awareness:
+a. The Perspective Taking subscale of the Interpersonal Reactivity Index (IRI)
+(Davis, 1983) was used to assess students’ awareness of others’ points of
+view. Reliability for this subscale was reported as .79. Items such as “I know
+when people are upset, even when they say nothing” and “It’s easy for me to
+understand why other people do the things they do” reflect students’ comfort
+with the skills involved in perspective taking.
+b. As well, the Compliance Goals subscale of the Social Goals Questionnaire
+(Wentzel, 1993) measures the import children give to others’ perspectives,
+with items such as “How often do you think about how your behavior will
+affect other kids? Reliability for this subscale was reported as .74.
+c. Finally, the Extrinsic Motivation scale (CDP) assesses the motivations behind
+children’s helping behavior. Children who help “Because I want to get a
+reward or praise from the teacher” are aware of how they are perceived by
+others, but are not empathically motivated. Internal consistency for this scale
+is reported as .68.
+4. Scales of Social Respect:
+a. The Empathic Concern subscale of the Interpersonal Reactivity Index (IRI)
+(Davis, 1983) was used to assess students’ concern for others and prosocial
+46
+behavior. Items such as “I often feel sorry for other children who are sad or in
+trouble” and “I try to understand how other kids feel before I decide what to say
+to them” reflect students’ empathic thinking and behavior. Reliability for this
+subscale was reported as .80.
+b. As well, the Prosocial Goals subscale of the Social Goals Questionnaire
+(Wentzel, 1993) was used to investigate the degree of thought and import given to
+setting prosocial goals. Items such as “How often do you try to be nice to kids
+when something bad has happened to them?” and “How often do you try to help
+your classmates learn new things?” reflect students’ empathic and helping
+behaviors. Reliability for this subscale was reported as .84. An additional item
+(“How often do you try to choose a partner with a different learning strength or
+language than you?”) was added to this scale to explore students’ willingness to
+work with diverse others.
+c. The Altruistic Behavior subscale of the Intrinsic Prosocial Motivation scale
+(CDP) was used to assess the degree of students’ prosocial motivation behind
+their helping behaviors. Reliability for this subscale was reported as .82.
+d. Seven items from the CDP’s classroom supportiveness scale were adapted by
+changing the prefix “In my class kids…” to “I” to assess students’ willingness
+to work with diverse others, be supportive and encouraging, and take pride in
+the achievements of others. For instance, the item “In my class kids care about
+my work as much as their own” was converted to “I care about my
+classmates’ work as much as my own”.
+47
+e. Finally, the “Acceptance of Outgroups” scale (CDP) was used to assess
+students’ attitudes towards people different from themselves. Reliability for
+this scale was reported as being between .81-.85.
+5. Scales of classroom climate
+a. To assess changes in classroom climate, the CDP –Student Autonomy and
+influence in the classroom and Classroom supportiveness and safety subscales of
+the “Sense of school as a classroom community” instrument was used. This scale
+explores students’ perspectives on the degree of student input and autonomy
+available in their classroom, and their feeling of safety and supportiveness as
+defined by such factors as the presence of respectful interactions, and helping
+behaviors, the feeling of caring, and the degree to which the learning community
+shared vision and goals. Reliability for these subscales was reported as .81 for the
+Student Autonomy and influence in the classroom subscale and .85 for the
+Classroom supportiveness and Safety subscale. The scale has been shown to be
+strongly correlated with observational measures of student supportive and friendly
+behavior (r = .60, p < .001), and student spontaneous prosocial behavior (r = .61,
+p < .001) (Battistich, Solomon, Watson, & Schaps, 1994).
+b. In addition, the Global Portrait of Social and Moral Health for Youth
+(GPSMHY) (Davidson & Kmelkov, 2006) scale was used to assess students’
+attitudes and behaviors relating to valuing diversity, and the extent of shared
+vision and goals present in their classroom. Items such as “Kids here do not talk
+to or include those who are different” and “Kids believe that working together,
+they can bring about a change in their school or community” are scored on a 5
+48
+point scale from completely disagree to completely agree. Reliability for this scale
+is reported as .73.
+c. Finally, the “Louvain Loneliness Scale for Children and Adolescents”
+(Marcoen, Goossens, & Caes, 1987) was used to assess the degree of
+belongingness/alienation and loneliness students experience in their classroom
+before and after the RD program. Reliability for this scale was reported as .87.
+6. Interviews were conducted pre and post intervention regarding participants’
+experiences of self and social awareness and respect and experience of the program (post
+intervention), with a targeted sample. This sample of participants was chosen to represent
+gender and age/grade balance, and a subset of students with learning disabilities and
+recent immigrants for selective analysis. These interviews took several forms:
+a. In the initial interview, a semi-structured interview exploring students’
+experiences of diversity and respect was conducted (see Appendix D). As well, a
+case study/scenario depiction (e.g., a scenario of a student who struggles to read)
+was used with questions that focus on perspective taking ability (social
+awareness), attitudes to diverse others, and empathy (respect for others) (see
+Appendix E).
+b. Post intervention, a semi-structured interview exploring targeted students’
+experiences of diversity, respect, and the RD program was undertaken (see
+Appendix D). As well, a second case study/scenario depiction was utilized (see
+Appendix E).
+Teachers were also asked to complete the aggressive with peers (alpha = .89-.92),
+excluded by peers (alpha = .93-.96), and prosocial with peers (alpha = .91-.92) subscales of
+49
+The Child Behavior Scale (Ladd & Profilet, 1996) to triangulate children’s self-reports
+related to respect for others and classroom climate with teacher observations of children’s
+behavior. This “multiple informant strategy” (Caprara & Pastorelli, 1993, p.19) has become a
+common framework for research in SEL and child behavior.
+50
+CHAPTER 3
+Results
+Qualitative Student Data
+Interviews were conducted by a research assistant who was both a practicing teacher
+with students of this age, and a graduate student in Education. Interviews were conducted in
+the students’ home schools during school hours. Interviews were then transcribed verbatim.
+Responses to interviews were initially coded by this same research assistant, who was
+familiar with the process of thematic content analysis, but unfamiliar with the goals of this
+study. Subsequently, the research assistant was given the operational definitions of the five
+dependent variables, and asked to look for comments related to these variables. The author
+then coded the same interviews thematically, looking for content related to self-awareness,
+self-respect, social awareness, respect for others, and any other themes that emerged. These
+categorizations of statements from students related to the five themes were then compared to
+those surfaced by the research assistant, to ensure reliability. Reliability was calculated for a
+sub-sample of ten interviews, achieving 92% agreement. As quantitative data revealed no
+significant differences in outcomes for students with learning disabilities or for whom
+English is a second language, students responses were coded together as coming from a
+single pool.
+Quantitative Student Data
+Data were examined using a process recommended by Hair, Anderson, Tatham, and
+Black (1998). Initially, negative items were recoded. Data from the scales for each variable
+were then aggregated to assess changes in class climate and self and social awareness and
+51
+respect pre and post intervention. Reliability was computed for each scale; all scales had
+reliability (coefficient alpha) greater than .7 (see Table 5).
+Table 5
+Scale Reliability Coefficients
+Scale Reliability (Pretest) Reliability (Posttest)
+Revised Self-Consciousness Scale .79 .83
+Marsh Self-Description Questionnaire .92 .90
+Resiliency Inventory (RI) .90 .90
+Interpersonal Reactivity Index (IRI) .91 .93
+Social Goals Questionnaire .91 .91
+Acceptance of Outgroups .88 .88
+Sense of school as a classroom community:
+Student autonomy and influence in the
+classroom
+.80 .87
+Sense of school as a classroom community:
+Classroom Supportiveness, Safety
+.81 .85
+Global Portrait of Social and Moral Health
+for Youth
+.70 .70
+Louvain Loneliness Scale for Children and
+Adolescents
+.91 .92
+The Child Behavior Scale .79 .84
+52
+The five dependent variables studied are all conceptual groupings. For instance, selfawareness is understood theoretically to be a combination of factors such as an awareness of
+how one is perceived by others, emotional awareness, reflective thinking, etc. (see Appendix
+I for detailed information). Similarly, self-respect includes such attitudes and skills as
+accepting one’s strengths and challenges, taking pride in accomplishments, being
+emotionally involved in school, and seeking help when appropriate. Thus it was expected
+that, statistically, each of the five dependent variables would be composed of several subfactors that loaded onto the main factor. A factor analysis was conducted, and items from
+each conceptual grouping were loaded onto a single factor to determine if they were, in fact,
+related. Each of the five main factors explained from 30-50% of the variance, indicating a
+significant single factor for each aggregated variable, in addition to several smaller, subfactors, as would be expected from the theoretical framework underpinning the study.
+Following this, scales were aggregated (i.e. the items of all scales for each dependent
+variable were combined into a single measure) and reliability coefficients calculated to
+determine whether scales correlated with each other, as a second measure of relationship
+between the scales/factors. Alpha reliability scores for all five aggregated scales were above
+.7 (see Table 6).
+53
+Table 6
+Aggregated Scale Reliability Coefficients
+Aggregate Variable Reliability Pretest Reliability Posttest
+Self-Awareness .79 .83
+Self-Respect:
+ SDQ
+ RI
+.94 .93
+Awareness of Others
+ IRI
+ SGQ
+.88 .89
+Respect for Others
+ IRI
+ SGQ
+ Classroom
+Supportiveness
+ Acceptance of
+Outgroups
+.94 .94
+Class Climate
+ Classroom
+Supportiveness
+ Student Autonomy
+ GPSMHY
+ Louvain
+.77 .79
+54
+Histograms were used to check for a normal distribution, and all data fit this criterion.
+Group means were then checked for any pretest differences in terms of demographics and
+pretest composite scores. As mentioned in the previous chapter, chi-square analyses showed
+no pretest group differences for sex, age, number of students with exceptional needs, SES, or
+ESL level, but did show a significant difference for grade level. Thus all subsequent analyses
+controlled for this factor.
+Between groups differences on pretest scores were not significant (Table 7).
+Table 7
+Comparison of Pretest Scores across Treatment Groups
+Aggregate Variable F Significance level
+Self-Awareness 1.703 .193
+Self-Respect 2.104 .148
+Awareness of Others 1.373 .243
+Respect for Others .817 .367
+Class Climate .609 .436
+Missing data were then examined for patterns; none were found by individual or by
+item/scale. There are many arguments regarding the best ways to deal with missing data
+(Hair et al., 1998). For this reason, analyses were run twice, first with complete cases only,
+and then using imputation for missing data. In the case of the imputed analyses, missing data
+were replaced with the mean for that individual student on the scale involved.
+55
+As the dependent variables were aggregated, a principal components analysis was used to
+calculate factor scores for each of the five dependent variables, providing weighted scores for
+each. Using these weighted scores, a repeated measures MANCOVA was then computed
+using complete cases only, controlling for grade, with treatment group, sex, and ESL status
+and interactions examined, F (5, 141) = 8.88, p =000. A second repeated measures
+MANCOVA was then computed using imputed means and principal components, controlling
+for grade, with treatment group, sex, and ESL status and interactions examined, F(1, 209) =
+23.244, p =.000. Finally, a MANCOVA was computed using a complex plan to control for
+nesting effects , F(1, 209) = 20.575, p =000. These results were all significant at the .01 level,
+thus demonstrating that the nesting of students in classrooms, and classrooms in schools, did
+not significantly impact results. Thus, the reported values are from the second (imputed
+means) MANCOVA, as it allowed for the greatest power and a repeated measures analysis
+(see Table 8).
+Table 8
+MANCOVA Results
+Aggregate Variable df F partial η
+Overall 5,204 14.267* .23
+Self-Awareness 1,209 23.244* .10
+Self-Respect 1,209 48.635* .17
+Awareness of Others 1,209 23.974* .08
+Respect for Others 1,209 32.817* .13
+Class Climate 1,209 42.411* .13
+* = p<.01
+56
+Qualitative Teacher Data (Implementation and Program Effects)
+As implementation data were collected from treatment teachers only (n=5), data were
+analyzed by means of descriptive statistics only, and a thematic analysis completed of
+teachers’ comments at the end of the program.
+Quantitative Teacher Data (Student Behavior)
+A similar process was undertaken for teacher data as was done with student data.
+There were no missing data. Thus, a principal components analysis was used to calculate
+factor scores. Using these weighted scores, a repeated measures MANCOVA was then
+computed controlling for grade, with treatment group, sex, and ESL status and interactions
+examined.
+These methods of analyses were conducted to allow for evaluation of the efficacy of the
+program; guide future research; and lend direction to the program’s refinement in an effort to
+support the social and emotional development of diverse students.
+Student Experiences in Diverse Classrooms
+Question #1 – “How aware of their own and others’ learning and social/emotional
+experiences are intermediate students in inclusive, diverse classrooms?”
+Before the program began, students were interviewed to explore their understanding
+of self and social awareness, and their personal experiences in diverse classrooms. Students
+supported many of the definitions in the extant literature related to self-awareness – they
+explained it primarily as being related to recognizing emotions, and being aware of how they
+are perceived by others. They spoke of a person who was aware of how they were perceived
+by others as “caring about what you do, your actions” (grade 6). Many students talked about
+the effects of bullying as illustrative of their emotional awareness. “If somebody hurts you,
+57
+your heart, you feel like broken in some way” (grade 6). Students also associated awareness
+with respect. Several students commented that one had to be a reflective, self-aware person to
+be respectful of self and others because “respect comes from your inner body, in your mind,
+because you think about it” (grade 4).
+The schools in which these students were enrolled were very multicultural, so it is not
+surprising to find that students discussed diversity and awareness of others most often in
+cultural terms, rather than in terms of abilities, challenges, or affinities. For example, “There
+are a lot of people from different places around the world” (grade 5) and “lots of different
+people in my class have different cultures” (grade 7). Perspective taking was rarely
+discussed, except in the case of helping behaviors and avoiding negative interactions, such as
+“you help but don’t do it for them” (grade 5) and “you don’t go into other people’s business
+and boss them around” (grade 7).
+Question #2 – “How is respect for self and others experienced/demonstrated by students in
+intermediate inclusive, diverse classrooms?”
+Students confirmed many of the factors associated with self-respect and respect for
+others in the literature, and also added some interesting qualities of their own. Again,
+students did not refer to the concepts of strengths and challenges, but instead talked about
+“being positive” (grade 7) and “confident” (grade 7). One student defined self-respect as “I
+had courage” (grade 5); another as “I am proud of myself” (grade 6). Students defined
+resiliency in terms of perseverence. “You don’t put yourself down because you have done
+something wrong. You’re trying to fix your mistakes and go back and try to improve” (grade
+6). Several students referred to self-respect as avoiding self-destructive behaviors such as
+“not putting myself down” (grade 5) and “not doing bad stuff with yourself” (grade 6).
+58
+Students also added a new aspect of a youthful definition of self-respect not discussed
+in the literature. Interestingly, given the current concern about childhood obesity and
+dropping physical activity levels, students discussed healthy living as an aspect of selfrespect. They discussed taking care of yourself physically, such as eating healthy foods and
+exercising. One student remarked “I think I respect myself because I work out everyday. I
+have good hygiene” (grade 7). Students also commented that someone who has self-respect is
+independent, or does not just follow the crowd; instead, they “make their own choices”
+(grade 6).
+Students had a lot to say about respect for others. Again, students confirmed many of
+the factors associated with respect for others in the literature, but also added some unique
+interpretations. Students spoke of being respectful as showing empathy and kindness. “You
+respect others feelings” (grade 4) and “you are kind to them” (grade 5). The multicultural
+emphasis continued in their discussion of valuing diversity as an aspect of respect for others.
+Students talked about attending school with students from other countries and cultures as
+being an opportunity. “You can learn from different cultures; people think differently and
+that’s a good thing” (grade 6) and “it’s better with different – you get to learn from others”
+(grade 4). A truly respectful person, one student commented, “makes friends with someone
+they don’t normally talk to” (grade 6). Students did not refer to diversity in terms of abilities
+and interests except in one student’s case, who spoke of a classmate with autism and said,
+“You shouldn’t make fun of her” (grade 4). As before, students referred frequently to the
+absence of negative behaviors as defining respect for others. You are respectful when “you
+don’t hurt others, put them down, touch their stuff, etc.” (grade 4).
+59
+Students also added some interesting insights into what respect for others looks like
+in the pre-teen years. They talked about issues such as fairness (a respectful person treats
+others fairly) and admiration – respecting someone means you “think someone else is good at
+something” (grade 6). Respectful people, they said, are “friendly” and “share.” Students also
+repeated a lot of definitions from school settings. Being respectful means you “listen,” “pay
+attention,” “raise your hand,” “don’t distract others, etc.” Students also referred to respectful
+people as having good manners; “be polite.” Interestingly, many students linked respect for
+others with self-awareness and respect. A respectful person, they said, has a conscience. “My
+heart tells me to say I’m sorry” (grade 5) and knows “being respectful is a choice, and I
+choose to be respectful” (grade 6).
+Formative Evaluation of the RD Program
+Question #3 – “Is the social and emotional development of students in diverse elementary
+classrooms facilitated by Multiple Intelligences curriculum and teaching, as measured by
+students’ self and social awareness and respect?”
+Overall MANCOVA results indicated significant differences post intervention between
+treatment and control groups, F(5, 204) = 14.267, p=.000, with treatment group students
+increasing overall SEL scores, and control group students decreasing. This pattern of
+decreasing scores for control groups (i.e., students who have had no intervention for SEL), is
+commonly found in the literature (Conduct Problems Prevention Research Group, 1999).
+Partial η for this MANCOVA was .23, which is considered to have “practical significance”
+in social sciences research (Barnett, 2008). According to Cohen (2003), large effect sizes are
+rarely found in education; small to moderate effect sizes predominate (see for instance,
+DuBois, Holloway, Valentine & Cooper, 2002; Durlak & Weissberg, 2007).
+60
+Univariate tests were then used to determine specific relationships between treatment
+groups and the five dependent variables, in an effort to answer the following questions.
+1. Is there a significant difference in students’ self-awareness and respect following an
+introduction to multiple intelligences theory and individual and group demystification
+regarding the value of diverse learning profiles?
+a. Quantitative Student Data. Results indicated significant differences in the
+change from pre to posttest scores between treatment and control groups for
+both self-awareness, F(1, 209) = 23.244, p =.000, partial η = .10, and selfrespect F(1, 209) = 48.635, p =.000, partial η = .17. However, these results
+were opposite in direction. Students in the treatment group decreased in selfawareness, while students in the control group increased (Figure 1).
+Figure 1. Means for self-awareness by treatment group.
+However, students from the treatment group increased in self-respect, while
+students from the control group decreased (Figure 2).
+61
+Figure 2. Means for self-respect by treatment group.
+b. Qualitative Student Data. Students’ definitions and feelings of self-awareness
+and respect changed significantly following the intervention. When asked,
+“Did this program change the way you think about yourself?” students
+overwhelmingly replied yes, and went on to describe how exploring their
+strengths and challenges had impacted their sense of self. “It feels like I’m
+learning the inside of my body,” (grade 7) one student remarked. “It was
+enlightening – interesting to find out what our strengths and challenges were”
+(grade 6). Students noted that they had rarely thought about their learning
+profile before. “Before I was confused, like which way I am good at … I
+thought I didn’t know that much about myself. I felt good” (grade 7). They
+felt more comfortable and accepting of themselves. “I know my strengths and
+I know what I need to improve, and it’s ok” (grade 7). Several students
+commented that this new found knowledge had encouraged them to set goals,
+62
+take risks with their learning, and persevere through challenges. “You set a
+goal with your weakness and you challenge yourself” (grade 7); “it feels like I
+can think about my future and do some plans” (grade 7). Some students also
+expressed a greater comfort level with themselves and how others perceived
+them. “I felt like I could finally show people that I learn this way and not that
+way. I’m sort of proud of it. I’m a little more happy because these people
+know” (grade 4). Another student remarked, “I liked learning about the
+intelligences because it wouldn’t look bad if just I wasn’t good at this one
+thing” (grade 5). This sense of belonging, of not being alone, was mentioned
+on several occasions. “You feel like you’re not the only one, and it’s ok”
+(grade 4). Students felt they had become more confident and resilient in their
+sense of self “even when everyone else says you’re dumb you’re like just
+because I can’t do this doesn’t mean I’m dumb. I’m just as smart as them,
+even smarter” (grade 4). This confidence allowed students to become more
+comfortable with exposing their challenges and asking for help. “I know what
+I’m good at and what I need help in and there’s lots of people that could help
+me” (grade 6). Perhaps most succinctly put, “Like about myself, I can like,
+um, about the inside of my body…I can let it out” (grade 7).
+c. Qualitative teacher data. Teachers felt the program impacted students’ selfesteem and their understanding of their unique learning profile. “It is a good
+way for students to understand that just because they find certain areas of
+school work challenging, they are not dumb. In fact, they are all smart in some
+way – this builds their self-esteem.”
+63
+2. Is there a significant difference in students’ social awareness and respect following an
+introduction to multiple intelligences theory and individual and group demystification
+regarding the value of diverse learning profiles?
+a. Quantitative Student Data. Results indicated significant differences between
+treatment and control groups for awareness of others, F(1, 209) = 23.974, p
+=.000, partial η = .08, respect for others, F(1, 209) = 32.817, p =.000, partial
+η = .13 and class climate F (1, 209) = 42.411, p =.000, partial η = .13. In all
+three cases, scores for students from the treatment group increased, while
+scores for students from the control group decreased (Figures 3, 4, and 5).
+Figure 3. Means for awareness of others by treatment group.
+64
+Figure 4. Means for respect for others by treatment group.
+Figure 5. Means for class climate by treatment group.
+b. Qualitative Student Data. When asked whether the program “had changed
+how you think about others,” students articulated a variety of attitudes, skills,
+and knowledge gained through their experiences with the RD program that
+impacted their relationships with others. Students expressed a growing
+awareness of the different strengths and challenges experienced by their peers,
+“knowing that everyone learns differently than you – it makes me understand
+that there’s different smarts – everyone is smart in different ways” (grade 4).
+65
+This increased students’ awareness of the perspectives of others when facing a
+challenge they did not share; “I really understood how they felt to be like that,
+how it would be harder” (grade 4). This understanding, in turn, impacted their
+attitudes and behavior towards these peers. “I can get to know them and know
+what their strengths are and what are their weaknesses like that. So I didn’t
+bully them about that” (grade 7). One student described how this awareness
+had allowed him to initiate friendships with diverse others he might not have
+previously associated with. “I can like know their strengths and maybe I could
+be friends with them and stuff” (grade 5). Many students expressed how they
+had come to empathize with the diverse learners in their class. “Before when I
+saw someone act a little different I was like, I think they are a little weird but
+now after I’ve seen this, I realize they’re all the same as us, they just might act
+a little different cause they have challenges” (grade 7). Students developed
+empathy for diverse others. “You care for other people, and you think about
+their feelings” (grade 5). In particular, students expressed how the lesson
+about challenges associated with each intelligence had increased their
+empathy for people with disabilities. “I realized how hard it is for disabled
+people to live. A lot of people are special in their own way – I should have
+known that before” (grade 5). Students differentiated this from pity, however.
+“I don’t feel bad for them; it just taught me something so I know that
+everybody has strengths. It feels ok. It feels good” (grade 6). In fact, students
+learned to appreciate the value of diversity for their lives. “It made me realize
+how the world would be without the MIs and how difficult it would be for
+66
+people” (grade 7). “If you didn’t have different smarts, the world would be
+just like one thing and it would be a mess kind of” (grade 4). One student
+summed it up: “It’s good to have different” (grade 4).
+This attitude translated into behavior that affected students’ interactions
+and the class climate. Students talked about how they treated each other with
+respect. “They help you and help you get better in other subjects and they
+make you learn more” (grade 7). We “use our manners,” “share,” and “ask
+what’s going on, do you have any problems, what’s on your mind?” (grade 5).
+This also translated into a reduction of negative behaviors. “Before some
+people might make fun of them and then when they like listen to it they stop
+making fun of them” (grade 7). “It explained how other people with
+disabilities feel, so people won’t go ‘haha you’re blind! Ahh ha!” (grade 6). In
+fact, not only did negative behaviors reduce, positive support seemed to
+increase. “If you are being teased by other people, they might stand up for
+you, people tell them to stop”(grade 7), and “you just say that’s ok, you’ll get
+better next time and just try to make them feel better” (grade 6). Students also
+referred to a reduction in racist comments and attitudes. “You don’t talk
+behind their back…just because they are from a different country” (grade 6).
+Perhaps as a result of this understanding, students expressed a belief that
+they had developed a sense of community in the classroom. “We help, sit next
+to each other at lunch” (grade 5). “When they do something good, you respect
+them kind of” (grade 4). One student expressed this feeling, “Since I started
+talking, and started getting around, being partners and groups - I started to
+67
+learn more about how you have to work as a team, and um, to be good to each
+other” (grade 7).
+c. Quantitative Teacher Data. Teachers responded to two questions regarding
+program effects:
+i. “Generally, how do you feel now about the RD program?” on a five
+point Likert scale ranging from very negative (1) to very positive (5).
+Mean score for this response was 4.5.
+ii. “Did the RD program have a positive effect on the students in your
+class this year?” on a five point Likert scale ranging from “No, not
+positive” to “Yes, very positive.” Mean score for this response was
+4.0.
+In addition, teachers filled out the Child Behavior Scale (Ladd & Profilet,
+1996) for each student in their class, pre and post. Results indicated that teachers
+saw a significant difference in overall student behavior, F. (1, 209) = 4.07, p =.045,
+partial η = .11 with the treatment group increasing in positive behaviors and the
+control group demonstrating fewer positive behaviors. Specifically, there was no
+difference between groups in aggressive behaviors. However, prosocial behaviors
+increased for students in treatment classes, and decreased for students in control
+group classes, F(1, 209) = 5.15, p = .028, partial η = .15. As well, students in
+treatment group classes were less excluded by peers F(1, 209) = 3.72, p = .05,
+partial η = .10, and increased in social responsibility F(1, 209) = 3.9, p = .05 partial
+η = .97. By contrast, students in control group classes experienced increased
+exclusion, and decreased in social responsibility.
+68
+d. Qualitative teacher data. In general, teachers were quite positive about the
+outcomes of the program. All five teachers involved commented they would
+have liked to go deeper and spend more time, but heading into Christmas
+holidays, report cards, etc. they felt pressed for time. Teachers felt the
+program had helped the students to become better acquainted with one
+another. “I liked the lesson with the community brain – it really helped the
+students to appreciate each other. My students enjoyed the program.”
+Teachers, like students, noted that there was a greater level of comfort in
+facing challenges. “They realized how everyone can contribute and it’s ok to
+ask for help.” “Students who had difficulties in specific areas, for example,
+math, felt comfortable asking for help.” Several of the teachers commented in
+particular on the final lesson – exploring disabilities associated with the
+different intelligences. They felt this lesson had really impacted students’
+understanding and behavior related to students with exceptional needs. “Most
+students began to think seriously about what it would be like to be severely
+challenged. They became more aware of our student with autism, and how
+they can try and include her.”
+Implementation
+Implementation for all five teachers was uniformly high. All teachers completed all
+nine lessons, and rated themselves as very engaged for each lesson with the exception of the
+optional lesson (#8), which they rated as “somewhat engaged.” Adaptations were minimal,
+such as adding an icon for each intelligence to the class poster, a sample flag for the class
+brain, etc. Teachers did not feel the need to adapt the actual lesson sequence at all, although
+69
+some noted they did a bit of review such as, “Let’s remember the nine intelligences,” “tell
+your partner what your strength was” at the beginning of the lessons to remind students of
+what they had done previously. All teachers made some effort to extend the program across
+the curriculum. All teachers reported extending the MI language and planning activities
+based on MI into language arts, social studies, mathematics, and personal planning curricula.
+However, the frequency of this extension varied widely, from “once or twice” to daily
+extension. CHAPTER 4
+Discussion
+Poet Carl Sandburg once said that the worst word in the English language is exclude.
+In recent years, the educational systems in both the United States and Canada have
+undergone significant educational reforms, including a movement toward inclusive education
+that places children of diverse racial, cultural and linguistic backgrounds, socio-economic
+status, and learning abilities together in regular education classrooms. If we are to include,
+however, we must build a compassionate learning community that recognizes the deeper
+needs of the human soul, including a sense of safety, of belonging, of being a part of
+something meaningful. This leads to lifelong understanding of who we are, why we’re here,
+and what we have to contribute (Palmer, 2007). Learning cannot be separated from living.
+The human mind cannot learn when overcome with a sense of anxiety, alienation, and stress
+(Grover, Ginsburg, & Ialongo, 2007). If we are to build a less violent and more
+compassionate world, we need to nurture a deeper sense of self in our children, while
+expanding their ability to empathize with and value diverse others (Miller, 1998/99).
+Palmer (1998/99) described a “system of education so fearful of things spiritual that it
+fails to address the real issues of our lives – dispensing facts at the expense of meaning,
+information at the expense of wisdom. The price is a school system that alienates and dulls
+us” (p. 6). At the same time, demands to prepare students for a global world require
+expanded curriculum, technological knowledge and skills, and higher literacy rates than ever
+before. Teachers struggle to balance the demands on time and energy, their own and that of
+their students. Thus, to combat alienation, growing rates of depression, substance abuse, and
+suicide (Modrcin-McCarthy & Dalton, 1996), and at the same time meet academic and
+71
+curricular demands, schools must begin to explore instructional frameworks that integrate a
+spiritual paradigm with academic learning.
+By spiritual, I do not mean religious. Rather, spiritual education means teaching to the
+heart and mind. It means exploring the deeper meanings of what we learn, connecting with
+the community we learn and live with, and coming to know ourselves. Palmer describes
+spiritual questions of a general nature, such as, “Does my life have meaning and purpose?”,
+“Do I have gifts that the world wants and needs?” and discipline specific questions, such as,
+“Why does a historian care about the ‘dead’ past?” and “Why does a biologist care about
+‘mute’ nature?” The answers always lie within our relationships to ourselves, our
+community, and our world. It is in this form of inquiry learning that compassionate
+classrooms evolve.
+In response to the need for a curriculum that addresses curricular and spiritual issues,
+the RD program was designed by teachers, for teachers. Developed initially in elementary
+school classrooms, it has now been implemented K-12. The intent of the program is to
+develop a compassionate classroom climate for diverse students, thereby supporting students’
+social, emotional, and academic learning. Research in the field of SEL has identified four
+interrelated constructs that, when developed, lay the foundation for students social and
+emotional learning (Greenberg et al., 2001; Zins et al., 2004). Self-awareness and self-respect
+allow children to feel confident in their abilities; set goals and persevere through challenges;
+and develop the emotional coping skills necessary to stay healthy in the adolescent years.
+They allow children to answer broad spiritual questions with a resounding, “YES!” Yes, my
+life has meaning. Yes, I have gifts that the world wants and needs. Yes, I matter. Awareness
+of and respect for others help children to develop social skills, build positive relationships,
+72
+and work cooperatively with diverse others – skills necessary for employability and personal
+well-being across the life span. They allow children to develop a sense of being a part of
+something bigger than themselves, of connection to a living community, a living planet. The
+purpose of this study was to hear directly from the children about their experiences in
+diverse, inclusive classrooms, and to explore the outcomes of the RD program relevant to
+these four social and emotional factors – to the development of the spirit.
+Self-awareness and Self-respect
+Before the program began, students defined self-awareness and self-respect in terms
+of emotional regulation and self-confidence in both academic and social situations. By the
+end of the program, students had broadened their definition to one that included more focus
+on a metacognitive awareness of how they learned, their strengths and challenges, and what
+they had to contribute to their learning community. This allowed students to feel more
+comfortable taking risks, because, after all, “everyone has challenges”, and to persevere
+through these challenges. Quantitative data indicated a significant increase in treatment group
+self-respect. In contrast, self-awareness decreased for treatment group participants. This
+finding appears to be contradictory to past findings regarding the association between selfawareness and self-respect (e.g., Weissberg et al, 2004). However, the current finding may
+have been due to the instrument used to measure self-awareness. This scale was a measure of
+“self-consciousness,” and included items such as “I’m always trying to figure myself out”,
+and “I usually worry about making a good impression.” While the authors hoped this would
+assess students’ reflective tendencies and awareness of how they were perceived by others,
+students appear to have interpreted this as a negative statement; that is, someone who
+“worries” about their appearance/image actually lacks self-respect or confidence. Interviews
+73
+conducted post-analyses confirm this interpretation. Thus, self-awareness, in this definition
+(i.e., being concerned about one’s image, feelings, or behavior) became negatively correlated
+in participants’ minds with self-respect, a result born out by the statistical findings.
+Metacognitive knowledge and skill are necessary precursors to students’ ability to be
+motivationally and strategically active participants in their learning (Zimmerman, 1990).
+Metacognition refers to the awareness that learners have about their general academic
+strengths and weaknesses and of the cognitive resources they can apply to meet the demands
+of particular tasks (Winne & Perry, 2000). Students appeared to enjoy the spiritual, inner
+exploration and discovering their identity as a learner during the RD program. They used
+words such as “thrilled”, “exciting” and “enlightening” to describe their experience. “It was
+very educating. I felt pretty thrilled. Because I’ve never heard of some of the things I
+learned” (grade 7). This development of students’ metacognitive knowledge, in the context of
+a safe environment in which all students are recognized as having strengths and challenges
+and both something to contribute and something to learn, is at the heart of the RD program.
+Students and teachers felt that students had increased in self-awareness and respect – a
+primary goal of the first four lessons of the RD program. When asked what the most valuable
+lessons were in terms of “changing how you think about yourself,” students pointed to
+learning about the intelligences and their learning profile. “I think it is so important that you
+see what your strengths and challenges are” (grade 5) and the lessons exploring what the
+world would be like without diversity “made me realize how the world would be without the
+MIs, and how difficult it would be for people” (grade 7). These two concepts appeared to
+give students the language for a metacognitive framework - “Now I know the scientific
+names” (grade 4) - which in turn allows students to plan their learning (e.g., I learn best this
+74
+way); regulate their emotional experiences (this is one of my challenges, it’s ok); and seek
+help when necessary (I need help with this, and I can help others with another task). Students
+develop an inner core, a sense of self that allows them to cope with moments of challenge in
+the present and hopefully into the future. When students believe in themselves, they are
+better prepared to deal with challenging subjects, difficult peers, exams and other anxiety
+provoking situations, even, yes, difficult teachers. As one student succinctly put it, “I learned
+more about my intelligence. So now for every other program around the school I think – if
+you know that you’re intelligent then nothing can get on you” (grade 4). Students came to
+believe in themselves and felt that their peers and teachers believed in them. They had
+learned to say yes.
+“Believing in someone is a concern of the spirit, and it matters in the classroom.”
+(Wesley, 1998/99).
+Awareness of Others and Respect for Others
+Ideally, preventative interventions help all students develop self-respect, while at the
+same time building positive relationships and social networks within a classroom learning
+community. In fostering a sense of interdependence amongst students, a sense of the
+classroom as a supportive community emerged. “We help each other in things that we are not
+that good at. We look at our community brain and if we are not that good at something but
+we see someone who is we go ask them for help but then they don’t say that we are not good,
+that we are dumb because they know we have strengths too” (grade 6). The classroom had
+become so safe, one student said, “If you are down you don’t have to like say it’s always my
+fault. You can talk to some people, talk about yourself. You can say ‘I suck at this’” (grade
+6).
+75
+Diversity in these classrooms became a positive contributor to the academic and
+social world. Students recognized the value of having classmates from a variety of cultures,
+and with a variety of learning strengths, together in a learning community. “I like it. We have
+different personalities, different languages, different sports, different intelligences, but inside
+we are all alike” (grade 7). Another student remarked, “Everyone thinks differently that’s for
+sure. Lots of people learn differently in different levels. But no one really pays attention to
+that now. It’s more of the personalities that count” (grade 7).
+When soul enters the classroom, fear drops away (Kessler, 1998/99). Students risk
+exposing the pain or the shame that might be judged as weakness or stupidity- “Like umm,
+like if you are down you don’t have to like say it’s always my fault. They can talk to some
+people, talk about themselves. Yeah, like they, for example I suck at this” (grade 5). Opening
+the window to the perspective of others, accepting what they thought shameful in themselves,
+students discover compassion and begin to learn about forgiveness “Don’t think to yourself,
+I’ve got such a bad mark on the test, I’m so stupid. Don’t think that” (grade 4). They develop
+a deep sense of connection to themselves, to others, and to their world – and experience a
+feeling of being known and understood (Kessler, 1998/99).
+Perhaps Jay, a grade 7 student with a learning disability and severe behavior
+problems, put it best. When asked what the most important thing he learned from the RD
+program was, he said, “The most important thing I have learned about was people. People
+such as me. How someone can shine a light on you even when you are in a dark place. How
+all people have something to contribute. Some kids believe that there is no hope in life. That
+they will always fail. But these children have never heard of hope for the better, of MI and
+76
+that there is something for you. I used to say that hope was a bunch of lying crap but I have
+seen now that there is hope in the world for people like me and others.”
+In “Resolving Ethical Dilemmas in the Classroom,” Rushworth Kidder (1998/99)
+describes how, after many years of asking people what the core, universal spiritual values we
+all share are, people inevitably reduce the list to five key terms: Compassion/Love,
+Honesty/Truth, Fairness, Responsibility, and Respect. He went on to say:
+Among educators, parents, and students, an agreement on core ethical values can:
+ Help build a common language
+ Help define a common purpose
+ Develop and maintain trust
+ Influence total school climate to enhance the teaching and learning goals
+ Provide the basis on which to nurture the spirit, extend the inspirational and
+holistic vectors, and create a deeper sense of meaningfulness. (p. 39 )
+The most predominant finding in the qualitative analysis rests in the ability of
+students of this age to reflect in profound and meaningful ways about their sense of self, their
+respect for others, and the influence of the world around them. Students made clear that the
+opportunity to explicitly engage in honest and open conversations about themselves, their
+peers, and life in an inclusive, diverse, learning community had significant impact on self and
+social respect “I guess I learned more about different people, how they feel, what goes on. It
+kind of felt a little different, we never talked about this before, but it was enlightening I
+would say. As it was interesting to find out what our strengths and weaknesses were. It sort
+of felt a little better to know that well that um it’s sort of makes you feel better that you are
+not the only one, and that you can understand other people” (grade 6).
+77
+Compassion is developed when we learn to value ourselves and others, to temper our
+judgements with understanding, empathy, care and concern. Giving students the language,
+opportunity, and support to reflect on self and others in a safe place can nurture and facilitate
+the development of a compassionate learning community where all students experience
+success both academically and socially. Many have commented on the inherent tension
+between diverse cultural values and public education – but as Kidder’s work clearly shows,
+few would argue with the desire to create and engender a compassionate, respectful attitude
+in our students, our teachers, and our schools.
+Strengths and Limitations
+The RD program uses a multiple intelligences framework to provide teachers and
+students with the language and conceptual basis to explore ethical and spiritual values that
+can lead to the development of a compassionate classroom climate. By using an educational
+framework such as MI, the program hopes to allow teachers to then connect students’
+learning in the RD program to the rest of the curriculum, and throughout the year. Many
+resources exist to support teachers in the use of an MI framework for curricular planning, but
+no such resource existed to outline its use for the development of SEL. The RD program is
+meant to fill that gap.
+A second strength of the study was the opportunity to hear the voices of the children
+themselves. Students had a lot to say about growing up in diverse, inclusive classrooms, and
+while they certainly mentioned the presence at times of bullying and conflict, for the most
+part, they were far more positive about their experiences than past research would indicate.
+It is hoped that this study will lead to further exploration regarding the outcomes of
+an MI / SEL framework. This study took place over a very short period of time, and being
+78
+before Christmas, teachers expressed frustration with the limited time they had to extend and
+supplement the curriculum. For the same reason, the ability of the author to mentor and
+support teachers, guide their delivery and extension, and follow up with students was limited.
+Effect sizes were small, perhaps as a result. After the study took place, the author worked
+with teachers to design science and social studies unit using an MI/RD framework. It would
+have been interesting to assess teachers’ and students’ feelings and performance related to
+these units. A more comprehensive study, beginning at the very start of the school year, and
+extending throughout the year and beyond, will shed light on the long term effects of this
+program. Further research is also necessary to explore academic outcomes, if any, of the RD
+program.
+As well, teachers in this study were a small group with support from the author and
+each other. They were also volunteers, and therefore a sample biased towards implementing
+an SEL program, hopeful about its outcomes, and with an interest in MI pedagogy. Without
+carryover into all areas of the curriculum, there is little point in implementing the RD
+program. Telling children that everyone is valuable regardless of their learning profile, and
+then teaching and assessing through only one intelligence, would most likely undo any
+positive results. Teachers, therefore, might require support to extend the RD program into
+their teaching of science, social studies, literacy, and numeracy. Further study regarding
+implementation, training, and their relation to outcomes is necessary, especially with regard
+to school or district wide implementation, where some teachers’ attitudes/expectations may
+be less positive, or teachers may feel less confident about their ability to implement/extend it.

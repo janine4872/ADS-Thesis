@@ -1,0 +1,664 @@
+The Effects of School-based Mindfulness Intervention on Executive
+Functioning in a Cluster Randomized Controlled Trial
+Maarit Lassander a
+, Mirka Hintsanenb
+, Sakari Suominenc,d, Sari Mullolae,f, Åse Fagerlundg
+,
+Tero Vahlbergh
+, and Salla-Maarit Volaneng,i
+a
+Faculty of Medicine, Department of Psychology and Logopedics, University of Helsinki, Helsinki, Finland; b
+Unit of
+Psychology, University of Oulu, Oulu, Finland; c
+Department of Public Health, University of Skövde, Skövde, Sweden; d
+Department of Public Health, University of Turku, Turku, Finland; e
+Faculty of Educational Sciences, University of
+Helsinki, Helsinki, Finland; f
+Teachers College, National Center for Children and Families (NCCF), Columbia University,
+NY, USA; g
+Public Health Research Programme, Folkhälsan Research Center, Helsinki, Finland; h
+Department of
+Biostatistics, University of Turku, Turku, Finland; i
+Faculty of Medicine, Department of Public Health, University of
+Helsinki, Helsinki, Finland
+ABSTRACT
+Executive functions (EFs) are essential for student’s learning and classroom
+functioning. The current cluster randomized controlled trial examines the
+effects of mindfulness intervention vs. active control program (i.e., relaxation)
+focusing on the main EFs (i.e., working memory, response inhibition, cognitive processing, cognitive flexibility and verbal fluency). A total of 131 students from 6th grade and 8th grade (median age 12 and 15) from four
+comprehensive schools participated. The schools were to equal shares randomized to intervention and active control groups, i.e., groups who underwent a 9-week mindfulness practice or relaxation program, respectively.
+Participants completed a cognitive test-package at baseline/pre-intervention, post-intervention at 9 weeks and follow-up at 6 months. Both intervention and active relaxation-based control groups improved on a majority of EF
+measures at both 9 weeks and 6 months. There was no significant difference
+between the mindfulness intervention group and the active control program
+in EFs.The current study suggests that mindfulness intervention and active
+control program do not differ in their effects to EFs, although both may have
+positive outcomes. Further research with both active and inactive control
+groups is needed to map the potential benefits of similar programs for
+cognitive functioning.
+ARTICLE HISTORY
+Received 13 June 2020
+Revised 21 September 2020
+Accepted 9 November 2020
+Introduction
+Cognitive functioning, in general, includes multiple mental abilities, among them learning, thinking,
+reasoning, remembering, problem-solving, decision-making, and attention. Executive functions (EFs)
+refer to higher cognitive functions, such as working memory, response inhibition, cognitive processing, cognitive flexibility, and verbal fluency. In other words, EFs allows us to act with purpose,
+especially in situations where a new, complex task is given, including problem-solving, planning,
+impulse control, flexible thinking, and generally directing attention toward the task at hand
+(Pennington & Ozonoff, 1996; Strauss, Sherman, & Spreen, 2006). Research on neurodevelopmentally sensitive processes in school-aged children has emphasized the importance of EFs
+in enhancing learning, social-emotional skills, and adaptive behavior (Anderson, V. A., Anderson,
+Northam, Jacobs, & Catroppa, 2001; Bradshaw, Goldweber, Fishbein, & Greenberg, 2012; Flook et al.,
+2010). A growing number of educational interventions aims to help students improve their EFs,
+CONTACT Maarit Lassander, maarit@lassander.net , 00540 Helsinki, Finland.
+Supplemental data for this article can be accessed on the publisher’s website.
+DEVELOPMENTAL NEUROPSYCHOLOGY
+2020, VOL. 45, NOS. 7–8, 469–484
+https://doi.org/10.1080/87565641.2020.1856109
+© 2020 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://
+creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the
+original work is properly cited, and is not altered, transformed, or built upon in any way.
+including mindfulness training. Mindfulness-based school programs have been found to promote
+students’ cognitive functioning and general well-being (Burke, 2010; Felver, Celis-de Hoyos, Tezanos,
+& Singh, 2016; Flook et al., 2010; Tan, 2016) while there is limited evidence of specific neurocognitive
+outcomes of mindfulness-based intervention compared with a similar control intervention. The
+present study will address this gap in research by examining an established mindfulness intervention
+compared to an active control program to differentiate between general and specific interventionrelated benefits for EFs.
+Mindfulness has been defined as a two-component model (Bishop, Lau, & Shapiro, 2004)
+consisting of 1) self-regulation of attention maintained in immediate experience, and 2) particular
+orientation characterized by curiosity, openness, and acceptance directed toward these experiences
+in the present moment (Lutz, Slagter, Dunne, & Davidson, 2008; Shapiro, Carlson, Astin, &
+Freedman, 2006). The repeated mindfulness practice is suggested to strengthen the ability to direct
+and sustain attention, thus having an indirect effect on EFs in general (Heeren, Van Broeck, &
+Philippot, 2009; Sedlmeier et al., 2012; Slagter et al., 2007). The existing studies on adults show
+mixed results, some have found positive effects of mindfulness-based interventions on working
+memory (Jha, Stanley, Kiyonaga, & Gelfand, 2010; Mrazek, Franklin, Phillips, Baird, & Schooler,
+2013) and improvements in cognitive flexibility (Heeren et al., 2009; Zeidan, Johnson, Diamond,
+David, & Goolkasian, 2010). Some studies have, however, suggested more nuanced and selective
+effects in awareness, e.g., improvement in object detection but not in attention or improvement in
+the attentional effort instead of ability (Anderson, Lau, Segal, & Bishop, 2007; Jensen, Vangkilde,
+Frokjaer, & Hasselbaich, 2012). A recent review found a small-to-medium effect (g = 0.34 [0.16,
+0.51]) of mindfulness meditation training in enhancing executive control (Cásedas, Pirruccio,
+Vadillo, & Lupiáñez, 2020), whereas a review on neuropsychological outcomes found no overall
+support for attention or executive function improvements (Lao, Kissane, & Meadows, 2016). Some
+independent practice is considered necessary for mindfulness intervention effects to appear among
+adolescents (Huppert & Johnson, 2010; Zenner, Herrnleben-Kurz, & Walach, 2014) even if the
+length of the practice can be distinctly shorter than among adults (5–10 min) (Meiklejohn et al.,
+2012; Zack, Saekow, Kelly, & Radke, 2014).
+Adolescence is a particularly relevant period for mindfulness-based neurocognitive interventions,
+considering the accelerated prefrontal development in youth (Anderson, V. A., Anderson, Northam,
+Jacobs, & Catroppa, 2001). Mindfulness training is hypothesized to activate the attentional networks in
+the prefrontal cortex (Sanger & Dorjee, 2015) lessen the detrimental self-focus in challenging situations (Beauchemin, Hutchins, & Patterson, 2008), and potentially help in making more balanced,
+informed choices (Bradshaw et al., 2012; Holzel et al., 2011). However, even with an increasing
+number of studies targeting neurocognitive mechanisms in children and adults (Flook et al., 2010;
+Moore & Malinowski, 2009; Schonert-Reichl et al., 2015), there are currently no studies that have
+measured the change in EFs after a school-based intervention, combining active control groups,
+comprehensive neurocognitive measures, and follow-up (Bradshaw et al., 2012; Chiesa & Serretti,
+2010; Tan, 2016). Moreover, the number of participants in the majority of studies that explore the core
+EFs and mindfulness is generally small (N < 100) (Schonert-Reichl et al., 2015; Wimmer, Bellingrath,
+& Stockhausen, 2016)
+In correlational studies, researchers have found a significant correlation between state mindfulness
+and working memory capacity among 12–16-year-old (Natesh, Rajesh, & Nagendra, 2014) and
+inhibition, working memory, and attention shifting among 7–13-old students (Geronimi, Arellano,
+& Woodruff-Borden, 2020). So far, only a few intervention studies among children and adolescents
+focusing on specific EFs and mindfulness-related benefits have been carried out, showing mixed
+results. Two recent studies among pre-schoolers (4-7-years-old) show that participation in a short
+mindfulness or comparison program did not significantly affect EFs (Leyland, Emerson, & Rowse,
+2018; Wood, Roach, Kearney, & Zabek, 2018). However, in another study, a year-long mindfulness
+induction in curriculum compared to inactive control schools showed improvement in EFs (Cohen’s
+d −.31- − .56). Among school-aged children, there are three studies that include a mindfulness-based
+470 M. LASSANDER ET AL.
+intervention and an active control condition (concentration training, social responsibility program,
+and hatha yoga) (Quach, Jastrowski Mano, & Alexander, 2016; Schonert-Reichl et al., 2015; Wimmer
+et al., 2016), two of these studies include a comprehensive set of neuropsychological measures
+(Schonert-Reichl et al., 2015; Wimmer et al., 2016) and one study has a larger sample size (N > 100)
+(Quach et al., 2016). In mindfulness-based intervention studies with an active control condition, 12-17
+-year-old students showed a significant pre- to posttest improvement in working memory computerized letter span test (partial η2 = .24) (Quach et al., 2016), and 9–11 year olds showed improvements in
+EFs measured by computerized tests (Cohen’s d = – .21- .31) (Schonert-Reichl et al., 2015). In a pilot
+study, 11-year-old students showed improvement in cognitive inhibition and data-driven processing,
+compared to concentration training in separate active and inactive control groups (Wimmer et al.,
+2016). There are currently no studies among children and adolescents, nor adults, with follow-up
+continuing past the immediate post-intervention assessments that would explore the effects of
+a mindfulness-based intervention on EFs.
+With respect to relaxation, there is less evidence of suitable practice and related benefits, although it
+is assumed that the experience of trying out relaxation exercise benefits stress management skills
+(Pawlow & Jones, 2002). Relaxation has often been used as a control intervention when examining the
+effects of mindfulness (Johnson, Gur, David, & Currier, 2015; Lancaster, Klein, & Knightly, 2016).
+Both practices reduce anxiety and may increase positive mood states, but mindfulness-based interventions may also reduce negative reactivity to ruminative thoughts (Feldman, Greeson, & Senville,
+2010; Jain et al., 2007). Rumination, in turn, has been found to be linked to impaired EFs (Philippot &
+Brutoux, 2008).
+The present study is part of the Healthy Learning Mind (HLM)-program, a cluster randomized
+controlled trial (RCT) (N = 3579). Recruitment, randomization procedure, and larger questionnaire
+package are described in the study protocol (Volanen et al., 2016). We examine the effects of mindfulness intervention vs. active control program on a subset of participants focusing on the main EFs
+(working memory, response inhibition, cognitive processing, cognitive flexibility, and verbal fluency)
+measured by neurocognitive measures. We also examine the potential effect of a student’s motivation
+to learn calming skills. The careful planning of an active control program followed the recommendations from previous research (Flook et al., 2010; Meiklejohn et al., 2012) to ensure that a new and
+engaging activity was offered to both groups and to ascertain that any differences were related to the
+program content, not the general level of activity and interaction. Both programs can be broadly
+categorized as school-based socio-emotional learning programs (SEL), with some common elements
+(i.e., psychoeducational content and practice). Furthermore, previous mindfulness intervention studies performed in schools have indicated that an appropriately planned active control group may
+produce a myriad of non-unique improvements, but also some unique effects directly related to the
+intervention (Chiesa & Serretti, 2010). The participants were blinded as to whether they were selected
+to intervention or active control program.
+Based on previous findings, we hypothesize that a mindfulness-based intervention may have
+a positive effect on EFs measured by neurocognitive measures (Flook et al., 2010; Schonert-Reichl
+et al., 2015). The theoretical framework of mindfulness meditation (Lutz et al., 2008) suggests that the
+processes include I) sustaining attention in the moment or on specific sensations; II) detection of mind
+wandering/distraction (i.e., attention monitoring); III) shifting focus back to the moment or object of
+attention; and IV) nonjudgmental appraisal of the mind wandering/distracting events. For example,
+there is some evidence that attentional effort (focus or directing attention) is improved by mindfulness-based training, which may improve the performance in neurocognitive tests (Jensen et al.,
+2012). Considering the sub-domains of EFs, maintaining attention on a specific object, discarding
+distracting stimuli, and shifting attention according to guidance (Hasher, Lustig, & Zacks, 2007;
+Miyake & Friedman, 2012), are essential processes in all core EFs in the present study. Our second
+hypothesis is that an active control program (relaxation) may exert a qualitatively different effect on
+EFs that we can explore, as no evidence-based research is available. Lastly, we hypothesize that the
+DEVELOPMENTAL NEUROPSYCHOLOGY 471
+amount of independent practice and motivation to learn calming skills are related to change in EFs
+(Huppert & Johnson, 2010; Zenner et al., 2014).
+Method
+Participants
+Study data were gathered in 2014–2015. Study participants were 6th graders (median age 12) and 8th
+graders (median age 15) from schools in two cities: Helsinki, in Southern Finland, and Turku in
+Western Finland. There were two comprehensive schools with 67 students in 8th grade from Helsinki
+and two comprehensive schools with 64 students in 6th grade from Turku, one intervention school,
+and one control school from both cities. Students, who were randomized to the intervention group had
+high participation percentage: Out of nine mindfulness lessons, in all, 90% of the students took part in
+7–9 lessons, 5% took part in 6 lessons, and 5% took part in 1–5 lessons.
+Procedure
+The ethical review board of the University of Helsinki (approval 1/2014) reviewed the study plan.
+Written informed consent was requested from all participants and their parents, and the study was
+conducted according to the Helsinki Declaration. Data handling and analyses were performed
+according to the EU General Data Protection Regulation, and personal identification of the participants was removed from all data.
+Table 1. A) Executive functions (EFs) variables and mean changes in
+standardized age-appropriate norms in 6 to 12 months (raw score).
+EF Variable Mean change in 6–12 months
+12 yrs/15 yrs
+Rote memory (RM) 0–2
+Working memory (WM) 0–2
+Response inhibition (RI) 0–3
+Cognitive processing (CP) 0–15/0-7.5
+Cognitive flexibility (CF) 0–4.5/0-6
+Verbal fluency (VF) 0–2,5/0-3
+Table 1. B) Descriptive statistics for Executive functions (EFs) at baseline, 9 weeks, and 6 months for the intervention group (raw
+scores). A higher score indicates better performance for rote memory (RM), working memory (WM) and verbal fluency (VF). A lower
+score indicates better performance for response inhibition (RI), cognitive processing (CP), and cognitive flexibility (CF).
+Intervention group
+EF Variable (actual
+range) Baseline 9 weeks
+Change in
+9 weeks 6 months
+Change in
+6 months
+N Mean (SD) N Mean (SD) Mean
+Effect
+size N Mean (SD) Mean
+Effect
+size
+RM (5–14) 62 7.79 (1.85) 58 7.91 (1.69) 0.12 (1.91) 0.06 59 7.83 (1.88) 0.08 (1.83) 0.04
+WM (4–12) 62 6.68 (1.70) 58 7.02 (1.50) 0.26 (1.43) 0.15 59 6.95 (1.50) 0.24 (1.45) 0.14
+RI (49–150) 58 80.78
+(20.86)
+54 74.46
+(20.26)
+−5.47 (21.90) −0.26 58 72.29
+(18.54)
+−9.19
+(19.80)
+−0.44
+CP (22–194) 62 77.79
+(31.62)
+55 66.64
+(22.15)
+−10.38 (24.46) −0.33 58 58.60
+(18.04)
+−19.95
+(24.41)
+−0.63
+CF (19–216) 61 94.00
+(36.84)
+55 75.29
+(33.57)
+−17.55 (38.17) −0.48 58 71.76
+(27.29)
+−22.14
+(37.92)
+−0.60
+VF (34–149) 61 65.72
+(18.85)
+58 69.78
+(19.31)
+3.88 (11.52) 0.21 52 70.29
+(16.52)
+5.36 (13.32) 0.28
+472 M. LASSANDER ET AL.
+First, the schools were divided into three groups based on school location and the average
+apartment price per square meter, to account for socioeconomic differences, and then randomly
+assigned (by random allocation sequence) to mindfulness intervention school and active control
+schools. The participating schools were randomly selected to be intervention or control schools, and
+all students from the selected grades were asked to participate in an intensive research protocol,
+including neurocognitive and psychophysiological testing. Of the 194 invited students, 131 (68%)
+agreed to participate in the intervention/active control sessions, neurocognitive testing, and filling in
+the research questionnaire in the chosen four schools. The final sample size varied between 58 and 62
+in the intervention group (56.5% girls) and between 66 and 69 in the control group (44.9% girls),
+depending on the test taken (for descriptive analysis please see Table 1b-c). At 9 weeks after baseline
+four students from the intervention group and 11 students from the control group were absent from
+school. Three participating students decided to drop out 6 months after the baseline data collection
+from the control group. For participant flow please see Figure 1.
+In the questionnaires, there was a considerable amount of missing values: in this study, these items
+include students’ subjective financial wellbeing (SFW), motivation to learn calming skills at 9 weeks, and
+independent practice at 9 weeks and at 6 months. The response rates for SFW were 51 (82%) and 52
+(75%), in the intervention group and active control group, respectively. The response rates for motivation to learn calming skills were 48 (77%) and 50 (72%), in the intervention group and active control
+group, respectively. The response rates for independent practices were 41 (59%) and 42 (77%), in the
+intervention group and active control group, respectively. The values were missing at random due to
+absence from the classroom at a particular testing period and thereby excluded from the analysis.
+Both the intervention and the active control group were taught by trained facilitators (.b Teacher
+Training and training in Relax-curriculum) who were not school staff or classroom teachers by
+profession. They were all experienced in guiding meditation and relaxation exercises to children
+and youth. Facilitators took part in a teacher training sessions at the beginning of the study, where they
+were assessed for delivering a consistent and manual-based curriculum. Fidelity to curricula was
+emphasized to minimize similarities between intervention and active control programs. Each group in
+this study had a different facilitator. The similarities of the intervention (.b) and active control
+program (Relax) are the dose, structure of lessons, and a general focus on wellbeing. There is, however,
+a fundamental difference in how these programs aim to enhance the student wellbeing. The intervention program aims to build the skills and practices to engage with thoughts and emotions in a mindful
+way, whereas the active control program takes a more instructive approach, providing psychoeducation and tools to relax, and calm down.
+Table 1. C) Descriptive statistics for executive functions (EFs) at baseline, 9 weeks, and 6 months for the active control group.
+A higher score indicates better performance for rote memory (RM), working memory (WM), and verbal fluency (VF). A lower score
+indicates better performance for response inhibition (RI), cognitive processing (CP), and cognitive flexibility (CF) (raw scores).
+Active control group
+EF Variable (actual
+range) Baseline 9 weeks
+Change in
+9 w 6 months
+Change in
+6 m
+N Mean (SD) N Mean (SD) Mean
+Effect
+size N Mean (SD) Mean
+Effect
+size
+RM (4–14) 68 7.59 (1.58) 59 7.39 (1.49) −0.19 (1.36) −0.12 56 7.59 (1.54) −0.20 (1.52) −0.13
+WM (4–13) 68 6.93 (1.65) 59 6.83 (1.66) −0.03 (1.61) −0.02 56 7.21 (1.91) 0.15 (1.89) 0.09
+RI (42–15)2 66 79.12
+(18.64)
+59 67.83
+(12.92)
+−10.00
+(13.72)
+−0.54 56 64.09
+(16.48)
+−13.57
+(18.83)
+−0.73
+CP (28–147) 68 71.85
+(23.81)
+58 59.55
+(15.45)
+−12.26
+(16.55)
+−0.51 56 55.91
+(18.80)
+−16.76
+(20.44)
+−0.70
+CF (37–195) 69 88.30
+(30.48)
+59 69.97
+(19.89)
+−17.49
+(32.09)
+−0.57 56 68.07
+(21.01)
+−19.02
+(27.56)
+−0.62
+VF (39–130) 69 68.22
+(15.23)
+55 71.98
+(16.01)
+3.56 (11.62) 0.23 54 74.46
+(14.80)
+5.28 (10.29) 0.35
+DEVELOPMENTAL NEUROPSYCHOLOGY 473
+First, before the intervention phase, participants were individually tested with selected neurocognitive measures (working memory, response inhibition, cognitive processing, cognitive flexibility, and
+verbal fluency), which took 1–1.5 h in total. Three students were tested at the same time, in the same
+space but on separate working stations, they were able to hear murmur but not to discern words from
+Figure 1.
+474 M. LASSANDER ET AL.
+other working stations. Tests were conducted by trained psychology students. Then, both the intervention and the active control group took part in a 9-week program “Skills for Wellbeing” during
+regular school hours. The program consisted of weekly 45 min long group sessions (group size 20–25
+students) at school and 1–15 min of daily home practices.
+In schools randomly selected for the intervention, the participants were taught the mindfulnessbased intervention curriculum .b (Stop & Breathe) (Kuyken et al., 2013) which consists of 9 group
+sessions (45 min) and mindfulness practices designed to improve emotional awareness, sustained
+attention, and attentional and emotional regulation. Sessions started with a psychoeducational introduction to the themed lesson, including short formal or informal practices, group discussion, and
+ending with a longer practice. Mindfulness home practices were available to download from the course
+website (Volanen et al., 2016).
+In schools randomly selected for the active relaxation control group, the participants were taught
+“Relax,” a program based on Chilla by Folkhälsan Förbundet (www.folkhalsan.fi/barn/professionella/
+lilla-chilla/). The program was adapted to a similar format as the intervention, 9 weekly sessions for
+45 min, and aimed to produce relaxation skills and holistic wellbeing. The sessions consisted of
+a psychoeducational presentations relating to wellbeing (e.g., stress, sleep, nutrition), relaxation
+exercises (e.g., progressive muscle relaxation, calming breath imagery and visualization), pair and
+group discussions, and group assignments. Relaxation practices were available online to listen at home
+(Volanen et al., 2016).
+In the second phase, 9 weeks after the baseline data collection, participants were tested with the
+same protocol during their school-day and the same procedure was conducted in the third phase,
+6 months after the baseline data collection. The testing environment was in the school premises where
+the normal noise and pace of the school-day were present, offering a realistic picture of the performance in school conditions.
+Measures
+Measures were chosen based on the following criteria: 1) the tests required active attentional control; 2)
+the tests were well-established EF measures in clinical use; 3) the tests and instructions were simple, to
+reduce the learning effect, and to allow for repeated administration (Dehn, 2008), p. 4) the tests ranged
+from simple motor control to conditions to tasks of high cognitive demands, with multiple codings,
+such as time and accuracy (McCaffrey, Duff, & Westervelt, 2000).
+Working memory capacity, ability to hold and manipulate new information in the short-term
+memory was assessed by Working Memory Index (WMI) backward digit span subtest from the WISCIV (Wechsler Intelligence Scale for Children), a widely used standardized assessment of working
+memory capacity in children (Wechsler, 1991). The test included also a rote memory measurement,
+forward digit span subtest. A higher score reflects better performance in a given time.
+Response inhibition, the ability to inhibit and switch response types was measured with a test from
+the NEPSY-II (Developmental Neuropsychological Assessment). NEPSY-II is a series of standardized
+neuropsychological tests, used to assess neuropsychological development in children (Korkmann,
+Kirk, & Kemp, 2007). Inhibition A (shapes) is a timed subtest designed to assess the ability to inhibit
+automatic responses in favor of novel responses and the ability to switch between different response
+types. As this is a timed task, a lower score reflects better performance.
+Cognitive flexibility and processing were assessed with the Trail Making test from D-KEFS (Delis–
+Kaplan Executive Function System), a set of neuropsychological tests used to measure a variety of verbal
+and non-verbal EFs (Delis, Kaplan, & Kramer, 2001). The Trail Making test is a visual-motor sequencing
+task and consists of five conditions. The primary EF task is the number-letter switching that requires
+visual-motor sequencing (cognitive flexibility). The other four conditions provide information of several
+key component processes, including visual scanning, number sequencing, letter sequencing, and motor
+speed (cognitive processing). As these are timed tasks, a lower score reflects better performance.
+DEVELOPMENTAL NEUROPSYCHOLOGY 475
+Verbal fluency, meaning letter, category, and category switching fluency was also tested with
+a D-KEFS subtest (Delis et al., 2001). For the letter fluency condition, the student was asked to
+come up with words that begin with a specified letter as quickly as possible in three trials, 1 min each.
+In the category fluency condition, the student was asked to say words that belong to a specified
+Table 2. Results of repeated measure ANOVA: intervention effects on executive functions.
+Executive functions Estimate (β) Standard Error
+Significance
+p
+Rote memory Group, Intervention vs. control .364 .243 .137
+Gender, girls vs. boys −.334 .242 .170
+Grade, 6 vs. 8 −.427 .240 .078
+Time .913
+9 weeks vs. baseline −.058 .149 .892
+6 month vs. baseline −.011 .155 .997
+Time x Group .595
+9 weeks vs. baseline .296 .298 .323
+6 month vs. baseline .103 .311 .740
+Working memory Intervention vs. control −.133 .248 .594
+Gender, girls vs boys .151 .247 .542
+Grade, 6 vs 8 −.149 .246 .546
+Time .302
+9 weeks vs. baseline .112 .137 .627
+6 month vs. baseline .238 .153 .212
+Time x Intervention .393
+9 weeks vs. baseline .351 .274 .204
+6 month vs. baseline .065 .306 .831
+Response inhibition Intervention vs. control 5,395 2.637 .043
+Gender, girls vs. boys −2.811 2.611 .284
+Grade, 6 vs 8 .778 2.595 .764
+Time <.0001
+9 weeks vs. baseline −8.395 1,719 <.0001
+6 month vs. baseline −11.649 1,777 <.0001
+Time x Intervention .254
+9 weeks vs. baseline 4.469 3,439 .196
+6 month vs. baseline 5.599 3,555 .118
+Cognitive processing Intervention vs. control 5.501 3.391 .107
+Gender, girls vs. boys −2.425 3.038 .426
+Grade, 6 vs. 8 2.185 3.022 .471
+Time <.0001
+9 weeks vs. baseline −11.555 1.907 <.0001
+6 month vs. baseline −18.172 1.983 <.0001
+Time x Intervention .278
+9 weeks vs. baseline 2.270 3.814 .553
+6 month vs. baseline −2.804 3.967 .481
+Cognitive flexibility Intervention vs. control 5.408 3.901 .172
+Gender, girls vs. boys −4.432 3.812 .247
+Grade, 6 vs. 8 3.965 3.792 .298
+Time <.0001
+9 weeks vs. baseline −17.795 3.128 <.0001
+6 month vs. baseline −21.046 2.931 <.0001
+Time x Intervention .919
+9 weeks vs. baseline −.756 6.256 .904
+6 month vs. baseline −2.266 5.864 .700
+Verbal Fluency Intervention vs. control −3.196 2.540 .211
+Gender, girls vs. boys 3.596 2.514 .155
+Grade, 6 vs. 8 −11.205 2.503 <.0001
+Time <.0001
+9 weeks vs. baseline 3.718 1.077 .002
+6 month vs. baseline 5.169 1.131 <.0001
+Time x Intervention .932
+9 weeks vs. baseline .310 2.154 .886
+6 month vs. baseline −.638 2.262 .778
+This is a well-written and interesting report on the effects of a mindfulness model (.b) curriculum for youth in Finland. The authors
+have done an excellent job of responding to the reviews and further qualifying the findings.
+476 M. LASSANDER ET AL.
+category in two trials and in category switching to alternate between saying words from two different
+categories, for 1 min. A higher score reflects better performance in a given time.
+Questionnaires and other tests were completed as a part of the RCT in 2014–15 and they included
+baseline demographic data: grade, gender, and subjective financial wellbeing (SFW). Questionnaires
+were filled in at baseline, 9 weeks and 6 months during the normal school hours. Students’ family SFW
+was considered in the main analyses as a potential confounder. The association between SES and EFs
+in childhood is well-known (Hackman, Farah, & Meaney, 2010; Sarsour et al., 2011) but confounded
+by many factors (Cooper & Stewart, 2013). In this study, SES was measured as subjective financial
+well-being, which is known to have a considerable impact on wellbeing in general (Bruggen, Hogreve,
+Holmlund, Kabadayi, & Löfgren, 2017). Research also indicates that 11–15 old children and adolescents are able to report material conditions in their family (Currie, Elton, Todd, & Platt, 1997). The
+question “what do think about the financial situation in your family” was measured by four response
+categories: 46.6% were in the income group 1 (does very well financially), 35.9% in group 2 (does
+moderately well), 14.6% in the group 3 (does not very well) and 2.9% in group 4 (does not at all well
+financially). There were no significant differences at baseline between the intervention and active
+control group on SFW. On the school district level the schools were matched for equal socio-economic
+catchment areas as a part of the randomization protocol.
+The association between motivation and EFs has been modelled with the ‘dual competition’
+framework, proposing that emotion and motivation affect both perceptual and executive competition
+and can impair or enhance behavioral performance. In other words, motivation may increase the
+salience of observed content, and thus facilitate prompt reaction (Pessoa, 2009). In order to test this
+association, motivation to learn calming skills was included in the questionnaire at 9 weeks (Statement:
+I would like to learn to relax and to calm my own mind better. Alternatives: ‘disagree,’ ‘disagree a little,’
+neither agree nor disagree,’ ‘agree on a little,’ ‘agree’).
+The 9 weeks and 6 months follow-up questionnaires included questions about an independent
+practice that was created for the purposes of the research project (Table 2).
+Data analysis
+A two-sample t-test was used to test the baseline differences in EFs between intervention and active
+control groups. Raw scores were used for all test measures. The intervention effects on the working
+memory, response inhibition cognitive processing and flexibility, and verbal fluency were analyzed
+with repeated measures analysis of variance. The unstructured covariance structure was used to
+account for the correlation between repeated measurements. The repeated measures model included
+the main effects of group (intervention vs control), gender (girls vs. boys), grade (grade 6 vs. 8) and
+time (9 weeks vs. baseline, 6 months vs. baseline) and the interaction effect between group and time
+(group × time effect). The follow-up measurements were compared to the baseline with Dunnett’s
+adjustment in pairwise comparisons. To examine the modifying effect of gender and grade on the
+intervention effectiveness, the intervention effect gender/grade × group × time was included in the
+model. Restricted maximum likelihood estimation (the MIXED procedure in SAS) was used for
+handling missing data in repeated measures models. The level of practice and the difference in the
+change in EFs by the level of practice were analyzed with a two-way analysis of variance. Correlations
+between EFs were calculated using Pearson correlation coefficients. Statistical analysis was performed
+with SAS for Windows (version 9.4, SAS Institute Inc., Cary, NC). Two-sided statistical tests with .05
+levels of significance were used, and no adjustments for multiple testing were done.
+DEVELOPMENTAL NEUROPSYCHOLOGY 477
+Results
+Descriptive statistics
+Descriptive statistics for EFs at baseline, 9 weeks, and 6 months for all students are shown in Table 1
+b-c. There were no significant differences between the intervention and active control groups on any of
+the study variables at baseline. Neither was significant differences at 9 weeks between the intervention
+and active control group in motivation detected. Multivariate outliers (7) were detected with
+Mahalanobis distance but not removed as the variability in measurement was estimated possible
+(for a full range of variation please see Supplemental Figure S1).
+Correlations between executive functions
+Correlations between EFs by the group at baseline and at 6 months are presented in Supplementary
+Tables S2a and S2b online. Most of the EFs correlated with each other but there were no significant
+correlations that would have applied to both intervention and active control group. However, while
+the correlations at baseline are remarkably similar in both the intervention and active control
+group, there are some differences between groups when the correlations of 6 month changes in
+variables are examined. In the intervention group, change in cognitive processing correlates
+negatively with working memory (−.34) and there is a positive correlation with the change in
+response inhibition and cognitive flexibility (.31), as well as cognitive processing, and cognitive
+flexibility (.31). In the active control group change in cognitive flexibility correlates only with verbal
+fluency (.41).
+Intervention effects on executive functions
+Table 2 shows the results of Intervention effects on EFs adjusted for age and gender. None of the
+interaction effects between group (mindfulness-based intervention vs. active control program) and
+time on EFs were significant indicating that any of the changes during the 9 weeks and 6 month followups were not different between study groups. The analyses indicated a similar significant improvement
+in response inhibition, cognitive processing, cognitive flexibility, and verbal fluency in both intervention and active control groups at 9 weeks and at 6 months compared to baseline (p-values < .002 for all
+associations). The corresponding changes in rote memory (p = .913) and working memory (p = .302)
+were not observed. Gender or grade did not modify the effects of the intervention on EFs, i.e., no
+significant gender/grade × group × time interactions were detected. There was a significant effect of
+group for response inhibition (p = .043) and of grade for verbal fluency (p < .0001).
+Intervention effects of independent practice
+Descriptive statistics for different levels of independent practice are shown in Supplementary Table S3
+available online. After 9 weeks of training, 41 intervention and 42 control group participants
+responded to questions about the independent practice. The respondents were divided into three
+groups: high frequency practice (once a week or nearly every day: intervention N = 13, active control
+N = 14), moderate frequency practice (once or twice a month: intervention N = 6, active control N = 6)
+and infrequent practice (once or twice or not at all: intervention N = 22, active control N = 22). The
+effect of independent practice was not significant, i.e., the level of practice did not affect the changes in
+EFs. At 6 months follow up 35 intervention and 22 control group participants answered the questions
+about the home practice, and again there was no effect on EFs. There were no significant findings
+involving gender.
+478 M. LASSANDER ET AL.
+Discussion
+This study examined whether a mindfulness-based intervention program has a unique effect on core
+EFs (working memory, response inhibition, cognitive processing, and flexibility, verbal fluency)
+among 12 and 15 – year-old students. This study also included a follow-up continuing past the
+immediate post-intervention assessments exploring the effects of a mindfulness-based intervention on
+EFs, involving all the main elements of EFs and comparing the outcomes of the intervention with an
+active control group. Our results indicate that a mindfulness-based intervention and relaxation-based
+active control program do not differ in their impact on EFs.
+Mindfulness and relaxation have a similar impact on executive functions
+Our first hypothesis was that mindfulness-based interventions would have an effect on EF-related
+neurocognitive skills (Flook et al., 2010; Schonert-Reichl et al., 2015). The hypothesis was not
+confirmed as mindfulness and relaxation proved to have a similar impact. Our aim was also to better
+understand the mechanisms of intervening processes that may have an effect on learning and cognitive
+performance and our results indicate that the overall effect on EFs may be produced by interventions
+with some common characteristics. We found that there were significant improvements in response
+inhibition, cognitive processing, cognitive flexibility, and verbal fluency and results continued to
+improve at the 6-month follow up.
+The results were compared with the standardized age-appropriate norms and mean changes in
+participant scores were above the expected compared to the age norms. Standard norm scores indicate
+modest improvement due to a maturation effect in 6 months’ time, whereas there was a noticeable
+improvement in the participants’ scores. The norms for WISC and Trail Making test are from
+12 months score tables, and for NEPSY-II from 6 months score tables. As these tests were conducted
+in a more intrusive environment the results are not fully comparable to standardized psychological
+testing, but they help to estimate the significance of the change in test variables in raw scores (Table 1ac). The results were above the expected compared to the age norms for all tests except for working
+memory, where the change was within the expected range 0–2 (Wechsler, 1991) (0.20–0.08 points for
+rote memory and 0.15–0.24 points for working memory). In all other measures, where standard norm
+scores predict modest improvement due to maturation in 6 months’ time, there was a noticeable
+improvement in the participants’ scores. The expected change in 6 months (for 12/15 years old,
+respectively) in response inhibition is 0–3/0-3 points (Korkmann et al., 2007) compared to 9.19–13.57
+point improvement in our results. The expected change in 6 months for cognitive processing is 0–15/
+0-7.5 points (Delis et al., 2001) compared to 16.76–19.95 point improvement in our results. The
+expected change in cognitive flexibility is 0–4.5/0-6 points (Delis et al., 2001) compared to 19.02–22.14
+point improvement in our results. In verbal fluency, the expected change is 0–2.5/0-3 points (Delis
+et al., 2001) compared to 5.28–5.36 point improvement in our study (Table 1a-c). This suggests that
+the change may not be solely due to the maturation effect. However, considering the lack of an inactive
+control group, we propose that further research is needed to analyze the effects and the effect sizes of
+similar programs for cognitive functioning.
+It is also noteworthy that a significant improvement took place in all timed and speed-related tasks.
+This outcome replicates previous findings (Zeidan et al., 2010) of cognitive improvement in similar
+neurocognitive tests among adults after only 4 days of mindfulness-based intervention sessions. The
+improvements observed in timed tasks (response inhibition, cognitive processing, cognitive flexibility,
+and verbal fluency) could be attributed to better attentional control, although they were not directly
+related to the amount of independent practice. It is possible that the training, be its mindfulness or
+relaxation-based, will contribute to maintaining the attentional focus and facilitating faster performance. However, it can be also due to increased attentional effort and not to attentional abilities
+(Jensen et al., 2012).
+DEVELOPMENTAL NEUROPSYCHOLOGY 479
+There are many possible mechanisms that may explain the similar impact of the intervention
+and active control programs on the majority of test measures. First, research has indicated that
+self-motivated silence in schools (meditation, silent pauses, quiet spaces) benefits cognitive
+performance (Lees, 2013). In this study, silent moments were included in both the intervention
+and in the active control group lessons. Second, mindfulness and relaxation both reduce stress and
+anxiety (Lancaster et al., 2016), which have been linked to better use of cognitive abilities
+(Beauchemin et al., 2008). Third, opportunities for positive social interaction and support
+(group work and discussions, practicing together) have also been linked to a better group atmosphere, decreased stress, and better performance (Durlak, Weissbeg, Dymnicki, Taylor, &
+Schellinger, 2011).
+The only variable that did not improve during the follow-up period was working memory, which
+gives contrary evidence to previous studies (Quach et al., 2016). However, the 6 months change in
+working memory correlated negatively with cognitive flexibility in the intervention group which
+indicates that better working memory capacity (higher score) correlates with better performance in
+cognitive flexibility tasks (lower score). This effect was not observed in the active control group. In the
+present study, the level of independent practice in both the intervention and active control group was
+fairly low, which may have impacted the results. We also lack evidence of how different levels of
+mindfulness practice impact cognitive functions among children. Studies with adults suggest that it
+may require frequent and consistent practice to produce a significant improvement in working
+memory (Jha et al., 2010). It is also important to note that any improvements in working memory
+are difficult to achieve, which has been shown by many working memory-training programs
+(Hitchcock & Westwell, 2016). Considering these results, it is possible that the change in working
+memory requires more practice and also a larger sample to detect the process effects.
+Similarity of mindfulness and relaxation effects on executive functions
+Our results indicate that there were no qualitative differences in EFs between the mindfulnessbased intervention group and relaxation-based active control group, which was against our second
+hypothesis. However, the correlations between variables are somewhat different between the
+groups: at baseline, there are universally strong positive correlations between response inhibition,
+cognitive processing, cognitive flexibility, and verbal fluency. After 6 months in the intervention
+group, the enhancement in cognitive flexibility was associated with an enhancement in response
+inhibition, cognitive processing, and working memory, whereas in the control group there was no
+similar effect. A different effect of change at follow-up was observed for verbal fluency, which
+seemed to correlate negatively with cognitive processing in the active control group but positively
+with working memory in the intervention group (both improved in scores). These different
+patterns of correlation suggest some differential training effects that are not necessarily apparent
+in the total scores of neurocognitive measures but with additional training might prove useful.
+However, as there were more significant correlations for the intervention group at baseline
+compared to the control group, this may have contributed to significant correlations after the
+6 months for the intervention group and none for the control group. It is also possible that
+cognitive flexibility is one of the core EFs that has a wider impact on other functions, but the
+benefits would require booster lessons or more independent/regular practice to impact the scores
+(Moore & Malinowski, 2009).
+Independent practice and executive functions
+Our results indicate that the amount of student’s independent practice or motivation to learn calming
+skills was not directly related to the changes in neurocognitive skills in terms of EFs between baseline
+and follow-ups. The results are against our third hypothesis. However, the lack of associations may be
+explained by the low level of independent practice and missing answers relating to practice. The
+480 M. LASSANDER ET AL.
+relationship between mindfulness benefits and more frequent practice (e.g., ideal length) is also
+complex and requires further research (Volanen et al., 2020). We also assumed that the motivation
+to learn the content of the intervention program, i.e., calming one’s own mind would be related to
+outcomes at 9 weeks (Pessoa, 2009), but this was not the case. It is of course possible that the initial
+motivation has strengthened or weakened during the program, so in further studies, it could be helpful
+to measure the level of motivation throughout the process.
+Limitations and future research
+There are some limitations that should be taken into account in interpreting the findings of this study.
+First of all, due to practical challenges, we did not have an inactive control group in this study that
+would have benefitted the research design. However, we compared the results with standardized
+norms for this age-group to find out if the overall improvement in scores was more likely to be due to
+program content or to nonspecific effects. Higher baseline levels of cognitive functioning may result in
+ceiling effects and less evident benefits (Flook et al., 2010). As the baseline level of neurocognitive
+functioning among participants was average or above and the standard deviation in all measures was
+low, the sample is representative of students with fairly good EFs and not directly transferable to
+clinical populations.
+The intensive testing procedure limited the number of participants, and the missing responses have
+further reduced the sample when considering independent practice and motivation to learn calming
+skills. It is likely that the respondents that had performed more independent practice were also more
+inclined to answer the questions. Therefore, the modifying effect of independent practice cannot be
+conclusively determined in this sample.
+In most psycho-educative interventions, both nonspecific and specific factors influence the outcome. As there was no difference between the intervention and active control groups, the nonspecific
+effects are likely to impact the scores, including the maturation process and learning in general. Also,
+some nonspecific effects of school-based interventions, e.g., interaction, interest, and attention are
+valuable parts of the intervention itself that we should acknowledge when we study intervention
+mechanisms (Donovan, Kwekkeboom, Rosenzweig, & Ward, 2009). We also note that a 9-week
+intervention may not be sufficiently long to bring on significant improvements.
+The strengths of this study are related to a strong study design. To the best of our knowledge, this was
+the first study in the field to include a follow-up past the immediate post-intervention assessments: the
+study involved all the main elements of EFs, a comprehensive set of objective neurocognitive measures
+and addressed the specific neuropsychological outcomes of mindfulness-based intervention compared
+with a similar intervention to differentiate between general and specific intervention-related benefits for
+EFs. We have focussed on measuring the neurocognitive facets of EFs, and not on evaluating EFs by
+rating scales, which give a valuable information of real-world functional outcomes (Barkley & Fischer,
+2011) but are susceptible to confounding. The study sample was large compared to previous studies and
+the participants were blinded as to whether they were selected to intervention or active control program.
+The study sample comprised a universal student population, and therefore applicable to the general
+school context. The testing procedure was also conducted in a normal school environment (not
+laboratory conditions) and therefore more applicable to executive functioning in educational settings.
+Conclusions
+Our study indicated that both mindfulness-based intervention (.b) and a relaxation-based active
+control program (Relax) have a similar effect on core EFs, although the correlational analysis offers
+some indication of diverging pathways. There seems to be some improvement compared to standardized age norms, but further research including an inactive control group is needed to determine if the
+effect is due to the intervention, maturation, or learning. We suggest that socio-emotional learning
+programs that incorporate the core elements of mindfulness and relaxation might be useful in
+DEVELOPMENTAL NEUROPSYCHOLOGY 481
+enhancing EFs, especially as these skills are fairly resistant to significant change. Considering the
+complex neuro-developmental processes of and previous-mixed findings in different age-groups, we
+would be cautious of drawing conclusions and suggest that the present study is the first step to
+demonstrate the importance of an active control group and should lead to randomized controlled
+trials with innovative research designs. There may be potential benefits through these universal
+interventions that are not linked to specific program content. Further research should offer guidance
+on how to build an evidence-based curriculum that gives optimal support for learning, problemsolving and flexible thinking.
+
